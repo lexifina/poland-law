@@ -1,0 +1,3 @@
+W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 21 listopada 1995 r., sygn. K 12/95 i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470, z 1993 r. Nr 47, poz. 213, z 1994 r. Nr 122, poz. 593 i z 1995 r. Nr 13, poz. 59) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. (Dz. U. Nr 105, poz. 481) ogłaszam utratę mocy obowiązującej art. 86 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 1995 r. Nr 13, poz. 59) w części dotyczącej pracowników nadzorujących lub wykonujących czynności kontrolne.
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
