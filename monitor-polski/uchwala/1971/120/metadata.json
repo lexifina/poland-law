@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1971/120",
+ "source_sha256": "e33845a412a5a3bb325062ba8cfd507f41e149e3628fa8480f01a42474eac29a",
+ "in_force": "1971-03-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1971/120",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1971/120/text/O/M19710120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1971/120/text/I/M19710120.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1971/120",
+  "publisher": "MP",
+  "year": 1971,
+  "volume": 17,
+  "pos": 120,
+  "address": "WMP19710170120",
+  "displayAddress": "M.P. 1971 nr 17 poz. 120",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 19 marca 1971 r. w sprawie zmiany narodowego planu gospodarczego na 1971 r.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-03-19",
+  "entryIntoForce": "1971-03-19",
+  "validFrom": "1971-03-19",
+  "repealDate": "1971-12-31",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1971/120",
+     "date": "1971-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1970/327",
+     "date": "1971-03-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1970/327"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1971/120",
+     "date": "1971-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19710120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19710120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
