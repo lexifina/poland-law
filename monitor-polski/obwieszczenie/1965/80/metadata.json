@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/80",
+ "source_sha256": "466de27d6a0be7f1eaad69091917a0cede67b833420705b65d7f2a7427490268",
+ "in_force": "1965-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/80/text/O/M19650080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/80/text/I/M19650080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/80",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 18,
+  "pos": 80,
+  "address": "WMP19650180080",
+  "displayAddress": "M.P. 1965 nr 18 poz. 80",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 kwietnia 1965 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-04-01",
+  "entryIntoForce": "1965-04-01",
+  "validFrom": "1965-04-01",
+  "repealDate": "1965-05-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/101",
+     "date": "1965-05-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1965/42",
+     "date": "1965-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
