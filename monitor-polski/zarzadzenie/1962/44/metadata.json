@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/44",
+ "source_sha256": "601898477c3f527bf38e9ef14686ab16a8018a2c1f4493a1c7933d83be71f36f",
+ "in_force": "1962-02-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/44/text/O/M19620044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/44/text/I/M19620044.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/44",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 12,
+  "pos": 44,
+  "address": "WMP19620120044",
+  "displayAddress": "M.P. 1962 nr 12 poz. 44",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 30 grudnia 1961 r. w sprawie ustalenia wysokości nakładów inwestycyjnych, zniszczeń i ubytków w opuszczonych gospodarstwach rolnych, przejętych na własność Państwa.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-12-30",
+  "entryIntoForce": "1962-02-09",
+  "validFrom": "1962-02-09",
+  "changeDate": "2020-09-28T14:06:05",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1956/1009",
+     "date": "1962-02-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/198"
+    },
+    {
+     "id": "DU/1955/107"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/198",
+     "art": "par. 4 ust. 3"
+    },
+    {
+     "id": "DU/1961/198",
+     "art": "par. 5 ust. 2"
+    },
+    {
+     "id": "DU/1955/107",
+     "art": "art. 2 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620044.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
