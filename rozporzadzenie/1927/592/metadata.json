@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/592",
+ "source_sha256": "20462b30bacd530c551bd0a5b21e43c2eb94ecab0209532fa03787689e452304",
+ "in_force": "1927-07-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/592",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/592/text/O/D19270592.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/592/text/I/D19270592.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/592",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 67,
+  "pos": 592,
+  "address": "WDU19270670592",
+  "displayAddress": "Dz.U. 1927 nr 67 poz. 592",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 15 lipca 1927 r. zmieniające i uzupełniające postanowienia ustawy z dnia 1 lipca 1926 r. o stosunkach służbowych nauczycieli.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-07-15",
+  "entryIntoForce": "1927-07-30",
+  "validFrom": "1927-07-06",
+  "repealDate": "1956-05-08",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1956/63",
+     "date": "1956-05-08"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1928/462"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1926/530",
+     "date": "1927-07-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270592.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270592.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
