@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/602",
+ "source_sha256": "555bacc1cc88e922eeb811290df41d9667fea90e805cf0cf8720afbeee5a2e95",
+ "in_force": "1999-07-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/602",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/602/text/O/D19990602.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/602/text/I/D19990602.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/602/text/T/D19990602L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/602",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 57,
+  "pos": 602,
+  "address": "WDU19990570602",
+  "displayAddress": "Dz.U. 1999 nr 57 poz. 602",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 11 czerwca 1999 r. zmieniające rozporządzenie w sprawie okresów przechowywania i warunków niszczenia akt spraw sądowych lub przekazywania ich archiwom państwowym.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-11",
+  "entryIntoForce": "1999-07-10",
+  "validFrom": "1999-07-10",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "rejestr zastawów",
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/150",
+     "date": "1999-07-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/137"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/137",
+     "art": "art. 37 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990602.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990602.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990602L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
