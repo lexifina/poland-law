@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/2048",
+ "source_sha256": "6bf42a21ef14d683c7b1df19b6e616b3a5116ab643ce28f3b58a36a4d804d506",
+ "in_force": "2003-12-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 233 words, parsed 48; at 48: 'prostuje się następujące błędy : 1 ) w ustawie z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/2048",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/2048/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/2048/text/O/D20032048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/2048/text/I/D20032048.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/2048",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 210,
+  "pos": 2048,
+  "address": "WDU20032102048",
+  "displayAddress": "Dz.U. 2003 nr 210 poz. 2048",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 28 listopada 2003 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-11-28",
+  "promulgation": "2003-12-11",
+  "changeDate": "2024-03-15T09:51:56",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rybactwo śródlądowe",
+   "sprostowanie",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2003/1766"
+    },
+    {
+     "id": "DU/2003/1765"
+    },
+    {
+     "id": "DU/2003/1609"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20032048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20032048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
