@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/376",
+ "source_sha256": "4e39a5c69212c12d22443ebc764d4009860a260b28e3b74f2ad449ad2e518c71",
+ "in_force": "1963-10-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/376",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/376/text/O/M19630376.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/376/text/I/M19630376.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/376",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 76,
+  "pos": 376,
+  "address": "WMP19630760376",
+  "displayAddress": "M.P. 1963 nr 76 poz. 376",
+  "title": "Zarządzenie Ministra Finansów z dnia 2 października 1963 r. w sprawie zezwolenia na niektóre czynności obrotu wartościami dewizowymi związane z realizacją uprawnień z wynalazków.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-10-02",
+  "entryIntoForce": "1963-10-11",
+  "validFrom": "1963-10-11",
+  "repealDate": "1973-08-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/184",
+     "date": "1973-08-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1968/271",
+     "date": "1968-09-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 10 ust. 1"
+    },
+    {
+     "id": "DU/1952/133",
+     "art": "art. 9 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630376.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630376.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
