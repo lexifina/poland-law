@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1985/30",
+ "source_sha256": "85e797a2a3af97fc4829358f179c2dbe7833252a54a1ddb3e32a334ee1d51728",
+ "in_force": "1985-03-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1985/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1985/30/text/O/M19850030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1985/30/text/I/M19850030.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1985/30",
+  "publisher": "MP",
+  "year": 1985,
+  "volume": 4,
+  "pos": 30,
+  "address": "WMP19850040030",
+  "displayAddress": "M.P. 1985 nr 4 poz. 30",
+  "title": "Uchwała nr 24 Rady Ministrów z dnia 25 lutego 1985 r. w sprawie zniesienia reglamentowanej sprzedaży niektórych towarów.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1985-02-25",
+  "entryIntoForce": "1985-03-08",
+  "validFrom": "1985-03-04",
+  "repealDate": "1986-01-01",
+  "changeDate": "2023-06-19T15:06:36",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. HANDLU WEWNĘTRZNEGO I USŁUG"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "towar",
+   "sprzedaż"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1985/300",
+     "date": "1986-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1983/250",
+     "date": "1985-03-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1983/318"
+    },
+    {
+     "id": "DU/1982/51"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/51",
+     "art": "art. 33 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19850030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19850030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
