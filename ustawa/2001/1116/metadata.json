@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1116",
+ "source_sha256": "df6e16b56736c12293de08938b03857a6e6faeed8d434b587370bd895b4f95c3",
+ "in_force": "2002-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1116",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1116/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1116/text/O/D20011116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1116/text/I/D20011116.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1116/text/T/D20011116L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1116",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 102,
+  "pos": 1116,
+  "address": "WDU20011021116",
+  "displayAddress": "Dz.U. 2001 nr 102 poz. 1116",
+  "title": "Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy o finansach publicznych, ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działaniach administracji rządowej oraz ustawy o służbie cywilnej.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-07-27",
+  "promulgation": "2001-09-21",
+  "entryIntoForce": "2002-01-01",
+  "validFrom": "2002-01-01",
+  "changeDate": "2024-03-15T09:58:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. FINANSÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna",
+   "egzaminy",
+   "ministrowie",
+   "finanse publiczne",
+   "kontrola finansowa",
+   "administracja rządowa",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2914.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2914",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2914",
+    "number": "2914",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2006/1218",
+     "date": "2006-10-27"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/483",
+     "date": "2002-01-01"
+    },
+    {
+     "id": "DU/1998/1014",
+     "date": "2002-01-01"
+    },
+    {
+     "id": "DU/1997/943",
+     "date": "2002-01-01"
+    },
+    {
+     "id": "DU/1996/492",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011116.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011116L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
