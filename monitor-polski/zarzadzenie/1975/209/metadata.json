@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1975/209",
+ "source_sha256": "0a62c4bc3b27bcf00700efd5bde93ea55af6af7a6318ceeb3be07aa4e2e6a472",
+ "in_force": "1975-11-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1975/209",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1975/209/text/O/M19750209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1975/209/text/I/M19750209.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1975/209",
+  "publisher": "MP",
+  "year": 1975,
+  "volume": 34,
+  "pos": 209,
+  "address": "WMP19750340209",
+  "displayAddress": "M.P. 1975 nr 34 poz. 209",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 24 października 1975 r. w sprawie ustalenia i ogłoszenia statutu stowarzyszenia wyższej użyteczności \"Towarzystwo Wiedzy Powszechnej (TWP)\".",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-10-24",
+  "entryIntoForce": "1975-11-03",
+  "validFrom": "1975-11-03",
+  "repealDate": "1983-12-31",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stowarzyszenia",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/257",
+     "date": "1983-12-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1970/255",
+     "date": "1975-11-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/420"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1959/420",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19750209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19750209.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
