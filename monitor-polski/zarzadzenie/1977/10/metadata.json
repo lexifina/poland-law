@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1977/10",
+ "source_sha256": "3d02e64fface3fc786f8ff667fd5c6e6cc4ca7718d2abbef1be244d40911c7d4",
+ "in_force": "1977-01-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1977/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1977/10/text/O/M19770010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1977/10/text/I/M19770010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1977/10",
+  "publisher": "MP",
+  "year": 1977,
+  "volume": 1,
+  "pos": 10,
+  "address": "WMP19770010010",
+  "displayAddress": "M.P. 1977 nr 1 poz. 10",
+  "title": "Zarządzenie Prezesa Polskiego Komitetu Normalizacji i Miar z dnia 29 grudnia 1976 r. zmieniające zarządzenie w sprawie określenia narzędzi pomiarowych podlegających obowiązkowi legalizacji oraz warunków zgłaszania tych narzędzi do legalizacji.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-12-29",
+  "entryIntoForce": "1977-01-21",
+  "validFrom": "1977-01-21",
+  "repealDate": "1991-01-01",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. POLSKIEGO KOMITETU NORMALIZACJI I MIAR"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miary i narzędzia pomiarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1990/259",
+     "date": "1991-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1972/284",
+     "date": "1977-01-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1972/83"
+    },
+    {
+     "id": "DU/1966/148"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1966/148",
+     "art": "art. 6 ust. 1 i ust. 3"
+    },
+    {
+     "id": "DU/1966/148",
+     "art": "art. 8 ust. 1"
+    },
+    {
+     "id": "DU/1966/148",
+     "art": "art. 9 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19770010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19770010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
