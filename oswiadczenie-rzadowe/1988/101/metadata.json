@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/101",
+ "source_sha256": "ad6b41e38b6466cb6ff85afbe66b38de5fc499d65caeacd404609b37ea1af99f",
+ "in_force": "1988-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/101/text/O/D19880101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/101/text/I/D19880101.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/101",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 14,
+  "pos": 101,
+  "address": "WDU19880140101",
+  "displayAddress": "Dz.U. 1988 nr 14 poz. 101",
+  "title": "Oświadczenie rządowe z dnia 30 kwietnia 1988 r. w sprawie ratyfikacji przez Polską Rzeczpospolitą Ludową Międzynarodowej konwencji przeciw apartheidowi w sporcie, przyjętej przez Zgromadzenie Ogólne Organizacji Narodów Zjednoczonych dnia 10 grudnia 1985 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1988-04-30",
+  "promulgation": "1988-05-19",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawa obywatelskie",
+   "umowy międzynarodowe",
+   "sport"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1988/100"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1988/100",
+     "art": "art. 18 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19880101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
