@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/309",
+ "source_sha256": "8d8e3097bfcdb45ef1576b73640dafc8c27e2ca9e1c257764b11b856cef2d8bc",
+ "in_force": "1968-10-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/309",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/309/text/O/M19680309.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/309/text/I/M19680309.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/309",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 43,
+  "pos": 309,
+  "address": "WMP19680430309",
+  "displayAddress": "M.P. 1968 nr 43 poz. 309",
+  "title": "Obwieszczenie Ministra Zdrowia i Opieki Społecznej z dnia 10 października 1968 r. o ustaleniu wykazu leków silnie działających, które mogą być wydawane z aptek bez recept.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-10-10",
+  "entryIntoForce": "1968-10-20",
+  "validFrom": "1968-10-20",
+  "repealDate": "1971-05-07",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1971/189",
+     "date": "1971-05-07"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1966/171",
+     "date": "1968-10-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1956/197"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1956/197",
+     "art": "par. 5 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680309.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680309.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
