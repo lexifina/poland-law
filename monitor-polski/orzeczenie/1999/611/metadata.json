@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/611",
+ "source_sha256": "2e862c9b8433006ebea7af4526184e09c6e74bcd8c8a86987955ed0266633f0c",
+ "in_force": "1999-12-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/611",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/611/text/O/M19990611.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/611/text/I/M19990611.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/611/text/T/M19990611TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/611",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 40,
+  "pos": 611,
+  "address": "WMP19990400611",
+  "displayAddress": "M.P. 1999 nr 40 poz. 611",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 15 grudnia 1999 r. sygn. akt P. 6/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-15",
+  "entryIntoForce": "1999-12-22",
+  "validFrom": "1999-12-22",
+  "changeDate": "2018-06-29T11:53:19",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny",
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1989/435"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990611.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990611.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19990611TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
