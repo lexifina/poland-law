@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/434",
+ "source_sha256": "fb84136d6f209e04df5b27bbb7836603c4d48047f922fe3fc65c821683857ecb",
+ "in_force": "1929-07-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/434",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/434/text/O/D19290434.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/434/text/I/D19290434.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/434",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 54,
+  "pos": 434,
+  "address": "WDU19290540434",
+  "displayAddress": "Dz.U. 1929 nr 54 poz. 434",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 18 czerwca 1929 r. o sprostowaniu błędu w rozporządzeniu Ministra Skarbu z dnia 31 października 1928 r. w przedmiocie uprawy tytoniu w 1929 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-06-18",
+  "promulgation": "1929-07-28",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/878"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290434.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290434.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
