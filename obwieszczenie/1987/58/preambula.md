@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 1 i 3 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. Nr 22, poz. 98) oraz w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 5 listopada 1986 r. sygn. akt U. 5/86 ustala się, co następuje:
