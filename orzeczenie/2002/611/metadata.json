@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/611",
+ "source_sha256": "399faf8a3a4a6fd914049203a340dc8da97d245aece2c2cd56e382567142c906",
+ "in_force": "2002-05-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 640 words, parsed 100; at 100: 'zm . ) z : 1 ) prawem ochrony wolności'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/611",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/611/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/611/text/O/D20020611.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/611/text/I/D20020611.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/611/text/T/D20020611TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/611",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 66,
+  "pos": 611,
+  "address": "WDU20020660611",
+  "displayAddress": "Dz.U. 2002 nr 66 poz. 611",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 7 maja 2002 r. sygn. akt SK. 20/00.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-05-07",
+  "promulgation": "2002-05-29",
+  "entryIntoForce": "2002-05-29",
+  "validFrom": "2002-05-29",
+  "changeDate": "2024-03-15T10:05:58",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1982/124"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020611.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020611.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020611TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
