@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/311",
+ "source_sha256": "3a9d80488578ea18ca9ad71bc57b6123cf4ed9bf68de585b4ce49d434ceaaa9c",
+ "in_force": "1938-05-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/311",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/311/text/O/D19380311.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/311/text/I/D19380311.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/311",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 36,
+  "pos": 311,
+  "address": "WDU19380360311",
+  "displayAddress": "Dz.U. 1938 nr 36 poz. 311",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 13 maja 1938 r. o sprostowaniu błędów w rozporządzeniu Ministra Przemysłu i Handlu z dnia 20 kwietnia 1938 r. o zmianie rozporządzenia z dnia 22 lipca 1932 r. o opłatach za legalizacji narzędzi mierniczych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1938-05-13",
+  "promulgation": "1938-05-18",
+  "changeDate": "2020-11-03T15:56:32",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "opłaty",
+   "miary i narzędzia pomiarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 4"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1938/281"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380311.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380311.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
