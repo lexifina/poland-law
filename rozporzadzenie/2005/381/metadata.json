@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/381",
+ "source_sha256": "8f90e90f13f0bf915fb88882132b7118d0820d5538f0d9d810ec4379b2a0069d",
+ "in_force": "2005-03-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/381",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/381/text/O/D20050381.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/381/text/I/D20050381.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/381",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 40,
+  "pos": 381,
+  "address": "WDU20050400381",
+  "displayAddress": "Dz.U. 2005 nr 40 poz. 381",
+  "title": "Rozporządzenie Ministra Finansów z dnia 4 marca 2005 r. w sprawie minimalnej stawki akcyzy na papierosy",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-03-04",
+  "promulgation": "2005-03-11",
+  "entryIntoForce": "2005-03-26",
+  "validFrom": "2005-03-26",
+  "repealDate": "2006-03-22",
+  "changeDate": "2014-12-31T12:26:04",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stawki",
+   "akcyza",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/263",
+     "date": "2006-03-22"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2004/2569",
+     "date": "2005-03-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/257"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/257",
+     "art": "art. 73 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050381.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050381.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
