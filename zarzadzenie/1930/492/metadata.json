@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/492",
+ "source_sha256": "5408f87fbf21964dab051cc6293cb33679ebcc897f948c05a92b11505c553143",
+ "in_force": "1930-08-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/492",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/492/text/O/D19300492.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/492/text/I/D19300492.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/492",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 61,
+  "pos": 492,
+  "address": "WDU19300610492",
+  "displayAddress": "Dz.U. 1930 nr 61 poz. 492",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej z dnia 30 sierpnia 1930 r. o wyborach do Sejmu i Senatu.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-08-30",
+  "promulgation": "1930-08-30",
+  "entryIntoForce": "1930-08-30",
+  "validFrom": "1930-08-30",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/591"
+    },
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/591",
+     "art": "art. 8"
+    },
+    {
+     "id": "DU/1922/591",
+     "art": "art. 9"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 13"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300492.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300492.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
