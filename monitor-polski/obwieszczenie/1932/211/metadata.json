@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/211",
+ "source_sha256": "1d3abbf7a655cd6dd860141679ffd52e0e8a3b01543cc0290e9bbdae49f70544",
+ "in_force": "1932-08-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/211",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/211/text/O/M19320211.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/211/text/I/M19320211.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/211",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 176,
+  "pos": 211,
+  "address": "WMP19321760211",
+  "displayAddress": "M.P. 1932 nr 176 poz. 211",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-08-03",
+  "promulgation": "1932-08-03",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320211.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320211.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
