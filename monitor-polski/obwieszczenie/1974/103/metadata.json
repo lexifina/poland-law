@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1974/103",
+ "source_sha256": "b823be66d1c730d7d6c72996846ec851e6af5835ba4fd2c0285bf3e31da1dd0b",
+ "in_force": "1974-05-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1974/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1974/103/text/O/M19740103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1974/103/text/I/M19740103.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1974/103",
+  "publisher": "MP",
+  "year": 1974,
+  "volume": 16,
+  "pos": 103,
+  "address": "WMP19740160103",
+  "displayAddress": "M.P. 1974 nr 16 poz. 103",
+  "title": "Obwieszczenie Ministra Przemysłu Lekkiego z dnia 2 maja 1974 r. w sprawie wykazu obowiązujących resortowych aktów prawnych ogłoszonych w Monitorze Polskim.",
+  "type": "Obwieszczenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1974-05-02",
+  "entryIntoForce": "1974-05-02",
+  "validFrom": "1974-05-02",
+  "repealDate": "1980-01-31",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU LEKKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/11",
+     "date": "1980-01-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1969/150",
+     "date": "1974-05-02"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1974/100"
+    },
+    {
+     "id": "MP/1971/138"
+    },
+    {
+     "id": "MP/1970/229"
+    },
+    {
+     "id": "MP/1962/243"
+    },
+    {
+     "id": "MP/1962/219"
+    },
+    {
+     "id": "MP/1953/484"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19740103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19740103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
