@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/134",
+ "source_sha256": "c5f0d957afa2739faefe95e4734ee75f24be727849b04517c0aac891a95b7728",
+ "in_force": "1999-03-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/134/text/O/D19990134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/134/text/I/D19990134.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/134/text/T/D19990134L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/134",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 14,
+  "pos": 134,
+  "address": "WDU19990140134",
+  "displayAddress": "Dz.U. 1999 nr 14 poz. 134",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 18 lutego 1999 r. w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-02-18",
+  "entryIntoForce": "1999-03-03",
+  "validFrom": "1999-03-03",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "oświata i wychowanie",
+   "terytorialny zakres działania"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1999/417",
+     "date": "1999-05-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 9c ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990134.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990134L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
