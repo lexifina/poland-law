@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/185",
+ "source_sha256": "73201b8bbf3f7a8399a75674eeb4b61ad3f3eabc9a4f7e518375bacdf68457bd",
+ "in_force": "2005-02-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/185",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/185/text/O/M20050185.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/185/text/I/M20050185.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/185",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 9,
+  "pos": 185,
+  "address": "WMP20050090185",
+  "displayAddress": "M.P. 2005 nr 9 poz. 185",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 27 stycznia 2005 r. w sprawie ustalenia na rok 2005 liczby wolnych stanowisk sędziowskich w wojewódzkich sądach administracyjnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-01-27",
+  "promulgation": "2005-02-14",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050185.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050185.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
