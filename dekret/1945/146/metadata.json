@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/146",
+ "source_sha256": "fde7562b7bce0dd35a3dbe7f442ea73e7f3435234d0910d79dcba8b5deac384b",
+ "in_force": "1945-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/146",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/146/text/O/D19450146.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/146/text/I/D19450146.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/146",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 25,
+  "pos": 146,
+  "address": "WDU19450250146",
+  "displayAddress": "Dz.U. 1945 nr 25 poz. 146",
+  "title": "Dekret z dnia 24 maja 1945 r. o tymczasowych przepisach uzupełniających prawo o ustroju adwokatury.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-05-24",
+  "entryIntoForce": "1945-07-31",
+  "validFrom": "1945-07-31",
+  "repealDate": "1950-08-27",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1950/275",
+     "date": "1950-08-27"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1947/407",
+     "date": "1947-10-30"
+    },
+    {
+     "id": "DU/1946/278",
+     "date": "1946-10-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1938/289"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450146.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450146.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
