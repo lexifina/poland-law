@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/922",
+ "source_sha256": "cfa7986b87089dd3f05d16fb422b6d36c5caefde67fbef54e478f044917a4396",
+ "in_force": "1999-04-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/922",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/922/text/O/D19990922.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/922/text/I/D19990922.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/922",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 82,
+  "pos": 922,
+  "address": "WDU19990820922",
+  "displayAddress": "Dz.U. 1999 nr 82 poz. 922",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 29 września 1999 r. zmieniające rozporządzenie w sprawie stanowisk w ruchu zakładu górniczego, które wymagają szczególnych kwalifikacji.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-09-29",
+  "entryIntoForce": "1999-04-15",
+  "validFrom": "1999-04-15",
+  "repealDate": "2002-07-01",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "górnictwo",
+   "kwalifikacje",
+   "górnicze prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/755",
+     "date": "2002-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/523",
+     "date": "1999-04-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/96"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/96",
+     "art": "art. 78 ust. 1 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990922.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990922.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
