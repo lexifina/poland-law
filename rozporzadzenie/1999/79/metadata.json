@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/79",
+ "source_sha256": "cf33e2741a524053f50cb63fdcd900a1ad6cd3abf6cea387e3b0372ce6f66bcb",
+ "in_force": "1999-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/79",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/79/text/O/D19990079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/79/text/I/D19990079.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/79/text/T/D19990079L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/79",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 9,
+  "pos": 79,
+  "address": "WDU19990090079",
+  "displayAddress": "Dz.U. 1999 nr 9 poz. 79",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 21 stycznia 1999 r. zmieniające rozporządzenie w sprawie zasad podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-21",
+  "entryIntoForce": "1999-02-01",
+  "validFrom": "1999-01-01",
+  "repealDate": "1999-12-31",
+  "changeDate": "2023-06-02T13:19:12",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "subwencje",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1999/79",
+     "date": "1999-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/1168",
+     "date": "1999-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/983"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/983",
+     "art": "art. 35"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1999/79",
+     "date": "1999-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990079.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990079L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
