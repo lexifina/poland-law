@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/1026",
+ "source_sha256": "68ebfee6367c98a46789fdf327ab0d255c8fc0c178de4b786656b4a14fc0fdc6",
+ "in_force": "1922-12-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/1026",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/1026/text/O/D19221026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/1026/text/I/D19221026.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/1026",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 112,
+  "pos": 1026,
+  "address": "WDU19221121026",
+  "displayAddress": "Dz.U. 1922 nr 112 poz. 1026",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 13 grudnia 1922 r. zmieniające niektóre przepisy niemieckiej ordynacji o opłatach adwokatów w górnośląskiej części Województwa Śląskiego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-12-13",
+  "entryIntoForce": "1922-12-20",
+  "validFrom": "1922-12-20",
+  "repealDate": "1924-05-26",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty adwokackie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1924/449",
+     "date": "1924-05-26"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1922/979",
+     "date": "1923-03-09"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/566",
+     "date": "1923-03-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/497"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19221026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19221026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
