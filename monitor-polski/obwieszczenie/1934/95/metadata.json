@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/95",
+ "source_sha256": "26884cff28a9a76c814117ec468c4a63810f895bc142287bd23f07ae2af49f13",
+ "in_force": "1934-03-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/95",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/95/text/O/M19340095.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/95/text/I/M19340095.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/95",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 63,
+  "pos": 95,
+  "address": "WMP19340630095",
+  "displayAddress": "M.P. 1934 nr 63 poz. 95",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 5 marca 1934 r. o umorzeniu we wszystkich dziesięciu serjach Bonów Funduszu Inwestycyjnego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-03-05",
+  "promulgation": "1934-03-17",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340095.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340095.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
