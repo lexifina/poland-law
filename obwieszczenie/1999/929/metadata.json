@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/929",
+ "source_sha256": "f36364d5ff6ba48fd106bf344f570c82d08d9c48e860e096ad2bfbd94044786d",
+ "in_force": "1999-10-05",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/929",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/929/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/929/text/O/D19990929.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/929/text/I/D19990929.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/929/text/T/D19990929L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/929",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 82,
+  "pos": 929,
+  "address": "WDU19990820929",
+  "displayAddress": "Dz.U. 1999 nr 82 poz. 929",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 5 października 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-10-05",
+  "expirationDate": "2003-01-24",
+  "changeDate": "2024-03-15T11:34:57",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ministrowie",
+   "organizacja i zakres działania",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/778"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/778",
+     "art": "art. 21"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1996/492"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990929.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990929.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990929L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
