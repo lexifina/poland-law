@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/129",
+ "source_sha256": "d328ae5580bb5b27709e08b67b56fde985471e4378a3050c2bd2274d1e7a1544",
+ "in_force": "1965-05-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/129",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/129/text/O/M19650129.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/129/text/I/M19650129.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/129",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 26,
+  "pos": 129,
+  "address": "WMP19650260129",
+  "displayAddress": "M.P. 1965 nr 26 poz. 129",
+  "title": "Zarządzenie nr 33 Prezesa Rady Ministrów z dnia 14 maja 1965 r. w sprawie przekazania Ministrowi Rolnictwa uprawnień do ustalania cen materiału siewnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-05-14",
+  "entryIntoForce": "1965-05-27",
+  "validFrom": "1965-05-27",
+  "repealDate": "1975-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [
+   "MIN. ROLNICTWA"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/233",
+     "date": "1975-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1953/722"
+    },
+    {
+     "id": "DU/1953/122"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1953/722",
+     "art": "par. 5"
+    },
+    {
+     "id": "DU/1953/122",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1953/122",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650129.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650129.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
