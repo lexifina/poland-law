@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1994/243",
+ "source_sha256": "201f49b308072e139d4ee7cc3a5bee85f9eb10714db21da1961171e6679ea304",
+ "in_force": "1994-05-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1994/243",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1994/243/text/O/D19940243.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1994/243/text/I/D19940243.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1994/243",
+  "publisher": "DU",
+  "year": 1994,
+  "volume": 59,
+  "pos": 243,
+  "address": "WDU19940590243",
+  "displayAddress": "Dz.U. 1994 nr 59 poz. 243",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 4 maja 1994 r. zmieniające rozporządzenie w sprawie zasad i trybu wydawania oraz rozpowszechniania wojewódzkich dzienników urzędowych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1994-05-04",
+  "entryIntoForce": "1994-05-28",
+  "validFrom": "1994-05-28",
+  "repealDate": "1999-02-01",
+  "changeDate": "2014-12-31T12:25:41",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzienniki urzędowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/421",
+     "date": "1994-05-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/123"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/123",
+     "art": "art. 26 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1999/78",
+     "date": "1999-02-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19940243.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19940243.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
