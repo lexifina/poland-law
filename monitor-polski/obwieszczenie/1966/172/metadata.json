@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1966/172",
+ "source_sha256": "dc983b4d0352f83addb13ba8367773304c288fe45d7b14dc7bb08c9ea7529e10",
+ "in_force": "1966-07-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1966/172",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1966/172/text/O/M19660172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1966/172/text/I/M19660172.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1966/172",
+  "publisher": "MP",
+  "year": 1966,
+  "volume": 32,
+  "pos": 172,
+  "address": "WMP19660320172",
+  "displayAddress": "M.P. 1966 nr 32 poz. 172",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 4 lipca 1966 r. w sprawie ogłoszenia ustanowionej Polskiej Normy.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-07-04",
+  "entryIntoForce": "1966-07-04",
+  "validFrom": "1966-07-04",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1966/78",
+     "date": "1966-07-04"
+    },
+    {
+     "id": "MP/1958/395",
+     "date": "1966-07-04"
+    },
+    {
+     "id": "DU/1956/145",
+     "date": "1966-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19660172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19660172.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
