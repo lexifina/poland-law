@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/678",
+ "source_sha256": "5dc8072c59e9227a12b168ff8f1f1032ad4ece3135f40d61d085cebd12b526c3",
+ "in_force": "1938-12-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/678",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/678/text/O/D19380678.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/678/text/I/D19380678.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/678",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 102,
+  "pos": 678,
+  "address": "WDU19381020678",
+  "displayAddress": "Dz.U. 1938 nr 102 poz. 678",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 13 grudnia 1938 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. w sprawie uregulowania obrotu zwierzętami gospodarskimi i drobiem oraz obrotu hurtowego mięsem.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-12-13",
+  "promulgation": "1938-12-29",
+  "repealDate": "1949-07-14",
+  "changeDate": "2014-12-31T12:25:24",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zwierzęta hodowlane",
+   "mięso"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/135",
+     "date": "1949-07-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/458"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1938/458",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1933/639"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380678.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380678.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
