@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1967/327",
+ "source_sha256": "841ac72c24c4c033986e95ac33bd6543ba9fcfad1c8309a9d6bb0103ee88042c",
+ "in_force": "1967-12-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1967/327",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1967/327/text/O/M19670327.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1967/327/text/I/M19670327.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1967/327",
+  "publisher": "MP",
+  "year": 1967,
+  "volume": 67,
+  "pos": 327,
+  "address": "WMP19670670327",
+  "displayAddress": "M.P. 1967 nr 67 poz. 327",
+  "title": "Zarządzenie Ministra Górnictwa i Energetyki z dnia 21 listopada 1967 r. zmieniające zarządzenie w sprawie eksploatacji kotłów rusztowych na paliwo stałe.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-11-21",
+  "entryIntoForce": "1967-12-12",
+  "validFrom": "1967-09-20",
+  "repealDate": "1987-06-16",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. GÓRNICTWA I ENERGETYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "eksploatacja",
+   "energetyka",
+   "urządzenia energetyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1987/177",
+     "date": "1987-06-16"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1967/255",
+     "date": "1967-09-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/150"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/150",
+     "art": "art. 4 ust. 2 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19670327.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19670327.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
