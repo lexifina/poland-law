@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/51",
+ "source_sha256": "e1adf2448976ff02b620009ad24fe9ce58e413b4e6ee68a9870c60bd4081d691",
+ "in_force": "2000-01-17",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/51",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/51/text/O/M20000051.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/51/text/I/M20000051.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/51/text/T/M20000051L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/51",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 2,
+  "pos": 51,
+  "address": "WMP20000020051",
+  "displayAddress": "M.P. 2000 nr 2 poz. 51",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 17 stycznia 2000 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze paliwowo-energetycznym w czwartym kwartale 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-01-17",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "energetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/860"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/860",
+     "art": "par. 3 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000051.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000051.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000051L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
