@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/204",
+ "source_sha256": "9ab90890abdf838129a3e1083d8159bcc117b60ea933779b35fac4468c06bbfe",
+ "in_force": "2001-03-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/204",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/204/text/O/D20010204.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/204/text/I/D20010204.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/204",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 17,
+  "pos": 204,
+  "address": "WDU20010170204",
+  "displayAddress": "Dz.U. 2001 nr 17 poz. 204",
+  "title": "Rozporządzenie Ministra Środowiska z dnia 8 marca 2001 r. zmieniające rozporządzenie w sprawie klasyfikacji odpadów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-03-08",
+  "promulgation": "2001-03-16",
+  "entryIntoForce": "2001-03-24",
+  "validFrom": "2001-03-24",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:25:52",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "ochrona środowiska"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/1206",
+     "date": "2002-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/1135",
+     "date": "2001-03-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/592"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/592",
+     "art": "art. 6 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20010204.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010204.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
