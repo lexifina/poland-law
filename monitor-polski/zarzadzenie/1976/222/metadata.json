@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1976/222",
+ "source_sha256": "b4fda910a675afcdb0e3881521bb0658118d665320a991877536f9de793f26fb",
+ "in_force": "1976-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1976/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1976/222/text/O/M19760222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1976/222/text/I/M19760222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1976/222",
+  "publisher": "MP",
+  "year": 1976,
+  "volume": 44,
+  "pos": 222,
+  "address": "WMP19760440222",
+  "displayAddress": "M.P. 1976 nr 44 poz. 222",
+  "title": "Zarządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 1 grudnia 1976 r. w sprawie wysokości budynków wielorodzinnego budownictwa mieszkaniowego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-12-01",
+  "entryIntoForce": "1976-12-31",
+  "validFrom": "1976-12-31",
+  "repealDate": "1989-01-03",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. ADMINISTRACJI GOSPODARKI TERENOWEJ I OCHRONY ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budowlane prawo",
+   "budownictwo mieszkaniowe",
+   "planowanie przestrzenne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1988/300",
+     "date": "1989-01-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/229"
+    },
+    {
+     "id": "DU/1961/47"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/229",
+     "art": "art. 9 ust. 3"
+    },
+    {
+     "id": "DU/1961/47",
+     "art": "art. 27 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19760222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19760222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
