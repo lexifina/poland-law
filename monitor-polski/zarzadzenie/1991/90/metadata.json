@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/90",
+ "source_sha256": "895fb227ab12debd57bcf97f6476d04143ce57afd2619a8f57baaa967e3fdebb",
+ "in_force": "1991-04-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/90",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/90/text/O/M19910090.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/90/text/I/M19910090.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/90",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 14,
+  "pos": 90,
+  "address": "WMP19910140090",
+  "displayAddress": "M.P. 1991 nr 14 poz. 90",
+  "title": "Zarządzenie Ministra Edukacji Narodowej z dnia 27 lutego 1991 r. zmieniające zarządzenie w sprawie wynagradzania nauczycieli.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-02-27",
+  "entryIntoForce": "1991-04-19",
+  "validFrom": "1991-01-01",
+  "repealDate": "1994-01-01",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "nauczyciele",
+   "wynagrodzenia",
+   "wysługa lat",
+   "stopnie specjalizacji zawodowej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1994/80",
+     "date": "1994-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1989/222",
+     "date": "1991-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/192"
+    },
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/19",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910090.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910090.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
