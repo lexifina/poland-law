@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/33",
+ "source_sha256": "17d1e9490c4ec0d1cc1e988bffd514bc8b82b07bdb4086f19fa1682fe271ac19",
+ "in_force": "1945-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/33",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/33/text/O/D19450033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/33/text/I/D19450033.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/33",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 7,
+  "pos": 33,
+  "address": "WDU19450070033",
+  "displayAddress": "Dz.U. 1945 nr 7 poz. 33",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 3 marca 1945 r. w sprawie zmiany rozporządzenie Kierownika Resortu Sprawiedliwości z dnia 13 listopada 1944 r. o utworzeniu tymczasowej siedziby Sądów Apelacyjnych w Warszawie i Krakowie.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-03-03",
+  "entryIntoForce": "1945-03-10",
+  "validFrom": "1945-03-10",
+  "repealDate": "1951-01-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1944/67",
+     "date": "1945-03-10"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1944/67"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/58"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/496",
+     "date": "1951-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450033.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
