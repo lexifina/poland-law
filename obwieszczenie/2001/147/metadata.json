@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/147",
+ "source_sha256": "dfafb6d5f98db1a725a6b960f00966ce3276d1b6ba2f1b23b9faa676a0a357cb",
+ "in_force": "2001-02-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/147",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/147/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/147/text/O/D20010147.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/147/text/I/D20010147.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/147/text/U/D20010147Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/147",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 14,
+  "pos": 147,
+  "address": "WDU20010140147",
+  "displayAddress": "Dz.U. 2001 nr 14 poz. 147",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2001 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Praw Obywatelskich.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-02-09",
+  "promulgation": "2001-02-28",
+  "expirationDate": "2014-11-26",
+  "changeDate": "2024-03-15T10:00:27",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawa obywatelskie"
+  ],
+  "keywordsNames": [
+   "Rzecznik Praw Obywatelskich"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    },
+    {
+     "id": "DU/2000/552"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. zdanie pierwsze"
+    },
+    {
+     "id": "DU/2000/552",
+     "art": "art. 11"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1987/123"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010147.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010147.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010147Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
