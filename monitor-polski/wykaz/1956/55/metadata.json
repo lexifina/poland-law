@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1956/55",
+ "source_sha256": "0bbd4282db598b9a8b152d7eb2d27c32512b9f43f0b92f1852b022169c06544b",
+ "in_force": "1956-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1956/55",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1956/55/text/O/M19560055.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1956/55/text/I/M19560055.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1956/55",
+  "publisher": "MP",
+  "year": 1956,
+  "volume": 6,
+  "pos": 55,
+  "address": "WMP19560060055",
+  "displayAddress": "M.P. 1956 nr 6 poz. 55",
+  "title": "Wykaz osób pozbawionych odznaki \"Przodownika Pracy\".",
+  "type": "Wykaz",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-01-26",
+  "entryIntoForce": "1956-01-26",
+  "validFrom": "1956-01-26",
+  "repealDate": "1957-01-01",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "XXX"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1950/337"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1950/337",
+     "art": "pkt 6"
+    },
+    {
+     "id": "MP/1950/337",
+     "art": "pkt 7"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1956/1167",
+     "date": "1957-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19560055.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19560055.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
