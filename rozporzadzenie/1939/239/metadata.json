@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/239",
+ "source_sha256": "f365826b5664872934bc5c3543f46b7f63e2e4e658e37e017981b8594c332e3c",
+ "in_force": "1939-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/239",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/239/text/O/D19390239.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/239/text/I/D19390239.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/239",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 36,
+  "pos": 239,
+  "address": "WDU19390360239",
+  "displayAddress": "Dz.U. 1939 nr 36 poz. 239",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 6 kwietnia 1939 r. w sprawie zmiany siedziby Ubezpieczalni Społecznej w Ciechanowie.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-04-06",
+  "promulgation": "1939-04-21",
+  "entryIntoForce": "1939-07-01",
+  "validFrom": "1939-07-01",
+  "repealDate": "1947-05-21",
+  "changeDate": "2014-12-31T12:25:24",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "siedziba",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/187",
+     "date": "1947-05-21"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1936/642",
+     "date": "1939-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/396"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/396",
+     "art": "art. 22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390239.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390239.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
