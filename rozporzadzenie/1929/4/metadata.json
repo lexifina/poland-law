@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/4",
+ "source_sha256": "d7681acfba020eb777bb1c06caafae6f3233c5fe159225bdf207268bf05ab840",
+ "in_force": "1929-01-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/4/text/O/D19290004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/4/text/I/D19290004.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/4",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 1,
+  "pos": 4,
+  "address": "WDU19290010004",
+  "displayAddress": "Dz.U. 1929 nr 1 poz. 4",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 21 grudnia 1928 r. w sprawie ulgi celnej na saletrę wapniową.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-21",
+  "entryIntoForce": "1929-01-08",
+  "validFrom": "1929-01-08",
+  "repealDate": "1932-01-01",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. ROLNICTWA",
+   "MIN. SKARBU",
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ulgi celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/871",
+     "date": "1932-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/777",
+     "art": "art. 7 lit. b)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
