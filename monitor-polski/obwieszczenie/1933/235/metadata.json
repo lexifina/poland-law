@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/235",
+ "source_sha256": "fe634c1d662db17dcf8cbfbfb952641624558adafccef7dc8d45f03ba45d841d",
+ "in_force": "1933-09-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/235",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/235/text/O/M19330235.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/235/text/I/M19330235.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/235",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 210,
+  "pos": 235,
+  "address": "WMP19332100235",
+  "displayAddress": "M.P. 1933 nr 210 poz. 235",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 6 września 1933 r. o ustaleniu listy drugiej sędziów kartelowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-09-06",
+  "promulgation": "1933-09-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/381"
+    },
+    {
+     "id": "DU/1933/270"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/381",
+     "art": "par. 8 pkt 1"
+    },
+    {
+     "id": "DU/1933/270",
+     "art": "art. 6 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330235.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330235.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
