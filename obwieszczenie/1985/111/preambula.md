@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Polskiej Rzeczypospolitej Ludowej i Dziennika Urzędowego Polskiej Rzeczypospolitej Ludowej „Monitor Polski” (Dz. U. Nr 58, poz. 524) w ustawie z dnia 10 maja 1985 r. o szczególnej odpowiedzialności karnej (Dz. U. Nr 23, poz. 101) prostuje się następujący błąd w części nakładu Dziennika Ustaw Nr 23:
+
+w art. 17 w § 1 zawarte w pkt 5 zdanie: „- jeżeli sprawca został ujęty na gorącym uczynku lub bezpośrednio potem i doprowadzony przez Milicję Obywatelską lub inny uprawniony organ do sądu w ciągu 48 godzin” powinno być zamieszczone od akapitu po pkt 5 i odnosić się do pkt 1-5.
