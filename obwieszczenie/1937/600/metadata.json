@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1937/600",
+ "source_sha256": "d03fe8332ed3c42b59efcca6cd3b65346757986242912a8a68d7b5dde8b1fcf8",
+ "in_force": "1937-12-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1937/600",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1937/600/text/O/D19370600.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1937/600/text/I/D19370600.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1937/600",
+  "publisher": "DU",
+  "year": 1937,
+  "volume": 82,
+  "pos": 600,
+  "address": "WDU19370820600",
+  "displayAddress": "Dz.U. 1937 nr 82 poz. 600",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 19 listopada 1937 r. w sprawie sprostowania błędów w przekładzie polskim międzynarodowej umowy z dnia 6 maja 1937 r., dotyczącej regulowania produkcji i zbytu cukru.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-11-19",
+  "promulgation": "1937-12-03",
+  "changeDate": "2020-11-03T16:09:33",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cukrownictwo",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 pkt 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1937/489"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19370600.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19370600.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
