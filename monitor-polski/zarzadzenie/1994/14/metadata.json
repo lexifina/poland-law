@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1994/14",
+ "source_sha256": "b52f32cc27712f7009841ac0a8be66ea2fec30876294c226e86dc3aa7f099aad",
+ "in_force": "1994-01-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1994/14",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1994/14/text/O/M19940014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1994/14/text/I/M19940014.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1994/14",
+  "publisher": "MP",
+  "year": 1994,
+  "volume": 3,
+  "pos": 14,
+  "address": "WMP19940030014",
+  "displayAddress": "M.P. 1994 nr 3 poz. 14",
+  "title": "Zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 10 grudnia 1993 r. zmieniające zarządzenie w sprawie obrotu detalicznego środkami farmaceutycznymi i materiałami medycznymi poza aptekami.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-12-10",
+  "entryIntoForce": "1994-01-18",
+  "validFrom": "1994-01-18",
+  "repealDate": "1994-08-12",
+  "changeDate": "2016-04-13T13:35:37",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "handel wewnętrzny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1994/346",
+     "date": "1994-08-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1993/186",
+     "date": "1994-01-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/452",
+     "art": "art. 31 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19940014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19940014.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
