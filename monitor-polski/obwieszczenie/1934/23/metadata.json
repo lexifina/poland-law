@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/23",
+ "source_sha256": "212df639fb5fbaaaff4feb14ce9129ee3e174ff1f2719fd8d8fe86576ba095a2",
+ "in_force": "1934-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/23",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/23/text/O/M19340023.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/23/text/I/M19340023.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/23",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 16,
+  "pos": 23,
+  "address": "WMP19340160023",
+  "displayAddress": "M.P. 1934 nr 16 poz. 23",
+  "title": "Obwieszczenie Ministra Skarbu w porozumieniu z Ministrem Rolnictwa i Reform Rolnych z dnia 12 stycznia 1934 r. w sprawie ustalenia zawartości skrobi w ziemniakach na kampanję 1933/34 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-12",
+  "promulgation": "1934-01-20",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ziemniaki",
+   "alkohol"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/746"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/746",
+     "art": "zał. D pkt. 1 lit. a) do par. 131"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340023.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340023.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
