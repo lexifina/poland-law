@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/21",
+ "source_sha256": "d97cb88a187e19b65ae3fbafbcc896031617d9b35d3b3df5bef9312539e60e37",
+ "in_force": "1945-02-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/21/text/O/D19450021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/21/text/I/D19450021.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/21",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 6,
+  "pos": 21,
+  "address": "WDU19450060021",
+  "displayAddress": "Dz.U. 1945 nr 6 poz. 21",
+  "title": "Dekret z dnia 6 lutego 1945 r. o moratorium lokalowym dla spółdzielni.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-02-06",
+  "entryIntoForce": "1945-02-15",
+  "validFrom": "1945-02-15",
+  "repealDate": "1947-12-31",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/21",
+     "date": "1947-12-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1946/188",
+     "date": "1946-07-06"
+    },
+    {
+     "id": "DU/1945/222",
+     "date": "1945-10-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/21",
+     "date": "1947-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
