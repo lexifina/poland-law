@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2555",
+ "source_sha256": "20c7087ad67b760aeacb129b547e6640afcb7b5074f8e976623bbe88093021db",
+ "in_force": "2004-11-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 468 words, parsed 136; at 136: 'okręgu wyborczym nr 29 . I . W dniu 21'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2555",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/2555/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2555/text/O/D20042555.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2555/text/I/D20042555.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2555",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 254,
+  "pos": 2555,
+  "address": "WDU20042542555",
+  "displayAddress": "Dz.U. 2004 nr 254 poz. 2555",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 22 listopada 2004 r. o wynikach wyborów do Senatu Rzeczypospolitej polskiej przeprowadzonych w dniu 21 listopada 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-11-22",
+  "promulgation": "2004-11-30",
+  "changeDate": "2025-03-21T10:39:30",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20042555.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042555.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
