@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/2035",
+ "source_sha256": "ff036e0b24f6c1eeeff9a19d652abe4e06201d14ba713ee932c0abd8fe552c47",
+ "in_force": "2003-12-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 500 words, parsed 61; at 61: 'o stwierdzenie , że : 1 ) art . 13'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/2035",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/2035/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/2035/text/O/D20032035.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/2035/text/I/D20032035.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/2035/text/T/D20032035TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/2035",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 209,
+  "pos": 2035,
+  "address": "WDU20032092035",
+  "displayAddress": "Dz.U. 2003 nr 209 poz. 2035",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 listopada 2003 r. sygn. akt K 26/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-11-24",
+  "promulgation": "2003-12-09",
+  "entryIntoForce": "2003-12-09",
+  "validFrom": "2003-12-09",
+  "changeDate": "2024-03-15T09:52:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Narodowy Bank Polski",
+   "Trybunał Konstytucyjny",
+   "Rada Polityki Pieniężnej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/938",
+     "date": "2003-12-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/938"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20032035.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20032035.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20032035TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
