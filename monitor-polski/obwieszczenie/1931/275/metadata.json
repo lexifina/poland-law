@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/275",
+ "source_sha256": "8ee8128c3cf12950d66a5fb1342a3d71c4fedab53f5df951257283b15784a2a9",
+ "in_force": "1931-08-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/275",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/275/text/O/M19310275.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/275/text/I/M19310275.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/275",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 198,
+  "pos": 275,
+  "address": "WMP19311980275",
+  "displayAddress": "M.P. 1931 nr 198 poz. 275",
+  "title": "Obwieszczenie Ministra Reform Rolnych i Ministra Skarbu z dnia 12 sierpnia 1931 r. w sprawie umorzenia obligacyj I Serji 5% Państwowej Renty Ziemskiej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-08-12",
+  "promulgation": "1931-08-29",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. REFORM ROLNYCH",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/58"
+    },
+    {
+     "id": "DU/1928/175"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/58",
+     "art": "par. 4"
+    },
+    {
+     "id": "DU/1928/175",
+     "art": "art. 11 cz. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310275.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310275.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
