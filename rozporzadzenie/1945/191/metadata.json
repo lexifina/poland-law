@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/191",
+ "source_sha256": "0f3a1a8d8e2362d22bf660bce9af3bd5010dea97036ae73e4258b96a22a8cd12",
+ "in_force": "1945-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/191",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/191/text/O/D19450191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/191/text/I/D19450191.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/191",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 31,
+  "pos": 191,
+  "address": "WDU19450310191",
+  "displayAddress": "Dz.U. 1945 nr 31 poz. 191",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 20 sierpnia 1945 r. o cenach soli.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-08-20",
+  "entryIntoForce": "1945-08-31",
+  "validFrom": "1945-08-31",
+  "repealDate": "1948-12-31",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1948/491",
+     "date": "1948-12-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1945/71",
+     "date": "1945-08-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/497"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450191.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
