@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1960/28",
+ "source_sha256": "2d94d13c521fcfa61386424c4c4e0476ce7970f93e649a1c4adfbda61b69a8c2",
+ "in_force": "1960-01-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1960/28",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1960/28/text/O/D19600028.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1960/28/text/I/D19600028.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1960/28",
+  "publisher": "DU",
+  "year": 1960,
+  "volume": 4,
+  "pos": 28,
+  "address": "WDU19600040028",
+  "displayAddress": "Dz.U. 1960 nr 4 poz. 28",
+  "title": "Rozporządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 23 grudnia 1959 r. w sprawie świadectw pochodzenia zwierzyny ubitej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-12-23",
+  "entryIntoForce": "1960-01-29",
+  "validFrom": "1960-01-29",
+  "repealDate": "1974-08-15",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. LEŚNICTWA I PRZEMYSŁU DRZEWNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1974/171",
+     "date": "1974-08-15"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1961/25",
+     "date": "1961-01-31"
+    },
+    {
+     "id": "DU/1960/287",
+     "date": "1960-10-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1959/226"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/226"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19600028.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19600028.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
