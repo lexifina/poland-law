@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1976/137",
+ "source_sha256": "0bceac47dc02fe347c8552c8d9ceb471d9f7c52bd5f31f13460debc12f47b483",
+ "in_force": "1976-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1976/137",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1976/137/text/O/D19760137.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1976/137/text/I/D19760137.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1976/137",
+  "publisher": "DU",
+  "year": 1976,
+  "volume": 21,
+  "pos": 137,
+  "address": "WDU19760210137",
+  "displayAddress": "Dz.U. 1976 nr 21 poz. 137",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 25 maja 1976 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów z dnia 3 września 1971 r. w sprawie świadczeń na rzecz obrony kraju.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-05-25",
+  "promulgation": "1976-06-07",
+  "repealDate": "1981-08-12",
+  "changeDate": "2014-12-31T12:25:32",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia na rzecz obrony",
+   "obrona narodowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1981/103",
+     "date": "1981-08-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1976/132"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1976/132",
+     "art": "par. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1971/213"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19760137.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19760137.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
