@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1955/70",
+ "source_sha256": "796c160ab4e133f78afdb539687526c3cc56b5879b8039ec7cc374a9b6980dc3",
+ "in_force": "1955-03-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1955/70",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1955/70/text/O/D19550070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1955/70/text/I/D19550070.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1955/70",
+  "publisher": "DU",
+  "year": 1955,
+  "volume": 12,
+  "pos": 70,
+  "address": "WDU19550120070",
+  "displayAddress": "Dz.U. 1955 nr 12 poz. 70",
+  "title": "Dekret z dnia 11 marca 1955 r. o przekształceniu urzędu Ministra Poczt i Telegrafów w urząd Ministra Łączności.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-03-11",
+  "entryIntoForce": "1955-03-15",
+  "validFrom": "1955-03-15",
+  "repealDate": "1987-10-24",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [
+   "RADA MINISTRÓW"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "łączność",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1987/180",
+     "date": "1987-10-24"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1950/63",
+     "date": "1955-03-15"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1960/413"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1961/48",
+     "date": "1961-02-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19550070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19550070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
