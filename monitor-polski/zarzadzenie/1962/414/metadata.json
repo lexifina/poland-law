@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/414",
+ "source_sha256": "8acfb55a33c292b59810b70ed61fe6d5db3deff739f09cae61b68147ea0d9a40",
+ "in_force": "1962-12-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/414",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/414/text/O/M19620414.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/414/text/I/M19620414.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/414",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 88,
+  "pos": 414,
+  "address": "WMP19620880414",
+  "displayAddress": "M.P. 1962 nr 88 poz. 414",
+  "title": "Zarządzenie Ministra Finansów z dnia 8 grudnia 1962 r. w sprawie uruchamiania środków na finansowanie inwestycji dla jednostek objętych lub rozliczających się z budżetem centralnym.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-12-08",
+  "entryIntoForce": "1962-12-22",
+  "validFrom": "1962-12-22",
+  "repealDate": "1965-12-07",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/369",
+     "date": "1965-12-07"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1961/401",
+     "date": "1962-12-22"
+    },
+    {
+     "id": "MP/1960/416",
+     "date": "1962-12-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/221",
+     "art": "art. 51"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620414.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620414.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
