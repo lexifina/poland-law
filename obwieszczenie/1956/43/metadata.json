@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1956/43",
+ "source_sha256": "fb81b40dc2ab85c15385dd8e237ae2853ee888c3f4a57afecb8fec3db1125a0f",
+ "in_force": "1956-02-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1956/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1956/43/text/O/D19560043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1956/43/text/I/D19560043.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1956/43",
+  "publisher": "DU",
+  "year": 1956,
+  "volume": 7,
+  "pos": 43,
+  "address": "WDU19560070043",
+  "displayAddress": "Dz.U. 1956 nr 7 poz. 43",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 20 lutego 1956 r. o sprostowania błędu w dekrecie z dnia 7 grudnia 1955 r. o godle i barwach Polskiej Rzeczypospolitej Ludowej oraz o pieczęciach państwowych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-02-20",
+  "entryIntoForce": "1956-02-20",
+  "validFrom": "1956-02-20",
+  "repealDate": "2005-09-24",
+  "changeDate": "2020-11-03T16:09:33",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przepisy karne",
+   "sprostowanie",
+   "pieczęcie urzędowe",
+   "godło i barwy państwa",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2005/1439",
+     "date": "2005-09-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1955/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19560043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19560043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
