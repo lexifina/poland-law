@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/669",
+ "source_sha256": "e510dc3162d3a06caca23f7bfd24b3e19c47f2cf772cdd6e3fbf78fc6bc87287",
+ "in_force": "1938-12-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/669",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/669/text/O/M19380669.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/669/text/I/M19380669.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/669",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 284,
+  "pos": 669,
+  "address": "WMP19382840669",
+  "displayAddress": "M.P. 1938 nr 284 poz. 669",
+  "title": "Obwieszczenie Zarządu Długów Państwa z dnia 2 grudnia 1938 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-12-02",
+  "promulgation": "1938-12-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380669.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380669.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
