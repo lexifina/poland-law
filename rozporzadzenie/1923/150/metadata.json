@@ -1,0 +1,63 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/150",
+ "source_sha256": "75fc5845ecb81766fe91a5b3cd7f06c0bb748ceadf82f41f37f17f691e45ad8f",
+ "in_force": "1923-02-26",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/150",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/150/text/O/D19230150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/150/text/I/D19230150.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/150",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 24,
+  "pos": 150,
+  "address": "WDU19230240150",
+  "displayAddress": "Dz.U. 1923 nr 24 poz. 150",
+  "title": "Rozporządzenie Ministra Przemysłu i Handlu w porozumieniu z Ministrem Skarbu z dnia 26 lutego 1923 r. o dalszem podniesieniu niektórych opłat probierczych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-02-26",
+  "repealDate": "1923-07-26",
+  "changeDate": "2014-12-31T12:22:25",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/563",
+     "date": "1923-07-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/470"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
