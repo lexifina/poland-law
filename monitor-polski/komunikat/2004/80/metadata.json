@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/80",
+ "source_sha256": "41d78b328e69fcd8dcf17426b4684d0493d891cef66ff2bb14bb791259ff6f0d",
+ "in_force": "2004-01-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/80/text/O/M20040080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/80/text/I/M20040080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/80",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 4,
+  "pos": 80,
+  "address": "WMP20040040080",
+  "displayAddress": "M.P. 2004 nr 4 poz. 80",
+  "title": "Komunikat Prezesa Państwowej Agencji Atomistyki z dnia 13 stycznia 2004 r. w sprawie sytuacji radiacyjnej kraju w IV kwartale 2003 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-01-13",
+  "promulgation": "2004-01-27",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. PAŃSTWOWEJ AGENCJI ATOMISTYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "promieniowanie",
+   "atomowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/18",
+     "art": "art. 81"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
