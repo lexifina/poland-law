@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/460",
+ "source_sha256": "5184396b20102ae25d62afb6488e279138486f57586ecf43091d459f54438fd5",
+ "in_force": "2002-07-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/460",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/460/text/O/M20020460.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/460/text/I/M20020460.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/460",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 28,
+  "pos": 460,
+  "address": "WMP20020280460",
+  "displayAddress": "M.P. 2002 nr 28 poz. 460",
+  "title": "Obwieszczenie Ministra Środowiska z dnia 25 czerwca 2002 r. w sprawie wykonania przepisów ustawy o postępowaniu z substancjami zubożającymi warstwę ozonową.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-06-25",
+  "promulgation": "2002-07-03",
+  "repealDate": "2004-06-15",
+  "changeDate": "2018-05-25T11:26:21",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/537"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/537",
+     "art": "art. 5 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2004/1263",
+     "date": "2004-06-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020460.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020460.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
