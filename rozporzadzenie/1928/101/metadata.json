@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/101",
+ "source_sha256": "50586578beb20c45e8b40e19c9a2b90e0458651d64b6bca8d9218e45673e664e",
+ "in_force": "1929-02-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/101/text/O/D19280101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/101/text/I/D19280101.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/101",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 14,
+  "pos": 101,
+  "address": "WDU19280140101",
+  "displayAddress": "Dz.U. 1928 nr 14 poz. 101",
+  "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 30 listopada 1927 r. w porozumieniu z Ministrem Skarbu w sprawie uposażenia dyrektora, instruktorów i prelegentów Państwowego Instytutu Wychowania Fizycznego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-11-30",
+  "entryIntoForce": "1929-02-07",
+  "validFrom": "1927-10-01",
+  "repealDate": "1931-09-30",
+  "changeDate": "2022-04-19T12:10:29",
+  "releasedBy": [
+   "MIN. WYZNAŃ RELIGIJNYCH I OŚWIECENIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "urzędy państwowe",
+   "wojsko",
+   "uposażenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/683",
+     "date": "1931-09-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1923/924"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1923/924",
+     "art": "art. 39"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
