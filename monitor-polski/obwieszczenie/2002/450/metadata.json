@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/450",
+ "source_sha256": "46685aecb8d623471e68f06e5b68a8bb2796c4cb308e2cdff4799598720ddd8d",
+ "in_force": "2002-07-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/450",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/450/text/O/M20020450.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/450/text/I/M20020450.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/450",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 27,
+  "pos": 450,
+  "address": "WMP20020270450",
+  "displayAddress": "M.P. 2002 nr 27 poz. 450",
+  "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 18 czerwca 2002 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Pracy i Polityki Społecznej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-06-18",
+  "promulgation": "2002-07-01",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór"
+  ],
+  "keywordsNames": [
+   "Min. Pracy i Polityki Społecznej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020450.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020450.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
