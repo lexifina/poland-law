@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/262",
+ "source_sha256": "e6f48beddda8976fe42f016cb762c5e8a9b4e5eca9de77e53fb80b03ae462d5a",
+ "in_force": "2001-05-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/262",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/262/text/O/M20010262.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/262/text/I/M20010262.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/262",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 16,
+  "pos": 262,
+  "address": "WMP20010160262",
+  "displayAddress": "M.P. 2001 nr 16 poz. 262",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 maja 2001 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego w III kwartale 2001 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-05-16",
+  "changeDate": "2019-03-22T14:26:50",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "waloryzacja",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 44 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010262.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010262.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
