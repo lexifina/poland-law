@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/226",
+ "source_sha256": "e76b0374dc08dc3d0d9d51e14b69987c31980c4c2ba34437e13f37086b5503c8",
+ "in_force": "1929-04-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/226",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/226/text/O/D19290226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/226/text/I/D19290226.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/226",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 22,
+  "pos": 226,
+  "address": "WDU19290220226",
+  "displayAddress": "Dz.U. 1929 nr 22 poz. 226",
+  "title": "Obwieszczenie Ministra Sprawiedliwości, Ministra Pracy i Opieki Społecznej, Ministra Spraw Wewnętrznych, Ministra Skarbu, Ministra Rolnictwa oraz Ministra Przemysłu i Handlu z dnia 9 marca 1929 r. o sprostowaniu błędu w rozporządzeniu Ministra Sprawiedliwości oraz Ministra Pracy i Opieki Społecznej w porozumieniu z Ministrami: Spraw Wewnętrznych, Skarbu, Rolnictwa oraz Przemysłu i Handlu z dnia 5 grudnia 1928 r. o ustanowieniu sądu pracy w Drohobyczu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-03-09",
+  "promulgation": "1929-04-11",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. ROLNICTWA",
+   "MIN. SPRAW WEWNĘTRZNYCH",
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. SKARBU",
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy pracy i ubezpieczeń społecznych",
+   "porządkowanie prawa",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/874"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290226.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
