@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/416",
+ "source_sha256": "2bef4df493e3dd853ad1680a6ae5a1179d7b903df0f36c4c464a48399ea908a1",
+ "in_force": "1999-05-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/416",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/416/text/O/D19990416.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/416/text/I/D19990416.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/416/text/T/D19990416L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/416",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 41,
+  "pos": 416,
+  "address": "WDU19990410416",
+  "displayAddress": "Dz.U. 1999 nr 41 poz. 416",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 27 kwietnia 1999 r. zmieniające rozporządzenie w sprawie warunków i trybu dopuszczania do użytku szkolnego programów nauczania z zakresu kształcenia ogólnego oraz warunków i trybu dopuszczania do użytku szkolnego podręczników i zalecania środków dydaktycznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-04-27",
+  "entryIntoForce": "1999-05-25",
+  "validFrom": "1999-05-25",
+  "repealDate": "2002-06-22",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/635",
+     "date": "2002-06-22"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/130",
+     "date": "1999-05-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 22 ust. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990416.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990416.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990416L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
