@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/900",
+ "source_sha256": "ab07627d95260eedb58ca4f53add0b2059420b895dbfe94a24ae1149c00c0457",
+ "in_force": "1999-10-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/900",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/900/text/O/D19990900.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/900/text/I/D19990900.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/900/text/T/D19990900L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/900",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 79,
+  "pos": 900,
+  "address": "WDU19990790900",
+  "displayAddress": "Dz.U. 1999 nr 79 poz. 900",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 września 1999 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i formy audytu energetycznego oraz algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego, a także wzorów kart audytu energetycznego.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-09-22",
+  "entryIntoForce": "1999-10-09",
+  "validFrom": "1999-10-09",
+  "repealDate": "2002-03-02",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "audyt",
+   "energetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/459",
+     "date": "1999-10-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1121"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1121",
+     "art": "art. 8 ust. 4 pkt 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/114",
+     "date": "2002-03-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990900.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990900.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990900L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
