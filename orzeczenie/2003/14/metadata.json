@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/14",
+ "source_sha256": "81f08ba8c0edfe6d61f90122bb01a65863f683b02929010fa8af554026a79db0",
+ "in_force": "2003-01-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 594 words, parsed 96; at 96: 'grudnia 2002 r . : 1 ) wniosku Federacji Związków'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/14",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/14/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/14/text/O/D20030014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/14/text/I/D20030014.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/14/text/T/D20030014L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/14",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 1,
+  "pos": 14,
+  "address": "WDU20030010014",
+  "displayAddress": "Dz.U. 2003 nr 1 poz. 14",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 grudnia 2002 r. sygn. akt K. 43/01",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-18",
+  "promulgation": "2003-01-08",
+  "entryIntoForce": "2003-01-08",
+  "validFrom": "2003-01-08",
+  "changeDate": "2024-03-15T09:52:57",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "wynagrodzenia przeciętne",
+   "zakłady opieki zdrowotnej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/45"
+    },
+    {
+     "id": "DU/1995/2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030014.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030014L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
