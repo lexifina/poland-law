@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/59",
+ "source_sha256": "1aca0ad35b36a8a25617f2ccf728dc25b08713c780a87fb4e1a88f9249541883",
+ "in_force": "1947-09-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/59",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/59/text/O/D19480059.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/59/text/I/D19480059.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/59",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 9,
+  "pos": 59,
+  "address": "WDU19480090059",
+  "displayAddress": "Dz.U. 1948 nr 9 poz. 59",
+  "title": "Układ o patentach niemieckich zawarty w Londynie dnia 21 lipca 1946 r.",
+  "type": "Układ",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-09-03",
+  "changeDate": "2021-03-02T10:57:42",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy gospodarcze",
+   "umowy międzynarodowe",
+   "wynalazczość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "status ustalono na podstawie Internetowej Bazy Traktatów MSZ:\n\nhttps://traktaty.msz.gov.pl/umowa-5",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1948/60"
+    },
+    {
+     "id": "DU/1948/369"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480059.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480059.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
