@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/15",
+ "source_sha256": "91c2fa8d4346ba3551fb50e77232f4e9c8650e050185d9815157f5acdebea606",
+ "in_force": "1929-01-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/15",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/15/text/O/D19290015.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/15/text/I/D19290015.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/15",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 1,
+  "pos": 15,
+  "address": "WDU19290010015",
+  "displayAddress": "Dz.U. 1929 nr 1 poz. 15",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 4 stycznia 1929 r. o sprostowaniu błędu w rozporządzeniu Ministra Sprawiedliwości z dnia 24 grudnia 1928 r., określającem liczbę izb cywilnych w Sądzie Najwyższym.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-01-04",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/946"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290015.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290015.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
