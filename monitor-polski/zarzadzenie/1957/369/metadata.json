@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/369",
+ "source_sha256": "bb7eaea9827608feda29ecf62ddc150e2dd77352e94e6e57914a4e65767a76b0",
+ "in_force": "1957-07-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/369",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/369/text/O/M19570369.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/369/text/I/M19570369.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/369",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 60,
+  "pos": 369,
+  "address": "WMP19570600369",
+  "displayAddress": "M.P. 1957 nr 60 poz. 369",
+  "title": "Zarządzenie Ministra Finansów z dnia 27 czerwca 1957 r. w sprawie pokrywania niedoborów kasowych jednostek budżetowych",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-06-27",
+  "entryIntoForce": "1957-07-29",
+  "validFrom": "1957-07-29",
+  "repealDate": "1961-02-25",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/87",
+     "date": "1961-02-25"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1953/1415",
+     "date": "1957-07-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1953/592"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1953/592",
+     "art": "par. 68 ust. 5"
+    },
+    {
+     "id": "MP/1953/592",
+     "art": "par. 97 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570369.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570369.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
