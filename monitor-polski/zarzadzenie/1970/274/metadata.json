@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/274",
+ "source_sha256": "5a543a65e8b1897d92713cec3d238f3216d87ca288ab4739de6f525f19a9db20",
+ "in_force": "1971-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/274",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/274/text/O/M19700274.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/274/text/I/M19700274.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/274",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 35,
+  "pos": 274,
+  "address": "WMP19700350274",
+  "displayAddress": "M.P. 1970 nr 35 poz. 274",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 20 października 1970 r. w sprawie wzorów praw jazdy.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-10-20",
+  "entryIntoForce": "1971-01-01",
+  "validFrom": "1971-01-01",
+  "repealDate": "1984-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1964/344",
+     "date": "1971-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1968/183"
+    },
+    {
+     "id": "DU/1961/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1968/183",
+     "art": "par. 211 ust. 9"
+    },
+    {
+     "id": "DU/1961/295",
+     "art": "art. 20 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/35",
+     "date": "1984-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700274.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700274.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
