@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/312",
+ "source_sha256": "f11201d69731b26e672017761b8f4cff79e1ae9a322a6a780531d240a9bc0d8a",
+ "in_force": "1972-12-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/312/text/O/M19720312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/312/text/I/M19720312.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/312",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 58,
+  "pos": 312,
+  "address": "WMP19720580312",
+  "displayAddress": "M.P. 1972 nr 58 poz. 312",
+  "title": "Zarządzenie Ministra Sprawiedliwości z dnia 12 grudnia 1972 r. w sprawie odznaki Wzorowego Funkcjonariusza Służby Więziennej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-12-12",
+  "entryIntoForce": "1972-12-30",
+  "validFrom": "1972-12-30",
+  "repealDate": "1986-08-29",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1986/182",
+     "date": "1986-08-29"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/254",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1977/159",
+     "date": "1977-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/436"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1959/436",
+     "art": "art. 39"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720312.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
