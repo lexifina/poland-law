@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/131",
+ "source_sha256": "cf4e5270608d3e9805a06ea7a171a62f33c0e8e67f0c13ffd5b125953cd0c93e",
+ "in_force": "1935-03-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1300 words, parsed 1271; at 400: 'życie z dniem ogłoszenia . aaaZałącznik do ustawy z dnia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/131",
+  "html": "https://eli.gov.pl/api/acts/DU/1935/131/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/131/text/O/D19350131.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/131/text/I/D19350131.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/131",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 22,
+  "pos": 131,
+  "address": "WDU19350220131",
+  "displayAddress": "Dz.U. 1935 nr 22 poz. 131",
+  "title": "Ustawa z dnia 26 marca 1935 r. o zatwierdzeniu zmian statutu Banku Polskiego.",
+  "type": "Ustawa",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-03-26",
+  "promulgation": "1935-03-30",
+  "entryIntoForce": "1935-03-30",
+  "validFrom": "1935-03-30",
+  "changeDate": "2024-03-15T10:53:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut",
+   "banki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 44"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19350131.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350131.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
