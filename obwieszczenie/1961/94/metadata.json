@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1961/94",
+ "source_sha256": "1e8223b5ea5139178ea7778fe682e3222dc45b5d153403c2c6d83dab2eb78e78",
+ "in_force": "1961-03-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1961/94",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1961/94/text/O/D19610094.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1961/94/text/I/D19610094.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1961/94",
+  "publisher": "DU",
+  "year": 1961,
+  "volume": 18,
+  "pos": 94,
+  "address": "WDU19610180094",
+  "displayAddress": "Dz.U. 1961 nr 18 poz. 94",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 20 marca 1961 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 12 marca 1958 r. o zasadach i trybie wywłaszczania nieruchomości.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-03-20",
+  "expirationDate": "1974-03-14",
+  "changeDate": "2017-11-23T15:43:53",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/32"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1958/70"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19610094.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19610094.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
