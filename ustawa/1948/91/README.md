@@ -1,0 +1,4 @@
+# Ustawa z dnia 25 lutego 1948 r. o udzielaniu poręki państwowej.
+
+Dz.U. 1948 nr 12 poz. 91 · <https://eli.gov.pl/api/acts/DU/1948/91>
+
