@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1234",
+ "source_sha256": "f67c8f72fd5bd9164621d9e65a4e8c4f4a8f1f3ba8f27dd5b1b636db2547d701",
+ "in_force": "2000-12-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1234/text/O/D20001234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1234/text/I/D20001234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1234",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 117,
+  "pos": 1234,
+  "address": "WDU20001171234",
+  "displayAddress": "Dz.U. 2000 nr 117 poz. 1234",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 21 grudnia 2000 r. zmieniające rozporządzenie w sprawie nadania statutu Ministerstwu Sprawiedliwości.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-12-21",
+  "entryIntoForce": "2000-12-23",
+  "validFrom": "2000-12-23",
+  "repealDate": "2002-03-22",
+  "changeDate": "2014-12-31T12:25:51",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Sprawiedliwości"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/138",
+     "date": "2000-12-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2002/199",
+     "date": "2002-03-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20001234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
