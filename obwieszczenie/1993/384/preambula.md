@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 czerwca 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) prostuje się następujący błąd:
+
+W rozporządzeniu Rady Ministrów z dnia 13 lipca 1993 r. w sprawie określenia zadań i kompetencji z zakresu rządowej administracji ogólnej i specjalnej, które mogą być przekazane niektórym gminom o statusie miasta, wraz z mieniem służącym do ich wykonywania, a także zasad i trybu przekazania (Dz. U. Nr 65, poz. 309), w § 1 w ust. 3 w pkt 9 lit. a) zamiast wyrazów „w art. 2 pkt 3-5” powinny być wyrazy „w art. 2 pkt 3 i 5”.
