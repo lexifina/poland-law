@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/485",
+ "source_sha256": "2c2622450563c7f49b7f772a557a1aa72ac56f19049899c78920cfae40622321",
+ "in_force": "1950-11-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/485",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/485/text/O/D19500485.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/485/text/I/D19500485.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/485",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 53,
+  "pos": 485,
+  "address": "WDU19500530485",
+  "displayAddress": "Dz.U. 1950 nr 53 poz. 485",
+  "title": "Rozporządzenie Ministra Handlu Wewnętrznego z dnia 26 października 1950 r. w sprawie uchylenia rozporządzenia z dnia 25 listopada 1947 r. o Polskim Komitecie Żywnościowym.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-10-26",
+  "entryIntoForce": "1950-11-29",
+  "validFrom": "1950-11-29",
+  "repealDate": "1950-11-30",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1947/472",
+     "date": "1950-11-29"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1950/485",
+     "date": "1950-11-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/62"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/485",
+     "date": "1950-11-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500485.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500485.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
