@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/238",
+ "source_sha256": "037e5abc12d88038f6b6006aa403c574fe25db74e747540542882de2ba977c3e",
+ "in_force": "1931-07-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/238",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/238/text/O/M19310238.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/238/text/I/M19310238.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/238",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 160,
+  "pos": 238,
+  "address": "WMP19311600238",
+  "displayAddress": "M.P. 1931 nr 160 poz. 238",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-07-15",
+  "promulgation": "1931-07-15",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/839"
+    },
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/839",
+     "art": "par. 10 ust. 2"
+    },
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/636",
+     "art": "par. 3"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 13"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 14"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310238.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310238.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
