@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1993/641",
+ "source_sha256": "b9e8fe328ed3f6d7e426c29df6476c737df561fba6983987a7abd9ab1608ed61",
+ "in_force": "1993-12-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1993/641",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1993/641/text/O/D19930641.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1993/641/text/I/D19930641.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1993/641",
+  "publisher": "DU",
+  "year": 1993,
+  "volume": 133,
+  "pos": 641,
+  "address": "WDU19931330641",
+  "displayAddress": "Dz.U. 1993 nr 133 poz. 641",
+  "title": "Rozporządzenie Ministra Finansów z dnia 28 grudnia 1993 r. zmieniające rozporządzenie w sprawie wykonania niektórych przepisów ustawy o podatku dochodowym od osób fizycznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-12-28",
+  "entryIntoForce": "1993-12-30",
+  "validFrom": "1993-12-30",
+  "repealDate": "1995-01-01",
+  "changeDate": "2014-12-31T12:25:41",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1995/173",
+     "date": "1995-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/553",
+     "date": "1994-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/350",
+     "art": "art. 2 ust. 5 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19930641.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19930641.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
