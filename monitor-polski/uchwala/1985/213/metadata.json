@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1985/213",
+ "source_sha256": "d29135e2806865356806d8cae042e409e7f3902672f7bdf387b8f209aacbf3ee",
+ "in_force": "1985-11-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1985/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1985/213/text/O/M19850213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1985/213/text/I/M19850213.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1985/213",
+  "publisher": "MP",
+  "year": 1985,
+  "volume": 32,
+  "pos": 213,
+  "address": "WMP19850320213",
+  "displayAddress": "M.P. 1985 nr 32 poz. 213",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 6 listopada 1985 r. w sprawie wyboru wicemarszałków Sejmu.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1985-11-06",
+  "entryIntoForce": "1985-11-06",
+  "validFrom": "1985-11-06",
+  "repealDate": "1989-06-03",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 23 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1989/101",
+     "date": "1989-06-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19850213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19850213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
