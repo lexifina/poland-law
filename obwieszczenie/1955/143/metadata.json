@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1955/143",
+ "source_sha256": "cdcdc59057d384152489ba597558fc584d45a8e8af98effe6d25b29b7ef5e322",
+ "in_force": "1955-06-08",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1955/143",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1955/143/text/O/D19550143.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1955/143/text/I/D19550143.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1955/143",
+  "publisher": "DU",
+  "year": 1955,
+  "volume": 23,
+  "pos": 143,
+  "address": "WDU19550230143",
+  "displayAddress": "Dz.U. 1955 nr 23 poz. 143",
+  "title": "Obwieszczenie Ministra Finansów z dnia 8 czerwca 1955 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 30 czerwca 1951 r. o podatku gruntowym.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-06-08",
+  "repealDate": "1972-01-01",
+  "changeDate": "2017-11-23T15:43:43",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1955/142"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1951/283"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1971/254",
+     "date": "1972-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19550143.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19550143.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
