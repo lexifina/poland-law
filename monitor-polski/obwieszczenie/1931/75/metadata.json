@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/75",
+ "source_sha256": "f046dcd3fde0cd9645279a73fa1bda108114cdf7450cf87dcf37e9682d9c681d",
+ "in_force": "1931-02-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/75",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/75/text/O/M19310075.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/75/text/I/M19310075.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/75",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 48,
+  "pos": 75,
+  "address": "WMP19310480075",
+  "displayAddress": "M.P. 1931 nr 48 poz. 75",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 25 lutego 1931 r. o wartości jednego grama czystego złota",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-02-25",
+  "promulgation": "1931-02-28",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/932"
+    },
+    {
+     "id": "DU/1927/855"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/932",
+     "art": "art. 16"
+    },
+    {
+     "id": "DU/1927/855",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310075.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310075.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
