@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/3",
+ "source_sha256": "e1bd50dcdc682765051ee9ad7343635bd6ccaa2ea4e587e2b238ef8a46a846b7",
+ "in_force": "1982-01-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/3/text/O/M19820003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/3/text/I/M19820003.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/3",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 2,
+  "pos": 3,
+  "address": "WMP19820020003",
+  "displayAddress": "M.P. 1982 nr 2 poz. 3",
+  "title": "Zarządzenie nr 1 Prezesa Rady Ministrów z dnia 5 stycznia 1982 r. w sprawie statusu zakładowych radiowęzłów w przedsiębiorstwach państwowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-01-05",
+  "entryIntoForce": "1982-01-20",
+  "validFrom": "1982-01-20",
+  "repealDate": "1984-08-30",
+  "changeDate": "2022-11-24T12:21:07",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "status"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1984/210",
+     "date": "1984-08-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1981/122"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
