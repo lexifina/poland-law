@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1337",
+ "source_sha256": "443ddf31d116be3ac74886caaa99c1b5596dd288024883665f07ca7780e5bbef",
+ "in_force": "2003-08-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1337",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1337/text/O/D20031337.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1337/text/I/D20031337.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1337",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 139,
+  "pos": 1337,
+  "address": "WDU20031391337",
+  "displayAddress": "Dz.U. 2003 nr 139 poz. 1337",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 10 lipca 2003 r. w sprawie zakresu świadczeń zdrowotnych, w szczególności badań przesiewowych, oraz okresów, w których te badania są przeprowadzane",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-07-10",
+  "promulgation": "2003-08-08",
+  "entryIntoForce": "2003-08-23",
+  "validFrom": "2003-08-23",
+  "repealDate": "2004-12-31",
+  "changeDate": "2014-12-31T12:25:59",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia lecznicze",
+   "ubezpieczenia zdrowotne",
+   "badania lekarskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/391"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/391",
+     "art": "art. 50 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2004/2135",
+     "date": "2004-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20031337.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031337.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
