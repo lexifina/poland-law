@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/11",
+ "source_sha256": "4a6cbf564c6ac0ef04ea6cd2770b50299b8337598ea5a39ca2a2b1251dd1870b",
+ "in_force": "1922-12-19",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/11/text/O/D19230011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/11/text/I/D19230011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/11",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 3,
+  "pos": 11,
+  "address": "WDU19230030011",
+  "displayAddress": "Dz.U. 1923 nr 3 poz. 11",
+  "title": "Rozporządzenie Rady Ministrów z dnia 19 grudnia 1922 r. w sprawie podwyższenia djet należnych funkcjonarjuszom państwowym w razie podróży służbowych do Niemiec, w. m. Gdańska i na Górny Śląsk.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-12-19",
+  "changeDate": "2020-09-23T13:40:22",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1923/101",
+     "date": "1923-02-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/226"
+    },
+    {
+     "id": "DU/1920/507"
+    },
+    {
+     "id": "DU/1920/436"
+    },
+    {
+     "id": "DU/1920/433"
+    },
+    {
+     "id": "DU/1920/431"
+    },
+    {
+     "id": "DU/1920/430"
+    },
+    {
+     "id": "DU/1920/429"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
