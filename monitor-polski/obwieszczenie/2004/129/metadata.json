@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/129",
+ "source_sha256": "2d8cbcedf19e02c4404c97edbc432148e28ffdbc1a6c76732872df547232c230",
+ "in_force": "2004-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/129",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/129/text/O/M20040129.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/129/text/I/M20040129.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/129",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 8,
+  "pos": 129,
+  "address": "WMP20040080129",
+  "displayAddress": "M.P. 2004 nr 8 poz. 129",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 6 lutego 2004 r. o podaniu do publicznej wiadomości prawomocnego orzeczenia Sądu stwierdzającego niezgodność z prawdą oświadczenia osoby lustrowanej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-02-06",
+  "promulgation": "2004-02-13",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. SĄDU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040129.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040129.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
