@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/149",
+ "source_sha256": "2013ee64f866f1607af7a17bebdd5b74f6fd3458b7b98666d603c5590c563a69",
+ "in_force": "1931-04-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/149",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/149/text/O/M19310149.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/149/text/I/M19310149.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/149",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 98,
+  "pos": 149,
+  "address": "WMP19310980149",
+  "displayAddress": "M.P. 1931 nr 98 poz. 149",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 10 kwietnia 1931 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-04-10",
+  "promulgation": "1931-04-29",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/99"
+    },
+    {
+     "id": "DU/1928/190"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/99",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1928/190",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310149.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310149.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
