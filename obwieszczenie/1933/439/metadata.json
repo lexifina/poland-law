@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/439",
+ "source_sha256": "3cf4b5941b8b906fdf7878e9f4be2bbb0fbec89a64e7a9f20baaac2600a46d45",
+ "in_force": "1933-07-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/439",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/439/text/O/D19330439.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/439/text/I/D19330439.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/439",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 58,
+  "pos": 439,
+  "address": "WDU19330580439",
+  "displayAddress": "Dz.U. 1933 nr 58 poz. 439",
+  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 28 czerwca 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy o potrąceniach z uposażenia i zaopatrzenia emerytalnego osób wojskowych oraz funkcjonarjuszów państwowych w administracji wojskowej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-06-28",
+  "promulgation": "1933-07-28",
+  "repealDate": "1958-07-01",
+  "changeDate": "2022-04-19T12:10:29",
+  "releasedBy": [
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "wojsko",
+   "emerytury i renty",
+   "uposażenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1958/165",
+     "date": "1958-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/258"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/258",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/312"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330439.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330439.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
