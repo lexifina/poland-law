@@ -1,0 +1,102 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/1042",
+ "source_sha256": "34f45e1f43410f522f93e842ba8396272a63924b775fe3267e6109587cb8114b",
+ "in_force": "1997-12-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/1042",
+  "html": "https://eli.gov.pl/api/acts/DU/1997/1042/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/1042/text/O/D19971042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/1042/text/I/D19971042.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1997/1042/text/T/D19971042L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/1042",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 158,
+  "pos": 1042,
+  "address": "WDU19971581042",
+  "displayAddress": "Dz.U. 1997 nr 158 poz. 1042",
+  "title": "Ustawa z dnia 4 grudnia 1997 r. o zmianie ustawy - Prawo budżetowe i ustawy - Prawo energetyczne.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1997-12-04",
+  "promulgation": "1997-12-24",
+  "entryIntoForce": "1997-12-24",
+  "validFrom": "1997-12-05",
+  "changeDate": "2024-03-15T11:35:44",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "energetyka",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/55.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/55",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/55",
+    "number": "55",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1999/281",
+     "date": "1999-04-08"
+    },
+    {
+     "id": "DU/1998/1014",
+     "date": "1999-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/348",
+     "date": "1997-12-05"
+    },
+    {
+     "id": "DU/1991/18",
+     "date": "1997-12-05"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/1999/281"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19971042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19971042.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19971042L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
