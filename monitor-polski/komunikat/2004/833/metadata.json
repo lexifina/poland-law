@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/833",
+ "source_sha256": "a67d93e3495a9e6c01bee03fe5721385f1a188085c4ff0e79f66a64a6d671e2e",
+ "in_force": "2004-11-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/833",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/833/text/O/M20040833.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/833/text/I/M20040833.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/833",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 48,
+  "pos": 833,
+  "address": "WMP20040480833",
+  "displayAddress": "M.P. 2004 nr 48 poz. 833",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 10 listopada 2004 r. w sprawie przeciętnego wynagrodzenia w trzecim kwartale 2004 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-11-10",
+  "promulgation": "2004-11-19",
+  "changeDate": "2020-11-13T11:47:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040833.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040833.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
