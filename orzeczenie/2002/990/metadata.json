@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/990",
+ "source_sha256": "39855522f624bd82f541da5dd3a5c5e990db2fec6416aef31deb9381e92149c7",
+ "in_force": "2002-07-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 455 words, parsed 67; at 67: 'r . , sprawy : 1 ) z pytania prawnego'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/990",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/990/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/990/text/O/D20020990.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/990/text/I/D20020990.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/990/text/T/D20020990TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/990",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 113,
+  "pos": 990,
+  "address": "WDU20021130990",
+  "displayAddress": "Dz.U. 2002 nr 113 poz. 990",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2002 r. sygn. akt P. 12/01.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-07-04",
+  "promulgation": "2002-07-20",
+  "entryIntoForce": "2002-07-20",
+  "validFrom": "2002-07-20",
+  "changeDate": "2024-03-15T10:06:33",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "upadłościowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1934/834"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020990.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020990.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020990TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
