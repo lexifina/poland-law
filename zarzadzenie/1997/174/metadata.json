@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/174",
+ "source_sha256": "480166e8e19f5d41eb760d9b4b4ec15dd805ca589c4bce43c3b4751fb1e5e119",
+ "in_force": "1997-04-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/174",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/174/text/O/D19970174.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/174/text/I/D19970174.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/174",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 31,
+  "pos": 174,
+  "address": "WDU19970310174",
+  "displayAddress": "Dz.U. 1997 nr 31 poz. 174",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. w sprawie przeprowadzenia referendum konstytucyjnego.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-04-02",
+  "entryIntoForce": "1997-04-02",
+  "validFrom": "1997-04-02",
+  "repealDate": "1997-10-17",
+  "changeDate": "2014-12-31T12:25:46",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konstytucja",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/487"
+    },
+    {
+     "id": "DU/1992/336"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/487",
+     "art": "art. 13 ust. 1"
+    },
+    {
+     "id": "DU/1992/336",
+     "art": "art. 9"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1997/483",
+     "date": "1997-10-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19970174.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970174.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
