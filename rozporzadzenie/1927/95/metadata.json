@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/95",
+ "source_sha256": "47309acab2f675689ece1db3938bd9d9363e8eb1fce9a42c583e87581e09baec",
+ "in_force": "1926-12-29",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/95",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/95/text/O/D19270095.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/95/text/I/D19270095.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/95",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 12,
+  "pos": 95,
+  "address": "WDU19270120095",
+  "displayAddress": "Dz.U. 1927 nr 12 poz. 95",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 29 grudnia 1926 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych i Spraw Wojskowych w celu wykonania ustawy z dnia 2 sierpnia 1926 r. o podatku od lokali.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-12-29",
+  "repealDate": "1934-09-28",
+  "changeDate": "2014-12-31T12:24:02",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1934/772",
+     "date": "1934-09-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/550"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270095.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270095.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
