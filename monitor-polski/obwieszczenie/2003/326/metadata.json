@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/326",
+ "source_sha256": "29e236b8e6cfa1bcf7a787f9b7d35ea097380318c3b3f9e21071c1258bc68318",
+ "in_force": "2003-04-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/326",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/326/text/O/M20030326.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/326/text/I/M20030326.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/326",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 21,
+  "pos": 326,
+  "address": "WMP20030210326",
+  "displayAddress": "M.P. 2003 nr 21 poz. 326",
+  "title": "Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 16 kwietnia 2003 r. w sprawie wskaźnika waloryzacji, kwot dochodu po waloryzacji i wysokości świadczeń pomocy społecznej oraz kwoty stanowiącej podstawę ustalania wysokości niektórych świadczeń pomocy społecznej od dnia 1 czerwca 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-04-16",
+  "promulgation": "2003-04-30",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc społeczna",
+   "waloryzacja",
+   "wskaźnik",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2000/1160"
+    },
+    {
+     "id": "DU/1997/12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/506"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/506",
+     "art": "art. 35a ust. 6"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/2003/456"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030326.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030326.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
