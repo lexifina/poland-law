@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/14",
+ "source_sha256": "ffb4572824d4e5d7b1c3cfb80e8852b73899461322e24d67a545e3c97f628275",
+ "in_force": "1945-02-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/14",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/14/text/O/D19450014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/14/text/I/D19450014.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/14",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 4,
+  "pos": 14,
+  "address": "WDU19450040014",
+  "displayAddress": "Dz.U. 1945 nr 4 poz. 14",
+  "title": "Dekret z dnia 15 stycznia 1945 r. o Narodowym Banku Polskim.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-01-15",
+  "entryIntoForce": "1945-02-02",
+  "validFrom": "1945-02-02",
+  "repealDate": "1958-12-10",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SKARBU"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1958/356",
+     "date": "1958-12-10"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1946/212"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1939/296",
+     "date": "1945-02-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450014.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
