@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/334",
+ "source_sha256": "74d3ed0de9702373a493665eb9a6fbc267391a78de001fca55165116f8104a39",
+ "in_force": "1939-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/334",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/334/text/O/D19390334.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/334/text/I/D19390334.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/334",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 52,
+  "pos": 334,
+  "address": "WDU19390520334",
+  "displayAddress": "Dz.U. 1939 nr 52 poz. 334",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 6 kwietnia 1939 r. o sprostowaniu błędu w tekście oświadczenia rządowego z dnia 13 marca 1939 r. w sprawie ratyfikacji i wymiany dokumentów ratyfikacyjnych protokołu taryfowego między Polską a Estonią, podpisanego w Warszawie dnia 19 lutego 1938 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-04-06",
+  "promulgation": "1939-06-15",
+  "changeDate": "2020-11-03T15:55:21",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "umowy międzynarodowe",
+   "sprostowanie",
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [
+   "Estonia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 4"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1939/141"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390334.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390334.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
