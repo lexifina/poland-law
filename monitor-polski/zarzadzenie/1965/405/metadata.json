@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/405",
+ "source_sha256": "0d80302a1fe1b55b311a7520eaf9bc3c8a3ccddbb29c07c491f71913380fdfa6",
+ "in_force": "1965-12-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/405",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/405/text/O/M19650405.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/405/text/I/M19650405.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/405",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 70,
+  "pos": 405,
+  "address": "WMP19650700405",
+  "displayAddress": "M.P. 1965 nr 70 poz. 405",
+  "title": "Zarządzenie Ministra Finansów z dnia 11 grudnia 1965 r. w sprawie opracowania i zatwierdzania planów finansowych jednostek i zakładów budżetowych objętych budżetem centralnym na rok 1966.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-12-11",
+  "entryIntoForce": "1965-12-24",
+  "validFrom": "1965-12-24",
+  "repealDate": "1971-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1964/60"
+    },
+    {
+     "id": "MP/1964/31"
+    },
+    {
+     "id": "MP/1959/160"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/221",
+     "art": "art. 51"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1970/244",
+     "date": "1971-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650405.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650405.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
