@@ -1,0 +1,58 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/102",
+ "source_sha256": "526eb71e52c25ada12adbac209a857e54e47a2783d63d530357d09804558effd",
+ "in_force": "1948-02-12",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/102/text/O/D19480102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/102/text/I/D19480102.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/102",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 13,
+  "pos": 102,
+  "address": "WDU19480130102",
+  "displayAddress": "Dz.U. 1948 nr 13 poz. 102",
+  "title": "Oświadczenie rządowe z dnia 12 lutego 1948 r. w sprawie ratyfikacji Umowy o komunikacji lotniczej między Polską a Jugosławią z dnia 22 sierpnia 1947 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1948-02-12",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratyfikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/101"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
