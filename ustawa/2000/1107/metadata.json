@@ -1,0 +1,109 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1107",
+ "source_sha256": "fd8033255f96f5e67e647ada6d44a2a377d420d05388f818336794a0ff545cfd",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1107",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1107/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1107/text/O/D20001107.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1107/text/I/D20001107.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1107/text/T/D20001107L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1107",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 105,
+  "pos": 1107,
+  "address": "WDU20001051107",
+  "displayAddress": "Dz.U. 2000 nr 105 poz. 1107",
+  "title": "Ustawa z dnia 17 listopada 2000 r. o zmianie ustawy o podatku od towarów i usług oraz o podatku akcyzowym.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-11-17",
+  "promulgation": "2000-11-30",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "repealDate": "2004-05-01",
+  "changeDate": "2024-03-15T09:49:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek akcyzowy",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2221.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2221",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2221",
+    "number": "2221",
+    "term": 3
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2222.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2222",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2222",
+    "number": "2222",
+    "term": 3
+   }
+  ],
+  "comments": "art. 1 pkt 4, pkt 5 lit. b) i d), pkt 12 lit. b), pkt 14 lit. a), e) i f) i pkt 16, które wchodzą w życie z dniem 30 listopada 2000 r.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/535",
+     "date": "2004-05-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/794",
+     "date": "2002-06-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1993/50",
+     "date": "2001-01-01"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2002/794"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001107.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001107.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001107L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
