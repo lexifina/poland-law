@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/29",
+ "source_sha256": "12273b8daedd0826cb5facfbfe47cdb3d66b3326a95dbe6e329c9eddff0a4ab1",
+ "in_force": "1928-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/29",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/29/text/O/D19280029.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/29/text/I/D19280029.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/29",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 4,
+  "pos": 29,
+  "address": "WDU19280040029",
+  "displayAddress": "Dz.U. 1928 nr 4 poz. 29",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 9 grudnia 1927 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu w sprawie zmiany rozporządzenia wykonawczego do ustawy o opłatach stemplowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-12-09",
+  "entryIntoForce": "1928-01-13",
+  "validFrom": "1928-01-13",
+  "repealDate": "1932-12-09",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/842",
+     "date": "1932-12-09"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1926/713",
+     "date": "1928-01-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/570"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/570",
+     "art": "art. 176"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280029.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280029.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
