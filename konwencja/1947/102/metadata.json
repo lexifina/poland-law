@@ -1,0 +1,63 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/102",
+ "source_sha256": "c1f05c36231680702c06d83a2f3147151683b64f399eaae7cc489425c477db53",
+ "in_force": "1946-05-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/102/text/O/D19470102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/102/text/I/D19470102.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/102",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 26,
+  "pos": 102,
+  "address": "WDU19470260102",
+  "displayAddress": "Dz.U. 1947 nr 26 poz. 102",
+  "title": "Konwencja o współpracy kulturalnej między Rzecząpospolitą Polską i Federacyjną Ludową Republiką Jugosławii.",
+  "type": "Konwencja",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-05-20",
+  "repealDate": "1956-10-18",
+  "changeDate": "2014-12-31T12:22:33",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1947/103"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1957/99",
+     "date": "1956-10-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
