@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1992/215",
+ "source_sha256": "139c4a47281ecfaddbd479dea528a85fe08f1e4ee07442891ab295a6e35cbf94",
+ "in_force": "1992-10-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1992/215",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1992/215/text/O/M19920215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1992/215/text/I/M19920215.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1992/215",
+  "publisher": "MP",
+  "year": 1992,
+  "volume": 31,
+  "pos": 215,
+  "address": "WMP19920310215",
+  "displayAddress": "M.P. 1992 nr 31 poz. 215",
+  "title": "Zarządzenie Ministra Edukacji Narodowej z dnia 27 sierpnia 1992 r. zmieniające zarządzenie w sprawie określenia rodzajów dyplomów i tytułów zawodowych oraz wzoru dyplomu wydawanego przez uczelnie.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-08-27",
+  "entryIntoForce": "1992-10-02",
+  "validFrom": "1992-10-02",
+  "repealDate": "2004-09-07",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe",
+   "szkolnictwo wyższe",
+   "dokumenty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/1881",
+     "date": "2004-09-07"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1992/85",
+     "date": "1992-10-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/385"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/385",
+     "art": "art. 149 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19920215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19920215.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
