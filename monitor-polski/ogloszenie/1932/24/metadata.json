@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/24",
+ "source_sha256": "c12f04e8ed837595e33e0eec3bb5d081920166866118665b533be7b7c42062f1",
+ "in_force": "1932-01-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/24",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/24/text/O/M19320024.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/24/text/I/M19320024.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/24",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 20,
+  "pos": 24,
+  "address": "WMP19320200024",
+  "displayAddress": "M.P. 1932 nr 20 poz. 24",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 20 stycznia 1932 r. L.dz.2503/32",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-20",
+  "promulgation": "1932-01-26",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320024.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320024.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
