@@ -1,0 +1,23 @@
+Trybunał Konstytucyjny w składzie:
+
+Bohdan Zdziennicki - przewodniczący,
+
+Teresa Dębowska-Romanowska - sprawozdawca,
+
+Janusz Niemcewicz,
+
+Mirosław Wyrzykowski,
+
+Marian Zdyb,
+
+protokolant: Grażyna Szałygo,
+
+po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 9 listopada 2004 r., pytania prawnego Sądu Okręgowego w Poznaniu o zbadanie zgodności art. 87 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) z art. 63 w związku z art. 32 ust. 1, art. 45 ust. 1 i art. 31 ust. 3 Konstytucji,
+
+orzeka:
+
+Art. 87 § 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) jest zgodny z art. 32 ust. 1, art. 45 ust. 1 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 63 Konstytucji.
+
+Ponadto postanawia:
+
+na podstawie art. 39 ust. 1 pkt 1 i art. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638 oraz z 2001 r. Nr 98, poz. 1070) umorzyć postępowanie w zakresie dotyczącym badania zgodności art. 87 § 2-6 k.p.c. z art. 31 ust. 3, art. 32 ust. 1, art. 45 ust. 1 i art. 63 Konstytucji ze względu na niedopuszczalność orzekania.
