@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/567",
+ "source_sha256": "0e37bbdca9ddd8d776834cec5758b89187c8a11ea9550166d0862fa475d0408d",
+ "in_force": "1999-11-29",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/567",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/567/text/O/M19990567.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/567/text/I/M19990567.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/567",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 37,
+  "pos": 567,
+  "address": "WMP19990370567",
+  "displayAddress": "M.P. 1999 nr 37 poz. 567",
+  "title": "Obwieszczenie Ministra Finansów z dnia 29 listopada 1999 r. w sprawie wysokości kwot przychodów podlegających opodatkowaniu podatkiem dochodowym w formie ryczałtu od przychodów ewidencjonowanych oraz stawek karty podatkowej obowiązujących w 2000 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-29",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt podatkowy",
+   "karta podatkowa",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/930"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/930",
+     "art": "art. 55"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990567.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990567.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
