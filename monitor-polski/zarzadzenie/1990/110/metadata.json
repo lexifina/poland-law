@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/110",
+ "source_sha256": "c67730c136850a970f46011bbf59126cce60db57c947edc8c39176c1c75a540d",
+ "in_force": "1990-04-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/110",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/110/text/O/M19900110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/110/text/I/M19900110.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/110",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 14,
+  "pos": 110,
+  "address": "WMP19900140110",
+  "displayAddress": "M.P. 1990 nr 14 poz. 110",
+  "title": "Zarządzenie Ministra Edukacji Narodowej z dnia 26 marca 1990 r. zmieniające zarządzenie w sprawie wynagradzania nauczycieli.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-03-26",
+  "entryIntoForce": "1990-04-19",
+  "validFrom": "1990-01-01",
+  "repealDate": "1994-01-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "wynagrodzenia",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1994/80",
+     "date": "1994-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1989/222",
+     "date": "1990-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/24"
+    },
+    {
+     "id": "DU/1989/192"
+    },
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/19",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900110.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
