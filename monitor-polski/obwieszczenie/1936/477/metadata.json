@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/477",
+ "source_sha256": "d2ec8ca4109b65468baca8e80ff4e12ae2047cb65a34fc4452e13ee629aaa2df",
+ "in_force": "1936-11-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/477",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/477/text/O/M19360477.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/477/text/I/M19360477.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/477",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 268,
+  "pos": 477,
+  "address": "WMP19362680477",
+  "displayAddress": "M.P. 1936 nr 268 poz. 477",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 5 listopada 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-11-05",
+  "promulgation": "1936-11-17",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "bony inwestycyjne",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360477.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360477.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
