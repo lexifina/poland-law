@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/342",
+ "source_sha256": "f7b7f917e53a47d87b9c2c2196151322f003dc7b780fdd4269e1f57e1b2e334e",
+ "in_force": "1920-07-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/342",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/342/text/O/D19200342.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/342/text/I/D19200342.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/342",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 55,
+  "pos": 342,
+  "address": "WDU19200550342",
+  "displayAddress": "Dz.U. 1920 nr 55 poz. 342",
+  "title": "Rozporządzenie wykonawcze Ministra Spraw Wojskowych i Ministra Kolei Żelaznych do ustawy z dnia 27 marca 1920 r. o kolejach w czasie wojny.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-06-25",
+  "entryIntoForce": "1920-07-15",
+  "validFrom": "1920-07-15",
+  "repealDate": "1921-06-04",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. KOLEI ŻELAZNYCH",
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny",
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1921/272",
+     "date": "1921-06-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/160"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19200342.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200342.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
