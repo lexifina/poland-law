@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/81",
+ "source_sha256": "870afd5b75519ecaedd29d579e4cdd9d53744c7ce7c9f9cc644f94e95c41ef61",
+ "in_force": "1934-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/81",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/81/text/O/M19340081.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/81/text/I/M19340081.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/81",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 58,
+  "pos": 81,
+  "address": "WMP19340580081",
+  "displayAddress": "M.P. 1934 nr 58 poz. 81",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 7 marca 1934 r. Nr 2561/34",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-03-07",
+  "promulgation": "1934-03-12",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340081.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340081.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
