@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/511",
+ "source_sha256": "40e077aa982bfa9729566d373c23f86c255a434b807df711ebcfbd135f029207",
+ "in_force": "1935-11-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/511",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/511/text/O/D19350511.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/511/text/I/D19350511.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/511",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 83,
+  "pos": 511,
+  "address": "WDU19350830511",
+  "displayAddress": "Dz.U. 1935 nr 83 poz. 511",
+  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 16 listopada 1935 r. w sprawie wykonania art. 16 Statutu Ligi Narodów.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-11-16",
+  "promulgation": "1935-11-18",
+  "entryIntoForce": "1935-11-18",
+  "validFrom": "1935-11-18",
+  "repealDate": "1936-07-02",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Włochy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/359",
+     "date": "1936-07-02"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1936/359"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/501"
+    },
+    {
+     "id": "DU/1935/227"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/227",
+     "art": "art. 55 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350511.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350511.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
