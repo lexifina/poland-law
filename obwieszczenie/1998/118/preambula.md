@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) prostuje się następujący błąd:
+
+w ustawie z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo budowlane, ustawy o zagospodarowaniu przestrzennym oraz niektórych ustaw (Dz. U. Nr 111, poz. 726) w art. 1 w pkt 13 pod lit. a) zamiast wyrazów „b) urządzeń na obiektach budowlanych o wysokości powyżej 3 m.” powinny być wyrazy „b) urządzeń na obiektach budowlanych, o wysokości powyżej 3 m.”
