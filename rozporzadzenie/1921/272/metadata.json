@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/272",
+ "source_sha256": "e3fca32e0959eeffbda6c6944a1bc4744d04dda5fb4453000c0bcad45aa46d2b",
+ "in_force": "1921-06-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/272",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/272/text/O/D19210272.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/272/text/I/D19210272.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/272",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 45,
+  "pos": 272,
+  "address": "WDU19210450272",
+  "displayAddress": "Dz.U. 1921 nr 45 poz. 272",
+  "title": "Rozporządzenie Ministra Spraw Wojskowych i Ministra Kolei Żelaznych z dnia 18 marca 1921 r. w przedmiocie wojskowej służby kolejowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1921-03-18",
+  "entryIntoForce": "1921-06-04",
+  "validFrom": "1921-06-04",
+  "repealDate": "1937-07-22",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. KOLEI ŻELAZNYCH",
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny",
+   "obrona narodowa",
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1937/434",
+     "date": "1937-07-22"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1920/342",
+     "date": "1921-06-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/160"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19210272.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210272.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
