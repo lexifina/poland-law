@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1977/8",
+ "source_sha256": "b80825ec5c9a031f412477db9dbf128965c74062c4b67b0b8eea88f2d7c7ac9f",
+ "in_force": "1977-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1977/8",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1977/8/text/O/M19770008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1977/8/text/I/M19770008.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1977/8",
+  "publisher": "MP",
+  "year": 1977,
+  "volume": 1,
+  "pos": 8,
+  "address": "WMP19770010008",
+  "displayAddress": "M.P. 1977 nr 1 poz. 8",
+  "title": "Zarządzenie Ministra Finansów z dnia 31 grudnia 1976 r. w sprawie wprowadzenia bonów na wkłady oszczędnościowe z losowaniem premii w postaci samochodów osobowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-12-31",
+  "entryIntoForce": "1977-03-01",
+  "validFrom": "1977-03-01",
+  "repealDate": "1982-01-01",
+  "changeDate": "2024-01-08T11:21:39",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samochody",
+   "banki",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1981/307",
+     "date": "1982-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1979/82",
+     "date": "1979-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1975/108"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1975/108",
+     "art": "art. 38 ust. 2 i 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19770008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19770008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
