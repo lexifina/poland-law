@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/43",
+ "source_sha256": "712651d2b94413d5d04f8bd2d719ba03e3598952e1b30b0fbff3b399af2464b3",
+ "in_force": "1987-03-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/43/text/O/M19870043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/43/text/I/M19870043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/43",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 6,
+  "pos": 43,
+  "address": "WMP19870060043",
+  "displayAddress": "M.P. 1987 nr 6 poz. 43",
+  "title": "Uchwała Rady Państwa z dnia 30 stycznia 1987 r. zmieniająca uchwałę w sprawie zasad wynagradzania prokuratorów oraz asesorów i aplikantów prokuratury.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-01-30",
+  "entryIntoForce": "1987-03-06",
+  "validFrom": "1987-01-01",
+  "repealDate": "1989-01-01",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "asesorzy",
+   "wynagrodzenia",
+   "aplikacja",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/37",
+     "date": "1989-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1985/273",
+     "date": "1987-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 76 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
