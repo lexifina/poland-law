@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/76",
+ "source_sha256": "e040fa0985021d55f8efc810b866ef5c503dab92c888bd2b8554c7bdeeef69ab",
+ "in_force": "1927-02-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/76",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/76/text/O/D19270076.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/76/text/I/D19270076.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/76",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 10,
+  "pos": 76,
+  "address": "WDU19270100076",
+  "displayAddress": "Dz.U. 1927 nr 10 poz. 76",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 1 lutego 1927 r. o statystyce ruchu naturalnego ludności.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-02-01",
+  "entryIntoForce": "1927-02-11",
+  "validFrom": "1927-02-11",
+  "repealDate": "1947-10-28",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ruch ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/393",
+     "date": "1947-10-28"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1932/549"
+    },
+    {
+     "id": "DU/1927/450"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1938/612",
+     "date": "1938-11-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270076.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270076.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
