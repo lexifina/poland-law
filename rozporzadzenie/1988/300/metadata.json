@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/300",
+ "source_sha256": "7472028e4081850945645c22b953a6430a4fd330388e5735c4e85e41b3b8ea87",
+ "in_force": "1988-11-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/300",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/300/text/O/D19880300.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/300/text/I/D19880300.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/300",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 38,
+  "pos": 300,
+  "address": "WDU19880380300",
+  "displayAddress": "Dz.U. 1988 nr 38 poz. 300",
+  "title": "Rozporządzenie Rady Ministrów z dnia 28 listopada 1988 r. zmieniające rozporządzenie w sprawie podatków stabilizacyjnych.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-11-28",
+  "promulgation": "1988-11-30",
+  "entryIntoForce": "1988-11-30",
+  "validFrom": "1988-11-30",
+  "repealDate": "1989-01-01",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1988/123",
+     "date": "1988-11-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1988/98"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1988/98",
+     "art": "art. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1988/98",
+     "date": "1989-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19880300.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880300.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
