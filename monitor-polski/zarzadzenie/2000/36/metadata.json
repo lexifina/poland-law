@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/36",
+ "source_sha256": "3f4e1ab17a1e2e3a3f7adef73ab317ea3082d0f607cdd8dece8966ded97a6449",
+ "in_force": "2000-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/36",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/36/text/O/M20000036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/36/text/I/M20000036.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/36/text/T/M20000036L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/36",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 2,
+  "pos": 36,
+  "address": "WMP20000020036",
+  "displayAddress": "M.P. 2000 nr 2 poz. 36",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 14 stycznia 2000 r. zmieniające zarządzenie w sprawie wykazu walut obcych będących walutami wymienialnymi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-01-14",
+  "entryIntoForce": "2000-02-01",
+  "validFrom": "2000-02-01",
+  "repealDate": "2001-12-14",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dewizowe prawo",
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2001/738",
+     "date": "2001-12-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1999/11",
+     "date": "2000-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1063"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1063",
+     "art": "art. 2 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000036.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000036L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
