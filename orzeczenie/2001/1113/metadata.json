@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1113",
+ "source_sha256": "6af8609d221f602c076765359c60fce02d16e2cd6c5b1869486149f59a0b7385",
+ "in_force": "2001-09-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1113",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1113/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1113/text/O/D20011113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1113/text/I/D20011113.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1113/text/T/D20011113L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1113",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 101,
+  "pos": 1113,
+  "address": "WDU20011011113",
+  "displayAddress": "Dz.U. 2001 nr 101 poz. 1113",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 6 września 2001 r. sygn. akt P. 3/2001.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-09-06",
+  "promulgation": "2001-09-20",
+  "entryIntoForce": "2001-09-20",
+  "validFrom": "2001-09-20",
+  "changeDate": "2024-03-15T09:59:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koszty i opłaty sądowe"
+  ],
+  "keywordsNames": [
+   "Naczelny Sąd Administracyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/1271",
+     "date": "2004-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/368",
+     "date": "2001-09-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1995/368"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011113.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011113L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
