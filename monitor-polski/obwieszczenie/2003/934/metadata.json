@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/934",
+ "source_sha256": "402d5d6b03d82f32ea5b218424f30f727796fdf6cbae36cbec8831427965ca6e",
+ "in_force": "2003-12-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/934",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/934/text/O/M20030934.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/934/text/I/M20030934.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/934",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 59,
+  "pos": 934,
+  "address": "WMP20030590934",
+  "displayAddress": "M.P. 2003 nr 59 poz. 934",
+  "title": "Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 17 grudnia 2003 r. w sprawie rozdysponowania kontyngentu taryfowego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-12-17",
+  "promulgation": "2003-12-31",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontyngenty taryfowe",
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2003/635"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/117",
+     "art": "art. 14(6) par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030934.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030934.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
