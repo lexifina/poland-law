@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/183",
+ "source_sha256": "c32e2eece1a6a448c1893c687f460bd7b391c8bf9a6bddc45ce86568ee5a6eab",
+ "in_force": "1931-05-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/183",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/183/text/O/M19310183.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/183/text/I/M19310183.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/183",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 123,
+  "pos": 183,
+  "address": "WMP19311230183",
+  "displayAddress": "M.P. 1931 nr 123 poz. 183",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 26 maja 1931 r. o wartości jednego grama czystego złota",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-05-26",
+  "promulgation": "1931-05-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/932"
+    },
+    {
+     "id": "DU/1927/855"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/855",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310183.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310183.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
