@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/123",
+ "source_sha256": "ef93c78aacc48b59bbc452b738cb2f3f06d9f5fe786c71b2c6601aa1debb69cb",
+ "in_force": "1981-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/123/text/O/M19810123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/123/text/I/M19810123.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/123",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 15,
+  "pos": 123,
+  "address": "WMP19810150123",
+  "displayAddress": "M.P. 1981 nr 15 poz. 123",
+  "title": "Zarządzenie Ministra Górnictwa z dnia 15 czerwca 1981 r. zmieniające zarządzenie w sprawie warunków dostarczania paliw gazowych.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-06-15",
+  "entryIntoForce": "1981-09-01",
+  "validFrom": "1981-09-01",
+  "repealDate": "1998-06-05",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "MIN. GÓRNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarka materiałowa",
+   "energetyka",
+   "ogólne warunki umów",
+   "paliwa i smary",
+   "lokalowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1978/56",
+     "date": "1981-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1978/116"
+    },
+    {
+     "id": "DU/1962/150"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/150",
+     "art": "art. 4 pkt 2 lit. a)"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1997/348",
+     "date": "1998-06-05"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
