@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1951/522",
+ "source_sha256": "cebb931f1582f20cf4a67c51073e601a96c4efb37888ce8bf6a8f0e55693b713",
+ "in_force": "1951-05-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1951/522",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1951/522/text/O/M19510522.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1951/522/text/I/M19510522.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1951/522",
+  "publisher": "MP",
+  "year": 1951,
+  "volume": 41,
+  "pos": 522,
+  "address": "WMP19510410522",
+  "displayAddress": "M.P. 1951 nr 41 poz. 522",
+  "title": "Zarządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 7 kwietnia 1951 r. w sprawie stosowania instrukcji o inwestycjach pozalimitowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-04-07",
+  "entryIntoForce": "1951-05-21",
+  "validFrom": "1951-01-01",
+  "repealDate": "1953-06-20",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1953/737",
+     "date": "1953-06-20"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1952/19",
+     "date": "1951-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1951/337"
+    },
+    {
+     "id": "MP/1951/140"
+    },
+    {
+     "id": "MP/1950/1529"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1951/140"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19510522.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19510522.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
