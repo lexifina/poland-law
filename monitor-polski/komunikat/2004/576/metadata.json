@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/576",
+ "source_sha256": "85c00c00db0bdece90cfff6e1d948463db045d54661358840a280cf46cdd525c",
+ "in_force": "2004-07-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/576",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/576/text/O/M20040576.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/576/text/I/M20040576.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/576",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 32,
+  "pos": 576,
+  "address": "WMP20040320576",
+  "displayAddress": "M.P. 2004 nr 32 poz. 576",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 21 lipca 2004 r. o liczbie wyborców ujętych w rejestrach wyborców",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-07-21",
+  "promulgation": "2004-07-27",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 114 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040576.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040576.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
