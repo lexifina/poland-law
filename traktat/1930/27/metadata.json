@@ -1,0 +1,61 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/27",
+ "source_sha256": "03db39aaea3749eeaa19e0af5b93f9b954d6606569306fe5bc451390359deba8",
+ "in_force": "1929-12-23",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/27",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/27/text/O/D19300027.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/27/text/I/D19300027.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/27",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 4,
+  "pos": 27,
+  "address": "WDU19300040027",
+  "displayAddress": "Dz.U. 1930 nr 4 poz. 27",
+  "title": "Traktat Koncyljacyjny między Rzecząpospolitą Polską a Stanami Zjednoczonemi Ameryki, podpisany w Waszyngtonie dnia 16 sierpnia 1928 r.",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1929-12-23",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "arbitraż",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Stany Zjednoczone Ameryki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1930/28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300027.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300027.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
