@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1955/108",
+ "source_sha256": "8a41bdadf92ead4066306630ed823f9cba51ec8a43a175e75fbc97f4cd4fbbbf",
+ "in_force": "1955-04-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1955/108",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1955/108/text/O/D19550108.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1955/108/text/I/D19550108.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1955/108",
+  "publisher": "DU",
+  "year": 1955,
+  "volume": 18,
+  "pos": 108,
+  "address": "WDU19550180108",
+  "displayAddress": "Dz.U. 1955 nr 18 poz. 108",
+  "title": "Dekret z dnia 18 kwietnia 1955 r. o zmianie dekretu o prawie łowieckim.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-04-18",
+  "entryIntoForce": "1955-04-29",
+  "validFrom": "1955-01-01",
+  "repealDate": "1959-08-27",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1959/226",
+     "date": "1959-08-27"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1952/300",
+     "date": "1955-01-01"
+    },
+    {
+     "id": "DU/1952/130",
+     "date": "1955-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19550108.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19550108.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
