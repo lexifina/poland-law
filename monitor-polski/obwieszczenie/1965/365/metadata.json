@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/365",
+ "source_sha256": "ac00491aab9ec917fcbd47a79b61aab83ad71c1ffc64848b72a64bd76294a07e",
+ "in_force": "1965-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/365/text/O/M19650365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/365/text/I/M19650365.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/365",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 64,
+  "pos": 365,
+  "address": "WMP19650640365",
+  "displayAddress": "M.P. 1965 nr 64 poz. 365",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 grudnia 1965 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-12-01",
+  "entryIntoForce": "1965-12-01",
+  "validFrom": "1965-12-01",
+  "repealDate": "1965-12-31",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/417",
+     "date": "1965-12-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1965/300",
+     "date": "1965-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
