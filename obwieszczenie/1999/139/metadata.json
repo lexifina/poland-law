@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/139",
+ "source_sha256": "1a0741e3bb30a8f6cea52fae73b449021179057590f579fae9d6d49ce36880d5",
+ "in_force": "1999-02-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/139",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/139/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/139/text/O/D19990139.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/139/text/I/D19990139.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/139/text/T/D19990139L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/139",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 15,
+  "pos": 139,
+  "address": "WDU19990150139",
+  "displayAddress": "Dz.U. 1999 nr 15 poz. 139",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 22 stycznia 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zagospodarowaniu przestrzennym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-22",
+  "promulgation": "1999-02-25",
+  "repealDate": "2003-07-11",
+  "changeDate": "2024-03-15T11:35:05",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "rejestry",
+   "budowlane prawo",
+   "terenowe organy administracji rządowej",
+   "urbanistyka i architektura",
+   "inwestycje",
+   "planowanie przestrzenne",
+   "samorząd terytorialny",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/717",
+     "date": "2003-07-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/415"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990139.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990139.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990139L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
