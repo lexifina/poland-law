@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1952/76",
+ "source_sha256": "b03d7144c7df0989e6fd6ad997847bb23f9d686385ccbcb6eefa5f651599cba5",
+ "in_force": "1952-03-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1952/76",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1952/76/text/O/D19520076.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1952/76/text/I/D19520076.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1952/76",
+  "publisher": "DU",
+  "year": 1952,
+  "volume": 12,
+  "pos": 76,
+  "address": "WDU19520120076",
+  "displayAddress": "Dz.U. 1952 nr 12 poz. 76",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 5 lutego 1952 r. w sprawie cen za lekarstwa i środki opatrunkowe wydawane ubezpieczonym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-02-05",
+  "entryIntoForce": "1952-03-14",
+  "validFrom": "1952-02-20",
+  "repealDate": "1953-01-05",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1953/43",
+     "date": "1953-01-05"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1951/139",
+     "date": "1952-02-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/396"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19520076.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19520076.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
