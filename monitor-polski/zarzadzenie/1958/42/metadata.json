@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/42",
+ "source_sha256": "09b49ff30d65e207012b9ee5aa3e33f1e779b7254f21c83fd35731ba6a18af2c",
+ "in_force": "1958-02-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/42",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/42/text/O/M19580042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/42/text/I/M19580042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/42",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 8,
+  "pos": 42,
+  "address": "WMP19580080042",
+  "displayAddress": "M.P. 1958 nr 8 poz. 42",
+  "title": "Zarządzenie Ministra Finansów z dnia 16 stycznia 1958 r. w sprawie biegłych księgowych uprawnionych do udziału w komisjach rewizyjnych przedsiębiorstw państwowych w roku 1958.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-01-16",
+  "entryIntoForce": "1958-02-08",
+  "validFrom": "1958-02-08",
+  "repealDate": "1960-01-28",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. FINANSÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1960/39",
+     "date": "1960-01-28"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1959/22",
+     "date": "1959-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1957/443"
+    },
+    {
+     "id": "MP/1957/438"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/438"
+    },
+    {
+     "id": "DU/1950/188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/438",
+     "art": "par. 7"
+    },
+    {
+     "id": "MP/1957/438",
+     "art": "par. 9"
+    },
+    {
+     "id": "DU/1950/188",
+     "art": "par. 1 ust. 1 pkt 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
