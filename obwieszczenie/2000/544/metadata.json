@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/544",
+ "source_sha256": "e99758a48f87d2c2be1bb8cf693ffcdba84d10220097f2f8e6e24eac8afc4bef",
+ "in_force": "2000-06-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/544",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/544/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/544/text/O/D20000544.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/544/text/I/D20000544.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/544/text/U/D20000544Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/544",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 47,
+  "pos": 544,
+  "address": "WDU20000470544",
+  "displayAddress": "Dz.U. 2000 nr 47 poz. 544",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-06-09",
+  "expirationDate": "2010-04-22",
+  "changeDate": "2024-03-15T09:49:12",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/488"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/488",
+     "art": "art. 6"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/398"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000544.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000544.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000544Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
