@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1993/624",
+ "source_sha256": "6f4837ea28f395ef74869316b35b8e323006c1395f4d5cca364fa08b658d9207",
+ "in_force": "1994-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1993/624",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1993/624/text/O/D19930624.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1993/624/text/I/D19930624.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1993/624",
+  "publisher": "DU",
+  "year": 1993,
+  "volume": 131,
+  "pos": 624,
+  "address": "WDU19931310624",
+  "displayAddress": "Dz.U. 1993 nr 131 poz. 624",
+  "title": "Rozporządzenie Ministra Finansów z dnia 21 grudnia 1993 r. zmieniające rozporządzenie w sprawie prowadzenia podatkowej księgi przychodów i rozchodów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-12-21",
+  "entryIntoForce": "1994-01-01",
+  "validFrom": "1994-01-01",
+  "repealDate": "1996-01-01",
+  "changeDate": "2014-12-31T12:25:41",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "pojazdy mechaniczne",
+   "księgi przychodów i rozchodów"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1995/720",
+     "date": "1996-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/496",
+     "date": "1994-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 38 pkt 1-4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19930624.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19930624.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
