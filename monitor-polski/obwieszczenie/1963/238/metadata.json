@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/238",
+ "source_sha256": "5bd696fc9ac5ca5468908fb0ad90d7a6bb509f4c445d6d70e9c45833c55f5bf5",
+ "in_force": "1963-06-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/238",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/238/text/O/M19630238.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/238/text/I/M19630238.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/238",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 47,
+  "pos": 238,
+  "address": "WMP19630470238",
+  "displayAddress": "M.P. 1963 nr 47 poz. 238",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 4 czerwca 1963 r. w sprawie ogłoszenia ustanowionych Polskich Norm.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-06-04",
+  "entryIntoForce": "1963-06-04",
+  "validFrom": "1963-06-04",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1968/54",
+     "date": "1968-01-31"
+    },
+    {
+     "id": "MP/1967/127",
+     "date": "1967-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630238.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630238.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
