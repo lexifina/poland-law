@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/812",
+ "source_sha256": "ea565b9f034ec8e99cbafb8b9dcae2abcd8e87fc1fb554577b6916936e0abb5f",
+ "in_force": "1928-11-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/812",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/812/text/O/D19280812.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/812/text/I/D19280812.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/812",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 92,
+  "pos": 812,
+  "address": "WDU19280920812",
+  "displayAddress": "Dz.U. 1928 nr 92 poz. 812",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 20 października 1928 r. w sprawie cła wywozowego na otręby.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-10-20",
+  "entryIntoForce": "1928-11-14",
+  "validFrom": "1928-11-14",
+  "repealDate": "1929-10-01",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. ROLNICTWA",
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1929/524",
+     "date": "1929-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/652",
+     "date": "1928-11-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/777",
+     "art": "art. 7 ust. a)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280812.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280812.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
