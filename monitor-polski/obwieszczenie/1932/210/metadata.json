@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/210",
+ "source_sha256": "b131f536520df21316fb90b9592f8d70ed332fc90550740b74be5c9dfa68471f",
+ "in_force": "1932-08-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/210",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/210/text/O/M19320210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/210/text/I/M19320210.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/210",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 176,
+  "pos": 210,
+  "address": "WMP19321760210",
+  "displayAddress": "M.P. 1932 nr 176 poz. 210",
+  "title": "Obwieszczenie Ministra Skarbbu z dnia 15 lipca 1932 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-07-15",
+  "promulgation": "1932-08-03",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/491"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/491",
+     "art": "art. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320210.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
