@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/921",
+ "source_sha256": "174fb087337f9a682b044cf569dbf8062cb2014bb5025dd31556b3b6cff6c5be",
+ "in_force": "2000-09-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 450 words, parsed 323; at 323: 'poz . 1042 ) : 1 ) są niezgodne z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/921",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/921/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/921/text/O/D20000921.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/921/text/I/D20000921.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/921/text/T/D20000921TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/921",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 81,
+  "pos": 921,
+  "address": "WDU20000810921",
+  "displayAddress": "Dz.U. 2000 nr 81 poz. 921",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 września 2000 r. sygn. akt P. 11/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-09-26",
+  "entryIntoForce": "2000-09-29",
+  "validFrom": "2000-09-29",
+  "changeDate": "2024-03-15T09:49:13",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "energetyka",
+   "energetyczne prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/1002",
+     "date": "2000-09-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1997/348"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/1002"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000921.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000921.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000921TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
