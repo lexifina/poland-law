@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1958/185",
+ "source_sha256": "71be7c67b3c6bcf2509546f0c4566957da3ec029693b0096732105a552f213ce",
+ "in_force": "1958-07-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1958/185",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1958/185/text/O/D19580185.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1958/185/text/I/D19580185.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1958/185",
+  "publisher": "DU",
+  "year": 1958,
+  "volume": 40,
+  "pos": 185,
+  "address": "WDU19580400185",
+  "displayAddress": "Dz.U. 1958 nr 40 poz. 185",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 31 maja 1958 r. w sprawie zmiany instrukcji dla komorników.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-05-31",
+  "entryIntoForce": "1958-07-03",
+  "validFrom": "1958-07-03",
+  "repealDate": "1962-11-29",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1962/284",
+     "date": "1962-11-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/946",
+     "date": "1958-07-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19580185.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19580185.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
