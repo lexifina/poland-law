@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/365",
+ "source_sha256": "3ffec82de4b2c9dc69f1de118aa250c55274dbd8df77da9fcc051497ca00142f",
+ "in_force": "1922-06-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/365/text/O/D19220365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/365/text/I/D19220365.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/365",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 43,
+  "pos": 365,
+  "address": "WDU19220430365",
+  "displayAddress": "Dz.U. 1922 nr 43 poz. 365",
+  "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 3 czerwca 1922 r. w sprawie taryfy na przewóz towarów w ruchu tymczasowym na budującej się linji Kutno-Strzałków.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-06-03",
+  "entryIntoForce": "1922-06-15",
+  "validFrom": "1922-06-15",
+  "repealDate": "1923-06-01",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. KOLEI ŻELAZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/384",
+     "date": "1923-06-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1923/229",
+     "date": "1923-04-15"
+    },
+    {
+     "id": "DU/1923/153",
+     "date": "1923-03-10"
+    },
+    {
+     "id": "DU/1922/1067",
+     "date": "1923-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/152"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
