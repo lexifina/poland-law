@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1976/210",
+ "source_sha256": "f247ffe87d11987429ea6a113a8cd85b91226c7cc6d2d1bda02f9094998892ab",
+ "in_force": "1976-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1976/210",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1976/210/text/O/M19760210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1976/210/text/I/M19760210.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1976/210",
+  "publisher": "MP",
+  "year": 1976,
+  "volume": 43,
+  "pos": 210,
+  "address": "WMP19760430210",
+  "displayAddress": "M.P. 1976 nr 43 poz. 210",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 18 grudnia 1976 r. w sprawie zamknięcia sesji Sejmu Polskiej Rzeczypospolitej Ludowej.",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1976-12-18",
+  "entryIntoForce": "1976-12-18",
+  "validFrom": "1976-12-18",
+  "changeDate": "2023-06-26T12:57:19",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. FINANSÓW",
+   "MIN. PRACY, PŁAC I SPRAW SOCJALNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/145"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/145",
+     "art": "art. 44 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19760210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19760210.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
