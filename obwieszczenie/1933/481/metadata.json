@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/481",
+ "source_sha256": "162a27e51fb5c08db56a285b5431dfe3f436880046df771838b4e07ddad4b5a8",
+ "in_force": "1933-08-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/481",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/481/text/O/D19330481.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/481/text/I/D19330481.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/481",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 63,
+  "pos": 481,
+  "address": "WDU19330630481",
+  "displayAddress": "Dz.U. 1933 nr 63 poz. 481",
+  "title": "Obwieszczenie Ministra Poczt i Telegrafów z dnia 4 sierpnia 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 3 czerwca 1924 r. o poczcie, telegrafie i telefonie.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-08-04",
+  "promulgation": "1933-08-21",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/275"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/275",
+     "art": "art. 3 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/584"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330481.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330481.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
