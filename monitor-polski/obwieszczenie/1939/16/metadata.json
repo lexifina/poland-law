@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/16",
+ "source_sha256": "76f84969d55d6ae1dc5c56c9a1fc7613c38c92d4624e94bdf3ad0b437322d8af",
+ "in_force": "1939-01-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/16",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/16/text/O/M19390016.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/16/text/I/M19390016.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/16",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 10,
+  "pos": 16,
+  "address": "WMP19390100016",
+  "displayAddress": "M.P. 1939 nr 10 poz. 16",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 5 stycznia 1939 r. w sprawie kontroli specjalnej obrotu towarowego polsko-czesko-słowackiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-01-13",
+  "promulgation": "1939-01-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/820"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/820",
+     "art": "par. 48 ust. 11"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 62 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390016.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390016.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
