@@ -1,0 +1,107 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1406",
+ "source_sha256": "06c6d36f8fcf0ea30c7ce5838a0f14556956f3712aa14686bea2f22e95817a14",
+ "in_force": "2002-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1406",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1406/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1406/text/O/D20011406.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1406/text/I/D20011406.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1406/text/T/D20011406L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1406/text/U/D20011406Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1406",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 128,
+  "pos": 1406,
+  "address": "WDU20011281406",
+  "displayAddress": "Dz.U. 2001 nr 128 poz. 1406",
+  "title": "Ustawa z dnia 24 sierpnia 2001 r. o dopłatach do oprocentowania kredytów udzielanych lekarzom, lekarzom stomatologom, pielęgniarkom, położnym i technikom medycznym oraz o umarzaniu tych kredytów.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-08-24",
+  "promulgation": "2001-11-09",
+  "entryIntoForce": "2002-01-01",
+  "validFrom": "2002-01-01",
+  "repealDate": "2011-07-01",
+  "changeDate": "2024-03-15T09:59:24",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "położne",
+   "dokumenty",
+   "pielęgniarstwo",
+   "praktyka lekarska",
+   "banki",
+   "budżetowe prawo",
+   "kredyty i pożyczki",
+   "lekarze stomatolodzy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2212.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2212",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2212",
+    "number": "2212",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/654",
+     "date": "2011-07-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/1209",
+     "date": "2002-09-24"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2005/1757"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011406.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011406.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011406L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20011406Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
