@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1993/444",
+ "source_sha256": "50c44348a8d4715a3075f8e489c47f04789440ddded9c76c6bc266356f9a7a44",
+ "in_force": "1993-08-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1993/444",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1993/444/text/O/M19930444.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1993/444/text/I/M19930444.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1993/444",
+  "publisher": "MP",
+  "year": 1993,
+  "volume": 46,
+  "pos": 444,
+  "address": "WMP19930460444",
+  "displayAddress": "M.P. 1993 nr 46 poz. 444",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 30 sierpnia 1993 r. w sprawie ustalenia wzorów kart do głosowania w wyborach do Sejmu i Senatu Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-08-30",
+  "entryIntoForce": "1993-08-30",
+  "validFrom": "1993-08-30",
+  "repealDate": "2001-08-22",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2001/495",
+     "date": "2001-08-22"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1991/223",
+     "date": "1993-08-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1997/495",
+     "date": "1997-08-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/205"
+    },
+    {
+     "id": "DU/1991/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/205",
+     "art": "art. 97 ust. 4"
+    },
+    {
+     "id": "DU/1991/246",
+     "art": "art. 1 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19930444.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19930444.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
