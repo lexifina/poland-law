@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1011",
+ "source_sha256": "56822480b7dbafcf0301163a87f0058960a85a0645c90c025cac7660640369c4",
+ "in_force": "1999-11-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1011",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1011/text/O/D19991011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1011/text/I/D19991011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1011",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 90,
+  "pos": 1011,
+  "address": "WDU19990901011",
+  "displayAddress": "Dz.U. 1999 nr 90 poz. 1011",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 19 października 1999 r. w sprawie regulaminu wykonywania i odbywania kar i środków dyscyplinarnych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-10-19",
+  "entryIntoForce": "1999-11-23",
+  "validFrom": "1999-11-23",
+  "repealDate": "2002-09-30",
+  "changeDate": "2015-07-30T13:18:53",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "obrona narodowa",
+   "służba wojskowa żołnierzy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1999/333"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/944"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/944",
+     "art": "art. 93 pkt 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/925",
+     "date": "2002-09-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
