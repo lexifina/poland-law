@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/563",
+ "source_sha256": "98137ed259958e2e55743ac201d7a93d2a20a8d75a4a2e3c008f6a83eedaeeec",
+ "in_force": "2001-05-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/563",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/563/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/563/text/O/D20010563.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/563/text/I/D20010563.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/563/text/T/D20010563L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/563/text/U/D20010563Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/563",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 53,
+  "pos": 563,
+  "address": "WDU20010530563",
+  "displayAddress": "Dz.U. 2001 nr 53 poz. 563",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2001 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nasiennictwie.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-03-19",
+  "promulgation": "2001-05-28",
+  "repealDate": "2004-05-01",
+  "changeDate": "2024-03-15T09:58:56",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "administracja rządowa",
+   "nasiennictwo i szkółkarstwo"
+  ],
+  "keywordsNames": [
+   "Krajowy Rejestr Sądowy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/1299",
+     "date": "2004-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/984"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/984",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/724"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010563.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010563.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010563L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20010563Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
