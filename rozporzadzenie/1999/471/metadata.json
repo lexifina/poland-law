@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/471",
+ "source_sha256": "18dba68d8c71e3a9c90c418f1e071725f753897b1209396ddbe9cf02972ac3be",
+ "in_force": "1999-06-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/471",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/471/text/O/D19990471.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/471/text/I/D19990471.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/471/text/T/D19990471L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/471",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 47,
+  "pos": 471,
+  "address": "WDU19990470471",
+  "displayAddress": "Dz.U. 1999 nr 47 poz. 471",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 maja 1999 r. w sprawie szczegółowych zasad i trybu mianowania policjantów na stopnie policyjne.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-05-06",
+  "entryIntoForce": "1999-06-04",
+  "validFrom": "1999-06-04",
+  "repealDate": "2003-06-13",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 57"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2003/872",
+     "date": "2003-06-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990471.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990471.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990471L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
