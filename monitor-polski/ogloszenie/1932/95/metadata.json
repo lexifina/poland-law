@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/95",
+ "source_sha256": "ec4529dc2d308fdabe2caea871f77f9724fa7af6f8f121d8e1748d31106e988d",
+ "in_force": "1932-03-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/95",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/95/text/O/M19320095.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/95/text/I/M19320095.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/95",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 71,
+  "pos": 95,
+  "address": "WMP19320710095",
+  "displayAddress": "M.P. 1932 nr 71 poz. 95",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 15 marca 1932 r. Nr. dzien. 2512/32",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-03-15",
+  "promulgation": "1932-03-26",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320095.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320095.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
