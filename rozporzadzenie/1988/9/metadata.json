@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/9",
+ "source_sha256": "c326b402a37c01569896352c57a7638732e51208d464bf662bd97054f9894af3",
+ "in_force": "1988-01-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/9",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/9/text/O/D19880009.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/9/text/I/D19880009.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/9",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 2,
+  "pos": 9,
+  "address": "WDU19880020009",
+  "displayAddress": "Dz.U. 1988 nr 2 poz. 9",
+  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 12 grudnia 1987 r. w sprawie szczegółowych zasad i warunków przeprowadzania badań laboratoryjnych i klinicznych środków farmaceutycznych i artykułów sanitarnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-12-12",
+  "promulgation": "1988-01-28",
+  "entryIntoForce": "1988-01-28",
+  "validFrom": "1988-01-28",
+  "repealDate": "1993-05-12",
+  "changeDate": "2018-05-22T14:26:46",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "apteki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1993/196",
+     "date": "1993-05-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1987/19"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1987/19",
+     "art": "art. 16 pkt 2"
+    },
+    {
+     "id": "DU/1987/19",
+     "art": "art. 24"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19880009.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880009.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
