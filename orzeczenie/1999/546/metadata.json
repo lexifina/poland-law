@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/546",
+ "source_sha256": "c7a37c7ba14e31e0020e32e3090bb12bad94e9479109e292dc79922d25dc848b",
+ "in_force": "1999-06-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1294 words, parsed 119; at 119: 'ze zm . ) : 1 ) z art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/546",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/546/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/546/text/O/D19990546.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/546/text/I/D19990546.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/546/text/T/D19990546L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/546",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 52,
+  "pos": 546,
+  "address": "WDU19990520546",
+  "displayAddress": "Dz.U. 1999 nr 52 poz. 546",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 czerwca 1999 r. sygn. akt SK. 12/98.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-08",
+  "entryIntoForce": "1999-06-15",
+  "validFrom": "1999-06-15",
+  "changeDate": "2024-03-15T11:34:26",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/38"
+    },
+    {
+     "id": "DU/1994/157"
+    },
+    {
+     "id": "DU/1989/374"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1992/86"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990546.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990546.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990546L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
