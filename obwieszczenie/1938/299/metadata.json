@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/299",
+ "source_sha256": "3968efe940c0ac09559cfdf080253cd0cdbdcb7229050247756c415c364b6f10",
+ "in_force": "1938-05-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/299",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/299/text/O/D19380299.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/299/text/I/D19380299.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/299",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 34,
+  "pos": 299,
+  "address": "WDU19380340299",
+  "displayAddress": "Dz.U. 1938 nr 34 poz. 299",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 4 maja 1938 r. o sprostowaniu błędu w tekście ustawy z dnia 25 marca 1938 r. o wytwarzaniu i handlu dewocjonaliami i przedmiotami kultu religijnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-05-04",
+  "promulgation": "1938-05-16",
+  "changeDate": "2020-11-03T15:55:21",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "religia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 1"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1938/149"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380299.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380299.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
