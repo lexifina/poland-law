@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/120",
+ "source_sha256": "88e1d8da840c57710cd18c58bf3b6e4baacbfc7197fe57cc52e3b7ccb68f9d89",
+ "in_force": "1962-03-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/120",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/120/text/O/M19620120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/120/text/I/M19620120.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/120",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 28,
+  "pos": 120,
+  "address": "WMP19620280120",
+  "displayAddress": "M.P. 1962 nr 28 poz. 120",
+  "title": "Zarządzenie Ministra Finansów z dnia 12 marca 1962 r. w sprawie zaniechania ustalania zobowiązań podatkowych w zakresie podatków obrotowego i dochodowego z tytułu prowadzenia pasiek.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-03-12",
+  "entryIntoForce": "1962-03-29",
+  "validFrom": "1961-01-01",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1970/258",
+     "date": "1970-10-01"
+    },
+    {
+     "id": "MP/1966/38",
+     "date": "1966-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/452",
+     "art": "art. 3 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
