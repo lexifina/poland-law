@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/424",
+ "source_sha256": "805bbb81dae0170ce489e1f0d7eec0efcbab72309f09c7ac89eb706c2e73fce4",
+ "in_force": "2004-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/424",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/424/text/O/M20040424.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/424/text/I/M20040424.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/424",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 24,
+  "pos": 424,
+  "address": "WMP20040240424",
+  "displayAddress": "M.P. 2004 nr 24 poz. 424",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 25 maja 2004 r. w sprawie wskaźnika cen dóbr inwestycyjnych za I kwartał 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-05-25",
+  "promulgation": "2004-06-07",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwestycje",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040424.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040424.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
