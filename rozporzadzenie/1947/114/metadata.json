@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/114",
+ "source_sha256": "48965fe4258b6f870639c546c993da11cafcdafba0698a9fe568bf097bd44a6c",
+ "in_force": "1947-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/114",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/114/text/O/D19470114.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/114/text/I/D19470114.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/114",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 28,
+  "pos": 114,
+  "address": "WDU19470280114",
+  "displayAddress": "Dz.U. 1947 nr 28 poz. 114",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 lutego 1947 r. o taksie za czynności komorników.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-02-10",
+  "entryIntoForce": "1947-04-01",
+  "validFrom": "1947-04-01",
+  "repealDate": "1948-10-18",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1948/365",
+     "date": "1948-10-18"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1945/50",
+     "date": "1947-04-01"
+    },
+    {
+     "id": "DU/1939/25",
+     "date": "1947-04-01"
+    },
+    {
+     "id": "DU/1936/277",
+     "date": "1947-04-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1930/651"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470114.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470114.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
