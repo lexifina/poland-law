@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/11",
+ "source_sha256": "340df832f5993923615cd4d18a967a2b19b418766e43e06247926a0dd13f262f",
+ "in_force": "2003-01-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/11/text/O/D20030011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/11/text/I/D20030011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/11",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 1,
+  "pos": 11,
+  "address": "WDU20030010011",
+  "displayAddress": "Dz.U. 2003 nr 1 poz. 11",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2002 r. w sprawie warunków przyznawania policjantowi odszkodowania za szkody poniesione w przedmiotach osobistego użytku w związku ze służbą w Policji",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-12-21",
+  "promulgation": "2003-01-08",
+  "entryIntoForce": "2003-01-23",
+  "validFrom": "2003-01-23",
+  "repealDate": "2014-07-01",
+  "changeDate": "2014-12-31T12:25:57",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1972/345"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1972/345",
+     "art": "art. 10 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2014/616",
+     "date": "2014-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20030011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
