@@ -1,0 +1,11 @@
+# Art. 11b.
+
+1. Szef Urzędu Ochrony Państwa określa obieg informacji tajnych i poufnych w Urzędzie Ochrony Państwa.
+
+2. Szef Urzędu Ochrony Państwa może zezwalać funkcjonariuszom i pracownikom Urzędu Ochrony Państwa na udzielenie wiadomości stanowiącej tajemnicę państwową lub służbową określonej osobie lub instytucji. Zezwolenie to nie może jednak dotyczyć sytuacji, o której mowa w art. 12, z wyjątkiem dokumentów i materiałów, które Sąd Apelacyjny w Warszawie lub Rzecznik Interesu Publicznego uznają za niezbędne w związku z wykonywaniem przez nich zadań określonych w ustawie z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428).
+
+3. Udzielenie informacji o szczegółowych formach, zasadach i organizacji, a także o prowadzonych czynnościach operacyjno-rozpoznawczych oraz o stosowanych środkach i metodach ich realizacji może nastąpić wyłącznie w przypadku, gdy istnieje uzasadnione podejrzenie popełnienia przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem tych czynności. W takim przypadku udzielenie informacji następuje w trybie określonym w ust. 4.
+
+4. W razie odmowy zwolnienia pracownika, funkcjonariusza lub osoby udzielającej im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych od obowiązku zachowania tajemnicy państwowej albo odmowy zezwolenia na udostępnienie dokumentów lub materiałów objętych tajemnicą państwową pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o przestępstwo wymienione w art. 109Kodeksu karnego lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka, Szef Urzędu Ochrony Państwa przedstawia żądane dokumenty i materiały oraz wyjaśnienie Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do prawidłowości postępowania karnego, Szef Urzędu Ochrony Państwa jest obowiązany zwolnić od zachowania tajemnicy lub udostępnić dokumenty i materiały objęte tajemnicą.
+
+5. Szef Urzędu Ochrony Państwa na żądanie Sądu Apelacyjnego w Warszawie lub Rzecznika Interesu Publicznego udostępnia wszelkie posiadane dokumenty i materiały, o których mowa w ust. 2.
