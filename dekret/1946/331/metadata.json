@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/331",
+ "source_sha256": "8fb709fa93b085058b22be95cedc236275896f837bfb866c08a6063fdd4c9fdd",
+ "in_force": "1946-11-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/331",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/331/text/O/D19460331.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/331/text/I/D19460331.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/331",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 60,
+  "pos": 331,
+  "address": "WDU19460600331",
+  "displayAddress": "Dz.U. 1946 nr 60 poz. 331",
+  "title": "Dekret z dnia 31 października 1946 r. o zmianie dekretu z dnia 25 września 1945 r. o służbie wojskowej nadterminowych i podoficerów zawodowych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-10-31",
+  "entryIntoForce": "1946-11-20",
+  "validFrom": "1946-11-20",
+  "repealDate": "1952-04-29",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1952/129",
+     "date": "1952-04-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/233",
+     "date": "1946-11-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460331.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460331.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
