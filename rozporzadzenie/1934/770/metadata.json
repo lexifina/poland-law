@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/770",
+ "source_sha256": "204ce9590b5e3be675bd231097504929402e40ebb188f40e067e93445f46b574",
+ "in_force": "1934-09-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/770",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/770/text/O/D19340770.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/770/text/I/D19340770.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/770",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 85,
+  "pos": 770,
+  "address": "WDU19340850770",
+  "displayAddress": "Dz.U. 1934 nr 85 poz. 770",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 14 września 1934 r. w sprawie wykonania ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-09-14",
+  "promulgation": "1934-09-28",
+  "entryIntoForce": "1934-09-28",
+  "validFrom": "1934-09-28",
+  "repealDate": "1936-12-29",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "drewno",
+   "mleczarstwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/649",
+     "date": "1936-12-29"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1932/406",
+     "date": "1934-09-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/550"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/550",
+     "art": "art. 47"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340770.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340770.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
