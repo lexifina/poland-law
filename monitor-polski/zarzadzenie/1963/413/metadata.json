@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/413",
+ "source_sha256": "d9242b3e00d4cbda11bff699c1bb1d5481440d968e52ad2daa916936c228f60e",
+ "in_force": "1963-11-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/413",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/413/text/O/M19630413.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/413/text/I/M19630413.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/413",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 85,
+  "pos": 413,
+  "address": "WMP19630850413",
+  "displayAddress": "M.P. 1963 nr 85 poz. 413",
+  "title": "Zarządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 4 listopada 1963 r. w sprawie ustalenia zasad i trybu opracowania łowieckiego planu hodowlanego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-11-04",
+  "entryIntoForce": "1963-11-15",
+  "validFrom": "1963-11-15",
+  "repealDate": "1966-10-11",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. LEŚNICTWA I PRZEMYSŁU DRZEWNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1966/265",
+     "date": "1966-10-11"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/206",
+     "date": "1963-11-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1959/226"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/226"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1959/226",
+     "art": "art. 21 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630413.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630413.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
