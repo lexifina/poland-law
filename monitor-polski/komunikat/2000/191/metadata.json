@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/191",
+ "source_sha256": "061978c2954072e68a0a342a1247e4d1d9378029bf70158c43ebab065b504075",
+ "in_force": "2000-03-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/191",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/191/text/O/M20000191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/191/text/I/M20000191.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/191",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 9,
+  "pos": 191,
+  "address": "WMP20000090191",
+  "displayAddress": "M.P. 2000 nr 9 poz. 191",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 marca 2000 r. w sprawie przeciętnego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w lutym 2000 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-03-15",
+  "changeDate": "2020-11-13T11:47:32",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/939"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/939",
+     "art": "art. 56 ust. 1"
+    },
+    {
+     "id": "DU/1997/939",
+     "art": "art. 57 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000191.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
