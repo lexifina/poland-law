@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1992/40",
+ "source_sha256": "d402fa71eff58dfe7bfbf81580c636dacc8e5030650f126bfdde281ed5b04ea3",
+ "in_force": "1992-02-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1992/40",
+  "html": "https://eli.gov.pl/api/acts/DU/1992/40/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1992/40/text/O/D19920040.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1992/40/text/I/D19920040.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1992/40/text/U/D19920040Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1992/40",
+  "publisher": "DU",
+  "year": 1992,
+  "volume": 10,
+  "pos": 40,
+  "address": "WDU19920100040",
+  "displayAddress": "Dz.U. 1992 nr 10 poz. 40",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 17 grudnia 1991 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-12-17",
+  "promulgation": "1992-02-04",
+  "repealDate": "2005-09-01",
+  "changeDate": "2024-03-15T11:30:52",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "obrona narodowa",
+   "szkolnictwo wyższe",
+   "służba wojskowa żołnierzy",
+   "nauczyciele akademiccy",
+   "dokumenty",
+   "szkolnictwo wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2005/1365",
+     "date": "2005-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/491"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/491",
+     "art": "art. 16 pkt 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1965/102"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19920040.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19920040.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19920040Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
