@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1965/95",
+ "source_sha256": "3c0c526bf3b948dd2d8e19ebe1834e3ad7dda757604aaf8f86db3c6d78e3f9a2",
+ "in_force": "1965-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1965/95",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1965/95/text/O/D19650095.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1965/95/text/I/D19650095.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1965/95",
+  "publisher": "DU",
+  "year": 1965,
+  "volume": 13,
+  "pos": 95,
+  "address": "WDU19650130095",
+  "displayAddress": "Dz.U. 1965 nr 13 poz. 95",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 marca 1965 r. w sprawie utworzenia Wydziału dla Nieletnich w Sądzie Powiatowym w Nowym Targu.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-03-24",
+  "entryIntoForce": "1965-05-01",
+  "validFrom": "1965-05-01",
+  "repealDate": "1973-07-01",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/94",
+     "date": "1973-07-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1967/243",
+     "date": "1968-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1956/16",
+     "date": "1965-05-01"
+    },
+    {
+     "id": "DU/1950/496",
+     "date": "1965-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19650095.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19650095.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
