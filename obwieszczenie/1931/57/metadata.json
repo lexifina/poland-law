@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/57",
+ "source_sha256": "8736d57a062c04d6bd123ec538b4703258c94309519fad5cfe8a43f51b94b0bd",
+ "in_force": "1931-02-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/57",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/57/text/O/D19310057.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/57/text/I/D19310057.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/57",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 12,
+  "pos": 57,
+  "address": "WDU19310120057",
+  "displayAddress": "Dz.U. 1931 nr 12 poz. 57",
+  "title": "Obwieszczenie Ministra Poczt i Telegrafów z dnia 21 stycznia 1931 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 3 czerwca 1924 r. o poczcie, telegrafie i telefonie.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-01-21",
+  "promulgation": "1931-02-14",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/642"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/642",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/584"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310057.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310057.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
