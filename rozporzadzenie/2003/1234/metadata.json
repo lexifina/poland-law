@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1234",
+ "source_sha256": "f555ccde7ebec3515904f1a31fb3b3c2612c6dea57370bc3361b9de6cb777135",
+ "in_force": "2003-08-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1234/text/O/D20031234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1234/text/I/D20031234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1234",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 132,
+  "pos": 1234,
+  "address": "WDU20031321234",
+  "displayAddress": "Dz.U. 2003 nr 132 poz. 1234",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 czerwca 2003 r. w sprawie równoważnika pieniężnego przysługującego funkcjonariuszom",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-06-24",
+  "promulgation": "2003-07-29",
+  "entryIntoForce": "2003-08-13",
+  "validFrom": "2003-08-13",
+  "repealDate": "2010-08-13",
+  "changeDate": "2014-12-31T12:25:58",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ekwiwalent pieniężny"
+  ],
+  "keywordsNames": [
+   "Służba Więzienna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2000/951",
+     "date": "2003-08-13"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2006/1461",
+     "date": "2007-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/283"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/283",
+     "art": "art. 88 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2010/523",
+     "date": "2010-08-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20031234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
