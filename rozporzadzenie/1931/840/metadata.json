@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/840",
+ "source_sha256": "0522eaf818912eaec20911f8d77d4c0790e5c88b4cd6282d2a0bdd0f0bb8b7d6",
+ "in_force": "1931-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/840",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/840/text/O/D19310840.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/840/text/I/D19310840.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/840",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 108,
+  "pos": 840,
+  "address": "WDU19311080840",
+  "displayAddress": "Dz.U. 1931 nr 108 poz. 840",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 13 listopada 1931 r. w sprawie opłat za prace katastralne na obszarze województw poznańskiego i pomorskiego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-11-13",
+  "promulgation": "1931-12-18",
+  "entryIntoForce": "1931-12-18",
+  "validFrom": "1931-12-18",
+  "repealDate": "1934-02-07",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek gruntowy",
+   "kataster"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1934/91",
+     "date": "1934-02-07"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1928/701",
+     "date": "1931-12-18"
+    },
+    {
+     "id": "DU/1928/609",
+     "date": "1931-12-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/691"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310840.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310840.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
