@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1978/27",
+ "source_sha256": "ccbf6ad3c1e716aa43a56f9373962155e3cbe70b379ca0b7f2075c75e4d315d1",
+ "in_force": "1978-03-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1978/27",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1978/27/text/O/M19780027.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1978/27/text/I/M19780027.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1978/27",
+  "publisher": "MP",
+  "year": 1978,
+  "volume": 8,
+  "pos": 27,
+  "address": "WMP19780080027",
+  "displayAddress": "M.P. 1978 nr 8 poz. 27",
+  "title": "Zarządzenie Ministra Finansów z dnia 18 lutego 1978 r. w sprawie taryfy składek za obowiązkowe ubezpieczenia komunikacyjne jednostek gospodarki uspołecznionej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-02-18",
+  "entryIntoForce": "1978-03-09",
+  "validFrom": "1978-03-09",
+  "repealDate": "1980-01-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1979/160",
+     "date": "1980-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1968/232",
+     "date": "1978-03-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/304"
+    },
+    {
+     "id": "DU/1958/357"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/304",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1958/357",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19780027.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19780027.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
