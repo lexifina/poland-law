@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/545",
+ "source_sha256": "02e089e6a25ae8cd8587367644c7426b12f91f0c3668244ec5eb378450412f92",
+ "in_force": "2003-07-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/545",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/545/text/O/M20030545.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/545/text/I/M20030545.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/545",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 37,
+  "pos": 545,
+  "address": "WMP20030370545",
+  "displayAddress": "M.P. 2003 nr 37 poz. 545",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 14 lipca 2003 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w II kwartale 2003 r. w stosunku do IV kwartału 1995 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-07-14",
+  "promulgation": "2003-07-24",
+  "changeDate": "2020-10-20T09:38:42",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/164"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/164",
+     "art": "art. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030545.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030545.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
