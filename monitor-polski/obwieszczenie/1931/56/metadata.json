@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/56",
+ "source_sha256": "8ac47619eb363f235ed38fb11e667d858554c9322ffea7a8b4d66456816b163e",
+ "in_force": "1931-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/56",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/56/text/O/M19310056.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/56/text/I/M19310056.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/56",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 34,
+  "pos": 56,
+  "address": "WMP19310340056",
+  "displayAddress": "M.P. 1931 nr 34 poz. 56",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 26 stycznia 1931 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-01-26",
+  "promulgation": "1931-02-12",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1931/685"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/561",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310056.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310056.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
