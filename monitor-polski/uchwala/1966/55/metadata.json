@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1966/55",
+ "source_sha256": "8474bf43a92a755d7ffd19c80a3aa80ad4fcac75e7e091d48c69d3a103b28a91",
+ "in_force": "1966-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1966/55",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1966/55/text/O/M19660055.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1966/55/text/I/M19660055.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1966/55",
+  "publisher": "MP",
+  "year": 1966,
+  "volume": 7,
+  "pos": 55,
+  "address": "WMP19660070055",
+  "displayAddress": "M.P. 1966 nr 7 poz. 55",
+  "title": "Uchwała nr 31 Rady Ministrów z dnia 1 lutego 1966 r. w sprawie zasad i trybu ustalania cen porównywalnych w latach 1966-1970.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-02-01",
+  "entryIntoForce": "1966-03-01",
+  "validFrom": "1966-01-01",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1966/327",
+     "date": "1966-12-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1960/155"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1953/122"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1953/122",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19660055.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19660055.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
