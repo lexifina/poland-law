@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/298",
+ "source_sha256": "46b5d127952e0dfc4529afcfe98b1a62b392fe52e06c461475fafff442d550cc",
+ "in_force": "1982-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/298",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/298/text/O/M19810298.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/298/text/I/M19810298.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/298",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 33,
+  "pos": 298,
+  "address": "WMP19810330298",
+  "displayAddress": "M.P. 1981 nr 33 poz. 298",
+  "title": "Zarządzenie Ministra Finansów z dnia 30 grudnia 1981 r. zmieniające zarządzenie w sprawie warunków sprzedaży zagranicznych środków płatniczych na cele prywatne.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-12-30",
+  "entryIntoForce": "1982-01-01",
+  "validFrom": "1982-01-01",
+  "repealDate": "1987-11-02",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dewizowe prawo",
+   "fundusze",
+   "podróże zagraniczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1987/277",
+     "date": "1987-11-02"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1978/15",
+     "date": "1982-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 10 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810298.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810298.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
