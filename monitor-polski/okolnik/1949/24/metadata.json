@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1949/24",
+ "source_sha256": "5f09b2d759013962c97a139008f41971fd27fc2de6cab9080da4d61ccec15bbf",
+ "in_force": "1949-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1949/24",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1949/24/text/O/M19490024.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1949/24/text/I/M19490024.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1949/24",
+  "publisher": "MP",
+  "year": 1949,
+  "volume": 3,
+  "pos": 24,
+  "address": "WMP19490030024",
+  "displayAddress": "M.P. 1949 nr 3 poz. 24",
+  "title": "Okólnik Prezesa Rady Ministrów z dnia 12 stycznia 1949 r. zmieniający okólnik nr 19 z dnia 22 maja 1948 r. w sprawie używania osobowych pojazdów mechanicznych.",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-01-12",
+  "entryIntoForce": "1949-01-12",
+  "validFrom": "1949-01-12",
+  "repealDate": "1955-03-10",
+  "changeDate": "2014-12-31T12:24:27",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1955/193",
+     "date": "1955-03-10"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1950/177"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1948/545",
+     "date": "1949-01-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19490024.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19490024.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
