@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1949/3",
+ "source_sha256": "de3c4da4eb2d0a1422034775a9ca051cf0c766f3f4f001121986c1e42b6f9620",
+ "in_force": "1949-01-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1949/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1949/3/text/O/D19490003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1949/3/text/I/D19490003.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1949/3",
+  "publisher": "DU",
+  "year": 1949,
+  "volume": 1,
+  "pos": 3,
+  "address": "WDU19490010003",
+  "displayAddress": "Dz.U. 1949 nr 1 poz. 3",
+  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 30 listopada 1948 r. w sprawie zaopatrywania ludności w mięso, tłuszcze i przetwory mięsne.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-11-30",
+  "entryIntoForce": "1949-01-03",
+  "validFrom": "1949-01-03",
+  "repealDate": "1949-05-04",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/202",
+     "date": "1949-05-04"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1949/66"
+    },
+    {
+     "id": "MP/1949/116"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/360"
+    },
+    {
+     "id": "DU/1946/217"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19490003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19490003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
