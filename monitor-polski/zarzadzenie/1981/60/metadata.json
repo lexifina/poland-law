@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/60",
+ "source_sha256": "1457bb6dba31e510d8288dc995a385825c62e0bc23eb6a782221e5a3a807764a",
+ "in_force": "1981-03-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/60",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/60/text/O/M19810060.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/60/text/I/M19810060.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/60",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 7,
+  "pos": 60,
+  "address": "WMP19810070060",
+  "displayAddress": "M.P. 1981 nr 7 poz. 60",
+  "title": "Zarządzenie nr 7 Prezesa Rady Ministrów z dnia 4 marca 1981 r. w sprawie wprowadzenia czasu letniego i zimowego w 1981 r.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-03-04",
+  "entryIntoForce": "1981-03-12",
+  "validFrom": "1981-03-12",
+  "repealDate": "1981-12-31",
+  "changeDate": "2023-06-23T14:40:52",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas letni i zimowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1981/60",
+     "date": "1981-12-31"
+    },
+    {
+     "id": "MP/1980/16",
+     "date": "1981-03-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1977/3"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1977/3",
+     "art": "par. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1981/60",
+     "date": "1981-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810060.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810060.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
