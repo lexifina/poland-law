@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/883",
+ "source_sha256": "d88ec02c67cd9a3bd5aee04301404e50a17eff2fe009e0576b617970df2d43ab",
+ "in_force": "1932-11-05",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/883",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/883/text/O/D19320883.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/883/text/I/D19320883.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/883",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 106,
+  "pos": 883,
+  "address": "WDU19321060883",
+  "displayAddress": "Dz.U. 1932 nr 106 poz. 883",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 5 listopada 1932 r. o ustalaniu składu komisyj rozjemczych, powoływanych do rozstrzygania sporów indywidualnych pomiędzy pracodawcami a pracownikami rolnymi.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-05",
+  "repealDate": "1946-08-02",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/213",
+     "date": "1946-08-02"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1946/30",
+     "date": "1946-03-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/394"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320883.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320883.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
