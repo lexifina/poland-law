@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/217",
+ "source_sha256": "a383c20fd51fa43a1d34198b22587a13f5d39e837f16edc3a0609cce19de26f4",
+ "in_force": "1972-08-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/217",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/217/text/O/M19720217.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/217/text/I/M19720217.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/217",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 39,
+  "pos": 217,
+  "address": "WMP19720390217",
+  "displayAddress": "M.P. 1972 nr 39 poz. 217",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 24 lipca 1972 r. w sprawie ceny, warunków i trybu sprzedaży państwowych nieruchomości rolnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-07-24",
+  "entryIntoForce": "1972-08-09",
+  "validFrom": "1972-08-09",
+  "repealDate": "1974-02-27",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/54",
+     "date": "1974-02-27"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1969/424",
+     "date": "1972-08-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/71"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/71",
+     "art": "art. 5"
+    },
+    {
+     "id": "DU/1958/71",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720217.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720217.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
