@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/786",
+ "source_sha256": "ba78dadc65c529563cb23a7314c0ef483878d40e772b006af9483ba9669cc6a7",
+ "in_force": "2002-11-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/786",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/786/text/O/M20020786.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/786/text/I/M20020786.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/786",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 57,
+  "pos": 786,
+  "address": "WMP20020570786",
+  "displayAddress": "M.P. 2002 nr 57 poz. 786",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 listopada 2002 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego w I kwartale 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-11-16",
+  "promulgation": "2002-11-30",
+  "changeDate": "2019-03-22T14:26:50",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "waloryzacja",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 44 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020786.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020786.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
