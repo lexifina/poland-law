@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/45",
+ "source_sha256": "9f6058489d2bddffc9bbc2cf5a1a843792e42195581b00be9e59734aa53cdb00",
+ "in_force": "1982-03-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/45/text/O/M19820045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/45/text/I/M19820045.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/45",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 8,
+  "pos": 45,
+  "address": "WMP19820080045",
+  "displayAddress": "M.P. 1982 nr 8 poz. 45",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 26 lutego 1982 r. w sprawie określenia wykazu towarów i usług, na które ustala się ceny urzędowe.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-02-26",
+  "entryIntoForce": "1982-03-09",
+  "validFrom": "1982-03-09",
+  "repealDate": "1982-12-31",
+  "changeDate": "2023-07-05T14:38:23",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny urzędowe",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1982/45",
+     "date": "1982-12-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1982/45",
+     "date": "1982-12-31"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1982/17",
+     "date": "1982-03-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/52"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/52",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820045.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
