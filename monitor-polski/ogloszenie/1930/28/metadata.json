@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/28",
+ "source_sha256": "5ae296b0ce116061ecd6beaf635f8cda5c3f9f6273a6f85a6f9c94cbded6f808",
+ "in_force": "1930-01-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/28",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/28/text/O/M19300028.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/28/text/I/M19300028.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/28",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 17,
+  "pos": 28,
+  "address": "WMP19300170028",
+  "displayAddress": "M.P. 1930 nr 17 poz. 28",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 16 stycznia 1930 r.",
+  "type": "Ogłoszenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-01-16",
+  "promulgation": "1930-01-22",
+  "changeDate": "2014-12-31T12:26:23",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300028.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300028.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
