@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/222",
+ "source_sha256": "ffa4ecbf85886e8276c07bf6098b28780925887f7d71d82bcc5315b9579fd6ef",
+ "in_force": "1965-01-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/222/text/O/M19640222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/222/text/I/M19640222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/222",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 45,
+  "pos": 222,
+  "address": "WMP19640450222",
+  "displayAddress": "M.P. 1964 nr 45 poz. 222",
+  "title": "Zarządzenie Ministrów Komunikacji i Spraw Wewnętrznych z dnia 29 czerwca 1964 r. w sprawie wyposażenia pojazdów samochodowych i przyczep.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-06-29",
+  "entryIntoForce": "1965-01-16",
+  "validFrom": "1965-01-16",
+  "repealDate": "1971-07-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI",
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1971/92",
+     "date": "1971-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/295"
+    },
+    {
+     "id": "DU/1961/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/295",
+     "art": "par. 170 ust. 2"
+    },
+    {
+     "id": "DU/1961/295",
+     "art": "art. 17 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
