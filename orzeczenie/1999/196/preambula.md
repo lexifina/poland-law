@@ -1,0 +1,25 @@
+Trybunał Konstytucyjny w składzie:
+
+Janusz Trzciński - przewodniczący,
+
+Zdzisław Czeszejko-Sochacki - sprawozdawca,
+
+Stefan J. Jaworski,
+
+Wiesław Johann,
+
+Krzysztof Kolasiński,
+
+protokolant: Joanna Szymczak
+
+po rozpoznaniu w dniu 24 lutego 1999 r. na rozprawie skargi konstytucyjnej spółki „PROEXPORT” Sp. z o.o. z siedzibą w Katowicach, z udziałem umocowanych przedstawicieli uczestników postępowania: pełnomocnika skarżącego i Prokuratora Generalnego, o stwierdzenie zgodności art. 14 ust. 3a i art. 14 ust. 3b ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 1995 r. Nr 57, poz. 299 i Nr 101, poz. 504, z 1996 r. Nr 59, poz. 268, Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349 i Nr 79, poz. 484 oraz z 1998 r. Nr 106, poz. 668) z art. 2 i art. 32 Konstytucji Rzeczypospolitej Polskiej
+
+orzeka:
+
+Art. 14 ust. 3a ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 1995 r. Nr 57, poz. 299 i Nr 101, poz. 504, z 1996 r. Nr 59, poz. 268, Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349 i Nr 79, poz. 484 oraz z 1998 r. Nr 106, poz. 668) jest zgodny z art. 2 i art. 32 Konstytucji Rzeczypospolitej Polskiej.
+
+Ponadto Trybunał Konstytucyjny, uznając wydanie orzeczenia w sprawie zgodności art. 14 ust. 3b powołanej wyżej ustawy za niedopuszczalne, na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643)
+
+postanowił:
+
+umorzyć w tym zakresie postępowanie.
