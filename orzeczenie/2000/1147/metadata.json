@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1147",
+ "source_sha256": "5034905102b639157ef95142757a6d000620f283bc938c7d14c231d8bcc8f996",
+ "in_force": "2000-12-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 864 words, parsed 68; at 68: 'Generalnego , o stwierdzenie : 1 ) z wniosku Rady'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1147",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1147/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1147/text/O/D20001147.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1147/text/I/D20001147.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1147/text/T/D20001147TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1147",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 107,
+  "pos": 1147,
+  "address": "WDU20001071147",
+  "displayAddress": "Dz.U. 2000 nr 107 poz. 1147",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 listopada 2000 r. sygn. akt U. 3/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-11-27",
+  "entryIntoForce": "2000-12-07",
+  "validFrom": "2000-12-07",
+  "changeDate": "2024-03-15T09:49:08",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1990/95"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/1266"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001147.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001147.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001147TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
