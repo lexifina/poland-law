@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1979/122",
+ "source_sha256": "0d18a6964f0ab0845c2c7d7c7314fb677064e391202a981e3c216354386d7034",
+ "in_force": "1979-10-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1979/122",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1979/122/text/O/D19790122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1979/122/text/I/D19790122.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1979/122",
+  "publisher": "DU",
+  "year": 1979,
+  "volume": 21,
+  "pos": 122,
+  "address": "WDU19790210122",
+  "displayAddress": "Dz.U. 1979 nr 21 poz. 122",
+  "title": "Rozporządzenie Rady Ministrów z dnia 4 września 1979 r. zmieniające rozporządzenie w sprawie opłaty skarbowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1979-09-04",
+  "promulgation": "1979-09-20",
+  "entryIntoForce": "1979-10-04",
+  "validFrom": "1979-10-04",
+  "repealDate": "1983-07-01",
+  "changeDate": "2014-12-31T12:25:32",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata skarbowa",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1983/161",
+     "date": "1983-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1975/241",
+     "date": "1979-10-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1975/226"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1975/226",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19790122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19790122.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
