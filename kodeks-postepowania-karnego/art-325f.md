@@ -1,0 +1,1 @@
+§ 1. Jeżeli dane uzyskane w toku czynności, o których mowa w art. 308 § 1, lub prowadzonego przez okres co najmniej 5 dni dochodzenia nie stwarzają dostatecznych podstaw do wykrycia sprawcy w drodze dalszych czynności procesowych, można wydać postanowienie o umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw.
