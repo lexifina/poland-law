@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/312",
+ "source_sha256": "872c771899f69da9b53703f65e8d3647444dabce155dcc09ddaeeceaad6629bb",
+ "in_force": "2001-02-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/312/text/O/M20010312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/312/text/I/M20010312.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/312",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 18,
+  "pos": 312,
+  "address": "WMP20010180312",
+  "displayAddress": "M.P. 2001 nr 18 poz. 312",
+  "title": "Obwieszczenie Przewodniczącego Rady Wyższego Szkolnictwa Artystycznego z dnia 27 lutego 2001 r. w sprawie uzupełnienia wykazu jednostek organizacyjnych uprawnionych do przeprowadzania przewodów kwalifikacyjnych w zakresie dziedzin sztuki i dyscyplin artystycznych wraz z określeniem stopnia nadawanych kwalifikacji.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-02-27",
+  "repealDate": "2002-12-17",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "PRZEW. RADY WYŻSZEGO SZKOLNICTWA ARTYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe",
+   "kwalifikacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2003/225",
+     "date": "2002-12-17"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/2000/513"
+    },
+    {
+     "id": "MP/1998/374"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/386"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/386",
+     "art": "art. 37 ust. 2 i ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010312.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
