@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/717",
+ "source_sha256": "58e38f2c28d925987e5e47cf9b536fd58497a951f630a8d084460002d0fe8715",
+ "in_force": "2004-10-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/717",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/717/text/O/M20040717.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/717/text/I/M20040717.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/717",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 42,
+  "pos": 717,
+  "address": "WMP20040420717",
+  "displayAddress": "M.P. 2004 nr 42 poz. 717",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 30 września 2004 r. w sprawie niewyrażenia przez Senat Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej senatora Jerzego Pieniążka",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-30",
+  "promulgation": "2004-10-14",
+  "changeDate": "2026-10-06T14:30:17",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7 ust. 1"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7c ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040717.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040717.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
