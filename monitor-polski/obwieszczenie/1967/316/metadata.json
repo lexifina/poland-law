@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1967/316",
+ "source_sha256": "39a64ba74c0670a4ec89d75976346e06f3ba92fbb65497ecccfbbaaa70789fd4",
+ "in_force": "1967-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1967/316",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1967/316/text/O/M19670316.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1967/316/text/I/M19670316.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1967/316",
+  "publisher": "MP",
+  "year": 1967,
+  "volume": 65,
+  "pos": 316,
+  "address": "WMP19670650316",
+  "displayAddress": "M.P. 1967 nr 65 poz. 316",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 grudnia 1967 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-12-01",
+  "entryIntoForce": "1967-12-01",
+  "validFrom": "1967-12-01",
+  "repealDate": "1968-01-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1967/356",
+     "date": "1968-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1967/303",
+     "date": "1967-12-01"
+    },
+    {
+     "id": "MP/1967/282",
+     "date": "1967-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19670316.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19670316.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
