@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/437",
+ "source_sha256": "88f30bc483ce424bce2f2bbac78fa6706c78234d17462de9077d5dc3c59aa4a4",
+ "in_force": "1935-09-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/437",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/437/text/O/D19350437.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/437/text/I/D19350437.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/437",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 69,
+  "pos": 437,
+  "address": "WDU19350690437",
+  "displayAddress": "Dz.U. 1935 nr 69 poz. 437",
+  "title": "Obwieszczenie Ministra Komunikacji z dnia 29 sierpnia 1935 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 marca 1928 r. o prawie lotniczem.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-08-29",
+  "promulgation": "1935-09-18",
+  "repealDate": "1962-06-08",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1962/153",
+     "date": "1962-06-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/976"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/976",
+     "art": "art. 122 ust. 2 i 3 pkt 8"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/294"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350437.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350437.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
