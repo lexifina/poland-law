@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/420",
+ "source_sha256": "26a13b95ee0dce84cc17aa4d1edbc8ebb33aed472c614ddcce57bbbfc9e74fdb",
+ "in_force": "1938-09-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/420",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/420/text/O/M19380420.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/420/text/I/M19380420.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/420",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 206,
+  "pos": 420,
+  "address": "WMP19382060420",
+  "displayAddress": "M.P. 1938 nr 206 poz. 420",
+  "title": "Ogłoszenie Komisarza Rządowego Izb Lekarsko-Dentystycznych z dnia 5 września 1938 r. w sprawie wyboró do rady Okręgowej Izby Lekarsko-Dentystycznej w Krakowie.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-09-05",
+  "promulgation": "1938-09-09",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "lekarze dentyści",
+   "izby lekarskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1938/295",
+     "art": "par. 16 ust. 1"
+    },
+    {
+     "id": "DU/1938/295",
+     "art": "par. 44"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380420.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380420.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
