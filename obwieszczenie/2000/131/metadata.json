@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/131",
+ "source_sha256": "a45ed3b35b012b28252bc012c2950a9019c939b09d684f4d55ac11c5a221252e",
+ "in_force": "1999-12-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/131",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/131/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/131/text/O/D20000131.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/131/text/I/D20000131.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/131/text/U/D20000131Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/131",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 9,
+  "pos": 131,
+  "address": "WDU20000090131",
+  "displayAddress": "Dz.U. 2000 nr 9 poz. 131",
+  "title": "Obwieszczenie Ministra Finansów z dnia 31 grudnia 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Bankowym Funduszu Gwarancyjnym.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-31",
+  "expirationDate": "2007-03-28",
+  "changeDate": "2024-03-15T09:49:51",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rachunki bankowe",
+   "upadłościowe prawo",
+   "bankowe prawo",
+   "kredyty i pożyczki",
+   "banki"
+  ],
+  "keywordsNames": [
+   "Bankowy Fundusz Gwarancyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/399"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/399",
+     "art": "art. 4"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/18"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000131.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000131.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000131Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
