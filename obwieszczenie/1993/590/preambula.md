@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) prostuje się następujący błąd:
+
+W dziale 87 taryfy celnej, stanowiącej załącznik nr 1 do rozporządzenia Rady Ministrów z dnia 8 czerwca 1993 r. w sprawie ceł na towary przywożone z zagranicy (Dz. U. Nr 51, poz. 235), w Uwagach dodatkowych, w pkt 1 zamiast wyrazów „pozycji nr 8706, 8707 i 8708” powinny być wyrazy „pozycji nr 8703, 8704 i 8706”.
