@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/221",
+ "source_sha256": "98051b6b68cdf8dd71a5486e0db8a51d1d727aed6cb0a3c406878889d246e68c",
+ "in_force": "1935-08-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/221/text/O/M19350221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/221/text/I/M19350221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/221",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 198,
+  "pos": 221,
+  "address": "WMP19351980221",
+  "displayAddress": "M.P. 1935 nr 198 poz. 221",
+  "title": "Okólnik T. 33 MInisterstwa Skarbu z dnia 27 sierpnia 1935 r. L. D. IV. 24923/2/35 w sprawie wyjaśnienia do taryfy celnej przywozowej (dotyczy poz. 964 taryfy celnej)",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-08-27",
+  "promulgation": "1935-08-30",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 13 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
