@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/371",
+ "source_sha256": "772bebcc19a1f5045fe290f30bfbee8c0c222372d14c657d8524d8ee1507e533",
+ "in_force": "1999-05-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/371",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/371/text/O/D19990371.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/371/text/I/D19990371.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/371/text/T/D19990371L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/371",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 38,
+  "pos": 371,
+  "address": "WDU19990380371",
+  "displayAddress": "Dz.U. 1999 nr 38 poz. 371",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 1999 r. w sprawie sposobu wykazywania danych w ewidencji gruntów i budynków.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-03-04",
+  "entryIntoForce": "1999-05-13",
+  "validFrom": "1999-05-13",
+  "repealDate": "2000-06-30",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ewidencja gruntów i budynków"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/163"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/163",
+     "art": "art. 26 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2000/136",
+     "date": "2000-06-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990371.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990371.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990371L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
