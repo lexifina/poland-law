@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/321",
+ "source_sha256": "de9628cd2cd1c804020a6de1586b49650337f8dc60c17e6fc1d36a1f64d82219",
+ "in_force": "1987-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/321",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/321/text/O/M19870321.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/321/text/I/M19870321.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/321",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 38,
+  "pos": 321,
+  "address": "WMP19870380321",
+  "displayAddress": "M.P. 1987 nr 38 poz. 321",
+  "title": "Uchwała Rady Państwa z dnia 18 grudnia 1987 r. w sprawie zachowania przez pracowników Państwowej Inspekcji Pracy szczególnych uprawnień nabytych uprzednio z tytułu pracy w górnictwie.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-12-18",
+  "entryIntoForce": "1987-12-31",
+  "validFrom": "1987-12-31",
+  "repealDate": "1999-07-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [
+   "GŁÓWNY INSPEKTOR PRACY"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pracownicy urzędów państwowych"
+  ],
+  "keywordsNames": [
+   "Inspekcja Pracy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1982/259"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1981/23"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1981/23",
+     "art": "art. 26"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1999/483",
+     "date": "1999-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870321.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870321.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
