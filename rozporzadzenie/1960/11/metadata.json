@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1960/11",
+ "source_sha256": "28bd6660c88139afd306078b804e689f44aa867213c15ecd6c4ba52417840f8d",
+ "in_force": "1960-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1960/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1960/11/text/O/D19600011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1960/11/text/I/D19600011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1960/11",
+  "publisher": "DU",
+  "year": 1960,
+  "volume": 2,
+  "pos": 11,
+  "address": "WDU19600020011",
+  "displayAddress": "Dz.U. 1960 nr 2 poz. 11",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 15 grudnia 1959 r. w sprawie powoływania poborowych i innych osób do czynnej służby wojskowej i zwalniania z tej służby.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-12-15",
+  "entryIntoForce": "1960-01-13",
+  "validFrom": "1960-01-13",
+  "repealDate": "1963-11-28",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1963/290",
+     "date": "1963-11-28"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1963/220",
+     "date": "1963-09-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1960/10"
+    },
+    {
+     "id": "DU/1959/75"
+    },
+    {
+     "id": "DU/1959/235"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/75"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19600011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19600011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
