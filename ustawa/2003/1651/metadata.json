@@ -1,0 +1,162 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1651",
+ "source_sha256": "f1ee1c55a1cb35a94780fe0f1ff57a43996226dfe274c620c323d89f852d0023",
+ "in_force": "2003-10-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1651",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1651/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1651/text/O/D20031651.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1651/text/I/D20031651.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1651/text/T/D20031651L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/1651/text/U/D20031651Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1651",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 170,
+  "pos": 1651,
+  "address": "WDU20031701651",
+  "displayAddress": "Dz.U. 2003 nr 170 poz. 1651",
+  "title": "Ustawa z dnia 27 sierpnia 2003 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-08-27",
+  "promulgation": "2003-09-30",
+  "entryIntoForce": "2003-10-15",
+  "validFrom": "2003-10-15",
+  "changeDate": "2026-10-06T10:45:28",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [
+   "RADA MINISTRÓW"
+  ],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ZABEZPIECZENIA SPOŁECZNEGO",
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "fundusze emerytalne",
+   "ubezpieczenia społeczne",
+   "opłata skarbowa",
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1047.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1047",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1047",
+    "number": "1047",
+    "term": 4
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/852.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/852",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/852",
+    "number": "852",
+    "term": 4
+   }
+  ],
+  "comments": "daty wejścia w życie poszczególnych artykułów patrz art. 16",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1998/776",
+     "date": "2003-10-15"
+    },
+    {
+     "id": "DU/1998/507",
+     "date": "2004-04-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/2005/866"
+    },
+    {
+     "id": "MP/2005/363"
+    },
+    {
+     "id": "MP/2004/761"
+    },
+    {
+     "id": "DU/2004/1667"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/1048",
+     "date": "2010-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1153",
+     "date": "2003-10-15"
+    },
+    {
+     "id": "DU/2000/960",
+     "date": "2003-10-15"
+    },
+    {
+     "id": "DU/2000/157",
+     "date": "2003-10-15"
+    },
+    {
+     "id": "DU/1998/887",
+     "date": "2003-10-15"
+    },
+    {
+     "id": "DU/1997/934",
+     "date": "2003-10-15"
+    },
+    {
+     "id": "DU/1997/754",
+     "date": "2003-10-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1999/999"
+    },
+    {
+     "id": "DU/1994/591"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031651.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031651.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031651L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20031651Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
