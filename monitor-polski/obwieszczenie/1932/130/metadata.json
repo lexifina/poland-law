@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/130",
+ "source_sha256": "87781673ac579ba0d766c4dc680fb272216139281283a29a5d9e4b1fb06c3a53",
+ "in_force": "1932-05-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/130",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/130/text/O/M19320130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/130/text/I/M19320130.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/130",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 101,
+  "pos": 130,
+  "address": "WMP19321010130",
+  "displayAddress": "M.P. 1932 nr 101 poz. 130",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 22 kwietnia 1932 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-04-22",
+  "promulgation": "1932-05-02",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/99"
+    },
+    {
+     "id": "DU/1928/190"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/99",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1928/190",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320130.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
