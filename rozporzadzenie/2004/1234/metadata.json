@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1234",
+ "source_sha256": "8e45ca9c657cc101dcbc4dd2ccbcc07b3ad8eec168ffb110982085de0b5256ab",
+ "in_force": "2004-06-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1234/text/O/D20041234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1234/text/I/D20041234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1234",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 118,
+  "pos": 1234,
+  "address": "WDU20041181234",
+  "displayAddress": "Dz.U. 2004 nr 118 poz. 1234",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 29 kwietnia 2004 r. w sprawie usługi dzierżawy łączy telekomunikacyjnych",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-04-29",
+  "promulgation": "2004-05-26",
+  "entryIntoForce": "2004-06-10",
+  "validFrom": "2004-06-10",
+  "repealDate": "2005-09-03",
+  "changeDate": "2014-12-31T12:26:01",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2003/74",
+     "date": "2004-06-10"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1351",
+     "date": "2005-09-03"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2003/2087"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/852"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/852",
+     "art": "art. 61 ust. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20041234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
