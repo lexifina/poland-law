@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/80",
+ "source_sha256": "8d1421f2a6e631036cf4f800a65dcc948e61fa8c3d2b10b1a8dd67182586017c",
+ "in_force": "1921-02-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/80/text/O/D19210080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/80/text/I/D19210080.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/80",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 13,
+  "pos": 80,
+  "address": "WDU19210130080",
+  "displayAddress": "Dz.U. 1921 nr 13 poz. 80",
+  "title": "Rozporządzenie z dnia 31 stycznia 1921 r. w przedmiocie uchylenia rozporządzenia Ministra Aprowizacji z dnia 12 sierpnia 1920 r.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1921-01-31",
+  "entryIntoForce": "1921-02-08",
+  "validFrom": "1921-02-08",
+  "repealDate": "1938-08-18",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. APROWIZACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1920/546",
+     "date": "1921-02-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/500"
+    },
+    {
+     "id": "DU/1920/449"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1938/462",
+     "date": "1938-08-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19210080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
