@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/43",
+ "source_sha256": "7cca0f147ba1810b11654551795186ecac317b7bb636f95d5b7c7444ca2966bd",
+ "in_force": "1972-01-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/43/text/O/M19720043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/43/text/I/M19720043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/43",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 6,
+  "pos": 43,
+  "address": "WMP19720060043",
+  "displayAddress": "M.P. 1972 nr 6 poz. 43",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 17 stycznia 1972 r. zmieniające obwieszczenie w sprawie wykazu obowiązujących resortowych aktów prawnych ogłoszonych w Monitorze Polskim.",
+  "type": "Obwieszczenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-01-17",
+  "entryIntoForce": "1972-01-17",
+  "validFrom": "1972-01-17",
+  "repealDate": "1980-01-31",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/11",
+     "date": "1980-01-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1969/417",
+     "date": "1972-01-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
