@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/74",
+ "source_sha256": "1ae09a62bd6fa246748358ff5dbb975c7394a953a3968e3f9571f223404aa4ba",
+ "in_force": "1945-04-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/74",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/74/text/O/D19450074.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/74/text/I/D19450074.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/74",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 13,
+  "pos": 74,
+  "address": "WDU19450130074",
+  "displayAddress": "Dz.U. 1945 nr 13 poz. 74",
+  "title": "Dekret z dnia 13 kwietnia 1945 r. o podatku wojskowym.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-04-13",
+  "entryIntoForce": "1945-04-15",
+  "validFrom": "1945-01-01",
+  "repealDate": "1946-01-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/128",
+     "date": "1946-01-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/114"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/454"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450074.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450074.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
