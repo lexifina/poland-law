@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/200",
+ "source_sha256": "4e22b683b401b636e6f1552c538b0bf4cb0224fede0b99641a66fe720c974e8d",
+ "in_force": "1931-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/200/text/O/D19310200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/200/text/I/D19310200.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/200",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 29,
+  "pos": 200,
+  "address": "WDU19310290200",
+  "displayAddress": "Dz.U. 1931 nr 29 poz. 200",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 26 marca 1931 r. w sprawie zleceń pocztowych w obrocie wewnętrznym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-03-26",
+  "entryIntoForce": "1931-04-01",
+  "validFrom": "1931-03-31",
+  "repealDate": "1931-03-21",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta",
+   "weksle"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/392",
+     "date": "1931-03-21"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1927/529",
+     "date": "1931-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/584"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/584",
+     "art": "art. 17"
+    },
+    {
+     "id": "DU/1924/584",
+     "art": "art. 6"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1931/491"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
