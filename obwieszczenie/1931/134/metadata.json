@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/134",
+ "source_sha256": "547c885cf900e57ee7819264675bf8ffd25ea1bd4702a2c46bac6f35100658c6",
+ "in_force": "1931-03-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/134/text/O/D19310134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/134/text/I/D19310134.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/134",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 22,
+  "pos": 134,
+  "address": "WDU19310220134",
+  "displayAddress": "Dz.U. 1931 nr 22 poz. 134",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 24 lutego 1931 r. o sprostowaniu błędu w rozporządzeniu Ministra Przemysłu i Handlu z dnia 12 grudnia 1930 r. o wykonywaniu rybołówstwa morskiego.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-02-24",
+  "promulgation": "1931-03-17",
+  "repealDate": "1963-11-30",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "rybołówstwo morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1963/267",
+     "date": "1963-11-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1930/720"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310134.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
