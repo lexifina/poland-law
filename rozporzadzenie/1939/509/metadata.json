@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/509",
+ "source_sha256": "12a7f529629eff19ab78d06d1b8880c38602c846742553796e9e0246771857f8",
+ "in_force": "1939-08-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/509",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/509/text/O/D19390509.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/509/text/I/D19390509.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/509",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 76,
+  "pos": 509,
+  "address": "WDU19390760509",
+  "displayAddress": "Dz.U. 1939 nr 76 poz. 509",
+  "title": "Rozporządzenie Rady Ministrów z dnia 9 sierpnia 1939 r. o umundurowaniu dozorców celnych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-08-09",
+  "promulgation": "1939-08-25",
+  "entryIntoForce": "1939-08-25",
+  "validFrom": "1939-08-25",
+  "changeDate": "2020-09-23T13:40:49",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "mundury",
+   "dozorcy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1930/1",
+     "date": "1939-08-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/663"
+    },
+    {
+     "id": "DU/1922/164"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/663",
+     "art": "art. 9"
+    },
+    {
+     "id": "DU/1922/164",
+     "art": "art. 104"
+    },
+    {
+     "id": "DU/1922/164",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390509.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390509.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
