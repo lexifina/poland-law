@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/544",
+ "source_sha256": "bd306464a5f064733ae04ab0523df6aa44901f48baccf7dc57fb8d6de3abb9cf",
+ "in_force": "2000-06-30",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/544",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/544/text/O/M20000544.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/544/text/I/M20000544.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/544",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 26,
+  "pos": 544,
+  "address": "WMP20000260544",
+  "displayAddress": "M.P. 2000 nr 26 poz. 544",
+  "title": "Obwieszczenie Ministra Finansów z dnia 30 czerwca 2000 r. w sprawie wykazu środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt, dopuszczonych do obrotu w kraju.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-06-30",
+  "changeDate": "2019-03-25T12:08:24",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "zwierzęta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2000/8",
+     "date": "2000-04-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/452",
+     "art": "art. 18 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000544.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000544.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
