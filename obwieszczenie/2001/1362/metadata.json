@@ -1,0 +1,102 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1362",
+ "source_sha256": "00209368f003321179e2ae1a6eded60429155767555085a3eb96c60a0eb2aa39",
+ "in_force": "2001-10-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1362",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1362/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1362/text/O/D20011362.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1362/text/I/D20011362.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1362/text/T/D20011362L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1362/text/U/D20011362Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1362",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 124,
+  "pos": 1362,
+  "address": "WDU20011241362",
+  "displayAddress": "Dz.U. 2001 nr 124 poz. 1362",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 października 2001 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowej Inspekcji Pracy.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-10-12",
+  "promulgation": "2001-10-26",
+  "repealDate": "2007-07-01",
+  "changeDate": "2024-03-15T10:00:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola",
+   "nadzór",
+   "prawo pracy",
+   "bhp"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Rada Ochrony Pracy",
+   "Państwowa Inspekcja Pracy"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity ustawy z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz. U. Nr 6, poz. 23) nie obejmuje rozdziału 4.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/589",
+     "date": "2007-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1981/23"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011362.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011362.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011362L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20011362Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
