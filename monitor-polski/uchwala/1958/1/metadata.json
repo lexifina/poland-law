@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/1",
+ "source_sha256": "03fb19f517eb627070fef1980e14d57165faa0bb8973f491b03c727eb1c6ed94",
+ "in_force": "1957-12-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/1/text/O/M19580001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/1/text/I/M19580001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/1",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19580010001",
+  "displayAddress": "M.P. 1958 nr 1 poz. 1",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 28 grudnia 1957 r. o zmianie regulaminu Sejmu Polskiej Rzeczypospolitej Ludowej.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-12-28",
+  "entryIntoForce": "1957-12-28",
+  "validFrom": "1957-12-28",
+  "repealDate": "1986-07-17",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1957/145",
+     "date": "1957-12-28"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1986/151",
+     "date": "1986-07-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
