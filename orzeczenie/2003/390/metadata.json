@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/390",
+ "source_sha256": "6c2b4c1b70cca6d14d4a4c46aa747b3e3a734e60bfbbf5e3c8292c91052f1587",
+ "in_force": "2003-03-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 679 words, parsed 94; at 94: 'Obywatelskich o zbadanie zgodności : 1 ) art . 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/390",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/390/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/390/text/O/D20030390.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/390/text/I/D20030390.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/390/text/T/D20030390TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/390",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 44,
+  "pos": 390,
+  "address": "WDU20030440390",
+  "displayAddress": "Dz.U. 2003 nr 44 poz. 390",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 marca 2003 r. sygn. akt K 7/01",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-03-05",
+  "promulgation": "2003-03-14",
+  "entryIntoForce": "2003-03-14",
+  "validFrom": "2003-03-14",
+  "changeDate": "2024-03-15T09:52:08",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "lustracja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/443",
+     "date": "2003-03-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    },
+    {
+     "id": "DU/1977/167"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/443"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030390.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030390.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030390TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
