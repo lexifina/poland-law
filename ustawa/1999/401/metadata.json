@@ -1,0 +1,110 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/401",
+ "source_sha256": "e0db3c5b54b582d64b006a25b352c4589cb407f86fdedd2c26d4262b4d2a36c5",
+ "in_force": "1999-05-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/401",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/401/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/401/text/O/D19990401.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/401/text/I/D19990401.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/401/text/T/D19990401L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/401",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 40,
+  "pos": 401,
+  "address": "WDU19990400401",
+  "displayAddress": "Dz.U. 1999 nr 40 poz. 401",
+  "title": "Ustawa z dnia 10 kwietnia 1999 r. o zmianie ustawy o usługach turystycznych.",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-10",
+  "promulgation": "1999-05-06",
+  "entryIntoForce": "1999-05-21",
+  "validFrom": "1999-05-21",
+  "changeDate": "2024-03-15T11:34:32",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "turystyka",
+   "rejestry",
+   "zezwolenia",
+   "koncesje",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/451.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/451",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/451",
+    "number": "451",
+    "term": 3
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/692.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/692",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/692",
+    "number": "692",
+    "term": 3
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym ( Dz. U. z 2001 r. Nr 55 poz. 578) z dniem 21 marca 2001 r. z wyjątkiem art. 2 - 5.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1999/1178",
+     "date": "2001-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/884",
+     "date": "1999-05-21"
+    },
+    {
+     "id": "DU/1995/713",
+     "date": "1999-05-21"
+    },
+    {
+     "id": "DU/1988/324",
+     "date": "1999-05-21"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990401.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990401.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990401L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
