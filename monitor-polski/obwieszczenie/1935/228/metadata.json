@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/228",
+ "source_sha256": "9cf3ff5a21198ec91075609f982945501b20d59a5097eb17827314648f80eb4d",
+ "in_force": "1935-09-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/228",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/228/text/O/M19350228.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/228/text/I/M19350228.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/228",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 200,
+  "pos": 228,
+  "address": "WMP19352000228",
+  "displayAddress": "M.P. 1935 nr 200 poz. 228",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 2 września 1935 r. w sprawie umorzenia w drodze wykupu obligacji 7% Pożyczki Kolejowej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-09-02",
+  "promulgation": "1935-09-02",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "pożyczki państwowe",
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1932/679"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/426"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/426",
+     "art": "par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350228.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350228.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
