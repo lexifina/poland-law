@@ -1,0 +1,102 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/85",
+ "source_sha256": "d3497e273cf1282d4a780d3eadad035d7e4dac91d3f0be0f031810bad9f418fe",
+ "in_force": "2002-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/85",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/85/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/85/text/O/D20020085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/85/text/I/D20020085.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/85/text/T/D20020085L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/85/text/U/D20020085Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/85",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 9,
+  "pos": 85,
+  "address": "WDU20020090085",
+  "displayAddress": "Dz.U. 2002 nr 9 poz. 85",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2002 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-01-09",
+  "promulgation": "2002-02-07",
+  "repealDate": "2006-10-01",
+  "changeDate": "2024-03-15T10:06:59",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pracodawca",
+   "wynagrodzenia",
+   "prawo pracy",
+   "odprawy",
+   "pracownicy",
+   "upadłościowe prawo"
+  ],
+  "keywordsNames": [
+   "Fundusz Gwarantowanych Świadczeń Pracowniczych"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 20, 22, 24 i 25 ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/1121",
+     "date": "2006-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020085.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020085L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20020085Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
