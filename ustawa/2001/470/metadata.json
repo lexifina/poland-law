@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/470",
+ "source_sha256": "fd2d661b56cf7720e024344e53fe02dec9ff9ff43ac89cbe0335e6ead5b07d6e",
+ "in_force": "2001-05-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/470",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/470/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/470/text/O/D20010470.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/470/text/I/D20010470.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/470/text/T/D20010470L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/470/text/U/D20010470Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/470",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 42,
+  "pos": 470,
+  "address": "WDU20010420470",
+  "displayAddress": "Dz.U. 2001 nr 42 poz. 470",
+  "title": "Ustawa z dnia 29 marca 2001 r. o zasadach i formach uregulowania zobowiązań Skarbu Państwa wynikających z orzeczeń Społecznej Komisji Rewindykacyjnej.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-03-29",
+  "promulgation": "2001-05-11",
+  "entryIntoForce": "2001-05-26",
+  "validFrom": "2001-05-26",
+  "changeDate": "2024-03-15T09:59:11",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny",
+   "organizacje społeczne",
+   "papiery wartościowe",
+   "związki zawodowe"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2662.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2662",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2662",
+    "number": "2662",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/1316",
+     "date": "2009-10-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1991/17"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010470.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010470.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010470L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20010470Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
