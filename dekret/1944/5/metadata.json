@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/5",
+ "source_sha256": "0d173c7e4d6ca4a1d298be0b0c2b52eda76a28008384a69ea4eb0592dac63fea",
+ "in_force": "1944-08-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/5",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/5/text/O/D19440005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/5/text/I/D19440005.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/5",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 2,
+  "pos": 5,
+  "address": "WDU19440020005",
+  "displayAddress": "Dz.U. 1944 nr 2 poz. 5",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 15 sierpnia 1944 r. o częściowej mobilizacji i rejestracji ludności do służby wojskowej.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-15",
+  "entryIntoForce": "1944-08-22",
+  "validFrom": "1944-08-22",
+  "repealDate": "1945-04-07",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/255"
+    },
+    {
+     "id": "DU/1945/196"
+    },
+    {
+     "id": "DU/1945/15"
+    },
+    {
+     "id": "DU/1944/15"
+    },
+    {
+     "id": "DU/1944/14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/55",
+     "date": "1945-04-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
