@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/51",
+ "source_sha256": "44eed74f91f19b98bbd9ee8d908ac0a42b8806985ac0993d35394c0c95369765",
+ "in_force": "2001-01-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/51",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/51/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/51/text/O/D20010051.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/51/text/I/D20010051.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/51",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 5,
+  "pos": 51,
+  "address": "WDU20010050051",
+  "displayAddress": "Dz.U. 2001 nr 5 poz. 51",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 17 stycznia 2001 r. o sprostowaniu błędów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-01-17",
+  "promulgation": "2001-01-24",
+  "changeDate": "2024-03-15T10:00:38",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "dzienniki urzędowe",
+   "wydawnictwa i publikacje",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1479",
+     "date": "2004-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2000/1197"
+    },
+    {
+     "id": "DU/2000/1170"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010051.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010051.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
