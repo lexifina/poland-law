@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/114",
+ "source_sha256": "f17e6b016e5b643056b0584335403fa2fb6ba4d2eb10e8db49c4928df966d03d",
+ "in_force": "1970-05-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/114",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/114/text/O/M19700114.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/114/text/I/M19700114.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/114",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 13,
+  "pos": 114,
+  "address": "WMP19700130114",
+  "displayAddress": "M.P. 1970 nr 13 poz. 114",
+  "title": "Zarządzenie Prezesa Urzędu Patentowego Polskiej Rzeczypospolitej Ludowej z dnia 17 kwietnia 1970 r. zmieniające zarządzenie w sprawie egzaminu na rzecznika patentowego.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-04-17",
+  "entryIntoForce": "1970-05-02",
+  "validFrom": "1970-05-02",
+  "repealDate": "1993-03-12",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rzecznicy patentowi",
+   "wynalazczość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1966/343",
+     "date": "1970-05-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1966/86"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1966/86",
+     "art": "art. 4 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1993/46",
+     "date": "1993-03-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700114.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700114.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
