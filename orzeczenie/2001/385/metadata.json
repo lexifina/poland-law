@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/385",
+ "source_sha256": "65163263107c83aef310866be6a5a5dc7683af123c11335ca13337b6caec28e7",
+ "in_force": "2001-04-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 517 words, parsed 183; at 183: 'Konstytucji RP , orzeka : 1 . Art . 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/385",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/385/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/385/text/O/D20010385.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/385/text/I/D20010385.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/385/text/T/D20010385TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/385",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 32,
+  "pos": 385,
+  "address": "WDU20010320385",
+  "displayAddress": "Dz.U. 2001 nr 32 poz. 385",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 kwietnia 2001 r. sygn. akt K. 32/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-04-03",
+  "promulgation": "2001-04-13",
+  "entryIntoForce": "2001-04-13",
+  "validFrom": "2001-04-13",
+  "changeDate": "2024-03-15T09:59:59",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek akcyzowy",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1993/50"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010385.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010385.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010385TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
