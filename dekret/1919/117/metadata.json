@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/117",
+ "source_sha256": "ec34807d889aef3ed5454db5bc1ec64777768fe4915f8d209e473b13e991306a",
+ "in_force": "1919-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/117",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/117/text/O/D19190117.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/117/text/I/D19190117.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/117",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 8,
+  "pos": 117,
+  "address": "WDU19190080117",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 8 poz. 117",
+  "title": "Dekret w przedmiocie organizacji urzędów ochrony lasów.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-01-16",
+  "entryIntoForce": "1919-01-25",
+  "validFrom": "1919-01-25",
+  "repealDate": "1927-07-01",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "NACZELNIK PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "leśnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1927/504",
+     "date": "1927-07-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1920/331"
+    },
+    {
+     "id": "DU/1920/225"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1924/958",
+     "date": "1912-01-12"
+    },
+    {
+     "id": "DU/1921/454",
+     "date": "1921-08-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190117.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190117.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
