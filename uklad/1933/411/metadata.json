@@ -1,0 +1,61 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/411",
+ "source_sha256": "fc1f0b2052a27cf8f0d75142a45145ab8c337149baecd0a5674d20d039069b38",
+ "in_force": "1933-07-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/411",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/411/text/O/D19330411.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/411/text/I/D19330411.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/411",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 53,
+  "pos": 411,
+  "address": "WDU19330530411",
+  "displayAddress": "Dz.U. 1933 nr 53 poz. 411",
+  "title": "Układ między Rzecząpospolitą Polską a Wolnem Miastem Gdańskiem celem uchylenia dwukrotnego opodatkowania w zakresie danin na przypadek śmierci.",
+  "type": "Układ",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-05-29",
+  "promulgation": "1933-07-15",
+  "changeDate": "2021-03-19T10:46:22",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "status ustalono na podstawie Internetowej Bazy Traktatów MSZ:\n\nhttps://traktaty.msz.gov.pl/umowa-4",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1933/410"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330411.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330411.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
