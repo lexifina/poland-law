@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/6",
+ "source_sha256": "00513cc8db2be06a28549b331ef16253da69bd8cb57d164f0de2ce9bef02bfda",
+ "in_force": "1936-01-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/6/text/O/D19360006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/6/text/I/D19360006.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/6",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 2,
+  "pos": 6,
+  "address": "WDU19360020006",
+  "displayAddress": "Dz.U. 1936 nr 2 poz. 6",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 14 grudnia 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku dochodowym.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-12-14",
+  "promulgation": "1936-01-07",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/518"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/518",
+     "art": "art. 4 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1934/715"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
