@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1995/787",
+ "source_sha256": "f3667aaa6d9f6ec63f13212ed3e9cb6a73d9fce178885240b1bf1623e10c95db",
+ "in_force": "1995-12-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1995/787",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1995/787/text/O/D19950787.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1995/787/text/I/D19950787.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1995/787",
+  "publisher": "DU",
+  "year": 1995,
+  "volume": 153,
+  "pos": 787,
+  "address": "WDU19951530787",
+  "displayAddress": "Dz.U. 1995 nr 153 poz. 787",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 20 grudnia 1995 r. zmieniające rozporządzenie w sprawie regulaminu wykonywania tymczasowego aresztowania.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-12-20",
+  "entryIntoForce": "1995-12-29",
+  "validFrom": "1995-12-29",
+  "repealDate": "1998-09-01",
+  "changeDate": "2024-11-25T09:48:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze",
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1998/700",
+     "date": "1998-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/167",
+     "date": "1995-12-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1969/98"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1969/98",
+     "art": "art. 212 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19950787.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19950787.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
