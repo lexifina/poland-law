@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1949/378",
+ "source_sha256": "f69f53133e2b66712dd47e54978b24a991f71ff955385b306086d6dec63306a3",
+ "in_force": "1947-12-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1949/378",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1949/378/text/O/D19490378.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1949/378/text/I/D19490378.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1949/378",
+  "publisher": "DU",
+  "year": 1949,
+  "volume": 50,
+  "pos": 378,
+  "address": "WDU19490500378",
+  "displayAddress": "Dz.U. 1949 nr 50 poz. 378",
+  "title": "Traktat Pokoju z Włochami, podpisany w Paryżu dnia 10 lutego 1947 r. (ratyfikowany zgodnie z ustawą z dnia 14 listopada 1947 r.).",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1947-12-03",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pokój międzynarodowy",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1949/694",
+     "date": "1949-09-08"
+    },
+    {
+     "id": "MP/1949/58",
+     "date": "1949-09-08"
+    },
+    {
+     "id": "MP/1948/33",
+     "date": "1949-09-08"
+    },
+    {
+     "id": "MP/1947/759",
+     "date": "1949-09-08"
+    },
+    {
+     "id": "MP/1947/698",
+     "date": "1949-09-08"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1949/379"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1947/445"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19490378.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19490378.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
