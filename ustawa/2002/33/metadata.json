@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/33",
+ "source_sha256": "efa85685a7ff115c6db39796be34a53675dead629c49fab7039fe83174f179a1",
+ "in_force": "2002-02-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/33",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/33/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/33/text/O/D20020033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/33/text/I/D20020033.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/33/text/T/D20020033L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/33",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 4,
+  "pos": 33,
+  "address": "WDU20020040033",
+  "displayAddress": "Dz.U. 2002 nr 4 poz. 33",
+  "title": "Ustawa z dnia 17 grudnia 2001 o zmianie ustawy o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-12-17",
+  "promulgation": "2002-01-18",
+  "entryIntoForce": "2002-02-02",
+  "validFrom": "2002-02-02",
+  "changeDate": "2024-03-15T10:05:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe",
+   "dodatki do wynagrodzeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/71.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/71",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/71",
+    "number": "71",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1365",
+     "date": "2005-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/924",
+     "date": "2002-02-02"
+    },
+    {
+     "id": "DU/1997/590",
+     "date": "2002-02-02"
+    },
+    {
+     "id": "DU/1990/385",
+     "date": "2002-02-02"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1999/1255"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2005/122"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020033.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020033L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
