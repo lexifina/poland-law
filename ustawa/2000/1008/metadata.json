@@ -1,0 +1,129 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1008",
+ "source_sha256": "680c0d6fff61b0869ed85ed2ab92cb1afd000cb05525c11fddd5847755c6759a",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1008",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1008/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1008/text/O/D20001008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1008/text/I/D20001008.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1008/text/T/D20001008L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1008",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 91,
+  "pos": 1008,
+  "address": "WDU20000911008",
+  "displayAddress": "Dz.U. 2000 nr 91 poz. 1008",
+  "title": "Ustawa z dnia 15 września 2000 r. o zmianie ustawy o utworzeniu Komitetu Badań Naukowych.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-09-15",
+  "promulgation": "2000-10-28",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "repealDate": "2005-02-05",
+  "changeDate": "2024-03-15T09:49:12",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PRZEW. KOMITETU BADAŃ NAUKOWYCH",
+   "PREZ. RADY MINISTRÓW",
+   "MARSZAŁEK SEJMU"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "badawczo-rozwojowe jednostki",
+   "nauka",
+   "budżet",
+   "finansowanie",
+   "komitety",
+   "prace naukowo-badawcze",
+   "postęp naukowo-techniczny"
+  ],
+  "keywordsNames": [
+   "Polska Akademia Nauk",
+   "Komitet Badań Naukowych"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1479.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1479",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1479",
+    "number": "1479",
+    "term": 3
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. z 2001 r. Nr 33, poz. 389 z 27 marca 2001 r. z wyjątkiem art. 2-5",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/2390",
+     "date": "2005-02-05"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1998/46",
+     "date": "2001-12-31"
+    },
+    {
+     "id": "DU/1991/334",
+     "date": "2002-01-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2001/389"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/1271",
+     "date": "2004-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/368",
+     "date": "2001-01-01"
+    },
+    {
+     "id": "DU/1991/28",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001008.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001008L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
