@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1966/15",
+ "source_sha256": "107c3047c47c8361bb53d4735541c9df7d701ec5b47eedd78d6e7355b0ec42f0",
+ "in_force": "1966-01-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1966/15",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1966/15/text/O/D19660015.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1966/15/text/I/D19660015.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1966/15",
+  "publisher": "DU",
+  "year": 1966,
+  "volume": 3,
+  "pos": 15,
+  "address": "WDU19660030015",
+  "displayAddress": "Dz.U. 1966 nr 3 poz. 15",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 30 grudnia 1965 r. w sprawie siedzib oraz zasięgu terytorialnego wojskowych komend wojewódzkich i wojskowych komend rejonowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-12-30",
+  "entryIntoForce": "1966-01-21",
+  "validFrom": "1966-01-21",
+  "repealDate": "1968-01-01",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/30",
+     "date": "1968-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1961/146",
+     "date": "1966-01-21"
+    },
+    {
+     "id": "DU/1959/378",
+     "date": "1966-01-21"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1967/6",
+     "date": "1967-01-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/75"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19660015.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19660015.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
