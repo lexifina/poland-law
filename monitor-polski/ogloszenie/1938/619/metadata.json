@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/619",
+ "source_sha256": "1ad55665637c280682b8baf2ce7a597c4edb982c8c21e398156a49d11bc23c3d",
+ "in_force": "1938-11-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/619",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/619/text/O/M19380619.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/619/text/I/M19380619.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/619",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 264,
+  "pos": 619,
+  "address": "WMP19382640619",
+  "displayAddress": "M.P. 1938 nr 264 poz. 619",
+  "title": "Ogłoszenie o wynikach wyborów do Sejmu.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-11-16",
+  "promulgation": "1938-11-18",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/319"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/319",
+     "art": "art. 76"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380619.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380619.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
