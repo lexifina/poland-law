@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1947/602",
+ "source_sha256": "478185690c4444862170a54987d90655f9b03c17c364a18f7ea380dc0b547a53",
+ "in_force": "1947-06-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1947/602",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1947/602/text/O/M19470602.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1947/602/text/I/M19470602.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1947/602",
+  "publisher": "MP",
+  "year": 1947,
+  "volume": 88,
+  "pos": 602,
+  "address": "WMP19470880602",
+  "displayAddress": "M.P. 1947 nr 88 poz. 602",
+  "title": "Zarządzenie Ministra Skarbu z dnia 21 czerwca 1947 r. w sprawie wynagrodzenia lustratorów społecznych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-06-21",
+  "entryIntoForce": "1947-06-21",
+  "validFrom": "1947-06-21",
+  "repealDate": "1949-01-01",
+  "changeDate": "2014-12-31T12:24:27",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1949/284",
+     "date": "1949-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1948/400",
+     "date": "1948-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/219"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19470602.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19470602.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
