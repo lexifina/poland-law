@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/542",
+ "source_sha256": "7f0ab30c7e892d3d1860849ec113498a8fb7166914ffab57821e73878f15a892",
+ "in_force": "2002-05-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 397 words, parsed 129; at 129: 'zamieszczony w tekście obwieszczenia : 1 ) w tekście jednolitym'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/542",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/542/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/542/text/O/D20020542.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/542/text/I/D20020542.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/542",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 58,
+  "pos": 542,
+  "address": "WDU20020580542",
+  "displayAddress": "Dz.U. 2002 nr 58 poz. 542",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 12 kwietnia 2002 r. o sprostowaniu błędu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-04-12",
+  "promulgation": "2002-05-17",
+  "changeDate": "2024-03-15T10:06:34",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "porządkowanie prawa",
+   "nieletni",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2002/109"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020542.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020542.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
