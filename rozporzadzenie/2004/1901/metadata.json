@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1901",
+ "source_sha256": "4fdac6bcb98d32f0640e100a4addecec1ef25e12a12712524ed4f7d75166fd83",
+ "in_force": "2004-08-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1901",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1901/text/O/D20041901.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1901/text/I/D20041901.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1901",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 184,
+  "pos": 1901,
+  "address": "WDU20041841901",
+  "displayAddress": "Dz.U. 2004 nr 184 poz. 1901",
+  "title": "Rozporządzenie Ministra Finansów z dnia 19 sierpnia 2004 r. w sprawie wzoru imiennego upoważnienia do przeprowadzenia kontroli podatkowej",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-08-19",
+  "promulgation": "2004-08-25",
+  "entryIntoForce": "2004-08-25",
+  "validFrom": "2004-08-25",
+  "repealDate": "2005-09-01",
+  "changeDate": "2023-03-03T15:08:40",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola",
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2005/1370",
+     "date": "2005-09-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2003/1490",
+     "date": "2004-08-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 283 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20041901.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041901.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
