@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/93",
+ "source_sha256": "3f06968487e3a1a180960264918b6103172c87425188f95e11e33ff6985ce646",
+ "in_force": "1919-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/93",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/93/text/O/D19190093.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/93/text/I/D19190093.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/93",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 5,
+  "pos": 93,
+  "address": "WDU19190050093",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 5 poz. 93",
+  "title": "Dekret o zatwierdzaniu projektów pomników ze stanowiska artystycznego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-01-03",
+  "entryIntoForce": "1919-01-13",
+  "validFrom": "1919-01-13",
+  "repealDate": "1961-08-10",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "NACZELNIK PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kultura i sztuka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/46",
+     "date": "1961-08-10"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1931/502"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1934/976",
+     "date": "1935-01-30"
+    },
+    {
+     "id": "DU/1934/298",
+     "date": "1934-04-18"
+    },
+    {
+     "id": "DU/1922/123",
+     "date": "1922-03-06"
+    },
+    {
+     "id": "DU/1921/672",
+     "date": "1921-11-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190093.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190093.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
