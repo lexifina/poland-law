@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/271",
+ "source_sha256": "d39edf3dff7fde848e146c88fad7b9ffc766d5910953b4661fa500da085d4909",
+ "in_force": "1988-10-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/271",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/271/text/O/M19880271.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/271/text/I/M19880271.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/271",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 30,
+  "pos": 271,
+  "address": "WMP19880300271",
+  "displayAddress": "M.P. 1988 nr 30 poz. 271",
+  "title": "Zarządzenie Ministra Pracy i Polityki Socjalnej z dnia 12 października 1988 r. w sprawie ustalenia wzoru karty skierowania poborowego do służby zastępczej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-10-12",
+  "entryIntoForce": "1988-10-25",
+  "validFrom": "1988-10-25",
+  "repealDate": "1992-07-28",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa",
+   "powszechny obowiązek obrony",
+   "służba zastępcza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1992/162",
+     "date": "1992-07-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1988/228"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1988/171"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 205 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880271.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880271.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
