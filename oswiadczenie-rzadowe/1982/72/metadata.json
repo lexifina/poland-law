@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1982/72",
+ "source_sha256": "184b53bfbe8640c0a9aa486e3365b432c77c85ddf8b9ad66bcd0f5df03e41001",
+ "in_force": "1982-04-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1982/72",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1982/72/text/O/D19820072.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1982/72/text/I/D19820072.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1982/72",
+  "publisher": "DU",
+  "year": 1982,
+  "volume": 10,
+  "pos": 72,
+  "address": "WDU19820100072",
+  "displayAddress": "Dz.U. 1982 nr 10 poz. 72",
+  "title": "Oświadczenie rządowe z dnia 26 lutego 1982 r. w sprawie ratyfikacji przez Polską Rzeczpospolitą Ludową Konwencji w sprawie likwidacji wszelkich form dyskryminacji kobiet, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 18 grudnia 1979 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1982-02-26",
+  "promulgation": "1982-04-02",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawa obywatelskie",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/71"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/71",
+     "art": "art. 25 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19820072.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19820072.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
