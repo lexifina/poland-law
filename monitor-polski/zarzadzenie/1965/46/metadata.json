@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/46",
+ "source_sha256": "97057136a6a976f30693db855f74cec47d851b790367db07da8094468480d9b1",
+ "in_force": "1965-03-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/46",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/46/text/O/M19650046.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/46/text/I/M19650046.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/46",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 12,
+  "pos": 46,
+  "address": "WMP19650120046",
+  "displayAddress": "M.P. 1965 nr 12 poz. 46",
+  "title": "Zarządzenie Ministra Oświaty z dnia 26 lutego 1965 r. w sprawie trybu postępowania przy stawianiu wniosków o przyznanie prawa użytkowania obiektów szkolnych oraz zasad i warunków ich użytkowania na cele wczasów dla dzieci i młodzieży.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-02-26",
+  "entryIntoForce": "1965-03-09",
+  "validFrom": "1965-03-09",
+  "repealDate": "1977-03-25",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. OŚWIATY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1977/45",
+     "date": "1977-03-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1965/45"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1951/379"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1951/379",
+     "art": "par. 2"
+    },
+    {
+     "id": "MP/1951/379",
+     "art": "par. 3 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650046.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650046.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
