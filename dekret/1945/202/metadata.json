@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/202",
+ "source_sha256": "4c62ce0ebfea6ba7d8da157e721eee2eb5f3b8a76c575b1e6e7ef10e841b142d",
+ "in_force": "1945-10-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/202",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/202/text/O/D19450202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/202/text/I/D19450202.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/202",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 34,
+  "pos": 202,
+  "address": "WDU19450340202",
+  "displayAddress": "Dz.U. 1945 nr 34 poz. 202",
+  "title": "Dekret z dnia 18 lipca 1945 r. o pomocy i zasiłkach dla rodzin żołnierzy Wojska Polskiego oraz zdemobilizowanych żołnierzy.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-07-18",
+  "entryIntoForce": "1945-10-19",
+  "validFrom": "1945-10-19",
+  "repealDate": "1948-05-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "obligated": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1948/139",
+     "date": "1948-05-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/27",
+     "date": "1945-10-19"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1947/281"
+    },
+    {
+     "id": "DU/1945/277"
+    },
+    {
+     "id": "DU/1945/276"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450202.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
