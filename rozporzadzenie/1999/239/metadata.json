@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/239",
+ "source_sha256": "d7698989d0539de578df6680ad694909a6b285e7eb81afe958246d6c0b42caac",
+ "in_force": "1999-04-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/239",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/239/text/O/D19990239.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/239/text/I/D19990239.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/239",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 26,
+  "pos": 239,
+  "address": "WDU19990260239",
+  "displayAddress": "Dz.U. 1999 nr 26 poz. 239",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 lutego 1999 r. w sprawie metod i podstaw sporządzania kosztorysu inwestorskiego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-02-26",
+  "entryIntoForce": "1999-04-30",
+  "validFrom": "1999-04-30",
+  "repealDate": "2004-03-08",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kosztorysy",
+   "ceny",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/172",
+     "date": "2004-03-08"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1994/793",
+     "date": "1999-04-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/344"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/344",
+     "art": "art. 35 ust. 3 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990239.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990239.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
