@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/219",
+ "source_sha256": "9b98ae1431f2e9813e6193baae513dc480a7ba6a95ffa70e71961e8fa4f9f252",
+ "in_force": "1945-10-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/219",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/219/text/O/D19450219.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/219/text/I/D19450219.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/219",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 37,
+  "pos": 219,
+  "address": "WDU19450370219",
+  "displayAddress": "Dz.U. 1945 nr 37 poz. 219",
+  "title": "Dekret z dnia 26 czerwca 1945 r. Wojskowe przepisy dyscyplinarne.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-06-26",
+  "entryIntoForce": "1945-10-26",
+  "validFrom": "1945-10-26",
+  "repealDate": "1951-01-26",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/55",
+     "date": "1951-01-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450219.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450219.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
