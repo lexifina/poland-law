@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1",
+ "source_sha256": "b22c95d7bec46d0c29767c2f01544589dbe2bf03fddce105ec0e5495f5edfc52",
+ "in_force": "1950-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1/text/O/M19500001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1/text/I/M19500001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19500010001",
+  "displayAddress": "M.P. 1950 nr 1 poz. 1",
+  "title": "Uchwała Rady Ministrów z dnia 22 grudnia 1949 r. w sprawie włączenia do Ministerstwa Rolnictwa i Reform Rolnych Biura Budownictwa Wiejskiego, podległego Ministrowi Budownictwa.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-22",
+  "entryIntoForce": "1950-01-01",
+  "validFrom": "1950-01-01",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1949/457",
+     "date": "1950-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
