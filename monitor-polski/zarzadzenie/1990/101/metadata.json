@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/101",
+ "source_sha256": "3d94599f0a7768f4a84cee4fd90d41cc84e8fa1f18c00fe2d1e5ceb75095ddc5",
+ "in_force": "1990-04-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/101/text/O/M19900101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/101/text/I/M19900101.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/101",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 13,
+  "pos": 101,
+  "address": "WMP19900130101",
+  "displayAddress": "M.P. 1990 nr 13 poz. 101",
+  "title": "Zarządzenie nr 32 Prezesa Rady Ministrów z dnia 6 kwietnia 1990 r. w sprawie powołania komisji likwidacyjnej dla przeprowadzenia likwidacji Robotniczej Spółdzielni Wydawniczej \"Prasa-Książka-Ruch\".",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1990-04-06",
+  "entryIntoForce": "1990-04-06",
+  "validFrom": "1990-04-06",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wydawnictwa i publikacje",
+   "spółdzielczość wydawnicza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1990/344",
+     "date": "1990-11-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/125"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/125",
+     "art": "art. 3 ust. 1 i 2"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/1990/206"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
