@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/45",
+ "source_sha256": "da1cefc96f4e04715df73d18152031b2705aa0054f0afa58dcc9ea9e5566d9f2",
+ "in_force": "1944-10-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/45/text/O/D19440045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/45/text/I/D19440045.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/45",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 9,
+  "pos": 45,
+  "address": "WDU19440090045",
+  "displayAddress": "Dz.U. 1944 nr 9 poz. 45",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 października 1944 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. o monopolu spirytusowym, opodatkowaniu kwasu octowego i drożdży oraz sprzedaży napojów alkoholowych.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-10-23",
+  "entryIntoForce": "1944-10-25",
+  "validFrom": "1944-09-07",
+  "repealDate": "1953-07-07",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU GOSPODARKI NARODOWEJ I FINANSÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/586",
+     "date": "1944-09-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1953/143",
+     "date": "1953-07-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440045.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
