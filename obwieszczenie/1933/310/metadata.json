@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/310",
+ "source_sha256": "7dd5ca7521de2dba9b9b06d03baa71c67cd56b765edea942cd5b051239c82bf0",
+ "in_force": "1933-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/310",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/310/text/O/D19330310.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/310/text/I/D19330310.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/310",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 38,
+  "pos": 310,
+  "address": "WDU19330380310",
+  "displayAddress": "Dz.U. 1933 nr 38 poz. 310",
+  "title": "Obwieszczenie Ministrów: Komunikacji i Spraw Wewnętrznych wydane w porozumieniu z Ministrem Spraw Wojskowych z dnia 6 marca 1933 r. w sprawie sprostowania błędów w rozporządzeniu Ministra Komunikacji i Ministra Spraw Wewnętrznych, wydanem w porozumieniu z Ministrem Spraw Wojskowych z dnia 15 stycznia 1933 r. o ruchu pojazdów mechanicznych na drogach publicznych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-03-06",
+  "promulgation": "1933-05-27",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI",
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "drogi publiczne",
+   "pojazdy mechaniczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1933/55"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330310.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330310.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
