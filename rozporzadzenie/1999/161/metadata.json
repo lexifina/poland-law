@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/161",
+ "source_sha256": "99b40fd370b4cf2ecc4e5eb0784a763a5f8ec89938e43f406fbb9ece3d41039b",
+ "in_force": "1999-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/161",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/161/text/O/D19990161.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/161/text/I/D19990161.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/161/text/T/D19990161L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/161",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 18,
+  "pos": 161,
+  "address": "WDU19990180161",
+  "displayAddress": "Dz.U. 1999 nr 18 poz. 161",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 25 lutego 1999 r. w sprawie sposobu i trybu udostępniania danych z ewidencji.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-02-25",
+  "entryIntoForce": "1999-03-11",
+  "validFrom": "1999-03-11",
+  "repealDate": "2005-06-16",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona danych osobowych",
+   "ewidencja",
+   "informacje niejawne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/95"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/95",
+     "art": "art. 42 ust. 7"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2005/727",
+     "date": "2005-06-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990161.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990161.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990161L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
