@@ -1,0 +1,103 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/878",
+ "source_sha256": "9fe1a4dc8870f6c71015df07a8c5c43714e3a7bc767947e6f22f8b0a030ce24c",
+ "in_force": "2004-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/878",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/878/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/878/text/O/D20040878.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/878/text/I/D20040878.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/878/text/T/D20040878L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/878",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 92,
+  "pos": 878,
+  "address": "WDU20040920878",
+  "displayAddress": "Dz.U. 2004 nr 92 poz. 878",
+  "title": "Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy o języku polskim",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-04-02",
+  "promulgation": "2004-04-30",
+  "entryIntoForce": "2004-05-01",
+  "validFrom": "2004-05-01",
+  "changeDate": "2024-03-15T09:56:28",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona",
+   "język państwowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/2032.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/2032",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/2032",
+    "number": "2032",
+    "term": 4
+   }
+  ],
+  "comments": "objęte tekstem jednolitym Dz.U. z 2011 r. Nr 43, poz. 224 z wyj. art. 2",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1567",
+     "date": "2006-06-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/999",
+     "date": "2004-05-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/1204"
+    },
+    {
+     "id": "DU/1964/93"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2005/1567"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040878.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040878.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040878L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
