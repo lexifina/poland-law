@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/8",
+ "source_sha256": "bccd76f39814573272d8724655a22e309453dfe10f6aefd31219523315d32e49",
+ "in_force": "1930-01-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/8",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/8/text/O/D19300008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/8/text/I/D19300008.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/8",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 2,
+  "pos": 8,
+  "address": "WDU19300020008",
+  "displayAddress": "Dz.U. 1930 nr 2 poz. 8",
+  "title": "Rozporządzenie Ministra Rolnictwa z dnia 31 grudnia 1929 r. w porozumieniu z Ministrem Spraw Wewnętrznych w sprawie urzędowego badania co do włośni dzików i świń.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-12-31",
+  "promulgation": "1930-01-16",
+  "entryIntoForce": "1930-01-16",
+  "validFrom": "1930-01-16",
+  "repealDate": "1947-08-08",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zwierzęta hodowlane",
+   "choroby zakaźne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/276",
+     "date": "1947-08-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/361"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/361",
+     "art": "art. 41"
+    },
+    {
+     "id": "DU/1928/361",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
