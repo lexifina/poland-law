@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/102",
+ "source_sha256": "7c5535bdececde68ad80955cac5ec8068b1c68d96c185eb89c58dcbd92a43818",
+ "in_force": "1999-02-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/102/text/O/D19990102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/102/text/I/D19990102.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/102/text/T/D19990102L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/102",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 12,
+  "pos": 102,
+  "address": "WDU19990120102",
+  "displayAddress": "Dz.U. 1999 nr 12 poz. 102",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 28 stycznia 1999 r. w sprawie szczegółowego trybu postępowania dyscyplinarnego.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-28",
+  "entryIntoForce": "1999-02-27",
+  "validFrom": "1999-02-27",
+  "repealDate": "2002-09-30",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odwoławcze postępowanie",
+   "dyscyplinarne postępowanie",
+   "dokumenty",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/944"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/944",
+     "art": "art. 87"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/925",
+     "date": "2002-09-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990102.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990102L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
