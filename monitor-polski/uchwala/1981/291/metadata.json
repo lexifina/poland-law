@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/291",
+ "source_sha256": "99fe199e227ecd6d06f30b5802ad17ff6d4b04f5a8fe42c938ddf04546f4a219",
+ "in_force": "1982-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/291",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/291/text/O/M19810291.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/291/text/I/M19810291.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/291",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 32,
+  "pos": 291,
+  "address": "WMP19810320291",
+  "displayAddress": "M.P. 1981 nr 32 poz. 291",
+  "title": "Uchwała nr 264 Rady Ministrów z dnia 12 grudnia 1981 r. w sprawie reglamentowanej sprzedaży towarów.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-12-12",
+  "entryIntoForce": "1982-01-01",
+  "validFrom": "1982-01-01",
+  "repealDate": "1983-01-01",
+  "changeDate": "2024-01-08T11:31:50",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. HANDLU WEWNĘTRZNEGO I USŁUG"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "reglamentacja zaopatrzenia",
+   "towar",
+   "sprzedaż"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1982/291",
+     "date": "1983-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1981/233",
+     "date": "1982-01-01"
+    },
+    {
+     "id": "MP/1981/227",
+     "date": "1982-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1981/124"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810291.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810291.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
