@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/918",
+ "source_sha256": "d602aa3ecfc2e163e9b1cd69012d38cfc235b69851fa2c4c146161c477721795",
+ "in_force": "1932-10-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/918",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/918/text/O/D19320918.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/918/text/I/D19320918.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/918",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 111,
+  "pos": 918,
+  "address": "WDU19321110918",
+  "displayAddress": "Dz.U. 1932 nr 111 poz. 918",
+  "title": "Rozporządzenie Ministrów: Rolnictwa i Reform Rolnych oraz Sprawiedliwości z dnia 10 października 1932 r. w sprawie zmian w rozporządzeniu Ministra Reform Rolnych i Ministra Sprawiedliwości z dnia 19 czerwca 1928 r. o trybie przymusowego wykonania orzeczeń Komisyj Ziemskich, nakładających na uczestników scalenia obowiązek dopłat pieniężnych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-10-10",
+  "changeDate": "2020-09-23T10:51:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/622"
+    },
+    {
+     "id": "DU/1928/260"
+    },
+    {
+     "id": "DU/1923/718"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320918.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320918.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
