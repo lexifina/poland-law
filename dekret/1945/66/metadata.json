@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/66",
+ "source_sha256": "66b8cd1eeed15e75115f34276d3a618fc875a221ead3bbaea7615c90c37ae3e8",
+ "in_force": "1945-04-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/66",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/66/text/O/D19450066.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/66/text/I/D19450066.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/66",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 12,
+  "pos": 66,
+  "address": "WDU19450120066",
+  "displayAddress": "Dz.U. 1945 nr 12 poz. 66",
+  "title": "Dekret z dnia 11 kwietnia 1945 r. o zmianie ustawy o opłatach rejestracyjnych dla przedsiębiorstw i zajęć.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-04-11",
+  "entryIntoForce": "1945-04-14",
+  "validFrom": "1945-04-14",
+  "repealDate": "1946-01-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/23",
+     "date": "1946-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1938/293",
+     "date": "1945-04-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450066.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450066.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
