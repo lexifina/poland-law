@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/315",
+ "source_sha256": "3888e77e7bdd17ca593bc8e36b4e4191ada488a120ea5707ad44decb4c2f6af6",
+ "in_force": "1945-12-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/315",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/315/text/O/D19450315.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/315/text/I/D19450315.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/315",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 56,
+  "pos": 315,
+  "address": "WDU19450560315",
+  "displayAddress": "Dz.U. 1945 nr 56 poz. 315",
+  "title": "Dekret z dnia 30 listopada 1945 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 września 1927 r. o opodatkowaniu cukru.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-11-30",
+  "entryIntoForce": "1945-12-16",
+  "validFrom": "1945-11-12",
+  "repealDate": "1947-03-27",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1946/134"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/700",
+     "date": "1945-11-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/122",
+     "date": "1947-03-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450315.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450315.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
