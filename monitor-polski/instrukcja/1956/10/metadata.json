@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1956/10",
+ "source_sha256": "2e2d90aa8101955c8af97e5d2dc3292069ee53148d7bd2ff543a1143322e3278",
+ "in_force": "1956-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1956/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1956/10/text/O/M19560010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1956/10/text/I/M19560010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1956/10",
+  "publisher": "MP",
+  "year": 1956,
+  "volume": 1,
+  "pos": 10,
+  "address": "WMP19560010010",
+  "displayAddress": "M.P. 1956 nr 1 poz. 10",
+  "title": "Instrukcja Ministra Transportu Drogowego i Lotniczego z dnia 19 grudnia 1955 r. w sprawie zasad i trybu cofania pozwoleń na prowadzenie pojazdów mechanicznych i wkładek kontrolnych do karty traktorzysty oraz pozwoleń na prowadzenie pojazdów mechanicznych dla praktykanta i kontrolnego sprawdzania kwalifikacji kierowcy, traktorzysty i praktykanta.",
+  "type": "Instrukcja",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-12-19",
+  "entryIntoForce": "1956-01-13",
+  "validFrom": "1956-01-13",
+  "repealDate": "1963-12-02",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. TRANSPORTU DROGOWEGO I LOTNICZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1963/426",
+     "date": "1963-12-02"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1955/259"
+    },
+    {
+     "id": "MP/1954/974"
+    },
+    {
+     "id": "DU/1954/6"
+    },
+    {
+     "id": "DU/1928/341"
+    },
+    {
+     "id": "DU/1921/656"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19560010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19560010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
