@@ -1,0 +1,3 @@
+# Art. 6t.
+
+Minister właściwy do spraw finansów publicznych, w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, sposób i warunki wykonywania kontroli celnej oraz nadawania przeznaczenia celnego w odniesieniu do okrętów wojennych i wojskowych statków powietrznych oraz wyposażenia i sprzętu jednostek wojskowych, a także wyposażenia i sprzętu jednostek organizacyjnych resortu spraw wewnętrznych i administracji, mając na uwadze uproszczenie czynności kontrolnych podejmowanych wobec tego rodzaju towarów oraz zapewnienie skutecznego dozoru celnego i kontroli celnej.
