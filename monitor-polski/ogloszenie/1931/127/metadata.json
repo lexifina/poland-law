@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/127",
+ "source_sha256": "065f7853d0845634a2553db799046f1bff27ebaedb854471a70ecddf80e6a76c",
+ "in_force": "1931-04-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/127",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/127/text/O/M19310127.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/127/text/I/M19310127.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/127",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 77,
+  "pos": 127,
+  "address": "WMP19310770127",
+  "displayAddress": "M.P. 1931 nr 77 poz. 127",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 31 marca 1931 r. L. dz. 2391/31",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-03-31",
+  "promulgation": "1931-04-03",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "komisje wyborcze",
+   "komisje"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310127.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310127.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
