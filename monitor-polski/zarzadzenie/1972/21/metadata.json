@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/21",
+ "source_sha256": "6d0d674dac09557756999a7504993aeca77eb2c3d37f06d2dcd7da93659ef042",
+ "in_force": "1972-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/21/text/O/M19720021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/21/text/I/M19720021.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/21",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 4,
+  "pos": 21,
+  "address": "WMP19720040021",
+  "displayAddress": "M.P. 1972 nr 4 poz. 21",
+  "title": "Zarządzenie Ministra Finansów z dnia 29 grudnia 1971 r. w sprawie wpłat miesięcznych oraz trybu i terminów rozliczania podatku dochodowego przez jednostki spółdzielcze.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-12-29",
+  "entryIntoForce": "1972-01-25",
+  "validFrom": "1972-01-01",
+  "repealDate": "1982-07-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1982/171",
+     "date": "1982-07-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1970/346",
+     "date": "1972-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1970/299"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1970/299"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1970/299",
+     "art": "par. 11 ust. 2"
+    },
+    {
+     "id": "MP/1970/299",
+     "art": "par. 20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
