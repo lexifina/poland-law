@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/198",
+ "source_sha256": "f2810269a66dbbdf00e0f260398908a67536f03dcded5c3b8c803541215d27a4",
+ "in_force": "2003-03-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/198",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/198/text/O/M20030198.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/198/text/I/M20030198.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/198",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 13,
+  "pos": 198,
+  "address": "WMP20030130198",
+  "displayAddress": "M.P. 2003 nr 13 poz. 198",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 11 marca 2003 r. w sprawie przyjęcia zawiadomień o zamiarze zgłoszenia przez komitety wyborcze partii politycznych kandydata na senatora oraz zawiadomień o utworzeniu koalicyjnego komitetu wyborczego wyborców",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-03-11",
+  "promulgation": "2003-03-14",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komitety",
+   "partie polityczne",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 105"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030198.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030198.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
