@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/554",
+ "source_sha256": "5c99cecaebcc69f17d9ec1499b316037579854de21c571c77674346727cdf228",
+ "in_force": "2004-07-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/554",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/554/text/O/M20040554.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/554/text/I/M20040554.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/554",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 31,
+  "pos": 554,
+  "address": "WMP20040310554",
+  "displayAddress": "M.P. 2004 nr 31 poz. 554",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 14 lipca 2004 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w czerwcu 2004 r. w stosunku do grudnia 2003 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-07-14",
+  "promulgation": "2004-07-19",
+  "changeDate": "2020-10-20T09:38:41",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 1 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040554.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040554.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
