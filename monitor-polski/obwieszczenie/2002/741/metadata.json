@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/741",
+ "source_sha256": "cc89a682a31b1147f86b8bc9205ab5c90b61d5b4fea1b7e389eb1fd6f92b04a3",
+ "in_force": "2002-11-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/741",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/741/text/O/M20020741.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/741/text/I/M20020741.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2002/741/text/T/M20020741L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/MP/2002/741/text/U/M20020741Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/741",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 54,
+  "pos": 741,
+  "address": "WMP20020540741",
+  "displayAddress": "M.P. 2002 nr 54 poz. 741",
+  "title": "Obwieszczenie Marszałka Senatu Rzeczypospolitej Polskiej z dnia 4 listopada 2002 r. w sprawie ogłoszenia jednolitego tekstu uchwały Senatu Rzeczypospolitej Polskiej - Regulamin Senatu.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-11-04",
+  "promulgation": "2002-11-15",
+  "expirationDate": "2010-05-26",
+  "changeDate": "2026-10-19T11:16:29",
+  "releasedBy": [
+   "MARSZAŁEK SENATU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Senat",
+   "Regulamin Senatu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/2002/690"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/2002/690",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1991/11"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2010/542",
+     "date": "2010-05-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020741.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020741.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20020741L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "M20020741Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
