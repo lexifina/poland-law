@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/15",
+ "source_sha256": "52998a3865b310629720a30b759925b4573705be3edc63224671420fbfcca442",
+ "in_force": "1946-02-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/15",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/15/text/O/D19460015.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/15/text/I/D19460015.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/15",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 2,
+  "pos": 15,
+  "address": "WDU19460020015",
+  "displayAddress": "Dz.U. 1946 nr 2 poz. 15",
+  "title": "Dekret z dnia 8 stycznia 1946 r. o zmianie prawa górniczego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-01-08",
+  "entryIntoForce": "1946-02-12",
+  "validFrom": "1946-02-12",
+  "repealDate": "1946-12-31",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/93",
+     "date": "1946-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1930/654",
+     "date": "1946-02-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460015.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460015.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
