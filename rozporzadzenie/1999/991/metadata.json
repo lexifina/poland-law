@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/991",
+ "source_sha256": "35e61a9731640e3c22042e03237e22c0d0a0d6c7e3d57da21e67eef9da02b716",
+ "in_force": "1999-11-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/991",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/991/text/O/D19990991.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/991/text/I/D19990991.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/991/text/T/D19990991L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/991",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 88,
+  "pos": 991,
+  "address": "WDU19990880991",
+  "displayAddress": "Dz.U. 1999 nr 88 poz. 991",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 18 października 1999 r. w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i readaptacyjnego w stosunku do osób uzależnionych umieszczonych w zakładach poprawczych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-10-18",
+  "entryIntoForce": "1999-11-29",
+  "validFrom": "1999-11-29",
+  "repealDate": "2007-06-13",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rehabilitacja lecznicza",
+   "zakłady poprawcze",
+   "nieletni",
+   "narkomania"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/627",
+     "date": "2007-06-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/361"
+    },
+    {
+     "id": "DU/1982/228"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/468"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/468",
+     "art": "art. 16 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990991.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990991.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990991L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
