@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/776",
+ "source_sha256": "fa7ad21000a8628746f21eb3e970982ee442fb9a5e6c17c2febf0dcd43d68219",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/776",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/776/text/O/M20000776.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/776/text/I/M20000776.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/776",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 40,
+  "pos": 776,
+  "address": "WMP20000400776",
+  "displayAddress": "M.P. 2000 nr 40 poz. 776",
+  "title": "Zarządzenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 listopada 2000 r. zmieniające zarządzenie w sprawie wynagradzania pracowników Najwyższej Izby Kontroli.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-11-30",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "repealDate": "2011-09-01",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1995/485",
+     "date": "2001-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/59",
+     "art": "art. 97"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2011/803",
+     "date": "2011-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000776.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000776.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
