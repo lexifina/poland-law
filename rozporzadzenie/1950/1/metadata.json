@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/1",
+ "source_sha256": "bf6b92065f909a5a3f062888a5395c72a756d945dd4a05ea323112e6bfcb8fc4",
+ "in_force": "1950-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/1/text/O/D19500001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/1/text/I/D19500001.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/1",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU19500010001",
+  "displayAddress": "Dz.U. 1950 nr 1 poz. 1",
+  "title": "Rozporządzenie Rady Ministrów z dnia 31 grudnia 1949 r. w sprawie utworzenia Instytutu Ekonomiki Rolnej.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-31",
+  "entryIntoForce": "1950-01-13",
+  "validFrom": "1950-01-01",
+  "repealDate": "1983-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1950/153"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/415"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1982/269",
+     "date": "1983-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
