@@ -1,0 +1,1 @@
+patrz oryginał
