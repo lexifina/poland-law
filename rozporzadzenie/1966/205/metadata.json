@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1966/205",
+ "source_sha256": "d0b08a1c442c3055ad230a844ea19c5a9f7633bdd0ff532e6c4a0a4980cc34e9",
+ "in_force": "1966-08-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1966/205",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1966/205/text/O/D19660205.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1966/205/text/I/D19660205.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1966/205",
+  "publisher": "DU",
+  "year": 1966,
+  "volume": 34,
+  "pos": 205,
+  "address": "WDU19660340205",
+  "displayAddress": "Dz.U. 1966 nr 34 poz. 205",
+  "title": "Rozporządzenie Ministra Żeglugi z dnia 3 sierpnia 1966 r. zmieniające rozporządzenie z dnia 26 marca 1964 r. w sprawie bezpieczeństwa statków morskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-08-03",
+  "entryIntoForce": "1966-08-27",
+  "validFrom": "1966-07-29",
+  "repealDate": "1988-01-23",
+  "changeDate": "2014-12-31T12:25:29",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. ŻEGLUGI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski",
+   "morskie prawo",
+   "bezpieczeństwo żeglugi i wypadki morskie",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1987/171",
+     "date": "1988-01-23"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/89",
+     "date": "1966-07-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/318"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19660205.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19660205.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
