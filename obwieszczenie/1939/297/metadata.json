@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/297",
+ "source_sha256": "c838c5ddae9d577fa86f925882c1598795625e12d23d04da9030a8c8e88b6537",
+ "in_force": "1939-05-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/297",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/297/text/O/D19390297.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/297/text/I/D19390297.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/297",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 46,
+  "pos": 297,
+  "address": "WDU19390460297",
+  "displayAddress": "Dz.U. 1939 nr 46 poz. 297",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 2 maja 1939 r. o ogłoszeniu jednolitego tekstu ustawy o wypuszczeniu biletów skarbowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-05-02",
+  "promulgation": "1939-05-22",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1939/143"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1939/143",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1933/172"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390297.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390297.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
