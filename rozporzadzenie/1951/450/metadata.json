@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1951/450",
+ "source_sha256": "57ae468d589d00ab47b6fbb41fe63ba80218cde523eca802c84113f0170a3eb5",
+ "in_force": "1952-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1951/450",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1951/450/text/O/D19510450.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1951/450/text/I/D19510450.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1951/450",
+  "publisher": "DU",
+  "year": 1951,
+  "volume": 65,
+  "pos": 450,
+  "address": "WDU19510650450",
+  "displayAddress": "Dz.U. 1951 nr 65 poz. 450",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 grudnia 1951 r. o opłatach za dokonanie czynności notarialnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-12-24",
+  "entryIntoForce": "1952-01-01",
+  "validFrom": "1952-01-01",
+  "repealDate": "1973-06-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/122",
+     "date": "1973-06-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1947/245",
+     "date": "1952-01-01"
+    },
+    {
+     "id": "DU/1945/306",
+     "date": "1952-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1971/125",
+     "date": "1971-06-07"
+    },
+    {
+     "id": "DU/1958/55",
+     "date": "1958-03-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/276"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19510450.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19510450.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
