@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/945",
+ "source_sha256": "30e58abf85758f3651f26d82adbf654b75dbfb705df29cfc968e535084381d9e",
+ "in_force": "1928-12-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/945",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/945/text/O/D19280945.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/945/text/I/D19280945.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/945",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 104,
+  "pos": 945,
+  "address": "WDU19281040945",
+  "displayAddress": "Dz.U. 1928 nr 104 poz. 945",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 grudnia 1928 r. o biegłych sądowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-24",
+  "repealDate": "1959-10-26",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1959/345",
+     "date": "1959-10-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280945.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280945.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
