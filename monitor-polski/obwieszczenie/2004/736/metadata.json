@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/736",
+ "source_sha256": "ccbef11e0e22ef6a7db5fe708697a8cfdb333350d3176042bb8867dbfce4b5f9",
+ "in_force": "2004-10-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/736",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/736/text/O/M20040736.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/736/text/I/M20040736.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/736",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 42,
+  "pos": 736,
+  "address": "WMP20040420736",
+  "displayAddress": "M.P. 2004 nr 42 poz. 736",
+  "title": "Obwieszczenie Ministra Infrastruktury z dnia 15 września 2004 r. w sprawie ogłoszenia zmian w statucie państwowego przedsiębiorstwa użyteczności publicznej \"Poczta Polska\"",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-09-15",
+  "promulgation": "2004-10-14",
+  "repealDate": "2008-11-10",
+  "changeDate": "2014-12-31T12:26:39",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa państwowe",
+   "statut"
+  ],
+  "keywordsNames": [
+   "Poczta Polska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1998/221",
+     "date": "2004-09-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/675"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/675",
+     "art": "art. 19 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2008/1109",
+     "date": "2008-11-10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040736.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040736.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
