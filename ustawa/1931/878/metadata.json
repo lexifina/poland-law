@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/878",
+ "source_sha256": "700b4b6a7432935f799f243227f1a15b5d01615777d2c89778585dbfa039f281",
+ "in_force": "1932-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 287 words, parsed 280; at 280: 'przez rozporządzenie Rady Ministrów . Prezes Rady Ministrów : A'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/878",
+  "html": "https://eli.gov.pl/api/acts/DU/1931/878/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/878/text/O/D19310878.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/878/text/I/D19310878.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/878",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 112,
+  "pos": 878,
+  "address": "WDU19311120878",
+  "displayAddress": "Dz.U. 1931 nr 112 poz. 878",
+  "title": "Ustawa z dnia 17 grudnia 1931 r. o kryzysowym dodatku do państwowego podatku od nieruchomości w gminach miejskich oraz od niektórych budynków w gminach wiejskich.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-12-17",
+  "promulgation": "1931-12-31",
+  "entryIntoForce": "1932-01-01",
+  "validFrom": "1932-01-01",
+  "repealDate": "1936-01-15",
+  "changeDate": "2024-03-15T10:53:50",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/14",
+     "date": "1936-01-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1924/523"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19310878.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310878.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
