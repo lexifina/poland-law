@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/64",
+ "source_sha256": "646a38def16fedc30226f29e49300678a7bae2b19b56b092e9f3346dfe893fed",
+ "in_force": "1982-03-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/64",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/64/text/O/M19820064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/64/text/I/M19820064.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/64",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 9,
+  "pos": 64,
+  "address": "WMP19820090064",
+  "displayAddress": "M.P. 1982 nr 9 poz. 64",
+  "title": "Zarządzenie Ministra Oświaty i Wychowania z dnia 8 marca 1982 r. zmieniające zarządzenie w sprawie zasad przyznawania robotnikom tytułów kwalifikacyjnych w określonym zawodzie.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-03-08",
+  "entryIntoForce": "1982-03-20",
+  "validFrom": "1982-03-20",
+  "repealDate": "1993-11-12",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "MIN. OŚWIATY I WYCHOWANIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tytuły kwalifikacyjne",
+   "szkolenie pracowników"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1966/180",
+     "date": "1982-03-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1959/402"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1959/402",
+     "art": "par. 4 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1993/472",
+     "date": "1993-11-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820064.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
