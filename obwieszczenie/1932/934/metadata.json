@@ -1,0 +1,63 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/934",
+ "source_sha256": "f46032e3dd9f2116dfb1a2e9ff116c00269b034bdbc1a751fe705146cd64cf2a",
+ "in_force": "1932-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/934",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/934/text/O/D19320934.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/934/text/I/D19320934.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/934",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 112,
+  "pos": 934,
+  "address": "WDU19321120934",
+  "displayAddress": "Dz.U. 1932 nr 112 poz. 934",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 1 grudnia 1932 r. w sprawie ogłoszenia jednolitego tekstu Kodeksu Postępowania Cywilnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1930/651"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320934.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320934.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
