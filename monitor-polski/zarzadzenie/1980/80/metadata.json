@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1980/80",
+ "source_sha256": "7129629b6aca7e52ebb3c5f7344fc1f0358573f517d03a8e883f8b97fc22a114",
+ "in_force": "1980-06-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1980/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1980/80/text/O/M19800080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1980/80/text/I/M19800080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1980/80",
+  "publisher": "MP",
+  "year": 1980,
+  "volume": 16,
+  "pos": 80,
+  "address": "WMP19800160080",
+  "displayAddress": "M.P. 1980 nr 16 poz. 80",
+  "title": "Zarządzenie Ministra Finansów z dnia 26 maja 1980 r. zmieniające zarządzenie w sprawie ogólnych zasad rachunkowości jednostek gospodarki uspołecznionej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1980-05-26",
+  "entryIntoForce": "1980-06-30",
+  "validFrom": "1980-06-30",
+  "repealDate": "1984-01-01",
+  "changeDate": "2024-01-17T11:51:46",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rachunkowość",
+   "księgowość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/233",
+     "date": "1984-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1972/300",
+     "date": "1980-06-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1970/244"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1970/244",
+     "art": "art. 91 ust. 1 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19800080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19800080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
