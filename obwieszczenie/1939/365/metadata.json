@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/365",
+ "source_sha256": "2635217666da4c64a4b9b0f0f0f3d3fba3bbafeeebe01cb71cee7484942d8020",
+ "in_force": "1939-06-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/365/text/O/D19390365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/365/text/I/D19390365.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/365",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 56,
+  "pos": 365,
+  "address": "WDU19390560365",
+  "displayAddress": "Dz.U. 1939 nr 56 poz. 365",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 9 czerwca 1939 r. o sprostowaniu błędu w obwieszczeniu Ministra Opieki Społecznej z dnia 9 maja 1936 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 10 czerwca 1927 r. o Państwowym Zakładzie Higieny.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-06-09",
+  "promulgation": "1939-06-28",
+  "changeDate": "2020-11-03T15:55:21",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Państwowy Zakład Higieny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 4"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1927/477"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
