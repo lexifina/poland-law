@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/124",
+ "source_sha256": "483363565fceb425f933ec6f895f9a1adffab77baf2e505a9a9a539ac898f42b",
+ "in_force": "1972-03-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/124",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/124/text/O/M19720124.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/124/text/I/M19720124.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/124",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 20,
+  "pos": 124,
+  "address": "WMP19720200124",
+  "displayAddress": "M.P. 1972 nr 20 poz. 124",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 28 marca 1972 r. w sprawie powołania Prezesa Rady Ministrów.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-03-28",
+  "entryIntoForce": "1972-03-28",
+  "validFrom": "1972-03-28",
+  "repealDate": "1976-03-25",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1971/78",
+     "date": "1972-03-28"
+    },
+    {
+     "id": "MP/1970/331",
+     "date": "1972-03-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 29 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1976/60",
+     "date": "1976-03-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720124.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720124.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
