@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/215",
+ "source_sha256": "85476c610900d524901e05f91aaa0db0233ca8f4ae12277ddc0eeca826638cb1",
+ "in_force": "1929-04-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/215",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/215/text/O/D19290215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/215/text/I/D19290215.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/215",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 21,
+  "pos": 215,
+  "address": "WDU19290210215",
+  "displayAddress": "Dz.U. 1929 nr 21 poz. 215",
+  "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego w porozumieniu z Ministrem Spraw Wojskowych z dnia 7 stycznia 1929 r. w sprawie regulaminu specjalnego, którego złożenie z wynikiem pomyślnym może uprawniać do odbycia skróconej czynnej służby wojskowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-01-07",
+  "entryIntoForce": "1929-04-04",
+  "validFrom": "1929-04-04",
+  "repealDate": "1939-03-17",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. WYZNAŃ RELIGIJNYCH I OŚWIECENIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "służba wojskowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/131",
+     "date": "1939-03-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/609"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/609",
+     "art": "art. 49"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290215.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
