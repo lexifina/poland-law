@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1965/119",
+ "source_sha256": "257338a944c542a16c31136952d5e77ad8f1ef5e6b28e787d0afebaf38d152cc",
+ "in_force": "1965-04-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1965/119",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1965/119/text/O/D19650119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1965/119/text/I/D19650119.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1965/119",
+  "publisher": "DU",
+  "year": 1965,
+  "volume": 17,
+  "pos": 119,
+  "address": "WDU19650170119",
+  "displayAddress": "Dz.U. 1965 nr 17 poz. 119",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 28 kwietnia 1965 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 lutego 1960 r. o Polskiej Akademii Nauk.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-04-28",
+  "expirationDate": "1965-05-05",
+  "changeDate": "2017-11-23T15:44:04",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/99"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1960/64"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19650119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19650119.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
