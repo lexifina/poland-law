@@ -1,0 +1,1 @@
+Zgodnie z uchwałą V Zjazdu Polskiej Zjednoczonej Partii Robotniczej oraz stosownie do postulatów związków zawodowych, w celu zwiększenia wymiaru urlopów wypoczynkowych dla robotników oraz wprowadzenia jednolitych zasad wymiaru urlopu dla ogółu pracowników stanowi się, co następuje:
