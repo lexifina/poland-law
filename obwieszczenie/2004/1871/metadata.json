@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1871",
+ "source_sha256": "430c00b7a2f01e40e21d67c320391689e5cbe6f63a0789483a30b4cbeb2c74f3",
+ "in_force": "2004-08-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 169 words, parsed 91; at 87: '. a zamiast brzmienia : „ a ) w ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1871",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/1871/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1871/text/O/D20041871.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1871/text/I/D20041871.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1871",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 180,
+  "pos": 1871,
+  "address": "WDU20041801871",
+  "displayAddress": "Dz.U. 2004 nr 180 poz. 1871",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 12 sierpnia 2004 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-08-12",
+  "promulgation": "2004-08-18",
+  "entryIntoForce": "2004-08-12",
+  "validFrom": "2004-08-12",
+  "changeDate": "2024-03-15T09:56:46",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "akcyza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2004/1750"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20041871.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041871.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
