@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/13",
+ "source_sha256": "7866e4298324e768e0057a42b95241c09f02d590fb56fee4dfb8556f95b2c1a2",
+ "in_force": "1970-01-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/13",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/13/text/O/M19700013.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/13/text/I/M19700013.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/13",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 2,
+  "pos": 13,
+  "address": "WMP19700020013",
+  "displayAddress": "M.P. 1970 nr 2 poz. 13",
+  "title": "Zarządzenie Ministra Budownictwa i Przemysłu Materiałów Budowlanych z dnia 27 grudnia 1969 r. w sprawie kryteriów określania wysokości planowanego funduszu premii obiektowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-12-27",
+  "entryIntoForce": "1970-01-24",
+  "validFrom": "1970-01-01",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. BUDOWNICTWA I PRZEMYSŁU MATERIAŁÓW BUDOWLANYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PRZEW. KOMITETU PRACY I PŁAC"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1969/336"
+    },
+    {
+     "id": "MP/1969/244"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1969/244"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1969/244",
+     "art": "par. 9 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700013.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700013.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
