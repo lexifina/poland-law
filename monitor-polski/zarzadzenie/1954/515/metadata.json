@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1954/515",
+ "source_sha256": "cc374bc7e21d467a11eb36319a3b4ec6c337ab28f4e0206d1a96ccbbc63f9096",
+ "in_force": "1954-04-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1954/515",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1954/515/text/O/M19540515.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1954/515/text/I/M19540515.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1954/515",
+  "publisher": "MP",
+  "year": 1954,
+  "volume": 37,
+  "pos": 515,
+  "address": "WMP19540370515",
+  "displayAddress": "M.P. 1954 nr 37 poz. 515",
+  "title": "Zarządzenie Ministra Skupu z dnia 16 kwietnia 1954 r. w sprawie obrotów zwierzętami rzeźnymi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1954-04-16",
+  "entryIntoForce": "1954-04-28",
+  "validFrom": "1954-04-28",
+  "repealDate": "1955-09-01",
+  "changeDate": "2014-12-31T12:24:30",
+  "releasedBy": [
+   "MIN. SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1955/946",
+     "date": "1955-09-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1950/152"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1954/509"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19540515.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19540515.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
