@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1960/156",
+ "source_sha256": "2385e0eebeccabb50b112f26123980fa3e97bc1b526b691a96c2ed92144f53ee",
+ "in_force": "1959-09-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1960/156",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1960/156/text/O/D19600156.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1960/156/text/I/D19600156.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1960/156",
+  "publisher": "DU",
+  "year": 1960,
+  "volume": 28,
+  "pos": 156,
+  "address": "WDU19600280156",
+  "displayAddress": "Dz.U. 1960 nr 28 poz. 156",
+  "title": "Międzynarodowe Porozumienie Cukrownicze sporządzone w Londynie dnia 1 grudnia 1958 r.",
+  "type": "Porozumienie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-09-09",
+  "repealDate": "1985-12-28",
+  "changeDate": "2014-12-31T12:22:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1963/310"
+    },
+    {
+     "id": "DU/1962/135"
+    },
+    {
+     "id": "DU/1961/141"
+    },
+    {
+     "id": "DU/1960/157"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1985/313",
+     "date": "1985-12-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19600156.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19600156.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
