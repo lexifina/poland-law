@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/50",
+ "source_sha256": "1903df256fbf663381cf59dab14d3d293ecefe53902aeb08dd1ff7845cdfb33f",
+ "in_force": "1963-02-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/50",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/50/text/O/M19630050.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/50/text/I/M19630050.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/50",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 10,
+  "pos": 50,
+  "address": "WMP19630100050",
+  "displayAddress": "M.P. 1963 nr 10 poz. 50",
+  "title": "Zarządzenie nr 15 Prezesa Rady Ministrów z dnia 23 stycznia 1963 r. w sprawie zaliczenia niektórych dróg lokalnych do kategorii dróg państwowych oraz pozbawienia niektórych dróg państwowych ich dotychczasowego charakteru.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-01-23",
+  "entryIntoForce": "1963-02-06",
+  "validFrom": "1963-02-06",
+  "repealDate": "1986-12-27",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "drogi publiczne",
+   "budowa i utrzymanie dróg"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1986/243",
+     "date": "1986-12-27"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1962/90"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/90"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/90",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630050.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630050.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
