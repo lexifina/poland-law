@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/79",
+ "source_sha256": "b94df0d520bdf392342ebcd50ac1cf63cc1be9e303818ec56e5b9f41ec312127",
+ "in_force": "1988-03-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/79",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/79/text/O/M19880079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/79/text/I/M19880079.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/79",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 9,
+  "pos": 79,
+  "address": "WMP19880090079",
+  "displayAddress": "M.P. 1988 nr 9 poz. 79",
+  "title": "Zarządzenie Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej z dnia 22 stycznia 1988 r. w sprawie zakresu i trybu wykonywania przez prokuratorów nadzoru penitencjarnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-01-22",
+  "entryIntoForce": "1988-03-19",
+  "validFrom": "1988-03-19",
+  "repealDate": "1998-09-01",
+  "changeDate": "2024-11-25T09:48:07",
+  "releasedBy": [
+   "PROKURATURA GENERALNA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze",
+   "prokuratura",
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1998/698",
+     "date": "1998-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 13"
+    },
+    {
+     "id": "DU/1985/138",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880079.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
