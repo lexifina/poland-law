@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/866",
+ "source_sha256": "8a4c42142cdcde31e181866acc04a7bf806d3136453e0851a3e0927a3242a387",
+ "in_force": "2003-05-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 265 words, parsed 135; at 135: 'końcu powinny być wyrazy : „ 36 ) Stadnina Koni'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/866",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/866/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/866/text/O/D20030866.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/866/text/I/D20030866.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/866",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 93,
+  "pos": 866,
+  "address": "WDU20030930866",
+  "displayAddress": "Dz.U. 2003 nr 93 poz. 866",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 21 maja 2003 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-05-21",
+  "promulgation": "2003-05-26",
+  "repealDate": "2011-08-19",
+  "changeDate": "2024-03-15T09:52:04",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "porządkowanie prawa",
+   "sprostowanie",
+   "rolnictwo",
+   "hodowla"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/974",
+     "date": "2011-08-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2003/726"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030866.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030866.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
