@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1924/809",
+ "source_sha256": "6dc903b46efb3e8be3eeaf2fb5f0a2e3ac306774c5d89d10c39dbc903533d444",
+ "in_force": "1924-10-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1924/809",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1924/809/text/O/D19240809.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1924/809/text/I/D19240809.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1924/809",
+  "publisher": "DU",
+  "year": 1924,
+  "volume": 84,
+  "pos": 809,
+  "address": "WDU19240840809",
+  "displayAddress": "Dz.U. 1924 nr 84 poz. 809",
+  "title": "Rozporządzenie Ministra Skarbu w porozumieniu z Ministrem Sprawiedliwości z dnia 22 września 1924 r. w sprawie odstępowania Bankowi Polskiemu waluty obcej, uzyskiwanej z eksportu niektórych artykułów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1924-09-22",
+  "entryIntoForce": "1924-10-29",
+  "validFrom": "1924-10-29",
+  "repealDate": "1925-06-24",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dewizowe prawo",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1925/408",
+     "date": "1925-06-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1924/290",
+     "date": "1924-10-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/285"
+    },
+    {
+     "id": "DU/1923/154"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19240809.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19240809.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
