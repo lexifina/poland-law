@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 2 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) w oświadczeniu rządowym z dnia 10 marca 1995 r. w sprawie wejścia w życie Umowy między Rzecząpospolitą Polską a Republiką Grecji w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Atenach dnia 14 października 1992 r. (Dz. U. z 1995 r. Nr 51, poz. 276), prostuje się następujący błąd:
+
+w ostatnim wierszu zamiast wyrazów „20 lutego 1994 r.” powinny być wyrazy „20 lutego 1995 r.”.
