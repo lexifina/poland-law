@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/649",
+ "source_sha256": "8b909c0458b4789d6e3d523abbb4dbcb1f5eaa922b82f0bc5172acb50c34c0e3",
+ "in_force": "2003-09-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/649",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/649/text/O/M20030649.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/649/text/I/M20030649.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/649",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 43,
+  "pos": 649,
+  "address": "WMP20030430649",
+  "displayAddress": "M.P. 2003 nr 43 poz. 649",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 20 sierpnia 2003 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-08-20",
+  "promulgation": "2003-09-15",
+  "changeDate": "2020-11-03T15:55:24",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "umowy międzynarodowe",
+   "sprostowanie",
+   "transport drogowy"
+  ],
+  "keywordsNames": [
+   "Norwegia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "MP/2003/343"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030649.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030649.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
