@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1989/161",
+ "source_sha256": "682e9891cbffdcbdee3f4f00f3d574e2164a78034b55ab86498db02a1c7b480e",
+ "in_force": "1989-07-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1989/161",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1989/161/text/O/M19890161.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1989/161/text/I/M19890161.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1989/161",
+  "publisher": "MP",
+  "year": 1989,
+  "volume": 22,
+  "pos": 161,
+  "address": "WMP19890220161",
+  "displayAddress": "M.P. 1989 nr 22 poz. 161",
+  "title": "Uchwała Senatu Polskiej Rzeczypospolitej Ludowej z dnia 4 lipca 1989 r. w sprawie organów Senatu.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1989-07-04",
+  "entryIntoForce": "1989-07-04",
+  "validFrom": "1989-07-04",
+  "repealDate": "1990-11-23",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1991/11",
+     "date": "1990-11-23"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1990/97"
+    },
+    {
+     "id": "MP/1989/163"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1990/216",
+     "date": "1990-07-06"
+    },
+    {
+     "id": "MP/1989/206",
+     "date": "1989-07-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19890161.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19890161.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
