@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/119",
+ "source_sha256": "31c9dc6816e94b45fe837898cca91b01c415f43b6de3b90ac94deacab9737e65",
+ "in_force": "1945-06-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/119",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/119/text/O/D19450119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/119/text/I/D19450119.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1945/119/text/T/D19450119L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/119",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 21,
+  "pos": 119,
+  "address": "WDU19450210119",
+  "displayAddress": "Dz.U. 1945 nr 21 poz. 119",
+  "title": "Dekret z dnia 24 maja 1945 r. o utworzeniu Uniwersytetu Łódzkiego.",
+  "type": "Dekret",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1945-05-24",
+  "entryIntoForce": "1945-06-11",
+  "validFrom": "1945-06-11",
+  "changeDate": "2021-04-08T14:28:00",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [
+   "MIN. OŚWIATY"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/243"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450119.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19450119L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
