@@ -1,0 +1,61 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1970/100",
+ "source_sha256": "2febb3c42344d089c19028ea12d33ac4c41a96b4ed6ebe236f290d727215819c",
+ "in_force": "1970-04-08",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1970/100",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1970/100/text/O/D19700100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1970/100/text/I/D19700100.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1970/100",
+  "publisher": "DU",
+  "year": 1970,
+  "volume": 11,
+  "pos": 100,
+  "address": "WDU19700110100",
+  "displayAddress": "Dz.U. 1970 nr 11 poz. 100",
+  "title": "Oświadczenie rządowe z dnia 8 kwietnia 1970 r. w sprawie ratyfikacji przez Urugwaj Konwencji wiedeńskiej o stosunkach dyplomatycznych, sporządzonej w Wiedniu dnia 18 kwietnia 1961 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1970-04-08",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Urugwaj"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/232"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19700100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19700100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
