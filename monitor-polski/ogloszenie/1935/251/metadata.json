@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/251",
+ "source_sha256": "b55bda603347de81b1868ed5e5ede67accb1a08092beccb8a82e6525fd6d7983",
+ "in_force": "1935-09-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/251",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/251/text/O/M19350251.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/251/text/I/M19350251.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/251",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 219,
+  "pos": 251,
+  "address": "WMP19352190251",
+  "displayAddress": "M.P. 1935 nr 219 poz. 251",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego z dnia 23 września 1935 r.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-09-23",
+  "promulgation": "1935-09-24",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "mandaty poselskie i senatorskie",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/320"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/320",
+     "art": "art. 40"
+    },
+    {
+     "id": "DU/1935/320",
+     "art": "art. 41"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350251.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350251.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
