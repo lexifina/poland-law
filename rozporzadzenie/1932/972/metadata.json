@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/972",
+ "source_sha256": "3ae5026adb8f4cef4019358c846bd3f4492601ba33fd51bc8564b7ad7a8e1d23",
+ "in_force": "1932-12-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/972",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/972/text/O/D19320972.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/972/text/I/D19320972.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/972",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 118,
+  "pos": 972,
+  "address": "WDU19321180972",
+  "displayAddress": "Dz.U. 1932 nr 118 poz. 972",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 1932 r. w sprawie rejestracji skazanych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-22",
+  "repealDate": "1934-07-01",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "skazani",
+   "rejestr skazanych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1934/478",
+     "date": "1934-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320972.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320972.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
