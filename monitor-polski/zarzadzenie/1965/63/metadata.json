@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/63",
+ "source_sha256": "45feb2884c4f791c4fd08ecbdcf48fe959eaf40d0a4804c2365357dc5e281d41",
+ "in_force": "1965-04-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/63",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/63/text/O/M19650063.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/63/text/I/M19650063.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/63",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 16,
+  "pos": 63,
+  "address": "WMP19650160063",
+  "displayAddress": "M.P. 1965 nr 16 poz. 63",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 6 marca 1965 r. zmieniające zarządzenie w sprawie skrzyżowania linii kolejowych z drogami publicznymi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-03-06",
+  "entryIntoForce": "1965-04-25",
+  "validFrom": "1965-04-25",
+  "repealDate": "1968-12-31",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/395",
+     "date": "1968-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/354",
+     "date": "1965-04-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/46"
+    },
+    {
+     "id": "DU/1960/311"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/46",
+     "art": "art. 5 ust. 1"
+    },
+    {
+     "id": "DU/1960/311",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650063.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650063.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
