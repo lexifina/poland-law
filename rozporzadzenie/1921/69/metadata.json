@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/69",
+ "source_sha256": "f5f39c326259c1ff2a39b7733e3750f22e911b24266d852c6574f2045ba80d75",
+ "in_force": "1921-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/69",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/69/text/O/D19210069.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/69/text/I/D19210069.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/69",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 12,
+  "pos": 69,
+  "address": "WDU19210120069",
+  "displayAddress": "Dz.U. 1921 nr 12 poz. 69",
+  "title": "Rozporządzenie Ministra Aprowizacji z dnia 25 stycznia 1921 r. w przedmiocie przewozu żyta, pszenicy, jęczmienia, owsa, grochu, fasoli, gryki, prosa, peluszki, soczewicy, kukurydzy i przetworów tych ziemiopłodów, znajdujących się w obrocie pozakontyngentowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1921-01-25",
+  "entryIntoForce": "1921-02-01",
+  "validFrom": "1921-02-01",
+  "repealDate": "1921-05-01",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. APROWIZACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przewozowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1921/218",
+     "date": "1921-05-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1920/534",
+     "date": "1921-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/764"
+    },
+    {
+     "id": "DU/1920/760"
+    },
+    {
+     "id": "DU/1920/449"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19210069.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210069.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
