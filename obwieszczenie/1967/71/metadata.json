@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1967/71",
+ "source_sha256": "9d12708e08b98acb6dbb4e06d76745a7690d93b85e25125344ca4f76681d8931",
+ "in_force": "1967-04-12",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1967/71",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1967/71/text/O/D19670071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1967/71/text/I/D19670071.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1967/71",
+  "publisher": "DU",
+  "year": 1967,
+  "volume": 15,
+  "pos": 71,
+  "address": "WDU19670150071",
+  "displayAddress": "Dz.U. 1967 nr 15 poz. 71",
+  "title": "Obwieszczenie Ministra Kultury i Sztuki z dnia 12 kwietnia 1967 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 29 marca 1962 r. o wyższych szkołach artystycznych.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-04-12",
+  "expirationDate": "1969-03-13",
+  "changeDate": "2017-11-23T15:44:07",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/20"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1962/88"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19670071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19670071.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
