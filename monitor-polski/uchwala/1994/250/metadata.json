@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1994/250",
+ "source_sha256": "fa90e0df43f688bc93c8480b581e093c1687c1020db38bf4e65ab4cc0ec172da",
+ "in_force": "1994-05-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1994/250",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1994/250/text/O/M19940250.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1994/250/text/I/M19940250.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1994/250",
+  "publisher": "MP",
+  "year": 1994,
+  "volume": 30,
+  "pos": 250,
+  "address": "WMP19940300250",
+  "displayAddress": "M.P. 1994 nr 30 poz. 250",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 16 maja 1994 r. w sprawie ustalenia wzorów protokołów z wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 19 czerwca 1994 r.",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1994-05-16",
+  "entryIntoForce": "1994-05-16",
+  "validFrom": "1994-05-16",
+  "changeDate": "2022-04-06T15:17:52",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1995/493",
+     "date": "1995-08-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/205"
+    },
+    {
+     "id": "DU/1991/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/205",
+     "art": "art. 58 pkt 8"
+    },
+    {
+     "id": "DU/1991/246",
+     "art": "art. 1 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19940250.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19940250.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
