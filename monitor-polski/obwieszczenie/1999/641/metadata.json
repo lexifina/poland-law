@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/641",
+ "source_sha256": "c2a21d18ebe995f1102bfe938b0fcac58c26cdf3b70e2f99022ed5e4228e9932",
+ "in_force": "1999-12-21",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/641",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/641/text/O/M19990641.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/641/text/I/M19990641.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/641/text/T/M9990641.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/641",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 41,
+  "pos": 641,
+  "address": "WMP19990410641",
+  "displayAddress": "M.P. 1999 nr 41 poz. 641",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 21 grudnia 1999 r. o treści oświadczeń złożonych przez osoby pełniące funkcje publiczne.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-21",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. SADU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lustracja",
+   "oświadczenie",
+   "funkcje publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 40 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990641.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990641.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990641.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
