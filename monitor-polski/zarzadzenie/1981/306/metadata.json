@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/306",
+ "source_sha256": "049b2c014539020654a836f9286481fbd413579291bbf3aaa429bf34d09efde7",
+ "in_force": "1982-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/306",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/306/text/O/M19810306.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/306/text/I/M19810306.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/306",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 33,
+  "pos": 306,
+  "address": "WMP19810330306",
+  "displayAddress": "M.P. 1981 nr 33 poz. 306",
+  "title": "Zarządzenie Ministrów Gospodarki Materiałowej oraz Handlu Wewnętrznego i Usług z dnia 16 grudnia 1981 r. zmieniające zarządzenie w sprawie wykazu towarów produkcji krajowej objętych gwarancją producenta.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-12-16",
+  "entryIntoForce": "1982-01-01",
+  "validFrom": "1982-01-01",
+  "repealDate": "1984-01-01",
+  "changeDate": "2024-01-08T11:23:16",
+  "releasedBy": [
+   "MIN. GOSPODARKI MATERIAŁOWEJ",
+   "MIN. HANDLU WEWNĘTRZNEGO I USŁUG"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towar",
+   "gwarancja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/263",
+     "date": "1984-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1978/131",
+     "date": "1982-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1973/218"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1973/218",
+     "art": "par. 19 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810306.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810306.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
