@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/861",
+ "source_sha256": "57fe082da4eaaa0cb8670897a6f8a6223dabe1c5416bbe996338de852e9189af",
+ "in_force": "1923-11-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/861",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/861/text/O/D19230861.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/861/text/I/D19230861.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/861",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 109,
+  "pos": 861,
+  "address": "WDU19231090861",
+  "displayAddress": "Dz.U. 1923 nr 109 poz. 861",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 15 października 1923 r. w przedmiocie częściowej zmiany rozporządzeń Ministra Skarbu z dnia 24 lipca 1922 r. i 23 czerwca 1923 r. o wykonaniu rozporządzenia Rady Ministrów z dnia 14 października 1921 r. dotyczącego opodatkowania spirytusu.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-10-15",
+  "entryIntoForce": "1923-11-01",
+  "validFrom": "1923-11-01",
+  "repealDate": "1924-04-30",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spirytus",
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1924/399",
+     "date": "1924-04-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1923/516",
+     "date": "1923-11-01"
+    },
+    {
+     "id": "DU/1922/559",
+     "date": "1923-11-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/628"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230861.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230861.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
