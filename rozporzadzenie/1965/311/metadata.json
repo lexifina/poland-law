@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1965/311",
+ "source_sha256": "58fb2a99058a35ce42acb667ca4874826dba7460c39abec894bad1b0e46745cf",
+ "in_force": "1965-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1965/311",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1965/311/text/O/D19650311.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1965/311/text/I/D19650311.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1965/311",
+  "publisher": "DU",
+  "year": 1965,
+  "volume": 50,
+  "pos": 311,
+  "address": "WDU19650500311",
+  "displayAddress": "Dz.U. 1965 nr 50 poz. 311",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 17 listopada 1965 r. w sprawie zmiany rozporządzenia o prowadzeniu dotychczasowych ksiąg hipotecznych (gruntowych, wieczystych) po dniu 31 grudnia 1946 r.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-11-17",
+  "entryIntoForce": "1965-12-01",
+  "validFrom": "1965-12-01",
+  "repealDate": "1986-09-01",
+  "changeDate": "2014-12-31T12:25:29",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1986/141",
+     "date": "1986-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1946/367",
+     "date": "1965-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/321"
+    },
+    {
+     "id": "DU/1946/320"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19650311.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19650311.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
