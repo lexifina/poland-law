@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/211",
+ "source_sha256": "ac16282eab0290e609197ad477a4d822f6bec950f47bae04e28e0d36292a01da",
+ "in_force": "1962-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/211",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/211/text/O/M19620211.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/211/text/I/M19620211.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/211",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 45,
+  "pos": 211,
+  "address": "WMP19620450211",
+  "displayAddress": "M.P. 1962 nr 45 poz. 211",
+  "title": "Uchwała Rady Państwa z dnia 22 maja 1962 r. w sprawie stanowisk i uposażeń sędziów oraz innych pracowników Sądu Najwyższego.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-05-22",
+  "entryIntoForce": "1962-06-01",
+  "validFrom": "1962-06-01",
+  "repealDate": "1964-07-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1964/372",
+     "date": "1964-07-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1963/185",
+     "date": "1963-05-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1961/204"
+    },
+    {
+     "id": "DU/1959/184"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/54"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/54",
+     "art": "art. 47"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620211.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620211.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
