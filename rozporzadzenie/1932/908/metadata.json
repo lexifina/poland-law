@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/908",
+ "source_sha256": "ae228b5b48dc4de19fa24655d3b497f4c0d594c253ba6cddfe11d9c297cf52e2",
+ "in_force": "1932-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/908",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/908/text/O/D19320908.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/908/text/I/D19320908.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/908",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 110,
+  "pos": 908,
+  "address": "WDU19321100908",
+  "displayAddress": "Dz.U. 1932 nr 110 poz. 908",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 1 grudnia 1932 r. o uchyleniu i zmianie niektórych rozporządzeń wykonawczych do prawa o ustroju sądów powszechnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-01",
+  "repealDate": "1945-09-17",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/198",
+     "date": "1945-09-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    },
+    {
+     "id": "DU/1928/593"
+    },
+    {
+     "id": "DU/1927/980"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320908.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320908.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
