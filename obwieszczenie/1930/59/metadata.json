@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/59",
+ "source_sha256": "6237c460381615b3984239b3c55079a1510c34d9f549991030f6ad51b906e703",
+ "in_force": "1930-02-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/59",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/59/text/O/D19300059.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/59/text/I/D19300059.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/59",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 7,
+  "pos": 59,
+  "address": "WDU19300070059",
+  "displayAddress": "Dz.U. 1930 nr 7 poz. 59",
+  "title": "Obwieszczenie Ministra Komunikacji, Skarbu oraz Pracy i Opieki Społecznej z dnia 26 listopada 1929 r. o sprostowaniu błędów w rozporządzeniu Ministra Komunikacji z dnia 26 sierpnia 1929 r., wydanem w porozumieniu z Ministrami Skarbu oraz Pracy i Opieki Społecznej o zakresie opieki lekarskiej i środków leczniczych dla pracowników przedsiębiorstwa \"Polskie Koleje Państwowe\".",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1929-11-26",
+  "promulgation": "1930-02-11",
+  "changeDate": "2020-11-03T15:56:33",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI",
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "opieka zdrowotna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1929/485"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300059.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300059.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
