@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/37",
+ "source_sha256": "f52223eed8847c65533b4c27b153931cbff77700066f2e9b871e974512182732",
+ "in_force": "1932-02-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/37",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/37/text/O/M19320037.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/37/text/I/M19320037.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/37",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 31,
+  "pos": 37,
+  "address": "WMP19320310037",
+  "displayAddress": "M.P. 1932 nr 31 poz. 37",
+  "title": "Zarządzenie Ministra Skarbu z dnia 30 stycznia 1932 r. w sprawie ustanowienia przymusowego zarządu państwowego nad Towarzystwem Kredytowem m. Suwałk",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-30",
+  "promulgation": "1932-02-09",
+  "entryIntoForce": "1932-02-09",
+  "validFrom": "1932-02-09",
+  "repealDate": "1935-11-26",
+  "changeDate": "2026-10-30T10:46:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zarząd przymusowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1935/345",
+     "date": "1935-11-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1918/67"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1918/67",
+     "art": "art. 1 pkt 2 lit. a"
+    },
+    {
+     "id": "DU/1918/67",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1918/67",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320037.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320037.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
