@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/2",
+ "source_sha256": "73d39ca95df57494e2938f1e6a3597e5f3af294f9f9f53e5221b57dd9bc70b11",
+ "in_force": "1946-01-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/2/text/O/D19460002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/2/text/I/D19460002.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/2",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19460010002",
+  "displayAddress": "Dz.U. 1946 nr 1 poz. 2",
+  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 7 grudnia 1945 r. w sprawie ustroju specjalnego szkolnictwa muzycznego.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-12-07",
+  "entryIntoForce": "1946-01-17",
+  "validFrom": "1946-01-17",
+  "repealDate": "1947-10-30",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1937/343",
+     "date": "1946-01-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/25"
+    },
+    {
+     "id": "DU/1932/389"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/415",
+     "date": "1947-10-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
