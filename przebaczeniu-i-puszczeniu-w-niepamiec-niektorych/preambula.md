@@ -1,0 +1,1 @@
+Mając na uwadze postępujący proces normalizacji życia społecznego, czego wyrazem jest osiągnięte porozumienie narodowe, w celu stworzenia obywatelom, którzy dopuścili się z powodów politycznych naruszeń porządku prawnego, warunków umożliwiających włączenie się do czynnego udziału w życiu politycznym kraju, stanowi się, co następuje:
