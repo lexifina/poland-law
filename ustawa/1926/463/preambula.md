@@ -1,0 +1,1 @@
+Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami (Dz. U. R. P. Nr. 25, poz. 154) w krasnemu, zadanem jej ustawami: z dnia 23 czerwca 1923 r. (Dz. U. R. P. Nr. 62, poz. 459), z dnia 20 marca 1924 r. (Dz. U. R. P. Nr. 29, poz. 285) i z dnia 31 marca 1925 r. (Dz. U. R. P. Nr. 32, poz. 225).
