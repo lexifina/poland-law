@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/31",
+ "source_sha256": "3bff7dd541d485a975e1577ec8e26490942f356eac9ebbfdafd31558651005d8",
+ "in_force": "1932-02-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/31/text/O/M19320031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/31/text/I/M19320031.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/31",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 26,
+  "pos": 31,
+  "address": "WMP19320260031",
+  "displayAddress": "M.P. 1932 nr 26 poz. 31",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-26",
+  "promulgation": "1932-02-03",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
