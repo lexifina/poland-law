@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/9",
+ "source_sha256": "20dc4c191000b0041bc0c0abf1e4ed423e4c5d4329a53e477ef493fcfccd6faa",
+ "in_force": "1997-01-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/9",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/9/text/O/D19970009.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/9/text/I/D19970009.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/9",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 2,
+  "pos": 9,
+  "address": "WDU19970020009",
+  "displayAddress": "Dz.U. 1997 nr 2 poz. 9",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 2 stycznia 1997 r. zmieniające rozporządzenie w sprawie trybu działania Krajowej Komisji Uwłaszczeniowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-01-02",
+  "entryIntoForce": "1997-01-09",
+  "validFrom": "1997-01-09",
+  "repealDate": "1997-05-22",
+  "changeDate": "2014-12-31T12:25:46",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "uwłaszczenie"
+  ],
+  "keywordsNames": [
+   "Krajowa Komisja Uwłaszczeniowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1997/291",
+     "date": "1997-05-22"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/391",
+     "date": "1997-01-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/191"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/191",
+     "art": "art. 18 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19970009.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970009.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
