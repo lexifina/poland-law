@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/85",
+ "source_sha256": "ce542913ea8403c1df65272d42d8a55749587895a69dcb6442fbfd9d78670f7d",
+ "in_force": "1931-02-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/85",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/85/text/O/D19310085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/85/text/I/D19310085.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/85",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 16,
+  "pos": 85,
+  "address": "WDU19310160085",
+  "displayAddress": "Dz.U. 1931 nr 16 poz. 85",
+  "title": "Obwieszczenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 29 stycznia 1931 r. o sprostowaniu błędu w rozporządzeniu Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 30 grudnia 1930 r. o ulgach celnych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-01-29",
+  "promulgation": "1931-02-28",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. SKARBU",
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "ulgi celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1930/738"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310085.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
