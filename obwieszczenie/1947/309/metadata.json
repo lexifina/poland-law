@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/309",
+ "source_sha256": "efb706dc3acd800bb7b419508dd714d3d2cd72ed8c1f25775e18931d7eec2701",
+ "in_force": "1947-08-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/309",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/309/text/O/D19470309.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/309/text/I/D19470309.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/309",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 56,
+  "pos": 309,
+  "address": "WDU19470560309",
+  "displayAddress": "Dz.U. 1947 nr 56 poz. 309",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 7 sierpnia 1947 r. o sprostowaniu błędu w załączniku do obwieszczenia Ministra Pracy i Opieki Społecznej z dnia 28 lutego 1947 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 13 listopada 1945 r. o zasiłkach i pomocy dla ofiar wrogów demokratycznego ustroju Polski.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-08-07",
+  "repealDate": "1958-07-01",
+  "changeDate": "2020-11-03T15:55:21",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłki",
+   "sprostowanie",
+   "pomoc finansowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1945/294"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1958/93",
+     "date": "1958-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470309.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470309.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
