@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/36",
+ "source_sha256": "d89ebb3721c65ec291ca4577ca359802c2ed884ef991fec38aec6cce1e38c53f",
+ "in_force": "1964-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/36",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/36/text/O/M19640036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/36/text/I/M19640036.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/36",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 7,
+  "pos": 36,
+  "address": "WMP19640070036",
+  "displayAddress": "M.P. 1964 nr 7 poz. 36",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 14 stycznia 1964 r. w sprawie ogłoszenia ustanowionej Polskiej Normy.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-01-14",
+  "entryIntoForce": "1964-01-14",
+  "validFrom": "1964-01-14",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1969/328",
+     "date": "1969-08-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1957/569",
+     "date": "1964-01-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640036.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
