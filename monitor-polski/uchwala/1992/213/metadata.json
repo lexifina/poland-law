@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1992/213",
+ "source_sha256": "ae35fab641586d7a7a1b8a1a00fc4d41be1fa1abfcd4a9b7956180b8cf672c16",
+ "in_force": "1992-10-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1992/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1992/213/text/O/M19920213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1992/213/text/I/M19920213.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1992/213",
+  "publisher": "MP",
+  "year": 1992,
+  "volume": 31,
+  "pos": 213,
+  "address": "WMP19920310213",
+  "displayAddress": "M.P. 1992 nr 31 poz. 213",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 września 1992 r. o umorzeniu postępowania w sprawie odpowiedzialności konstytucyjnej.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-09-19",
+  "entryIntoForce": "1992-10-02",
+  "validFrom": "1992-10-02",
+  "repealDate": "1992-10-02",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konstytucyjna odpowiedzialność"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1992/213",
+     "date": "1992-10-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/84",
+     "art": "art. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1992/213",
+     "date": "1992-10-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19920213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19920213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
