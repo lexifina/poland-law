@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/116",
+ "source_sha256": "916b887310acdbb91d20f8c278f486720f6162bebd5cb41b82aca0544bfbb162",
+ "in_force": "1988-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/116/text/O/D19880116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/116/text/I/D19880116.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/116",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 16,
+  "pos": 116,
+  "address": "WDU19880160116",
+  "displayAddress": "Dz.U. 1988 nr 16 poz. 116",
+  "title": "Rozporządzenie Rady Ministrów z dnia 23 maja 1988 r. zmieniające rozporządzenie w sprawie kosztów postępowania w sprawach o wykroczenia.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-05-23",
+  "promulgation": "1988-05-31",
+  "entryIntoForce": "1988-06-01",
+  "validFrom": "1988-06-01",
+  "repealDate": "1993-02-10",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne postępowanie w sprawach o wykroczenia",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1993/30",
+     "date": "1993-02-10"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1986/162",
+     "date": "1988-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1971/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1971/117",
+     "art": "art. XIII"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19880116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
