@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/302",
+ "source_sha256": "7e02e69727053afe7606574affc6dabdbcca5746e37e7e3636059e710610ac64",
+ "in_force": "1933-11-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/302/text/O/M19330302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/302/text/I/M19330302.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/302",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 275,
+  "pos": 302,
+  "address": "WMP19332750302",
+  "displayAddress": "M.P. 1933 nr 275 poz. 302",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 21 listopada 1933 r. w sprawie urzędów celnych, uprawnionych do odprawy celnej produktów pośrednich, służących do wyrobu barwników syntetycznych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-11-21",
+  "promulgation": "1933-11-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/657"
+    },
+    {
+     "id": "DU/1932/732"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/732",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
