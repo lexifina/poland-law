@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/504",
+ "source_sha256": "ce42f6e42843fa11fe4747f73be828262f96a29d1eea2255bd3cde39200f5109",
+ "in_force": "1939-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/504",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/504/text/O/D19390504.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/504/text/I/D19390504.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/504",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 75,
+  "pos": 504,
+  "address": "WDU19390750504",
+  "displayAddress": "Dz.U. 1939 nr 75 poz. 504",
+  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 7 sierpnia 1939 r. - Przepisy dyscyplinarne dla Sił Zbrojnych.",
+  "type": "Dekret",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-08-07",
+  "promulgation": "1939-08-22",
+  "entryIntoForce": "1939-10-01",
+  "validFrom": "1939-10-01",
+  "changeDate": "2020-09-23T13:37:01",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1925/638",
+     "date": "1939-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/286"
+    },
+    {
+     "id": "DU/1935/227"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/286",
+     "art": "art. 3 część I lit. b)"
+    },
+    {
+     "id": "DU/1935/227",
+     "art": "art. 63 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390504.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390504.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
