@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/211",
+ "source_sha256": "e5581bbf905b31cb2291ba809dbf2bda3ec600c385af9098e8ae72f44c8c5b59",
+ "in_force": "1982-10-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/211",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/211/text/O/M19820211.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/211/text/I/M19820211.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/211",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 24,
+  "pos": 211,
+  "address": "WMP19820240211",
+  "displayAddress": "M.P. 1982 nr 24 poz. 211",
+  "title": "Zarządzenie nr 24 Prezesa Rady Ministrów z dnia 1 października 1982 r. zmieniające zarządzenie w sprawie zasad wynagradzania sołtysów za inkaso podatków i innych należności finansowych od mieszkańców wsi.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-10-01",
+  "entryIntoForce": "1982-10-15",
+  "validFrom": "1982-10-15",
+  "repealDate": "1986-12-27",
+  "changeDate": "2023-07-05T14:57:30",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "sołtysi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1986/243",
+     "date": "1986-12-27"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1976/91",
+     "date": "1982-10-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1972/319"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1972/319",
+     "art": "par. 14 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820211.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820211.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
