@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/102",
+ "source_sha256": "f345732967440b99fafcb362fd6acc07101f17e833b5f0fcfa8f5f188c2ff5ef",
+ "in_force": "1932-03-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/102/text/O/M19320102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/102/text/I/M19320102.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/102",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 73,
+  "pos": 102,
+  "address": "WMP19320730102",
+  "displayAddress": "M.P. 1932 nr 73 poz. 102",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 19 marca 1932 r. w sprawie ogłoszenia jednolitego tekstu statutu przedsiębiorstwa \"Państwowe Zakłady Przemysłowo-Zbożowe\".",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-03-19",
+  "promulgation": "1932-03-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "przemysł",
+   "zboża",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1932/48"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1932/48",
+     "art": "par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
