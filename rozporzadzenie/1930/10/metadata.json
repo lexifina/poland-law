@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/10",
+ "source_sha256": "9044502442ee8ee457078efadcbf46ea8717add3c24129cd621c60a6399450ff",
+ "in_force": "1930-01-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/10/text/O/D19300010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/10/text/I/D19300010.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/10",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 2,
+  "pos": 10,
+  "address": "WDU19300020010",
+  "displayAddress": "Dz.U. 1930 nr 2 poz. 10",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 9 stycznia 1930 r. w sprawie zwrotu cła przy wywozie niektórych przetworów mięsnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-01-09",
+  "promulgation": "1930-01-16",
+  "entryIntoForce": "1930-01-21",
+  "validFrom": "1930-01-21",
+  "repealDate": "1931-10-01",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. ROLNICTWA",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "mięso"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/681",
+     "date": "1931-10-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1929/39"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/777",
+     "art": "art. 7 punkt d)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
