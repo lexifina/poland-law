@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/626",
+ "source_sha256": "730198428b75cdb31e21837ecde4da7f1769f719f03ab29592b42a1034c2e183",
+ "in_force": "2001-10-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/626",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/626/text/O/M20010626.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/626/text/I/M20010626.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/626",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 38,
+  "pos": 626,
+  "address": "WMP20010380626",
+  "displayAddress": "M.P. 2001 nr 38 poz. 626",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 24 października 2001 r. w sprawie przeciętnej stopy bezrobocia w kraju oraz na obszarze działania powiatowych urzędów pracy.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-10-24",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "powiaty",
+   "bezrobocie",
+   "urzędy pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2001/548",
+     "date": "2001-10-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010626.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010626.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
