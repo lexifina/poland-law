@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1997/716",
+ "source_sha256": "198c4665bccffc573b219fab32cf6a8ab1a0974ec2499b307b46d398eb594190",
+ "in_force": "1998-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1997/716",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1997/716/text/O/M19970716.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1997/716/text/I/M19970716.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1997/716",
+  "publisher": "MP",
+  "year": 1997,
+  "volume": 76,
+  "pos": 716,
+  "address": "WMP19970760716",
+  "displayAddress": "M.P. 1997 nr 76 poz. 716",
+  "title": "Zarządzenie Prezesa Głównego Urzędu Ceł z dnia 23 września 1997 r. w sprawie szczegółowego trybu postępowania przy zniszczeniu towarów, zrzeczeniu się na rzecz Skarbu Państwa oraz powrotnym wywozie.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-09-23",
+  "entryIntoForce": "1998-01-01",
+  "validFrom": "1998-01-01",
+  "repealDate": "1999-12-02",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU CEŁ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "towar"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1999/1053",
+     "date": "1999-12-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/117",
+     "art": "art. 188"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/1998/617"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19970716.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19970716.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
