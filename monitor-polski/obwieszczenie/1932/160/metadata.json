@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/160",
+ "source_sha256": "51c0a3ce18a7559c554fade82eb3689936af40c65e19a1cf4117d0256b7a6e27",
+ "in_force": "1932-06-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/160",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/160/text/O/M19320160.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/160/text/I/M19320160.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/160",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 129,
+  "pos": 160,
+  "address": "WMP19321290160",
+  "displayAddress": "M.P. 1932 nr 129 poz. 160",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. ros. osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-06-08",
+  "promulgation": "1932-06-08",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320160.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320160.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
