@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/221",
+ "source_sha256": "c2aa225523719c7d16d2e447acbf554e361c9cb7b903d6d6e5be10804d5e693a",
+ "in_force": "1945-09-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/221/text/O/D19450221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/221/text/I/D19450221.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1945/221/text/T/D19450221L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/221",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 39,
+  "pos": 221,
+  "address": "WDU19450390221",
+  "displayAddress": "Dz.U. 1945 nr 39 poz. 221",
+  "title": "Dekret z dnia 22 września 1945 r. o przedłużeniu niektórych terminów przewidzianych dekretem o amnestii.",
+  "type": "Dekret",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1945-09-22",
+  "entryIntoForce": "1945-09-22",
+  "validFrom": "1945-09-22",
+  "changeDate": "2021-04-08T14:24:04",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "więziennictwo",
+   "amnestia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/172",
+     "date": "1945-09-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450221.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19450221L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
