@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/92",
+ "source_sha256": "af632fc77102402ecae33db3af91705da67a4fbc8ea8b370779b8f0fb888c92a",
+ "in_force": "1958-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/92",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/92/text/O/M19580092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/92/text/I/M19580092.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/92",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 14,
+  "pos": 92,
+  "address": "WMP19580140092",
+  "displayAddress": "M.P. 1958 nr 14 poz. 92",
+  "title": "Okólnik Ministrów Rolnictwa oraz Budownictwa i Przemysłu Materiałów Budowlanych z dnia 24 lutego 1958 r. w sprawie nadzoru zwierzchniego nad wojewódzkimi biurami projektów budownictwa wiejskiego podległymi radom narodowym.",
+  "type": "Okólnik",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-02-24",
+  "entryIntoForce": "1958-03-10",
+  "validFrom": "1958-03-10",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. BUDOWNICTWA I PRZEMYSŁU MATERIAŁÓW BUDOWLANYCH",
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/420"
+    },
+    {
+     "id": "DU/1957/253"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/420",
+     "art": "par. 3"
+    },
+    {
+     "id": "DU/1957/253",
+     "art": "par. 1 sut. 1 lit. b)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
