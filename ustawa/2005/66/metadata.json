@@ -1,0 +1,111 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/66",
+ "source_sha256": "8731448c89d683a032ed840c1aa98e943e72ef06f8ce4d84a933dcafa4ad7c50",
+ "in_force": "2005-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/66",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/66/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/66/text/O/D20050066.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/66/text/I/D20050066.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/66/text/T/D20050066L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/66/text/U/D20050066Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/66",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 10,
+  "pos": 66,
+  "address": "WDU20050100066",
+  "displayAddress": "Dz.U. 2005 nr 10 poz. 66",
+  "title": "Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy o rachunkowości",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-12-16",
+  "promulgation": "2005-01-17",
+  "entryIntoForce": "2005-02-01",
+  "validFrom": "2005-02-01",
+  "changeDate": "2024-03-15T10:01:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rachunkowość",
+   "doradztwo podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3244.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3244",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3244",
+    "number": "3244",
+    "term": 4
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3276.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3276",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3276",
+    "number": "3276",
+    "term": 4
+   }
+  ],
+  "comments": "art. 1 pkt 10, art. 2 pkt 2 i 3 oraz art. 3 wchodzą w życie z dniem 18 kwietnia 2005 r.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2007/656",
+     "date": "2007-12-05"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1996/475",
+     "date": "2005-02-01"
+    },
+    {
+     "id": "DU/1994/591",
+     "date": "2005-02-01"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2007/656"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050066.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050066.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050066L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050066Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
