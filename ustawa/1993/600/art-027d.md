@@ -1,0 +1,3 @@
+# Art. 27d.
+
+Jeżeli w okresie od dnia 1 stycznia 1996 r. do dnia 31 grudnia 1996 r. osoba prawna lub jednostka organizacyjna nie mająca osobowości prawnej posiada zakłady (oddziały) sporządzające bilans i rachunek wyników, a część z tych zakładów (oddziałów) zamknie rok (okres) podatkowy stratą, to gminy, na których terenie znajdują się te zakłady, nie otrzymują udziałów. Udziały gmin będących siedzibą zakładów (oddziałów), które osiągnęły zysk, zostają zmniejszone. Wpływy podatkowe stanowiące podstawę do obliczenia tych udziałów zostają przemnożone przez współczynnik będący ilorazem podatku należnego od podatnika i sumy podatku należnego od zakładów, które osiągnęły zysk.
