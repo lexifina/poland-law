@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1983/31",
+ "source_sha256": "02b75b23226f3893326017496967b0eefc47d5954730ac104846c2cb59cc1052",
+ "in_force": "1983-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1983/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1983/31/text/O/D19830031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1983/31/text/I/D19830031.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1983/31",
+  "publisher": "DU",
+  "year": 1983,
+  "volume": 4,
+  "pos": 31,
+  "address": "WDU19830040031",
+  "displayAddress": "Dz.U. 1983 nr 4 poz. 31",
+  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 10 stycznia 1983 r. w sprawie oceny pracy nauczycieli przedmiotów artystycznych w szkołach artystycznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1983-01-10",
+  "promulgation": "1983-02-01",
+  "entryIntoForce": "1983-02-01",
+  "validFrom": "1983-02-01",
+  "repealDate": "1995-11-23",
+  "changeDate": "2014-12-31T12:25:33",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "szkolnictwo artystyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1995/637",
+     "date": "1995-11-23"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/19",
+     "art": "art. 6 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19830031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19830031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
