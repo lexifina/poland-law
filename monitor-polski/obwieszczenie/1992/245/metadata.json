@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1992/245",
+ "source_sha256": "425bea25a5383704995aa414622f80fed7f4a67f4f57ff9f5f969d145ed245a1",
+ "in_force": "1992-10-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1992/245",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1992/245/text/O/M19920245.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1992/245/text/I/M19920245.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1992/245",
+  "publisher": "MP",
+  "year": 1992,
+  "volume": 34,
+  "pos": 245,
+  "address": "WMP19920340245",
+  "displayAddress": "M.P. 1992 M nr 34 poz. 245",
+  "title": "Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 20 października 1992 r. o utracie mocy obowiązującej uchwały Sejmu Rzeczypospolitej Polskiej z dnia 28 maja 1992 r.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-10-20",
+  "entryIntoForce": "1992-10-20",
+  "validFrom": "1992-10-20",
+  "repealDate": "1992-10-20",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "PREZ. TRYBUNAŁU KONSTYTUCYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1992/116",
+     "date": "1992-10-20"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1992/245",
+     "date": "1992-10-20"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "MP/1992/116"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/98"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/98",
+     "art": "art. 10 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1992/245",
+     "date": "1992-10-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19920245.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19920245.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
