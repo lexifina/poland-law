@@ -1,0 +1,56 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/834",
+ "source_sha256": "a4fe119141907f4603fc6f12c5a21dbec6fca64ed4727e00340e1d9ad9bf3778",
+ "in_force": "1922-10-02",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/834",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/834/text/O/D19220834.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/834/text/I/D19220834.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/834",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 90,
+  "pos": 834,
+  "address": "WDU19220900834",
+  "displayAddress": "Dz.U. 1922 nr 90 poz. 834",
+  "title": "Rozporządzenie Rady Ministrów z dnia 2 października 1922 r. w przedmiocie właściwości sądu dla uznania zaginionego za zmarłego.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-10-02",
+  "changeDate": "2020-09-23T13:40:22",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/511"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220834.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220834.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
