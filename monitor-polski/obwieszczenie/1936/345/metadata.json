@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/345",
+ "source_sha256": "e5ec69b2627d7a843d2071f3d6acfb2e4320d710b9fc1feb2a650dc66254b83e",
+ "in_force": "1936-08-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/345",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/345/text/O/M19360345.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/345/text/I/M19360345.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/345",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 184,
+  "pos": 345,
+  "address": "WMP19361840345",
+  "displayAddress": "M.P. 1936 nr 184 poz. 345",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Katowicach z dnia 31 lipca 1936 r. w sprawie zgłaszania list kandydatów na ławników i zastępców ławników sądów pracy oraz sądu okręgowego, znajdujących się w górnośląskiej części okręgu Sądu Apelacyjnego w Katowicach",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-07-31",
+  "promulgation": "1936-08-10",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "PREZ. SĄDU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy pracy i ubezpieczeń społecznych",
+   "ławnicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1934/854"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/391"
+    },
+    {
+     "id": "DU/1935/36"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/391",
+     "art": "par. 6"
+    },
+    {
+     "id": "DU/1935/36",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360345.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360345.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
