@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) prostuje się następujący błąd:
+
+W rozporządzeniu Ministra Finansów z dnia 25 listopada 1993 r. w sprawie skali podatku dochodowego od osób fizycznych oraz wysokości kwoty dochodu podlegającego opodatkowaniu zryczałtowanemu (Dz. U. Nr 114, poz. 507) w § 1 w tabeli po wyrazach „20% podstawy obliczenia minus kwota” zamiast wyrazów „1.200.000 zł” powinny być wyrazy „1.212.000 zł”.
