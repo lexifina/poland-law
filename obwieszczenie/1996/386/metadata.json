@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1996/386",
+ "source_sha256": "a37543d15a6e6e1de2630196c2f477d2e59817b75b531a166e43a4c379109972",
+ "in_force": "1996-05-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1996/386",
+  "html": "https://eli.gov.pl/api/acts/DU/1996/386/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1996/386/text/O/D19960386.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1996/386/text/I/D19960386.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1996/386/text/T/D19960386L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1996/386",
+  "publisher": "DU",
+  "year": 1996,
+  "volume": 84,
+  "pos": 386,
+  "address": "WDU19960840386",
+  "displayAddress": "Dz.U. 1996 nr 84 poz. 386",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 14 maja 1996 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum gminnym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1996-05-14",
+  "repealDate": "2000-11-04",
+  "changeDate": "2024-03-15T11:32:49",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/985",
+     "date": "2000-11-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/601"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/601",
+     "art": "art. 14 pkt 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/473"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19960386.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19960386.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19960386L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
