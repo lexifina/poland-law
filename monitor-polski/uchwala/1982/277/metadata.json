@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/277",
+ "source_sha256": "060d279fda8422cfd8e4e0485a7e7594192f1266c01069177fb255321fab58a3",
+ "in_force": "1983-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/277",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/277/text/O/M19820277.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/277/text/I/M19820277.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/277",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 32,
+  "pos": 277,
+  "address": "WMP19820320277",
+  "displayAddress": "M.P. 1982 nr 32 poz. 277",
+  "title": "Uchwała nr 258 Rady Ministrów z dnia 8 grudnia 1982 r. w sprawie wzorcowego statusu mistrza w państwowym zakładzie pracy.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-12-08",
+  "entryIntoForce": "1983-01-01",
+  "validFrom": "1983-01-01",
+  "repealDate": "1991-10-15",
+  "changeDate": "2022-11-24T12:21:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OŚWIATY I WYCHOWANIA",
+   "MIN. PRACY, PŁAC I SPRAW SOCJALNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "przedsiębiorstwa państwowe",
+   "tytuły kwalifikacyjne",
+   "szkolenie pracowników",
+   "status"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1991/241",
+     "date": "1991-10-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1976/34",
+     "date": "1983-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1983/251",
+     "date": "1983-12-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820277.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820277.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
