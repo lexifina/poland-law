@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/9",
+ "source_sha256": "98055e69b3a7bae5a941eb6322b002c949ec3124760373a9994209ca431062e3",
+ "in_force": "2005-01-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/9",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/9/text/O/M20050009.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/9/text/I/M20050009.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/9",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 2,
+  "pos": 9,
+  "address": "WMP20050020009",
+  "displayAddress": "M.P. 2005 nr 2 poz. 9",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 5 stycznia 2005 r. w sprawie wyboru Marszałka Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-01-05",
+  "promulgation": "2005-01-10",
+  "entryIntoForce": "2005-01-05",
+  "validFrom": "2005-01-05",
+  "changeDate": "2019-07-08T11:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Marszałek Sejmu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050009.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050009.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
