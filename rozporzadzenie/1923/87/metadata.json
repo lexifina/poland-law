@@ -1,0 +1,62 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/87",
+ "source_sha256": "d4b3d28fac016637738fd93d9369951cf7733a831c74a38dc25a22fb98e736dd",
+ "in_force": "1923-01-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/87",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/87/text/O/D19230087.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/87/text/I/D19230087.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/87",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 13,
+  "pos": 87,
+  "address": "WDU19230130087",
+  "displayAddress": "Dz.U. 1923 nr 13 poz. 87",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 24 stycznia 1923 r. w przedmiocie blankietów wekslowych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-01-24",
+  "changeDate": "2020-09-23T13:40:22",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1923/863",
+     "date": "1923-10-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/313"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230087.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230087.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
