@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/113",
+ "source_sha256": "f15f7b030e35d1b481ea59a8cdbc91f0ba344466a4717ee3640ad5481f0c5159",
+ "in_force": "1930-03-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/113",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/113/text/O/M19300113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/113/text/I/M19300113.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/113",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 73,
+  "pos": 113,
+  "address": "WMP19300730113",
+  "displayAddress": "M.P. 1930 nr 73 poz. 113",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw byłych rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-02-07",
+  "promulgation": "1930-03-28",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 11 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
