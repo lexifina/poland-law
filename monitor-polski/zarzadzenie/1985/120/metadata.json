@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1985/120",
+ "source_sha256": "d256323ad36c572267e14360f7c0e543244abe99fdac9bfa70412aa46b7cf185",
+ "in_force": "1985-06-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1985/120",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1985/120/text/O/M19850120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1985/120/text/I/M19850120.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1985/120",
+  "publisher": "MP",
+  "year": 1985,
+  "volume": 15,
+  "pos": 120,
+  "address": "WMP19850150120",
+  "displayAddress": "M.P. 1985 nr 15 poz. 120",
+  "title": "Zarządzenie Ministra Finansów z dnia 28 maja 1985 r. w sprawie zasad i trybu udzielania dotacji przedmiotowych.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1985-05-28",
+  "entryIntoForce": "1985-06-26",
+  "validFrom": "1985-01-01",
+  "repealDate": "1991-05-24",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "budżet",
+   "spółdzielczość",
+   "ceny i stawki taryfowe",
+   "dotacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1987/102",
+     "date": "1987-03-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/283"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/283",
+     "art": "art. 51 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1991/191",
+     "date": "1991-05-24"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19850120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19850120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
