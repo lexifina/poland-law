@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/1008",
+ "source_sha256": "4c42f358fae4c39ba4ae8ebcef864fe4b3caca0912fcd63607b64305e867beca",
+ "in_force": "1923-12-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/1008",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/1008/text/O/D19231008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/1008/text/I/D19231008.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/1008",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 124,
+  "pos": 1008,
+  "address": "WDU19231241008",
+  "displayAddress": "Dz.U. 1923 nr 124 poz. 1008",
+  "title": "Rozporządzenie Ministra Sprawiedliwości w porozumienia z Ministrami Skarbu oraz Przemysłu i Handlu z dnia 12 listopada 1923 r. o opłatach w postępowaniu rejestrowem na obszarze Sądów Apelacyjnych: lubelskiego, warszawskiego i wileńskiego.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-11-12",
+  "entryIntoForce": "1923-12-16",
+  "validFrom": "1923-12-16",
+  "changeDate": "2020-09-23T10:51:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1921/139",
+     "date": "1923-12-16"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1924/209",
+     "date": "1924-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/668"
+    },
+    {
+     "id": "DU/1922/170"
+    },
+    {
+     "id": "DU/1919/164"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19231008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19231008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
