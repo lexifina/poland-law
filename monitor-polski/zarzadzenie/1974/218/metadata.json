@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1974/218",
+ "source_sha256": "5de8eeb5c224ddd36746db1bcfb580cf9888ba607f3392e52f8a36efec504ee9",
+ "in_force": "1974-11-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1974/218",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1974/218/text/O/M19740218.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1974/218/text/I/M19740218.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1974/218",
+  "publisher": "MP",
+  "year": 1974,
+  "volume": 38,
+  "pos": 218,
+  "address": "WMP19740380218",
+  "displayAddress": "M.P. 1974 nr 38 poz. 218",
+  "title": "Zarządzenie Ministrów Rolnictwa i Finansów z dnia 30 października 1974 r. w sprawie zasad i warunków pomocy Państwa dla zespołowej gospodarki w rolnictwie.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1974-10-30",
+  "entryIntoForce": "1974-11-22",
+  "validFrom": "1974-09-01",
+  "repealDate": "1976-04-05",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. FINANSÓW",
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/66",
+     "date": "1976-04-05"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1974/185"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1974/185"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1974/185",
+     "art": "par. 4 ust. 2"
+    },
+    {
+     "id": "MP/1974/185",
+     "art": "par. 8 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19740218.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19740218.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
