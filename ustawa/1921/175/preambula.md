@@ -1,0 +1,1 @@
+W ustawie z dnia 13 lipca 1920 r. o uposażeniu nauczycieli i dyrektorów państwowych szkół średnich ogólnokształcących, seminarjów nauczycielskich i preparand, oraz wizytatorów szkół (Dz. Ust. № 65 poz. 433) wprowadza się zmiany, niniejszą ustawą określone.
