@@ -1,0 +1,123 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/603",
+ "source_sha256": "d3e5dc40490995a123448ad6266357a986696b3b9e91035935139634f4c2a550",
+ "in_force": "1998-07-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/603",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/603/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/603/text/O/D19980603.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/603/text/I/D19980603.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1998/603/text/U/D19980603Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/603",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 96,
+  "pos": 603,
+  "address": "WDU19980960603",
+  "displayAddress": "Dz.U. 1998 nr 96 poz. 603",
+  "title": "Ustawa z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-07-24",
+  "promulgation": "1998-07-28",
+  "entryIntoForce": "1998-07-28",
+  "changeDate": "2024-03-15T11:30:22",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "administracyjny podział kraju",
+   "gminy",
+   "powiaty",
+   "województwa",
+   "siedziba"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/513.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/513",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/513",
+    "number": "513",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/2017/853"
+    },
+    {
+     "id": "MP/2010/654"
+    },
+    {
+     "id": "MP/2001/325"
+    },
+    {
+     "id": "DU/2002/823"
+    },
+    {
+     "id": "DU/2001/630"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2001/497",
+     "date": "2001-05-30"
+    },
+    {
+     "id": "DU/1999/1182",
+     "date": "2000-09-30"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/1999/1182"
+    }
+   ],
+   "Przepisy wprowadzające": [
+    {
+     "id": "DU/1998/872"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1998/656"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980603.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980603.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980603Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
