@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/420",
+ "source_sha256": "a5f49969c15fe69d658fe1cd9cb1eee567c35d7db0de88b4c38f6772ceaa5348",
+ "in_force": "1999-08-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/420",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/420/text/O/M19990420.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/420/text/I/M19990420.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/420",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 27,
+  "pos": 420,
+  "address": "WMP19990270420",
+  "displayAddress": "M.P. 1999 nr 27 poz. 420",
+  "title": "Obwieszczenie Ministra Edukacji Narodowej z dnia 18 sierpnia 1999 r. w sprawie wykazów podręczników szkolnych i książek pomocniczych dopuszczonych lub zalecanych do użytku szkolnego.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-18",
+  "repealDate": "2000-07-15",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 22 ust. 2 pkt 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2000/395",
+     "date": "2000-07-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990420.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990420.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
