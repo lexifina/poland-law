@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/42",
+ "source_sha256": "aa23de42042f35fdb5124e3d94c268435e66794d1a57f1d352241cdc12eeb1f0",
+ "in_force": "1969-02-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/42",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/42/text/O/M19690042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/42/text/I/M19690042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/42",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 4,
+  "pos": 42,
+  "address": "WMP19690040042",
+  "displayAddress": "M.P. 1969 nr 4 poz. 42",
+  "title": "Zarządzenie Ministrów Spraw Wewnętrznych i Obrony Narodowej z dnia 27 stycznia 1969 r. w sprawie przeprowadzenia poboru w okresie wiosennym 1969 r.",
+  "type": "Zarządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1969-01-27",
+  "entryIntoForce": "1969-02-05",
+  "validFrom": "1969-02-05",
+  "changeDate": "2023-07-03T14:26:37",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ",
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "powszechny obowiązek obrony",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1968/67",
+     "date": "1969-02-05"
+    },
+    {
+     "id": "MP/1968/263",
+     "date": "1969-02-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
