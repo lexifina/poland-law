@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/715",
+ "source_sha256": "d59014e52bea66d5311722defd1a191424061c9942123ad015f6ceb527bb8b5e",
+ "in_force": "1934-08-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/715",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/715/text/O/D19340715.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/715/text/I/D19340715.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/715",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 76,
+  "pos": 715,
+  "address": "WDU19340760715",
+  "displayAddress": "Dz.U. 1934 nr 76 poz. 715",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 9 sierpnia 1934 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku dochodowym.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-08-09",
+  "promulgation": "1934-08-31",
+  "changeDate": "2022-01-28T14:18:27",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa",
+   "podatek dochodowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1946/14",
+     "date": "1946-01-01"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/1936/6"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/346"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/346",
+     "art": "art. 211 par. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/411"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340715.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340715.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
