@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/23",
+ "source_sha256": "ce41ad52e8342373677546a0c2475ae6df4acea90b6d6e5e9936807938e75134",
+ "in_force": "1931-01-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/23",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/23/text/O/D19310023.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/23/text/I/D19310023.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/23",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 4,
+  "pos": 23,
+  "address": "WDU19310040023",
+  "displayAddress": "Dz.U. 1931 nr 4 poz. 23",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 9 stycznia 1931 r. wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa w sprawie wyznaczenia ostatecznych kontyngentów cukru na czas od 1 października 1930 r. do 30 września 1931 r.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-01-09",
+  "promulgation": "1931-01-17",
+  "entryIntoForce": "1931-01-17",
+  "validFrom": "1931-01-17",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cukrownictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1931/137",
+     "date": "1931-03-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/630"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/630",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1925/630",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310023.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310023.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
