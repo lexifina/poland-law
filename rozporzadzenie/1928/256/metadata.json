@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/256",
+ "source_sha256": "976d48c5fac243b45af573d47f2f27f7b4161b6b5d68a1b2784ba3bfcc1c468e",
+ "in_force": "1928-03-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/256",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/256/text/O/D19280256.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/256/text/I/D19280256.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/256",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 27,
+  "pos": 256,
+  "address": "WDU19280270256",
+  "displayAddress": "Dz.U. 1928 nr 27 poz. 256",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 marca 1928 r. w sprawie aresztu domowego.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-03-10",
+  "entryIntoForce": "1928-03-12",
+  "validFrom": "1928-03-12",
+  "changeDate": "2020-09-23T10:51:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/228"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/228",
+     "art": "art. 10"
+    },
+    {
+     "id": "DU/1928/228",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280256.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280256.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
