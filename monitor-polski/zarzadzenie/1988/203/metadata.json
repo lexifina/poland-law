@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/203",
+ "source_sha256": "10970ce9c77f1ec226369b1e8c9543352661b2c4f320b398baa08a308b7c7623",
+ "in_force": "1988-08-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/203",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/203/text/O/M19880203.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/203/text/I/M19880203.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/203",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 22,
+  "pos": 203,
+  "address": "WMP19880220203",
+  "displayAddress": "M.P. 1988 nr 22 poz. 203",
+  "title": "Zarządzenie Ministra Finansów z dnia 14 lipca 1988 r. w sprawie norm zużycia budynków podlegających ubezpieczeniu ustawowemu.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-07-14",
+  "entryIntoForce": "1988-08-22",
+  "validFrom": "1988-08-22",
+  "repealDate": "1990-01-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia majątkowe i osobowe",
+   "budownictwo mieszkaniowe",
+   "budownictwo wiejskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1985/184",
+     "date": "1988-08-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/38"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/38",
+     "art": "par. 15 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1989/412",
+     "date": "1990-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880203.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880203.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
