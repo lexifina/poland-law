@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/29",
+ "source_sha256": "7f45e64ef49ec1e227340740e09e2da71e1e21307ebf11cbf8fcb093e9e78133",
+ "in_force": "1934-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/29",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/29/text/O/M19340029.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/29/text/I/M19340029.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/29",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 20,
+  "pos": 29,
+  "address": "WMP19340200029",
+  "displayAddress": "M.P. 1934 nr 20 poz. 29",
+  "title": "Rozporządzenie Ministra Komunikacji z dnia 11 grudnia 1933 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych w sprawie zmiany rozporządzenia z dnia 3 stycznia 1933 r. o organizacji zarządu dróg wodnych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-12-11",
+  "promulgation": "1934-01-25",
+  "entryIntoForce": "1934-01-25",
+  "validFrom": "1934-01-25",
+  "changeDate": "2020-09-23T13:38:30",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo wodne",
+   "żegluga śródlądowa",
+   "wodne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1933/103",
+     "date": "1934-01-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/356"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1919/356",
+     "art": "art. 10"
+    },
+    {
+     "id": "DU/1919/356",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340029.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340029.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
