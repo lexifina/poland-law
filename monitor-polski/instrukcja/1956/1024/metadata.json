@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1956/1024",
+ "source_sha256": "23651b42641e6ad659072ace005c02834949dfd855bcb006826313f21cb4fc3a",
+ "in_force": "1956-11-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1956/1024",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1956/1024/text/O/M19561024.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1956/1024/text/I/M19561024.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1956/1024",
+  "publisher": "MP",
+  "year": 1956,
+  "volume": 90,
+  "pos": 1024,
+  "address": "WMP19560901024",
+  "displayAddress": "M.P. 1956 nr 90 poz. 1024",
+  "title": "Instrukcja Ministra Transportu Drogowego i Lotniczego z dnia 23 października 1956 r. w sprawie sezonowej technicznej obsługi i eksploatacji pojazdów samochodowych.",
+  "type": "Instrukcja",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-10-23",
+  "entryIntoForce": "1956-11-06",
+  "validFrom": "1956-11-06",
+  "repealDate": "1964-01-17",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. TRANSPORTU DROGOWEGO I LOTNICZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1964/28",
+     "date": "1964-01-17"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1951/365",
+     "date": "1956-11-06"
+    },
+    {
+     "id": "MP/1951/1218",
+     "date": "1956-11-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1955/225"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1955/225",
+     "art": "par. 3 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19561024.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19561024.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
