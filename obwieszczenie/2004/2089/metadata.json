@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2089",
+ "source_sha256": "e4d8b58a1136463d321e8e9b707a873b5ec69ae1aebe56bc9664428525874813",
+ "in_force": "2004-09-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1464 words, parsed 208; at 208: 'powołano 23 629 wyborców . I . Wyniki głosowania i'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2089",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/2089/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2089/text/O/D20042089.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2089/text/I/D20042089.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2089",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 204,
+  "pos": 2089,
+  "address": "WDU20042042089",
+  "displayAddress": "Dz.U. 2004 nr 204 poz. 2089",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 13 września 2004 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 12 września 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-13",
+  "promulgation": "2004-09-17",
+  "changeDate": "2025-03-21T10:39:08",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20042089.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042089.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
