@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1973/258",
+ "source_sha256": "07ba7738e5e92566519ccc790e1a7a52546b646d9416c09d569af64935b3bdda",
+ "in_force": "1973-10-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1973/258",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1973/258/text/O/M19730258.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1973/258/text/I/M19730258.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1973/258",
+  "publisher": "MP",
+  "year": 1973,
+  "volume": 43,
+  "pos": 258,
+  "address": "WMP19730430258",
+  "displayAddress": "M.P. 1973 nr 43 poz. 258",
+  "title": "Zarządzenie Ministra Górnictwa i Energetyki z dnia 24 września 1973 r. zmieniające zarządzenie w sprawie eksploatacji elektrycznych spawarek i zgrzewarek.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-09-24",
+  "entryIntoForce": "1973-10-07",
+  "validFrom": "1973-10-07",
+  "repealDate": "1987-03-26",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. GÓRNICTWA I ENERGETYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "eksploatacja",
+   "energetyka",
+   "urządzenia energetyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1987/70",
+     "date": "1987-03-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1970/218",
+     "date": "1973-10-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/150"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/150",
+     "art": "art. 4 ust. 2 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19730258.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19730258.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
