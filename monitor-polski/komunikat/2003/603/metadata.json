@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/603",
+ "source_sha256": "9f7fcba4f897892ad38b43f6c22fa4a87874747faafbb9d38b499a4766b16dee",
+ "in_force": "2003-08-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/603",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/603/text/O/M20030603.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/603/text/I/M20030603.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/603",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 41,
+  "pos": 603,
+  "address": "WMP20030410603",
+  "displayAddress": "M.P. 2003 nr 41 poz. 603",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 sierpnia 2003 r. w sprawie przeciętnego wynagrodzenia w drugim kwartale 2003 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-08-11",
+  "promulgation": "2003-08-25",
+  "changeDate": "2020-11-13T11:47:32",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030603.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030603.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
