@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/2",
+ "source_sha256": "6d09036e5e31bd8506877a1050729cdcc3fcb2911c63855e9e809c451f6bc827",
+ "in_force": "1957-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/2/text/O/D19570002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/2/text/I/D19570002.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/2",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19570010002",
+  "displayAddress": "Dz.U. 1957 nr 1 poz. 2",
+  "title": "Dekret z dnia 31 grudnia 1956 r. o zmianie niektórych przepisów Kodeksu Karnego Wojska Polskiego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-12-31",
+  "entryIntoForce": "1957-01-12",
+  "validFrom": "1957-01-12",
+  "repealDate": "1970-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1969/95",
+     "date": "1970-01-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1957/108"
+    },
+    {
+     "id": "DU/1957/107"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1944/27",
+     "date": "1957-01-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
