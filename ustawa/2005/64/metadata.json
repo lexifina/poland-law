@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/64",
+ "source_sha256": "26bb2b60bd06329555fb51f0898d3a859a25b370f0ecc036b7f1fb7c6e62bb95",
+ "in_force": "2005-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/64",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/64/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/64/text/O/D20050064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/64/text/I/D20050064.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/64/text/T/D20050064L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/64",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 10,
+  "pos": 64,
+  "address": "WDU20050100064",
+  "displayAddress": "Dz.U. 2005 nr 10 poz. 64",
+  "title": "Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz o zmianie innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-11-18",
+  "promulgation": "2005-01-17",
+  "entryIntoForce": "2005-02-01",
+  "validFrom": "2005-02-01",
+  "changeDate": "2024-03-15T10:01:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pasze",
+   "owoce i warzywa",
+   "rolnictwo"
+  ],
+  "keywordsNames": [
+   "Unia Europejska",
+   "Agencja Restrukturyzacji i Modernizacji Rolnictwa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3378.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3378",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3378",
+    "number": "3378",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2008/634",
+     "date": "2008-06-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/572",
+     "date": "2005-02-01"
+    },
+    {
+     "id": "DU/2003/2273",
+     "date": "2005-02-01"
+    },
+    {
+     "id": "DU/2003/2221",
+     "date": "2005-02-01"
+    },
+    {
+     "id": "DU/1994/2",
+     "date": "2005-02-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050064.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050064L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
