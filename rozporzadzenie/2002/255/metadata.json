@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/255",
+ "source_sha256": "b1e16ba74ee12556311a41a0d7e95d5fb53f28b9c23ed30c2125378068ea3df3",
+ "in_force": "2002-04-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/255",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/255/text/O/D20020255.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/255/text/I/D20020255.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/255",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 25,
+  "pos": 255,
+  "address": "WDU20020250255",
+  "displayAddress": "Dz.U. 2002 nr 25 poz. 255",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 14 marca 2002 r. zmieniające rozporządzenie w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania do odbycia tej służby w 2002 r.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-03-14",
+  "promulgation": "2002-03-20",
+  "entryIntoForce": "2002-04-04",
+  "validFrom": "2002-04-04",
+  "changeDate": "2022-03-28T11:49:14",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ewidencja",
+   "powszechny obowiązek obrony"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1356",
+     "date": "2002-04-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 73"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 82 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20020255.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020255.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
