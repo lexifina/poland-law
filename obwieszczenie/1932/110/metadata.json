@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/110",
+ "source_sha256": "f726fb31a81c0cb37d283c62f3c35c648bc80b759c969c1a614fd6f59bdfb269",
+ "in_force": "1932-03-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/110",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/110/text/O/D19320110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/110/text/I/D19320110.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/110",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 17,
+  "pos": 110,
+  "address": "WDU19320170110",
+  "displayAddress": "Dz.U. 1932 nr 17 poz. 110",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 27 stycznia 1932 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku przemysłowym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-27",
+  "promulgation": "1932-03-08",
+  "repealDate": "1939-01-01",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1938/292",
+     "date": "1939-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1931/881"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1931/881",
+     "art": "art. 36"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/550"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320110.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
