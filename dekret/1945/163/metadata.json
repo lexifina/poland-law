@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/163",
+ "source_sha256": "fa64db73efbcd2956cd07a77bfe1163d4c514626a299d3279352a43a48865316",
+ "in_force": "1945-08-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/163",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/163/text/O/D19450163.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/163/text/I/D19450163.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/163",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 27,
+  "pos": 163,
+  "address": "WDU19450270163",
+  "displayAddress": "Dz.U. 1945 nr 27 poz. 163",
+  "title": "Dekret z dnia 7 lipca 1945 r. o zawieszeniu biegu przedawnienia i przedłużeniu terminów prawa wekslowego i czekowego.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-07-07",
+  "entryIntoForce": "1945-08-18",
+  "validFrom": "1945-08-18",
+  "repealDate": "1945-12-31",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wekslowe prawo",
+   "czekowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/163",
+     "date": "1945-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/283"
+    },
+    {
+     "id": "DU/1936/282"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/163",
+     "date": "1945-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450163.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450163.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
