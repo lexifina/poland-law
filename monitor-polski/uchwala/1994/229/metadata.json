@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1994/229",
+ "source_sha256": "0227609b443dc619563a18f621d5b64bec20e7970afd2126bc48e158b90a43d3",
+ "in_force": "1994-05-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1994/229",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1994/229/text/O/M19940229.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1994/229/text/I/M19940229.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1994/229",
+  "publisher": "MP",
+  "year": 1994,
+  "volume": 28,
+  "pos": 229,
+  "address": "WMP19940280229",
+  "displayAddress": "M.P. 1994 nr 28 poz. 229",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 9 maja 1994 r. w sprawie ustalenia wzoru kart do głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 19 czerwca 1994 r.",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1994-05-09",
+  "entryIntoForce": "1994-05-09",
+  "validFrom": "1994-05-09",
+  "changeDate": "2022-04-06T15:17:52",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1995/494",
+     "date": "1995-08-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/205"
+    },
+    {
+     "id": "DU/1991/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/205",
+     "art": "art. 97 ust. 4"
+    },
+    {
+     "id": "DU/1991/246",
+     "art": "art. 1 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19940229.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19940229.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
