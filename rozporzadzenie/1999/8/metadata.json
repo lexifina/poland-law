@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/8",
+ "source_sha256": "83843164683dfcf2ab0fc6f80d1c1c87e2b779b7a8fb38dc44881fd98d9064b9",
+ "in_force": "1999-01-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/8",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/8/text/O/D19990008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/8/text/I/D19990008.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/8/text/T/D19990008L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/8",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 2,
+  "pos": 8,
+  "address": "WDU19990020008",
+  "displayAddress": "Dz.U. 1999 nr 2 poz. 8",
+  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 24 listopada 1998 r. w sprawie ramowych planów nauczania w publicznych szkołach i placówkach artystycznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-11-24",
+  "entryIntoForce": "1999-01-29",
+  "validFrom": "1999-01-29",
+  "repealDate": "2000-07-19",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "oświata i wychowanie",
+   "szkolnictwo artystyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/625",
+     "date": "2000-07-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 22 ust. 2 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990008.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990008L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
