@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/649",
+ "source_sha256": "423e76c7bf4b37ec376989a930d49401751f316a369d30b28ff81dd79ffecaaa",
+ "in_force": "1938-12-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/649",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/649/text/O/D19380649.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/649/text/I/D19380649.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/649",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 96,
+  "pos": 649,
+  "address": "WDU19380960649",
+  "displayAddress": "Dz.U. 1938 nr 96 poz. 649",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 3 grudnia 1938 r. o sprostowaniu błędu w tekście dekretu Prezydenta Rzeczypospolitej z dnia 21 listopada 1938 r. o usprawnieniu postępowania sądowego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-12-03",
+  "promulgation": "1938-12-12",
+  "changeDate": "2020-11-03T15:55:21",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "cywilne postępowanie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 1"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1938/609"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380649.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380649.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
