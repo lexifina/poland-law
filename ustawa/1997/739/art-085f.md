@@ -1,0 +1,5 @@
+# Art. 85f.
+
+1. Udzielenie świadczeń, o których mowa w art. 40 ust. 1, zapewnia Prezes. Odmowa udzielenia świadczeń następuje w drodze decyzji.
+
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość, warunki przyznawania i wstrzymywania oraz sposób korzystania przez cudzoziemców ubiegających się o nadanie statusu uchodźcy ze świadczeń, o których mowa w art. 40 ust. 1, a w szczególności warunki, w jakich cudzoziemcy ubiegający się o nadanie statusu uchodźcy mogą korzystać z tych świadczeń przebywając poza ośrodkiem dla cudzoziemców ubiegających się o nadanie statusu uchodźcy, stawki żywieniowe w ośrodku dla cudzoziemców ubiegających się o nadanie statusu uchodźcy, okoliczności wypłaty ekwiwalentu za wyżywienie, zakres i tryb świadczenia opieki medycznej nad nimi, rodzaje pomocy pieniężnej, zakres i warunki realizacji pomocy cudzoziemcom w związku z ich dobrowolnym wyjazdem z terytorium Rzeczypospolitej Polskiej. Rozporządzenie powinno uwzględniać konieczność zaspokojenia niezbędnych potrzeb życiowych cudzoziemców ubiegających się o nadanie statusu uchodźcy.

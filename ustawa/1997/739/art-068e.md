@@ -1,0 +1,3 @@
+# Art. 68e.
+
+Minister właściwy do spraw wewnętrznych może, w wypadku uzasadnionym istotnym wzrostem liczby wniosków o nadanie statusu uchodźcy, o których mowa w art. 37 ust. 1, lub w wypadku uzasadnionym istotnym wzrostem liczby wniosków o nadanie statusu uchodźcy składanych przez cudzoziemców zamieszkałych na określonych, odległych od siedziby Urzędu obszarach terytorium Rzeczypospolitej Polskiej, w drodze rozporządzenia, tworzyć i rozwiązywać delegatury Urzędu, określając ich właściwość terytorialną oraz zakres działania, w tym uprawnienia kierownika delegatury do wydawania, z upoważnienia Prezesa, decyzji administracyjnych.

@@ -1,0 +1,5 @@
+# Art. 68d.
+
+1. Prezes, w porozumieniu z Komendantem Głównym Straży Granicznej, może zezwolić, na wniosek konsula, komendanta granicznej placówki kontrolnej Straży Granicznej lub z urzędu na wjazd lub pobyt na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, który nie spełnia warunków dotyczących wjazdu lub pobytu określonych w ustawie, jeżeli wymagają tego względy humanitarne lub interes Rzeczypospolitej Polskiej. Do wydawania zezwolenia i samego zezwolenia nie stosuje się przepisów Kodeksu postępowania administracyjnego i ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368 i Nr 104, poz. 515, z 1997 r. Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz. 739 i Nr 144, poz. 971, z 1998 r. Nr 162, poz. 1126, z 1999 r. Nr 75, poz. 853, z 2000 r. Nr 2, poz. 5, Nr 48, poz. 552, Nr 60, poz. 704 i Nr 91, poz. 1008 oraz z 2001 r. Nr 49, poz. 508 i 509, Nr 98, poz. 1070 i Nr 101, poz. 1113).
+
+2. Prezes przedstawia corocznie do dnia 31 marca ministrowi właściwemu do spraw wewnętrznych informację o stosowaniu przepisu ust. 1 w roku poprzednim.

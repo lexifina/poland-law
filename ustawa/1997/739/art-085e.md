@@ -1,0 +1,3 @@
+# Art. 85e.
+
+Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, w odniesieniu do spraw, o których mowa w art. 38 ust. 1 pkt 2: zakres badań lekarskich, szczegółowe warunki i sposób wykonywania tych badań, zakres i warunki wykonywania zabiegów sanitarnych ciała i odzieży cudzoziemców ubiegających się o nadanie statusu uchodźcy, zakres i warunki wykonywania nadzoru nad badaniami lekarskimi cudzoziemców umieszczanych w ośrodku dla cudzoziemców ubiegających się o nadanie statusu uchodźcy, kierując się w szczególności potrzebą zapobiegania rozprzestrzenianiu się chorób zakaźnych.
