@@ -1,0 +1,3 @@
+Na podstawie art. 17 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. Nr 62, poz. 718, z 2001 r. Nr 46, poz. 499 i z 2002 r. Nr 74, poz. 676) prostuje się następujący błąd w Umowie między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki o ekstradycji, sporządzonej w Waszyngtonie dnia 10 lipca 1996 r. (Dz. U. z 1999 r. Nr 93, poz. 1066):
+
+- w art. 5 w ust. 2 w lit. f) po wyrazach „jak również” zamiast wyrazów „zmowa w celu popełnienia tych przestępstw” powinny być wyrazy „wszelki rodzaj związku mającego na celu popełnienie tych przestępstw”.
