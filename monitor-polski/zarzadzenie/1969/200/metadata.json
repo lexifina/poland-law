@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/200",
+ "source_sha256": "cc5906e8f21130b7cb734e314e5cfbf404da4cafc3e7abc77ddaa9957a640c97",
+ "in_force": "1969-06-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/200/text/O/M19690200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/200/text/I/M19690200.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/200",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 26,
+  "pos": 200,
+  "address": "WMP19690260200",
+  "displayAddress": "M.P. 1969 nr 26 poz. 200",
+  "title": "Zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 17 czerwca 1969 r. w sprawie typów aptek oraz zakresu ich czynności.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-06-17",
+  "entryIntoForce": "1969-06-28",
+  "validFrom": "1969-06-28",
+  "repealDate": "1991-05-27",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "apteki",
+   "koleje",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1956/254",
+     "date": "1969-06-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/2"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/2",
+     "art": "art. 3 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1991/179",
+     "date": "1991-05-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
