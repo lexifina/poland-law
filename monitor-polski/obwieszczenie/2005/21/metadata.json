@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/21",
+ "source_sha256": "9e3dc895f2e9da8d6487d41ef7ac7f29734b1d65fec5e37dd47f0ef1165afdcf",
+ "in_force": "2005-01-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/21/text/O/M20050021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/21/text/I/M20050021.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/21",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 2,
+  "pos": 21,
+  "address": "WMP20050020021",
+  "displayAddress": "M.P. 2005 nr 2 poz. 21",
+  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 17 grudnia 2004 r. o wskazaniu wystaw publicznych dających pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na nich wynalazku, wzoru użytkowego, wzoru przemysłowego lub towaru oznaczonego znakiem towarowym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-12-17",
+  "promulgation": "2005-01-10",
+  "changeDate": "2024-07-31T11:42:41",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "wzory użytkowe i zdobnicze",
+   "rejestry",
+   "targi i wystawy",
+   "wynalazczość",
+   "własność przemysłowa",
+   "znaki towarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/508"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/508",
+     "art": "art. 125 ust. 2"
+    },
+    {
+     "id": "DU/2001/508",
+     "art": "art. 15 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
