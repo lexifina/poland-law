@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/56",
+ "source_sha256": "79dfd19476d0abb0c43e4851e95bcbe32960041d29b2b4236c91ffebe4184d40",
+ "in_force": "1999-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/56",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/56/text/O/D19990056.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/56/text/I/D19990056.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/56/text/T/D19990056L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/56",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 7,
+  "pos": 56,
+  "address": "WDU19990070056",
+  "displayAddress": "Dz.U. 1999 nr 7 poz. 56",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 20 stycznia 1999 r. w sprawie nadania statutu Głównemu Inspektoratowi Inspekcji Handlowej.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-20",
+  "entryIntoForce": "1999-01-26",
+  "validFrom": "1999-01-26",
+  "repealDate": "2002-04-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Inspekcja Handlowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/39"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/39",
+     "art": "art. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/25",
+     "date": "2002-04-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990056.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990056.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990056L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
