@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1995/512",
+ "source_sha256": "a7561a2d3b2b9683df05a39d82192b76d570bcf27e446064c4d30b1e267d350a",
+ "in_force": "1995-09-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1995/512",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1995/512/text/O/D19950512.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1995/512/text/I/D19950512.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1995/512",
+  "publisher": "DU",
+  "year": 1995,
+  "volume": 103,
+  "pos": 512,
+  "address": "WDU19951030512",
+  "displayAddress": "Dz.U. 1995 nr 103 poz. 512",
+  "title": "Rozporządzenie Ministra Łączności z dnia 23 sierpnia 1995 r. w sprawie sposobu oznakowania urządzeń telekomunikacyjnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-08-23",
+  "entryIntoForce": "1995-09-22",
+  "validFrom": "1995-09-22",
+  "repealDate": "2001-01-01",
+  "changeDate": "2014-12-31T12:25:43",
+  "releasedBy": [
+   "MIN. ŁĄCZNOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja",
+   "łączność",
+   "oznakowanie",
+   "znaki towarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/1340",
+     "date": "2001-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1991/181",
+     "date": "1995-09-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/504"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/504",
+     "art": "art. 7a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19950512.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19950512.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
