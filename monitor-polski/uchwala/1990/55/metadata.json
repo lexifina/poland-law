@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/55",
+ "source_sha256": "800f7fec2c80f78301d70c291136207d9884dd9af3704c2996c49d4b0ab85c42",
+ "in_force": "1990-03-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/55",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/55/text/O/M19900055.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/55/text/I/M19900055.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/55",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 8,
+  "pos": 55,
+  "address": "WMP19900080055",
+  "displayAddress": "M.P. 1990 nr 8 poz. 55",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 1990 r. w sprawie realizacji ustawy budżetowej na rok 1990.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-02-23",
+  "entryIntoForce": "1990-03-09",
+  "validFrom": "1990-03-09",
+  "repealDate": "1991-01-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1990/55",
+     "date": "1991-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1990/165",
+     "date": "1990-06-02"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1990/55",
+     "date": "1991-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900055.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900055.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
