@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/103",
+ "source_sha256": "aabbb72bbfcad5cc7d39af12668c3fd08e51421adca80fb608195495f7086fd5",
+ "in_force": "1946-03-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/103/text/O/D19460103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/103/text/I/D19460103.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/103",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 14,
+  "pos": 103,
+  "address": "WDU19460140103",
+  "displayAddress": "Dz.U. 1946 nr 14 poz. 103",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 14 marca 1946 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-03-14",
+  "repealDate": "1947-03-27",
+  "changeDate": "2017-11-23T15:43:31",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/291"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1931/762"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/122",
+     "date": "1947-03-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
