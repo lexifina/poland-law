@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/809",
+ "source_sha256": "aa26f8439273b61153e02988ac38ad23147ae9006f91d9d724b326bdec386d4c",
+ "in_force": "2001-08-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/809",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/809/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/809/text/O/D20010809.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/809/text/I/D20010809.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/809/text/T/D20010809L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/809",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 76,
+  "pos": 809,
+  "address": "WDU20010760809",
+  "displayAddress": "Dz.U. 2001 nr 76 poz. 809",
+  "title": "Ustawa z dnia 21 czerwca 2001 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz ustawy o postępowaniu egzekucyjnym w administracji.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-06-21",
+  "promulgation": "2001-07-25",
+  "entryIntoForce": "2001-08-25",
+  "validFrom": "2001-08-25",
+  "changeDate": "2024-03-15T10:00:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "postępowanie egzekucyjne w administracji",
+   "kontrola",
+   "biegli",
+   "dokumenty"
+  ],
+  "keywordsNames": [
+   "Państwowa Inspekcja Pracy"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1293.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1293",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1293",
+    "number": "1293",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2007/589",
+     "date": "2007-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1981/23",
+     "date": "2001-08-25"
+    },
+    {
+     "id": "DU/1966/151",
+     "date": "2001-08-25"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010809.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010809.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010809L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
