@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/250",
+ "source_sha256": "3d2ef12f3ba644d7a003fc648ac55be2e695a6015821e1d85f2b927ba09f2761",
+ "in_force": "1934-08-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/250",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/250/text/O/M19340250.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/250/text/I/M19340250.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/250",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 191,
+  "pos": 250,
+  "address": "WMP19341910250",
+  "displayAddress": "M.P. 1934 nr 191 poz. 250",
+  "title": "Obwieszczenie Komisarza Generalnego Pożyczki Narodowej z dnia 8 sierpnia 1934 r. w sprawie spłaty zobowiązań obligacjami Pożyczki Narodowej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-08-08",
+  "promulgation": "1934-08-22",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1926/570"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/585"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/585",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1934/585",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340250.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340250.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
