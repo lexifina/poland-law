@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/124",
+ "source_sha256": "42bd845bba134d3fa20570a8340548a6c52aa53d235022ffc80e51ae5a5781c9",
+ "in_force": "1945-06-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/124",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/124/text/O/D19450124.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/124/text/I/D19450124.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/124",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 21,
+  "pos": 124,
+  "address": "WDU19450210124",
+  "displayAddress": "Dz.U. 1945 nr 21 poz. 124",
+  "title": "Dekret z dnia 24 maja 1945 r. o odbudowie m. st. Warszawy.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-05-24",
+  "entryIntoForce": "1945-06-11",
+  "validFrom": "1945-06-11",
+  "repealDate": "1947-08-08",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/268",
+     "date": "1947-08-08"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/39",
+     "date": "1945-06-11"
+    },
+    {
+     "id": "DU/1945/109",
+     "date": "1945-06-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450124.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450124.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
