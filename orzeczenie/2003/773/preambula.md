@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Wiesław Johann - przewodniczący,
+
+Marian Grzybowski,
+
+Andrzej Mączyński - sprawozdawca,
+
+Mirosław Wyrzykowski,
+
+Marian Zdyb,
+
+protokolant: Grażyna Szałygo,
+
+po rozpoznaniu, z udziałem Sejmu i Prokuratora Generalnego, na rozprawie w dniu 29 kwietnia 2003 r., skargi konstytucyjnej Ryszarda Janasa o zbadanie zgodności art. 673 § 3 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz. U. Nr 16, poz. 93, ze zm.), dodanego przez art. 26 pkt 4 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733), z art. 22 i art. 31 ust. 3 Konstytucji,
+
+orzeka:
+
+Art. 673 § 3 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz. U. Nr 16, poz. 93, ze zm.), dodany przez art. 26 pkt 4 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733), nie jest niezgodny z art. 22 i art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
