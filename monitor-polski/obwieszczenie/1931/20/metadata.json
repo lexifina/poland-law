@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/20",
+ "source_sha256": "d05015efd83e170e6a22fc66123c38a523bf2650f06b43773a24e3d1f7c6fd78",
+ "in_force": "1931-01-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/20",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/20/text/O/M19310020.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/20/text/I/M19310020.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/20",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 11,
+  "pos": 20,
+  "address": "WMP19310110020",
+  "displayAddress": "M.P. 1931 nr 11 poz. 20",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 20 grudnia 1930 r. o emisji serji III premjowej pożyczki dolarowej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-12-20",
+  "promulgation": "1931-01-15",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1930/438"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/66"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310020.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310020.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
