@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/208",
+ "source_sha256": "3437cf8f93815b55fc7b7d4b90b0114a72b2a416f16e518427fe045323b791ae",
+ "in_force": "2001-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 400 words, parsed 73; at 73: 'Generalnego , o zbadanie : 1 ) czy treść ustawy'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/208",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/208/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/208/text/O/D20010208.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/208/text/I/D20010208.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/208/text/T/D20010208TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/208",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 17,
+  "pos": 208,
+  "address": "WDU20010170208",
+  "displayAddress": "Dz.U. 2001 nr 17 poz. 208",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 6 marca 2001 r. sygn. akt K. 30/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-03-06",
+  "promulgation": "2001-03-16",
+  "entryIntoForce": "2001-03-16",
+  "validFrom": "2001-03-16",
+  "changeDate": "2024-03-15T10:00:04",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "klęski żywiołowe",
+   "powodzie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/491"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010208.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010208.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010208TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
