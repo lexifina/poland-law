@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/118",
+ "source_sha256": "0ed19a32ab90c7f43253047c2a21bf3a32877417443c2588542ce16398a89742",
+ "in_force": "1936-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/118",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/118/text/O/M19360118.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/118/text/I/M19360118.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/118",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 60,
+  "pos": 118,
+  "address": "WMP19360600118",
+  "displayAddress": "M.P. 1936 nr 60 poz. 118",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 28 lutego 1936 r. o zatwierdzeniu wysokości opłat na rzecz Pomorskiej Izby Rolniczej na okres czasu od dnia 1 kwietnia 1936 r. do dnia 31 marca 1937 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-02-28",
+  "promulgation": "1936-03-12",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby rolnicze",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/385"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/385",
+     "art": "art. 35"
+    },
+    {
+     "id": "DU/1928/385",
+     "art": "art. 58"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360118.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360118.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
