@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1979/49",
+ "source_sha256": "1de132fa630943ba98e21c7d95806fdf053ab49cdc4430bb90ddc9cf6ed71ff4",
+ "in_force": "1979-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1979/49",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1979/49/text/O/M19790049.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1979/49/text/I/M19790049.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1979/49",
+  "publisher": "MP",
+  "year": 1979,
+  "volume": 7,
+  "pos": 49,
+  "address": "WMP19790070049",
+  "displayAddress": "M.P. 1979 nr 7 poz. 49",
+  "title": "Uchwała nr 33 Rady Ministrów z dnia 23 lutego 1979 r. w sprawie podwyższenia cen skupu liści i nasion tytoniu.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1979-02-23",
+  "entryIntoForce": "1979-03-16",
+  "validFrom": "1979-03-16",
+  "repealDate": "1980-12-24",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "skup i kontraktacja",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/161",
+     "date": "1980-12-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1975/158",
+     "date": "1979-03-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1953/122"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1953/122",
+     "art": "art. 1 ust. 1 pkt 3 i ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19790049.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19790049.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
