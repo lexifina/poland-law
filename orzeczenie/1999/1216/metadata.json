@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1216",
+ "source_sha256": "2cf5aaef5d5015f2e5ec56478caa59ddadf5fa787fe55fc437ecdc71f9ca732c",
+ "in_force": "1999-12-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 489 words, parsed 226; at 226: 'niewadliwie nabytych , orzeka : 1 . Art . 145'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1216",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1216/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1216/text/O/D19991216.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1216/text/I/D19991216.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1216/text/T/D19991216L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1216",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 106,
+  "pos": 1216,
+  "address": "WDU19991061216",
+  "displayAddress": "Dz.U. 1999 nr 106 poz. 1216",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 21 grudnia 1999 r. sygn. akt K. 22/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-21",
+  "entryIntoForce": "1999-12-24",
+  "validFrom": "1999-12-24",
+  "changeDate": "2024-03-15T11:35:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo o ruchu drogowym",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/602",
+     "date": "1999-12-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1991/321"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/602"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991216.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991216.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991216L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
