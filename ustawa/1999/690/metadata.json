@@ -1,0 +1,113 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/690",
+ "source_sha256": "0a4f97fe13fa1be37214af13a15f1aa13bcbf0b8caecd321e6f9478e857dcacc",
+ "in_force": "1999-08-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/690",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/690/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/690/text/O/D19990690.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/690/text/I/D19990690.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/690/text/T/D19990690L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1999/690/text/U/D19990690Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/690",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 62,
+  "pos": 690,
+  "address": "WDU19990620690",
+  "displayAddress": "Dz.U. 1999 nr 62 poz. 690",
+  "title": "Ustawa z dnia 8 lipca 1999 r. o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-07-08",
+  "promulgation": "1999-07-23",
+  "entryIntoForce": "1999-08-07",
+  "validFrom": "1999-08-07",
+  "changeDate": "2024-03-15T11:34:16",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "klęski żywiołowe",
+   "powodzie",
+   "budownictwo mieszkaniowe",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/839.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/839",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/839",
+    "number": "839",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1999/956"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2010/996",
+     "date": "2010-08-16"
+    },
+    {
+     "id": "DU/2009/545",
+     "date": "2009-05-15"
+    },
+    {
+     "id": "DU/2001/907",
+     "date": "2001-08-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1994/509"
+    },
+    {
+     "id": "DU/1994/414"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990690.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990690.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990690L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D19990690Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
