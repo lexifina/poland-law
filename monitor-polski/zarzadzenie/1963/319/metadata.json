@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/319",
+ "source_sha256": "d7a076f57dfaa1bc948ab6b382c0a67e994861f79f81eb33ef4c8639b89d0500",
+ "in_force": "1963-08-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/319",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/319/text/O/M19630319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/319/text/I/M19630319.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/319",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 63,
+  "pos": 319,
+  "address": "WMP19630630319",
+  "displayAddress": "M.P. 1963 nr 63 poz. 319",
+  "title": "Zarządzenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 9 sierpnia 1963 r. w sprawie upoważnienia Instytutu Przemysłu Fermentacyjnego do przyznawania prawa oznaczania znakiem jakości napojów alkoholowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-08-09",
+  "entryIntoForce": "1963-08-22",
+  "validFrom": "1963-08-22",
+  "repealDate": "1967-07-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. POLSKIEGO KOMITETU NORMALIZACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "znak jakości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1967/173",
+     "date": "1967-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1961/409"
+    },
+    {
+     "id": "MP/1958/531"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/531"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/531",
+     "art": "par. 1 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630319.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
