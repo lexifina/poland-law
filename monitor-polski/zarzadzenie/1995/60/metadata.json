@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/60",
+ "source_sha256": "e248b9649c85635156a9a95b9bed995bee0727e386f7004d262c59933d430843",
+ "in_force": "1995-02-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/60",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/60/text/O/M19950060.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/60/text/I/M19950060.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/60",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 4,
+  "pos": 60,
+  "address": "WMP19950040060",
+  "displayAddress": "M.P. 1995 nr 4 poz. 60",
+  "title": "Zarządzenie Ministra Pracy i Polityki Socjalnej z dnia 18 stycznia 1995 r. zmieniające zarządzenie w sprawie zasad wynagradzania pracowników Biura Polskiego Komitetu Normalizacyjnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-01-18",
+  "entryIntoForce": "1995-02-02",
+  "validFrom": "1995-01-01",
+  "repealDate": "1996-07-01",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [
+   "Polski Komitet Normalizacyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1996/416",
+     "date": "1996-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1993/605",
+     "date": "1995-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/251"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/251",
+     "art": "art. 15 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950060.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950060.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
