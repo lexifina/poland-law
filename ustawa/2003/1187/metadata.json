@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1187",
+ "source_sha256": "9176d59e29c70b70e02896ada7583c025a38485729abf52c19212e738b9d6fed",
+ "in_force": "2003-08-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1187",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1187/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1187/text/O/D20031187.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1187/text/I/D20031187.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1187/text/T/D20031187L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1187",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 130,
+  "pos": 1187,
+  "address": "WDU20031301187",
+  "displayAddress": "Dz.U. 2003 nr 130 poz. 1187",
+  "title": "Ustawa z dnia 21 maja 2003 r. o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz ustawy o warunkach zdrowotnych żywności i żywienia",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-05-21",
+  "promulgation": "2003-07-24",
+  "entryIntoForce": "2003-08-08",
+  "changeDate": "2024-03-15T09:53:23",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "warunki zdrowotne",
+   "żywność i żywienie",
+   "genetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1490.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1490",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1490",
+    "number": "1490",
+    "term": 4
+   }
+  ],
+  "comments": "art. 1 pkt 8 w zakresie dotyczącym art. 15 ust. 4 wszedł w życie z dniem 25 lipca 2005 r.;\nart. 1 pkt 14, 15, 24 oraz pkt 19 w zakresie art. 44a ust. 4 i 5 weszły w życie z dniem 1 maja 2004 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2002/674",
+     "date": "2003-08-08"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2006/1225",
+     "date": "2006-10-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/811",
+     "date": "2003-08-08"
+    },
+    {
+     "id": "DU/2001/634",
+     "date": "2003-08-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1991/28"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031187.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031187.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031187L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
