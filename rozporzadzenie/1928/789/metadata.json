@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/789",
+ "source_sha256": "dd09285500e2728b0dd4f2c883b6bdaaa310d98b547d081449abb66360a8a1e9",
+ "in_force": "1928-10-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/789",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/789/text/O/D19280789.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/789/text/I/D19280789.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/789",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 90,
+  "pos": 789,
+  "address": "WDU19280900789",
+  "displayAddress": "Dz.U. 1928 nr 90 poz. 789",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 17 września 1928 r. o uzupełnieniu §§ 5 i 6 rozporządzenia z dnia 13 grudnia 1920 r. o postępowaniu celnem.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-09-17",
+  "entryIntoForce": "1928-10-29",
+  "validFrom": "1928-10-29",
+  "repealDate": "1930-06-01",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/276",
+     "date": "1930-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1921/64",
+     "date": "1928-10-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/314"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1920/314",
+     "art": "art. 21"
+    },
+    {
+     "id": "DU/1920/314",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280789.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280789.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
