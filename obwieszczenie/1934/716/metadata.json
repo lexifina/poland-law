@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/716",
+ "source_sha256": "5b21d5f2388a8f516d1d38b1626726015f39701c695c07b8dea9074642ec80d7",
+ "in_force": "1934-08-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/716",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/716/text/O/D19340716.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/716/text/I/D19340716.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/716",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 76,
+  "pos": 716,
+  "address": "WDU19340760716",
+  "displayAddress": "Dz.U. 1934 nr 76 poz. 716",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 9 sierpnia 1934 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku przemysłowym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-08-09",
+  "promulgation": "1934-08-31",
+  "repealDate": "1939-01-01",
+  "changeDate": "2022-01-28T14:18:27",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1938/292",
+     "date": "1939-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/346"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/346",
+     "art": "art. 211 par. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/550"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340716.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340716.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
