@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/146",
+ "source_sha256": "81d5ac1347890af967ba463389a9b45cce0024843ad75b0941c8c5c969a5b3f1",
+ "in_force": "1931-04-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/146",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/146/text/O/M19310146.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/146/text/I/M19310146.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/146",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 96,
+  "pos": 146,
+  "address": "WMP19310960146",
+  "displayAddress": "M.P. 1931 nr 96 poz. 146",
+  "title": "Obwieszczenie Ministra Rolnictwa z dnia 20 kwietnia 1931 r. o zatwierdzeniu wysokości opłaty na rzecz Pomorskiej Izby Rolniczej za okres czasu od 1 kwietnia 1931 r. do 31 marca 1932 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-04-20",
+  "promulgation": "1931-04-27",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/385"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/385",
+     "art": "art. 36"
+    },
+    {
+     "id": "DU/1928/385",
+     "art": "art. 57"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310146.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310146.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
