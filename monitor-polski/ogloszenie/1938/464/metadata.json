@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/464",
+ "source_sha256": "b76a88b1d1ccb910e8329960429f573fe248e6cb2081d088e14ad353465eddf1",
+ "in_force": "1938-09-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/464",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/464/text/O/M19380464.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/464/text/I/M19380464.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/464",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 217,
+  "pos": 464,
+  "address": "WMP19382170464",
+  "displayAddress": "M.P. 1938 nr 217 poz. 464",
+  "title": "Ogłoszenie Komisarza Rządowego Izb Lekarsko-Dentystycznych z dnia 19 września w sprawie wyboró do rady Okręgowej Izby Lekarsko-Dentystycznej w Poznaniu.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-09-19",
+  "promulgation": "1938-09-22",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "lekarze dentyści",
+   "izby lekarskie",
+   "służba zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1938/295",
+     "art": "par. 16 ust. 1"
+    },
+    {
+     "id": "DU/1938/295",
+     "art": "par. 44"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380464.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380464.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
