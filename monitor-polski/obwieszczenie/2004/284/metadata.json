@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/284",
+ "source_sha256": "b243c3cc6c361a014e6fb66e5910a9b6908f77b1b61c89088c010b348f5e4039",
+ "in_force": "2004-04-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/284",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/284/text/O/M20040284.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/284/text/I/M20040284.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/284",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 16,
+  "pos": 284,
+  "address": "WMP20040160284",
+  "displayAddress": "M.P. 2004 nr 16 poz. 284",
+  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 24 marca 2004 r. o wskazaniu wystaw publicznych dających pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na nich wynalazku, wzoru użytkowego, wzoru przemysłowego lub towaru oznaczonego znakiem towarowym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-24",
+  "promulgation": "2004-04-07",
+  "changeDate": "2024-07-31T11:42:42",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "wzory użytkowe i zdobnicze",
+   "rejestry",
+   "targi i wystawy",
+   "wynalazczość",
+   "własność przemysłowa",
+   "znaki towarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/508"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/508",
+     "art": "art. 125 ust. 2"
+    },
+    {
+     "id": "DU/2001/508",
+     "art": "art. 15 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040284.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040284.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
