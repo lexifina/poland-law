@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/619",
+ "source_sha256": "9166b7f7f6e01316cb5101a58956a08b77e6ac266addd2ab41eed5bac3890014",
+ "in_force": "1932-08-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/619",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/619/text/O/D19320619.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/619/text/I/D19320619.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/619",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 66,
+  "pos": 619,
+  "address": "WDU19320660619",
+  "displayAddress": "Dz.U. 1932 nr 66 poz. 619",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 27 lipca 1932 r. - Instrukcja dla powiatowych wydziałów hipotecznych w województwach wschodnich.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-07-27",
+  "promulgation": "1932-08-02",
+  "changeDate": "2020-09-23T10:51:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1933/420",
+     "date": "1933-07-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/618"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/618",
+     "art": "par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320619.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320619.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
