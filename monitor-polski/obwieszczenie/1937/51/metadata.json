@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/51",
+ "source_sha256": "b2f7726d25b49a6e018066b7da2431f0fbb3ab4d94e4cd1828b5e7a1ebfefccf",
+ "in_force": "1937-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/51",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/51/text/O/M19370051.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/51/text/I/M19370051.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/51",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 35,
+  "pos": 51,
+  "address": "WMP19370350051",
+  "displayAddress": "M.P. 1937 nr 35 poz. 51",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 6 lutego 1937 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-02-06",
+  "promulgation": "1937-02-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370051.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370051.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
