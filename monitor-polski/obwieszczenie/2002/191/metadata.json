@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/191",
+ "source_sha256": "fa9a45056c70e5c8da97315e9a54cf1b609eadc952a5eed9425e72f75e8d2107",
+ "in_force": "2002-03-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/191",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/191/text/O/M20020191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/191/text/I/M20020191.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/191",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 10,
+  "pos": 191,
+  "address": "WMP20020100191",
+  "displayAddress": "M.P. 2002 nr 10 poz. 191",
+  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 20 lutego 2002 r. o wskazaniu wystaw publicznych dających pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na nich wynalazku, wzoru użytkowego, wzoru przemysłowego lub towaru oznaczonego znakiem towarowym.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-02-20",
+  "promulgation": "2002-03-15",
+  "changeDate": "2024-07-31T11:42:44",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "wzory użytkowe i zdobnicze",
+   "rejestry",
+   "targi i wystawy",
+   "wynalazczość",
+   "własność przemysłowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/508"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/508",
+     "art": "art. 125 ust. 2"
+    },
+    {
+     "id": "DU/2001/508",
+     "art": "art. 15 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020191.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
