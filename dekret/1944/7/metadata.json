@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/7",
+ "source_sha256": "1f138e935fa593e23ca0565f9b7982f7a5e994693c2ce097eccb76bebbb8a417",
+ "in_force": "1944-08-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/7",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/7/text/O/D19440007.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/7/text/I/D19440007.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/7",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 2,
+  "pos": 7,
+  "address": "WDU19440020007",
+  "displayAddress": "Dz.U. 1944 nr 2 poz. 7",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 15 sierpnia 1944 r. o wprowadzeniu Sądów Przysięgłych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-15",
+  "entryIntoForce": "1944-08-22",
+  "validFrom": "1944-08-22",
+  "repealDate": "1949-07-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/237",
+     "date": "1949-07-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1938/213",
+     "date": "1944-08-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440007.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440007.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
