@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/2218",
+ "source_sha256": "4068488401dceb875f58c208ba3af708566080720c363d4c0b9812bcf820b5e8",
+ "in_force": "2004-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/2218",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/2218/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/2218/text/O/D20032218.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/2218/text/I/D20032218.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/2218/text/T/D20032218L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/2218/text/U/D20032218Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/2218",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 223,
+  "pos": 2218,
+  "address": "WDU20032232218",
+  "displayAddress": "Dz.U. 2003 nr 223 poz. 2218",
+  "title": "Ustawa z dnia 12 grudnia 2003 r. o Funduszu Rozwoju Inwestycji Komunalnych",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-12-12",
+  "promulgation": "2003-12-29",
+  "entryIntoForce": "2004-01-01",
+  "validFrom": "2004-01-01",
+  "repealDate": "2013-11-29",
+  "changeDate": "2024-03-15T09:52:45",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "inwestycje",
+   "komunalna gospodarka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1911.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1911",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1911",
+    "number": "1911",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2013/1251",
+     "date": "2013-11-29"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2011/296"
+    },
+    {
+     "id": "DU/2004/278"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2010/1135",
+     "date": "2010-09-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/18",
+     "date": "2004-01-01"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2004-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20032218.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20032218.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20032218L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20032218Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
