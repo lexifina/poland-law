@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/99",
+ "source_sha256": "221b67fabadde8e6b6528efc1ecf9f1bc0acc01ba8506b2143cc195822f7794a",
+ "in_force": "2005-02-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/99/text/O/M20050099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/99/text/I/M20050099.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/99",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 7,
+  "pos": 99,
+  "address": "WMP20050070099",
+  "displayAddress": "M.P. 2005 nr 7 poz. 99",
+  "title": "Zarządzenie Nr 11 Prezesa Rady Ministrów z dnia 31 stycznia 2005 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Kultury",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-01-31",
+  "promulgation": "2005-02-03",
+  "entryIntoForce": "2005-02-03",
+  "validFrom": "2005-02-03",
+  "repealDate": "2006-01-26",
+  "changeDate": "2014-12-31T12:26:39",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Kultury"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2006/99",
+     "date": "2006-01-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2003/630",
+     "date": "2005-02-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
