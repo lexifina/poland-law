@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/213",
+ "source_sha256": "0c9c78243b347d15c65b53c92fee9f5025c5886fe6d2b868f384f84db62ec52e",
+ "in_force": "1945-09-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/213/text/O/D19450213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/213/text/I/D19450213.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/213",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 35,
+  "pos": 213,
+  "address": "WDU19450350213",
+  "displayAddress": "Dz.U. 1945 nr 35 poz. 213",
+  "title": "Rozporządzenie Ministra Administracji Publicznej z dnia 15 września 1945 r. w sprawie przedłużenia terminu składania deklaracji wierności przez osoby wpisane do trzeciej i czwartej grupy niemieckiej listy narodowej lub do grupy t. zw. \"Leistungs-Pole\".",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-09-15",
+  "entryIntoForce": "1945-09-25",
+  "validFrom": "1945-09-25",
+  "repealDate": "1946-11-17",
+  "changeDate": "2017-11-29T17:22:30",
+  "releasedBy": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1946/147",
+     "date": "1945-11-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1945/128"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/96"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1946/324",
+     "date": "1946-11-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
