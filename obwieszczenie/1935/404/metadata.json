@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/404",
+ "source_sha256": "b5852ab02e8dc91abed0f8f610f8acb06473b9a8214be5732ce2cc7184bd9378",
+ "in_force": "1935-08-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/404",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/404/text/O/D19350404.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/404/text/I/D19350404.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/404",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 64,
+  "pos": 404,
+  "address": "WDU19350640404",
+  "displayAddress": "Dz.U. 1935 nr 64 poz. 404",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 7 czerwca 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłatach stemplowych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-06-07",
+  "promulgation": "1935-08-27",
+  "repealDate": "1947-04-30",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/570"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/570",
+     "art": "art. 178"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1926/570"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350404.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350404.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
