@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/410",
+ "source_sha256": "4a79466ed38f0f16d6aef49950b3f5451e51c2070073e5b7b9504eb38cce0eb3",
+ "in_force": "1939-07-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/410",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/410/text/O/M19390410.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/410/text/I/M19390410.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/410",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 166,
+  "pos": 410,
+  "address": "WMP19391660410",
+  "displayAddress": "M.P. 1939 nr 166 poz. 410",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 15 lipca 1939 r. w sprawie kwoty emisji monet srebrnych, niklowych i brązowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-07-15",
+  "promulgation": "1939-07-22",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "monety",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/790"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/790",
+     "art": "art. 6"
+    },
+    {
+     "id": "DU/1927/790",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390410.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390410.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
