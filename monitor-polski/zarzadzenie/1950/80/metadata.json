@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/80",
+ "source_sha256": "173eea3e8e5e5b12313d5d85cb4da58d793270ab7c3e5adae897a415db452f03",
+ "in_force": "1950-01-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/80/text/O/M19500080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/80/text/I/M19500080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/80",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 9,
+  "pos": 80,
+  "address": "WMP19500090080",
+  "displayAddress": "M.P. 1950 nr 9 poz. 80",
+  "title": "Zarządzenie Ministra Kultury i Sztuki z dnia 1 stycznia 1950 r. w sprawie taryfy i systemu rozprowadzania biletów do teatrów świetlnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-01-01",
+  "entryIntoForce": "1950-01-24",
+  "validFrom": "1950-01-01",
+  "repealDate": "1958-04-06",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1958/132",
+     "date": "1958-04-06"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1951/414",
+     "date": "1951-01-01"
+    },
+    {
+     "id": "MP/1950/1222",
+     "date": "1950-09-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/337"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
