@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/128",
+ "source_sha256": "95ed7714dd92d8ad227d488a4e4509cbcc4ae379013b751f9a2ed7642e9a7b15",
+ "in_force": "2004-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/128",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/128/text/O/M20040128.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/128/text/I/M20040128.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/128",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 8,
+  "pos": 128,
+  "address": "WMP20040080128",
+  "displayAddress": "M.P. 2004 nr 8 poz. 128",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 30 stycznia 2004 r. w sprawie uznania terytorium Islamskiego Państwa Afganistanu za strefę działań wojennych",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-01-30",
+  "promulgation": "2004-02-13",
+  "repealDate": "2004-07-01",
+  "changeDate": "2014-12-31T12:26:37",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wojsko"
+  ],
+  "keywordsNames": [
+   "Afganistan"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1198"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1198",
+     "art": "par. 19 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040128.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040128.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
