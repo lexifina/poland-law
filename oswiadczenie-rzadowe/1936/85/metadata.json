@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/85",
+ "source_sha256": "79ba7a8f8f65130f15dd2ca0be870c5b605ea46f8e0e367c2ac5992f37a65bba",
+ "in_force": "1936-02-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/85",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/85/text/O/D19360085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/85/text/I/D19360085.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/85",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 8,
+  "pos": 85,
+  "address": "WDU19360080085",
+  "displayAddress": "Dz.U. 1936 nr 8 poz. 85",
+  "title": "Oświadczenie rządowe z dnia 6 grudnia 1935 r. w sprawie złożenia przez Polskę i inne państwa dokumentów ratyfikacyjnych oraz zgłoszenia przystąpień do międzynarodowej konwencji sanitarnej, dotyczącej żeglugi powietrznej, z dnia 12 kwietnia 1933 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1935-12-06",
+  "promulgation": "1936-02-04",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Międzynarodowa Konwencja Sanitarna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/84",
+     "art": "art. 63"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360085.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
