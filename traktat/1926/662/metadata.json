@@ -1,0 +1,59 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/662",
+ "source_sha256": "7190a07ff71686a12697acc56e552ea0d2ffda2679d4b81d1221b0271239a650",
+ "in_force": "1925-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/662",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/662/text/O/D19260662.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/662/text/I/D19260662.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/662",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 114,
+  "pos": 662,
+  "address": "WDU19261140662",
+  "displayAddress": "Dz.U. 1926 nr 114 poz. 662",
+  "title": "Traktat arbitrażowy pomiędzy Polską a Niemcami, podpisany w Londynie dnia 1 grudnia 1925 r.",
+  "type": "Traktat",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-12-01",
+  "changeDate": "2021-03-18T14:04:01",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "status ustalono na podstawie Internetowej Bazy Traktatów MSZ:\n\nhttps://traktaty.msz.gov.pl/umowa-4",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1926/663"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260662.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260662.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
