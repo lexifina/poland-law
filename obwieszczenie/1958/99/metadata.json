@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1958/99",
+ "source_sha256": "075814b5771a14e56a4ebb060ce8cfce2939d003e6122bfb2af7adde51ee845f",
+ "in_force": "1958-04-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1958/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1958/99/text/O/D19580099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1958/99/text/I/D19580099.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1958/99",
+  "publisher": "DU",
+  "year": 1958,
+  "volume": 23,
+  "pos": 99,
+  "address": "WDU19580230099",
+  "displayAddress": "Dz.U. 1958 nr 23 poz. 99",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 18 kwietnia 1958 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 28 maja 1957 r. o zaopatrzeniu emerytalnym górników i ich rodzin.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-04-18",
+  "expirationDate": "1968-01-27",
+  "changeDate": "2017-11-23T15:43:51",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/93"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1957/139"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19580099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19580099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
