@@ -1,0 +1,107 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1029",
+ "source_sha256": "95fa6d04778d11bc7fe9c61973d61a8756a8eca7fc0ea0a2ced9e5fbf338b6f2",
+ "in_force": "2003-07-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1029",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1029/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1029/text/O/D20031029.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1029/text/I/D20031029.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1029/text/T/D20031029L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1029",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 109,
+  "pos": 1029,
+  "address": "WDU20031091029",
+  "displayAddress": "Dz.U. 2003 nr 109 poz. 1029",
+  "title": "Ustawa z dnia 22 maja 2003 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz ustawy zmieniającej ustawę o zawodach pielęgniarki i położnej",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-05-22",
+  "promulgation": "2003-06-27",
+  "entryIntoForce": "2003-07-12",
+  "validFrom": "2003-07-12",
+  "repealDate": "2012-01-01",
+  "changeDate": "2024-03-15T09:53:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "położne",
+   "pielęgniarstwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1223.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1223",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1223",
+    "number": "1223",
+    "term": 4
+   }
+  ],
+  "comments": "objęte tekstem jednolitym Dz. U. z 2009 r. Nr 151, poz. 1217 z wyj. art. 4-6",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/1039",
+     "date": "2012-01-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1998/1110",
+     "date": "2003-07-12"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/885",
+     "date": "2004-04-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/169",
+     "date": "2003-07-12"
+    },
+    {
+     "id": "DU/1996/410",
+     "date": "2003-07-12"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031029.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031029.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031029L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
