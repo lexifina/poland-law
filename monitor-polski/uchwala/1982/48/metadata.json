@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/48",
+ "source_sha256": "5a6244d5d4cb4d6ee3a977d57cc448a25749d8406cfe61a343c2e7694a2405fc",
+ "in_force": "1982-02-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/48/text/O/M19820048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/48/text/I/M19820048.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/48",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 8,
+  "pos": 48,
+  "address": "WMP19820080048",
+  "displayAddress": "M.P. 1982 nr 8 poz. 48",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 27 lutego 1982 r. w sprawie powołania ministra przemysłu chemicznego i lekkiego.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-02-27",
+  "entryIntoForce": "1982-02-27",
+  "validFrom": "1982-02-27",
+  "repealDate": "1985-11-14",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ministrowie",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1981/139",
+     "date": "1982-02-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 37 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1985/222",
+     "date": "1985-11-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
