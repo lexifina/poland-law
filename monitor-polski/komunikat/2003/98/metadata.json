@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/98",
+ "source_sha256": "0c8ba3cbd6983ecfad0bb99a67668ddf19e922a43b5446a6bc8a20deef326508",
+ "in_force": "2003-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/98",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/98/text/O/M20030098.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/98/text/I/M20030098.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/98",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 6,
+  "pos": 98,
+  "address": "WMP20030060098",
+  "displayAddress": "M.P. 2003 nr 6 poz. 98",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 stycznia 2003 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w II półroczu 2002 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-01-15",
+  "promulgation": "2003-01-28",
+  "changeDate": "2020-10-20T09:38:42",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030098.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030098.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
