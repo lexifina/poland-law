@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/116",
+ "source_sha256": "9d5f1ebe58ff7d64557db51dfe171aa7cd7593b46f9a926c31f1ecdcf0b5a705",
+ "in_force": "1936-03-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/116/text/O/M19360116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/116/text/I/M19360116.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/116",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 59,
+  "pos": 116,
+  "address": "WMP19360590116",
+  "displayAddress": "M.P. 1936 nr 59 poz. 116",
+  "title": "Okólnik Ministerstwa Skarbu z dnia 27 lutego 1936 r. L. D. IV. 4504/3/36 w sprawie pobierania odsetek za zwłokę przy odprawach warunkowych.",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-02-27",
+  "promulgation": "1936-03-11",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo",
+   "odsetki",
+   "odsetki za zwłokę",
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 117"
+    },
+    {
+     "id": "DU/1933/610",
+     "art": "art. 57"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
