@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/948",
+ "source_sha256": "d47adcbfafe5a40eb8e4c42a60ce68878281becce22ec6fe3602bd76ac54dcf1",
+ "in_force": "1932-12-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/948",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/948/text/O/D19320948.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/948/text/I/D19320948.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/948",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 114,
+  "pos": 948,
+  "address": "WDU19321140948",
+  "displayAddress": "Dz.U. 1932 nr 114 poz. 948",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 grudnia 1932 r. o taksie za czynności komorników.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-15",
+  "repealDate": "1936-05-20",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/277",
+     "date": "1936-05-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320948.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320948.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
