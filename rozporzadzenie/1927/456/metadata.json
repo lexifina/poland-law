@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/456",
+ "source_sha256": "94d3d6bbbc7b06e6440376a59bcb49941ebc32b225ffe6fa1bde31359e6a53b7",
+ "in_force": "1927-06-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/456",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/456/text/O/D19270456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/456/text/I/D19270456.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/456",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 51,
+  "pos": 456,
+  "address": "WDU19270510456",
+  "displayAddress": "Dz.U. 1927 nr 51 poz. 456",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 1 czerwca 1927 r. w sprawie zmiany niektórych postanowień ustawy z dnia 25 lipca 1919 r. o osobistych świadczeniach wojennych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-06-01",
+  "entryIntoForce": "1927-06-10",
+  "validFrom": "1927-06-10",
+  "repealDate": "1934-10-29",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny",
+   "świadczenia osobiste i rzeczowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1934/858",
+     "date": "1934-10-29"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1929/138"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1919/401",
+     "date": "1927-06-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270456.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
