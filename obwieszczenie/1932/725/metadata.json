@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/725",
+ "source_sha256": "f6288e8d82e80568fe87ab30141e8ed0cd929693b72182fc805b022b8c19b87a",
+ "in_force": "1932-10-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/725",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/725/text/O/D19320725.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/725/text/I/D19320725.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/725",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 83,
+  "pos": 725,
+  "address": "WDU19320830725",
+  "displayAddress": "Dz.U. 1932 nr 83 poz. 725",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 30 września 1932 r. w sprawie ogłoszenia jednolitego tekstu kodeksu postępowania karnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-09-30",
+  "promulgation": "1932-10-05",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/662"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/662",
+     "art": "art. 4"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/313"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320725.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320725.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
