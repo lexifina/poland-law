@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/910",
+ "source_sha256": "2aaccc3eb67f5b04ab404b39ff087a0b0952bb59ab6092a0169af8633a969e60",
+ "in_force": "1932-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/910",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/910/text/O/D19320910.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/910/text/I/D19320910.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/910",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 110,
+  "pos": 910,
+  "address": "WDU19321100910",
+  "displayAddress": "Dz.U. 1932 nr 110 poz. 910",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 1 grudnia 1932 r. - Regulamin wewnętrznego urzędowania prokuratur sądów apelacyjnych i okręgowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-01",
+  "repealDate": "1935-07-29",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1935/357",
+     "date": "1935-07-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    },
+    {
+     "id": "DU/1928/313"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320910.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320910.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
