@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/824",
+ "source_sha256": "2a4312fb23159ba452670ee4eb4cd3d6c69883e8f5314977fbd4e958515cff76",
+ "in_force": "2000-08-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/824",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/824/text/O/D20000824.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/824/text/I/D20000824.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/824/text/T/D20000824L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/824",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 70,
+  "pos": 824,
+  "address": "WDU20000700824",
+  "displayAddress": "Dz.U. 2000 nr 70 poz. 824",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 1 sierpnia 2000 r. w sprawie dokumentowania znajomości języka obcego przez przewodników turystycznych i pilotów wycieczek.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-08-01",
+  "entryIntoForce": "2000-08-24",
+  "validFrom": "2000-08-24",
+  "repealDate": "2010-09-17",
+  "changeDate": "2014-12-31T12:25:51",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "turystyka",
+   "świadectwa i dyplomy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/884"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/884",
+     "art": "art. 32 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2010/672",
+     "date": "2010-09-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000824.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000824.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000824L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
