@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1092",
+ "source_sha256": "0adee0b00cec9edab3c6eec2cc3791b52ab79ed1ce95ee92afe808233e78b888",
+ "in_force": "2000-10-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1092",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1092/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1092/text/O/D20001092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1092/text/I/D20001092.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1092/text/T/D20001092L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1092",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 101,
+  "pos": 1092,
+  "address": "WDU20001011092",
+  "displayAddress": "Dz.U. 2000 nr 101 poz. 1092",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 października 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Policji.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-10-16",
+  "expirationDate": "2002-01-10",
+  "changeDate": "2024-03-15T09:49:31",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/179"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001092.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001092L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
