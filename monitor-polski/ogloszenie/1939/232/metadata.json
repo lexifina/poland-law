@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/232",
+ "source_sha256": "2ce72215b6473412d7fa498477fc978e6dfe32dc462bfcdaa895f90db24807ba",
+ "in_force": "1939-05-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/232",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/232/text/O/M19390232.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/232/text/I/M19390232.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/232",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 102,
+  "pos": 232,
+  "address": "WMP19391020232",
+  "displayAddress": "M.P. 1939 nr 102 poz. 232",
+  "title": "Ogłoszenie Prezesa Rady Ministrów z dnia 22 kwietnia 1939 r. o utracie Krzyża i Medalu Niepodległości.",
+  "type": "Ogłoszenie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1939-04-22",
+  "promulgation": "1939-05-04",
+  "changeDate": "2017-03-21T12:34:33",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1937/409"
+    },
+    {
+     "id": "MP/1933/318"
+    },
+    {
+     "id": "MP/1931/352"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/591"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/591",
+     "art": "art. 13 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390232.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390232.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
