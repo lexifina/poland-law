@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/183",
+ "source_sha256": "dd4d22518970b1c598a9ad090e4c61ecc69c8dcd20fc403b5b996c5a3e126fca",
+ "in_force": "1925-03-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/183",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/183/text/O/D19250183.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/183/text/I/D19250183.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/183",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 26,
+  "pos": 183,
+  "address": "WDU19250260183",
+  "displayAddress": "Dz.U. 1925 nr 26 poz. 183",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 3 marca 1925 r. wydane w porozumieniu z Ministrem Skarbu, o opłatach za rozpatrywanie obrazów filmowych i wystawianie legitymacyj filmowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-03-03",
+  "entryIntoForce": "1925-03-14",
+  "validFrom": "1925-03-14",
+  "repealDate": "1927-08-19",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1927/630",
+     "date": "1927-08-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1923/1085",
+     "date": "1925-03-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/986"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/986",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250183.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250183.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
