@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1404",
+ "source_sha256": "29e77e365685a56143d518938a1bfba6e0539330f9d85410e42d7f3a0097354e",
+ "in_force": "2002-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1404",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1404/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1404/text/O/D20011404.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1404/text/I/D20011404.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1404/text/T/D20011404L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1404/text/U/D20011404Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1404",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 128,
+  "pos": 1404,
+  "address": "WDU20011281404",
+  "displayAddress": "Dz.U. 2001 nr 128 poz. 1404",
+  "title": "Ustawa z dnia 24 sierpnia 2001 r. o zmianie ustawy - Karta Nauczyciela.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-08-24",
+  "promulgation": "2001-11-09",
+  "entryIntoForce": "2002-01-01",
+  "validFrom": "2002-01-01",
+  "repealDate": "2003-12-31",
+  "changeDate": "2024-03-15T09:59:23",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS OŚWIATY I WYCHOWANIA"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "wynagrodzenia",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2803.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2803",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2803",
+    "number": "2803",
+    "term": 3
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. 2003 nr 118, poz. 1112 z dniem 29 maja 2003 r. z wyjątkiem art. 2",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/2258",
+     "date": "2003-12-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/1954",
+     "date": "2002-12-31"
+    },
+    {
+     "id": "DU/2001/1795",
+     "date": "2001-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1982/19",
+     "date": "2002-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1999/1255"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011404.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011404.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011404L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20011404Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
