@@ -1,0 +1,4 @@
+# Ustawa z dnia 18 marca 1931 r. w sprawie zamiany części nieruchomości państwowej w Grodzisku Mazowieckim.
+
+Dz.U. 1931 nr 39 poz. 328 · <https://eli.gov.pl/api/acts/DU/1931/328>
+
