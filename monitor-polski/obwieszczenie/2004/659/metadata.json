@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/659",
+ "source_sha256": "4f20fa3224ce21ffd86c1c4e8fe0b40fbe2a05144b01f9d447e761394b2e840a",
+ "in_force": "2004-09-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/659",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/659/text/O/M20040659.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/659/text/I/M20040659.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/659",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 37,
+  "pos": 659,
+  "address": "WMP20040370659",
+  "displayAddress": "M.P. 2004 nr 37 poz. 659",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 20 sierpnia 2004 r. w sprawie ogłoszenia wykazu zarejestrowanych kancelarii notarialnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-08-20",
+  "promulgation": "2004-09-08",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ewidencja",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/91"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/91",
+     "art": "art. 9 par. 2"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/2004/887"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040659.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040659.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
