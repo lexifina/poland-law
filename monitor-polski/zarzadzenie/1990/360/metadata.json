@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/360",
+ "source_sha256": "2e4cebd9fb9965ce48ef1cd3108e14edb2cd4fa48d07d46cf04f760ccc389e76",
+ "in_force": "1990-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/360",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/360/text/O/M19900360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/360/text/I/M19900360.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/360",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 47,
+  "pos": 360,
+  "address": "WMP19900470360",
+  "displayAddress": "M.P. 1990 nr 47 poz. 360",
+  "title": "Zarządzenie Prezesa Głównego Urzędu Ceł z dnia 5 grudnia 1990 r. zmieniające zarządzenie w sprawie nadania statutu urzędom celnym.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-12-05",
+  "entryIntoForce": "1990-12-31",
+  "validFrom": "1990-12-31",
+  "repealDate": "1994-10-11",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU CEŁ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "terenowe organy administracji rządowej",
+   "urzędy celne",
+   "administracja celna",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1994/442",
+     "date": "1994-10-11"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1990/178",
+     "date": "1990-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/445"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/445",
+     "art": "art. 112 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900360.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
