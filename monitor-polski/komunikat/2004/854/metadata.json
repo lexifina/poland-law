@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/854",
+ "source_sha256": "563064ce54a1c0fd56b4236fefa3e7248df79a8c710eb4bed14db7abfc4bd2fc",
+ "in_force": "2004-11-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/854",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/854/text/O/M20040854.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/854/text/I/M20040854.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/854",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 49,
+  "pos": 854,
+  "address": "WMP20040490854",
+  "displayAddress": "M.P. 2004 nr 49 poz. 854",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 listopada 2004 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia oraz kwot granicznych przychodu w 2004 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-11-16",
+  "promulgation": "2004-11-25",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040854.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040854.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
