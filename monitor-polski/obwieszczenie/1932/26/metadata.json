@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/26",
+ "source_sha256": "6414dfb9dfba5e1943465838d6009db51d83a25060a4366d26923505ae6c4d69",
+ "in_force": "1932-01-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/26",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/26/text/O/M19320026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/26/text/I/M19320026.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/26",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 21,
+  "pos": 26,
+  "address": "WMP19320210026",
+  "displayAddress": "M.P. 1932 nr 21 poz. 26",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 15 stycznia 1932 r. wydane w porozumieniu z Ministrem Rolnictwa w sprawie uzupełnienia obwieszczenia z dnia 31 maja 1930 r. o warunkach uzyskania zaświadczeń Ministerstwa Przemysłu i Handlu, upoważniających do otrzymywania kwitów wywozowych przy wywozie lnu trzepanego i pakuł lnianych trzepanych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-15",
+  "promulgation": "1932-01-27",
+  "repealDate": "1933-01-09",
+  "changeDate": "2014-12-31T12:26:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1933/27",
+     "date": "1933-01-09"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1930/188",
+     "date": "1932-01-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1930/355"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
