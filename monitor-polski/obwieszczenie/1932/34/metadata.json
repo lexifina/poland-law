@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/34",
+ "source_sha256": "8a80b6bc1ecfd8569226c703493910668df90596f1a5ef840785767aa9f2dee0",
+ "in_force": "1932-02-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/34",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/34/text/O/M19320034.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/34/text/I/M19320034.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/34",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 28,
+  "pos": 34,
+  "address": "WMP19320280034",
+  "displayAddress": "M.P. 1932 nr 28 poz. 34",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-02-05",
+  "promulgation": "1932-02-05",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320034.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320034.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
