@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/489",
+ "source_sha256": "66c9f51570a5fd757036f8018f209e0bc910d8b067f44f14054efdcad4464880",
+ "in_force": "1999-09-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/489",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/489/text/O/M19990489.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/489/text/I/M19990489.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/489",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 31,
+  "pos": 489,
+  "address": "WMP19990310489",
+  "displayAddress": "M.P. 1999 nr 31 poz. 489",
+  "title": "Obwieszczenie Ministra Finansów z dnia 27 września 1999 r. w sprawie ogłoszenia kwot długu Skarbu Państwa oraz niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-09-27",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1014",
+     "art": "art. 12 ust. 1 pkt 1 lit. c) i d)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990489.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990489.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
