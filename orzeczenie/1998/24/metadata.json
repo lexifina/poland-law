@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/24",
+ "source_sha256": "bf0d0d9ad431b7037a447c501ec3637255e59fd95152afe093cdad7ab0303ea5",
+ "in_force": "1998-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 561 words, parsed 286; at 286: 'warunkiem , że podatnik : a ) przekaże nabyty przez'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/24",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/24/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/24/text/O/D19980024.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/24/text/I/D19980024.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/24/text/T/D19980024L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/24",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 6,
+  "pos": 24,
+  "address": "WDU19980060024",
+  "displayAddress": "Dz.U. 1998 nr 6 poz. 24",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 stycznia 1998 r. - sygn. akt P.2/97.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-01-05",
+  "entryIntoForce": "1998-01-15",
+  "validFrom": "1998-01-15",
+  "changeDate": "2024-03-15T11:30:23",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "orzeczenie",
+   "podatek akcyzowy",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1995/797"
+    },
+    {
+     "id": "DU/1994/688"
+    },
+    {
+     "id": "DU/1993/50"
+    },
+    {
+     "id": "DU/1992/426"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1994/688"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980024.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980024.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980024L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
