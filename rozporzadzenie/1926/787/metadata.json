@@ -1,0 +1,63 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/787",
+ "source_sha256": "2441068c1b42b2a7f184244b600bd0be770dbe335f840e8bf27aa6ec94c7db6a",
+ "in_force": "1926-12-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/787",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/787/text/O/D19260787.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/787/text/I/D19260787.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/787",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 131,
+  "pos": 787,
+  "address": "WDU19261310787",
+  "displayAddress": "Dz.U. 1926 nr 131 poz. 787",
+  "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 22 grudnia 1926 r. w sprawie wykonania postanowień ustawy z dnia 1 lipca 1926 r. o stosunkach służbowych nauczycieli.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-12-22",
+  "repealDate": "1936-10-08",
+  "changeDate": "2014-12-31T12:22:27",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/542",
+     "date": "1936-10-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/530"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260787.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260787.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
