@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1989/310",
+ "source_sha256": "671eef4703b00ab408ecd50eca4b834da516791c0779dbc9df3b7a1105bd4454",
+ "in_force": "1989-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1989/310",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1989/310/text/O/M19890310.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1989/310/text/I/M19890310.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1989/310",
+  "publisher": "MP",
+  "year": 1989,
+  "volume": 39,
+  "pos": 310,
+  "address": "WMP19890390310",
+  "displayAddress": "M.P. 1989 nr 39 poz. 310",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 14 listopada 1989 r. zmieniające zarządzenie w sprawie oprocentowania kredytu refinansowego, granic oprocentowania kredytu udzielanego na niektóre cele oraz wysokości prowizji od kredytów udzielanych przez banki.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1989-11-14",
+  "entryIntoForce": "1989-12-01",
+  "validFrom": "1989-12-01",
+  "repealDate": "1990-01-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bankowe prawo",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1989/172",
+     "date": "1989-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/22"
+    },
+    {
+     "id": "DU/1989/21"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/22",
+     "art": "art. 20 ust. 1 pkt 1"
+    },
+    {
+     "id": "DU/1989/21",
+     "art": "art. 121 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19890310.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19890310.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
