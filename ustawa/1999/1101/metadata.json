@@ -1,0 +1,109 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1101",
+ "source_sha256": "a0d5c00b310bde3495b656a3fe8d0b5e764974ac80e2fb96a638a3466fe11299",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1101",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1101/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1101/text/O/D19991101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1101/text/I/D19991101.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1101/text/T/D19991101L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1101",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 95,
+  "pos": 1101,
+  "address": "WDU19990951101",
+  "displayAddress": "Dz.U. 1999 nr 95 poz. 1101",
+  "title": "Ustawa z dnia 20 listopada 1999 r. o zmianie ustawy o podatku dochodowym od osób prawnych.",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-20",
+  "promulgation": "1999-11-30",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "changeDate": "2024-03-15T11:34:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "rehabilitacja zawodowa",
+   "księgi rachunkowe",
+   "podatek dochodowy od osób prawnych",
+   "niepełnosprawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1499.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1499",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1499",
+    "number": "1499",
+    "term": 3
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. z 2000 r. Nr 54 poz. 654 z dniem 14 czerwca 2000 r.  z wyjątkiem art. 2 i 3.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2015/226",
+     "date": "2015-02-18"
+    },
+    {
+     "id": "DU/2002/923",
+     "date": "2002-07-05"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/776",
+     "date": "2000-01-01"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2000-01-01"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2015/226"
+    },
+    {
+     "id": "DU/2002/923"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991101.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991101L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
