@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/206",
+ "source_sha256": "ce77ce33d7e1398bfc0d4e1df1833e6b7e15e2a9d48fb772b9e8781484b770d2",
+ "in_force": "1957-04-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/206",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/206/text/O/M19570206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/206/text/I/M19570206.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/206",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 30,
+  "pos": 206,
+  "address": "WMP19570300206",
+  "displayAddress": "M.P. 1957 nr 30 poz. 206",
+  "title": "Uchwała nr 78a Rady Ministrów z dnia 5 marca 1957 r. w sprawie poprawy zaopatrzenia pracowników w odzież ochronną, roboczą, sprzęt ochrony osobistej i umundurowanie.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-03-05",
+  "entryIntoForce": "1957-04-16",
+  "validFrom": "1957-04-16",
+  "repealDate": "1972-02-04",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/44",
+     "date": "1972-02-04"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1955/908",
+     "date": "1957-04-16"
+    },
+    {
+     "id": "MP/1954/780",
+     "date": "1957-04-16"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1968/42",
+     "date": "1968-02-24"
+    },
+    {
+     "id": "MP/1958/66",
+     "date": "1957-04-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
