@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/763",
+ "source_sha256": "99511b56e8ea1731e97ba674bc738bfb9ad9f9ccc8c4b73b74690d03cedc97c8",
+ "in_force": "2004-10-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/763",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/763/text/O/M20040763.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/763/text/I/M20040763.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/763",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 43,
+  "pos": 763,
+  "address": "WMP20040430763",
+  "displayAddress": "M.P. 2004 nr 43 poz. 763",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 14 października 2004 r. w sprawie wskaźnika cen detalicznych towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów 2004 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-10-14",
+  "promulgation": "2004-10-21",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/31"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/31",
+     "art": "art. 20 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040763.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040763.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
