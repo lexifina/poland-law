@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1949/365",
+ "source_sha256": "96ee5e85afb2d0102b53e94638915221187b61afeea8f7f483457550d26f8a9b",
+ "in_force": "1949-07-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1949/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1949/365/text/O/D19490365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1949/365/text/I/D19490365.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1949/365",
+  "publisher": "DU",
+  "year": 1949,
+  "volume": 47,
+  "pos": 365,
+  "address": "WDU19490470365",
+  "displayAddress": "Dz.U. 1949 nr 47 poz. 365",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 27 lipca 1949 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 16 maja 1922 r. o urlopach dla pracowników, zatrudnionych w przemyśle i handlu.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-07-27",
+  "repealDate": "1969-01-01",
+  "changeDate": "2017-11-23T15:43:36",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/258"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1922/334"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1969/85",
+     "date": "1969-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19490365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19490365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
