@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/333",
+ "source_sha256": "41d6e77435153e76df72cacbd1ea84fe5076c910c5d0faec9ea162a7c447fbfa",
+ "in_force": "1958-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/333",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/333/text/O/M19580333.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/333/text/I/M19580333.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/333",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 59,
+  "pos": 333,
+  "address": "WMP19580590333",
+  "displayAddress": "M.P. 1958 nr 59 poz. 333",
+  "title": "Zarządzenie Ministra Gospodarki Komunalnej z dnia 30 czerwca 1958 r. - Wytyczne w sprawie pobierania opłat za wanny i piece kąpielowe w lokalach mieszkalnych.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-06-30",
+  "entryIntoForce": "1958-07-31",
+  "validFrom": "1958-07-01",
+  "repealDate": "1960-12-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. GOSPODARKI KOMUNALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1959/196",
+     "date": "1959-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1958/271"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/271"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/271",
+     "art": "par. 14"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1960/305",
+     "date": "1960-12-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580333.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580333.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
