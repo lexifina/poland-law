@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1563",
+ "source_sha256": "16fc10a6d2846a0ce5976a9b8f95f74f8c587c3d91ed151b796d998a853c357f",
+ "in_force": "2001-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1027 words, parsed 69; at 69: ', sprawy z wniosków : 1 . Konfederacji Pracodawców Polskich'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1563",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1563/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1563/text/O/D20011563.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1563/text/I/D20011563.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1563/text/T/D20011563L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1563",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 138,
+  "pos": 1563,
+  "address": "WDU20011381563",
+  "displayAddress": "Dz.U. 2001 nr 138 poz. 1563",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 listopada 2001 r. sygn. akt K. 3/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-11-19",
+  "promulgation": "2001-12-04",
+  "entryIntoForce": "2001-12-04",
+  "validFrom": "2001-12-04",
+  "changeDate": "2024-03-15T09:59:30",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kasy chorych",
+   "porządkowanie prawa",
+   "ubezpieczenia zdrowotne"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/78"
+    },
+    {
+     "id": "DU/1991/235"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/978"
+    },
+    {
+     "id": "DU/1997/153"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011563.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011563.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011563L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
