@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/343",
+ "source_sha256": "61dc7f21ade13c632059a0673b13214c8256f2cc92c13bcf7b721d963f2c6757",
+ "in_force": "1925-05-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/343",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/343/text/O/D19250343.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/343/text/I/D19250343.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/343",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 49,
+  "pos": 343,
+  "address": "WDU19250490343",
+  "displayAddress": "Dz.U. 1925 nr 49 poz. 343",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 10 maja 1925 r. o sprzedaży wyrobów tytoniowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-05-10",
+  "entryIntoForce": "1925-05-15",
+  "validFrom": "1925-05-15",
+  "repealDate": "1925-07-09",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprzedaż",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1925/476",
+     "date": "1925-07-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/123"
+    },
+    {
+     "id": "DU/1922/409"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250343.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250343.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
