@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/121",
+ "source_sha256": "1f54387a9d290d9a5f27a2e8fe9b35281e40d1d281965db18cb609db9a68f9ba",
+ "in_force": "1950-01-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/121/text/O/M19500121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/121/text/I/M19500121.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/121",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 12,
+  "pos": 121,
+  "address": "WMP19500120121",
+  "displayAddress": "M.P. 1950 nr 12 poz. 121",
+  "title": "Zarządzenie Ministra Żeglugi z dnia 9 stycznia 1950 r. w sprawie kart rybackich dla rybaków morskich.",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1950-01-09",
+  "entryIntoForce": "1950-01-31",
+  "validFrom": "1950-01-31",
+  "changeDate": "2014-12-31T12:26:25",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rybacy morscy",
+   "rybołówstwo morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1964/11",
+     "date": "1964-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1930/720"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/130"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500121.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
