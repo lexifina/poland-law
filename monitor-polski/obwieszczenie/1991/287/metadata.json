@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/287",
+ "source_sha256": "153b0705572b8bfb805fefee261d52649d204ff0b0ebc61116ee68083b698bd8",
+ "in_force": "1991-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/287",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/287/text/O/M19910287.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/287/text/I/M19910287.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/287",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 41,
+  "pos": 287,
+  "address": "WMP19910410287",
+  "displayAddress": "M.P. 1991 nr 41 poz. 287",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 30 października 1991 r. o wynikach wyborów do Senatu Rzeczypospolitej Polskiej, przeprowadzonych w dniu 27 października 1991 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1991-10-30",
+  "entryIntoForce": "1991-12-18",
+  "validFrom": "1991-12-18",
+  "changeDate": "2025-03-21T10:29:40",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1990/56",
+     "date": "1991-12-18"
+    },
+    {
+     "id": "MP/1989/164",
+     "date": "1991-12-18"
+    },
+    {
+     "id": "MP/1989/163",
+     "date": "1991-12-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/246",
+     "art": "art. 5 ust. 1 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910287.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910287.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
