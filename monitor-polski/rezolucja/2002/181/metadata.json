@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/181",
+ "source_sha256": "11cf0f80dea380fe21768e6ada76436820868e716f10dd579395bbffe4f1f9b8",
+ "in_force": "2002-03-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/181/text/O/M20020181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/181/text/I/M20020181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/181",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 10,
+  "pos": 181,
+  "address": "WMP20020100181",
+  "displayAddress": "M.P. 2002 nr 10 poz. 181",
+  "title": "Rezolucja Sejmu Rzeczypospolitej Polskiej z dnia 15 lutego 2002 r. w sprawie powołania Krajowej Spółki Cukrowej.",
+  "type": "Rezolucja",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-02-15",
+  "promulgation": "2002-03-15",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "cukrownictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/810"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/810",
+     "art": "art. 20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
