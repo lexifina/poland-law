@@ -1,0 +1,3 @@
+Na podstawie art. 9 ust. 1 i 3 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. Nr 22, poz. 98 z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178 i Nr 73, poz. 436 oraz z 1990 r. Nr 3, poz. 16 i Nr 6, poz. 35), w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 27 września 1989 r., sygn. akt K 2/89, ogłaszam utratę z dniem 7 lutego 1990 r. mocy obowiązującej przepisu § 2 ust. 1 rozporządzenia Ministra Handlu Wewnętrznego i Usług z dnia 6 maja 1983 r. w sprawie zasad ustalania cen napojów alkoholowych oraz trybu rozliczeń przedsiębiorstw gastronomicznych (Dz. U. Nr 25, poz. 118).
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
