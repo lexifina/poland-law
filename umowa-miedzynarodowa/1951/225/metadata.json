@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1951/225",
+ "source_sha256": "f523004ff5c73f5c3de538bae4c947c0cf429e30607442b1e76771b7cd9f1760",
+ "in_force": "1951-04-11",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1951/225",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1951/225/text/O/D19510225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1951/225/text/I/D19510225.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1951/225",
+  "publisher": "DU",
+  "year": 1951,
+  "volume": 29,
+  "pos": 225,
+  "address": "WDU19510290225",
+  "displayAddress": "Dz.U. 1951 nr 29 poz. 225",
+  "title": "Umowa o współpracy kulturalnej między Rzecząpospolitą Polską a Albańską Republiką Ludową, podpisaną w Tiranie dnia 2 grudnia 1950 r. (ratyfikowana zgodnie z ustawą z dnia 22 marca 1951 r.).",
+  "type": "Umowa międzynarodowa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-04-11",
+  "repealDate": "1993-07-03",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kultura i sztuka",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Albania"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1993/404",
+     "date": "1993-07-03"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1951/226"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1951/133"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19510225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19510225.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
