@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1386",
+ "source_sha256": "5887a1009bb95a7def206021ee764be49f4738d955e6d45363da672f941afbf7",
+ "in_force": "1950-10-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1386",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1386/text/O/M19501386.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1386/text/I/M19501386.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1386",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 111,
+  "pos": 1386,
+  "address": "WMP19501111386",
+  "displayAddress": "M.P. 1950 nr 111 poz. 1386",
+  "title": "Decyzja Ministra Finansów z dnia 9 października 1950 r. o uznaniu instytucji kredytu długoterminowego za rozwiązane.",
+  "type": "Decyzja",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-10-09",
+  "entryIntoForce": "1950-10-09",
+  "validFrom": "1950-10-09",
+  "repealDate": "1950-10-21",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1950/1386",
+     "date": "1950-10-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/411"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1950/1386",
+     "date": "1950-10-21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19501386.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19501386.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
