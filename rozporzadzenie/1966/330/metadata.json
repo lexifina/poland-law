@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1966/330",
+ "source_sha256": "11a103385de3c7ff5ba25d6d7e5540b5f37bc3197c6c2dd467402b15f9c9193e",
+ "in_force": "1966-12-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1966/330",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1966/330/text/O/D19660330.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1966/330/text/I/D19660330.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1966/330",
+  "publisher": "DU",
+  "year": 1966,
+  "volume": 54,
+  "pos": 330,
+  "address": "WDU19660540330",
+  "displayAddress": "Dz.U. 1966 nr 54 poz. 330",
+  "title": "Rozporządzenie Ministra Żeglugi z dnia 16 grudnia 1966 r. w sprawie uposażenia pracowników izb morskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-12-16",
+  "entryIntoForce": "1966-12-30",
+  "validFrom": "1966-09-01",
+  "repealDate": "1973-07-01",
+  "changeDate": "2022-04-19T12:10:19",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "izby morskie",
+   "uposażenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/259",
+     "date": "1973-07-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1962/160",
+     "date": "1966-09-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1966/216"
+    },
+    {
+     "id": "DU/1966/215"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/320"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19660330.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19660330.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
