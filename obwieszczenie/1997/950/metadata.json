@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/950",
+ "source_sha256": "7e2da7ebafe4171b8378e1d8508a65e412e252fe7db79dd70a67b67db03f674d",
+ "in_force": "1997-11-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/950",
+  "html": "https://eli.gov.pl/api/acts/DU/1997/950/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/950/text/O/D19970950.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/950/text/I/D19970950.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1997/950/text/U/D19970950Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/950",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 142,
+  "pos": 950,
+  "address": "WDU19971420950",
+  "displayAddress": "Dz.U. 1997 nr 142 poz. 950",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 14 listopada 1997 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-11-14",
+  "expirationDate": "2002-03-30",
+  "changeDate": "2024-03-15T11:35:47",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kombatanci",
+   "emerytury i renty",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/436"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/436",
+     "art": "art. 4"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/75"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19970950.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970950.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19970950Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
