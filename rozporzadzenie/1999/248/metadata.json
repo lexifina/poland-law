@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/248",
+ "source_sha256": "c5f2506e9e0d5748f9cd58e4ca7877377db21d121305c8f861e8d001b91ed630",
+ "in_force": "1999-03-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/248",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/248/text/O/D19990248.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/248/text/I/D19990248.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/248/text/T/D19990248L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/248",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 27,
+  "pos": 248,
+  "address": "WDU19990270248",
+  "displayAddress": "Dz.U. 1999 nr 27 poz. 248",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 26 marca 1999 r. zmieniające rozporządzenie w sprawie wynagradzania nauczycieli.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-03-26",
+  "entryIntoForce": "1999-03-31",
+  "validFrom": "1999-03-01",
+  "repealDate": "2000-05-17",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/455",
+     "date": "2000-05-17"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/160",
+     "date": "1999-03-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1998/1006"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/19",
+     "art": "art. 31"
+    },
+    {
+     "id": "DU/1982/19",
+     "art": "art. 33 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990248.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990248.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990248L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
