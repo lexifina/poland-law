@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/241",
+ "source_sha256": "b58bec14365b7b243986d91c80bc9c75b96a098efa564f6f1e9cfe0b39caa5a2",
+ "in_force": "1935-05-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/241",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/241/text/O/D19350241.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/241/text/I/D19350241.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/241",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 33,
+  "pos": 241,
+  "address": "WDU19350330241",
+  "displayAddress": "Dz.U. 1935 nr 33 poz. 241",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 27 kwietnia 1935 r. o sprostowaniu błędu w rozporządzeniu Ministra Skarbu z dnia 15 kwietnia 1935 r. o ulgach w spłacie zaległości podatkowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-04-27",
+  "promulgation": "1935-05-04",
+  "changeDate": "2020-11-03T15:55:22",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1935/225"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350241.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350241.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
