@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/205",
+ "source_sha256": "ea1e1fb955127709fe20de8f128ab51deee2d2846983b08db1c21571179acd6a",
+ "in_force": "1935-07-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/205",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/205/text/O/M19350205.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/205/text/I/M19350205.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/205",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 173,
+  "pos": 205,
+  "address": "WMP19351730205",
+  "displayAddress": "M.P. 1935 nr 173 poz. 205",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 25 lipca 1935 r. o wartości jednego grama czystego złota.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-07-25",
+  "promulgation": "1935-07-31",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/694"
+    },
+    {
+     "id": "DU/1934/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/509",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350205.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350205.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
