@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/224",
+ "source_sha256": "98c6a71338b50a7c7df515d78787b69e85c8aa4b26902da534d3d3184374af42",
+ "in_force": "1965-08-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/224",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/224/text/O/M19650224.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/224/text/I/M19650224.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/224",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 40,
+  "pos": 224,
+  "address": "WMP19650400224",
+  "displayAddress": "M.P. 1965 nr 40 poz. 224",
+  "title": "Zarządzenie Ministra Finansów z dnia 23 lipca 1965 r. zmieniające zarządzenie w sprawie przeniesienia uprawnień na organy finansowe szczebla wojewódzkiego w zakresie zaniechania ustalania zobowiązań podatkowych dla osób niewidomych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-07-23",
+  "entryIntoForce": "1965-08-06",
+  "validFrom": "1965-08-06",
+  "repealDate": "1975-04-25",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zobowiązania podatkowe",
+   "niewidomi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1975/75",
+     "date": "1975-04-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/492",
+     "date": "1965-08-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/452",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650224.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650224.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
