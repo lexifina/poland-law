@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/505",
+ "source_sha256": "6a3b8b6cac6cab92abfaaa0a26ac7a9769b922f1edc629111e3f9f4c02880393",
+ "in_force": "1920-08-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/505",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/505/text/O/D19200505.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/505/text/I/D19200505.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/505",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 73,
+  "pos": 505,
+  "address": "WDU19200730505",
+  "displayAddress": "Dz.U. 1920 nr 73 poz. 505",
+  "title": "Rozporządzenie Ministra Skarbu o ograniczeniu obrotów dewizami i walutami zagranicznemi.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-08-07",
+  "entryIntoForce": "1920-08-11",
+  "validFrom": "1920-08-11",
+  "repealDate": "1921-02-24",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dewizowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1921/104",
+     "date": "1921-02-24"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1920/616",
+     "date": "1920-09-29"
+    },
+    {
+     "id": "DU/1920/580",
+     "date": "1920-09-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19200505.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200505.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
