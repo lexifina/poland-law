@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/662",
+ "source_sha256": "73e3a0e8bac2a3b2d3330b99b0ee26baa109a5c968ba7af6c857a21e3649f03b",
+ "in_force": "1928-07-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/662",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/662/text/O/D19280662.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/662/text/I/D19280662.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/662",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 72,
+  "pos": 662,
+  "address": "WDU19280720662",
+  "displayAddress": "Dz.U. 1928 nr 72 poz. 662",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 20 lipca 1928 r. w sprawie sprostowania błędów w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o kodeksie karnym wojskowym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-07-20",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "sprostowanie",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/328"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280662.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280662.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
