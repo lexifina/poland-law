@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/225",
+ "source_sha256": "3262e7585557c280f44386830d8637a45cd5c89e97033acc15fa009a8867c5e2",
+ "in_force": "1932-08-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/225",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/225/text/O/M19320225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/225/text/I/M19320225.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/225",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 192,
+  "pos": 225,
+  "address": "WMP19321920225",
+  "displayAddress": "M.P. 1932 nr 192 poz. 225",
+  "title": "Okólnik Ministerstwa Skarbu L. D. IV 17677/3/32 z dnia 12 sierpnia 1932 r. w sprawie stosowania ceł maksymalnych",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-08-12",
+  "promulgation": "1932-08-23",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1932/267",
+     "date": "1932-10-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1932/106"
+    },
+    {
+     "id": "DU/1932/105"
+    },
+    {
+     "id": "DU/1925/430"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320225.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
