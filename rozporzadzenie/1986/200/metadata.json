@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1986/200",
+ "source_sha256": "4356430bca727ac7b828d2408ef5957f001cda1479127d5a7ccd943752d564e9",
+ "in_force": "1986-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1986/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1986/200/text/O/D19860200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1986/200/text/I/D19860200.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1986/200",
+  "publisher": "DU",
+  "year": 1986,
+  "volume": 41,
+  "pos": 200,
+  "address": "WDU19860410200",
+  "displayAddress": "Dz.U. 1986 nr 41 poz. 200",
+  "title": "Rozporządzenie Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 2 października 1986 r. w sprawie zwalczania zarazy ogniowej roślin.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1986-10-02",
+  "promulgation": "1986-11-18",
+  "entryIntoForce": "1986-12-01",
+  "validFrom": "1986-12-01",
+  "repealDate": "1995-03-20",
+  "changeDate": "2014-12-31T12:25:36",
+  "releasedBy": [
+   "MIN. ROLNICTWA, LEŚNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby roślin",
+   "rośliny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1995/136",
+     "date": "1995-03-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1985/334"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/55"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/55",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19860200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19860200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
