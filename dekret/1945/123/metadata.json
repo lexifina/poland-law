@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/123",
+ "source_sha256": "d5d056b809a07ec273d7943a6e1016c59f5162d3c8e798f4e5acd449a3a83cfb",
+ "in_force": "1945-06-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/123/text/O/D19450123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/123/text/I/D19450123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/123",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 21,
+  "pos": 123,
+  "address": "WDU19450210123",
+  "displayAddress": "Dz.U. 1945 nr 21 poz. 123",
+  "title": "Dekret z dnia 24 maja 1945 r. o utworzeniu Ministerstwa Odbudowy.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-05-24",
+  "entryIntoForce": "1945-06-11",
+  "validFrom": "1945-06-11",
+  "repealDate": "1949-05-13",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/216",
+     "date": "1949-05-13"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1945/81"
+    },
+    {
+     "id": "MP/1945/65"
+    },
+    {
+     "id": "DU/1946/48"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
