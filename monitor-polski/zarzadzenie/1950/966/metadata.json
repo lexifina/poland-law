@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/966",
+ "source_sha256": "bebeed96b0947f514dcf63ed1dff127ef0760638ed8e5f609cd7baea5954f67e",
+ "in_force": "1950-07-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/966",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/966/text/O/M19500966.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/966/text/I/M19500966.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/966",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 81,
+  "pos": 966,
+  "address": "WMP19500810966",
+  "displayAddress": "M.P. 1950 nr 81 poz. 966",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 8 lipca 1950 r. w sprawie zmian w strukturze organizacyjnej Dyrekcji Generalnej Kolei Państwowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-07-08",
+  "entryIntoForce": "1950-07-20",
+  "validFrom": "1950-07-20",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1950/461",
+     "date": "1950-07-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1949/282"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500966.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500966.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
