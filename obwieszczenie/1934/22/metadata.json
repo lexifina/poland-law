@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/22",
+ "source_sha256": "ea92a29cb1e88208173d6445abac97ae071a1a651afdf399de666b1b99e6c8e5",
+ "in_force": "1934-01-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/22",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/22/text/O/D19340022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/22/text/I/D19340022.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/22",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 3,
+  "pos": 22,
+  "address": "WDU19340030022",
+  "displayAddress": "Dz.U. 1934 nr 3 poz. 22",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 28 grudnia 1933 r. w sprawie sprostowania błędu w rozporządzeniu Ministra Sprawiedliwości z dnia 31 października 1933 r. o ustaleniu ilości stanowisk notarjuszów i ich siedzib urzędowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-12-28",
+  "promulgation": "1934-01-12",
+  "changeDate": "2020-11-03T16:09:33",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "siedziba",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1933/685"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340022.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
