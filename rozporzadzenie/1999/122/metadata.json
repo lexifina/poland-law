@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/122",
+ "source_sha256": "5e97af4a6f599a3f0dc15b601312e75943d5a5b72d26e7cbef4ce3425958eee8",
+ "in_force": "1999-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/122",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/122/text/O/D19990122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/122/text/I/D19990122.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/122/text/T/D19990122L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/122",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 13,
+  "pos": 122,
+  "address": "WDU19990130122",
+  "displayAddress": "Dz.U. 1999 nr 13 poz. 122",
+  "title": "Rozporządzenie Ministrów Spraw Wewnętrznych i Administracji oraz Obrony Narodowej z dnia 15 lutego 1999 r. w sprawie przeprowadzenia poboru w 1999 r.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-02-15",
+  "entryIntoForce": "1999-02-19",
+  "validFrom": "1999-02-19",
+  "changeDate": "2023-07-03T14:26:35",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ",
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje wojskowe",
+   "powszechny obowiązek obrony",
+   "służba wojskowa",
+   "wojsko",
+   "komisje lekarskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 35 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990122.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990122L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
