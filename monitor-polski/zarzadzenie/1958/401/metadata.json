@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/401",
+ "source_sha256": "d1ac5ebe640f3bab3c0f7d305c481a4fcbe1e55a6784b44c33e425de45126aa6",
+ "in_force": "1958-09-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/401",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/401/text/O/M19580401.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/401/text/I/M19580401.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/401",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 69,
+  "pos": 401,
+  "address": "WMP19580690401",
+  "displayAddress": "M.P. 1958 nr 69 poz. 401",
+  "title": "Zarządzenie Ministrów Obrony Narodowej i Spraw Zagranicznych z dnia 29 sierpnia 1958 r. w sprawie wydawania dokumentów dotyczących służby wojskowej osobom stale zamieszkałym za granicą.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-08-29",
+  "entryIntoForce": "1958-09-09",
+  "validFrom": "1958-09-09",
+  "repealDate": "1970-07-13",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH",
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1970/175",
+     "date": "1970-07-13"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/340",
+     "date": "1958-09-09"
+    },
+    {
+     "id": "MP/1954/866",
+     "date": "1958-09-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580401.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580401.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
