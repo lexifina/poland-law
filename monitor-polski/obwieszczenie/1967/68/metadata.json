@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1967/68",
+ "source_sha256": "d20224d637dbf105f4e911f511899441c093fa3cd0b5e6c7612e06a7380e068f",
+ "in_force": "1967-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1967/68",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1967/68/text/O/M19670068.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1967/68/text/I/M19670068.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1967/68",
+  "publisher": "MP",
+  "year": 1967,
+  "volume": 13,
+  "pos": 68,
+  "address": "WMP19670130068",
+  "displayAddress": "M.P. 1967 nr 13 poz. 68",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 marca 1967 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-03-01",
+  "entryIntoForce": "1967-03-01",
+  "validFrom": "1967-03-01",
+  "repealDate": "1967-04-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1967/96",
+     "date": "1967-04-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1967/63",
+     "date": "1967-03-01"
+    },
+    {
+     "id": "MP/1967/39",
+     "date": "1967-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19670068.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19670068.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
