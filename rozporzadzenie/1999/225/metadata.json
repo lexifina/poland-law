@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/225",
+ "source_sha256": "e6b2ece3bc684f2aaf2e43e28b1af8800a5a503d94a27097f363dec375e2211d",
+ "in_force": "1999-04-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/225",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/225/text/O/D19990225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/225/text/I/D19990225.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/225/text/T/D19990225L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/225",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 25,
+  "pos": 225,
+  "address": "WDU19990250225",
+  "displayAddress": "Dz.U. 1999 nr 25 poz. 225",
+  "title": "Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 9 marca 1999 r. w sprawie bezpieczeństwa i higieny pracy przy produkcji cukru.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-03-09",
+  "entryIntoForce": "1999-04-10",
+  "validFrom": "1999-04-10",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cukrownictwo",
+   "bhp"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1994/6",
+     "date": "1999-04-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/141",
+     "art": "art. 237(15) par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990225.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990225L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
