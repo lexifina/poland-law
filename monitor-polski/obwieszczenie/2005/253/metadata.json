@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/253",
+ "source_sha256": "70d3a6905435736d8be0bfe43f97e1103ce9d6aa4cf9bf695aa9b70822969fb6",
+ "in_force": "2005-03-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/253",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/253/text/O/M20050253.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/253/text/I/M20050253.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/253",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 14,
+  "pos": 253,
+  "address": "WMP20050140253",
+  "displayAddress": "M.P. 2005 nr 14 poz. 253",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 25 lutego 2005 r. w sprawie wskaźnika cen dóbr inwestycyjnych za IV kwartał 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-02-25",
+  "promulgation": "2005-03-09",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050253.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050253.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
