@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/149",
+ "source_sha256": "496b20bdbd937e046f87a2c11ee8931b7fb0e01fabe8fa1555998f191cbef70b",
+ "in_force": "2003-02-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/149",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/149/text/O/M20030149.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/149/text/I/M20030149.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/149",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 10,
+  "pos": 149,
+  "address": "WMP20030100149",
+  "displayAddress": "M.P. 2003 nr 10 poz. 149",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 7 lutego 2003 r. o zwolnieniu stanowiska sędziego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-02-07",
+  "promulgation": "2003-02-24",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    },
+    {
+     "id": "DU/1997/753"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    },
+    {
+     "id": "DU/1997/753",
+     "art": "art. 70 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030149.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030149.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
