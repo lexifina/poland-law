@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/60",
+ "source_sha256": "08174146793dcaef15f6e3fa96d7ad87efbdbf86ec1316923438f0bb2b5c4e64",
+ "in_force": "1946-03-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/60",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/60/text/O/D19460060.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/60/text/I/D19460060.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/60",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 7,
+  "pos": 60,
+  "address": "WDU19460070060",
+  "displayAddress": "Dz.U. 1946 nr 7 poz. 60",
+  "title": "Rozporządzenie Ministra Przemysłu z dnia 30 listopada 1945 r. wydane w porozumieniu z Ministrem Oświaty o zmianie przepisów dotyczących egzaminu na czeladnika.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-11-30",
+  "entryIntoForce": "1946-03-13",
+  "validFrom": "1946-03-13",
+  "repealDate": "1946-12-31",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/60",
+     "date": "1946-12-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1946/60",
+     "date": "1946-12-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1947/124",
+     "date": "1947-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1927/468"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/468"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460060.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460060.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
