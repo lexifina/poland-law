@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/509",
+ "source_sha256": "bac33c194b1845ee9babcf2f8677b47da198ee08eece36ec968ea733f20d49eb",
+ "in_force": "1931-07-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/509",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/509/text/O/D19310509.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/509/text/I/D19310509.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/509",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 63,
+  "pos": 509,
+  "address": "WDU19310630509",
+  "displayAddress": "Dz.U. 1931 nr 63 poz. 509",
+  "title": "Konwencja handlowa i nawigacyjna między Polską a Grecją, podpisana w Warszawie dnia 10 kwietnia 1930 r.",
+  "type": "Konwencja",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1931-03-25",
+  "promulgation": "1931-07-25",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "handel zagraniczny",
+   "umowy międzynarodowe",
+   "umowy handlowe i handlowo-nawigacyjne"
+  ],
+  "keywordsNames": [
+   "Grecja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1932/289"
+    },
+    {
+     "id": "DU/1931/696"
+    },
+    {
+     "id": "DU/1931/510"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1931/129"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310509.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310509.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
