@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/85",
+ "source_sha256": "686a8fdbefa7b44d7bfad09170e4dc0dbef5468c0efad57f2c9d77b9f55f1238",
+ "in_force": "1931-03-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/85",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/85/text/O/M19310085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/85/text/I/M19310085.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/85",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 51,
+  "pos": 85,
+  "address": "WMP19310510085",
+  "displayAddress": "M.P. 1931 nr 51 poz. 85",
+  "title": "Obwieszczenie Ministra Reform Rolnych i Ministra Skarbu z dnia 6 lutego 1931 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-02-06",
+  "promulgation": "1931-03-04",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/58"
+    },
+    {
+     "id": "DU/1928/175"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/58",
+     "art": "par. 4"
+    },
+    {
+     "id": "DU/1928/175",
+     "art": "art. 11 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310085.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
