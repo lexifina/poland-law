@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/2",
+ "source_sha256": "1bc1d5127aedd4ed82a5a31aabda74ee3d3bf7f29fee4fa5836260fc348b9863",
+ "in_force": "1990-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/2/text/O/D19900002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/2/text/I/D19900002.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/2",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19900010002",
+  "displayAddress": "Dz.U. 1990 nr 1 poz. 2",
+  "title": "Rozporządzenie Rady Ministrów z dnia 31 grudnia 1989 r. w sprawie zawieszenia w 1990 r. pobierania ceł od niektórych towarów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1989-12-31",
+  "promulgation": "1990-01-01",
+  "entryIntoForce": "1990-01-01",
+  "validFrom": "1990-01-01",
+  "repealDate": "1990-03-29",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1990/112",
+     "date": "1990-03-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/445"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/445",
+     "art": "art. 4 ust. 5 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
