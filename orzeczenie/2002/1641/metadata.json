@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1641",
+ "source_sha256": "21f8cce25826ad13ec634dfd9a307563bb1863d5990f526c67c9111e975d6b89",
+ "in_force": "2002-11-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 271 words, parsed 116; at 116: '4 Konstytucji , orzeka : 1 . Art . 21'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1641",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1641/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1641/text/O/D20021641.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1641/text/I/D20021641.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1641/text/T/D20021641TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1641",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 194,
+  "pos": 1641,
+  "address": "WDU20021941641",
+  "displayAddress": "Dz.U. 2002 nr 194 poz. 1641",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 listopada 2002 r. sygn. akt SK. 40/01.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-11-12",
+  "promulgation": "2002-11-23",
+  "entryIntoForce": "2002-11-23",
+  "validFrom": "2002-11-23",
+  "changeDate": "2024-03-15T10:07:00",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "akta stanu cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1986/180"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021641.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021641.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021641TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
