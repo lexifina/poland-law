@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1967/105",
+ "source_sha256": "8b2bd7e786c768b068d0e965287ac743624b343ed2b33e27d122903e3af80e7f",
+ "in_force": "1967-05-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1967/105",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1967/105/text/O/D19670105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1967/105/text/I/D19670105.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1967/105",
+  "publisher": "DU",
+  "year": 1967,
+  "volume": 22,
+  "pos": 105,
+  "address": "WDU19670220105",
+  "displayAddress": "Dz.U. 1967 nr 22 poz. 105",
+  "title": "Obwieszczenie Ministra Finansów z dnia 31 maja 1967 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenie Rady Ministrów z dnia 25 maja 1962 r. w sprawie tworzenia funduszu zakładowego w przedsiębiorstwach wykonawstwa inwestycyjnego i geologicznych.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-05-31",
+  "repealDate": "1973-07-01",
+  "changeDate": "2017-11-23T15:44:08",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/30"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1962/162"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1973/150",
+     "date": "1973-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19670105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19670105.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
