@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/119",
+ "source_sha256": "3e0f022ed245aa2c149d82ea8dd6994255aec7f427cbd0b4ca0d367e5113b4e8",
+ "in_force": "1919-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/119",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/119/text/O/D19190119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/119/text/I/D19190119.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/119",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 8,
+  "pos": 119,
+  "address": "WDU19190080119",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 8 poz. 119",
+  "title": "Dekret w sprawie niektórych zmian w tymczasowej ustawie o powszechnym obowiązku służby wojskowej.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-01-16",
+  "entryIntoForce": "1919-01-25",
+  "validFrom": "1919-01-25",
+  "repealDate": "1924-11-18",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "NACZELNIK PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1924/609",
+     "date": "1924-11-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1918/28",
+     "date": "1919-01-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190119.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
