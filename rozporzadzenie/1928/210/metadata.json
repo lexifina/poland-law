@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/210",
+ "source_sha256": "308181c7efb52c6691c99f3ef48752cbb54c05989f0b4da0aa92c2ab32a3b17e",
+ "in_force": "1928-03-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/210",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/210/text/O/D19280210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/210/text/I/D19280210.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/210",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 25,
+  "pos": 210,
+  "address": "WDU19280250210",
+  "displayAddress": "Dz.U. 1928 nr 25 poz. 210",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 lutego 1928 r. o zalesieniu gruntów, podlegających obowiązkowi parcelacyjnemu.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-02-24",
+  "entryIntoForce": "1928-03-06",
+  "validFrom": "1928-03-06",
+  "repealDate": "1939-07-24",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "grunty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/429",
+     "date": "1939-07-24"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1932/622",
+     "date": "1932-08-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 44 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280210.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
