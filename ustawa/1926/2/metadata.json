@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/2",
+ "source_sha256": "80665d2c4f2b44bdfcefed6b28c5e4087059f012813b2a1bdd8a05b6fc280173",
+ "in_force": "1926-01-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 555 words, parsed 549; at 549: 'z dniem jej ogłoszenia . Minister Spraw Wewnętrznych Wł .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/2",
+  "html": "https://eli.gov.pl/api/acts/DU/1926/2/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/2/text/O/D19260002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/2/text/I/D19260002.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/2",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19260010002",
+  "displayAddress": "Dz.U. 1926 nr 1 poz. 2",
+  "title": "Ustawa z dnia 29 grudnia 1925 r. o zabezpieczeniu podaży przedmiotów powszedniego użytku.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-12-29",
+  "entryIntoForce": "1926-01-09",
+  "validFrom": "1926-01-09",
+  "repealDate": "1926-08-31",
+  "changeDate": "2024-03-14T12:22:08",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "zboża"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1926/527",
+     "date": "1926-08-31"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1926/164"
+    },
+    {
+     "id": "DU/1926/101"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19260002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
