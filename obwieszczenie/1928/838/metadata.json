@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/838",
+ "source_sha256": "331772aff0f5cf8f67cba1cc7706419e1e4787534e62c3f59f073421aba15c5a",
+ "in_force": "1928-10-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/838",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/838/text/O/D19280838.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/838/text/I/D19280838.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/838",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 94,
+  "pos": 838,
+  "address": "WDU19280940838",
+  "displayAddress": "Dz.U. 1928 nr 94 poz. 838",
+  "title": "Obwieszczenie Ministra Rolnictwa z dnia 20 października 1928 r. o sprostowaniu błędów w rozporządzeniu Ministra Rolnictwa z dnia 8 sierpnia 1928 r. o tępieniu korówki wełnistej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1928-10-20",
+  "changeDate": "2020-11-03T15:56:33",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "ochrona roślin",
+   "ochrona przyrody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 pkt. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/689"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280838.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280838.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
