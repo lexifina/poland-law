@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/974",
+ "source_sha256": "1dfc13c7e973775847688ab9624467545673178ab26d14eb598c78dfc5801860",
+ "in_force": "2005-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/974",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/974/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/974/text/O/D20010974.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/974/text/I/D20010974.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/974/text/T/D20010974L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/974/text/U/D20010974Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/974",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 89,
+  "pos": 974,
+  "address": "WDU20010890974",
+  "displayAddress": "Dz.U. 2001 nr 89 poz. 974",
+  "title": "Ustawa z dnia 20 lipca 2001 r. o świadczeniu dla cywilnych ofiar wojny.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-07-20",
+  "promulgation": "2001-08-28",
+  "entryIntoForce": "2005-01-01",
+  "validFrom": "2005-01-01",
+  "repealDate": "2004-12-31",
+  "changeDate": "2024-03-15T10:00:16",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia pieniężne",
+   "kombatanci",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1076.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1076",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1076",
+    "number": "1076",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/2779",
+     "date": "2004-12-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/2263",
+     "date": "2003-12-31"
+    },
+    {
+     "id": "DU/2001/1786",
+     "date": "2001-12-31"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010974.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010974.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010974L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20010974Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
