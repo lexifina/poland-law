@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/254",
+ "source_sha256": "52e85cca699f07d53520bb547c597873fda987d0b65111c923e181ef03f1fb3e",
+ "in_force": "1962-06-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/254",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/254/text/O/M19620254.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/254/text/I/M19620254.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/254",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 52,
+  "pos": 254,
+  "address": "WMP19620520254",
+  "displayAddress": "M.P. 1962 nr 52 poz. 254",
+  "title": "Zarządzenie Ministra Handlu Wewnętrznego z dnia 16 czerwca 1962 r. w sprawie komisowej sprzedaży samochodów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-06-16",
+  "entryIntoForce": "1962-06-30",
+  "validFrom": "1962-06-30",
+  "repealDate": "1967-07-15",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1967/151",
+     "date": "1967-07-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1960/315"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1961/334"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1961/334",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1 pkt 1 i ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620254.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620254.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
