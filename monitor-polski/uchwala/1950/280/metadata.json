@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/280",
+ "source_sha256": "70aed1661ae12d1c93fda0ecb1950e2f42a8e3ffbff97b7f1c0c9b0cd9f461f9",
+ "in_force": "1950-08-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/280",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/280/text/O/M19500280.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/280/text/I/M19500280.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/280",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 26,
+  "pos": 280,
+  "address": "WMP19500260280",
+  "displayAddress": "M.P. 1950 nr 26 poz. 280",
+  "title": "Uchwała Rady Ministrów z dnia 20 stycznia 1950 r. w sprawie praw i obowiązków głównych (starszych) księgowych przedsiębiorstw i zakładów uspołecznionych.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-01-20",
+  "entryIntoForce": "1950-08-10",
+  "validFrom": "1950-08-10",
+  "repealDate": "1959-06-30",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [
+   "PRZEW. KOMITETU EKONOMICZNEGO RM"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1959/278",
+     "date": "1959-06-30"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1950/806"
+    },
+    {
+     "id": "MP/1950/1189"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/13",
+     "date": "1953-01-14"
+    },
+    {
+     "id": "MP/1951/235",
+     "date": "1951-03-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500280.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500280.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
