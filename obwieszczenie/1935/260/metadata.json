@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/260",
+ "source_sha256": "de640e70e17f9eba8d5bed0ba736764dfd22bb9f30fd4299d8a87dd22360c976",
+ "in_force": "1935-05-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/260",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/260/text/O/D19350260.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/260/text/I/D19350260.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/260",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 36,
+  "pos": 260,
+  "address": "WDU19350360260",
+  "displayAddress": "Dz.U. 1935 nr 36 poz. 260",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 25 kwietnia 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 29 marca 1926 r. o prawie autorskiem.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-04-25",
+  "promulgation": "1935-05-20",
+  "repealDate": "1952-07-31",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "autorskie prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1952/234",
+     "date": "1952-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/176"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/176",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1926/286"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350260.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350260.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
