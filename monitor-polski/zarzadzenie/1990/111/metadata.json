@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/111",
+ "source_sha256": "bd4c55699b24849c75c8fc46aeb2c31804749b1af6698228e7e2ce0fe3032b57",
+ "in_force": "1990-04-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/111/text/O/M19900111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/111/text/I/M19900111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/111",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 14,
+  "pos": 111,
+  "address": "WMP19900140111",
+  "displayAddress": "M.P. 1990 nr 14 poz. 111",
+  "title": "Zarządzenie Ministra Przemysłu z dnia 7 kwietnia 1990 r. uchylające zarządzenie w sprawie zakazu stosowania niektórych materiałów i paliw do produkcji określonych wyrobów i świadczenia usług oraz zakazu produkcji wyrobów i stosowania technologii nadmiernie materiałochłonnych i energochłonnych.",
+  "type": "Zarządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1990-04-07",
+  "entryIntoForce": "1990-04-19",
+  "validFrom": "1990-04-19",
+  "changeDate": "2019-03-08T14:09:19",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1988/240",
+     "date": "1990-04-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1987/250"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/51"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/51",
+     "art": "art. 34 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
