@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/751",
+ "source_sha256": "ffa0f414b691efc356b18a832d71943102d7d2908ea8021da74e50e3d2e085e7",
+ "in_force": "2000-11-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/751",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/751/text/O/M20000751.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/751/text/I/M20000751.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/751/text/T/M20000751L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/751",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 38,
+  "pos": 751,
+  "address": "WMP20000380751",
+  "displayAddress": "M.P. 2000 nr 38 poz. 751",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 20 listopada 2000 r. w sprawie wskaźnika cen produkcji budowlano-montażowej w III kwartale 2000 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-11-20",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "budowlano-montażowe przedsiębiorstwa",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/719"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/719",
+     "art": "par. 11 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000751.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000751.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000751L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
