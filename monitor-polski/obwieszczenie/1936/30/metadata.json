@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/30",
+ "source_sha256": "92c4b30a80445676be0cf0622f9e7abcfebf61df3f2d2b4d3bffda7d51f50e93",
+ "in_force": "1936-01-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/30/text/O/M19360030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/30/text/I/M19360030.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/30",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 20,
+  "pos": 30,
+  "address": "WMP19360200030",
+  "displayAddress": "M.P. 1936 nr 20 poz. 30",
+  "title": "Obwieszczenie Ministra Opieki Społęcznej z dnia 13 stycznia 1936 r. w sprawie zmian w składzie Brackiego Sądu Rozjemczego w Katowicach.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-01-13",
+  "promulgation": "1936-01-25",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "górnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/300"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/300",
+     "art": "par. 76"
+    },
+    {
+     "id": "DU/1934/300",
+     "art": "par. 83"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
