@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/380",
+ "source_sha256": "d419a32819aa82402a6bffd1fa59f687ffbce0ac1cbca5fc58986e6d9b1a3280",
+ "in_force": "1952-03-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/380",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/380/text/O/M19520380.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/380/text/I/M19520380.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/380",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 27,
+  "pos": 380,
+  "address": "WMP19520270380",
+  "displayAddress": "M.P. 1952 nr 27 poz. 380",
+  "title": "Zarządzenie Ministra Budownictwa Miast i Osiedli z dnia 9 stycznia 1952 r. w sprawie przystosowania organizacji instytutu naukowo-badawczego pod nazwą \"Instytut Urbanistyki i Architektury\" do przepisów ustawy z dnia 8 stycznia 1951 r. o tworzeniu instytutów naukowo-badawczych dla potrzeb gospodarki narodowej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-01-09",
+  "entryIntoForce": "1952-03-31",
+  "validFrom": "1952-03-31",
+  "repealDate": "1974-01-31",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "MIN. BUDOWNICTWA MIAST I OSIEDLI"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. BUDOWNICTWA MIAST I OSIEDLI"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/31",
+     "date": "1974-01-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1949/688",
+     "date": "1952-03-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/38"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520380.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520380.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
