@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1960/3",
+ "source_sha256": "6d7e8f9f08487b4fd633b4e15e32ece7b6c37e1b1447e1ff422fc6f7317baec2",
+ "in_force": "1960-01-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1960/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1960/3/text/O/D19600003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1960/3/text/I/D19600003.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1960/3",
+  "publisher": "DU",
+  "year": 1960,
+  "volume": 1,
+  "pos": 3,
+  "address": "WDU19600010003",
+  "displayAddress": "Dz.U. 1960 nr 1 poz. 3",
+  "title": "Rozporządzenie Ministra Finansów z dnia 9 października 1959 r. w sprawie gospodarowania niektórymi wyrobami użytkowymi ze złota i platyny.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-10-09",
+  "entryIntoForce": "1960-01-11",
+  "validFrom": "1960-01-11",
+  "repealDate": "1972-09-01",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1972/221",
+     "date": "1972-09-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1951/426",
+     "date": "1960-01-11"
+    },
+    {
+     "id": "DU/1951/425",
+     "date": "1960-01-11"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1952/37",
+     "date": "1960-01-11"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1960/94"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1966/100",
+     "date": "1966-05-31"
+    },
+    {
+     "id": "DU/1963/200",
+     "date": "1963-08-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/115"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19600003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19600003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
