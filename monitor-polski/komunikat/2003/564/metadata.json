@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/564",
+ "source_sha256": "148ee828e2a131d66e362e0f939b313c2f238249dca9072adebb207dbd39eccf",
+ "in_force": "2003-07-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/564",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/564/text/O/M20030564.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/564/text/I/M20030564.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/564",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 38,
+  "pos": 564,
+  "address": "WMP20030380564",
+  "displayAddress": "M.P. 2003 nr 38 poz. 564",
+  "title": "Komunikat Prezesa Państwowej Agencji Atomistyki z dnia 16 lipca 2003 r. w sprawie sytuacji radiacyjnej kraju w II kwartale 2003 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-07-16",
+  "promulgation": "2003-07-30",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. PAŃSTWOWEJ AGENCJI ATOMISTYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "promieniowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/18",
+     "art": "art. 81"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030564.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030564.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
