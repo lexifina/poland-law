@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/131",
+ "source_sha256": "6b16a8a937b45d04512b7e12612dd4d196b303d443bea6d7bf7f382d0c45fff0",
+ "in_force": "1970-05-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/131",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/131/text/O/M19700131.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/131/text/I/M19700131.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/131",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 15,
+  "pos": 131,
+  "address": "WMP19700150131",
+  "displayAddress": "M.P. 1970 nr 15 poz. 131",
+  "title": "Obwieszczenie Przewodniczącego Komitetu Nauki i Techniki z dnia 12 maja 1970 r. w sprawie ogłoszenia jednolitego tekstu uchwały nr 18 Rady Ministrów z dnia 27 stycznia 1965 r. w sprawie tworzenia, organizacji i finansowania wyodrębnionych zakładów i przedsiębiorstw doświadczalnych dla potrzeb gospodarki narodowej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-05-12",
+  "entryIntoForce": "1970-05-12",
+  "validFrom": "1970-05-12",
+  "repealDate": "1975-03-11",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PRZEW. KOMITETU NAUKI I TECHNIKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1975/43",
+     "date": "1975-03-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1970/125"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1970/125",
+     "art": "par. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1965/33"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700131.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700131.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
