@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1974/54",
+ "source_sha256": "8e68f77e0a2d4c2a20fc2e0bea9e72eafa83efae677e4463a84f5e219c7c59a4",
+ "in_force": "1974-02-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1974/54",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1974/54/text/O/M19740054.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1974/54/text/I/M19740054.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1974/54",
+  "publisher": "MP",
+  "year": 1974,
+  "volume": 7,
+  "pos": 54,
+  "address": "WMP19740070054",
+  "displayAddress": "M.P. 1974 nr 7 poz. 54",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 22 stycznia 1974 r. w sprawie ceny, warunków i trybu sprzedaży państwowych nieruchomości rolnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1974-01-22",
+  "entryIntoForce": "1974-02-27",
+  "validFrom": "1974-02-27",
+  "repealDate": "1979-08-08",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1979/114",
+     "date": "1979-08-08"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1972/217",
+     "date": "1974-02-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/71"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/71",
+     "art": "art. 5"
+    },
+    {
+     "id": "DU/1958/71",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19740054.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19740054.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
