@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/70",
+ "source_sha256": "3817a47960101f6f2541ced4b8137dcf12954d93d968e1fda3f25fe227054ef6",
+ "in_force": "2004-01-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/70",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/70/text/O/M20040070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/70/text/I/M20040070.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/70",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 4,
+  "pos": 70,
+  "address": "WMP20040040070",
+  "displayAddress": "M.P. 2004 nr 4 poz. 70",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 16 stycznia 2004 r. w sprawie średniej krajowej ceny skupu pszenicy w II półroczu 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-01-16",
+  "promulgation": "2004-01-27",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "zboża",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
