@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/835",
+ "source_sha256": "f2775ba8c09431daa403e432fde8ce730bafbb961f8efa3a7963c762e58cbd59",
+ "in_force": "1928-11-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/835",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/835/text/O/D19280835.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/835/text/I/D19280835.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/835",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 94,
+  "pos": 835,
+  "address": "WDU19280940835",
+  "displayAddress": "Dz.U. 1928 nr 94 poz. 835",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 7 listopada 1928 r. o sprostowaniu błędów w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o Straży Granicznej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1928-11-07",
+  "changeDate": "2020-11-03T15:56:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/349"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280835.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280835.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
