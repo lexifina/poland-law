@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/496",
+ "source_sha256": "3154ec467380ec4f59411a3810ec72234a02b9fc1375ee0048a5295d70c21a29",
+ "in_force": "1920-08-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/496",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/496/text/O/D19200496.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/496/text/I/D19200496.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/496",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 72,
+  "pos": 496,
+  "address": "WDU19200720496",
+  "displayAddress": "Dz.U. 1920 nr 72 poz. 496",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych w przedmiocie uregulowania ruchu publicznego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-08-09",
+  "entryIntoForce": "1920-08-10",
+  "validFrom": "1920-08-10",
+  "repealDate": "1920-12-11",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1920/745",
+     "date": "1920-12-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/448"
+    },
+    {
+     "id": "DU/1919/364"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19200496.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200496.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
