@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/229",
+ "source_sha256": "8b87357b2ff983d56b8ff5aadae7004b3d5c22632dcbcd5aae1fa7db9bdb7900",
+ "in_force": "2004-03-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/229",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/229/text/O/M20040229.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/229/text/I/M20040229.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/229",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 14,
+  "pos": 229,
+  "address": "WMP20040140229",
+  "displayAddress": "M.P. 2004 nr 14 poz. 229",
+  "title": "Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 5 marca 2004 r. w sprawie wykazu hut, którym udzielono w 2003 r. dotacji podmiotowych w ustawowo określonym zakresie",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-05",
+  "promulgation": "2004-03-25",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne",
+   "dotacje",
+   "hutnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1014",
+     "art": "art. 73 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040229.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040229.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
