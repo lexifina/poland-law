@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/501",
+ "source_sha256": "0b3c530a60d9e5758941080269f2b1321c35651926ede964183f69aa7bfa9d27",
+ "in_force": "1930-09-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/501",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/501/text/O/D19300501.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/501/text/I/D19300501.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/501",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 63,
+  "pos": 501,
+  "address": "WDU19300630501",
+  "displayAddress": "Dz.U. 1930 nr 63 poz. 501",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 23 sierpnia 1930 r. w sprawie zmiany cen soli jadalnej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-08-23",
+  "promulgation": "1930-09-09",
+  "entryIntoForce": "1930-09-16",
+  "validFrom": "1930-09-16",
+  "repealDate": "1931-06-30",
+  "changeDate": "2018-05-17T15:12:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "artykuły spożywcze",
+   "ceny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/686",
+     "date": "1931-06-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1929/520",
+     "date": "1930-09-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/1043"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/1043",
+     "art": "par. 22"
+    },
+    {
+     "id": "DU/1924/1043",
+     "art": "par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300501.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300501.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
