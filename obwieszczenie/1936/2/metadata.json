@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/2",
+ "source_sha256": "5252efd4da5172a471f94cfaedd392c728b51bd108f5aaba544d3f12c4cbeccf",
+ "in_force": "1936-01-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/2/text/O/D19360002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/2/text/I/D19360002.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/2",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19360010002",
+  "displayAddress": "Dz.U. 1936 nr 1 poz. 2",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 2 grudnia 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 18 marca 1932 r. o wykupie gruntów, podlegających ustawie w przedmiocie ochrony drobnych dzierżawców rolnych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-12-02",
+  "promulgation": "1936-01-03",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "grunty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/181"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/181",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1932/307"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
