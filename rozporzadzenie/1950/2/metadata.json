@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/2",
+ "source_sha256": "af85e1273ea9f6217f75ffbe5dd1da5970b66bf0b190024e40b7a405018f4af3",
+ "in_force": "1950-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/2/text/O/D19500002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/2/text/I/D19500002.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/2",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19500010002",
+  "displayAddress": "Dz.U. 1950 nr 1 poz. 2",
+  "title": "Rozporządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 12 grudnia 1949 r. w sprawie zmiany listy rzemiosł.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-12",
+  "entryIntoForce": "1950-01-13",
+  "validFrom": "1950-01-13",
+  "repealDate": "1957-06-22",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1957/145",
+     "date": "1957-06-22"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1954/126",
+     "date": "1954-07-07"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/468",
+     "date": "1950-01-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/468"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
