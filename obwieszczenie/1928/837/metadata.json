@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/837",
+ "source_sha256": "a19fb1df62ae8b3d6d2fef7913c4f6eda5d0d768f99440e6491e63f6139acb75",
+ "in_force": "1928-10-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/837",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/837/text/O/D19280837.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/837/text/I/D19280837.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/837",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 94,
+  "pos": 837,
+  "address": "WDU19280940837",
+  "displayAddress": "Dz.U. 1928 nr 94 poz. 837",
+  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 9 października 1928 r. o sprostowaniu błędu w załączniku do obwieszczenia Ministra Spraw Wojskowych z dnia 8 marca 1928 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 23 maja 1924 r. o powszechnym obowiązku służby wojskowej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-10-09",
+  "changeDate": "2026-10-23T11:00:29",
+  "releasedBy": [
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "powszechny obowiązek obrony",
+   "służba wojskowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1924/609"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280837.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280837.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
