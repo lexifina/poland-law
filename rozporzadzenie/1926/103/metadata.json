@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/103",
+ "source_sha256": "3331da6190949370be4a7efdfcb6c5078bc6a72e156477edfeb93b73200e530d",
+ "in_force": "1926-03-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/103/text/O/D19260103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/103/text/I/D19260103.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/103",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 18,
+  "pos": 103,
+  "address": "WDU19260180103",
+  "displayAddress": "Dz.U. 1926 nr 18 poz. 103",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 stycznia 1926 r. o obowiązkowem utrzymywaniu przez apteki niektórych surowic.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-01-27",
+  "entryIntoForce": "1926-03-24",
+  "validFrom": "1926-03-24",
+  "repealDate": "1949-01-04",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "apteki",
+   "surowice i szczepionki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1948/448",
+     "date": "1949-01-04"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1923/137",
+     "date": "1926-03-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/86"
+    },
+    {
+     "id": "DU/1923/1060"
+    },
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
