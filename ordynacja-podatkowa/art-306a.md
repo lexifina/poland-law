@@ -1,6 +1,6 @@
-# Art. 306a.
-
 ## Dział VIIIa Zaświadczenia
+
+# Art. 306a.
 
 § 1. Organ podatkowy wydaje zaświadczenia na żądanie osoby ubiegającej się o zaświadczenie.
 
