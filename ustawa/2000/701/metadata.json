@@ -1,0 +1,102 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/701",
+ "source_sha256": "48669db0e805434925c281c2e1c38b1826df1be33c96ec02a1cf4779ce9cf823",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/701",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/701/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/701/text/O/D20000701.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/701/text/I/D20000701.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/701/text/T/D20000701L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/701/text/U/D20000701Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/701",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 60,
+  "pos": 701,
+  "address": "WDU20000600701",
+  "displayAddress": "Dz.U. 2000 nr 60 poz. 701",
+  "title": "Ustawa z dnia 29 czerwca 2000 r. o zmianie ustawy - Kodeks karny wykonawczy.",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-29",
+  "promulgation": "2000-07-27",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "changeDate": "2024-03-15T09:49:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1326.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1326",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1326",
+    "number": "1326",
+    "term": 3
+   }
+  ],
+  "comments": "objęte tekstem jednolitym Dz. U. z 2017 r. poz. 665",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/1033",
+     "date": "2002-07-31"
+    },
+    {
+     "id": "DU/2001/1686",
+     "date": "2001-12-31"
+    },
+    {
+     "id": "DU/2000/1318",
+     "date": "2000-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/557",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000701.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000701.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000701L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20000701Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
