@@ -1,0 +1,3 @@
+Kierując się podstawowymi zasadami ustroju socjalistycznego, przywiązując największą wagę do poprawy warunków życia wszystkich ludzi pracy oraz uznając, że wprowadzenie systemu zaopatrzenia emerytalnego oraz innych świadczeń dla rolników i ich rodzin:
+
+- zapewni zaopatrzenie na starość oraz na wypadek inwalidztwa tym rolnikom, którzy zwiększając produkcję rolną i sprzedając produkty rolne jednostkom gospodarki uspołecznionej aktywnie uczestniczą w realizacji programu wyżywienia narodu; - stworzy warunki do dalszego rozwoju rolnictwa uspołecznionego oraz do korzystnej przebudowy struktury indywidualnych gospodarstw rolnych i unowocześnienia metod gospodarowania; - będzie kolejnym doniosłym aktem realizacji sojuszu robotniczo-chłopskiego, stanowi się, co następuje:
