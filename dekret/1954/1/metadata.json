@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1954/1",
+ "source_sha256": "d60352b0df3fe3cbd7f614f50fceffa2d9e19ad629023365dc126fdd857ff56c",
+ "in_force": "1954-01-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1954/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1954/1/text/O/D19540001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1954/1/text/I/D19540001.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1954/1",
+  "publisher": "DU",
+  "year": 1954,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU19540010001",
+  "displayAddress": "Dz.U. 1954 nr 1 poz. 1",
+  "title": "Dekret z dnia 30 grudnia 1953 r. o zmianie prawa o notariacie.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-12-30",
+  "entryIntoForce": "1954-01-02",
+  "validFrom": "1954-01-02",
+  "repealDate": "1989-07-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1989/176",
+     "date": "1989-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1951/276",
+     "date": "1954-01-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19540001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19540001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
