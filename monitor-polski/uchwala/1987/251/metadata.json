@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/251",
+ "source_sha256": "b0ab1b7fda1969934de9f7f15fc7e4acb7cbc17db96bd8c60137b963302bd374",
+ "in_force": "1987-10-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/251",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/251/text/O/M19870251.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/251/text/I/M19870251.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/251",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 32,
+  "pos": 251,
+  "address": "WMP19870320251",
+  "displayAddress": "M.P. 1987 nr 32 poz. 251",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 24 października 1987 r. w sprawie odwołania ministra przemysłu chemicznego i lekkiego.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-10-24",
+  "entryIntoForce": "1987-10-24",
+  "validFrom": "1987-10-24",
+  "repealDate": "1987-11-02",
+  "changeDate": "2023-06-19T14:29:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ministrowie",
+   "przemysł chemiczny",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1987/251",
+     "date": "1987-11-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 37 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1987/251",
+     "date": "1987-11-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870251.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870251.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
