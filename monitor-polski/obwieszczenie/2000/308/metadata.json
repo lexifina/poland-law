@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/308",
+ "source_sha256": "1260299d2ad87f9c6246efdb0c1c110c843a72bc629857fb7d8f0e49a72b39f4",
+ "in_force": "2000-05-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/308",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/308/text/O/M20000308.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/308/text/I/M20000308.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/308",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 14,
+  "pos": 308,
+  "address": "WMP20000140308",
+  "displayAddress": "M.P. 2000 nr 14 poz. 308",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 15 maja 2000 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych w kwietniu 2000 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-15",
+  "changeDate": "2020-10-20T09:38:43",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1999/1004"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000308.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000308.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
