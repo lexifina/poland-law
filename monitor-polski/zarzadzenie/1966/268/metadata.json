@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1966/268",
+ "source_sha256": "f64f94823680c9a825b0ba7a1f4f85854913fbf6019f1d184b7b0eeb99d7b5cd",
+ "in_force": "1966-10-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1966/268",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1966/268/text/O/M19660268.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1966/268/text/I/M19660268.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1966/268",
+  "publisher": "MP",
+  "year": 1966,
+  "volume": 55,
+  "pos": 268,
+  "address": "WMP19660550268",
+  "displayAddress": "M.P. 1966 nr 55 poz. 268",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 7 września 1966 r. w sprawie ustalenia rejonów, w których dopuszczone jest w 1967 r. sztuczne zakażanie żyta sporyszem.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-09-07",
+  "entryIntoForce": "1966-10-10",
+  "validFrom": "1966-10-10",
+  "changeDate": "2020-09-28T14:06:05",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1967/81",
+     "date": "1967-03-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1960/99"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/55"
+    },
+    {
+     "id": "DU/1960/99"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/55",
+     "art": "art. 26 ust. 2"
+    },
+    {
+     "id": "DU/1960/99",
+     "art": "par. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19660268.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19660268.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
