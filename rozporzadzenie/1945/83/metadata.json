@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/83",
+ "source_sha256": "78e0d828402c2d52a5047399c54c129ec252a7b9498b3c3e87f42f1636724067",
+ "in_force": "1945-04-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/83",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/83/text/O/D19450083.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/83/text/I/D19450083.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/83",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 14,
+  "pos": 83,
+  "address": "WDU19450140083",
+  "displayAddress": "Dz.U. 1945 nr 14 poz. 83",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 14 kwietnia 1945 r. o ustaleniu taryfy na wyroby tytoniowe Polskiego Monopolu Tytoniowego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-04-14",
+  "entryIntoForce": "1945-04-17",
+  "validFrom": "1945-04-17",
+  "repealDate": "1945-12-17",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/328",
+     "date": "1945-12-17"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1945/170",
+     "date": "1945-08-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/6",
+     "date": "1945-04-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/240"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450083.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450083.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
