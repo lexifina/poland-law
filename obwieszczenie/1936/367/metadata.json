@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/367",
+ "source_sha256": "d704d9eb4f7402f941a0f098dd00b3b252ed55ee0b7b713d3af5f3ceffc8240a",
+ "in_force": "1936-07-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/367",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/367/text/O/D19360367.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/367/text/I/D19360367.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/367",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 51,
+  "pos": 367,
+  "address": "WDU19360510367",
+  "displayAddress": "Dz.U. 1936 nr 51 poz. 367",
+  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 12 czerwca 1936 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 18 grudnia 1920 r. o pocztach, telegrafach i telefonach w czasie wojny lub grożącego Państwu niebezpieczeństwa.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-06-12",
+  "promulgation": "1936-07-06",
+  "repealDate": "1939-04-01",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/195",
+     "date": "1939-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/244"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/244",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1921/36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360367.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360367.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
