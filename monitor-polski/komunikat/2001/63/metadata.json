@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/63",
+ "source_sha256": "e107bce681410ed5c10ac92e0c64a5aa2b87e9ff6cd75446f96a89031cff6833",
+ "in_force": "2001-01-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/63",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/63/text/O/M20010063.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/63/text/I/M20010063.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/63",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 2,
+  "pos": 63,
+  "address": "WMP20010020063",
+  "displayAddress": "M.P. 2001 nr 2 poz. 63",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 stycznia 2001 r. w sprawie średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w 2000 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-01-15",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 93 ust. 3 pkt 1 lit. a)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010063.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010063.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
