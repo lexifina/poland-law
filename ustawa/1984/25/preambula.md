@@ -1,0 +1,1 @@
+W celu umożliwienia zakładom pracy samodzielnego ustalania zasad wynagradzania pracowników z wykorzystaniem wyników wartościowania pracy oraz nowoczesnych technik i metod organizacji pracy, a także w celu ściślejszego powiązania wynagrodzeń z wynikami pracy oraz z jakością produkcji i usług stanowi się, co następuje:
