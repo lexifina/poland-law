@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1994/382",
+ "source_sha256": "473f5567cdfa833a840861e8d14d4a2f2b54fa6f49106b2abd05ff2653a41872",
+ "in_force": "1994-10-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1994/382",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1994/382/text/O/M19940382.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1994/382/text/I/M19940382.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1994/382",
+  "publisher": "MP",
+  "year": 1994,
+  "volume": 47,
+  "pos": 382,
+  "address": "WMP19940470382",
+  "displayAddress": "M.P. 1994 nr 47 poz. 382",
+  "title": "Zarządzenie Ministra Finansów z dnia 17 sierpnia 1994 r. w sprawie wzoru deklaracji podatkowych dla podatku od towarów i usług oraz podatku akcyzowego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1994-08-17",
+  "entryIntoForce": "1994-10-28",
+  "validFrom": "1994-10-28",
+  "repealDate": "1995-02-17",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "deklaracja podatkowa",
+   "podatek akcyzowy",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1995/105",
+     "date": "1995-02-17"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1993/240",
+     "date": "1994-10-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/50"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/50",
+     "art": "art. 10 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19940382.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19940382.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
