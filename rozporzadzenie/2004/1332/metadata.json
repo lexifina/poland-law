@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1332",
+ "source_sha256": "30e63ac834de5f6427a6556597c87b0e298b53252ffbbed733fb1d9d923a2d70",
+ "in_force": "2004-06-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1332",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1332/text/O/D20041332.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1332/text/I/D20041332.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1332",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 127,
+  "pos": 1332,
+  "address": "WDU20041271332",
+  "displayAddress": "Dz.U. 2004 nr 127 poz. 1332",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 maja 2004 r. w sprawie wynagrodzenia asystentów sędziów",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-05-10",
+  "promulgation": "2004-06-03",
+  "entryIntoForce": "2004-06-18",
+  "validFrom": "2004-06-18",
+  "repealDate": "2005-05-25",
+  "changeDate": "2014-12-31T12:26:01",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2005/703",
+     "date": "2005-05-25"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2003/528",
+     "date": "2004-06-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 155 par. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20041332.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041332.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
