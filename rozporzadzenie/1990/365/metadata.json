@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/365",
+ "source_sha256": "d46cc999fea2fa79e9b66734095ac80e9e2c663db5b052ded9d77deaabb3d2cf",
+ "in_force": "1990-09-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/365/text/O/D19900365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/365/text/I/D19900365.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/365",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 62,
+  "pos": 365,
+  "address": "WDU19900620365",
+  "displayAddress": "Dz.U. 1990 nr 62 poz. 365",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 28 sierpnia 1990 r. zmieniające rozporządzenie w sprawie wykonania przepisów ustawy - Prawo przewozowe.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-08-28",
+  "promulgation": "1990-09-10",
+  "entryIntoForce": "1990-09-25",
+  "validFrom": "1990-09-25",
+  "repealDate": "1997-04-03",
+  "changeDate": "2014-12-31T12:25:38",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przewozowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1997/142",
+     "date": "1997-04-03"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1985/128",
+     "date": "1990-09-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/272"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/272",
+     "art": "art. 61 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
