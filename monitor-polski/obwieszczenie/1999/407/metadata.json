@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/407",
+ "source_sha256": "161e9361e54010560d7cc7e1c1fb3ec7fdb73d01a1ed2925b09cbf0365d83a25",
+ "in_force": "1999-07-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/407",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/407/text/O/M19990407.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/407/text/I/M19990407.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/407/text/T/M9990407.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/407",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 26,
+  "pos": 407,
+  "address": "WMP19990260407",
+  "displayAddress": "M.P. 1999 nr 26 poz. 407",
+  "title": "Obwieszczenie Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast z dnia 15 lipca 1999 r. w sprawie ustalenia ceny 1 metra kwadratowego powierzchni użytkowej budynku mieszkalnego za I kwartał 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-07-15",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. URZĘDU MIESZKALNICTWA I ROZWOJU MIAST"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "budownictwo mieszkaniowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/259"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/259",
+     "art": "par. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990407.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990407.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990407.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
