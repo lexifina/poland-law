@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2384",
+ "source_sha256": "3437552489dc49379d07f48dced2dc3c795fbc52bbf06ea9e7aba1b193a370e9",
+ "in_force": "2004-11-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 305 words, parsed 129; at 129: 'Rzeczypospolitej Polskiej , orzeka : I 1 . Art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2384",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/2384/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2384/text/O/D20042384.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2384/text/I/D20042384.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/2384/text/T/D20042384TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2384",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 237,
+  "pos": 2384,
+  "address": "WDU20042372384",
+  "displayAddress": "Dz.U. 2004 nr 237 poz. 2384",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 października 2004 r. sygn. akt SK 1/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-10-27",
+  "promulgation": "2004-11-03",
+  "entryIntoForce": "2004-11-03",
+  "validFrom": "2004-11-03",
+  "changeDate": "2024-03-15T09:55:48",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2005-11-03"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20042384.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042384.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20042384TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
