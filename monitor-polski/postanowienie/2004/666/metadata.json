@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/666",
+ "source_sha256": "035ffafdc37136ce53de8fa9fb463c25d25799f613b9cfbbbbe9715ba0fbe2f6",
+ "in_force": "2004-09-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/666",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/666/text/O/M20040666.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/666/text/I/M20040666.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/666",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 38,
+  "pos": 666,
+  "address": "WMP20040380666",
+  "displayAddress": "M.P. 2004 nr 38 poz. 666",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 6 września 2004 r. nr 113-30-04 o zmianie w składzie Rady Ministrów",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-06",
+  "promulgation": "2004-09-15",
+  "changeDate": "2020-10-07T10:45:46",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stanowiska",
+   "ministrowie",
+   "administracja rządowa",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 161"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040666.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040666.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
