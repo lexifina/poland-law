@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1979/108",
+ "source_sha256": "f7d1c89e160518241e1957d43c459bac0bf6331872db918c7efd753b48e2b442",
+ "in_force": "1979-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1979/108",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1979/108/text/O/M19790108.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1979/108/text/I/M19790108.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1979/108",
+  "publisher": "MP",
+  "year": 1979,
+  "volume": 17,
+  "pos": 108,
+  "address": "WMP19790170108",
+  "displayAddress": "M.P. 1979 nr 17 poz. 108",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 11 lipca 1979 r. w sprawie wodnych urządzeń pomiarowych oraz znaków żeglugowych.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1979-07-11",
+  "entryIntoForce": "1979-09-30",
+  "validFrom": "1979-09-30",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żegluga śródlądowa",
+   "wodne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1964/223",
+     "date": "1979-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/230"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/230",
+     "art": "art. 31 ust. 4 pkt 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/1229",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19790108.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19790108.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
