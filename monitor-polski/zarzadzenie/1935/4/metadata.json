@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/4",
+ "source_sha256": "d0db4fa2f037a10830bd916cc6aaa692d72884ce1e17c9d181ab601003ff96fe",
+ "in_force": "1935-01-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/4/text/O/M19350004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/4/text/I/M19350004.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/4",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 4,
+  "pos": 4,
+  "address": "WMP19350040004",
+  "displayAddress": "M.P. 1935 nr 4 poz. 4",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 21 grudnia 1934 r. w sprawie wywłaszczenia gruntów w lesie Kabackim dóbr Wilanów na cele wojskowe.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-12-21",
+  "promulgation": "1935-01-05",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wywłaszczenia",
+   "grunty",
+   "lasy",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1934/776"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/681"
+    },
+    {
+     "id": "DU/1919/162"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/681",
+     "art": "art. 46 ust. 2"
+    },
+    {
+     "id": "DU/1919/162",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1919/162",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
