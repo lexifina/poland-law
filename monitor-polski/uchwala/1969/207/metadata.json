@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/207",
+ "source_sha256": "6e343566676ba6eda59733ddcb92e55ba63be1abf0fdea076365bc4ff6e7eeda",
+ "in_force": "1969-06-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/207",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/207/text/O/M19690207.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/207/text/I/M19690207.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/207",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 27,
+  "pos": 207,
+  "address": "WMP19690270207",
+  "displayAddress": "M.P. 1969 nr 27 poz. 207",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 28 czerwca 1969 r. w sprawie stwierdzenia ważności wyboru posłów na Sejm.",
+  "type": "Uchwała",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-06-28",
+  "entryIntoForce": "1969-06-28",
+  "validFrom": "1969-06-28",
+  "repealDate": "1976-01-17",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1969/177"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1956/210"
+    },
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1956/210",
+     "art": "art. 74"
+    },
+    {
+     "id": "DU/1952/232",
+     "art": "art. 16 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1976/15",
+     "date": "1976-01-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690207.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690207.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
