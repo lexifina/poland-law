@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1967/209",
+ "source_sha256": "95b1fda39e6dd3032dd46a921ea1c8aca504e91e68d285c7d56549ed5853e34e",
+ "in_force": "1967-08-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1967/209",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1967/209/text/O/M19670209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1967/209/text/I/M19670209.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1967/209",
+  "publisher": "MP",
+  "year": 1967,
+  "volume": 43,
+  "pos": 209,
+  "address": "WMP19670430209",
+  "displayAddress": "M.P. 1967 nr 43 poz. 209",
+  "title": "Zarządzenie Ministra Żeglugi z dnia 21 lipca 1967 r. w sprawie pełnienia służby przeciwpożarowej oraz prowadzenia dokumentów ochrony przeciwpożarowej na statkach morskich.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-07-21",
+  "entryIntoForce": "1967-08-01",
+  "validFrom": "1967-08-01",
+  "repealDate": "1980-01-31",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski",
+   "dokumenty",
+   "przeciwpożarowa ochrona",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/11",
+     "date": "1980-01-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/89"
+    },
+    {
+     "id": "DU/1961/318"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/89",
+     "art": "par. 5 pkt 6 i 10"
+    },
+    {
+     "id": "DU/1961/318",
+     "art": "art. 45 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19670209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19670209.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
