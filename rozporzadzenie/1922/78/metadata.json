@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/78",
+ "source_sha256": "bae662c9a8c91042f66939bf57799d3f676093373af248fb461e4967eb47c6e7",
+ "in_force": "1922-02-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/78",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/78/text/O/D19220078.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/78/text/I/D19220078.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/78",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 10,
+  "pos": 78,
+  "address": "WDU19220100078",
+  "displayAddress": "Dz.U. 1922 nr 10 poz. 78",
+  "title": "Rozporządzenie Ministra Zdrowia Publicznego z dnia 23 stycznia 1922 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych w przedmiocie przepisów sanitarnych dla hoteli, pokojów umeblowanych i pensjonatów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-01-23",
+  "entryIntoForce": "1922-02-17",
+  "validFrom": "1922-02-17",
+  "repealDate": "1935-08-04",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. ZDROWIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby zakaźne",
+   "hotele"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1935/352",
+     "date": "1935-08-04"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1926/142",
+     "date": "1926-03-09"
+    },
+    {
+     "id": "DU/1924/145",
+     "date": "1924-02-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/402"
+    },
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220078.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220078.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
