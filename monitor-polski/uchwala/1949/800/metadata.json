@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1949/800",
+ "source_sha256": "dddda4ad6b818fc6f097977f9344ec77aa2b5c0b31372e5ee74e69095787e42a",
+ "in_force": "1949-05-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1949/800",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1949/800/text/O/M19490800.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1949/800/text/I/M19490800.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1949/800",
+  "publisher": "MP",
+  "year": 1949,
+  "volume": 59,
+  "pos": 800,
+  "address": "WMP19490590800",
+  "displayAddress": "M.P. 1949 nr 59 poz. 800",
+  "title": "Uchwała Komitetu Ekonomicznego Rady Ministrów z dnia 27 maja 1949 r. w sprawie zasad wzajemnego przekazywania maszyn, urządzeń technicznych, środków transportowych i innych przedmiotów majątku trwałego przez urzędy, instytucje i przedsiębiorstwa państwowe.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-05-27",
+  "entryIntoForce": "1949-05-27",
+  "validFrom": "1949-05-27",
+  "repealDate": "1956-12-13",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "KOMITET EKONOMICZNY RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1956/1205",
+     "date": "1956-12-13"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1951/77"
+    },
+    {
+     "id": "MP/1950/885"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1949/919",
+     "date": "1949-09-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19490800.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19490800.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
