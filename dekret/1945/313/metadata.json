@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/313",
+ "source_sha256": "57fa8b9c863aaf25d851250c103e56d1c6e062ae0f087c651453848ce27c8e72",
+ "in_force": "1945-12-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/313",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/313/text/O/D19450313.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/313/text/I/D19450313.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/313",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 56,
+  "pos": 313,
+  "address": "WDU19450560313",
+  "displayAddress": "Dz.U. 1945 nr 56 poz. 313",
+  "title": "Dekret z dnia 16 listopada 1945 r. o zmianie przepisów dotyczących szkół akademickich i stosunku służbowego profesorów i pomocniczych sił naukowych tych szkół.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-11-16",
+  "entryIntoForce": "1945-12-16",
+  "validFrom": "1945-12-16",
+  "repealDate": "1952-02-07",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1947/415",
+     "date": "1947-10-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1933/247",
+     "date": "1945-12-16"
+    },
+    {
+     "id": "DU/1928/204",
+     "date": "1945-12-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1952/38",
+     "date": "1952-02-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450313.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450313.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
