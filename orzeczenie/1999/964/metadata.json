@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/964",
+ "source_sha256": "2cbfa37a4834471eb23c2b5d120549298876824a97e23547ac923ba27079bd57",
+ "in_force": "1999-10-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 385 words, parsed 210; at 210: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 42'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/964",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/964/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/964/text/O/D19990964.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/964/text/I/D19990964.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/964/text/T/D19990964L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/964",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 86,
+  "pos": 964,
+  "address": "WDU19990860964",
+  "displayAddress": "Dz.U. 1999 nr 86 poz. 964",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 2 czerwca 1999 r. sygn. akt K. 34/98.",
+  "type": "Orzeczenie",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-02",
+  "entryIntoForce": "1999-10-22",
+  "validFrom": "1999-10-22",
+  "changeDate": "2024-03-15T11:34:29",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kwatery wojskowe"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Objety tekstem jednolitym Dz. U. 2002 r. nr 42, poz. 368 z dniem 21 marca 2002 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/433",
+     "date": "1999-10-22"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1995/433"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990964.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990964.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990964L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
