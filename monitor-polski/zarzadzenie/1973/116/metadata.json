@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1973/116",
+ "source_sha256": "3277c2e5a8b22a409ce8f78e7f7168eb7292e25ecdc4a9f65cda6e4dcac3ac5f",
+ "in_force": "1973-04-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1973/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1973/116/text/O/M19730116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1973/116/text/I/M19730116.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1973/116",
+  "publisher": "MP",
+  "year": 1973,
+  "volume": 19,
+  "pos": 116,
+  "address": "WMP19730190116",
+  "displayAddress": "M.P. 1973 nr 19 poz. 116",
+  "title": "Zarządzenie Ministra Gospodarki Terenowej i Ochrony Środowiska z dnia 8 kwietnia 1973 r. zmieniające zarządzenie w sprawie zamiany lokali mieszkalnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-04-08",
+  "entryIntoForce": "1973-04-21",
+  "validFrom": "1973-04-21",
+  "repealDate": "1980-08-22",
+  "changeDate": "2024-01-15T13:53:48",
+  "releasedBy": [
+   "MIN. GOSPODARKI TERENOWEJ I OCHRONY ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokal",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/93",
+     "date": "1980-08-22"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1972/53",
+     "date": "1973-04-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1971/397"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1971/397",
+     "art": "par. 17 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19730116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19730116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
