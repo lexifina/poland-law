@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1027",
+ "source_sha256": "45b5558828af321e01b98b335e5bf45c62477c157a0c51fa2ca9e42dc6466fef",
+ "in_force": "1999-10-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1027",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1027/text/O/D19991027.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1027/text/I/D19991027.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1027/text/T/D19991027L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1027",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 91,
+  "pos": 1027,
+  "address": "WDU19990911027",
+  "displayAddress": "Dz.U. 1999 nr 91 poz. 1027",
+  "title": "Rozporządzenie Rady Ministrów z dnia 8 listopada 1999 r. w sprawie wykazu spółek realizujących obrót specjalny.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-11-08",
+  "entryIntoForce": "1999-10-18",
+  "validFrom": "1999-10-18",
+  "repealDate": "2003-01-15",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "obrót specjalny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/932"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/932",
+     "art": "art. 9 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/2053",
+     "date": "2003-01-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991027.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991027.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991027L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
