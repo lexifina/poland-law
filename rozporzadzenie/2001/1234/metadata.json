@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1234",
+ "source_sha256": "a2e7ebc230d8da547b78521c8ce165832c2d774141f14a02b19d05847e93b299",
+ "in_force": "2001-10-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1234/text/O/D20011234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1234/text/I/D20011234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1234",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 116,
+  "pos": 1234,
+  "address": "WDU20011161234",
+  "displayAddress": "Dz.U. 2001 nr 116 poz. 1234",
+  "title": "Rozporządzenie Rady Ministrów z dnia 4 września 2001 r. zmieniające rozporządzenie w sprawie warunków i trybu udzielania kredytów i pożyczek ze środków Krajowego Funduszu Mieszkaniowego oraz niektórych wymagań dotyczących lokali i budynków finansowanych przy udziale tych środków.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-09-04",
+  "promulgation": "2001-10-12",
+  "entryIntoForce": "2001-10-20",
+  "validFrom": "2001-10-20",
+  "repealDate": "2007-11-30",
+  "changeDate": "2014-12-31T12:25:54",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo mieszkaniowe",
+   "banki",
+   "kredyty i pożyczki",
+   "stopa procentowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/1556",
+     "date": "2007-11-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/719",
+     "date": "2001-10-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1999/690"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/654"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/654",
+     "art": "art. 19 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20011234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
