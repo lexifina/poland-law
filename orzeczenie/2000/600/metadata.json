@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/600",
+ "source_sha256": "7540d7dd4e19dd049eba7632f0445a17400c8bf737b115d4b6d3cb4599484b09",
+ "in_force": "2000-06-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 654 words, parsed 116; at 116: ', o udzielenie odpowiedzi : 1 ) co do zgodności'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/600",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/600/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/600/text/O/D20000600.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/600/text/I/D20000600.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/600/text/T/D20000600L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/600",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 50,
+  "pos": 600,
+  "address": "WDU20000500600",
+  "displayAddress": "Dz.U. 2000 nr 50 poz. 600",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 czerwca 2000 r. sygn. akt P. 3/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-14",
+  "promulgation": "2000-06-21",
+  "entryIntoForce": "2000-06-21",
+  "validFrom": "2000-06-21",
+  "changeDate": "2024-03-15T09:49:33",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezpieczeństwo państwa",
+   "funkcje publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/860"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000600.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000600.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000600L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
