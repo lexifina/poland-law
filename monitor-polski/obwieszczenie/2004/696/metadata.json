@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/696",
+ "source_sha256": "71d861268c956389d04e803438a640522d336cdca665b877cc91456af58623cd",
+ "in_force": "2004-09-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/696",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/696/text/O/M20040696.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/696/text/I/M20040696.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/696",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 39,
+  "pos": 696,
+  "address": "WMP20040390696",
+  "displayAddress": "M.P. 2004 nr 39 poz. 696",
+  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 6 września 2004 r. o wskazaniu wystawy publicznej dającej pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na niej wynalazku, wzoru użytkowego, wzoru przemysłowego lub towaru oznaczonego znakiem towarowym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-06",
+  "promulgation": "2004-09-23",
+  "changeDate": "2024-07-31T11:42:42",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "wzory użytkowe i zdobnicze",
+   "rejestry",
+   "targi i wystawy",
+   "wynalazczość",
+   "własność przemysłowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/508"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/508",
+     "art": "art. 125 ust. 2"
+    },
+    {
+     "id": "DU/2001/508",
+     "art": "art. 15 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040696.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040696.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
