@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/21",
+ "source_sha256": "b734c23ad10e40366ccb61a2902322349f6b278e183388d63aec6f0842d1743e",
+ "in_force": "1930-01-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/21/text/O/D19300021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/21/text/I/D19300021.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/21",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 3,
+  "pos": 21,
+  "address": "WDU19300030021",
+  "displayAddress": "Dz.U. 1930 nr 3 poz. 21",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 11 stycznia 1930 r. wydane w porozumieniu z Ministrami: Przemysłu i Handlu oraz Rolnictwa w sprawie wyznaczenia ostatecznych kontyngentów cukru na czas od 1 października 1929 r. do 30 września 1930 r.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-01-11",
+  "promulgation": "1930-01-23",
+  "entryIntoForce": "1930-01-23",
+  "validFrom": "1930-01-23",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontyngenty celne",
+   "cukrownictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1929/498"
+    },
+    {
+     "id": "DU/1926/32"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/630"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/630",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1925/630",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
