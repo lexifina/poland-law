@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/256",
+ "source_sha256": "52288c4f1c4639bf09505b15670cbad8804d6cc1e35f8d21d812e1b0e7340fd9",
+ "in_force": "1930-07-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/256",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/256/text/O/M19300256.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/256/text/I/M19300256.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/256",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 170,
+  "pos": 256,
+  "address": "WMP19301700256",
+  "displayAddress": "M.P. 1930 nr 170 poz. 256",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 21 lipca 1930 r. Nr 2571/30",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-07-21",
+  "promulgation": "1930-07-25",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300256.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300256.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
