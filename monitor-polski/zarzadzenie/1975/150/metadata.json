@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1975/150",
+ "source_sha256": "85523ab788dbba6e9e103cb7f37cf0c757d16d06e6b4216e0d6b2e9510940624",
+ "in_force": "1975-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1975/150",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1975/150/text/O/M19750150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1975/150/text/I/M19750150.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1975/150",
+  "publisher": "MP",
+  "year": 1975,
+  "volume": 23,
+  "pos": 150,
+  "address": "WMP19750230150",
+  "displayAddress": "M.P. 1975 nr 23 poz. 150",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 24 lipca 1975 r. zmieniające zarządzenie w sprawie czasu wykonywania czynności lotniczych i wypoczynku personelu latającego lotnictwa cywilnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-07-24",
+  "entryIntoForce": "1975-07-31",
+  "validFrom": "1975-07-31",
+  "repealDate": "1989-04-12",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "lotnicze prawo",
+   "personel lotniczy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/76",
+     "date": "1989-04-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1974/149",
+     "date": "1975-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/153"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/153",
+     "art": "art. 42 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19750150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19750150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
