@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/210",
+ "source_sha256": "dbd83161c72214023e1e646df50c74c242f3e85755f511c1ed7fcbecacf8148e",
+ "in_force": "1939-05-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 791 words, parsed 799; at 4: 'Art . 1 . ( 1 ) Prawo wypuszczania'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/210",
+  "html": "https://eli.gov.pl/api/acts/DU/1939/210/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/210/text/O/D19390210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/210/text/I/D19390210.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1939/210/text/T/D19390210L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/210",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 33,
+  "pos": 210,
+  "address": "WDU19390330210",
+  "displayAddress": "Dz.U. 1939 nr 33 poz. 210",
+  "title": "Ustawa z dnia 5 kwietnia 1939 r. o pożyczkach premiowych.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1939-04-05",
+  "promulgation": "1939-04-14",
+  "entryIntoForce": "1939-05-15",
+  "validFrom": "1939-05-15",
+  "changeDate": "2024-03-15T10:55:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe",
+   "tytuły na okaziciela",
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1939/363"
+    },
+    {
+     "id": "DU/1939/311"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/249"
+    },
+    {
+     "id": "DU/1928/321"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19390210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390210.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19390210L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
