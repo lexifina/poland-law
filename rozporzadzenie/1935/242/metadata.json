@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/242",
+ "source_sha256": "f8e34de4cdd637592ab670293fec80b9582243be838ca276c9a67f5fb79a7ee3",
+ "in_force": "1935-05-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/242",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/242/text/O/D19350242.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/242/text/I/D19350242.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/242",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 34,
+  "pos": 242,
+  "address": "WDU19350340242",
+  "displayAddress": "Dz.U. 1935 nr 34 poz. 242",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 18 kwietnia 1935 r. wydane w porozumieniu z Ministrem Sprawiedliwości w sprawie należytości od wpisu prawa własności.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-04-18",
+  "promulgation": "1935-05-08",
+  "entryIntoForce": "1935-05-08",
+  "validFrom": "1935-05-08",
+  "repealDate": "1947-01-01",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "własność",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/382",
+     "date": "1947-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/200"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/200",
+     "art": "art. 7"
+    },
+    {
+     "id": "DU/1935/200",
+     "art": "art. 8"
+    },
+    {
+     "id": "DU/1935/200",
+     "art": "art. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350242.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350242.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
