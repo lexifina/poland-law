@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/11",
+ "source_sha256": "4e5fa1a7714adc97de247ad23ae482540717d2f8ca0598667f6a86662ffc02f7",
+ "in_force": "1948-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/11/text/O/D19480011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/11/text/I/D19480011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/11",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 2,
+  "pos": 11,
+  "address": "WDU19480020011",
+  "displayAddress": "Dz.U. 1948 nr 2 poz. 11",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 30 grudnia 1947 r. o taksie dla tłumaczów przysięgłych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-12-30",
+  "entryIntoForce": "1948-01-15",
+  "validFrom": "1948-01-15",
+  "repealDate": "1951-05-15",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/204",
+     "date": "1951-05-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1945/198",
+     "date": "1948-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
