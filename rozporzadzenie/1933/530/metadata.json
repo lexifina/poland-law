@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/530",
+ "source_sha256": "48fd512128481cbeaaecd78cf17d957883ed650b215a088669c3e9de1c99aa8f",
+ "in_force": "1933-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/530",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/530/text/O/D19330530.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/530/text/I/D19330530.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/530",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 71,
+  "pos": 530,
+  "address": "WDU19330710530",
+  "displayAddress": "Dz.U. 1933 nr 71 poz. 530",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych z dnia 21 września 1933 r. o ulgach celnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-09-21",
+  "promulgation": "1933-09-27",
+  "entryIntoForce": "1933-10-01",
+  "validFrom": "1933-10-01",
+  "repealDate": "1933-10-11",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. ROLNICTWA I REFORM ROLNYCH",
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "owoce i warzywa",
+   "ulgi celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1933/557",
+     "date": "1933-10-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/777",
+     "art": "art. 7 punkt b)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330530.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330530.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
