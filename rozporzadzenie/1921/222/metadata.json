@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/222",
+ "source_sha256": "15543421184c016078fbaf882047664a29c9a76dd2e967d9c7d992cc140cebd0",
+ "in_force": "1921-04-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/222/text/O/D19210222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/222/text/I/D19210222.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/222",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 36,
+  "pos": 222,
+  "address": "WDU19210360222",
+  "displayAddress": "Dz.U. 1921 nr 36 poz. 222",
+  "title": "Rozporządzenie Ministra Aprowizacji z dnia 22 kwietnia 1921 r. w sprawie oszczędności spożycia.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1921-04-22",
+  "entryIntoForce": "1921-04-28",
+  "validFrom": "1921-04-28",
+  "repealDate": "1921-06-11",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. APROWIZACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cukrownictwo",
+   "pieczywo",
+   "mięso"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1921/296",
+     "date": "1921-06-11"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1921/121",
+     "date": "1995-04-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/114"
+    },
+    {
+     "id": "DU/1921/103"
+    },
+    {
+     "id": "DU/1920/754"
+    },
+    {
+     "id": "DU/1920/449"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19210222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
