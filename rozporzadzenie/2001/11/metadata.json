@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/11",
+ "source_sha256": "2192c89de0ee70409bf8c40638929a292082724ec1ddd869bdec6b3e1926014f",
+ "in_force": "2001-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/11/text/O/D20010011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/11/text/I/D20010011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/11",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 1,
+  "pos": 11,
+  "address": "WDU20010010011",
+  "displayAddress": "Dz.U. 2001 nr 1 poz. 11",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 2000 r. zmieniające rozporządzenie - Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-12-22",
+  "promulgation": "2001-01-15",
+  "entryIntoForce": "2001-01-15",
+  "validFrom": "2001-01-15",
+  "repealDate": "2007-09-18",
+  "changeDate": "2014-12-31T12:25:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/1189",
+     "date": "2007-09-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/163",
+     "date": "2001-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 18 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20010011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
