@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1973/43",
+ "source_sha256": "0fb7278bfe0fb6985d3488177e00b697d6785926d06af70abd426c95835074e4",
+ "in_force": "1973-02-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1973/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1973/43/text/O/M19730043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1973/43/text/I/M19730043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1973/43",
+  "publisher": "MP",
+  "year": 1973,
+  "volume": 6,
+  "pos": 43,
+  "address": "WMP19730060043",
+  "displayAddress": "M.P. 1973 nr 6 poz. 43",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 3 lutego 1973 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-02-03",
+  "entryIntoForce": "1973-02-03",
+  "validFrom": "1973-02-03",
+  "repealDate": "1984-03-31",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1973/58",
+     "date": "1973-02-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1972/310",
+     "date": "1973-02-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/288",
+     "date": "1984-03-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19730043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19730043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
