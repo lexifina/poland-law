@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/494",
+ "source_sha256": "df3fba92a2d14da03e9aa1d4ee1b5fd7efd2bc75e4c110483667f9cdc6839edf",
+ "in_force": "1995-08-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/494",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/494/text/O/M19950494.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/494/text/I/M19950494.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/494",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 42,
+  "pos": 494,
+  "address": "WMP19950420494",
+  "displayAddress": "M.P. 1995 nr 42 poz. 494",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 7 sierpnia 1995 r. w sprawie ustalenia wzoru kart do głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 1 października 1995 r.",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1995-08-07",
+  "entryIntoForce": "1995-08-07",
+  "validFrom": "1995-08-07",
+  "changeDate": "2022-04-06T15:17:52",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1994/229",
+     "date": "1995-08-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/205"
+    },
+    {
+     "id": "DU/1991/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/205",
+     "art": "art. 87 ust. 4"
+    },
+    {
+     "id": "DU/1991/246",
+     "art": "art. 1 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950494.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950494.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
