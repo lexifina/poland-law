@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/262",
+ "source_sha256": "d2397333d7de5bb464b63c57559a118cb0e7b679285998f081d8e27eea1c250b",
+ "in_force": "2001-03-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 762 words, parsed 75; at 75: 'o stwierdzenie , że : 1 ) rozporządzenie Rady Ministrów'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/262",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/262/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/262/text/O/D20010262.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/262/text/I/D20010262.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/262/text/T/D20010262TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/262",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 22,
+  "pos": 262,
+  "address": "WDU20010220262",
+  "displayAddress": "Dz.U. 2001 nr 22 poz. 262",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 marca 2001 r. sygn. akt K. 21/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-03-13",
+  "promulgation": "2001-03-24",
+  "entryIntoForce": "2001-03-24",
+  "validFrom": "2001-03-24",
+  "changeDate": "2024-03-15T09:59:51",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "powiaty",
+   "województwa",
+   "administracja samorządowa",
+   "administracja rządowa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/576"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/872"
+    },
+    {
+     "id": "DU/1998/1139"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010262.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010262.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010262TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
