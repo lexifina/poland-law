@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/739",
+ "source_sha256": "841e46e158b38106082bad86b2731dab5e00fb0a5349766e93f25f64f48cabac",
+ "in_force": "2001-12-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/739",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/739/text/O/M20010739.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/739/text/I/M20010739.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2001/739/text/T/M20010739L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/739",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 45,
+  "pos": 739,
+  "address": "WMP20010450739",
+  "displayAddress": "M.P. 2001 nr 45 poz. 739",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 października 2001 r. sygn. akt K. 27/2001.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-10-03",
+  "promulgation": "2001-12-14",
+  "entryIntoForce": "2001-12-14",
+  "validFrom": "2001-12-14",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/110",
+     "date": "2001-12-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2002/110"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010739.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010739.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20010739L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
