@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/31",
+ "source_sha256": "f3747a8ffeb9c3e362afc376874f8b05c98c0b80f9d6f5e393eda1b452ba8ff7",
+ "in_force": "1988-02-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/31/text/O/M19880031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/31/text/I/M19880031.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/31",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 4,
+  "pos": 31,
+  "address": "WMP19880040031",
+  "displayAddress": "M.P. 1988 nr 4 poz. 31",
+  "title": "Uchwała Rady Państwa z dnia 22 stycznia 1988 r. zmieniająca uchwałę w sprawie zasad wynagradzania sędziów Sądu Najwyższego i członków Biura Orzecznictwa.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-01-22",
+  "entryIntoForce": "1988-02-04",
+  "validFrom": "1987-12-01",
+  "repealDate": "1989-01-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/36",
+     "date": "1989-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1985/272",
+     "date": "1987-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/241"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/241",
+     "art": "art. 50"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
