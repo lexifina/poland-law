@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1961/103",
+ "source_sha256": "a8ae2cea45a547a509bdfef72ff555e87ffbf9335f125593ad6b66e200e170f0",
+ "in_force": "1961-03-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1961/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1961/103/text/O/M19610103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1961/103/text/I/M19610103.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1961/103",
+  "publisher": "MP",
+  "year": 1961,
+  "volume": 21,
+  "pos": 103,
+  "address": "WMP19610210103",
+  "displayAddress": "M.P. 1961 nr 21 poz. 103",
+  "title": "Zarządzenie Ministra Finansów z dnia 22 lutego 1961 r. w sprawie uznania przy ustalaniu dochodów organizacji społecznych odpisów na zużycie za koszt uzyskania przychodów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-02-22",
+  "entryIntoForce": "1961-03-08",
+  "validFrom": "1961-03-08",
+  "repealDate": "1973-01-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/72",
+     "date": "1973-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1963/65",
+     "date": "1963-02-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1951/127"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1961/95"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1961/95",
+     "art": "par. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19610103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19610103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
