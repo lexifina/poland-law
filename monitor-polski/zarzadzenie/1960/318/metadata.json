@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1960/318",
+ "source_sha256": "d73b70d8b9a36d9fb9309c9dd9e281e840fd467cb9334e154de2a96d83de07f5",
+ "in_force": "1960-08-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1960/318",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1960/318/text/O/M19600318.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1960/318/text/I/M19600318.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1960/318",
+  "publisher": "MP",
+  "year": 1960,
+  "volume": 67,
+  "pos": 318,
+  "address": "WMP19600670318",
+  "displayAddress": "M.P. 1960 nr 67 poz. 318",
+  "title": "Zarządzenie nr 159 Prezesa Rady Ministrów z dnia 22 sierpnia 1960 r. zmieniające zarządzenie z dnia 31 lipca 1958 r. w sprawie wynagrodzenia sołtysów za inkaso podatków i innych należności finansowych od mieszkańców wsi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-08-22",
+  "entryIntoForce": "1960-08-27",
+  "validFrom": "1960-08-01",
+  "repealDate": "1963-02-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1963/37",
+     "date": "1963-02-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/336",
+     "date": "1960-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/67"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/67",
+     "art": "par. 13 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19600318.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19600318.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
