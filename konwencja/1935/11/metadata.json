@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/11",
+ "source_sha256": "edd2e862c5cb402eb787bb0e7b3ab99edc0bd8dfba631e87d89663e4b1c4c0f8",
+ "in_force": "1935-01-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/11/text/O/D19350011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/11/text/I/D19350011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/11",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 2,
+  "pos": 11,
+  "address": "WDU19350020011",
+  "displayAddress": "Dz.U. 1935 nr 2 poz. 11",
+  "title": "Konwencja handlowa między Polską a Austrją, podpisana w Wiedniu dnia 11 października 1933 r. (ratyfikowana zgodnie z ustawą z dnia 15 marca 1934 r.).",
+  "type": "Konwencja",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-12-24",
+  "promulgation": "1935-01-17",
+  "changeDate": "2021-03-19T14:27:32",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Austria"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "status ustalono na podstawie Internetowej Bazy Traktatów MSZ:\n\nhttps://traktaty.msz.gov.pl/umowa-4",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1935/528"
+    },
+    {
+     "id": "DU/1935/12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
