@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/499",
+ "source_sha256": "3c19b9b5c3bbf16d18aa3c0db0670a725ff2213f9c9fe6bab4b53c1507129711",
+ "in_force": "1935-11-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/499",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/499/text/O/D19350499.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/499/text/I/D19350499.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/499",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 80,
+  "pos": 499,
+  "address": "WDU19350800499",
+  "displayAddress": "Dz.U. 1935 nr 80 poz. 499",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 12 października 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji władz i urzędów skarbowych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-10-12",
+  "promulgation": "1935-11-06",
+  "repealDate": "1945-04-14",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "urzędy i izby skarbowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/64",
+     "date": "1945-04-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/976"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/976",
+     "art": "art. 122 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1919/391"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350499.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350499.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
