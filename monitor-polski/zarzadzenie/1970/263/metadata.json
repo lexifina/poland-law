@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/263",
+ "source_sha256": "d2d155493e90f5b621ec80476f365c67afd7f815c01f4b67d485a740c6df6aab",
+ "in_force": "1971-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/263",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/263/text/O/M19700263.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/263/text/I/M19700263.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/263",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 33,
+  "pos": 263,
+  "address": "WMP19700330263",
+  "displayAddress": "M.P. 1970 nr 33 poz. 263",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 10 października 1970 r. w sprawie przekazywania i ochrony znaków geodezyjnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-10-10",
+  "entryIntoForce": "1971-01-01",
+  "validFrom": "1971-01-01",
+  "repealDate": "1991-03-10",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "GŁÓWNY URZĄD GEODEZJI I KARTOGRAFII"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "geodezja i kartografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1991/70",
+     "date": "1991-03-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1956/115"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1956/115",
+     "art": "art. 13 ust. 2"
+    },
+    {
+     "id": "DU/1956/115",
+     "art": "art. 9 ust. 2 pkt 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700263.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700263.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
