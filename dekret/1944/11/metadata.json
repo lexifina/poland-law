@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/11",
+ "source_sha256": "89de39c47ccb9058c0258283e74b2cf0f166c964b8492cfe9bcb12b50e5aa5c2",
+ "in_force": "1944-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/11/text/O/D19440011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/11/text/I/D19440011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/11",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 3,
+  "pos": 11,
+  "address": "WDU19440030011",
+  "displayAddress": "Dz.U. 1944 nr 3 poz. 11",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 24 sierpnia 1944 r. o emitowaniu biletów skarbowych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-24",
+  "entryIntoForce": "1944-08-31",
+  "validFrom": "1944-08-31",
+  "repealDate": "1945-01-15",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/5",
+     "date": "1945-01-15"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1944/39"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
