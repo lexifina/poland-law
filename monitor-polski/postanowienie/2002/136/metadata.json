@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/136",
+ "source_sha256": "aa5c74f7c3c636094fe9382e07019ca25ea7c0f5aa0ada1a4d3f8f3c0c2ebd08",
+ "in_force": "2002-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/136",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/136/text/O/M20020136.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/136/text/I/M20020136.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/136",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 7,
+  "pos": 136,
+  "address": "WMP20020070136",
+  "displayAddress": "M.P. 2002 nr 7 poz. 136",
+  "title": "Postanowienie Ministra Gospodarki z dnia 23 stycznia 2002 r. o sprostowaniu błędu.",
+  "type": "Postanowienie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-01-23",
+  "promulgation": "2002-02-07",
+  "repealDate": "2002-06-12",
+  "changeDate": "2020-11-03T15:55:24",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "opłata celna dodatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2002/421",
+     "date": "2002-06-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/168"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/168",
+     "art": "art. 113 par. 1"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "MP/2001/780"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020136.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020136.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
