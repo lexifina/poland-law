@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/533",
+ "source_sha256": "3582f542521348b8e1fc95fcd89ef6a12aa5c07096bcb6dad0d62ade33717389",
+ "in_force": "2000-08-11",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/533",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/533/text/O/M20000533.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/533/text/I/M20000533.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/533",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 25,
+  "pos": 533,
+  "address": "WMP20000250533",
+  "displayAddress": "M.P. 2000 nr 25 poz. 533",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 11 sierpnia 2000 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2000 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-08-11",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000533.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000533.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
