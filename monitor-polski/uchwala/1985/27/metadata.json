@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1985/27",
+ "source_sha256": "68d590e8ec40f9fd8030c7e817c44b802ce47fa1087789a9c168b811caa02839",
+ "in_force": "1985-03-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1985/27",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1985/27/text/O/M19850027.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1985/27/text/I/M19850027.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1985/27",
+  "publisher": "MP",
+  "year": 1985,
+  "volume": 4,
+  "pos": 27,
+  "address": "WMP19850040027",
+  "displayAddress": "M.P. 1985 nr 4 poz. 27",
+  "title": "Uchwała nr 22 Rady Ministrów z dnia 25 lutego 1985 r. w sprawie wprowadzenia w 1985 r. maksymalnego wskaźnika wzrostu cen umownych pieczywa piekarskiego pszennego.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1985-02-25",
+  "entryIntoForce": "1985-03-08",
+  "validFrom": "1985-03-08",
+  "repealDate": "1985-12-31",
+  "changeDate": "2023-06-19T15:08:13",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "pieczywo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1985/27",
+     "date": "1985-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/52"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/52",
+     "art": "art. 13 ust. 1 pkt 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1985/27",
+     "date": "1985-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19850027.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19850027.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
