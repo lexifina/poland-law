@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/210",
+ "source_sha256": "ff5dd67e7cf2a51fae05bf1aa3c980acb7e4cf8914987bb09697053575a03dc0",
+ "in_force": "1999-05-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/210",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/210/text/O/M19990210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/210/text/I/M19990210.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/210",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 15,
+  "pos": 210,
+  "address": "WMP19990150210",
+  "displayAddress": "M.P. 1999 nr 15 poz. 210",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 15 kwietnia 1999 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w marcu 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-15",
+  "entryIntoForce": "1999-05-14",
+  "validFrom": "1999-05-14",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/522"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/522",
+     "art": "par. 39 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990210.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
