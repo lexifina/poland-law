@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/320",
+ "source_sha256": "dadb570a07f15f1ced77840316a8749545e3fe5d7ae87c910046c8af9d02000a",
+ "in_force": "1999-04-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 470 words, parsed 347; at 347: 'datę ustania członkostwa ” : 1 ) jest niezgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/320",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/320/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/320/text/O/D19990320.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/320/text/I/D19990320.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/320/text/T/D19990320L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/320",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 34,
+  "pos": 320,
+  "address": "WDU19990340320",
+  "displayAddress": "Dz.U. 1999 nr 34 poz. 320",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 kwietnia 1999 r. sygn. akt K. 36/98.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-13",
+  "entryIntoForce": "1999-04-20",
+  "validFrom": "1999-04-20",
+  "changeDate": "2024-03-15T11:35:07",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "spółdzielczość",
+   "orzeczenie",
+   "waloryzacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1991/373"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/683"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990320.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990320.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990320L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
