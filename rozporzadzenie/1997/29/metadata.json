@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/29",
+ "source_sha256": "609f0309adeca62e78efa90851895c6668c3c20236152409ca815e8d0498e598",
+ "in_force": "1997-02-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/29",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/29/text/O/D19970029.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/29/text/I/D19970029.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/29",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 5,
+  "pos": 29,
+  "address": "WDU19970050029",
+  "displayAddress": "Dz.U. 1997 nr 5 poz. 29",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 3 stycznia 1997 r. zmieniające rozporządzenie w sprawie prowadzenia dzienników na polskich statkach morskich.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-01-03",
+  "entryIntoForce": "1997-02-04",
+  "validFrom": "1997-02-04",
+  "repealDate": "2004-06-05",
+  "changeDate": "2014-12-31T12:25:46",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski",
+   "dokumenty",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1963/104",
+     "date": "1997-02-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/318"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/318",
+     "art": "art. 51"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/1546",
+     "date": "2004-06-05"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19970029.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970029.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
