@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/401",
+ "source_sha256": "7b3246c6dc6b034a43f6310cb2a3ac6180958bdc78349eb3da35299df0344349",
+ "in_force": "1947-10-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/401",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/401/text/O/D19470401.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/401/text/I/D19470401.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/401",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 66,
+  "pos": 401,
+  "address": "WDU19470660401",
+  "displayAddress": "Dz.U. 1947 nr 66 poz. 401",
+  "title": "Dekret z dnia 28 października 1947 r. o zmianie ustawy o spółdzielniach.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-10-28",
+  "entryIntoForce": "1947-10-30",
+  "validFrom": "1947-10-30",
+  "repealDate": "1961-06-05",
+  "changeDate": "2018-05-16T11:14:39",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/61",
+     "date": "1961-06-05"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/733",
+     "date": "1947-10-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/71"
+    },
+    {
+     "id": "DU/1947/252"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470401.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470401.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
