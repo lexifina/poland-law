@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/88",
+ "source_sha256": "c5e6e5ec2c210935da42a32d748cd7ca8d68ec97915de297904f1aaabadc36b8",
+ "in_force": "1999-02-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/88",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/88/text/O/D19990088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/88/text/I/D19990088.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/88/text/T/D19990088L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/88",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 10,
+  "pos": 88,
+  "address": "WDU19990100088",
+  "displayAddress": "Dz.U. 1999 nr 10 poz. 88",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 25 stycznia 1999 r. w sprawie jednorazowego świadczenia pieniężnego z tytułu urodzenia dziecka.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-25",
+  "entryIntoForce": "1999-02-20",
+  "validFrom": "1999-02-20",
+  "repealDate": "2005-07-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia pieniężne w razie choroby i macierzyństwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1970/134"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1970/134",
+     "art": "art. 62 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2003/1750",
+     "date": "2005-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990088.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990088L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
