@@ -1,0 +1,61 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/29",
+ "source_sha256": "60d1c439dbd232e08768a34c9f371c96bbd2dc1bc715d147a1623e4237cc7ffd",
+ "in_force": "1929-12-23",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/29",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/29/text/O/D19300029.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/29/text/I/D19300029.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/29",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 4,
+  "pos": 29,
+  "address": "WDU19300040029",
+  "displayAddress": "Dz.U. 1930 nr 4 poz. 29",
+  "title": "Traktat Arbitrażowy między Rzecząpospolitą Polską a Stanami Zjednoczonemi Ameryki, podpisany w Waszyngtonie dnia 16 sierpnia 1928 r.",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1929-12-23",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "arbitraż",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Stany Zjednoczone Ameryki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1930/30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300029.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300029.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
