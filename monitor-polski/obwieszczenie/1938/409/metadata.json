@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/409",
+ "source_sha256": "6075100217291947a92b0fa15f227e5d0ece1f3fc122693e393ff92941c70611",
+ "in_force": "1938-09-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/409",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/409/text/O/M19380409.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/409/text/I/M19380409.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/409",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 202,
+  "pos": 409,
+  "address": "WMP19382020409",
+  "displayAddress": "M.P. 1938 nr 202 poz. 409",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 31 sierpnia 1938 r. w sprawie wylosowanych bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-08-31",
+  "promulgation": "1938-09-05",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380409.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380409.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
