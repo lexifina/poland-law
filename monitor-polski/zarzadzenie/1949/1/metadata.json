@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1949/1",
+ "source_sha256": "82499b5681099a4840d3d3a0e49fb0167c2f53132c4f18c7c2d1e32cefbd40b1",
+ "in_force": "1949-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1949/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1949/1/text/O/M19490001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1949/1/text/I/M19490001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1949/1",
+  "publisher": "MP",
+  "year": 1949,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19490010001",
+  "displayAddress": "M.P. 1949 nr 1 poz. 1",
+  "title": "Zarządzenie Prezesa Rady Ministrów z dnia 22 grudnia 1948 r. - wydane w porozumieniu z Prezesem Centralnego Urzędu Planowania - w sprawie taryfy radiofonicznej.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-12-22",
+  "entryIntoForce": "1949-01-15",
+  "validFrom": "1949-01-01",
+  "repealDate": "1950-01-01",
+  "changeDate": "2014-12-31T12:24:27",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1950/79",
+     "date": "1950-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/337"
+    },
+    {
+     "id": "DU/1947/147"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19490001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19490001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
