@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/944",
+ "source_sha256": "58a95961a2d054aeafe97524108aa362db20a9cfbd85d2dcb81954727a27886f",
+ "in_force": "1928-12-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/944",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/944/text/O/D19280944.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/944/text/I/D19280944.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/944",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 104,
+  "pos": 944,
+  "address": "WDU19281040944",
+  "displayAddress": "Dz.U. 1928 nr 104 poz. 944",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 grudnia 1928 r. o taksie dla tłumaczów przysięgłych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-24",
+  "repealDate": "1945-09-17",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/198",
+     "date": "1945-09-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280944.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280944.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
