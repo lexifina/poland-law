@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/284",
+ "source_sha256": "718b132acf7b76466ff2db061653620069f5e063184b92cceccafd3f107b543c",
+ "in_force": "1963-06-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/284",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/284/text/O/M19630284.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/284/text/I/M19630284.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/284",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 56,
+  "pos": 284,
+  "address": "WMP19630560284",
+  "displayAddress": "M.P. 1963 nr 56 poz. 284",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 22 czerwca 1963 r. w sprawie ogłoszenia o unieważnieniu Polskiej Normy.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-06-22",
+  "entryIntoForce": "1963-06-22",
+  "validFrom": "1963-06-22",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1954/73",
+     "date": "1963-06-22"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1963/178"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630284.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630284.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
