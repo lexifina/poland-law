@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/903",
+ "source_sha256": "cc1ee5ddc7a6f60024db7c313f19214c528abf0715de2076714767925ce32d42",
+ "in_force": "2000-08-08",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/903",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/903/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/903/text/O/D20000903.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/903/text/I/D20000903.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/903/text/T/D20000903L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/903/text/U/D20000903Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/903",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 80,
+  "pos": 903,
+  "address": "WDU20000800903",
+  "displayAddress": "Dz.U. 2000 nr 80 poz. 903",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 8 sierpnia 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy o własności lokali.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-08-08",
+  "expirationDate": "2015-11-18",
+  "changeDate": "2024-03-15T09:49:10",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokal",
+   "własność",
+   "budownictwo mieszkaniowe",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/355"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/355",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/388"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000903.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000903.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000903L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20000903Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
