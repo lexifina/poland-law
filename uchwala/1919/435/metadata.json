@@ -1,0 +1,56 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/435",
+ "source_sha256": "0b7a197e6977e59d6dc2d6f65d1a24bbde3bd548c1c26ee220411cd26ac1ce62",
+ "in_force": "1919-08-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/435",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/435/text/O/D19190435.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/435/text/I/D19190435.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/435",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 75,
+  "pos": 435,
+  "address": "WDU19190750435",
+  "displayAddress": "Dz.U. 1919 nr 75 poz. 435",
+  "title": "Uchwała Rady Ministrów z dnia 28 sierpnia 1919 r. o rozpoczęciu czynności Prokuratorji Generalnej Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-08-28",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/390"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190435.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190435.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
