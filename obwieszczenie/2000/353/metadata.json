@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/353",
+ "source_sha256": "b3ecf43c8b1829590cfde80bc4dade18b7492996e232426ed88c37b52c5a9156",
+ "in_force": "2000-04-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/353",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/353/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/353/text/O/D20000353.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/353/text/I/D20000353.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/353/text/U/D20000353Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/353",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 28,
+  "pos": 353,
+  "address": "WDU20000280353",
+  "displayAddress": "Dz.U. 2000 nr 28 poz. 353",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 kwietnia 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obywatelstwie polskim.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-04-03",
+  "repealDate": "2012-08-15",
+  "changeDate": "2024-03-15T09:49:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cudzoziemcy",
+   "rodzinne i opiekuńcze prawo",
+   "obywatelstwo",
+   "oświadczenie",
+   "repatrianci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2012/161",
+     "date": "2012-08-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1962/49"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000353.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000353.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000353Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
