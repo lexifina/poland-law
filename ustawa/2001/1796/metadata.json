@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1796",
+ "source_sha256": "019761b6e7258471834ed20ce0c425ad3cf28bdc8809fd05356fa7d7c42502c5",
+ "in_force": "2001-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1796",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1796/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1796/text/O/D20011796.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1796/text/I/D20011796.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1796/text/T/D20011796L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1796",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 154,
+  "pos": 1796,
+  "address": "WDU20011541796",
+  "displayAddress": "Dz.U. 2001 nr 154 poz. 1796",
+  "title": "Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym i ustawy o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-12-17",
+  "promulgation": "2001-12-29",
+  "entryIntoForce": "2001-12-31",
+  "validFrom": "2001-12-31",
+  "changeDate": "2024-03-15T10:00:43",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia zdrowotne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/84.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/84",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/84",
+    "number": "84",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/391",
+     "date": "2003-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/961",
+     "date": "2001-12-31"
+    },
+    {
+     "id": "DU/1997/153",
+     "date": "2001-12-31"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011796.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011796.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011796L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
