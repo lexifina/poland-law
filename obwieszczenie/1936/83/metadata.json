@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/83",
+ "source_sha256": "221a7edcbac40e4abbc3b3aa67a416943ca6b7b8d56c8c3b963b925eeda844e1",
+ "in_force": "1936-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/83",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/83/text/O/D19360083.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/83/text/I/D19360083.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/83",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 7,
+  "pos": 83,
+  "address": "WDU19360070083",
+  "displayAddress": "Dz.U. 1936 nr 7 poz. 83",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 23 stycznia 1936 r. o ogłoszeniu jednolitego tekstu ustawy z dnia 18 marca 1932 r. w sprawie regulowania stosunków w przemyśle naftowym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-01-23",
+  "promulgation": "1936-01-31",
+  "repealDate": "1953-12-01",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przemysł chemiczny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1953/113",
+     "date": "1953-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/17"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/17",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1932/306"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360083.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360083.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
