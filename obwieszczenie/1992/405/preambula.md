@@ -1,0 +1,3 @@
+Na podstawie art. 10 ust. 3 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470) w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 16 czerwca 1992 r., sygn. akt U 3/92, ogłaszam utratę z dniem 5 października 1991 r. mocy obowiązującej przepisu § 8 w związku z § 7 oraz § 3 ust. 1 i 2 rozporządzenia Rady Ministrów z dnia 8 listopada 1991 r. w sprawie opłaty eksploatacyjnej za wydobywanie kopalin ze złóż (Dz. U. Nr 105, poz. 455) w zakresie dotyczącym terminu ich wejścia w życie.
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
