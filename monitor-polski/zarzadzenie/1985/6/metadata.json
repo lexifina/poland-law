@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1985/6",
+ "source_sha256": "5f91153975bd538a5305b784955588b2c09728d4f39641282e2731bfc9dec19d",
+ "in_force": "1985-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1985/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1985/6/text/O/M19850006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1985/6/text/I/M19850006.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1985/6",
+  "publisher": "MP",
+  "year": 1985,
+  "volume": 1,
+  "pos": 6,
+  "address": "WMP19850010006",
+  "displayAddress": "M.P. 1985 nr 1 poz. 6",
+  "title": "Zarządzenie Ministra - Kierownika Urzędu Gospodarki Morskiej z dnia 31 grudnia 1984 r. w sprawie nadawania nazw statkom morskim.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1984-12-31",
+  "entryIntoForce": "1985-02-01",
+  "validFrom": "1985-02-01",
+  "repealDate": "1996-08-31",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "MIN. KIEROWNIK URZĘDU GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski",
+   "morskie prawo",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1996/471",
+     "date": "1996-08-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1964/201",
+     "date": "1985-02-01"
+    },
+    {
+     "id": "MP/1962/395",
+     "date": "1985-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/318"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/318",
+     "art": "art. 16 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19850006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19850006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
