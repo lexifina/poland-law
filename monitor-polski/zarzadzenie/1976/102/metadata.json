@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1976/102",
+ "source_sha256": "918592b76066b01fc00259e8d8bce11ebacb167d06efe02d2ca91f506a5c409d",
+ "in_force": "1976-05-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1976/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1976/102/text/O/M19760102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1976/102/text/I/M19760102.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1976/102",
+  "publisher": "MP",
+  "year": 1976,
+  "volume": 22,
+  "pos": 102,
+  "address": "WMP19760220102",
+  "displayAddress": "M.P. 1976 nr 22 poz. 102",
+  "title": "Zarządzenie Ministra Finansów z dnia 19 maja 1976 r. w sprawie ustalenia wzoru i odcinka banknotu 200 zł.",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1976-05-19",
+  "entryIntoForce": "1976-05-29",
+  "validFrom": "1976-05-29",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pieniężny system"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1979/33",
+     "date": "1979-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1975/108"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1975/108",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19760102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19760102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
