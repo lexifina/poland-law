@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/330",
+ "source_sha256": "a10493377eb63780dc0c5dc9cb3163692dbe1103173f241f545cf20d6d737aca",
+ "in_force": "1970-12-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/330",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/330/text/O/M19700330.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/330/text/I/M19700330.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/330",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 43,
+  "pos": 330,
+  "address": "WMP19700430330",
+  "displayAddress": "M.P. 1970 nr 43 poz. 330",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 23 grudnia 1970 r. w sprawie wyboru Przewodniczącego Rady Państwa.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-12-23",
+  "entryIntoForce": "1970-12-23",
+  "validFrom": "1970-12-23",
+  "repealDate": "1972-03-28",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 24 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1972/122",
+     "date": "1972-03-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700330.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700330.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
