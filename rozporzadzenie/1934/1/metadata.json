@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/1",
+ "source_sha256": "023e44cd01dadc2bab54832a84181c05f18e7c4ff8bef40182acd96db59bb99b",
+ "in_force": "1934-01-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/1/text/O/D19340001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/1/text/I/D19340001.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/1",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU19340010001",
+  "displayAddress": "Dz.U. 1934 nr 1 poz. 1",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 29 grudnia 1933 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu w sprawie zastosowania ustawy o ubezpieczeniu społecznem do osób, zatrudnionych w żegludze morskiej.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-12-29",
+  "promulgation": "1934-01-09",
+  "entryIntoForce": "1934-01-09",
+  "validFrom": "1934-01-01",
+  "changeDate": "2020-09-23T13:38:30",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia społeczne",
+   "żegluga morska"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1932/334"
+    },
+    {
+     "id": "DU/1928/269"
+    },
+    {
+     "id": "DU/1920/285"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/396"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/396",
+     "art": "art. 312"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
