@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/268",
+ "source_sha256": "8c65ed04edab9d658a6d6d076dca747894d762f046b2455042c979b6b14d7de2",
+ "in_force": "1932-10-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/268",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/268/text/O/M19320268.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/268/text/I/M19320268.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/268",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 242,
+  "pos": 268,
+  "address": "WMP19322420268",
+  "displayAddress": "M.P. 1932 nr 242 poz. 268",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 13 października 1932 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-10-13",
+  "promulgation": "1932-10-20",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/99"
+    },
+    {
+     "id": "DU/1928/190"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/99",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1928/190",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320268.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320268.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
