@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1971/105",
+ "source_sha256": "d45de41eba533c18511899c5184c7093682ead29a44e3f9fa5edae39569093b2",
+ "in_force": "1971-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1971/105",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1971/105/text/O/M19710105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1971/105/text/I/M19710105.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1971/105",
+  "publisher": "MP",
+  "year": 1971,
+  "volume": 14,
+  "pos": 105,
+  "address": "WMP19710140105",
+  "displayAddress": "M.P. 1971 nr 14 poz. 105",
+  "title": "Uchwała nr 36 Rady Ministrów z dnia 12 lutego 1971 r. w sprawie zmiany zakresu działania i nazwy oraz podziału Centralnego Instytutu Informacji Naukowo-Technicznej i Ekonomicznej.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-02-12",
+  "entryIntoForce": "1971-03-11",
+  "validFrom": "1971-03-11",
+  "repealDate": "2002-06-28",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "organizacja instytutów"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/60"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/60",
+     "art": "art. 4 ust. 1 i 2"
+    },
+    {
+     "id": "DU/1961/60",
+     "art": "art. 7 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/667",
+     "date": "2002-06-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19710105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19710105.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
