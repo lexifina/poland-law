@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/446",
+ "source_sha256": "f33ed3990ab00c8eaebd9da0db15cd694d79effb28e3e2850ac91a1321c8e921",
+ "in_force": "2001-08-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/446",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/446/text/O/M20010446.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/446/text/I/M20010446.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/446",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 27,
+  "pos": 446,
+  "address": "WMP20010270446",
+  "displayAddress": "M.P. 2001 nr 27 poz. 446",
+  "title": "Obwieszczenie Ministra Finansów z dnia 14 sierpnia 2001 r. w sprawie wysokości kwot wymienionych w art. 41 par. 1 pkt 2 oraz w art. 112 par. 2 ustawy - Ordynacja podatkowa.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-08-14",
+  "repealDate": "2002-12-31",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2001/446",
+     "date": "2002-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 119 par. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2001/446",
+     "date": "2002-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010446.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010446.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
