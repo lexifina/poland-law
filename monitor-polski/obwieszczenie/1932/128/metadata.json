@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/128",
+ "source_sha256": "abc0ffd6beed5d8941d20a85945e57c23316cab64f3b0dea494fb5ad50bd1713",
+ "in_force": "1932-04-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/128",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/128/text/O/M19320128.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/128/text/I/M19320128.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/128",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 100,
+  "pos": 128,
+  "address": "WMP19321000128",
+  "displayAddress": "M.P. 1932 nr 100 poz. 128",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 23 kwietnia 1932 r. o wartości jednego grama czystego złota.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-04-23",
+  "promulgation": "1932-04-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/932"
+    },
+    {
+     "id": "DU/1927/855"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/855",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320128.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320128.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
