@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1978/99",
+ "source_sha256": "1c152d1daebbec4b4c9ecf07642ba5cae4603cdc5b6f90742feed27f9e85784a",
+ "in_force": "1979-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1978/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1978/99/text/O/M19780099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1978/99/text/I/M19780099.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1978/99",
+  "publisher": "MP",
+  "year": 1978,
+  "volume": 27,
+  "pos": 99,
+  "address": "WMP19780270099",
+  "displayAddress": "M.P. 1978 nr 27 poz. 99",
+  "title": "Zarządzenie Ministra Finansów z dnia 16 sierpnia 1978 r. zmieniające zarządzenie w sprawie taryfy składek za obowiązkowe ubezpieczenia komunikacyjne.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-08-16",
+  "entryIntoForce": "1979-01-01",
+  "validFrom": "1979-01-01",
+  "repealDate": "1982-01-01",
+  "changeDate": "2024-01-08T11:37:42",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "ubezpieczenia komunikacyjne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1981/283",
+     "date": "1982-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1974/260",
+     "date": "1979-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1975/160"
+    },
+    {
+     "id": "DU/1974/304"
+    },
+    {
+     "id": "DU/1974/274"
+    },
+    {
+     "id": "DU/1958/357"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/304",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1974/274",
+     "art": "par. 30 ust. 3"
+    },
+    {
+     "id": "DU/1958/357",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19780099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19780099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
