@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1197",
+ "source_sha256": "2c6d6e78ec5eb871314815723ad8953563da3c497625dc6ee94d38c73e66942e",
+ "in_force": "2001-11-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1197",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1197/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1197/text/O/D20011197.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1197/text/I/D20011197.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1197/text/T/D20011197L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1197",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 111,
+  "pos": 1197,
+  "address": "WDU20011111197",
+  "displayAddress": "Dz.U. 2001 nr 111 poz. 1197",
+  "title": "Ustawa z dnia 6 września 2001 r. o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-09-06",
+  "promulgation": "2001-10-06",
+  "entryIntoForce": "2001-11-06",
+  "validFrom": "2001-11-06",
+  "changeDate": "2024-03-15T09:59:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS GOSPODARKI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "podatki",
+   "opłaty lokalne",
+   "porty morskie",
+   "zanieczyszczenia",
+   "regiony",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2709.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2709",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2709",
+    "number": "2709",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1206",
+     "date": "2004-06-08"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/550",
+     "date": "2000-11-06"
+    },
+    {
+     "id": "DU/1997/44",
+     "date": "2001-11-06"
+    },
+    {
+     "id": "DU/1995/243",
+     "date": "2001-11-06"
+    },
+    {
+     "id": "DU/1991/31",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011197.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011197.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011197L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
