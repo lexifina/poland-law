@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/756",
+ "source_sha256": "89163c805d1ed00d2cb7fac015678189eae0561bc7d8c731da06816e460e485b",
+ "in_force": "2004-10-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/756",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/756/text/O/M20040756.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/756/text/I/M20040756.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/756",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 43,
+  "pos": 756,
+  "address": "WMP20040430756",
+  "displayAddress": "M.P. 2004 nr 43 poz. 756",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 14 października 2004 w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w III kwartale 2004 r. w stosunku do IV kwartału 1995 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-10-14",
+  "promulgation": "2004-10-21",
+  "changeDate": "2020-10-20T09:38:41",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/164"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/164",
+     "art": "art. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040756.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040756.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
