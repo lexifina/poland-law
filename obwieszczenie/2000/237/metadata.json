@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/237",
+ "source_sha256": "17cbd5c0ab86d33baedce7e5baaf15d2305bac6ee4195a8b04192ebde7ed9875",
+ "in_force": "2000-04-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 701 words, parsed 122; at 122: 'prostuje się następujące błędy : 1 ) w części 85'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/237",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/237/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/237/text/O/D20000237.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/237/text/I/D20000237.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/237",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 18,
+  "pos": 237,
+  "address": "WDU20000180237",
+  "displayAddress": "Dz.U. 2000 nr 18 poz. 237",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 13 marca 2000 r. o sprostowaniu błędów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-03-13",
+  "entryIntoForce": "2000-04-04",
+  "validFrom": "1999-12-15",
+  "changeDate": "2024-03-15T09:49:38",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "porządkowanie prawa",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 1"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1999/1171"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000237.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000237.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
