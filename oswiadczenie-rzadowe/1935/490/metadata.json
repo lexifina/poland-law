@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/490",
+ "source_sha256": "372bddd8ab56464868387f608baa4e6cd7d6b4c52ffa01c79a3f7dd22b9f6b87",
+ "in_force": "1935-10-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/490",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/490/text/O/D19350490.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/490/text/I/D19350490.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/490",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 79,
+  "pos": 490,
+  "address": "WDU19350790490",
+  "displayAddress": "Dz.U. 1935 nr 79 poz. 490",
+  "title": "Oświadczenie rządowe z dnia 17 października 1935 r. w sprawie wymiany dokumentów ratyfikacyjnych układu taryfowego między Polską a Holandją z dnia 11 grudnia 1933 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1935-10-17",
+  "promulgation": "1935-10-31",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "ratyfikacja",
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [
+   "Holandia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/489"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/489",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350490.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350490.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
