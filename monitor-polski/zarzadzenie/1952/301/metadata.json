@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/301",
+ "source_sha256": "2b8d483d32c943e6d770e2190b60979b9793f200377d182ad3cd8e7b4b32391a",
+ "in_force": "1952-03-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/301",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/301/text/O/M19520301.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/301/text/I/M19520301.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/301",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 23,
+  "pos": 301,
+  "address": "WMP19520230301",
+  "displayAddress": "M.P. 1952 nr 23 poz. 301",
+  "title": "Zarządzenie Naczelnego Dyrektora Archiwów Państwowych z dnia 1 lutego 1952 r. w sprawie przemianowania i włączania b. archiwów miejskich do archiwów państwowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-02-01",
+  "entryIntoForce": "1952-03-09",
+  "validFrom": "1952-02-01",
+  "repealDate": "1986-12-27",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "NACZELNY DYREKTOR ARCHIWÓW PAŃSTWOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1986/243",
+     "date": "1986-12-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1952/87"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520301.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520301.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
