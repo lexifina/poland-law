@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1952/182",
+ "source_sha256": "201eabf455e528cdecc4910dd4d300b9014fc6d45a83aafa81d44cf775f9160d",
+ "in_force": "1952-04-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1952/182",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1952/182/text/O/D19520182.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1952/182/text/I/D19520182.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1952/182/text/U/D19520182Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1952/182",
+  "publisher": "DU",
+  "year": 1952,
+  "volume": 26,
+  "pos": 182,
+  "address": "WDU19520260182",
+  "displayAddress": "Dz.U. 1952 nr 26 poz. 182",
+  "title": "Obwieszczenie Ministra Żeglugi z dnia 18 kwietnia 1952 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 7 marca 1950 r. o żegludze i spławie na śródlądowych drogach wodnych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-04-18",
+  "repealDate": "2001-04-25",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przepisy karne",
+   "żegluga śródlądowa",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/43",
+     "date": "2001-04-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/110"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1950/108"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19520182.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19520182.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19520182Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
