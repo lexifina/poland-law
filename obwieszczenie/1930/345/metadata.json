@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/345",
+ "source_sha256": "86c350837a176c9a99bdfa9c5b27671d387959bec8304365ab0b4913c432dabb",
+ "in_force": "1930-05-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/345",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/345/text/O/D19300345.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/345/text/I/D19300345.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/345",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 38,
+  "pos": 345,
+  "address": "WDU19300380345",
+  "displayAddress": "Dz.U. 1930 nr 38 poz. 345",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 12 maja 1930 r. o sprostowaniu błędów w rozporządzeniu Rady Ministrów z dnia 29 marca 1930 r. w sprawie zmiany przepisów o należnościach za podróże służbowe, delegacje (odkomenderowania) i przeniesienia, odbywane poza granicami Państwa, oraz w rozporządzeniu Ministra Skarbu z dnia 23 stycznia 1930 r. w przedmiocie uprawy tytoniu w roku 1930.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1930-05-12",
+  "promulgation": "1930-05-21",
+  "changeDate": "2020-11-03T15:56:33",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. c"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1930/98"
+    },
+    {
+     "id": "DU/1930/224"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300345.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300345.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
