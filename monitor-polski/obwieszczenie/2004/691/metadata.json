@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/691",
+ "source_sha256": "fa10dc21c923f97a0dfaeeabe1d0240fd32402362b4e42448422778df451e73a",
+ "in_force": "2004-09-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/691",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/691/text/O/M20040691.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/691/text/I/M20040691.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/691",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 39,
+  "pos": 691,
+  "address": "WMP20040390691",
+  "displayAddress": "M.P. 2004 nr 39 poz. 691",
+  "title": "Obwieszczenie Ministra Finansów z dnia 21 września 2004 r. w sprawie ogłoszenia kwot, o których mowa w art. 12 ust. 1 pkt 1 ustawy o finansach publicznych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-21",
+  "promulgation": "2004-09-23",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "poręczenia państwowe",
+   "gwarancja"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1014",
+     "art": "art. 12 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040691.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040691.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
