@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/495",
+ "source_sha256": "f6823b6e23e5003efae309004c02ad940c93098e32aeeb5fb24d26314352a930",
+ "in_force": "1950-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/495",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/495/text/O/D19500495.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/495/text/I/D19500495.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/495",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 54,
+  "pos": 495,
+  "address": "WDU19500540495",
+  "displayAddress": "Dz.U. 1950 nr 54 poz. 495",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 18 listopada 1950 r. uchylające rozporządzenia w sprawie norm ilościowych lekarzy i położnych.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1950-11-18",
+  "entryIntoForce": "1950-12-04",
+  "validFrom": "1950-12-04",
+  "changeDate": "2019-03-08T14:09:19",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1950/96",
+     "date": "1950-12-04"
+    },
+    {
+     "id": "DU/1949/277",
+     "date": "1950-12-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/434"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500495.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500495.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
