@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/222",
+ "source_sha256": "6efe1e6ee574369e2c875066366bfdd2c7ae5ab1750d25fab6a9d689cf369476",
+ "in_force": "1936-05-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/222/text/O/M19360222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/222/text/I/M19360222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/222",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 122,
+  "pos": 222,
+  "address": "WMP19361220222",
+  "displayAddress": "M.P. 1936 nr 122 poz. 222",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 15 maja 1936 r. o taryfie niektórych opłat portowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-05-15",
+  "promulgation": "1936-05-26",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porty morskie",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1937/58",
+     "date": "1937-03-01"
+    },
+    {
+     "id": "MP/1937/113",
+     "date": "1937-04-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1934/155"
+    },
+    {
+     "id": "DU/1936/295"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
