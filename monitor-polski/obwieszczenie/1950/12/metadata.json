@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/12",
+ "source_sha256": "1b2c95397b198acdfb760aa17167d20bae1aac07da79d10e407ed1d1e7a0dbaf",
+ "in_force": "1949-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/12/text/O/M19500012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/12/text/I/M19500012.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/12",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 2,
+  "pos": 12,
+  "address": "WMP19500020012",
+  "displayAddress": "M.P. 1950 nr 2 poz. 12",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 15 grudnia 1949 r. w sprawie zmiany składu osobowego Naczelnej Rady Odbudowy m. st. Warszawy.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-15",
+  "entryIntoForce": "1949-12-15",
+  "validFrom": "1949-12-15",
+  "repealDate": "1951-01-01",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1947/845",
+     "date": "1949-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/268"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/523",
+     "date": "1951-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
