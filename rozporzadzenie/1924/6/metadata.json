@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1924/6",
+ "source_sha256": "a369a59e6da665118b994d9f6e525bd60f2e733d9544e8843f2fc6f60c1dd7d5",
+ "in_force": "1924-01-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1924/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1924/6/text/O/D19240006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1924/6/text/I/D19240006.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1924/6",
+  "publisher": "DU",
+  "year": 1924,
+  "volume": 1,
+  "pos": 6,
+  "address": "WDU19240010006",
+  "displayAddress": "Dz.U. 1924 nr 1 poz. 6",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 29 grudnia 1923 r. w przedmiocie zmiany przepisów o opłatach stemplowych i pokrewnych daninach publicznych, obowiązujących na obszarze górnośląskiej części województwa śląskiego.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-12-29",
+  "entryIntoForce": "1924-01-03",
+  "validFrom": "1924-01-03",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1924/430",
+     "date": "1924-05-22"
+    },
+    {
+     "id": "DU/1924/231",
+     "date": "1924-03-08"
+    },
+    {
+     "id": "DU/1924/195",
+     "date": "1924-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1923/1109"
+    },
+    {
+     "id": "DU/1923/1044"
+    },
+    {
+     "id": "DU/1922/315"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19240006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19240006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
