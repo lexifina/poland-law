@@ -1,0 +1,120 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/83",
+ "source_sha256": "15f60d2c4a72619df8e8a7b2ef932478940e1ac85738b3e802861047ad89cef0",
+ "in_force": "2001-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/83",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/83/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/83/text/O/D20010083.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/83/text/I/D20010083.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/83/text/T/D20010083L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/83",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 11,
+  "pos": 83,
+  "address": "WDU20010110083",
+  "displayAddress": "Dz.U. 2001 nr 11 poz. 83",
+  "title": "Ustawa z dnia 11 stycznia 2001 r. o regulacji rynku skrobi ziemniaczanej.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-01-11",
+  "promulgation": "2001-02-14",
+  "entryIntoForce": "2001-03-01",
+  "validFrom": "2001-03-01",
+  "repealDate": "2004-05-01",
+  "changeDate": "2024-03-15T09:58:52",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "ziemniaki",
+   "przetargi",
+   "działalność gospodarcza",
+   "eksport",
+   "rolnictwo"
+  ],
+  "keywordsNames": [
+   "Agencja Rynku Rolnego"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1570.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1570",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1570",
+    "number": "1570",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/386",
+     "date": "2004-05-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2003/908"
+    },
+    {
+     "id": "DU/2003/776"
+    },
+    {
+     "id": "DU/2002/504"
+    },
+    {
+     "id": "DU/2002/503"
+    },
+    {
+     "id": "DU/2002/2034"
+    },
+    {
+     "id": "DU/2001/684"
+    },
+    {
+     "id": "DU/2001/1747"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/177",
+     "date": "2004-03-02"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010083.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010083.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010083L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
