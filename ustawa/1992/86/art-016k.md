@@ -1,0 +1,7 @@
+# Art. 16k.
+
+1. Odpisów amortyzacyjnych można dokonywać od wartości początkowej maszyn i urządzeń zaliczonych do grupy 3-6 i 8 Klasyfikacji oraz środków transportu, z wyjątkiem samochodów osobowych lub innych samochodów o dopuszczalnej ładowności nie przekraczającej 500 kilogramów, w pierwszym podatkowym roku ich używania przy zastosowaniu stawek podanych w Wykazie stawek amortyzacyjnych podwyższonych, z zastrzeżeniem ust. 2, o współczynnik nie wyższy niż 2,0, a w następnych latach podatkowych od ich wartości początkowej pomniejszonej o dotychczasowe odpisy amortyzacyjne, ustalonej na początek kolejnych lat ich używania. Począwszy od roku podatkowego, w którym tak określona roczna kwota amortyzacji miałaby być niższa od rocznej kwoty amortyzacji obliczonej przy zastosowaniu metody określonej w art. 16i ust. 1, podatnicy dokonują dalszych odpisów amortyzacyjnych zgodnie z art. 16i.
+
+2. W przypadku używania środków trwałych, określonych w ust. 1, w zakładzie położonym na terenie gminy o szczególnym zagrożeniu wysokim bezrobociem strukturalnym albo w gminie zagrożonej recesją i degradacją społeczną, których wykaz na podstawie odrębnych przepisów ustala Rada Ministrów, stawki podane w Wykazie stawek amortyzacyjnych można podwyższyć przy zastosowaniu współczynników nie wyższych niż 3,0.
+
+3. Jeżeli w trakcie roku podatkowego gmina zostanie wyłączona z wykazu, o którym mowa w ust. 2, podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
