@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/41",
+ "source_sha256": "db79aa72862f4d07e547cb36bd64f79ae71b98d187cc7f17fb0c7ebd1c6217be",
+ "in_force": "1939-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/41",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/41/text/O/M19390041.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/41/text/I/M19390041.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/41",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 25,
+  "pos": 41,
+  "address": "WMP19390250041",
+  "displayAddress": "M.P. 1939 nr 25 poz. 41",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 24 stycznia 1939 r. o wartości jednego grama czystego złota.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-01-24",
+  "promulgation": "1939-01-31",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto",
+   "waluta",
+   "metale"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/694"
+    },
+    {
+     "id": "DU/1934/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/509",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390041.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390041.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
