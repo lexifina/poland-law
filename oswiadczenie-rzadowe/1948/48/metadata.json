@@ -1,0 +1,58 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/48",
+ "source_sha256": "1936839a1ace12e40279abb42b00ec7ed4f272241ad021a32b8ac263bf197ece",
+ "in_force": "1947-07-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/48/text/O/D19480048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/48/text/I/D19480048.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/48",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 7,
+  "pos": 48,
+  "address": "WDU19480070048",
+  "displayAddress": "Dz.U. 1948 nr 7 poz. 48",
+  "title": "Oświadczenie rządowe z dnia 7 lipca 1947 r. w sprawie wymiany dokumentów ratyfikacyjnych Układu o przyjaźni i wzajemnej pomocy między Polską a Czechosłowacją, podpisanego w Warszawie dnia 10 marca 1947 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1947-07-07",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratyfikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/47"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
