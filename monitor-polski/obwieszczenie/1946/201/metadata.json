@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1946/201",
+ "source_sha256": "37236f9fbfaf0bf1273399fb5fb9bf89b8664ae09ee5093380c3a76409203e95",
+ "in_force": "1946-10-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1946/201",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1946/201/text/O/M19460201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1946/201/text/I/M19460201.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1946/201",
+  "publisher": "MP",
+  "year": 1946,
+  "volume": 108,
+  "pos": 201,
+  "address": "WMP19461080201",
+  "displayAddress": "M.P. 1946 nr 108 poz. 201",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 30 września 1946 r. o nadaniu uprawnień agenta dewizowego Bankowi Ludowemu w Rybniku.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-09-30",
+  "entryIntoForce": "1946-10-18",
+  "validFrom": "1946-10-18",
+  "repealDate": "1950-05-16",
+  "changeDate": "2014-12-31T12:24:27",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1950/686",
+     "date": "1950-05-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1939/40"
+    },
+    {
+     "id": "DU/1936/419"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/249"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19460201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19460201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
