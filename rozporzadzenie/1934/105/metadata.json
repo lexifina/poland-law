@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/105",
+ "source_sha256": "2bd586a914d3120f9606bdf2f2f79a474f6b118f36b49e0457e56eb5b7f01def",
+ "in_force": "1934-02-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/105",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/105/text/O/D19340105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/105/text/I/D19340105.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/105",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 13,
+  "pos": 105,
+  "address": "WDU19340130105",
+  "displayAddress": "Dz.U. 1934 nr 13 poz. 105",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 25 stycznia 1934 r. w sprawie obowiązkowego zgłaszania zachorowań na twardziel (Rhinoscleroma).",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-25",
+  "promulgation": "1934-12-14",
+  "entryIntoForce": "1934-02-14",
+  "validFrom": "1934-02-14",
+  "changeDate": "2020-09-23T13:40:49",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby zakaźne",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1930/439",
+     "date": "1934-02-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/493"
+    },
+    {
+     "id": "DU/1919/402"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/493",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1919/402",
+     "art": "art. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340105.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
