@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1165",
+ "source_sha256": "83f9b955bfb6469a68c74059025340d7c3bf94555e2a392f18d1a56387f9e346",
+ "in_force": "2000-12-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 631 words, parsed 171; at 171: '483 ) , orzeka : 1 . Art . 13'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1165",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1165/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1165/text/O/D20001165.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1165/text/I/D20001165.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1165/text/T/D20001165L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1165",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 109,
+  "pos": 1165,
+  "address": "WDU20001091165",
+  "displayAddress": "Dz.U. 2000 nr 109 poz. 1165",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2000 r. sygn. akt K. 35/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-12-05",
+  "entryIntoForce": "2000-12-13",
+  "validFrom": "2000-12-13",
+  "changeDate": "2024-03-15T09:50:03",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "pracownicy urzędów państwowych",
+   "emerytury i renty",
+   "pracownicy samorządowi"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/124",
+     "date": "2000-12-13"
+    },
+    {
+     "id": "DU/1982/214",
+     "date": "2000-12-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1990/124"
+    },
+    {
+     "id": "DU/1982/214"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001165.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001165.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001165L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
