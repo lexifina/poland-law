@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/285",
+ "source_sha256": "1969a5f135fc20ee45d3c08ecc0c8e5efdfae097eec827f3bc8750ffc593ccbd",
+ "in_force": "1963-07-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/285",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/285/text/O/M19630285.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/285/text/I/M19630285.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/285",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 56,
+  "pos": 285,
+  "address": "WMP19630560285",
+  "displayAddress": "M.P. 1963 nr 56 poz. 285",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 6 lipca 1963 r. w sprawie ogłoszenia ustanowionych norm branżowych.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-07-06",
+  "entryIntoForce": "1963-07-06",
+  "validFrom": "1963-07-06",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1971/249",
+     "date": "1971-09-01"
+    },
+    {
+     "id": "MP/1968/185",
+     "date": "1968-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630285.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630285.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
