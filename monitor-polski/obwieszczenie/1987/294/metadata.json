@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/294",
+ "source_sha256": "ba40bfa6635995af0755489f563e84ff18e111d6d86f92d0d3df7ea5bcccf616",
+ "in_force": "1987-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/294",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/294/text/O/M19870294.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/294/text/I/M19870294.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/294",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 34,
+  "pos": 294,
+  "address": "WMP19870340294",
+  "displayAddress": "M.P. 1987 nr 34 poz. 294",
+  "title": "Obwieszczenie Centralnej Komisji do Spraw Referendum z dnia 30 listopada 1987 r. o wyniku referendum ogólnokrajowego przeprowadzonego dnia 29 listopada 1987 r.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-11-30",
+  "entryIntoForce": "1987-12-04",
+  "validFrom": "1987-12-04",
+  "repealDate": "1989-06-03",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "CENTRALNA KOMISJA DO SPRAW REFERENDUM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1987/281",
+     "date": "1987-12-04"
+    },
+    {
+     "id": "MP/1987/274",
+     "date": "1987-12-04"
+    },
+    {
+     "id": "MP/1987/233",
+     "date": "1987-12-04"
+    },
+    {
+     "id": "MP/1987/232",
+     "date": "1987-12-04"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1989/101",
+     "date": "1989-06-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870294.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870294.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
