@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/204",
+ "source_sha256": "4f26be934697f2330a9c32324267a97c1a6895124e393892f5a1f460d619bc53",
+ "in_force": "1933-04-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/204",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/204/text/O/D19330204.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/204/text/I/D19330204.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/204",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 24,
+  "pos": 204,
+  "address": "WDU19330240204",
+  "displayAddress": "Dz.U. 1933 nr 24 poz. 204",
+  "title": "Obwieszczenie Ministra Skarbu i Ministra Sprawiedliwości z dnia 29 marca 1933 r. o sprostowaniu błędu w załączniku do rozporządzenia z dnia 3 września 1932 r. w sprawie zmiany ustawy (statutu) Towarzystwa Kredytowego Ziemskiego w Warszawie.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-03-29",
+  "promulgation": "1933-04-06",
+  "changeDate": "2020-11-03T15:55:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1933/66"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330204.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330204.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
