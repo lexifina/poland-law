@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/73",
+ "source_sha256": "71909c0ca9e9d60d0a8796628e4c216baa477cde5631552bec70cf8b5d4877fb",
+ "in_force": "2005-01-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/73",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/73/text/O/D20050073.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/73/text/I/D20050073.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/73",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 10,
+  "pos": 73,
+  "address": "WDU20050100073",
+  "displayAddress": "Dz.U. 2005 nr 10 poz. 73",
+  "title": "Uchwała Sądu Najwyższego z dnia 6 stycznia 2005 r. w sprawie ważności wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, przeprowadzonych dniu 21 listopada 2004 r. w województwie śląskim w okręgu wyborczym nr 29",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-01-06",
+  "promulgation": "2005-01-17",
+  "changeDate": "2019-03-08T14:21:32",
+  "releasedBy": [
+   "SĄD NAJWYŻSZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2004/2555"
+    },
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 101 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050073.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050073.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
