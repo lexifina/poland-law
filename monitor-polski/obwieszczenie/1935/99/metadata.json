@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/99",
+ "source_sha256": "6305afa608f1f2e65f29839cca4032bfa12415d267658c5de33981d528ae3e21",
+ "in_force": "1935-03-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/99/text/O/M19350099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/99/text/I/M19350099.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/99",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 71,
+  "pos": 99,
+  "address": "WMP19350710099",
+  "displayAddress": "M.P. 1935 nr 71 poz. 99",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 19 marca 1935 r. o zatwierdzeniu wysokości opłaty na rzecz Wielkopolskiej Izby Rolniczej na okres czasu od dnia 1 kwietnia 1934 r. do dnia 31 marca 1936 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-03-19",
+  "promulgation": "1935-03-26",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby rolnicze",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/385"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/385",
+     "art": "art. 35"
+    },
+    {
+     "id": "DU/1928/385",
+     "art": "art. 58"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
