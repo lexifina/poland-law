@@ -1,0 +1,3 @@
+Kierując się powyższymi zasadami konstytucyjnymi uznaje się za niezbędne:
+
+- kształtowanie środowiska zgodnie z potrzebami społeczeństwa i gospodarki narodowej, - zharmonizowanie rozwoju sił wytwórczych, nauki i techniki z potrzebami ochrony środowiska, - określenie środków prawnych zapewniających korzystanie ze środowiska zgodnie z potrzebami społecznymi, - uczynienie z zadań mających na celu ochronę środowiska obowiązku organów państwowych, jednostek państwowych, organizacji spółdzielczych, społecznych i zawodowych, - ochronę środowiska przez każdego obywatela i w związku z tym stanowi się, co następuje.
