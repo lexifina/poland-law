@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/432",
+ "source_sha256": "78ba8b19a89b41157096ea31556b176476116fa00a0fb163c3f6e83236a57fbe",
+ "in_force": "1931-06-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/432",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/432/text/O/D19310432.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/432/text/I/D19310432.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/432",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 51,
+  "pos": 432,
+  "address": "WDU19310510432",
+  "displayAddress": "Dz.U. 1931 nr 51 poz. 432",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 20 grudnia 1930 r. o sprostowaniu błędu w tekście oraz przekładzie polskim konwencji między Polską a Wolnem Miastem Gdańskiem, zawartej w Paryżu dnia 9 listopada 1920 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-12-20",
+  "promulgation": "1931-06-03",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. b)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310432.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310432.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
