@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/401",
+ "source_sha256": "e6e380a2be6ffc7a1082cf720d53d538ac6dd8d9590992b95fcad6938df642c7",
+ "in_force": "1929-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/401",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/401/text/O/D19290401.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/401/text/I/D19290401.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/401",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 48,
+  "pos": 401,
+  "address": "WDU19290480401",
+  "displayAddress": "Dz.U. 1929 nr 48 poz. 401",
+  "title": "Rozporządzenie Ministra Pracy i Opieki Społecznej z dnia 12 czerwca 1929 r. w porozumieniu z Ministrem Skarbu w sprawie obniżenia wkładek zakładów pracy oraz podwyższenia norm zasiłków, ustanowionych w ustawie z dnia 18 lipca 1924 r. o zabezpieczeniu na wypadek bezrobocia.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-06-12",
+  "promulgation": "1929-06-30",
+  "entryIntoForce": "1929-07-01",
+  "validFrom": "1929-07-01",
+  "repealDate": "1931-03-30",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezrobocie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/187",
+     "date": "1931-03-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/650"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/650",
+     "art": "art. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290401.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290401.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
