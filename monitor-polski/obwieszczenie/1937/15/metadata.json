@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/15",
+ "source_sha256": "402c88c504d7353dfa0265cffd2399d272ebebb9aa801a21538433835d19f052",
+ "in_force": "1937-01-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/15",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/15/text/O/M19370015.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/15/text/I/M19370015.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/15",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 9,
+  "pos": 15,
+  "address": "WMP19370090015",
+  "displayAddress": "M.P. 1937 nr 9 poz. 15",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 7 stycznia 1937 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-01-07",
+  "promulgation": "1937-01-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370015.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370015.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
