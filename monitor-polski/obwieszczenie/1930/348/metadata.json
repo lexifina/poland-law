@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/348",
+ "source_sha256": "30d83869c2ab25b78b25a3c49d3fc2d9331be05b6e87c316819810fb90981097",
+ "in_force": "1930-11-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/348",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/348/text/O/M19300348.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/348/text/I/M19300348.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/348",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 259,
+  "pos": 348,
+  "address": "WMP19302590348",
+  "displayAddress": "M.P. 1930 nr 259 poz. 348",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 20 października 1930 r. wydane w porozumieniu z Ministrem Rolnictwa o ustanowieniu punktu kontroli transportów szczeciny, włosia i sierści, wychodzących zagranicę",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-10-20",
+  "promulgation": "1930-11-08",
+  "repealDate": "1939-04-21",
+  "changeDate": "2014-12-31T12:26:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1939/182",
+     "date": "1939-04-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1930/190"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300348.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300348.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
