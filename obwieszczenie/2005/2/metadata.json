@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2",
+ "source_sha256": "6da38b2c295622ba8ca7cf5a052219785f20175ac57f0e946256138d43a6ae9c",
+ "in_force": "2005-01-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/2/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2/text/O/D20050002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2/text/I/D20050002.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/2/text/T/D20050002L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/2/text/U/D20050002Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU20050010002",
+  "displayAddress": "Dz.U. 2005 nr 1 poz. 2",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2004 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Banku Polskim",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-12-23",
+  "promulgation": "2005-01-04",
+  "expirationDate": "2013-08-09",
+  "changeDate": "2024-03-15T10:01:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "banki"
+  ],
+  "keywordsNames": [
+   "Narodowy Bank Polski"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 71-73 i art. 74 ust. 2 i 3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/938"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050002.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050002L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050002Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
