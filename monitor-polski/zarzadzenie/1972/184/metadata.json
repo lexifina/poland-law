@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/184",
+ "source_sha256": "510334c404e4466351897f416524bdd91b01ca55b30c4e17378d9611af8e177d",
+ "in_force": "1972-06-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/184",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/184/text/O/M19720184.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/184/text/I/M19720184.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/184",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 33,
+  "pos": 184,
+  "address": "WMP19720330184",
+  "displayAddress": "M.P. 1972 nr 33 poz. 184",
+  "title": "Zarządzenie Ministra Górnictwa i Energetyki z dnia 14 czerwca 1972 r. zmieniające zarządzenie w sprawie eksploatacji prądnic (generatorów) synchronicznych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-06-14",
+  "entryIntoForce": "1972-06-29",
+  "validFrom": "1972-06-29",
+  "repealDate": "1987-04-30",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. GÓRNICTWA I ENERGETYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "eksploatacja",
+   "energetyka",
+   "urządzenia energetyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1987/134",
+     "date": "1987-04-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1971/256",
+     "date": "1972-06-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/150"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/150",
+     "art": "art. 4 ust. 2 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720184.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720184.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
