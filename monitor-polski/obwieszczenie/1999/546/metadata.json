@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/546",
+ "source_sha256": "5c2abcc499ae2029c13749bffca8b1f7227e7bae309abbb5709fa575fd289634",
+ "in_force": "1999-11-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/546",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/546/text/O/M19990546.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/546/text/I/M19990546.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/546",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 36,
+  "pos": 546,
+  "address": "WMP19990360546",
+  "displayAddress": "M.P. 1999 nr 36 poz. 546",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 16 listopada 1999 r. w sprawie przeciętnego miesięcznego wynagrodzenia w województwach w trzecim kwartale 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-16",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/654"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/654",
+     "art": "art. 30 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990546.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990546.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
