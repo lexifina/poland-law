@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1964/316",
+ "source_sha256": "221fdc7fdc7752d98568545e4b8c1d47e9b815063edb8cc2d58aca5592a7e9fa",
+ "in_force": "1964-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1964/316",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1964/316/text/O/D19640316.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1964/316/text/I/D19640316.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1964/316",
+  "publisher": "DU",
+  "year": 1964,
+  "volume": 46,
+  "pos": 316,
+  "address": "WDU19640460316",
+  "displayAddress": "Dz.U. 1964 nr 46 poz. 316",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 1 grudnia 1964 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie obowiązkowych dostaw zbóż.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-12-01",
+  "repealDate": "1971-11-04",
+  "changeDate": "2017-11-23T15:44:02",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/213"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1957/164"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1971/253",
+     "date": "1971-11-04"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19640316.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19640316.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
