@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/339",
+ "source_sha256": "f3dd731fb0721dda2335ede90e142fe27f35042875a42fb6289aada3d031f2dd",
+ "in_force": "1990-11-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/339",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/339/text/O/M19900339.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/339/text/I/M19900339.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/339",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 43,
+  "pos": 339,
+  "address": "WMP19900430339",
+  "displayAddress": "M.P. 1990 nr 43 poz. 339",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 17 października 1990 r. w sprawie zmian w wykazie obowiązków sprawozdawczych ustalonych przez Główny Urząd Statystyczny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-10-17",
+  "entryIntoForce": "1990-11-24",
+  "validFrom": "1990-11-24",
+  "repealDate": "1991-06-30",
+  "changeDate": "2019-05-10T11:32:04",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1991/81",
+     "date": "1991-06-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1989/350",
+     "date": "1990-11-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/171"
+    },
+    {
+     "id": "DU/1982/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/58",
+     "art": "art. 16 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900339.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900339.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
