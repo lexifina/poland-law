@@ -1,0 +1,103 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/980",
+ "source_sha256": "c914126542a785986add5975b31cdbcac6caa55f1c109963837945d613de0d72",
+ "in_force": "2002-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/980",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/980/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/980/text/O/D20020980.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/980/text/I/D20020980.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/980/text/T/D20020980L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/980/text/U/D20020980Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/980",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 112,
+  "pos": 980,
+  "address": "WDU20021120980",
+  "displayAddress": "Dz.U. 2002 nr 112 poz. 980",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 lipca 2002 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-07-04",
+  "promulgation": "2002-07-20",
+  "repealDate": "2004-01-01",
+  "changeDate": "2024-03-15T10:06:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pracodawca",
+   "prawo pracy",
+   "prywatyzacja",
+   "bezrobocie",
+   "przedsiębiorstwa państwowe",
+   "emerytury i renty",
+   "kodeks pracy",
+   "zatrudnianie",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity ustawy nie obejmuje art. 18-22 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw (Dz. U. z 1990 r. Nr 4, poz. 19).",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/844",
+     "date": "2004-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/19"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020980.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020980.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020980L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20020980Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
