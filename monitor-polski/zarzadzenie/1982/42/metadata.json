@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/42",
+ "source_sha256": "beabe4d3b64a016088392a7082cbd82adbca7cee18e673f1891cf5e5c6436969",
+ "in_force": "1982-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/42",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/42/text/O/M19820042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/42/text/I/M19820042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/42",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 7,
+  "pos": 42,
+  "address": "WMP19820070042",
+  "displayAddress": "M.P. 1982 nr 7 poz. 42",
+  "title": "Zarządzenie Ministra Finansów z dnia 10 lutego 1982 r. w sprawie szczegółowych zasad obliczania, terminów i trybu płatności podatków oraz terminów i trybu przekazywania do budżetu zysku nieprawidłowego przez przedsiębiorstwa państwowe w 1982 r.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-02-10",
+  "entryIntoForce": "1982-02-19",
+  "validFrom": "1982-02-19",
+  "repealDate": "1982-07-01",
+  "changeDate": "2023-10-23T15:16:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "przedsiębiorstwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1982/171",
+     "date": "1982-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1981/287"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1981/287"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1981/287",
+     "art": "par. 13 ust. 8"
+    },
+    {
+     "id": "MP/1981/287",
+     "art": "par. 56 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
