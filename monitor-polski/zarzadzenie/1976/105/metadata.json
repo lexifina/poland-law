@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1976/105",
+ "source_sha256": "42135f9497b79d23e1498a86f7f7df7793db5324cbf7da98f2488acb2de6c47e",
+ "in_force": "1976-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1976/105",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1976/105/text/O/M19760105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1976/105/text/I/M19760105.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1976/105",
+  "publisher": "MP",
+  "year": 1976,
+  "volume": 23,
+  "pos": 105,
+  "address": "WMP19760230105",
+  "displayAddress": "M.P. 1976 nr 23 poz. 105",
+  "title": "Zarządzenie Prezesa Centralnego Urzędu Geologii z dnia 11 maja 1976 r. w sprawie prowadzenia ewidencji zasobów złóż kopalin.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-05-11",
+  "entryIntoForce": "1976-06-01",
+  "validFrom": "1976-06-01",
+  "repealDate": "1994-09-02",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. CENTRALNEGO URZĘDU GEOLOGII"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "górnicze prawo",
+   "dokumentacja geologiczna",
+   "geologiczne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1963/262",
+     "date": "1976-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/303"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/303",
+     "art": "art. 27 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1994/410",
+     "date": "1994-09-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19760105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19760105.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
