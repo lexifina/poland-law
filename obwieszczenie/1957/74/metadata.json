@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/74",
+ "source_sha256": "a8168cd5d3cc39c39b29207972c32bca910004f5cd14bc6caf9ae86f4aacfd50",
+ "in_force": "1957-02-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/74",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/74/text/O/D19570074.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/74/text/I/D19570074.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/74",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 13,
+  "pos": 74,
+  "address": "WDU19570130074",
+  "displayAddress": "Dz.U. 1957 nr 13 poz. 74",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 15 lutego 1957 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 27 czerwca 1950 r. o ustroju adwokatury.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-02-15",
+  "expirationDate": "1959-02-06",
+  "changeDate": "2017-11-23T15:43:50",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1956/248"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1950/275"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570074.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570074.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
