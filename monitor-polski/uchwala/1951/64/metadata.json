@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1951/64",
+ "source_sha256": "d5f8c9609a8b81268148058df300a6f273e29b5d79342724e01bd391f660e74c",
+ "in_force": "1951-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1951/64",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1951/64/text/O/M19510064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1951/64/text/I/M19510064.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1951/64",
+  "publisher": "MP",
+  "year": 1951,
+  "volume": 5,
+  "pos": 64,
+  "address": "WMP19510050064",
+  "displayAddress": "M.P. 1951 nr 5 poz. 64",
+  "title": "Uchwała nr 15 Prezydium Rządu z dnia 10 stycznia 1951 r. w sprawie wysokości świadczeń emerytalnych dla górników, zatrudnionych pod ziemią.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-01-10",
+  "entryIntoForce": "1951-01-25",
+  "validFrom": "1951-01-01",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/142",
+     "date": "1953-01-04"
+    },
+    {
+     "id": "MP/1952/1164",
+     "date": "1952-04-01"
+    },
+    {
+     "id": "MP/1951/895",
+     "date": "1951-06-01"
+    },
+    {
+     "id": "MP/1951/1484",
+     "date": "1952-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1933/396"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19510064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19510064.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
