@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/546",
+ "source_sha256": "53efe7df0bd19b41353358e0d4140eee07feec7b8d3ca09b22821f2ab771fc7e",
+ "in_force": "2003-07-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/546",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/546/text/O/M20030546.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/546/text/I/M20030546.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/546",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 37,
+  "pos": 546,
+  "address": "WMP20030370546",
+  "displayAddress": "M.P. 2003 nr 37 poz. 546",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 17 lipca 2003 r. w sprawie wskaźnika zmian cen skupu podstawowych produktów rolnych w I półroczu 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-07-17",
+  "promulgation": "2003-07-24",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "rolnictwo",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030546.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030546.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
