@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/221",
+ "source_sha256": "ede0d4578063cf91c30ed9ee3932d68f40548d22c95cbec61431a966820a4804",
+ "in_force": "1963-05-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/221/text/O/M19630221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/221/text/I/M19630221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/221",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 44,
+  "pos": 221,
+  "address": "WMP19630440221",
+  "displayAddress": "M.P. 1963 nr 44 poz. 221",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 18 maja 1963 r. w sprawie norm przebiegu międzynaprawczego pojazdów samochodowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-05-18",
+  "entryIntoForce": "1963-05-30",
+  "validFrom": "1963-05-30",
+  "repealDate": "1964-01-17",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1964/28",
+     "date": "1964-01-17"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1953/130",
+     "date": "1963-05-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1946/58",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1946/58",
+     "art": "art. 2 pkt 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
