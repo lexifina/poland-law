@@ -1,3 +1,5 @@
+# Art. 282a.
+
 § 1. W zakresie spraw rozstrzygniętych decyzją ostateczną organu podatkowego kontrola podatkowa nie może być ponownie wszczęta, z zastrzeżeniem § 2.
 
 § 2. Przepisu § 1 nie stosuje się, jeżeli kontrola podatkowa jest niezbędna dla przeprowadzenia postępowania w:

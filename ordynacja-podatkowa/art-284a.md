@@ -1,3 +1,5 @@
+# Art. 284a.
+
 § 1. W przypadku gdy okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, kontrola podatkowa może być wszczęta po okazaniu legitymacji służbowej kontrolowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej w art. 284 § 2.
 
 § 2. W przypadku, o którym mowa w § 1, kontrolowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej w art. 284 § 2 należy bez zbędnej zwłoki, jednak nie później niż w terminie 3 dni od dnia wszczęcia kontroli, doręczyć upoważnienie do przeprowadzenia kontroli.

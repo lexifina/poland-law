@@ -1,0 +1,3 @@
+# Art. 290a.
+
+Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Sprawiedliwości, w drodze rozporządzenia, określi sposób zabezpieczania, odtwarzania i wykorzystywania dowodów utrwalonych za pomocą aparatury rejestrującej obraz i dźwięk oraz magnetycznych, optycznych lub elektronicznych nośników informacji, uwzględniając w szczególności rodzaje czynników zewnętrznych, których działanie może spowodować zniszczenie lub uszkodzenie dowodu, obecność przedstawiciela organu kontrolującego podczas ich odtwarzania, formę oznakowania dowodu oraz ewidencjonowania czynności odtworzenia i wykorzystania dowodu.
