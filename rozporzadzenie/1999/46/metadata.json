@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/46",
+ "source_sha256": "5596b5fd1b9c452a138030d2788c691cd674d32574e055dd69ac450db898b660",
+ "in_force": "1999-01-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/46",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/46/text/O/D19990046.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/46/text/I/D19990046.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/46/text/T/D19990046L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/46",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 6,
+  "pos": 46,
+  "address": "WDU19990060046",
+  "displayAddress": "Dz.U. 1999 nr 6 poz. 46",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 stycznia 1999 r. w sprawie określenia wzoru oraz sposobu prowadzenia rejestru kolumn transportu sanitarnego.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-15",
+  "entryIntoForce": "1999-01-21",
+  "validFrom": "1999-01-21",
+  "repealDate": "2001-01-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "transport",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/408"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/408",
+     "art": "art. 70h ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2000/1193",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990046.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990046.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990046L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
