@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/55",
+ "source_sha256": "11965a153bf3dd01ca609949c822f379ba5cb60665987093dc7ebf27561d0d35",
+ "in_force": "1953-03-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/55",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/55/text/O/D19530055.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/55/text/I/D19530055.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/55",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 14,
+  "pos": 55,
+  "address": "WDU19530140055",
+  "displayAddress": "Dz.U. 1953 nr 14 poz. 55",
+  "title": "Dekret z dnia 4 marca 1953 r. o uzupełnieniu przepisów karnych w sprawach o niewykonanie dostaw obowiązkowych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-03-04",
+  "entryIntoForce": "1953-03-13",
+  "validFrom": "1953-03-13",
+  "repealDate": "1972-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1971/115",
+     "date": "1972-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1955/312",
+     "date": "1955-12-30"
+    },
+    {
+     "id": "DU/1955/241",
+     "date": "1955-09-30"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/1956/31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530055.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530055.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
