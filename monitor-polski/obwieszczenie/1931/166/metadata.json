@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/166",
+ "source_sha256": "addd23885b9088962942e08f8e8e5825777e938dac135afb0e3e7ec28f86b2f1",
+ "in_force": "1931-05-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/166",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/166/text/O/M19310166.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/166/text/I/M19310166.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/166",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 113,
+  "pos": 166,
+  "address": "WMP19311130166",
+  "displayAddress": "M.P. 1931 nr 113 poz. 166",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw byłych rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-05-18",
+  "promulgation": "1931-05-18",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 4 ust. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310166.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310166.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
