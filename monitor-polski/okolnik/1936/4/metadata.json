@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/4",
+ "source_sha256": "a116fba9f4f4e18e1ec653c911ec12ed405d954e723c68d1945518d72508e502",
+ "in_force": "1936-01-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/4/text/O/M19360004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/4/text/I/M19360004.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/4",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 2,
+  "pos": 4,
+  "address": "WMP19360020004",
+  "displayAddress": "M.P. 1936 nr 2 poz. 4",
+  "title": "Okólnik Ministerstwa Skarbu z dnia 21 grudnia 1935 r. L. D. IV. 35968/3/35 w sprawie specjalnej kontroli obrotu towarowego polsko - niemieckiego.",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-12-21",
+  "promulgation": "1936-01-03",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "cło",
+   "celne prawo",
+   "kontrola",
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1937/50"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1935/370"
+    },
+    {
+     "id": "MP/1935/327"
+    },
+    {
+     "id": "MP/1935/326"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
