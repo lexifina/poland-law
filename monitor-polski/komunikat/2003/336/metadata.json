@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/336",
+ "source_sha256": "cbd4a2a91ccc86f457ddc71fd2a4b1c4e85dd1d6d34aa4965835e122072bceb0",
+ "in_force": "2003-05-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/336",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/336/text/O/M20030336.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/336/text/I/M20030336.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/336",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 22,
+  "pos": 336,
+  "address": "WMP20030220336",
+  "displayAddress": "M.P. 2003 nr 22 poz. 336",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 14 kwietnia 2003 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w I kwartale 2003 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-04-14",
+  "promulgation": "2003-05-05",
+  "changeDate": "2020-10-20T09:38:42",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030336.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030336.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
