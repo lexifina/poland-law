@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1960/252",
+ "source_sha256": "4a7fab62de2a15b61830b5dbe274e8a1e63d7a21b2616965c05eaf748ab8e536",
+ "in_force": "1960-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1960/252",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1960/252/text/O/M19600252.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1960/252/text/I/M19600252.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1960/252",
+  "publisher": "MP",
+  "year": 1960,
+  "volume": 52,
+  "pos": 252,
+  "address": "WMP19600520252",
+  "displayAddress": "M.P. 1960 nr 52 poz. 252",
+  "title": "Zarządzenie Ministra Budownictwa i Przemysłu Materiałów Budowlanych z dnia 15 czerwca 1960 r. w sprawie jednolitych cenników robót akordowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-06-15",
+  "entryIntoForce": "1960-07-01",
+  "validFrom": "1960-07-01",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. BUDOWNICTWA I PRZEMYSŁU MATERIAŁÓW BUDOWLANYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/131",
+     "date": "1960-07-01"
+    },
+    {
+     "id": "MP/1958/208",
+     "date": "1960-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/125"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/125",
+     "art": "par. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19600252.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19600252.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
