@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/64",
+ "source_sha256": "3f680cca21e8601489c5ab45dada117668e0298a55c30907652b6a05be821a6d",
+ "in_force": "1990-02-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/64",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/64/text/O/D19900064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/64/text/I/D19900064.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/64",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 10,
+  "pos": 64,
+  "address": "WDU19900100064",
+  "displayAddress": "Dz.U. 1990 nr 10 poz. 64",
+  "title": "Rozporządzenie Ministra Finansów z dnia 9 lutego 1990 r. w sprawie łącznego zobowiązania pieniężnego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-02-09",
+  "promulgation": "1990-02-22",
+  "entryIntoForce": "1990-02-22",
+  "validFrom": "1990-01-01",
+  "repealDate": "1992-01-01",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek rolny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1992/47",
+     "date": "1992-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1989/268",
+     "date": "1990-02-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 18 ust. 3"
+    },
+    {
+     "id": "DU/1980/111",
+     "art": "art. 2 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900064.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
