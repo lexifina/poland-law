@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1967/1",
+ "source_sha256": "fa896b2ade22fdd819de5af09d5080356dbafa05b7e4901ccdd38c83ea03f51c",
+ "in_force": "1967-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1967/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1967/1/text/O/D19670001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1967/1/text/I/D19670001.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1967/1",
+  "publisher": "DU",
+  "year": 1967,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU19670010001",
+  "displayAddress": "Dz.U. 1967 nr 1 poz. 1",
+  "title": "Rozporządzenie Rady Ministrów z dnia 21 grudnia 1966 r. w sprawie przedłużenia terminu określonego w art. 66 paragrafie 1 prawa o notariacie.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-12-21",
+  "entryIntoForce": "1967-01-01",
+  "validFrom": "1967-01-01",
+  "repealDate": "1968-12-31",
+  "changeDate": "2014-12-31T12:25:29",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "urlopy pracownicze",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1967/1",
+     "date": "1968-12-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1967/1",
+     "date": "1968-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1951/276",
+     "date": "1967-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/318"
+    },
+    {
+     "id": "DU/1964/278"
+    },
+    {
+     "id": "DU/1951/276"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19670001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19670001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
