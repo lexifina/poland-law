@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/221",
+ "source_sha256": "171d3dbde3f7342c5a0e7e709c9e4f7a02e1ecf4770d29f3659252b4dd44e6f5",
+ "in_force": "1970-08-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/221/text/O/M19700221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/221/text/I/M19700221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/221",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 26,
+  "pos": 221,
+  "address": "WMP19700260221",
+  "displayAddress": "M.P. 1970 nr 26 poz. 221",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 11 sierpnia 1970 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-08-11",
+  "entryIntoForce": "1970-08-11",
+  "validFrom": "1970-08-11",
+  "repealDate": "1970-09-01",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1970/239",
+     "date": "1970-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1970/200",
+     "date": "1970-08-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
