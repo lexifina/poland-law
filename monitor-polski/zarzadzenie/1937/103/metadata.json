@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/103",
+ "source_sha256": "22c0141d2743d236de578bf51aa853496d916eac2d217be08b3054363cf93bc5",
+ "in_force": "1937-03-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/103/text/O/M19370103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/103/text/I/M19370103.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/103",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 68,
+  "pos": 103,
+  "address": "WMP19370680103",
+  "displayAddress": "M.P. 1937 nr 68 poz. 103",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej o zamknięciu sesji zwyczajnej Senatu.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-03-23",
+  "promulgation": "1937-03-24",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/227"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/227",
+     "art": "art. 12 pkt c)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
