@@ -1,0 +1,3 @@
+W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 25 lutego 1997 r. sygn. akt K.21/95 i z mocy art. 10 ust. 1 i 3 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470, z 1993 r. Nr 47, poz. 213, z 1994 r. Nr 122, poz. 593, z 1995 r. Nr 13, poz. 59 i z 1996 r. Nr 77, poz. 367) ogłaszam utratę mocy obowiązującej § 10 rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 31 stycznia 1995 r. w sprawie określenia wzorów dokumentów i rodzaju innych dowodów niezbędnych do ustalenia prawa do zasiłku rodzinnego oraz szczegółowych zasad i trybu wypłaty zasiłków rodzinnych i pielęgnacyjnych (Dz. U. Nr 12, poz. 58) z dniem 12 czerwca 1997 r.
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
