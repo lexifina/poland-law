@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/251",
+ "source_sha256": "b6f1622b48e40313c946e62e2e2c9576a98157770aa746c075a4025f2c535155",
+ "in_force": "1934-08-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/251",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/251/text/O/M19340251.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/251/text/I/M19340251.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/251",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 191,
+  "pos": 251,
+  "address": "WMP19341910251",
+  "displayAddress": "M.P. 1934 nr 191 poz. 251",
+  "title": "Obwieszczenie Komisarza Generalnego Pożyczki Narodowej z dnia 8 sierpnia 1934 r. w sprawie przelewów obligacyj Pożyczki Narodowej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-08-08",
+  "promulgation": "1934-08-22",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1934/586"
+    },
+    {
+     "id": "DU/1934/585"
+    },
+    {
+     "id": "DU/1926/570"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/416"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/416",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340251.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340251.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
