@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/32",
+ "source_sha256": "92454c5e8a362ef165cbb1376229fe0440d2eb5dac6f4a68395328b7e91b87db",
+ "in_force": "1944-10-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/32",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/32/text/O/D19440032.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/32/text/I/D19440032.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/32",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 7,
+  "pos": 32,
+  "address": "WDU19440070032",
+  "displayAddress": "Dz.U. 1944 nr 7 poz. 32",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 7 października 1944 r. o utworzeniu Państwowego Urzędu Repatriacyjnego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-10-07",
+  "entryIntoForce": "1944-10-12",
+  "validFrom": "1944-10-12",
+  "repealDate": "1951-03-31",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PREZ. POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/141",
+     "date": "1951-03-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1945/295",
+     "date": "1945-11-27"
+    },
+    {
+     "id": "DU/1945/101",
+     "date": "1945-05-12"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/1945/145"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440032.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440032.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
