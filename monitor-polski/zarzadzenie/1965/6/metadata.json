@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/6",
+ "source_sha256": "806a6aaa6c3b8f464c5c68e936c373939d3af4bd32e4ab0565395802e868c4b9",
+ "in_force": "1965-01-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/6/text/O/M19650006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/6/text/I/M19650006.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/6",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 2,
+  "pos": 6,
+  "address": "WMP19650020006",
+  "displayAddress": "M.P. 1965 nr 2 poz. 6",
+  "title": "Zarządzenie Ministra Finansów z dnia 29 grudnia 1964 r. w sprawie ulg podatkowych dla rzemieślników szkolących uczniów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-12-29",
+  "entryIntoForce": "1965-01-18",
+  "validFrom": "1965-01-18",
+  "repealDate": "1969-06-13",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1969/180",
+     "date": "1969-06-13"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1962/348",
+     "date": "1965-01-18"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1966/71",
+     "date": "1966-03-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/452",
+     "art": "art. 3"
+    },
+    {
+     "id": "DU/1950/452",
+     "art": "art. 35"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
