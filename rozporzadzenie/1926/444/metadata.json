@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/444",
+ "source_sha256": "b74a9a9a05b6a3dce7ea0139ec6fd7c552ee53412e3341148480a1b975359514",
+ "in_force": "1926-08-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/444",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/444/text/O/D19260444.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/444/text/I/D19260444.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/444",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 79,
+  "pos": 444,
+  "address": "WDU19260790444",
+  "displayAddress": "Dz.U. 1926 nr 79 poz. 444",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 6 sierpnia 1926 r. o wydawaniu dekretów w zakresie Najwyższego Zwierzchnictwa sił zbrojnych Państwa.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-08-06",
+  "entryIntoForce": "1926-08-06",
+  "validFrom": "1926-08-06",
+  "repealDate": "1936-05-12",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/286",
+     "date": "1936-05-12"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1931/6"
+    },
+    {
+     "id": "DU/1929/303"
+    },
+    {
+     "id": "DU/1926/445"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260444.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260444.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
