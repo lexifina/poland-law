@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1379",
+ "source_sha256": "8b7e097de48846030ef309832f8d33f8afcd8478ebaa5909f3622a84c32c862c",
+ "in_force": "2002-10-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 191 words, parsed 108; at 108: 'prostuje się następujące błędy : 1 ) w § 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1379",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1379/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1379/text/O/D20021379.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1379/text/I/D20021379.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1379",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 167,
+  "pos": 1379,
+  "address": "WDU20021671379",
+  "displayAddress": "Dz.U. 2002 nr 167 poz. 1379",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 27 września 2002 r. o sprostowaniu błędów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-09-27",
+  "promulgation": "2002-10-09",
+  "changeDate": "2024-03-15T10:05:26",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "rejestry",
+   "sprostowanie",
+   "pojazdy mechaniczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Objęte tekstem jednolitym Dz. U 2007 nr 186, poz. 1322",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2002/1123"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021379.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021379.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
