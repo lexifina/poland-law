@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/123",
+ "source_sha256": "8a7628fffc5e10cf7be5992b93318e705b9b397b0a594d4dbaf5b6def707f766",
+ "in_force": "1935-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/123/text/O/M19350123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/123/text/I/M19350123.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/123",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 90,
+  "pos": 123,
+  "address": "WMP19350900123",
+  "displayAddress": "M.P. 1935 nr 90 poz. 123",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 10 kwietnia 1935 r. w sprawie przyznania związkom prawa dokonywania rewizji.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1935-04-10",
+  "promulgation": "1935-04-17",
+  "changeDate": "2019-03-25T12:16:29",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość",
+   "spółdzielczość pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1939/469",
+     "date": "1939-08-17"
+    },
+    {
+     "id": "MP/1939/467",
+     "date": "1939-08-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/733"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1920/733",
+     "art": "art. 68 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
