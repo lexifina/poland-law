@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1318",
+ "source_sha256": "e7a12f2d98fd56e2909aca97ef97305e64a1a6d7955efcb8946f3b0414a8ea30",
+ "in_force": "2002-09-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1117 words, parsed 48; at 48: 'września 2002 r . : 1 ) skargi konstytucyjnej Jerzego'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1318",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1318/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1318/text/O/D20021318.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1318/text/I/D20021318.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1318/text/T/D20021318TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1318",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 157,
+  "pos": 1318,
+  "address": "WDU20021571318",
+  "displayAddress": "Dz.U. 2002 nr 157 poz. 1318",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 17 września 2002 r. sygn. akt SK. 35/01.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-09-17",
+  "promulgation": "2002-09-26",
+  "entryIntoForce": "2002-09-26",
+  "validFrom": "2002-09-26",
+  "changeDate": "2024-03-15T10:05:36",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "doręczenia",
+   "cywilne postępowanie",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/697",
+     "date": "2003-03-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/697"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1 i ust. 2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021318.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021318.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021318TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
