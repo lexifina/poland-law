@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/120",
+ "source_sha256": "69314e09360432a55977fd7015503b70e6c396af18af6109f06d0c5144bb33fa",
+ "in_force": "1923-02-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/120",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/120/text/O/D19230120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/120/text/I/D19230120.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/120",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 18,
+  "pos": 120,
+  "address": "WDU19230180120",
+  "displayAddress": "Dz.U. 1923 nr 18 poz. 120",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 12 lutego 1923 r. w sprawie opłat za rozpatrywanie obrazów kinematograficznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-02-12",
+  "entryIntoForce": "1923-02-26",
+  "validFrom": "1923-02-26",
+  "repealDate": "1923-10-01",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kinematografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/780",
+     "date": "1923-10-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1921/732",
+     "date": "1923-02-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/177"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
