@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/850",
+ "source_sha256": "fb0fb777adc2df0950c8458a676a8ab5766af42ea98d6ed483506f9313759d8a",
+ "in_force": "1927-11-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/850",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/850/text/O/D19270850.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/850/text/I/D19270850.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/850",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 96,
+  "pos": 850,
+  "address": "WDU19270960850",
+  "displayAddress": "Dz.U. 1927 nr 96 poz. 850",
+  "title": "Układ polsko-niemiecki z dnia 22 grudnia 1926 r. o wydaniu akt.",
+  "type": "Układ",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-07-11",
+  "entryIntoForce": "1927-11-05",
+  "validFrom": "1927-11-05",
+  "changeDate": "2022-03-08T12:43:12",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "status ustalono na podstawie Internetowej Bazy Traktatów MSZ:\n\nhttps://traktaty.msz.gov.pl/umowa-4",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1927/851"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1938/657",
+     "date": "1938-12-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270850.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270850.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
