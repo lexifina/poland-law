@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/4",
+ "source_sha256": "8ce1898ce9f0e709d456c720c66625f46be85e52017df6b1b9e8c37d55a6ff58",
+ "in_force": "1947-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/4/text/O/D19470004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/4/text/I/D19470004.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/4",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 2,
+  "pos": 4,
+  "address": "WDU19470020004",
+  "displayAddress": "Dz.U. 1947 nr 2 poz. 4",
+  "title": "Dekret z dnia 13 grudnia 1946 r. o zmianie ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym.",
+  "type": "Dekret",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-12-13",
+  "entryIntoForce": "1947-01-15",
+  "validFrom": "1946-09-30",
+  "repealDate": "1999-01-01",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "zakłady opieki zdrowotnej",
+   "ubezpieczenia społeczne",
+   "opieka zdrowotna",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1997/153",
+     "date": "1999-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1933/396",
+     "date": "1946-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
