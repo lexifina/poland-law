@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/43",
+ "source_sha256": "7c3c5b857827a0f1ecb260fab048f7ef45048bbb5a30a7cdb46a44afe9f571b8",
+ "in_force": "1936-02-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/43/text/O/M19360043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/43/text/I/M19360043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/43",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 27,
+  "pos": 43,
+  "address": "WMP19360270043",
+  "displayAddress": "M.P. 1936 nr 27 poz. 43",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego z dnia 29 stycznia 1936 r.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-01-29",
+  "promulgation": "1936-02-03",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/320"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/320",
+     "art": "art. 34"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
