@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/16",
+ "source_sha256": "c3aac50937b2ee6d61b2a04cb82b9b5badac17c904c2ba79fe8c27f56cabc5f8",
+ "in_force": "1933-01-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/16",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/16/text/O/D19330016.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/16/text/I/D19330016.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/16",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 2,
+  "pos": 16,
+  "address": "WDU19330020016",
+  "displayAddress": "Dz.U. 1933 nr 2 poz. 16",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 22 listopada 1932 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej o izbach rolniczych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-22",
+  "promulgation": "1933-01-13",
+  "repealDate": "1946-10-10",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby rolnicze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/265",
+     "date": "1946-10-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/817"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/817",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/385"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330016.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330016.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
