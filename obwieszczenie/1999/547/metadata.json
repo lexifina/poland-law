@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/547",
+ "source_sha256": "79bda385c11bd22790fe21e873bd231f368c69eca16e015b8be3c7bb2306bbff",
+ "in_force": "1999-05-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/547",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/547/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/547/text/O/D19990547.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/547/text/I/D19990547.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/547/text/T/D19990547L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/547",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 52,
+  "pos": 547,
+  "address": "WDU19990520547",
+  "displayAddress": "Dz.U. 1999 nr 52 poz. 547",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 31 maja 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu praktykom monopolistycznym i ochronie interesów konsumentów.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-05-31",
+  "repealDate": "2001-04-01",
+  "changeDate": "2024-03-15T11:34:26",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "monopolistyczne praktyki",
+   "sąd antymonopolowy",
+   "prywatyzacja",
+   "urzędy i izby skarbowe",
+   "przedsiębiorstwa państwowe",
+   "rejestry sądowe"
+  ],
+  "keywordsNames": [
+   "Urząd Antymonopolowy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/1319",
+     "date": "2001-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/88"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990547.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990547.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990547L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
