@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/181",
+ "source_sha256": "34d4518c094d1cd7a245ff5a87ca75e3bb333de7d06c10bbb190c746f2918098",
+ "in_force": "1934-06-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/181/text/O/M19340181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/181/text/I/M19340181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/181",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 134,
+  "pos": 181,
+  "address": "WMP19341340181",
+  "displayAddress": "M.P. 1934 nr 134 poz. 181",
+  "title": "Obwieszczenie Ministra Przemysłu i handlu z dnia 30 maja 1934 r. w sprawie wykazu rzeczoznawców, upoważnionych do urzędowego odbioru technicznego materjałów, używanych do budowy kotłów parowych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-05-30",
+  "promulgation": "1934-06-14",
+  "repealDate": "1936-07-02",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "maszyny i urządzenia",
+   "rzeczoznawcy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1936/281",
+     "date": "1936-07-02"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1931/232",
+     "date": "1934-05-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/714"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/714",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
