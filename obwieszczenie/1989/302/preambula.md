@@ -1,0 +1,3 @@
+Na podstawie art. 9 ust. 1 i 3 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. Nr 22, poz. 98, z 1987 r. Nr 21, poz. 123 oraz z 1989 r. Nr 34, poz. 178), w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 12 kwietnia 1989 r. sygn. akt. Uw. 9/88, ogłaszam, że z dniem 12 sierpnia 1989 r. tracą moc obowiązującą § 8 ust. 2, 3 i 4 rozporządzenia Rady Ministrów z dnia 26 października 1987 r. w sprawie odszkodowań za szkody wyrządzone w uprawach i plonach przez niektóre gatunki zwierząt łownych (Dz. U. Nr 34, poz. 189 i z 1989 r. Nr 6, poz. 41).
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej.
