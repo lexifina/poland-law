@@ -1,0 +1,1 @@
+W celu wzmożenia opieki nad dziećmi i innymi osobami znajdującymi się w trudnej sytuacji materialnej z powodu niemożności wyegzekwowania świadczeń alimentacyjnych oraz zwiększenia odpowiedzialności osób zobowiązanych do alimentacji stanowi się, co następuje:
