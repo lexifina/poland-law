@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1193",
+ "source_sha256": "ec190cad2b02b7a3acfb9940fc84f8ff7840094583b4cb0a34c693084bb3d8e7",
+ "in_force": "2001-10-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1193",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1193/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1193/text/O/D20011193.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1193/text/I/D20011193.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1193/text/T/D20011193L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1193",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 111,
+  "pos": 1193,
+  "address": "WDU20011111193",
+  "displayAddress": "Dz.U. 2001 nr 111 poz. 1193",
+  "title": "Ustawa z dnia 19 lipca 2001 r. o zmianie ustawy o zakładach opieki zdrowotnej i ustawy o szkolnictwie wyższym.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-07-19",
+  "promulgation": "2001-10-06",
+  "entryIntoForce": "2001-10-21",
+  "validFrom": "2001-10-21",
+  "repealDate": "2011-07-01",
+  "changeDate": "2024-03-15T09:59:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ZDROWIA",
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "zakłady opieki zdrowotnej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2096.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2096",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2096",
+    "number": "2096",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/654",
+     "date": "2011-07-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1999/901",
+     "date": "2002-10-21"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2001/1525"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1365",
+     "date": "2005-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/408",
+     "date": "2001-10-21"
+    },
+    {
+     "id": "DU/1990/385",
+     "date": "2001-10-21"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011193.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011193.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011193L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
