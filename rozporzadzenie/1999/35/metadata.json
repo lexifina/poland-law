@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/35",
+ "source_sha256": "8bf4bfeb9d21b0ec6a252159aa97392ecbb611af87770ea0fc080acd13ca2331",
+ "in_force": "1999-01-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/35",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/35/text/O/D19990035.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/35/text/I/D19990035.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/35/text/T/D19990035L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/35",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 5,
+  "pos": 35,
+  "address": "WDU19990050035",
+  "displayAddress": "Dz.U. 1999 nr 5 poz. 35",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 14 stycznia 1999 r. zmieniające rozporządzenie w sprawie zasad ustalania rozkładu i wymiaru czasu pracy pracowników urzędów państwowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-14",
+  "entryIntoForce": "1999-01-19",
+  "validFrom": "1999-01-19",
+  "repealDate": "2000-04-14",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "pracownicy urzędów państwowych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/350",
+     "date": "2000-04-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/74",
+     "date": "1999-01-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/402"
+    },
+    {
+     "id": "DU/1982/214"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/402",
+     "art": "art. 64 ust. 5"
+    },
+    {
+     "id": "DU/1982/214",
+     "art": "art. 30 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990035.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990035.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990035L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
