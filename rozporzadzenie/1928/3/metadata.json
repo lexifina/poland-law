@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/3",
+ "source_sha256": "3438c62b125b599258bbbf700b6474f02fa4772eafc55a8235d8a9d8033a60cb",
+ "in_force": "1928-01-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/3/text/O/D19280003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/3/text/I/D19280003.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/3",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 1,
+  "pos": 3,
+  "address": "WDU19280010003",
+  "displayAddress": "Dz.U. 1928 nr 1 poz. 3",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 15 grudnia 1927 r. o wprowadzeniu w obieg znaczków pocztowych wartości 25 gr. z podobizną Marszałka Józefa Piłsudskiego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-12-15",
+  "entryIntoForce": "1928-01-04",
+  "validFrom": "1928-01-04",
+  "repealDate": "1933-05-01",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "znaczki pocztowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1933/97",
+     "date": "1933-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/26"
+    },
+    {
+     "id": "DU/1924/584"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
