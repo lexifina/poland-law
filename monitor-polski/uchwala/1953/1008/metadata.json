@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1953/1008",
+ "source_sha256": "068cd73646dc534cbe658082f409073ea1ab6c65f177fdef316b06e08c4b9b63",
+ "in_force": "1953-09-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1953/1008",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1953/1008/text/O/M19531008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1953/1008/text/I/M19531008.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1953/1008",
+  "publisher": "MP",
+  "year": 1953,
+  "volume": 85,
+  "pos": 1008,
+  "address": "WMP19530851008",
+  "displayAddress": "M.P. 1953 nr 85 poz. 1008",
+  "title": "Uchwała nr 684 Prezydium Rządu z dnia 12 września 1953 r. w sprawie usprawnienia gospodarki kruszywem naturalnym i jego przewozów drogą kolejową.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-09-12",
+  "entryIntoForce": "1953-09-21",
+  "validFrom": "1953-09-21",
+  "repealDate": "1957-08-23",
+  "changeDate": "2014-12-31T12:24:30",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. KOLEI",
+   "PREZ. CENTRALNEGO URZĘDU GOSPODARKI MATERIAŁOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1957/412",
+     "date": "1957-08-23"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1956/22"
+    },
+    {
+     "id": "MP/1955/54"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/1400",
+     "date": "1953-11-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1953/7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19531008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19531008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
