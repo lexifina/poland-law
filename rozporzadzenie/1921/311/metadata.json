@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/311",
+ "source_sha256": "0bdb9e65b69400bed84fded461d63fa94e71f21ab17407c746109b556ec482c3",
+ "in_force": "1921-06-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/311",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/311/text/O/D19210311.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/311/text/I/D19210311.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/311",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 50,
+  "pos": 311,
+  "address": "WDU19210500311",
+  "displayAddress": "Dz.U. 1921 nr 50 poz. 311",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 31 maja 1921 r. w sprawie częściowej zmiany rozporządzenia z dnia 10 maja 1920 r. w przedmiocie opłat za czynności urzędów celnych, na obszarze b. zaboru rosyjskiego, dokonywane poza obrębem placu urzędowego lub w czasie pozaurzędowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1921-05-31",
+  "entryIntoForce": "1921-06-18",
+  "validFrom": "1921-06-18",
+  "repealDate": "1923-08-10",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "terenowe organy administracji rządowej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/615",
+     "date": "1923-08-10"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/262",
+     "date": "1921-06-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19210311.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210311.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
