@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1955/52",
+ "source_sha256": "6171ca76e7b815d988257fb5c568d1f2d2cdc0e3a4fbb026f4f6f3db414eb843",
+ "in_force": "1955-02-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1955/52",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1955/52/text/O/D19550052.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1955/52/text/I/D19550052.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1955/52",
+  "publisher": "DU",
+  "year": 1955,
+  "volume": 9,
+  "pos": 52,
+  "address": "WDU19550090052",
+  "displayAddress": "Dz.U. 1955 nr 9 poz. 52",
+  "title": "Dekret z dnia 18 lutego 1955 r. o funduszu zakładowym.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-02-18",
+  "entryIntoForce": "1955-02-28",
+  "validFrom": "1955-01-01",
+  "repealDate": "1957-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [
+   "RADA MINISTRÓW"
+  ],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1956/240",
+     "date": "1957-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1950/53",
+     "date": "1955-01-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1951/151",
+     "date": "1955-01-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1957/213"
+    },
+    {
+     "id": "MP/1955/1584"
+    },
+    {
+     "id": "DU/1955/58"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19550052.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19550052.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
