@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/774",
+ "source_sha256": "3839efc49d81c4a8ef5c5dd8754e02d95ef69e26d066bc8cda5839977c7e4215",
+ "in_force": "1999-08-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/774",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/774/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/774/text/O/D19990774.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/774/text/I/D19990774.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/774/text/T/D19990774L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1999/774/text/U/D19990774Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/774",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 70,
+  "pos": 774,
+  "address": "WDU19990700774",
+  "displayAddress": "Dz.U. 1999 nr 70 poz. 774",
+  "title": "Ustawa z dnia 8 lipca 1999 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-07-08",
+  "promulgation": "1999-08-26",
+  "entryIntoForce": "1999-08-26",
+  "validFrom": "1999-01-01",
+  "changeDate": "2024-03-15T11:34:38",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "emerytury i renty"
+  ],
+  "keywordsNames": [
+   "Fundusz Ubezpieczeń Społecznych"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1000.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1000",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1000",
+    "number": "1000",
+    "term": 3
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. 2004 r. Nr 39, poz. 353",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/401",
+     "date": "2005-03-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/1118",
+     "date": "1999-01-01"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2005/401"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990774.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990774.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990774L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D19990774Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
