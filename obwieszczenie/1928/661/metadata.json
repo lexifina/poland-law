@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/661",
+ "source_sha256": "e83dec87e702ed6f81da3d41f4929edc398263ef2315cea2443f3c2a34456532",
+ "in_force": "1928-06-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/661",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/661/text/O/D19280661.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/661/text/I/D19280661.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/661",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 72,
+  "pos": 661,
+  "address": "WDU19280720661",
+  "displayAddress": "Dz.U. 1928 nr 72 poz. 661",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 28 czerwca 1928 r. w sprawie ogłoszenia jednolitego tekstu dekretu o miarach z dnia 8 lutego 1919 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-06-28",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miary i narzędzia pomiarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/308"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/308",
+     "art": "art. 4"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1919/211"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280661.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280661.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
