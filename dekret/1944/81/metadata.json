@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/81",
+ "source_sha256": "ab0beccb08bfa901b30e09fdba1f5bbe9994d2cc00b13d1926a81b85ae622493",
+ "in_force": "1944-12-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/81",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/81/text/O/D19440081.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/81/text/I/D19440081.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/81",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 15,
+  "pos": 81,
+  "address": "WDU19440150081",
+  "displayAddress": "Dz.U. 1944 nr 15 poz. 81",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 12 grudnia 1944 r. o zmianie ustawy o zaopatrzeniu inwalidzkim.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-12-12",
+  "entryIntoForce": "1944-12-27",
+  "validFrom": "1944-12-27",
+  "repealDate": "1954-07-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU SKARBU",
+   "KIER. RESORTU PRACY, OPIEKI SPOŁECZNEJ I ZDROWIA"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/131"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/238",
+     "date": "1944-12-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1954/159",
+     "date": "1954-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440081.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440081.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
