@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/169",
+ "source_sha256": "d3b66ecd897b2c27c7fc5b84fa9e1a6370d62100648db8c3af2d08922c4eb491",
+ "in_force": "1939-04-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/169",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/169/text/O/M19390169.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/169/text/I/M19390169.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/169",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 76,
+  "pos": 169,
+  "address": "WMP19390760169",
+  "displayAddress": "M.P. 1939 nr 76 poz. 169",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 30 marca 1939 r. o subskrypcji na 5% Pozyczke Obrony Przeciwlotniczej i na 3% Bony Obrony Przeciwlotniczej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-03-30",
+  "promulgation": "1939-04-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "papiery wartościowe",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1939/176"
+    },
+    {
+     "id": "DU/1939/165"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1939/165",
+     "art": "art. 4 ust. 1 pkt 1"
+    },
+    {
+     "id": "DU/1939/165",
+     "art": "art. 5 ust. 1"
+    },
+    {
+     "id": "DU/1939/165",
+     "art": "art. 6"
+    },
+    {
+     "id": "DU/1939/165",
+     "art": "art. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390169.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390169.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
