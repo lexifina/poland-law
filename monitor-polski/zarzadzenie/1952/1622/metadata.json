@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/1622",
+ "source_sha256": "f8f0107b0af9952e65210031785b82cabe20149b1a04be41ad212f09816f79a1",
+ "in_force": "1952-12-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/1622",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/1622/text/O/M19521622.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/1622/text/I/M19521622.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/1622",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 104,
+  "pos": 1622,
+  "address": "WMP19521041622",
+  "displayAddress": "M.P. 1952 nr 104 poz. 1622",
+  "title": "Zarządzenie Ministra Zdrowia z dnia 28 listopada 1952 r. w sprawie porządku studiów lekarskich w akademiach medycznych.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-11-28",
+  "entryIntoForce": "1952-12-19",
+  "validFrom": "1952-12-19",
+  "repealDate": "1965-04-09",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1951/367",
+     "date": "1952-12-19"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1956/541",
+     "date": "1956-06-08"
+    },
+    {
+     "id": "MP/1953/459",
+     "date": "1953-04-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/38"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1965/98",
+     "date": "1965-04-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19521622.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19521622.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
