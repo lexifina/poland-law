@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/39",
+ "source_sha256": "bb468d62183d083015cb7286048d2faef23859311cb40a6bffcf57e5033a5892",
+ "in_force": "1934-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/39",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/39/text/O/M19340039.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/39/text/I/M19340039.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/39",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 26,
+  "pos": 39,
+  "address": "WMP19340260039",
+  "displayAddress": "M.P. 1934 nr 26 poz. 39",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 27 stycznia 1934 r. Nr 2556/34",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-27",
+  "promulgation": "1934-02-01",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340039.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340039.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
