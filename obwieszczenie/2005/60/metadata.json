@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/60",
+ "source_sha256": "dbc6cdee72a742723cdaeb9f84750e49c700786fbde160e1ebd3026d9255e10d",
+ "in_force": "2005-01-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/60",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/60/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/60/text/O/D20050060.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/60/text/I/D20050060.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/60/text/T/D20050060L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/60/text/U/D20050060Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/60",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 8,
+  "pos": 60,
+  "address": "WDU20050080060",
+  "displayAddress": "Dz.U. 2005 nr 8 poz. 60",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 stycznia 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Ordynacja podatkowa",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-01-04",
+  "promulgation": "2005-01-14",
+  "expirationDate": "2012-07-03",
+  "changeDate": "2026-05-12T09:24:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa",
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity ustawy nie obejmuje art. 307-323 i 343 par. 2 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. Nr 137, poz. 926)",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/1808"
+    },
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/1808",
+     "art": "art. 88"
+    },
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/926"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050060.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050060.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050060L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050060Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
