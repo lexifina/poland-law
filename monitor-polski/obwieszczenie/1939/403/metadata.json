@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/403",
+ "source_sha256": "8c5f2358f623969fc30f697d0fc31fde4ef6169ece46a2a1936332048a64fbd6",
+ "in_force": "1939-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/403",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/403/text/O/M19390403.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/403/text/I/M19390403.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/403",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 164,
+  "pos": 403,
+  "address": "WMP19391640403",
+  "displayAddress": "M.P. 1939 nr 164 poz. 403",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. ros. osób prawnych w Warszawie w sprawie roszczeń do mienia b. ros. Towarzystwa Ubezpieczeń \"Rosja\".",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-07-20",
+  "promulgation": "1939-07-20",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/377"
+    },
+    {
+     "id": "DU/1928/341"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/377",
+     "art": "art. 10 ust. 5"
+    },
+    {
+     "id": "DU/1928/341",
+     "art": "art. 24 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390403.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390403.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
