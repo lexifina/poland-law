@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1971/173",
+ "source_sha256": "e5801e9823e7883fffbeea664ae6803af3501fc74fc6d8b1f4b2f1fc9258edac",
+ "in_force": "1971-05-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1971/173",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1971/173/text/O/M19710173.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1971/173/text/I/M19710173.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1971/173",
+  "publisher": "MP",
+  "year": 1971,
+  "volume": 27,
+  "pos": 173,
+  "address": "WMP19710270173",
+  "displayAddress": "M.P. 1971 nr 27 poz. 173",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 20 kwietnia 1971 r. zmieniające zarządzenie w sprawie urzędowej kontroli jakości materiału siewnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-04-20",
+  "entryIntoForce": "1971-05-13",
+  "validFrom": "1971-05-13",
+  "repealDate": "1980-07-21",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/85",
+     "date": "1980-07-21"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1970/56",
+     "date": "1971-05-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/54"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/54",
+     "art": "art. 10 ust. 3"
+    },
+    {
+     "id": "DU/1961/54",
+     "art": "art. 14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19710173.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19710173.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
