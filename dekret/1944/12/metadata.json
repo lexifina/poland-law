@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/12",
+ "source_sha256": "f97da4e2d4bacb609ef8548036133149c3e25d5b5f312c294520f579fd44daad",
+ "in_force": "1944-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/12/text/O/D19440012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/12/text/I/D19440012.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/12",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 3,
+  "pos": 12,
+  "address": "WDU19440030012",
+  "displayAddress": "Dz.U. 1944 nr 3 poz. 12",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 24 sierpnia 1944 r. o rozwiązaniu tajnych organizacyj wojskowych na terenach wyzwolonych.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-24",
+  "entryIntoForce": "1944-08-31",
+  "validFrom": "1944-08-31",
+  "repealDate": "1944-09-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU OBRONY NARODOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1944/12",
+     "date": "1944-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1944/12",
+     "date": "1944-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
