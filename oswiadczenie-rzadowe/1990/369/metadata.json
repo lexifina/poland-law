@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/369",
+ "source_sha256": "632bc22ae35b80fb7e81fc9eb9ac21ce298f8727bf895e503c878322b77f93ce",
+ "in_force": "1990-09-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/369",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/369/text/O/D19900369.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/369/text/I/D19900369.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/369",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 63,
+  "pos": 369,
+  "address": "WDU19900630369",
+  "displayAddress": "Dz.U. 1990 nr 63 poz. 369",
+  "title": "Oświadczenie rządowe z dnia 16 maja 1990 r. w sprawie wymiany dokumentów ratyfikacyjnych Umowy między Polską Rzecząpospolitą Ludową a Królestwem Szwecji o pomocy prawnej w sprawach karnych, podpisanej w Warszawie dnia 10 lutego 1989 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1990-05-16",
+  "promulgation": "1990-09-14",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Szwecja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/368"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/368",
+     "art": "art. 20 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900369.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900369.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
