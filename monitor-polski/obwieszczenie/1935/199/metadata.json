@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/199",
+ "source_sha256": "5531ce973815a2d0f34ce65a6bc790783bd23393e984a86970cdb5fcc0681b73",
+ "in_force": "1935-07-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/199",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/199/text/O/M19350199.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/199/text/I/M19350199.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/199",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 166,
+  "pos": 199,
+  "address": "WMP19351660199",
+  "displayAddress": "M.P. 1935 nr 166 poz. 199",
+  "title": "Obwieszczenie Ministerstwa Komunikacji Nr L.-IV-915/11/35 z dnia 6 czerwca 1935 r. w sprawie ponownego otwarcia do użytku publicznego lotniska w Łodzi.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-06-06",
+  "promulgation": "1935-07-23",
+  "changeDate": "2026-10-30T10:36:59",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porty lotnicze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1934/367"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/142"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/142",
+     "art": "par. 21"
+    },
+    {
+     "id": "DU/1934/142",
+     "art": "par. 26 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350199.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350199.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
