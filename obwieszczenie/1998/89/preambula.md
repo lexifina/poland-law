@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) prostuje się następujący błąd:
+
+w rozporządzeniu Rady Ministrów z dnia 19 grudnia 1997 r. w sprawie ustanowienia kontyngentów taryfowych na niektóre towary rolne przywożone z zagranicy (Dz. U. Nr 159, poz. 1063) w § 1 zamiast wyrazów „preferencyjne zerowe stawki celne” powinny być wyrazy „preferencyjne stawki celne w wysokości określonej w tym załączniku”.
