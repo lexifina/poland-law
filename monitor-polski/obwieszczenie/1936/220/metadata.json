@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/220",
+ "source_sha256": "283fec10dc8ab100b5fbf07279e4a40d3678714cad5c7d05d61b2b66a4b4f25b",
+ "in_force": "1936-05-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/220",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/220/text/O/M19360220.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/220/text/I/M19360220.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/220",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 121,
+  "pos": 220,
+  "address": "WMP19361210220",
+  "displayAddress": "M.P. 1936 nr 121 poz. 220",
+  "title": "Obwieszczenie Urzędu Długów Państwowych z dnia 7 maja 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-05-07",
+  "promulgation": "1936-05-25",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwestycje",
+   "papiery wartościowe",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360220.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360220.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
