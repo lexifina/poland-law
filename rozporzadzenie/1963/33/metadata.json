@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1963/33",
+ "source_sha256": "e63f8e758df50ccc9168ee0e8ef1b300a4dd8c41faebe814c8045e7e682f10eb",
+ "in_force": "1963-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1963/33",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1963/33/text/O/D19630033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1963/33/text/I/D19630033.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1963/33",
+  "publisher": "DU",
+  "year": 1963,
+  "volume": 5,
+  "pos": 33,
+  "address": "WDU19630050033",
+  "displayAddress": "Dz.U. 1963 nr 5 poz. 33",
+  "title": "Rozporządzenie Ministra Rolnictwa z dnia 31 stycznia 1963 r. w sprawie zwalczania mątwika ziemniaczanego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-01-31",
+  "entryIntoForce": "1963-03-01",
+  "validFrom": "1963-03-01",
+  "repealDate": "1973-04-04",
+  "changeDate": "2014-12-31T12:25:28",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby roślin",
+   "rośliny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/76",
+     "date": "1973-04-04"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1958/268",
+     "date": "1963-03-01"
+    },
+    {
+     "id": "DU/1957/243",
+     "date": "1963-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/55"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19630033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19630033.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
