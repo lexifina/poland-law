@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/1172",
+ "source_sha256": "d5054f1e4dcf19252a2063ad996b2b12849df87a1f354b3fe34f44f818dd43b7",
+ "in_force": "1999-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/1172",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/1172/text/O/D19981172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/1172/text/I/D19981172.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/1172",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 164,
+  "pos": 1172,
+  "address": "WDU19981641172",
+  "displayAddress": "Dz.U. 1998 nr 164 poz. 1172",
+  "title": "Rozporządzenie Ministra Finansów z dnia 23 grudnia 1998 r. w sprawie właściwości rzeczowej i miejscowej organów celnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-12-23",
+  "entryIntoForce": "1999-01-01",
+  "validFrom": "1999-01-01",
+  "repealDate": "2001-04-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "właściwość miejscowa",
+   "celne prawo",
+   "urzędy celne",
+   "właściwość rzeczowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/161",
+     "date": "2001-04-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1997/967",
+     "date": "1999-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/117",
+     "art": "art. 263"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19981172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19981172.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
