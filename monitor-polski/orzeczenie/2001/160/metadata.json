@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/160",
+ "source_sha256": "468f8367f750b43289a2315364c02a44867719bf956ea59512a0c381d7406c65",
+ "in_force": "2001-03-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/160",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/160/text/O/M20010160.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/160/text/I/M20010160.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2001/160/text/T/M20010160TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/160",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 10,
+  "pos": 160,
+  "address": "WMP20010100160",
+  "displayAddress": "M.P. 2001 nr 10 poz. 160",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 21 marca 2001 r. sygn. akt K. 24/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-03-21",
+  "entryIntoForce": "2001-03-30",
+  "validFrom": "2001-03-30",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "własność przemysłowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/508",
+     "date": "2001-03-30"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/508"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010160.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010160.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20010160TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
