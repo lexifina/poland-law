@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/189",
+ "source_sha256": "7f013ed1381df54a14a473b4d9c6a2e1c63936dafbd3e08e7901352b9da2b308",
+ "in_force": "1936-05-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/189",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/189/text/O/M19360189.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/189/text/I/M19360189.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/189",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 102,
+  "pos": 189,
+  "address": "WMP19361020189",
+  "displayAddress": "M.P. 1936 nr 102 poz. 189",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 24 kwietnia 1936 r. w sprawie podania o nadanie mocy powszechnie obowiązującej dla wszystkich robót budowlanych na obszarze m. st. Warszawy orzeczeniu Nadzwyczajnej Komisji Rozjemczej z dnia 7 kwietnia 1936 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-04-24",
+  "promulgation": "1936-05-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "roboty budowlane",
+   "układy zbiorowe pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1936/188"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/104"
+    },
+    {
+     "id": "DU/1933/604"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/104",
+     "art": "par. 49"
+    },
+    {
+     "id": "DU/1933/604",
+     "art": "art. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360189.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360189.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
