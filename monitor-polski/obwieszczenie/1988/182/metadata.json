@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/182",
+ "source_sha256": "bd37662e9b00bfa57766090853a2870b6acdcb6848f76b3e69edb815df8dd432",
+ "in_force": "1988-07-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/182",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/182/text/O/M19880182.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/182/text/I/M19880182.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/182",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 20,
+  "pos": 182,
+  "address": "WMP19880200182",
+  "displayAddress": "M.P. 1988 nr 20 poz. 182",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 30 maja 1988 r. w sprawie ogłoszenia zmian w wykazie obowiązków sprawozdawczych ustalonych przez Główny Urząd Statystyczny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-05-30",
+  "entryIntoForce": "1988-07-18",
+  "validFrom": "1988-05-20",
+  "repealDate": "1989-12-29",
+  "changeDate": "2019-05-10T11:29:24",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/350",
+     "date": "1989-12-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1986/104",
+     "date": "1988-05-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/58",
+     "art": "art. 16 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880182.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880182.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
