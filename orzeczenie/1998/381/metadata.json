@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/381",
+ "source_sha256": "00df978a37c11abb799cf5543241427afb725e5e473b858fd499ff6c6dde0d7f",
+ "in_force": "1998-05-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 453 words, parsed 105; at 105: 'Generalnego o stwierdzenie zgodności : 1 ) art . 3'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/381",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/381/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/381/text/O/D19980381.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/381/text/I/D19980381.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/381/text/T/D19980381L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/381",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 59,
+  "pos": 381,
+  "address": "WDU19980590381",
+  "displayAddress": "Dz.U. 1998 nr 59 poz. 381",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 maja 1998 r. - sygn. akt K. 35/97.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-05-05",
+  "entryIntoForce": "1998-05-15",
+  "validFrom": "1998-05-15",
+  "changeDate": "2024-03-15T11:30:10",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania",
+   "orzeczenie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/375"
+    },
+    {
+     "id": "DU/1992/426"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/375"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980381.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980381.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980381L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
