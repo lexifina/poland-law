@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/236",
+ "source_sha256": "2216e2338407bee04bb18bcf8403690f4a0fad447756cffb2f8ea5551590e1c5",
+ "in_force": "2000-04-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/236",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/236/text/O/M20000236.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/236/text/I/M20000236.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/236",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 11,
+  "pos": 236,
+  "address": "WMP20000110236",
+  "displayAddress": "M.P. 2000 nr 11 poz. 236",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 3 kwietnia 2000 r. o podaniu do publicznej wiadomości prawomocnych orzeczeń Sądu stwierdzających niezgodność z prawdą oświadczeń osób lustrowanych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-04-03",
+  "repealDate": "2001-06-18",
+  "changeDate": "2017-12-06T19:52:26",
+  "releasedBy": [
+   "PREZ. SADU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "lustracja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2001/326",
+     "date": "2001-06-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000236.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000236.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
