@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/26",
+ "source_sha256": "e27be279773f2abfc2e90bbb79a1f9bbcc7cd90d4c03506d598a537f0e263a11",
+ "in_force": "1946-01-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/26",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/26/text/O/D19460026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/26/text/I/D19460026.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/26",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 3,
+  "pos": 26,
+  "address": "WDU19460030026",
+  "displayAddress": "Dz.U. 1946 nr 3 poz. 26",
+  "title": "Obwieszczenie Prezydenta Krajowej Rady Narodowej z dnia 14 stycznia 1946 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 11 września 1944 r. o organizacji i zakresie działania rad narodowych.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-01-14",
+  "repealDate": "1950-04-13",
+  "changeDate": "2017-11-23T15:43:31",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1944/96",
+     "date": "1945-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/19"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1944/22"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/130",
+     "date": "1950-04-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
