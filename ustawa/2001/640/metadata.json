@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/640",
+ "source_sha256": "5b1bcff00826b8f43204358c8518d2c737104b1c6a03d564c6edbea99a6c10be",
+ "in_force": "2002-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/640",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/640/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/640/text/O/D20010640.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/640/text/I/D20010640.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/640/text/T/D20010640L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/640/text/U/D20010640Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/640",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 63,
+  "pos": 640,
+  "address": "WDU20010630640",
+  "displayAddress": "Dz.U. 2001 nr 63 poz. 640",
+  "title": "Ustawa z dnia 25 maja 2001 r. o skutkach wprowadzania w niektórych państwach członkowskich Unii Europejskiej wspólnej waluty euro.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-05-25",
+  "promulgation": "2001-06-22",
+  "entryIntoForce": "2002-01-01",
+  "validFrom": "2002-01-01",
+  "changeDate": "2026-10-09T09:20:32",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta",
+   "banki"
+  ],
+  "keywordsNames": [
+   "Unia Europejska"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2707.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2707",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2707",
+    "number": "2707",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/1206",
+     "date": "2027-01-11"
+    },
+    {
+     "id": "DU/2002/1178",
+     "date": "2002-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/117",
+     "date": "2001-07-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1998/1063"
+    },
+    {
+     "id": "DU/1997/939"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010640.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010640.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010640L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20010640Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
