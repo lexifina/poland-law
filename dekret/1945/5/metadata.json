@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/5",
+ "source_sha256": "70dbe851db0443a3cad51d397495b8d64961bdb13a2cccf0fdaa21f583f8aac5",
+ "in_force": "1945-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/5",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/5/text/O/D19450005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/5/text/I/D19450005.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/5",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 2,
+  "pos": 5,
+  "address": "WDU19450020005",
+  "displayAddress": "Dz.U. 1945 nr 2 poz. 5",
+  "title": "Dekret z dnia 13 stycznia 1945 r. o wycofaniu z obiegu na terytorium Państwa Polskiego waluty Związku Socjalistycznych Republik Radzieckich.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-01-13",
+  "entryIntoForce": "1945-01-15",
+  "validFrom": "1945-01-15",
+  "repealDate": "1970-01-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1969/95",
+     "date": "1970-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1944/11",
+     "date": "1945-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
