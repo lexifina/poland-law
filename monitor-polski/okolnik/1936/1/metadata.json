@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/1",
+ "source_sha256": "2b6c674c3c5f6adee37294119c29d92fd11155a9d87ea97ece4bcd546dc45b75",
+ "in_force": "1936-01-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/1/text/O/M19360001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/1/text/I/M19360001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/1",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19360010001",
+  "displayAddress": "M.P. 1936 nr 1 poz. 1",
+  "title": "Okólnik T. 81 Ministerstwa Skarbu z dnia 18 grudnia 1935 r. L. D. IV. 35312/2/35 w sprawie wyjasnień do taryfy celnej przywozowej (dotyczy poz. poz. 431, 492 i 834).",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-12-18",
+  "promulgation": "1936-01-02",
+  "repealDate": "1936-11-25",
+  "changeDate": "2016-07-27T10:28:33",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo",
+   "taryfy celne, wywóz i przywóz",
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1936/459",
+     "date": "1936-11-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1932/732"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 13 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
