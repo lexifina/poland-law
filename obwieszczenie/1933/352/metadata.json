@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/352",
+ "source_sha256": "09687d5c44827a95ca5ca2f184869de102e218e212af2d04f8269e1c0968f4f4",
+ "in_force": "1933-06-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/352",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/352/text/O/D19330352.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/352/text/I/D19330352.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/352",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 45,
+  "pos": 352,
+  "address": "WDU19330450352",
+  "displayAddress": "Dz.U. 1933 nr 45 poz. 352",
+  "title": "Obwieszczenie Ministrów Komunikacji i Skarbu z dnia 13 maja 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowym Funduszu Drogowym.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-05-13",
+  "promulgation": "1933-06-26",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "drogi publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/254"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/254",
+     "art": "art. 5"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1931/81"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330352.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330352.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
