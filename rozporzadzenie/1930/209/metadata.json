@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/209",
+ "source_sha256": "d4e432cc94700d8f2491cfcf3aa0cabf8ad12fd028eff65d89d1af7802a77192",
+ "in_force": "1930-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/209",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/209/text/O/D19300209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/209/text/I/D19300209.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/209",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 23,
+  "pos": 209,
+  "address": "WDU19300230209",
+  "displayAddress": "Dz.U. 1930 nr 23 poz. 209",
+  "title": "Rozporządzenie Ministrów: Przemysłu i Handlu, Skarbu i Sprawiedliwości z dnia 12 lutego 1930 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej o organizacji giełd.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-02-12",
+  "promulgation": "1930-03-31",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. SKARBU",
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "giełdy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/250"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/250",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/1019"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300209.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
