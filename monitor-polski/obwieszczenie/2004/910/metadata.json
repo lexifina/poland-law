@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/910",
+ "source_sha256": "89dd7f7aeac04d6e17598efa395c9ddb6f76b799cc2a1cdf08beae473dd1e2d1",
+ "in_force": "2004-12-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/910",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/910/text/O/M20040910.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/910/text/I/M20040910.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/910",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 54,
+  "pos": 910,
+  "address": "WMP20040540910",
+  "displayAddress": "M.P. 2004 nr 54 poz. 910",
+  "title": "Obwieszczenie Ministra Polityki Społecznej z dnia 9 grudnia 2004 r. w sprawie kwoty ograniczenia rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe w roku 2005",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-12-09",
+  "promulgation": "2004-12-22",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 19 ust. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040910.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040910.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
