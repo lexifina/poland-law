@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/766",
+ "source_sha256": "32777f93101c67a9f5b192113ae32e461bda49c3851279963e9822929dd2b222",
+ "in_force": "1999-08-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/766",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/766/text/O/D19990766.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/766/text/I/D19990766.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/766/text/T/D19990766L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/766",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 69,
+  "pos": 766,
+  "address": "WDU19990690766",
+  "displayAddress": "Dz.U. 1999 nr 69 poz. 766",
+  "title": "Rozporządzenie Ministra Finansów z dnia 4 sierpnia 1999 r. w sprawie wyjaśnienia do Taryfy celnej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-04",
+  "entryIntoForce": "1999-08-28",
+  "validFrom": "1999-08-28",
+  "repealDate": "1999-09-24",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1999/830",
+     "date": "1999-09-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/117",
+     "art": "art. 13 par. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990766.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990766.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990766L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
