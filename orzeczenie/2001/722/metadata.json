@@ -1,0 +1,107 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/722",
+ "source_sha256": "5c087faf03fb14a275778e6707c9b1669c144468d9449299e1e6c141cc5564aa",
+ "in_force": "2001-07-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 521 words, parsed 110; at 110: 'poz . 393 ) : 1 ) z art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/722",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/722/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/722/text/O/D20010722.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/722/text/I/D20010722.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/722/text/T/D20010722L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/722",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 69,
+  "pos": 722,
+  "address": "WDU20010690722",
+  "displayAddress": "Dz.U. 2001 nr 69 poz. 722",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2001 sygn. akt U. 6/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-06-26",
+  "promulgation": "2001-07-06",
+  "entryIntoForce": "2001-07-06",
+  "validFrom": "2001-07-06",
+  "changeDate": "2024-03-15T09:59:35",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "drogi publiczne"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/393",
+     "date": "2001-07-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1998/576"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/607"
+    },
+    {
+     "id": "DU/1985/60"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2000/393"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/98"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/98",
+     "art": "art. 39 ust. 2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010722.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010722.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010722L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
