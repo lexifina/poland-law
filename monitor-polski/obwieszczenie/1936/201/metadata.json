@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/201",
+ "source_sha256": "fb9b66c7954d115d75addc3ea911a04f20245f4d51b10c76bf2e314365e96c31",
+ "in_force": "1936-05-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/201",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/201/text/O/M19360201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/201/text/I/M19360201.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/201",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 113,
+  "pos": 201,
+  "address": "WMP19361130201",
+  "displayAddress": "M.P. 1936 nr 113 poz. 201",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 9 maja 1936 r. ustalające dalszą listę przedsiębiorstw bankowych, uprawnionych do handlu zagranicznemi środkami płatniczemi.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-05-09",
+  "promulgation": "1936-05-14",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "środki płatnicze",
+   "waluta",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1936/250"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/249"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/249",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
