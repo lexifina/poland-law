@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/303",
+ "source_sha256": "09029336d967cd8fe58a0e49d80b7bf5ccfc663db655c72b5f1dc637d9752eeb",
+ "in_force": "1945-12-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/303/text/O/D19450303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/303/text/I/D19450303.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/303",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 53,
+  "pos": 303,
+  "address": "WDU19450530303",
+  "displayAddress": "Dz.U. 1945 nr 53 poz. 303",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 27 listopada 1945 r. o trybie powoływania oraz o prawach i obowiązkach ławników w postępowaniu doraźnym i w sprawach o przestępstwa szczególnie niebezpieczne w okresie odbudowy Państwa.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-11-27",
+  "entryIntoForce": "1945-12-17",
+  "validFrom": "1945-12-17",
+  "repealDate": "1970-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1949/19",
+     "date": "1949-01-01"
+    },
+    {
+     "id": "DU/1947/478",
+     "date": "1947-12-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/301"
+    },
+    {
+     "id": "DU/1945/300"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1969/97",
+     "date": "1970-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
