@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/762",
+ "source_sha256": "8d4f6c0339f20c0c48f80864256b37d9a10fe3893e7115b18ed389dfd197a4b0",
+ "in_force": "1922-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 2778 words, parsed 2782; at 74: 'mają osoby , które : A ) są obywatelami Państwa'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/762",
+  "html": "https://eli.gov.pl/api/acts/DU/1921/762/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/762/text/O/D19210762.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/762/text/I/D19210762.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/762",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 105,
+  "pos": 762,
+  "address": "WDU19211050762",
+  "displayAddress": "Dz.U. 1921 nr 105 poz. 762",
+  "title": "Ustawa z dnia 2 grudnia 1921 r. w przedmiocie wykonywania praktyki lekarskiej w Państwie Polskiem.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1921-12-02",
+  "entryIntoForce": "1922-01-01",
+  "validFrom": "1922-01-01",
+  "repealDate": "1932-10-15",
+  "changeDate": "2024-03-14T12:03:02",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/712",
+     "date": "1932-10-15"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1930/96"
+    },
+    {
+     "id": "DU/1929/484"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19210762.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210762.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
