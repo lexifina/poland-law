@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/283",
+ "source_sha256": "cb3c3eab4303b895520124106f1cf71683da54206d0ad7d5807c76d8eee21e2e",
+ "in_force": "1970-11-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/283",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/283/text/O/M19700283.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/283/text/I/M19700283.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/283",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 38,
+  "pos": 283,
+  "address": "WMP19700380283",
+  "displayAddress": "M.P. 1970 nr 38 poz. 283",
+  "title": "Zarządzenie nr 89 Prezesa Rady Ministrów z dnia 6 listopada 1970 r. w sprawie wprowadzenia obowiązku świadczenia usług przewozowych na rzecz Narodowego Spisu Powszechnego 1970 r.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-11-06",
+  "entryIntoForce": "1970-11-13",
+  "validFrom": "1970-11-13",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1968/78"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/65"
+    },
+    {
+     "id": "DU/1961/297"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/65",
+     "art": "par. 5 ust. 1 pkt 1"
+    },
+    {
+     "id": "DU/1961/297",
+     "art": "art. 17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700283.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700283.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
