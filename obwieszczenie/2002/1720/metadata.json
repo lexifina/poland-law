@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1720",
+ "source_sha256": "e27c9d31f43f2254be53838bd4b203f3b7848d290a485227d0761b8ba7dfa3c9",
+ "in_force": "2002-12-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1373 words, parsed 133; at 133: 'rozporządzenia powinny mieć brzmienie : „ Załącznik nr 2 Grupy'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1720",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1720/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1720/text/O/D20021720.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1720/text/I/D20021720.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1720",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 203,
+  "pos": 1720,
+  "address": "WDU20022031720",
+  "displayAddress": "Dz.U. 2002 nr 203 poz. 1720",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 4 grudnia 2002 r. o sprostowaniu błędu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-04",
+  "promulgation": "2002-12-05",
+  "changeDate": "2024-03-15T10:05:49",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "choroby zawodowe",
+   "sprostowanie",
+   "wypadki przy pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Objęte tekstem jednolitym Dz. U. 2013, poz. 878",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2002/1692"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021720.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021720.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
