@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1233",
+ "source_sha256": "081f654b0f13a6447b7b81eb974d3ffb897fb50bfc10845d47cb57bdc18556fb",
+ "in_force": "2001-10-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1233",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1233/text/O/D20011233.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1233/text/I/D20011233.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1233",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 115,
+  "pos": 1233,
+  "address": "WDU20011151233",
+  "displayAddress": "Dz.U. 2001 nr 115 poz. 1233",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 2 października 2001 r. zmieniające rozporządzenie w sprawie taksy notarialnej.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-10-02",
+  "promulgation": "2010-10-11",
+  "entryIntoForce": "2001-10-26",
+  "validFrom": "2001-10-26",
+  "repealDate": "2004-06-30",
+  "changeDate": "2014-12-31T12:25:54",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty notarialne",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/2142",
+     "date": "2004-06-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/146",
+     "date": "2001-10-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/91"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/91",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20011233.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011233.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
