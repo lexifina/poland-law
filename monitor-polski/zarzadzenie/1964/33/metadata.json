@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/33",
+ "source_sha256": "df4dcecb046321f43ed23e3b31abe5c76ddc5f0978987eb87dd989f8ee89d0d0",
+ "in_force": "1964-01-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/33",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/33/text/O/M19640033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/33/text/I/M19640033.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/33",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 7,
+  "pos": 33,
+  "address": "WMP19640070033",
+  "displayAddress": "M.P. 1964 nr 7 poz. 33",
+  "title": "Zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 30 grudnia 1963 r. zmieniające zarządzenie w sprawie uzupełnienia tabeli dodatków funkcyjnych dla niektórych pracowników służby zdrowia.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-12-30",
+  "entryIntoForce": "1964-01-22",
+  "validFrom": "1964-01-01",
+  "repealDate": "1966-06-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1960/326",
+     "date": "1964-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/379"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/379",
+     "art": "par. 18 ust. 2 pkt 2 i ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1966/124",
+     "date": "1966-06-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640033.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
