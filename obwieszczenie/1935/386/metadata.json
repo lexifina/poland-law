@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/386",
+ "source_sha256": "2c9317c0d7584194e36add3079d2e8cd6291d1c715071fd28777c3ecbe8b2b81",
+ "in_force": "1935-08-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/386",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/386/text/O/D19350386.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/386/text/I/D19350386.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/386",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 59,
+  "pos": 386,
+  "address": "WDU19350590386",
+  "displayAddress": "Dz.U. 1935 nr 59 poz. 386",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 2 sierpnia 1935 r. o sprostowaniu błędów w tekście rozporządzenia Ministra Sprawiedliwości z dnia 20 lipca 1935 r., zawierającego \"Regulamin urzędowania prokuratur sądów apelacyjnych i okręgowych\".",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1935-08-02",
+  "promulgation": "1935-08-10",
+  "changeDate": "2020-11-03T15:56:32",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "sądy okręgowe",
+   "porządkowanie prawa",
+   "sądy powszechne",
+   "sprostowanie",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1935/357"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350386.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350386.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
