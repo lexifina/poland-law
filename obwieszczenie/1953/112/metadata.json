@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/112",
+ "source_sha256": "49a5a3fa109883df254884c7269c92c8ce2e16285bd44b44c93c610ef2ffa76a",
+ "in_force": "1953-05-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/112",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/112/text/O/D19530112.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/112/text/I/D19530112.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/112",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 28,
+  "pos": 112,
+  "address": "WDU19530280112",
+  "displayAddress": "Dz.U. 1953 nr 28 poz. 112",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 18 maja 1953 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 13 listopada 1945 r. o zasiłkach i pomocy dla ofiar wrogów demokratycznego ustroju Polski.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-05-18",
+  "expirationDate": "1956-12-22",
+  "changeDate": "2017-11-23T15:43:41",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1953/79"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1945/294"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530112.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530112.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
