@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/459",
+ "source_sha256": "66e4521b0ad665fee7e082f446b9bdea2e17d5549ec9ca1ed742fcb64eb19b97",
+ "in_force": "1999-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/459",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/459/text/O/M19990459.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/459/text/I/M19990459.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/459/text/T/M19990459L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/459",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 30,
+  "pos": 459,
+  "address": "WMP19990300459",
+  "displayAddress": "M.P. 1999 nr 30 poz. 459",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 15 września 1999 r. sygn. akt K. 11/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-09-15",
+  "entryIntoForce": "1999-09-24",
+  "validFrom": "1999-09-24",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kombatanci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1999/862"
+    },
+    {
+     "id": "DU/1991/75"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/862"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 122 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990459.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990459.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19990459L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
