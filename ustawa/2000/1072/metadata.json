@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1072",
+ "source_sha256": "328d4d26e083fd8a0eb2b67c20ed3248fa06e48bfd62edd2cd43df4ff6ab9c0e",
+ "in_force": "2000-12-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (3 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1072",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1072/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1072/text/O/D20001072.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1072/text/I/D20001072.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1072/text/T/D20001072L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1072",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 99,
+  "pos": 1072,
+  "address": "WDU20000991072",
+  "displayAddress": "Dz.U. 2000 nr 99 poz. 1072",
+  "title": "Ustawa z dnia 9 września 2000 r. o powszechnym spisie rolnym w 2002 r.",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-09-09",
+  "promulgation": "2000-11-18",
+  "entryIntoForce": "2000-12-03",
+  "validFrom": "2000-12-03",
+  "expirationDate": "2003-01-01",
+  "changeDate": "2024-03-15T09:49:18",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarstwa rolne",
+   "statystyka",
+   "formularze",
+   "powszechny spis rolny",
+   "grunty rolne i leśne",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1819.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1819",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1819",
+    "number": "1819",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1995/439"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001072.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001072.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001072L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
