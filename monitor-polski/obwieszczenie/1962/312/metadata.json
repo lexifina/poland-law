@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/312",
+ "source_sha256": "d5d8fbaba2cbc221cc5f77713145b1bb87753f3bffa1c9655fd78cf0e82d04d8",
+ "in_force": "1962-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/312/text/O/M19620312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/312/text/I/M19620312.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/312",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 66,
+  "pos": 312,
+  "address": "WMP19620660312",
+  "displayAddress": "M.P. 1962 nr 66 poz. 312",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 września 1962 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-09-01",
+  "entryIntoForce": "1962-09-01",
+  "validFrom": "1962-09-01",
+  "repealDate": "1984-03-31",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1962/289",
+     "date": "1962-09-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1962/333",
+     "date": "1962-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/288",
+     "date": "1984-03-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620312.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
