@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/531",
+ "source_sha256": "c7143cbca7293feaf85d1434eeec05e764f28503c9a3155b870145a2853d4b3e",
+ "in_force": "1939-08-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/531",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/531/text/O/D19390531.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/531/text/I/D19390531.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/531",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 82,
+  "pos": 531,
+  "address": "WDU19390820531",
+  "displayAddress": "Dz.U. 1939 nr 82 poz. 531",
+  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 2 sierpnia 1939 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakwaterowaniu wojska i marynarki wojennej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-08-02",
+  "promulgation": "1939-08-30",
+  "repealDate": "1951-05-12",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakwaterowanie sił zbrojnych"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/194",
+     "date": "1951-05-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1939/461"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1939/461",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/681"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390531.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390531.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
