@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/392",
+ "source_sha256": "0e773d1ffd0429e9c6e1cffe6bc16e23cf49e7a4bef198417790df096b84fcee",
+ "in_force": "1936-09-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/392",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/392/text/O/M19360392.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/392/text/I/M19360392.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/392",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 223,
+  "pos": 392,
+  "address": "WMP19362230392",
+  "displayAddress": "M.P. 1936 nr 223 poz. 392",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 18 września 1936 r. w sprawie specjalnej kontroli obrotu towarowego polsko-włoskiego.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-09-18",
+  "promulgation": "1936-09-25",
+  "repealDate": "1937-06-16",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "celne prawo",
+   "kontrola"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1937/214",
+     "date": "1937-06-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/820"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/820",
+     "art": "par. 48 ust. 11"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 56 ust. 8"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 62 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360392.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360392.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
