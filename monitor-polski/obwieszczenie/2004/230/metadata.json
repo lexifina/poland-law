@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/230",
+ "source_sha256": "5603158878777cd305e789e6ad48d3cc3440d19b5d9344f0a7a5df6226c12cfb",
+ "in_force": "2004-03-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/230",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/230/text/O/M20040230.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/230/text/I/M20040230.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/230",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 14,
+  "pos": 230,
+  "address": "WMP20040140230",
+  "displayAddress": "M.P. 2004 nr 14 poz. 230",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 11 marca 2004 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Zdrowia",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-11",
+  "promulgation": "2004-03-25",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór"
+  ],
+  "keywordsNames": [
+   "Min. Zdrowia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040230.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040230.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
