@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1995/795",
+ "source_sha256": "290e4619995752c186784a40f9c71dbcda027b711d6acf2868cdc6f616016215",
+ "in_force": "1995-12-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1995/795",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1995/795/text/O/D19950795.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1995/795/text/I/D19950795.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1995/795",
+  "publisher": "DU",
+  "year": 1995,
+  "volume": 154,
+  "pos": 795,
+  "address": "WDU19951540795",
+  "displayAddress": "Dz.U. 1995 nr 154 poz. 795",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 21 grudnia 1995 r. w sprawie przeprowadzenia referendum o niektórych kierunkach wykorzystania majątku państwowego.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-12-21",
+  "promulgation": "1995-12-30",
+  "entryIntoForce": "1995-12-30",
+  "validFrom": "1995-12-30",
+  "repealDate": "1996-04-15",
+  "changeDate": "2014-12-31T12:25:45",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/487"
+    },
+    {
+     "id": "DU/1992/426"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/487",
+     "art": "art. 4 ust. 1 pkt 1"
+    },
+    {
+     "id": "DU/1992/426",
+     "art": "art. 19 ust. 2 pkt 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1996/218",
+     "date": "1996-04-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19950795.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19950795.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
