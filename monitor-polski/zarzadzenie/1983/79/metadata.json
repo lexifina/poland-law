@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1983/79",
+ "source_sha256": "762268b8241a008648c60b9b05b48f2e4faebf823cc079e3af595331f04e3546",
+ "in_force": "1983-04-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1983/79",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1983/79/text/O/M19830079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1983/79/text/I/M19830079.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1983/79",
+  "publisher": "MP",
+  "year": 1983,
+  "volume": 13,
+  "pos": 79,
+  "address": "WMP19830130079",
+  "displayAddress": "M.P. 1983 nr 13 poz. 79",
+  "title": "Zarządzenie Ministra Sprawiedliwości z dnia 21 marca 1983 r. w sprawie kosztów sądowych w postępowaniu o założenie księgi wieczystej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1983-03-21",
+  "entryIntoForce": "1983-04-09",
+  "validFrom": "1983-04-09",
+  "repealDate": "1991-06-30",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka",
+   "sądowe koszty i opłaty",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1991/136",
+     "date": "1991-06-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1989/294",
+     "date": "1989-12-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/110"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/110",
+     "art": "art. 45 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19830079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19830079.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
