@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1071",
+ "source_sha256": "eeae02e8fb7eeb88d47514e69cc4ba7a76631b6c4f8273fbcb993aa3c8598646",
+ "in_force": "2000-10-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1071",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1071/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1071/text/O/D20001071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1071/text/I/D20001071.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/1071/text/U/D20001071Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1071",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 98,
+  "pos": 1071,
+  "address": "WDU20000981071",
+  "displayAddress": "Dz.U. 2000 nr 98 poz. 1071",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks postępowania administracyjnego.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-10-09",
+  "expirationDate": "2013-02-27",
+  "changeDate": "2024-03-15T09:49:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "administracyjne postępowanie",
+   "kodeks postępowania administracyjnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1126"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1126",
+     "art": "art. 35"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1960/168"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001071.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001071Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
