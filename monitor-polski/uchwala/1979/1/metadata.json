@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1979/1",
+ "source_sha256": "3776adc0f6f4ab5e01ca6c77fc694baaa612b05ab1d315d0ce332a503564ea28",
+ "in_force": "1979-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1979/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1979/1/text/O/M19790001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1979/1/text/I/M19790001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1979/1",
+  "publisher": "MP",
+  "year": 1979,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19790010001",
+  "displayAddress": "M.P. 1979 nr 1 poz. 1",
+  "title": "Uchwała nr 1 Rady Ministrów z dnia 5 stycznia 1979 r. w sprawie cen porównywalnych wyrobów i usług przemysłowych w latach 1980-1985.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1979-01-05",
+  "entryIntoForce": "1979-01-26",
+  "validFrom": "1979-01-26",
+  "repealDate": "1983-09-15",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/160",
+     "date": "1983-09-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1976/89",
+     "date": "1979-01-26"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1978/22"
+    },
+    {
+     "id": "MP/1977/119"
+    },
+    {
+     "id": "MP/1976/124"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19790001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19790001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
