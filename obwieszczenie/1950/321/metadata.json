@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/321",
+ "source_sha256": "4b9e0f52816bef4853ea07c3f16f1f534ec235b954f62639517bd74942d5e490",
+ "in_force": "1950-07-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/321",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/321/text/O/D19500321.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/321/text/I/D19500321.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/321",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 35,
+  "pos": 321,
+  "address": "WDU19500350321",
+  "displayAddress": "Dz.U. 1950 nr 35 poz. 321",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 4 lipca 1950 r. o sprostowaniu błędu w rozporządzeniu z dnia 19 maja 1950 r. w sprawie egzaminu dla kandydatów na pomocników aptekarskich.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-07-04",
+  "entryIntoForce": "1950-07-04",
+  "validFrom": "1950-07-04",
+  "repealDate": "1951-12-31",
+  "changeDate": "2020-11-03T15:55:20",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1950/321",
+     "date": "1951-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1950/203"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/321",
+     "date": "1951-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500321.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500321.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
