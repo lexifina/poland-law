@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/2",
+ "source_sha256": "6388dd07ad77a770198708d853fe6106c548f329228bb7c39f2adc97897778aa",
+ "in_force": "1970-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/2/text/O/M19700002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/2/text/I/M19700002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/2",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 1,
+  "pos": 2,
+  "address": "WMP19700010002",
+  "displayAddress": "M.P. 1970 nr 1 poz. 2",
+  "title": "Zarządzenie Ministra Finansów z dnia 30 grudnia 1969 r. w sprawie zabezpieczenia spłaty kredytu ratalnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-12-30",
+  "entryIntoForce": "1970-01-13",
+  "validFrom": "1970-01-13",
+  "repealDate": "1972-09-18",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [
+   "CENTRALNY ZWIĄZEK SOP",
+   "NACZELNY DYREKTOR PKO"
+  ],
+  "obligated": [
+   "NACZELNY DYREKTOR PKO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/236",
+     "date": "1972-09-18"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1972/6",
+     "date": "1972-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/121"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/121",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
