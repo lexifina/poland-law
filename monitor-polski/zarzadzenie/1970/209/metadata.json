@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/209",
+ "source_sha256": "f8a5c3e9b4b8375da47242c2a9026bbebbf2b411bb2b6edc86fafa6c9883bc25",
+ "in_force": "1970-09-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/209",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/209/text/O/M19700209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/209/text/I/M19700209.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/209",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 25,
+  "pos": 209,
+  "address": "WMP19700250209",
+  "displayAddress": "M.P. 1970 nr 25 poz. 209",
+  "title": "Zarządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 15 lipca 1970 r. w sprawie uznania za rezerwat przyrody.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-07-15",
+  "entryIntoForce": "1970-09-08",
+  "validFrom": "1970-09-08",
+  "repealDate": "1990-01-03",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. LEŚNICTWA I PRZEMYSŁU DRZEWNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rezerwaty przyrody",
+   "woj. suwalskie",
+   "ochrona przyrody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/337",
+     "date": "1990-01-03"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1985/135",
+     "date": "1985-07-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/180"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1949/180",
+     "art": "art. 13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700209.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
