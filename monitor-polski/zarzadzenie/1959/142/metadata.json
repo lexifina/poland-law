@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1959/142",
+ "source_sha256": "6a26b60c04ee88029f1728a5f5f158c7a0deb9fcdb7115ab4188da32f3fb961a",
+ "in_force": "1959-04-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1959/142",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1959/142/text/O/M19590142.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1959/142/text/I/M19590142.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1959/142",
+  "publisher": "MP",
+  "year": 1959,
+  "volume": 30,
+  "pos": 142,
+  "address": "WMP19590300142",
+  "displayAddress": "M.P. 1959 nr 30 poz. 142",
+  "title": "Zarządzenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 20 marca 1959 r. w sprawie opłat związanych z uzyskaniem prawa do oznaczania wyrobów znakiem jakości.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-03-20",
+  "entryIntoForce": "1959-04-14",
+  "validFrom": "1959-04-14",
+  "repealDate": "1961-12-14",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. POLSKIEGO KOMITETU NORMALIZACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "znak jakości",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/398",
+     "date": "1961-12-14"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1961/38",
+     "date": "1961-01-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/531"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/531",
+     "art": "par. 12 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19590142.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19590142.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
