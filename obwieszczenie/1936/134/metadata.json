@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/134",
+ "source_sha256": "908b757593e160e5d89af27a8f20b3ec0738298bb8180d3eaa41f48ff93f54c7",
+ "in_force": "1936-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/134/text/O/D19360134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/134/text/I/D19360134.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/134",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 14,
+  "pos": 134,
+  "address": "WDU19360140134",
+  "displayAddress": "Dz.U. 1936 nr 14 poz. 134",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 14 lutego 1936 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 15 marca 1934 r. zawierającej \"Ordynację Podatkową\".",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-02-14",
+  "promulgation": "1936-02-26",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/13"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/13",
+     "art": "art. 4 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1934/346"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360134.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
