@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/321",
+ "source_sha256": "cfed876edf10e5b77133867a0380ca4b0628099e87b3739818d160c485071df9",
+ "in_force": "1968-11-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/321",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/321/text/O/M19680321.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/321/text/I/M19680321.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/321",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 45,
+  "pos": 321,
+  "address": "WMP19680450321",
+  "displayAddress": "M.P. 1968 nr 45 poz. 321",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 listopada 1968 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-11-01",
+  "entryIntoForce": "1968-11-01",
+  "validFrom": "1968-11-01",
+  "repealDate": "1968-12-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/354",
+     "date": "1968-12-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1968/292",
+     "date": "1968-11-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1968/334",
+     "date": "1968-11-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680321.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680321.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
