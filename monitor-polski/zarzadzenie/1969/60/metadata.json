@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/60",
+ "source_sha256": "21e824c22b8bdd56708ca06cfaeb2166969f54f9308668c68ea0f712de856028",
+ "in_force": "1969-02-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/60",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/60/text/O/M19690060.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/60/text/I/M19690060.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/60",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 6,
+  "pos": 60,
+  "address": "WMP19690060060",
+  "displayAddress": "M.P. 1969 nr 6 poz. 60",
+  "title": "Zarządzenie Ministra Finansów z dnia 14 lutego 1969 r. w sprawie pokrycia środków obrotowych przedsiębiorstw gospodarki mieszkaniowej i gospodarki komunalnej objętych planowaniem terenowym.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-02-14",
+  "entryIntoForce": "1969-02-21",
+  "validFrom": "1969-01-01",
+  "repealDate": "1971-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1969/59"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1969/59"
+    },
+    {
+     "id": "MP/1969/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1969/59",
+     "art": "par. 10 ust. 1"
+    },
+    {
+     "id": "MP/1969/58",
+     "art": "par. 19 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1970/294",
+     "date": "1971-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690060.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690060.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
