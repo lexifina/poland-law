@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/790",
+ "source_sha256": "57e949e033266127471dc6952dbd43799215dd35329f9ebb73f350cbd1828c12",
+ "in_force": "1999-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/790",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/790/text/O/D19990790.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/790/text/I/D19990790.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/790/text/T/D19990790L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/790",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 70,
+  "pos": 790,
+  "address": "WDU19990700790",
+  "displayAddress": "Dz.U. 1999 nr 70 poz. 790",
+  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 18 sierpnia 1999 r. w sprawie określenia przypadków, w których za podstawę wymiaru zasiłku chorobowego przyjmuje się wynagrodzenie z 12 miesięcy kalendarzowych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-18",
+  "entryIntoForce": "1999-09-01",
+  "validFrom": "1999-09-01",
+  "repealDate": "2005-02-08",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 36 ust. 6"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2005/71",
+     "date": "2005-02-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990790.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990790.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990790L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
