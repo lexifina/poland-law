@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/211",
+ "source_sha256": "0f53275d465799e5c91249ecb6ef7e15db5f5759338d21fed564297aa74b88a2",
+ "in_force": "1988-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/211",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/211/text/O/M19880211.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/211/text/I/M19880211.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/211",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 23,
+  "pos": 211,
+  "address": "WMP19880230211",
+  "displayAddress": "M.P. 1988 nr 23 poz. 211",
+  "title": "Zarządzenie Ministra Finansów z dnia 18 sierpnia 1988 r. w sprawie zaniechania ustalania podatków obrotowego i dochodowego od przychodów osób fizycznych z tytułu przechowywania zbóż ze zbiorów 1988 r.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-08-18",
+  "entryIntoForce": "1988-08-31",
+  "validFrom": "1988-08-31",
+  "repealDate": "1989-08-31",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolne prawo",
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1988/211",
+     "date": "1989-08-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 8 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1988/211",
+     "date": "1989-08-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880211.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880211.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
