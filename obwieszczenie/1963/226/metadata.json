@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1963/226",
+ "source_sha256": "495658f92a7aaf6ecea2a553701d63b003c8890d38d407b37736f075ef0f0196",
+ "in_force": "1963-09-02",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1963/226",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1963/226/text/O/D19630226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1963/226/text/I/D19630226.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1963/226",
+  "publisher": "DU",
+  "year": 1963,
+  "volume": 40,
+  "pos": 226,
+  "address": "WDU19630400226",
+  "displayAddress": "Dz.U. 1963 nr 40 poz. 226",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 2 września 1963 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 lutego 1960 r. o Polskiej Akademii Nauk.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-09-02",
+  "expirationDate": "1965-05-05",
+  "changeDate": "2017-11-23T15:43:59",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1963/166"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1960/64"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19630226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19630226.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
