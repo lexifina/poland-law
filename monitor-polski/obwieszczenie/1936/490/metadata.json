@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/490",
+ "source_sha256": "5ae1be8827a58f9231986225e6b8d8c798083e2335d5431f1c502448eb993e28",
+ "in_force": "1936-11-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/490",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/490/text/O/M19360490.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/490/text/I/M19360490.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/490",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 276,
+  "pos": 490,
+  "address": "WMP19362760490",
+  "displayAddress": "M.P. 1936 nr 276 poz. 490",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 17 listopada 1936 r. w sprawie wypuszczenia do obiegu znaczków podatkowych od uboju, wartości 25 groszy.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-11-17",
+  "promulgation": "1936-11-26",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "zwierzęta hodowlane"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1933/797"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/583"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/583",
+     "art": "art. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360490.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360490.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
