@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/710",
+ "source_sha256": "589f932a1ceb6d6caf766c68c7c70424878b66acf0a6a9606d3b5b64cfc1b437",
+ "in_force": "1998-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/710",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/710/text/O/D19980710.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/710/text/I/D19980710.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/710",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 111,
+  "pos": 710,
+  "address": "WDU19981110710",
+  "displayAddress": "Dz.U. 1998 nr 111 poz. 710",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 21 sierpnia 1998 r. w sprawie wysokości zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-08-21",
+  "entryIntoForce": "1998-09-01",
+  "validFrom": "1998-09-01",
+  "repealDate": "2003-07-01",
+  "changeDate": "2014-12-31T12:25:48",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koszty i opłaty sądowe",
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/980",
+     "date": "2003-07-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1996/683",
+     "date": "1998-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/555"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/555",
+     "art": "art. 621 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19980710.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980710.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
