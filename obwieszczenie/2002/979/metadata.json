@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/979",
+ "source_sha256": "e7aa79503eca4dc007916b04acd3614e34aa5727ea146f7e662e7a439395cdc2",
+ "in_force": "2002-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/979",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/979/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/979/text/O/D20020979.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/979/text/I/D20020979.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/979/text/U/D20020979Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/979",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 112,
+  "pos": 979,
+  "address": "WDU20021120979",
+  "displayAddress": "Dz.U. 2002 nr 112 poz. 979",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 czerwca 2002 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rzemiośle.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-06-25",
+  "promulgation": "2002-07-20",
+  "expirationDate": "2015-08-17",
+  "changeDate": "2024-03-15T10:06:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rzemiosło",
+   "rzemieślnicy"
+  ],
+  "keywordsNames": [
+   "Krajowy Rejestr Sądowy"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity ustawy nie obejmuje art. 15 i art. 20 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. Nr 17, poz. 92).",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1989/92"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020979.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020979.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020979Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
