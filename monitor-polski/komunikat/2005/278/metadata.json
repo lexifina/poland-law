@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/278",
+ "source_sha256": "18e8217dd4cc3851255e2d7045896cb7895879a8815340ff548e8e903c672c40",
+ "in_force": "2005-03-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/278",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/278/text/O/M20050278.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/278/text/I/M20050278.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/278",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 16,
+  "pos": 278,
+  "address": "WMP20050160278",
+  "displayAddress": "M.P. 2005 nr 16 poz. 278",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 7 marca 2005 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazanych w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-03-07",
+  "promulgation": "2005-03-21",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050278.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050278.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
