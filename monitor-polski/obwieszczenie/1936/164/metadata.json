@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/164",
+ "source_sha256": "9aadbd31a273a74b7dc27b2c26ec9de3f9f6e9d998da551862d6fc871eedb7fc",
+ "in_force": "1936-04-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/164",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/164/text/O/M19360164.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/164/text/I/M19360164.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/164",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 85,
+  "pos": 164,
+  "address": "WMP19360850164",
+  "displayAddress": "M.P. 1936 nr 85 poz. 164",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 2 kwietnia 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-04-02",
+  "promulgation": "1936-04-10",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360164.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360164.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
