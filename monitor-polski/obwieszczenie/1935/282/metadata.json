@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/282",
+ "source_sha256": "2c9dd32c1063976adb48f83c04f11be9678ba7010af0e8e989cac1960dadcb5c",
+ "in_force": "1935-10-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/282",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/282/text/O/M19350282.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/282/text/I/M19350282.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/282",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 237,
+  "pos": 282,
+  "address": "WMP19352370282",
+  "displayAddress": "M.P. 1935 nr 237 poz. 282",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 5 października 1935 roku.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-10-05",
+  "promulgation": "1935-10-15",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/99"
+    },
+    {
+     "id": "DU/1928/190"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/99",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1928/190",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350282.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350282.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
