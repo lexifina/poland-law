@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/50",
+ "source_sha256": "8f73bd1d971867cf6fba87819d0bce6862d622adbb6b1f668f26a249b85c0ecd",
+ "in_force": "2000-01-17",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/50",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/50/text/O/M20000050.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/50/text/I/M20000050.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/50/text/T/M20000050L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/50",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 2,
+  "pos": 50,
+  "address": "WMP20000020050",
+  "displayAddress": "M.P. 2000 nr 2 poz. 50",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 17 stycznia 2000 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w grudniu 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-01-17",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/939"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/939",
+     "art": "art. 56 ust. 1"
+    },
+    {
+     "id": "DU/1997/939",
+     "art": "art. 57 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000050.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000050.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000050L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
