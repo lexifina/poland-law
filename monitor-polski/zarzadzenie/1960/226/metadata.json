@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1960/226",
+ "source_sha256": "c91a3c0dddca7de90470a7a00ac225bca661a3dcb4e3b257b2a675ac31cb894a",
+ "in_force": "1960-06-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1960/226",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1960/226/text/O/M19600226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1960/226/text/I/M19600226.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1960/226",
+  "publisher": "MP",
+  "year": 1960,
+  "volume": 48,
+  "pos": 226,
+  "address": "WMP19600480226",
+  "displayAddress": "M.P. 1960 nr 48 poz. 226",
+  "title": "Zarządzenie nr 84 Prezesa Rady Ministrów z dnia 2 czerwca 1960 r. zmieniające zarządzenie z dnia 10 stycznia 1952 r. w sprawie nadania niektórym organom władzy uprawnień do nakładania i ściągania grzywien w drodze mandatu karnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-06-02",
+  "entryIntoForce": "1960-06-11",
+  "validFrom": "1960-06-11",
+  "repealDate": "1962-01-14",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty karne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/327",
+     "date": "1962-01-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1952/84",
+     "date": "1960-06-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/454"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/454",
+     "art": "art. 28 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19600226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19600226.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
