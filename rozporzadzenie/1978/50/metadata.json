@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1978/50",
+ "source_sha256": "3335fde52cbdd008dba9aca8ef7d079ea7333b0f58849a6d8b53b9274cc130bd",
+ "in_force": "1978-05-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1978/50",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1978/50/text/O/D19780050.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1978/50/text/I/D19780050.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1978/50",
+  "publisher": "DU",
+  "year": 1978,
+  "volume": 11,
+  "pos": 50,
+  "address": "WDU19780110050",
+  "displayAddress": "Dz.U. 1978 nr 11 poz. 50",
+  "title": "Rozporządzenie Ministra Finansów z dnia 26 kwietnia 1978 r. zmieniające rozporządzenie w sprawie stosowania ulg podatkowych z tytułu inwestycji.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-04-26",
+  "promulgation": "1978-05-11",
+  "entryIntoForce": "1978-05-11",
+  "validFrom": "1978-05-11",
+  "repealDate": "1984-12-31",
+  "changeDate": "2014-12-31T12:25:32",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ulgi podatkowe",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1984/324",
+     "date": "1984-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1975/257",
+     "date": "1978-05-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1975/230"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1975/230",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19780050.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19780050.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
