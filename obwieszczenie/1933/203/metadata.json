@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/203",
+ "source_sha256": "d308d7bf85bc6ec0553d7b545d70e4f40f14b53d122076404d18848661f81c30",
+ "in_force": "1933-04-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/203",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/203/text/O/D19330203.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/203/text/I/D19330203.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/203",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 24,
+  "pos": 203,
+  "address": "WDU19330240203",
+  "displayAddress": "Dz.U. 1933 nr 24 poz. 203",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 8 marca 1933 r. wydane w porozumieniu z Ministrem Skarbu o sprostowaniu błędów w rozporządzeniu z dnia 23 listopada 1932 r. celem wykonania ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1933-03-08",
+  "promulgation": "1933-04-06",
+  "changeDate": "2020-11-03T15:56:32",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "komunalna gospodarka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1932/937"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330203.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330203.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
