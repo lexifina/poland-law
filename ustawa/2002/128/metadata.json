@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/128",
+ "source_sha256": "87ed1c48ef2ff5e46136b6d9ab19f0001a03d3e5a5edddd560787a4f83a8caa1",
+ "in_force": "2002-03-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/128",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/128/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/128/text/O/D20020128.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/128/text/I/D20020128.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/128/text/U/D20020128Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/128",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 14,
+  "pos": 128,
+  "address": "WDU20020140128",
+  "displayAddress": "Dz.U. 2002 nr 14 poz. 128",
+  "title": "Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne oraz ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-02-15",
+  "promulgation": "2002-02-21",
+  "entryIntoForce": "2002-03-08",
+  "validFrom": "2002-03-08",
+  "repealDate": "2011-08-01",
+  "changeDate": "2024-03-15T10:05:45",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja wyborcza",
+   "mandaty poselskie i senatorskie",
+   "sąd lustracyjny",
+   "kasacja",
+   "lustracja",
+   "pracownicy urzędów państwowych",
+   "wybory",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/13.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/13",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/13",
+    "number": "13",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/113",
+     "date": "2011-08-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/765",
+     "date": "2002-06-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/499",
+     "date": "2002-03-08"
+    },
+    {
+     "id": "DU/1997/443",
+     "date": "2002-03-08"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2002/765"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020128.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020128.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020128Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
