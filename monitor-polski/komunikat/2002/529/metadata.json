@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/529",
+ "source_sha256": "cf638abe7b8c1b84ee14486af955dfb7fded05a2464767ab4e17c95cd655ec86",
+ "in_force": "2002-07-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/529",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/529/text/O/M20020529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/529/text/I/M20020529.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/529",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 33,
+  "pos": 529,
+  "address": "WMP20020330529",
+  "displayAddress": "M.P. 2002 nr 33 poz. 529",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 lipca 2002 r. w sprawie wskaźnika cen towarów nieżywnościowych trwałego użytku w II kwartale 2002 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-07-15",
+  "promulgation": "2002-07-26",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "towar",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1983/207"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1983/207",
+     "art": "art. 17 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020529.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
