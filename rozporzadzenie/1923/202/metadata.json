@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/202",
+ "source_sha256": "dd052f40aa7a040ef5fd86b77e7c5ad65cc9f64982e0fe3586fb9a5e92bdf44e",
+ "in_force": "1923-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/202",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/202/text/O/D19230202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/202/text/I/D19230202.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/202",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 31,
+  "pos": 202,
+  "address": "WDU19230310202",
+  "displayAddress": "Dz.U. 1923 nr 31 poz. 202",
+  "title": "Rozporządzenie Ministrów Skarbu oraz Przemysłu i Handlu z dnia 23 marca 1923 r. w przedmiocie zmiany wysokości mnożników celnych normalnego i zniżonego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-03-23",
+  "entryIntoForce": "1923-04-01",
+  "validFrom": "1923-04-01",
+  "repealDate": "1923-05-18",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/357",
+     "date": "1923-05-18"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1923/89",
+     "date": "1923-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1923/80",
+     "date": "1923-04-01"
+    },
+    {
+     "id": "DU/1923/131",
+     "date": "1923-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230202.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
