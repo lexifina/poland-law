@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/154",
+ "source_sha256": "ba5513060ea3ddce166af7d39d9a22ff49316b4e3ef2db117e7696ba63129d31",
+ "in_force": "2000-01-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 211 words, parsed 132; at 132: 'prostuje się następujące błędy : 1 ) w uwadze 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/154",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/154/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/154/text/O/D20000154.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/154/text/I/D20000154.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/154",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 12,
+  "pos": 154,
+  "address": "WDU20000120154",
+  "displayAddress": "Dz.U. 2000 nr 12 poz. 154",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 31 stycznia 2000 r. o sprostowaniu błędów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-01-31",
+  "changeDate": "2024-03-15T09:49:31",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "sprostowanie",
+   "ochrona przyrody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1996/263"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000154.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000154.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
