@@ -1,0 +1,1 @@
+W uznaniu szczególnych zasług pracowników poligrafii w krzewieniu kultury w społeczeństwie, upowszechnianiu informacji oraz przyczynianiu się do podnoszenia poziomu wiedzy i wykształcenia, stanowi się, co następuje:
