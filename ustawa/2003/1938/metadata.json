@@ -1,0 +1,119 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1938",
+ "source_sha256": "058fd323c8f05c8b1920a5ea07559a83a21d69d7c739e17f026324546dc803f0",
+ "in_force": "2003-12-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1938",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1938/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1938/text/O/D20031938.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1938/text/I/D20031938.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1938/text/T/D20031938L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1938",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 199,
+  "pos": 1938,
+  "address": "WDU20031991938",
+  "displayAddress": "Dz.U. 2003 nr 199 poz. 1938",
+  "title": "Ustawa z dnia 17 października 2003 r. o zmianie ustawy o służbie medycyny pracy oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-10-17",
+  "promulgation": "2003-11-24",
+  "entryIntoForce": "2003-12-25",
+  "validFrom": "2003-12-25",
+  "changeDate": "2024-03-15T09:52:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. ZDROWIA"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "służba medycyny pracy",
+   "pielęgniarstwo",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1024.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1024",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1024",
+    "number": "1024",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2003/551",
+     "date": "2003-12-25"
+    },
+    {
+     "id": "DU/2002/1975",
+     "date": "2003-12-25"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2006/1225",
+     "date": "2006-10-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/634",
+     "date": "2003-12-25"
+    },
+    {
+     "id": "DU/2001/1384",
+     "date": "2003-12-25"
+    },
+    {
+     "id": "DU/1997/593",
+     "date": "2003-12-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/628"
+    },
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031938.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031938.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031938L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
