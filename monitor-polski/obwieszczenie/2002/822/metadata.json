@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/822",
+ "source_sha256": "1a632cf6d399b3aabf4ad8cb60e3e3bf86c13bc61827aafe0afac668081afc76",
+ "in_force": "2002-12-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/822",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/822/text/O/M20020822.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/822/text/I/M20020822.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/822",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 59,
+  "pos": 822,
+  "address": "WMP20020590822",
+  "displayAddress": "M.P. 2002 nr 59 poz. 822",
+  "title": "Obwieszczenie Ministra Gospodarki z dnia 20 listopada 2002 r. w sprawie wysokości przeciętnego miesięcznego wynagrodzenia w kopalniach węgla kamiennego w trzecim kwartale 2002 r. dla określenia średniomiesięcznej skali na ubezpieczenia społeczne oraz składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych refundowanych pracodawcom spoza górnictwa.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-11-20",
+  "promulgation": "2002-12-13",
+  "changeDate": "2020-01-10T11:08:31",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "węgiel",
+   "wynagrodzenia przeciętne",
+   "refundacja",
+   "kopalnie",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [
+   "Fundusz Pracy",
+   "Fundusz Gwarantowanych Świadczeń Pracowniczych"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1112",
+     "art": "art. 30 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020822.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020822.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
