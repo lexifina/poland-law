@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/833",
+ "source_sha256": "f6f3ea67a967ba04f069ba4cc9fde0ac2f9161906a032abdc8df4047119dbedf",
+ "in_force": "1999-09-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/833",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/833/text/O/D19990833.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/833/text/I/D19990833.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/833/text/T/D19990833L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/833",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 74,
+  "pos": 833,
+  "address": "WDU19990740833",
+  "displayAddress": "Dz.U. 1999 nr 74 poz. 833",
+  "title": "Rozporządzenie Ministra Finansów z dnia 7 września 1999 r. zmieniające rozporządzenie w sprawie emisji czwartej dziesięcioletniej pożyczki państwowej o zmiennej stopie procentowej oraz jej warunków.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-09-07",
+  "entryIntoForce": "1999-09-09",
+  "validFrom": "1999-09-09",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "oprocentowanie",
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/998",
+     "date": "1999-09-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1014",
+     "art": "art. 53 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990833.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990833.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990833L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
