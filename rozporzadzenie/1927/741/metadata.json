@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/741",
+ "source_sha256": "be2c271f0119d0e4db7dcb95c894979109a4c66c5eceb50a758c88fe804fb51d",
+ "in_force": "1927-10-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/741",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/741/text/O/D19270741.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/741/text/I/D19270741.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/741",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 83,
+  "pos": 741,
+  "address": "WDU19270830741",
+  "displayAddress": "Dz.U. 1927 nr 83 poz. 741",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 17 września 1927 r. o warunkowem zawieszeniu wykonania kary na obszarze, na którym obowiązuje ustawa postępowania karnego z dnia 1 lutego 1877 r.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-09-17",
+  "entryIntoForce": "1927-10-12",
+  "validFrom": "1927-10-12",
+  "repealDate": "1932-09-01",
+  "changeDate": "2024-11-25T09:48:07",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/573",
+     "date": "1932-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 44"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270741.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270741.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
