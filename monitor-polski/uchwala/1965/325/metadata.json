@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/325",
+ "source_sha256": "b793b26fb6d18f6664aa0596aa1d3f0b0008297093fbd035dff09f93ca9fa3cf",
+ "in_force": "1966-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/325",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/325/text/O/M19650325.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/325/text/I/M19650325.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/325",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 62,
+  "pos": 325,
+  "address": "WMP19650620325",
+  "displayAddress": "M.P. 1965 nr 62 poz. 325",
+  "title": "Uchwała nr 284 Rady Ministrów z dnia 10 listopada 1965 r. w sprawie premiowania i nagradzania pracowników za gospodarcze wykorzystanie paliw odpadowych i za oszczędne zużywanie paliw stałych, ciekłych i gazowych oraz energii cieplnej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-11-10",
+  "entryIntoForce": "1966-01-01",
+  "validFrom": "1966-01-01",
+  "repealDate": "1975-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. GÓRNICTWA I ENERGETYKI"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1975/61",
+     "date": "1975-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/178",
+     "date": "1966-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1972/243",
+     "date": "1972-09-30"
+    },
+    {
+     "id": "MP/1971/247",
+     "date": "1971-07-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650325.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650325.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
