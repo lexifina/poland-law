@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1959/25",
+ "source_sha256": "51331d12db5b3a40a3aab2eb7b7a405fe27426afb823f948ae1468dc89b5f54a",
+ "in_force": "1959-01-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1959/25",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1959/25/text/O/M19590025.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1959/25/text/I/M19590025.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1959/25",
+  "publisher": "MP",
+  "year": 1959,
+  "volume": 6,
+  "pos": 25,
+  "address": "WMP19590060025",
+  "displayAddress": "M.P. 1959 nr 6 poz. 25",
+  "title": "Zarządzenie nr 5 Prezesa Rady Ministrów z dnia 14 stycznia 1959 r. zmieniające zarządzenie nr 141 z dnia 12 lipca 1958 r. w sprawie organizacji i uprawnień służby inwestycyjnej w państwowych jednostkach organizacyjnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-01-14",
+  "entryIntoForce": "1959-01-21",
+  "validFrom": "1959-01-21",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/327",
+     "date": "1959-01-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/99"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/99",
+     "art": "par. 10 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19590025.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19590025.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
