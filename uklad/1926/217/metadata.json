@@ -1,0 +1,60 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/217",
+ "source_sha256": "e454c68fc1c27bd45d8c84230d1d0656a362dbc96d5ac1c08822b15b7e2cf625",
+ "in_force": "1925-05-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/217",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/217/text/O/D19260217.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/217/text/I/D19260217.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/217",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 36,
+  "pos": 217,
+  "address": "WDU19260360217",
+  "displayAddress": "Dz.U. 1926 nr 36 poz. 217",
+  "title": "Układ Polsko-Niemiecki o obrocie prawnym podpisany w Warszawie dnia 5 marca 1924 r.",
+  "type": "Układ",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-05-04",
+  "changeDate": "2021-03-18T10:40:44",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cywilne prawo",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "status ustalono na podstawie Internetowej Bazy Traktatów MSZ:\n\nhttps://traktaty.msz.gov.pl/umowa-4",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1926/218"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260217.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260217.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
