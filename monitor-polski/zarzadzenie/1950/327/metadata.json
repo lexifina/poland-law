@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/327",
+ "source_sha256": "6dd4085525656484c4eb28a9a283601de9c1e76fcec0da2b4ffe614651c0a1f4",
+ "in_force": "1950-02-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/327",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/327/text/O/M19500327.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/327/text/I/M19500327.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/327",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 27,
+  "pos": 327,
+  "address": "WMP19500270327",
+  "displayAddress": "M.P. 1950 nr 27 poz. 327",
+  "title": "Zarządzenie Ministra Przemysłu Ciężkiego z dnia 20 lutego 1950 r. w sprawie uchylenia przymusowego zarządu państwowego nad przedsiębiorstwami.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-02-20",
+  "entryIntoForce": "1950-02-20",
+  "validFrom": "1950-02-20",
+  "repealDate": "1958-03-08",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU CIĘŻKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1949/1037",
+     "date": "1950-02-20"
+    },
+    {
+     "id": "MP/1949/1009",
+     "date": "1950-02-20"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1949/1076",
+     "date": "1950-02-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1918/67"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1958/37",
+     "date": "1958-03-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500327.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500327.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
