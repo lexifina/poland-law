@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/201",
+ "source_sha256": "4c39cd60cc242bd7c4ed53763c755033ca28f273eeb300f3f937ee1848147b26",
+ "in_force": "2001-03-19",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/201",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/201/text/O/M20010201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/201/text/I/M20010201.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/201",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 12,
+  "pos": 201,
+  "address": "WMP20010120201",
+  "displayAddress": "M.P. 2001 nr 12 poz. 201",
+  "title": "Obwieszczenie Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast z dnia 19 marca 2001 r. w sprawie ustalenia ceny 1 m kw. powierzchni użytkowej budynku mieszkalnego za IV kwartał 2000 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-03-19",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. URZĘDU MIESZKALNICTWA I ROZWOJU MIAST"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "premie",
+   "budownictwo mieszkaniowe",
+   "mieszkaniowe książeczki oszczędnościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/259"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/259",
+     "art": "par. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
