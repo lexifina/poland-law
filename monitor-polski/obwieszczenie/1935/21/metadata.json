@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/21",
+ "source_sha256": "d422c4bdbcc15417bf8ec471c05f06300f61033301ad2da6315bd34cc9b0d4e5",
+ "in_force": "1935-01-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/21/text/O/M19350021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/21/text/I/M19350021.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/21",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 15,
+  "pos": 21,
+  "address": "WMP19350150021",
+  "displayAddress": "M.P. 1935 nr 15 poz. 21",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 10 stycznia 1935 r. w sprawie umorzenia w drodze wykupu obligacyj 5% pożyczki konwersyjnej z 1934 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-01-10",
+  "promulgation": "1935-01-18",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1934/338"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/561",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
