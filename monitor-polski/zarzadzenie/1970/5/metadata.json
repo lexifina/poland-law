@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/5",
+ "source_sha256": "a81577b683529d012f7e074ec63193c3e02f91516836aae111b6b49d9ed0b748",
+ "in_force": "1970-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/5",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/5/text/O/M19700005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/5/text/I/M19700005.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/5",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 1,
+  "pos": 5,
+  "address": "WMP19700010005",
+  "displayAddress": "M.P. 1970 nr 1 poz. 5",
+  "title": "Zarządzenie Ministra Przemysłu Spożywczego i Skupu z dnia 27 grudnia 1969 r. uchylające zarządzenie w sprawie norm ubytków naturalnych spirytusu zawartego w magazynowanych półfabrykatach wódek gatunkowych.",
+  "type": "Zarządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1969-12-27",
+  "entryIntoForce": "1970-01-13",
+  "validFrom": "1970-01-13",
+  "changeDate": "2019-03-08T14:09:19",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1962/193",
+     "date": "1970-01-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1963/420"
+    },
+    {
+     "id": "DU/1956/244"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1963/420",
+     "art": "par. 1 ust. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
