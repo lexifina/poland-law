@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1111",
+ "source_sha256": "82040723f483caaa09180edf0bce413b4c0247ee97ecd2879ff4db76124fdca1",
+ "in_force": "1950-08-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1111/text/O/M19501111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1111/text/I/M19501111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1111",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 89,
+  "pos": 1111,
+  "address": "WMP19500891111",
+  "displayAddress": "M.P. 1950 nr 89 poz. 1111",
+  "title": "Okólnik nr 22 Prezesa Rady Ministrów z dnia 4 sierpnia 1950 r. o zmianie okólnika nr 11 Prezesa Rady Ministrów z dnia 9 maja 1949 r. w sprawie nazw województw.",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-08-04",
+  "entryIntoForce": "1950-08-04",
+  "validFrom": "1950-08-04",
+  "repealDate": "1963-10-31",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1963/391",
+     "date": "1963-10-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1949/453",
+     "date": "1950-08-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1950/255"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19501111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19501111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
