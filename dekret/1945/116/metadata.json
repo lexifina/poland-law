@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/116",
+ "source_sha256": "695b7d0a8f72d6a94754f938f67c5a340e17a03fab099b1dbe5dbb4222a63cad",
+ "in_force": "1945-06-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/116/text/O/D19450116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/116/text/I/D19450116.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1945/116/text/T/D19450116L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/116",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 21,
+  "pos": 116,
+  "address": "WDU19450210116",
+  "displayAddress": "Dz.U. 1945 nr 21 poz. 116",
+  "title": "Dekret z dnia 8 maja 1945 r. o ustanowieniu Narodowego Święta Zwycięstwa i Wolności.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-05-08",
+  "entryIntoForce": "1945-06-11",
+  "validFrom": "1945-06-11",
+  "repealDate": "2015-05-07",
+  "changeDate": "2015-07-30T11:11:31",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa",
+   "dni uroczyste wojska",
+   "uroczystości państwowe i branżowe",
+   "święta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2015/622",
+     "date": "2015-05-07"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1951/28",
+     "date": "1951-01-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450116.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19450116L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
