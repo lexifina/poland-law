@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/2012",
+ "source_sha256": "78c5138383c821fba79142dd64c1e0d7731501ae4b448f8506df2ae59148af1c",
+ "in_force": "2003-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 892 words, parsed 240; at 240: '65 Konstytucji , orzeka : 1 . Art . 59'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/2012",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/2012/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/2012/text/O/D20032012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/2012/text/I/D20032012.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/2012/text/T/D20032012TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/2012",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 206,
+  "pos": 2012,
+  "address": "WDU20032062012",
+  "displayAddress": "Dz.U. 2003 nr 206 poz. 2012",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 listopada 2003 r. sygn. akt SK 22/02",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-11-26",
+  "promulgation": "2003-12-04",
+  "entryIntoForce": "2003-12-04",
+  "validFrom": "2003-12-04",
+  "changeDate": "2024-03-15T09:52:58",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks wykroczeń"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1971/114",
+     "date": "2003-12-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1997/471"
+    },
+    {
+     "id": "DU/1988/324"
+    },
+    {
+     "id": "DU/1982/145"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1971/114"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20032012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20032012.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20032012TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
