@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1992/93",
+ "source_sha256": "c9c2f66faf360cb3e5117fdf602b5743879d675479ea1b57ca48e6dd42e02c44",
+ "in_force": "1992-03-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1992/93",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1992/93/text/O/D19920093.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1992/93/text/I/D19920093.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1992/93",
+  "publisher": "DU",
+  "year": 1992,
+  "volume": 22,
+  "pos": 93,
+  "address": "WDU19920220093",
+  "displayAddress": "Dz.U. 1992 nr 22 poz. 93",
+  "title": "Rozporządzenie Ministra Finansów z dnia 11 marca 1992 r. w sprawie podatku od środków transportowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-03-11",
+  "promulgation": "1992-03-13",
+  "entryIntoForce": "1992-03-13",
+  "validFrom": "1992-01-01",
+  "repealDate": "1993-01-01",
+  "changeDate": "2014-12-31T12:25:39",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "podatek od środków transportowych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1992/466",
+     "date": "1993-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1991/34",
+     "date": "1992-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/31"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/31",
+     "art": "art. 10 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19920093.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19920093.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
