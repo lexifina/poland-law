@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/902",
+ "source_sha256": "8c2118839e0850081157ed4dbcb9b1fc090797d921221c926ecc80f588fa1e2f",
+ "in_force": "2003-12-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/902",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/902/text/O/M20030902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/902/text/I/M20030902.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/902",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 58,
+  "pos": 902,
+  "address": "WMP20030580902",
+  "displayAddress": "M.P. 2003 nr 58 poz. 902",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 11 grudnia 2003 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Józefa Skowyry",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-12-11",
+  "promulgation": "2003-12-24",
+  "changeDate": "2026-10-06T14:31:09",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030902.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
