@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1951/53",
+ "source_sha256": "d69d7b9c5aaa3eaa6f76236139a3c240160875642401d31250c216e416af2710",
+ "in_force": "1950-12-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1951/53",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1951/53/text/O/M19510053.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1951/53/text/I/M19510053.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1951/53",
+  "publisher": "MP",
+  "year": 1951,
+  "volume": 4,
+  "pos": 53,
+  "address": "WMP19510040053",
+  "displayAddress": "M.P. 1951 nr 4 poz. 53",
+  "title": "Orzeczenie nr 57 Ministra Przemysłu Lekkiego z dnia 14 grudnia 1950 r. o przejęciu przedsiębiorstw na własność Państwa.",
+  "type": "Orzeczenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1950-12-14",
+  "entryIntoForce": "1950-12-14",
+  "validFrom": "1950-12-14",
+  "changeDate": "2022-10-11T10:20:48",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU LEKKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1950/1135"
+    },
+    {
+     "id": "MP/1947/304"
+    },
+    {
+     "id": "DU/1947/62"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/62"
+    },
+    {
+     "id": "DU/1946/17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19510053.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19510053.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
