@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/200",
+ "source_sha256": "5b2747c06308ae6633f0355477bb90569b8b8d7f10ff27d72b11513e4793426a",
+ "in_force": "1950-05-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/200/text/O/D19500200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/200/text/I/D19500200.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/200",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 23,
+  "pos": 200,
+  "address": "WDU19500230200",
+  "displayAddress": "Dz.U. 1950 nr 23 poz. 200",
+  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 17 kwietnia 1950 r. w sprawie egzaminów na mechaników kinematograficznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-04-17",
+  "entryIntoForce": "1950-05-31",
+  "validFrom": "1950-05-31",
+  "repealDate": "1952-07-31",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1952/243",
+     "date": "1952-07-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1934/981",
+     "date": "1950-05-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/323"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
