@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/4",
+ "source_sha256": "c50c5f9f9be02a07f7f3079212ff2b8c177e9b8eade6928d45fa5ccd7e5c5b2e",
+ "in_force": "1965-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/4/text/O/M19650004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/4/text/I/M19650004.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/4",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 1,
+  "pos": 4,
+  "address": "WMP19650010004",
+  "displayAddress": "M.P. 1965 nr 1 poz. 4",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 stycznia 1965 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-01-01",
+  "entryIntoForce": "1965-01-01",
+  "validFrom": "1965-01-01",
+  "repealDate": "1965-02-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/20",
+     "date": "1965-02-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1964/389",
+     "date": "1965-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
