@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/1004",
+ "source_sha256": "f83dd9392299ed7d7eed39a2aacffa0d2ed8feb648ddf0994853a86aa7fcccb2",
+ "in_force": "1923-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/1004",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/1004/text/O/D19231004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/1004/text/I/D19231004.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/1004",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 124,
+  "pos": 1004,
+  "address": "WDU19231241004",
+  "displayAddress": "Dz.U. 1923 nr 124 poz. 1004",
+  "title": "Rozporządzenie Ministra Robót Publicznych z dnia 30 listopada 1923 r. wydane w porozumieniu z Ministrem Skarbu w przedmiocie pobierania opłat od statków, tratew i spustu drzewa luźnego na wodach publicznych śródlądowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-11-30",
+  "entryIntoForce": "1923-12-04",
+  "validFrom": "1923-12-04",
+  "repealDate": "1924-01-01",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. ROBÓT PUBLICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/1154",
+     "date": "1924-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1923/824",
+     "date": "1923-12-04"
+    },
+    {
+     "id": "DU/1923/264",
+     "date": "1923-12-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/936"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19231004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19231004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
