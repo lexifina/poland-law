@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/17",
+ "source_sha256": "cbf1b071c86556acfd04c8819fd1d0fae191f883f6cec04455cbcf39e132f95a",
+ "in_force": "1945-02-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/17",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/17/text/O/D19450017.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/17/text/I/D19450017.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/17",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 5,
+  "pos": 17,
+  "address": "WDU19450050017",
+  "displayAddress": "Dz.U. 1945 nr 5 poz. 17",
+  "title": "Dekret z dnia 5 lutego 1945 r. o deponowaniu i wymianie marek niemieckich na terenach Rzeczypospolitej Polskiej, wyzwolonych spod okupacji po dniu 6 stycznia 1945 r.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-02-05",
+  "entryIntoForce": "1945-02-10",
+  "validFrom": "1945-02-10",
+  "repealDate": "1947-09-17",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [
+   "MIN. SKARBU"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/315",
+     "date": "1947-09-17"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/61"
+    },
+    {
+     "id": "DU/1945/174"
+    },
+    {
+     "id": "DU/1945/127"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450017.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450017.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
