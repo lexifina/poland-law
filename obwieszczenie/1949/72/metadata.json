@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1949/72",
+ "source_sha256": "b4aeec31958e00e2841051312681541fcde9239203af0f9a601c36fe0a370d8b",
+ "in_force": "1949-01-08",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1949/72",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1949/72/text/O/D19490072.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1949/72/text/I/D19490072.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1949/72",
+  "publisher": "DU",
+  "year": 1949,
+  "volume": 11,
+  "pos": 72,
+  "address": "WDU19490110072",
+  "displayAddress": "Dz.U. 1949 nr 11 poz. 72",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 8 stycznia 1949 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-01-08",
+  "repealDate": "1975-01-01",
+  "changeDate": "2017-11-23T15:43:34",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1974/142",
+     "date": "1975-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/381"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1922/164"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19490072.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19490072.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
