@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1993/172",
+ "source_sha256": "d3e006e93fde707dd276737264b709b0e52db7d08127ee2a5ac4b28b45709aca",
+ "in_force": "1993-04-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1993/172",
+  "html": "https://eli.gov.pl/api/acts/DU/1993/172/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1993/172/text/O/D19930172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1993/172/text/I/D19930172.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1993/172/text/U/D19930172Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1993/172",
+  "publisher": "DU",
+  "year": 1993,
+  "volume": 38,
+  "pos": 172,
+  "address": "WDU19930380172",
+  "displayAddress": "Dz.U. 1993 nr 38 poz. 172",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 1993 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Trybunale Stanu.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-04-07",
+  "expirationDate": "2002-07-05",
+  "changeDate": "2024-03-15T11:33:41",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konstytucyjna odpowiedzialność"
+  ],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/22"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/22",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/84"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19930172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19930172.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19930172Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
