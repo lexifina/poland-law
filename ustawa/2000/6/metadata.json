@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/6",
+ "source_sha256": "5f10fdbdedad5fad21a417c6aa267d563d638d330b859995240d12c5973f84a7",
+ "in_force": "2000-01-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/6",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/6/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/6/text/O/D20000006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/6/text/I/D20000006.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/6/text/U/D20000006Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/6",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 2,
+  "pos": 6,
+  "address": "WDU20000020006",
+  "displayAddress": "Dz.U. 2000 nr 2 poz. 6",
+  "title": "Ustawa z dnia 22 grudnia 1999 r. o czasowym podporządkowaniu niektórych jednostek wojskowych.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-22",
+  "promulgation": "2000-01-17",
+  "entryIntoForce": "2000-01-17",
+  "validFrom": "2000-01-17",
+  "repealDate": "2001-03-30",
+  "changeDate": "2024-03-15T09:49:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona osób i mienia",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1387.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1387",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1387",
+    "number": "1387",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/298",
+     "date": "2001-03-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2000/1268",
+     "date": "2000-12-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1990/179"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000006.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000006Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
