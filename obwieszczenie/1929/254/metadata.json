@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/254",
+ "source_sha256": "2ae7e5a0ed58b288090c3c03aedc2cc8e8a09811b35f8e228b0ce26ffa321620",
+ "in_force": "1929-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/254",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/254/text/O/D19290254.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/254/text/I/D19290254.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/254",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 24,
+  "pos": 254,
+  "address": "WDU19290240254",
+  "displayAddress": "Dz.U. 1929 nr 24 poz. 254",
+  "title": "Obwieszczenie Ministra Reform Rolnych z dnia 27 marca 1929 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 20 czerwca 1924 r. w sprawie uwłaszczenia b. czynszowników, b. wolnych ludzi i długoletnich dzierżawców w województwach: nowogródzkiem, poleskiem, wołyńskiem, okręgu administracyjnym wileńskim, oraz w powiatach: grodzieńskim, wołkowyskim, bielskim, białostockim i sokólskim województwa białostockiego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-03-27",
+  "promulgation": "1929-04-17",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "uwłaszczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1929/23"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1929/23",
+     "art": "art. 17"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/617"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290254.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290254.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
