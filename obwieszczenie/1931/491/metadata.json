@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/491",
+ "source_sha256": "ccaee76acc32fc7c9215ad52340828da0c0b4e9a8ee168180da7fda1fb17d27a",
+ "in_force": "1931-07-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/491",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/491/text/O/D19310491.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/491/text/I/D19310491.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/491",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 60,
+  "pos": 491,
+  "address": "WDU19310600491",
+  "displayAddress": "Dz.U. 1931 nr 60 poz. 491",
+  "title": "Obwieszczenie Ministra Poczt i Telegrafów z dnia 21 maja 1931 r. o sprostowaniu błędów w rozporządzeniu Ministra Poczt i Telegrafów z dnia 26 marca 1931 r. w sprawie zleceń pocztowych w obrocie wewnętrznym.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1931-05-21",
+  "promulgation": "1931-07-13",
+  "changeDate": "2020-11-03T15:56:33",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1931/200"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310491.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310491.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
