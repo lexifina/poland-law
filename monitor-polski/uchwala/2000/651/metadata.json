@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/651",
+ "source_sha256": "080ccb523b2c27f6d4097ca4d013c7bdbac49a5c668f39122fb21f8e345a838d",
+ "in_force": "2000-10-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/651",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/651/text/O/M20000651.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/651/text/I/M20000651.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/651",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 31,
+  "pos": 651,
+  "address": "WMP20000310651",
+  "displayAddress": "M.P. 2000 nr 31 poz. 651",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 9 października 2000 r. w sprawie stwierdzenia wyniku wyborów Prezydenta Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-10-09",
+  "entryIntoForce": "2000-10-08",
+  "validFrom": "2000-10-08",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Państwowa Komisja Wyborcza",
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 68 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000651.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000651.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
