@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/531",
+ "source_sha256": "9ccf68a6a25a026b76d1847b6e9bfc431ce237bb504c78527690eb6bd0c31aca",
+ "in_force": "2004-04-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/531",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/531/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/531/text/O/D20040531.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/531/text/I/D20040531.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/531/text/T/D20040531L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2004/531/text/U/D20040531Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/531",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 53,
+  "pos": 531,
+  "address": "WDU20040530531",
+  "displayAddress": "Dz.U. 2004 nr 53 poz. 531",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 marca 2004 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie felczera",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-03-13",
+  "promulgation": "2004-04-02",
+  "expirationDate": "2012-10-17",
+  "changeDate": "2024-03-15T09:55:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "felczerzy",
+   "przepisy karne",
+   "ochrona zdrowia",
+   "pracownicy",
+   "wykroczenia",
+   "służba zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1950/336"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040531.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040531.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040531L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20040531Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
