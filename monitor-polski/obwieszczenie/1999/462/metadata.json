@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/462",
+ "source_sha256": "73e1584e7b03d8aa16af8fd19974e474f404b45aa15803acf77f45617edc2fe5",
+ "in_force": "1999-08-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/462",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/462/text/O/M19990462.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/462/text/I/M19990462.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/462",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 30,
+  "pos": 462,
+  "address": "WMP19990300462",
+  "displayAddress": "M.P. 1999 nr 30 poz. 462",
+  "title": "Obwieszczenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 31 sierpnia 1999 r. w sprawie wykazu środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt, dopuszczonych do obrotu w kraju.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-31",
+  "validFrom": "1999-07-01",
+  "repealDate": "1999-12-01",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "MIN. ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "rejestry",
+   "zwierzęta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/452",
+     "art": "art. 18 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2000/8",
+     "date": "1999-12-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990462.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990462.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
