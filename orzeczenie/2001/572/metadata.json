@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/572",
+ "source_sha256": "0730a19fdf5959a9e1f382d61ac74fb080fa24752262b7cb93e92d82a88fb71d",
+ "in_force": "2001-05-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 256 words, parsed 136; at 136: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 228'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/572",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/572/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/572/text/O/D20010572.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/572/text/I/D20010572.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/572/text/T/D20010572L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/572",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 54,
+  "pos": 572,
+  "address": "WDU20010540572",
+  "displayAddress": "Dz.U. 2001 nr 54 poz. 572",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 21 maja 2001 r. sygn. akt SK. 15/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-05-21",
+  "promulgation": "2001-05-31",
+  "entryIntoForce": "2001-05-31",
+  "validFrom": "2001-05-31",
+  "changeDate": "2024-03-15T10:00:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość mieszkaniowa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1982/210",
+     "date": "2001-05-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1999/1151"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1982/210"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010572.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010572.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010572L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
