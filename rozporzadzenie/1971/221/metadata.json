@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1971/221",
+ "source_sha256": "dc99632e038871ac640b55773500c2193f84b3424793fd28974f910d4d94c67c",
+ "in_force": "1971-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1971/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1971/221/text/O/D19710221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1971/221/text/I/D19710221.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1971/221",
+  "publisher": "DU",
+  "year": 1971,
+  "volume": 24,
+  "pos": 221,
+  "address": "WDU19710240221",
+  "displayAddress": "Dz.U. 1971 nr 24 poz. 221",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 1 września 1971 r. w sprawie powierzenia Sądowi Powiatowemu w Koźlu rozpoznawania spraw o rozwód.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-09-01",
+  "promulgation": "1971-09-30",
+  "entryIntoForce": "1971-10-01",
+  "validFrom": "1971-10-01",
+  "repealDate": "1973-07-01",
+  "changeDate": "2014-12-31T12:25:30",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "właściwość rzeczowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/95",
+     "date": "1973-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1958/210",
+     "date": "1971-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/296",
+     "art": "art. 16 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19710221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19710221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
