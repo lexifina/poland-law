@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/751",
+ "source_sha256": "ab0db7748a7f0c51e20c19b1e0b7ab8a11f0614a9be70ae2dc68b79f4339d773",
+ "in_force": "1999-04-26",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/751",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/751/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/751/text/O/D19990751.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/751/text/I/D19990751.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/751/text/T/D19990751L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1999/751/text/U/D19990751Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/751",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 66,
+  "pos": 751,
+  "address": "WDU19990660751",
+  "displayAddress": "Dz.U. 1999 nr 66 poz. 751",
+  "title": "Obwieszczenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 26 kwietnia 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roślin uprawnych.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-04-26",
+  "repealDate": "2002-10-14",
+  "changeDate": "2024-03-15T11:35:02",
+  "releasedBy": [
+   "MIN. ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska",
+   "ochrona roślin",
+   "rośliny",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/446"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/1398",
+     "date": "2002-10-14"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990751.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990751.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990751L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D19990751Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
