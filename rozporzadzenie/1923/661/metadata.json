@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/661",
+ "source_sha256": "a51792d5434b954599fb3d4260be1a17b80159ee97c117fa496ec598d1e3f818",
+ "in_force": "1923-08-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/661",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/661/text/O/D19230661.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/661/text/I/D19230661.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/661",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 84,
+  "pos": 661,
+  "address": "WDU19230840661",
+  "displayAddress": "Dz.U. 1923 nr 84 poz. 661",
+  "title": "Rozporządzenie Ministra Pracy i Opieki Społecznej, Ministra Spraw Wojskowych i Ministra Skarbu z dnia 11 sierpnia 1923 r. w przedmiocie kapitalizacji rent inwalidów wojennych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-08-11",
+  "entryIntoForce": "1923-08-25",
+  "validFrom": "1923-08-25",
+  "repealDate": "1927-07-30",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. SPRAW WOJSKOWYCH",
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1927/597",
+     "date": "1927-07-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1926/70",
+     "date": "1926-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/608"
+    },
+    {
+     "id": "DU/1921/195"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230661.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230661.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
