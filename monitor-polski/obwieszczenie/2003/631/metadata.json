@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/631",
+ "source_sha256": "a1fa7cfe94ccb1b280a558fd9f6ea5b3654140f56fcb99297d5b378c401f4d0b",
+ "in_force": "2003-09-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/631",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/631/text/O/M20030631.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/631/text/I/M20030631.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/631",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 42,
+  "pos": 631,
+  "address": "WMP20030420631",
+  "displayAddress": "M.P. 2003 nr 42 poz. 631",
+  "title": "Obwieszczenie Ministra Finansów z dnia 19 sierpnia 2003 r. w sprawie wysokości kwoty wymienionej w art. 262 par. 1 ustawy - Ordynacja podatkowa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-08-19",
+  "promulgation": "2003-09-05",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 262a par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030631.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030631.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
