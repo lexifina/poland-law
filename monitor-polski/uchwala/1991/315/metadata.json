@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/315",
+ "source_sha256": "817ccfc0edd0f825c6d2243a2e56587b3e4ed085e465511f13e355e996039f51",
+ "in_force": "1992-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/315",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/315/text/O/M19910315.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/315/text/I/M19910315.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/315",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 45,
+  "pos": 315,
+  "address": "WMP19910450315",
+  "displayAddress": "M.P. 1991 nr 45 poz. 315",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 1991 r. w sprawie powołania Prezesa Rady Ministrów.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-12-06",
+  "entryIntoForce": "1992-01-01",
+  "validFrom": "1992-01-01",
+  "repealDate": "1992-06-17",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Prezes Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1991/3",
+     "date": "1991-12-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/101"
+    },
+    {
+     "id": "DU/1976/29"
+    },
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 37 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1992/125",
+     "date": "1992-06-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910315.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910315.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
