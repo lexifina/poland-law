@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/103",
+ "source_sha256": "678486f75fa18000ee4d3be44f6a53a0531f24df0f5720d3ae76394a7a47505a",
+ "in_force": "1948-03-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/103/text/O/D19480103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/103/text/I/D19480103.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/103",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 13,
+  "pos": 103,
+  "address": "WDU19480130103",
+  "displayAddress": "Dz.U. 1948 nr 13 poz. 103",
+  "title": "Rozporządzenie Ministrów: Komunikacji, Administracji Publicznej i Ziem Odzyskanych z dnia 18 lutego 1948 r. wydane w porozumieniu z Ministrami Obrony Narodowej i Bezpieczeństwa Publicznego o zmianie rozporządzenia o wyglądzie zewnętrznym pojazdów mechanicznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-02-18",
+  "entryIntoForce": "1948-03-19",
+  "validFrom": "1948-03-19",
+  "repealDate": "1963-04-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ",
+   "MIN. ZIEM ODZYSKANYCH",
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1962/295",
+     "date": "1963-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1947/233",
+     "date": "1948-03-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/58"
+    },
+    {
+     "id": "DU/1921/656"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
