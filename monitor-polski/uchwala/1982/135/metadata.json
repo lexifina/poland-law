@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/135",
+ "source_sha256": "960a95d46e28c5cf5ec36bb7a392c1f11be6ef98bdb88327cc1c51f6d9e16bbb",
+ "in_force": "1982-07-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/135",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/135/text/O/M19820135.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/135/text/I/M19820135.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1982/135/text/T/M19820135L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/135",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 17,
+  "pos": 135,
+  "address": "WMP19820170135",
+  "displayAddress": "M.P. 1982 nr 17 poz. 135",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 6 lipca 1982 r. w sprawie regulaminu czynności Trybunału Stanu.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-07-06",
+  "entryIntoForce": "1982-07-21",
+  "validFrom": "1982-07-21",
+  "repealDate": "2022-03-07",
+  "changeDate": "2022-03-08T11:26:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm",
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2022/309",
+     "date": "2022-03-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1982/84"
+    },
+    {
+     "id": "DU/1969/96"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/84",
+     "art": "art. 21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820135.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820135.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19820135L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
