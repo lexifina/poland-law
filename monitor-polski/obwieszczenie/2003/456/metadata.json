@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/456",
+ "source_sha256": "1cffc39cb5a0be59eff5d803ab4594cb0e8812333171d8c514a95018859bc5b9",
+ "in_force": "2003-06-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/456",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/456/text/O/M20030456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/456/text/I/M20030456.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/456",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 34,
+  "pos": 456,
+  "address": "WMP20030340456",
+  "displayAddress": "M.P. 2003 nr 34 poz. 456",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 6 czerwca 2003 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-06-06",
+  "promulgation": "2003-06-30",
+  "changeDate": "2020-11-03T15:55:24",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc społeczna",
+   "waloryzacja",
+   "sprostowanie",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "MP/2003/326"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030456.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
