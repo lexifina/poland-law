@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/2005",
+ "source_sha256": "fb918de28517a4ed73d752dfa32d9aac83449af33514c76434ff721e31561b79",
+ "in_force": "2003-12-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/2005",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/2005/text/O/D20032005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/2005/text/I/D20032005.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/2005",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 206,
+  "pos": 2005,
+  "address": "WDU20032062005",
+  "displayAddress": "Dz.U. 2003 nr 206 poz. 2005",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 13 listopada 2003 r. w sprawie zasad naliczeń etatowych w Służbie Więziennej",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-11-13",
+  "promulgation": "2003-12-04",
+  "entryIntoForce": "2003-12-19",
+  "validFrom": "2003-12-19",
+  "repealDate": "2010-08-13",
+  "changeDate": "2014-12-31T12:25:59",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Służba Więzienna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1997/667",
+     "date": "2003-12-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/283"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/283",
+     "art": "art. 17 pkt 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2010/523",
+     "date": "2010-08-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20032005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20032005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
