@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/112",
+ "source_sha256": "4911eadf0bc403c73021d2291288b68b2bf77128f0127f2b104fcfabfb40af73",
+ "in_force": "1988-05-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/112",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/112/text/O/M19880112.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/112/text/I/M19880112.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/112",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 13,
+  "pos": 112,
+  "address": "WMP19880130112",
+  "displayAddress": "M.P. 1988 nr 13 poz. 112",
+  "title": "Zarządzenie Ministra Finansów z dnia 31 marca 1988 r. zmieniające zarządzenie w sprawie finansowania prac normalizacyjnych i wynagradzania za te prace.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-03-31",
+  "entryIntoForce": "1988-05-17",
+  "validFrom": "1988-05-17",
+  "repealDate": "1994-01-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "wynagrodzenia",
+   "normalizacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1984/47",
+     "date": "1988-05-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 13"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1993/251",
+     "date": "1994-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880112.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880112.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
