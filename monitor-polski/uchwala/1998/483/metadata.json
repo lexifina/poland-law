@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1998/483",
+ "source_sha256": "4ed8ca29f6247d6dfa56eb875eaa42ca6da78eef6aaa13c86a82363eccdc3d6a",
+ "in_force": "1998-10-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1998/483",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1998/483/text/O/M19980483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1998/483/text/I/M19980483.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1998/483/text/T/M19980483L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1998/483",
+  "publisher": "MP",
+  "year": 1998,
+  "volume": 34,
+  "pos": 483,
+  "address": "WMP19980340483",
+  "displayAddress": "M.P. 1998 nr 34 poz. 483",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 30 września 1998 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-09-30",
+  "entryIntoForce": "1998-10-22",
+  "validFrom": "1998-10-22",
+  "changeDate": "2022-11-18T11:58:01",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "objęte tekstem jednolitym M.P. z 1998 r. Nr 44, poz. 618 z dniem 30 grudnia 1998 r.",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1998/618"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1992/185",
+     "date": "1998-10-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19980483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19980483.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19980483L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
