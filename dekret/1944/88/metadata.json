@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/88",
+ "source_sha256": "e46c37d2d6655b2e237be9fcd31e8678246af8ecb6822ce20562556824a1f334",
+ "in_force": "1944-12-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/88",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/88/text/O/D19440088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/88/text/I/D19440088.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/88",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 16,
+  "pos": 88,
+  "address": "WDU19440160088",
+  "displayAddress": "Dz.U. 1944 nr 16 poz. 88",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 27 grudnia 1944 r. o tymczasowym uregulowaniu uposażeń pracowników państwowych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-12-27",
+  "entryIntoForce": "1944-12-29",
+  "validFrom": "1944-08-01",
+  "repealDate": "1946-05-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PRZEW. POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/175",
+     "date": "1946-05-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1945/267",
+     "date": "1945-10-01"
+    },
+    {
+     "id": "DU/1945/137",
+     "date": "1945-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440088.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
