@@ -1,0 +1,1 @@
+W celu wykorzystania możliwości gospodarczych oraz inicjatywy jednostek gospodarki nie uspołecznionej w zakresie zaspokajania potrzeb ludności zgodnie z potrzebami społecznymi i ogólnym rozwojem gospodarki narodowej oraz zapewnienia tym jednostkom jednakowych warunków działania z innymi jednostkami drobnej wytwórczości stanowi się, co następuje:
