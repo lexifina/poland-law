@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/223",
+ "source_sha256": "bf4830f6d90d0cd460abcbcdbf99fe8cdf88b6edc79d3967e90e3764f0e1ea75",
+ "in_force": "1933-08-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/223/text/O/M19330223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/223/text/I/M19330223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/223",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 191,
+  "pos": 223,
+  "address": "WMP19331910223",
+  "displayAddress": "M.P. 1933 nr 191 poz. 223",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 26 lipca 1933 r. o wydzieleniu miasta Borysławia w województwie lwowskiem z drohobyckiego powiatowego związku samorzadowego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-07-26",
+  "promulgation": "1933-08-22",
+  "changeDate": "2023-03-02T13:20:46",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miasta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/294"
+    },
+    {
+     "id": "DU/1919/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/294",
+     "art": "art. 85"
+    },
+    {
+     "id": "DU/1919/141",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
