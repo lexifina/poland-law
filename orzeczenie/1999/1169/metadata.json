@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1169",
+ "source_sha256": "cdd72d555124bb161cc3ef4f8ebda1c63fb1b30dcf40687fc26090c7b9d4c8d5",
+ "in_force": "1999-12-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 916 words, parsed 93; at 93: 'Generalnego , o stwierdzenie : I . z wniosków Konfederacji'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1169",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1169/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1169/text/O/D19991169.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1169/text/I/D19991169.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1169/text/T/D19991169L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1169",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 99,
+  "pos": 1169,
+  "address": "WDU19990991169",
+  "displayAddress": "Dz.U. 1999 nr 99 poz. 1169",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 7 grudnia 1999 r. sygn. akt K. 6/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-07",
+  "entryIntoForce": "1999-12-14",
+  "validFrom": "1999-12-14",
+  "changeDate": "2024-03-15T11:34:44",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "górnictwo",
+   "wynagrodzenia przeciętne",
+   "górnicze prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/1112"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1961/218"
+    },
+    {
+     "id": "DU/1958/126"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1995/2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991169.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991169.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991169L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
