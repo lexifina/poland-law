@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1993/89",
+ "source_sha256": "4d137adc6da5442b67b89734eea1722e9a959374b34ecab5af0c7e2d1405a20a",
+ "in_force": "1993-03-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1993/89",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1993/89/text/O/M19930089.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1993/89/text/I/M19930089.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1993/89/text/T/M19930089L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1993/89",
+  "publisher": "MP",
+  "year": 1993,
+  "volume": 13,
+  "pos": 89,
+  "address": "WMP19930130089",
+  "displayAddress": "M.P. 1993 nr 13 poz. 89",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 1993 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1993-03-06",
+  "entryIntoForce": "1993-03-12",
+  "validFrom": "1993-03-12",
+  "changeDate": "2026-05-07T10:16:53",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "objęte tekstem jednolitym M.P. z 1998 r. Nr 44, poz.618 z dniem 30 grudnia 1998 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1992/185",
+     "date": "1993-03-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1992/426"
+    },
+    {
+     "id": "DU/1982/84"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19930089.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19930089.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19930089L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
