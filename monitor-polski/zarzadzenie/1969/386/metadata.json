@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/386",
+ "source_sha256": "4340fe3f234287811e383633515871cbce2588b2a28ca047fc3729f0fc186238",
+ "in_force": "1969-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/386",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/386/text/O/M19690386.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/386/text/I/M19690386.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/386",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 50,
+  "pos": 386,
+  "address": "WMP19690500386",
+  "displayAddress": "M.P. 1969 nr 50 poz. 386",
+  "title": "Zarządzenie Ministra Przemysłu Lekkiego z dnia 10 listopada 1969 r. zmieniające zarządzenie w sprawie obrotu niektórymi skórami futerkowymi w stanie surowym.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-11-10",
+  "entryIntoForce": "1969-12-01",
+  "validFrom": "1969-12-01",
+  "repealDate": "1983-07-16",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU LEKKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/136",
+     "date": "1983-07-16"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/219",
+     "date": "1969-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1962/217"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1962/217",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690386.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690386.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
