@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/189",
+ "source_sha256": "597f1ad774d8749628e0167c2f47f9548d0e26266bd6dc20529d1494c4a9cf7e",
+ "in_force": "2002-03-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/189",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/189/text/O/M20020189.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/189/text/I/M20020189.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/189",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 10,
+  "pos": 189,
+  "address": "WMP20020100189",
+  "displayAddress": "M.P. 2002 nr 10 poz. 189",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 5 marca 2002 r. o zwolnieniu stanowiska sędziowskiego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-03-05",
+  "promulgation": "2002-03-15",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020189.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020189.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
