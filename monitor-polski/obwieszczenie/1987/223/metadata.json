@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/223",
+ "source_sha256": "5dd0c0017ee4e41003ee8bd7e675df4145f44b75220eda503fe42ff4605c1a73",
+ "in_force": "1987-09-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/223/text/O/M19870223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/223/text/I/M19870223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/223",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 28,
+  "pos": 223,
+  "address": "WMP19870280223",
+  "displayAddress": "M.P. 1987 nr 28 poz. 223",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 15 sierpnia 1987 r. w sprawie ogłoszenia zmian w wykazie obowiązków sprawozdawczych ustalonych przez Główny Urząd Statystyczny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-08-15",
+  "entryIntoForce": "1987-09-15",
+  "validFrom": "1987-07-31",
+  "repealDate": "1989-12-29",
+  "changeDate": "2019-05-10T11:29:00",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/350",
+     "date": "1989-12-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1986/104",
+     "date": "1987-08-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/58",
+     "art": "art. 16 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
