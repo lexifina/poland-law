@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/618",
+ "source_sha256": "4c6150be62e51be039f4103dda3cf8118d11f3d6c902ce5f060d7a7014d44dea",
+ "in_force": "1926-10-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/618",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/618/text/O/D19260618.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/618/text/I/D19260618.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/618",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 106,
+  "pos": 618,
+  "address": "WDU19261060618",
+  "displayAddress": "Dz.U. 1926 nr 106 poz. 618",
+  "title": "Rozporządzenie Ministra Komunikacji z dnia 22 października 1926 r. w sprawie otwarcia ruchu tymczasowego na linji Kalety-Podzamcze.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-10-22",
+  "repealDate": "1927-02-15",
+  "changeDate": "2014-12-31T12:22:27",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1927/90",
+     "date": "1927-02-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/567"
+    },
+    {
+     "id": "DU/1924/580"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260618.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260618.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
