@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/315",
+ "source_sha256": "96d7b82fde43d7cd2c2b692d6b6479bcea3718f1237207c0a8738ba7329be231",
+ "in_force": "1920-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/315",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/315/text/O/D19200315.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/315/text/I/D19200315.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/315",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 51,
+  "pos": 315,
+  "address": "WDU19200510315",
+  "displayAddress": "Dz.U. 1920 nr 51 poz. 315",
+  "title": "Rozporządzenie Ministra Kolei Żelaznych w przedmiocie zmian i uzupełnień \"Taryfy na przewóz osób, psów, bagażu i przesyłek nadzwyczajnych\" oraz \"Taryfy ogólnej na przewóz towarów, zwłok i zwierząt\", obowiązujących od dnia 1 czerwca 1920 r.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-06-18",
+  "entryIntoForce": "1920-07-01",
+  "validFrom": "1920-07-01",
+  "repealDate": "1922-08-01",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. KOLEI ŻELAZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1922/428",
+     "date": "1922-08-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/244",
+     "date": "1920-07-01"
+    },
+    {
+     "id": "DU/1920/243",
+     "date": "1920-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/152"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19200315.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200315.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
