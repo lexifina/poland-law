@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1963/282",
+ "source_sha256": "def9a394edb16155e77ea3f535f1f7da9c888952751403c6591eadebaab11e5c",
+ "in_force": "1963-06-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1963/282",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1963/282/text/O/D19630282.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1963/282/text/I/D19630282.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1963/282",
+  "publisher": "DU",
+  "year": 1963,
+  "volume": 51,
+  "pos": 282,
+  "address": "WDU19630510282",
+  "displayAddress": "Dz.U. 1963 nr 51 poz. 282",
+  "title": "Protokół do Międzynarodowej Konwencji o Rybołówstwie na Północno-Zachodnim Atlantyku, podpisanej w Waszyngtonie dnia 8 lutego 1949 r., sporządzony w Waszyngtonie dnia 25 czerwca 1956 r.",
+  "type": "Protokół",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-06-03",
+  "repealDate": "1979-12-31",
+  "changeDate": "2014-12-31T12:22:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1980/107",
+     "date": "1979-12-31"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1976/46"
+    },
+    {
+     "id": "DU/1967/147"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19630282.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19630282.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
