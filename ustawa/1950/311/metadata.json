@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/311",
+ "source_sha256": "463c93f15dbd5938bf6683c20c640a5c8f2d5bc8cbe6d81188427bc44b30b84a",
+ "in_force": "1950-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 5467 words, parsed 5439; at 5439: 'zostało uczynione na piśmie . Przepisy końcowe Art . 118'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/311",
+  "html": "https://eli.gov.pl/api/acts/DU/1950/311/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/311/text/O/D19500311.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/311/text/I/D19500311.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/311",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 34,
+  "pos": 311,
+  "address": "WDU19500340311",
+  "displayAddress": "Dz.U. 1950 nr 34 poz. 311",
+  "title": "Ustawa z dnia 18 lipca 1950 r. Przepisy ogólne prawa cywilnego.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-07-18",
+  "entryIntoForce": "1950-09-30",
+  "validFrom": "1950-09-30",
+  "repealDate": "1965-01-01",
+  "changeDate": "2024-03-15T11:02:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Art. 52, 56, 63, 94, 95 i 105-117 utraciły moc z dniem 1 stycznia 1975 r. - Dz. U. z 1974 r. nr 24 poz. 142.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1964/94",
+     "date": "1965-01-01"
+    }
+   ],
+   "Przepisy wprowadzające": [
+    {
+     "id": "DU/1950/312"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19500311.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500311.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
