@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/181",
+ "source_sha256": "ca028e365ed424fb35fb74c479ebae10f5d8332b9ffd5e628931b46f5a92a625",
+ "in_force": "1958-05-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/181/text/O/M19580181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/181/text/I/M19580181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/181",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 31,
+  "pos": 181,
+  "address": "WMP19580310181",
+  "displayAddress": "M.P. 1958 nr 31 poz. 181",
+  "title": "Zarządzenie Prezesa Komitetu do Spraw Urbanistyki i Architektury z dnia 18 marca 1958 r. w sprawie pozwoleń na prowadzenie robót budowlanych przez jednostki gospodarki państwowej.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-03-18",
+  "entryIntoForce": "1958-05-02",
+  "validFrom": "1958-05-02",
+  "repealDate": "1960-03-04",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "PREZ. KOMITETU DO SPRAW URBANISTYKI I ARCHITEKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/4"
+    },
+    {
+     "id": "DU/1957/16"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/4",
+     "art": "par. 3 ust. 3"
+    },
+    {
+     "id": "DU/1957/16",
+     "art": "par. 1 ust. 1 pkt 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1960/51",
+     "date": "1960-03-04"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
