@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/398",
+ "source_sha256": "8f61998c4f0283aeb9c688c747bb8f5ae25bc6ea9400f25f29e5b9b3fee1fd1e",
+ "in_force": "2002-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/398",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/398/text/O/M20020398.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/398/text/I/M20020398.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/MP/2002/398/text/U/M20020398Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/398",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 23,
+  "pos": 398,
+  "address": "WMP20020230398",
+  "displayAddress": "M.P. 2002 nr 23 poz. 398",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2002 r. w sprawie ogłoszenia jednolitego tekstu uchwały Sejmu Rzeczypospolitej Polskiej - Regulamin Sejmu Rzeczypospolitej Polskiej.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-05-29",
+  "promulgation": "2002-06-15",
+  "expirationDate": "2009-01-28",
+  "changeDate": "2026-06-10T10:08:08",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/2002/162"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/2002/162",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1992/185"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020398.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020398.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20020398Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
