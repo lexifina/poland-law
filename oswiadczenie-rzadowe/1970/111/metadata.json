@@ -1,0 +1,58 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1970/111",
+ "source_sha256": "2d73f8444356c673e782403ab63151563ba562928e689180124ec1c3e0d1b090",
+ "in_force": "1970-04-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1970/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1970/111/text/O/D19700111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1970/111/text/I/D19700111.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1970/111",
+  "publisher": "DU",
+  "year": 1970,
+  "volume": 12,
+  "pos": 111,
+  "address": "WDU19700120111",
+  "displayAddress": "Dz.U. 1970 nr 12 poz. 111",
+  "title": "Oświadczenie rządowe z dnia 16 kwietnia 1970 r. w sprawie ratyfikacji przez Polskę Międzynarodowego porozumienia cukrowniczego z 1968 roku, otwartego do podpisu w Nowym Jorku od dnia 3 do dnia 24 grudnia 1968 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1970-04-16",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratyfikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1970/110"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19700111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19700111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
