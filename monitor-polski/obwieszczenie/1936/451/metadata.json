@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/451",
+ "source_sha256": "e69e640e1f18fc654abe642b5bb26369bd0beb5ea720eba44703350baf6ecece",
+ "in_force": "1936-10-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/451",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/451/text/O/M19360451.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/451/text/I/M19360451.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/451",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 252,
+  "pos": 451,
+  "address": "WMP19362520451",
+  "displayAddress": "M.P. 1936 nr 252 poz. 451",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 28 października 1936 r. wydane w porozumieniu z Ministrami: Skarbu oraz Rolnictwa i Reform Rolnych o wydawaniu zaświadczeń na wolny od cła wywóz masła.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-10-28",
+  "promulgation": "1936-10-29",
+  "repealDate": "1938-09-01",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo",
+   "artykuły spożywcze",
+   "taryfy celne, wywóz i przywóz",
+   "zaświadczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1938/364",
+     "date": "1938-09-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/569"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/873"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/873",
+     "art": "par. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360451.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360451.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
