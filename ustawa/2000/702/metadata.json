@@ -1,0 +1,124 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/702",
+ "source_sha256": "f07b001f6836037388bdfb79a711233ea863fc9ba8fb9197ab98fe88894998eb",
+ "in_force": "2000-08-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/702",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/702/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/702/text/O/D20000702.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/702/text/I/D20000702.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/702/text/T/D20000702L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/702",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 60,
+  "pos": 702,
+  "address": "WDU20000600702",
+  "displayAddress": "Dz.U. 2000 nr 60 poz. 702",
+  "title": "Ustawa z dnia 29 czerwca 2000 r. o zmianie ustawy o obligacjach oraz niektórych innych ustaw.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-29",
+  "promulgation": "2000-07-27",
+  "entryIntoForce": "2000-08-27",
+  "validFrom": "2000-08-27",
+  "changeDate": "2024-03-15T09:49:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "rejestry",
+   "fundusze emerytalne",
+   "rejestr zastawów",
+   "handlowe prawo",
+   "listy hipoteczne i zastawne, długów gruntowych i rentowych",
+   "papiery wartościowe",
+   "banki hipoteczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1297.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1297",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1297",
+    "number": "1297",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2001/1300"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2000/1037",
+     "date": "2001-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/940",
+     "date": "2000-08-27"
+    },
+    {
+     "id": "DU/1997/934",
+     "date": "2000-08-27"
+    },
+    {
+     "id": "DU/1997/769",
+     "date": "2000-08-27"
+    },
+    {
+     "id": "DU/1997/754",
+     "date": "2000-08-27"
+    },
+    {
+     "id": "DU/1996/703",
+     "date": "2000-08-27"
+    },
+    {
+     "id": "DU/1995/420",
+     "date": "2000-08-27"
+    },
+    {
+     "id": "DU/1934/502",
+     "date": "2000-08-27"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000702.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000702.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000702L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
