@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/611",
+ "source_sha256": "ac5e84f6d9a332f22969bf6f38cfd719ec4bf31b3ad9aa73d1182793fb5342a7",
+ "in_force": "1997-09-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/611",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/611/text/O/D19970611.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/611/text/I/D19970611.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/611",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 99,
+  "pos": 611,
+  "address": "WDU19970990611",
+  "displayAddress": "Dz.U. 1997 nr 99 poz. 611",
+  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 8 sierpnia 1997 r. zmieniające rozporządzenie w sprawie wykonywania niektórych zawodów filmowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-08-08",
+  "entryIntoForce": "1997-09-05",
+  "validFrom": "1997-09-05",
+  "repealDate": "2000-07-13",
+  "changeDate": "2014-12-31T12:25:47",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "bhp",
+   "kinematografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/610",
+     "date": "2000-07-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/392",
+     "date": "1997-09-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1987/127"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1987/127",
+     "art": "art. 46 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19970611.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970611.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
