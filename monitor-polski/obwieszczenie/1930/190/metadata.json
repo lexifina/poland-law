@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/190",
+ "source_sha256": "183f0009cf6d99a7863fa9c24742dbd69fba247dba7e5c88767e6ea40e0ce189",
+ "in_force": "1930-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/190",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/190/text/O/M19300190.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/190/text/I/M19300190.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/190",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 131,
+  "pos": 190,
+  "address": "WMP19301310190",
+  "displayAddress": "M.P. 1930 nr 131 poz. 190",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 31 maja 1930 r. wydane w porozumieniu z Ministrem Rolnictwa o wykazie instytucyj, za pośrednictwem których będą wydawane zaświadczenia Ministerstwa Przemysłu i Handlu na bezcłowy wywóz szczeciny, włosia i sierści oraz o trybie postępowania przy wydawaniu tychże zaświadczeń",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-05-31",
+  "promulgation": "1930-06-07",
+  "repealDate": "1939-04-21",
+  "changeDate": "2014-12-31T12:26:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1939/182",
+     "date": "1939-04-21"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1931/63",
+     "date": "1932-01-01"
+    },
+    {
+     "id": "MP/1930/262",
+     "date": "1930-07-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1930/356"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300190.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300190.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
