@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/705",
+ "source_sha256": "8604077d6f0fb3d0d1d7313fc68cbcb639f67e581aa690222294ae5f8bdfc2de",
+ "in_force": "1930-12-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/705",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/705/text/O/D19300705.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/705/text/I/D19300705.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/705",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 89,
+  "pos": 705,
+  "address": "WDU19300890705",
+  "displayAddress": "Dz.U. 1930 nr 89 poz. 705",
+  "title": "Obwieszczenie Ministra Komunikacji z dnia 5 grudnia 1930 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej o utworzeniu przedsiębiorstwa \"Polskie Koleje Państwowe\".",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-12-05",
+  "promulgation": "1930-12-18",
+  "repealDate": "1960-12-08",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koleje"
+  ],
+  "keywordsNames": [
+   "Polskie Koleje Państwowe"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1960/311",
+     "date": "1960-12-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/641"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/641",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1926/568"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300705.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300705.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
