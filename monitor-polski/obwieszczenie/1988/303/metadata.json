@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/303",
+ "source_sha256": "3503a459dd0f4ec2b275fc3f6fb3e4dc2c120b28162edaaf5fbd352160ff8a28",
+ "in_force": "1988-12-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/303/text/O/M19880303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/303/text/I/M19880303.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/303",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 33,
+  "pos": 303,
+  "address": "WMP19880330303",
+  "displayAddress": "M.P. 1988 nr 33 poz. 303",
+  "title": "Obwieszczenie Ministra Edukacji Narodowej z dnia 25 listopada 1988 r. w sprawie ogłoszenia jednolitego tekstu uchwały nr 97 Rady Ministrów z dnia 8 sierpnia 1983 r. w sprawie wynagradzania nauczycieli.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-11-25",
+  "entryIntoForce": "1988-12-19",
+  "validFrom": "1988-12-19",
+  "repealDate": "1989-07-01",
+  "changeDate": "2017-12-07T15:33:06",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "wynagrodzenia",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/222",
+     "date": "1989-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1988/101"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1988/101",
+     "art": "par. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1983/153"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
