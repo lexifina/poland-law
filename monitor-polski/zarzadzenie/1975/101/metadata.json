@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1975/101",
+ "source_sha256": "e47c5d0ab9a1c0bde7a621b90dc74325975b011ed238e23ce00b86c77f211856",
+ "in_force": "1975-05-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1975/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1975/101/text/O/M19750101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1975/101/text/I/M19750101.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1975/101",
+  "publisher": "MP",
+  "year": 1975,
+  "volume": 16,
+  "pos": 101,
+  "address": "WMP19750160101",
+  "displayAddress": "M.P. 1975 nr 16 poz. 101",
+  "title": "Zarządzenie Ministra Finansów z dnia 23 maja 1975 r. w sprawie ustalenia wzoru i odcinka banknotu 1.000 zł.",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1975-05-23",
+  "entryIntoForce": "1975-05-28",
+  "validFrom": "1975-05-28",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pieniężny system"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1979/33",
+     "date": "1979-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/356"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/356",
+     "art": "art. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19750101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19750101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
