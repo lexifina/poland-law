@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1130",
+ "source_sha256": "6216df89caa6e2a21eac657dd07545af8990a4d5b13a9b02cc43d8badac8202f",
+ "in_force": "2001-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 732 words, parsed 352; at 352: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 15'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1130",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1130/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1130/text/O/D20011130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1130/text/I/D20011130.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1130/text/T/D20011130L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1130",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 103,
+  "pos": 1130,
+  "address": "WDU20011031130",
+  "displayAddress": "Dz.U. 2001 nr 103 poz. 1130",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 września 2001 r. sygn. akt SK. 11/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-09-14",
+  "promulgation": "2001-09-24",
+  "entryIntoForce": "2001-09-24",
+  "validFrom": "2001-09-24",
+  "changeDate": "2024-03-15T09:59:36",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "opłaty lokalne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011130.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011130L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
