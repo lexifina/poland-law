@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/274",
+ "source_sha256": "4f5e7383c5ca48ab5dd5d22ad0eca126c2e9795617938153dbe991538188aa6d",
+ "in_force": "1981-12-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/274",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/274/text/O/M19810274.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/274/text/I/M19810274.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/274",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 30,
+  "pos": 274,
+  "address": "WMP19810300274",
+  "displayAddress": "M.P. 1981 nr 30 poz. 274",
+  "title": "Zarządzenie Ministra Obrony Narodowej z dnia 12 grudnia 1981 r. w sprawie okresowego ograniczenia ruchu lotniczego w przestrzeni powietrznej Polskiej Rzeczypospolitej Ludowej.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-12-12",
+  "entryIntoForce": "1981-12-14",
+  "validFrom": "1981-12-13",
+  "repealDate": "1983-07-22",
+  "changeDate": "2024-01-08T11:40:42",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny",
+   "transport lotniczy",
+   "lotnictwo cywilne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1981/154"
+    },
+    {
+     "id": "DU/1962/153"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1981/154",
+     "art": "art. 37"
+    },
+    {
+     "id": "DU/1962/153",
+     "art": "art. 45 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/178",
+     "date": "1983-07-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810274.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810274.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
