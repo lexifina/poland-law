@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/8",
+ "source_sha256": "8d0421108806ff19fa1c01cb800d90042887acf676fa7c203d5a39938b4a19a7",
+ "in_force": "1945-01-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/8",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/8/text/O/D19450008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/8/text/I/D19450008.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/8",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 3,
+  "pos": 8,
+  "address": "WDU19450030008",
+  "displayAddress": "Dz.U. 1945 nr 3 poz. 8",
+  "title": "Dekret z dnia 14 stycznia 1945 r. o poborze 50%-go dodatku wojennego do państwowego podatku dochodowego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-01-14",
+  "entryIntoForce": "1945-01-19",
+  "validFrom": "1945-01-19",
+  "repealDate": "1946-01-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/14",
+     "date": "1946-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/6"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
