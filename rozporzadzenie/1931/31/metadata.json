@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/31",
+ "source_sha256": "97380fbc62e0d9793a111bdda3e6a9ea0f70ba6319423e929bd83c85e7345a9b",
+ "in_force": "1931-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/31/text/O/D19310031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/31/text/I/D19310031.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/31",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 6,
+  "pos": 31,
+  "address": "WDU19310060031",
+  "displayAddress": "Dz.U. 1931 nr 6 poz. 31",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 31 grudnia 1930 r. w sprawie częściowej zmiany taryfy pocztowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-12-31",
+  "promulgation": "1931-01-26",
+  "entryIntoForce": "1931-01-26",
+  "validFrom": "1931-01-26",
+  "repealDate": "1931-10-15",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/711",
+     "date": "1931-10-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1929/181",
+     "date": "1931-01-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/26"
+    },
+    {
+     "id": "DU/1924/584"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/26",
+     "art": "art. 17"
+    },
+    {
+     "id": "DU/1924/584",
+     "art": "art. 17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
