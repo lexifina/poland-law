@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/430",
+ "source_sha256": "e48814a0dbdee6f1814bc2cd18c0d2c777cf123eba7daee9e6a57d9f592cc31e",
+ "in_force": "1937-11-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/430",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/430/text/O/M19370430.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/430/text/I/M19370430.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/430",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 276,
+  "pos": 430,
+  "address": "WMP19372760430",
+  "displayAddress": "M.P. 1937 nr 276 poz. 430",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 24 listopada 1937 r. o wartości jednego grama czystego złota.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-11-24",
+  "promulgation": "1937-11-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/694"
+    },
+    {
+     "id": "DU/1934/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/509",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370430.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370430.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
