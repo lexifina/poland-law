@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/84",
+ "source_sha256": "2c2e64f92eff8d8baf9d783f8974d992af1695ece878d78f7acb66eb9a9aaae1",
+ "in_force": "1930-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/84",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/84/text/O/M19300084.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/84/text/I/M19300084.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/84",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 59,
+  "pos": 84,
+  "address": "WMP19300590084",
+  "displayAddress": "M.P. 1930 nr 59 poz. 84",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 7 marca 1930 r.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-03-07",
+  "promulgation": "1930-03-12",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300084.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300084.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
