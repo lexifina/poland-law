@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/600",
+ "source_sha256": "c52e449a78806ba6ac4c9a19d75b1ec9751d9ee7df3df41006764f05e0cd1a5d",
+ "in_force": "1930-11-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/600",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/600/text/O/D19300600.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/600/text/I/D19300600.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/600",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 76,
+  "pos": 600,
+  "address": "WDU19300760600",
+  "displayAddress": "Dz.U. 1930 nr 76 poz. 600",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 października 1930 r. o częściowej zmianie ustawy z dnia 18 marca 1925 r. o izbach morskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-10-30",
+  "promulgation": "1930-11-07",
+  "entryIntoForce": "1930-11-07",
+  "validFrom": "1930-11-07",
+  "repealDate": "1962-01-01",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/320",
+     "date": "1962-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1925/243",
+     "date": "1930-11-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 44 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300600.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300600.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
