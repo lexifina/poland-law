@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/121",
+ "source_sha256": "69b2f6eddfa2bad0ae63fddef396da30b619c379cd7787c0bb9f9054890755f0",
+ "in_force": "1946-05-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/121/text/O/D19460121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/121/text/I/D19460121.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/121",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 18,
+  "pos": 121,
+  "address": "WDU19460180121",
+  "displayAddress": "Dz.U. 1946 nr 18 poz. 121",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 24 kwietnia 1946 r. w sprawie ograniczenia obrotu mięsem, jego przetworami oraz tłuszczami zwierzęcymi.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-04-24",
+  "entryIntoForce": "1946-05-23",
+  "validFrom": "1946-05-23",
+  "repealDate": "1947-06-13",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [
+   "MIN. APROWIZACJI I HANDLU"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1946/68",
+     "date": "1946-05-23"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1944/49"
+    },
+    {
+     "id": "DU/1927/468"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/49"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/218",
+     "date": "1947-06-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460121.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
