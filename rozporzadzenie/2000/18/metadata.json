@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/18",
+ "source_sha256": "08a56fab4fe7e4dbe54872866dc3aef6fdd8591f4101852185d1e983ad59d21a",
+ "in_force": "1999-12-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/18",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/18/text/O/D20000018.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/18/text/I/D20000018.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/18/text/T/D20000018L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/18",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 2,
+  "pos": 18,
+  "address": "WDU20000020018",
+  "displayAddress": "Dz.U. 2000 nr 2 poz. 18",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 1 grudnia 1999 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-01",
+  "promulgation": "2000-01-17",
+  "entryIntoForce": "1999-12-25",
+  "validFrom": "1999-12-25",
+  "repealDate": "2001-09-01",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/625",
+     "date": "2001-09-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1992/86",
+     "date": "2000-01-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/129",
+     "date": "1999-12-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 22 ust. 2 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000018.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000018.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000018L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
