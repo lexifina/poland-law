@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/228",
+ "source_sha256": "bec3ac382a2243a8381dddb1ff68feb982761f38207cd990abcd84c332f19475",
+ "in_force": "1964-07-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/228",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/228/text/O/M19640228.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/228/text/I/M19640228.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/228",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 46,
+  "pos": 228,
+  "address": "WMP19640460228",
+  "displayAddress": "M.P. 1964 nr 46 poz. 228",
+  "title": "Zarządzenie Ministrów Komunikacji i Spraw Wewnętrznych z dnia 9 lipca 1964 r. w sprawie skrócenia czasu praktyki zawodowej wymaganej od kierowców ubiegających się o prawo jazdy kategorii II.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-07-09",
+  "entryIntoForce": "1964-07-23",
+  "validFrom": "1964-07-23",
+  "repealDate": "1966-01-01",
+  "changeDate": "2016-09-06T16:33:26",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH",
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1966/18",
+     "date": "1966-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/295"
+    },
+    {
+     "id": "DU/1961/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/295",
+     "art": "par. 239 ust. 4"
+    },
+    {
+     "id": "DU/1961/295",
+     "art": "art. 20 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640228.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640228.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
