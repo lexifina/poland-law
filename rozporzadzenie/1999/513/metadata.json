@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/513",
+ "source_sha256": "6b0abab6dc4db8ad6d464f498380accff8e6d1b943a38ccf4c472b1825a0e12f",
+ "in_force": "1999-06-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/513",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/513/text/O/D19990513.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/513/text/I/D19990513.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/513/text/T/D19990513L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/513",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 50,
+  "pos": 513,
+  "address": "WDU19990500513",
+  "displayAddress": "Dz.U. 1999 nr 50 poz. 513",
+  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 24 maja 1999 r. zmieniające rozporządzenie w sprawie wykazu bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasad i trybu i ich przekazywania.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-05-24",
+  "entryIntoForce": "1999-06-17",
+  "validFrom": "1999-06-17",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "biblioteki",
+   "wydawnictwa i publikacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/161",
+     "date": "1999-06-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/722"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/722",
+     "art": "art. 3 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990513.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990513.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990513L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
