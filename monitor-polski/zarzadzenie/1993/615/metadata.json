@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1993/615",
+ "source_sha256": "656b5eef56c5b648cdf9af0c9647f24fb16d2a119b0656051ac676ccad69bccc",
+ "in_force": "1994-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1993/615",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1993/615/text/O/M19930615.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1993/615/text/I/M19930615.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1993/615",
+  "publisher": "MP",
+  "year": 1993,
+  "volume": 69,
+  "pos": 615,
+  "address": "WMP19930690615",
+  "displayAddress": "M.P. 1993 nr 69 poz. 615",
+  "title": "Zarządzenie Ministra Pracy i Polityki Socjalnej z dnia 22 grudnia 1993 r. zmieniające zarządzenie w sprawie najniższego wynagrodzenia pracowników.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-12-22",
+  "entryIntoForce": "1994-01-01",
+  "validFrom": "1994-01-01",
+  "repealDate": "1996-07-01",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "wynagrodzenia najniższe",
+   "prawo pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1996/388",
+     "date": "1996-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1990/256",
+     "date": "1994-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/141",
+     "art": "art. 79"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19930615.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19930615.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
