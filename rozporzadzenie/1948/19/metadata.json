@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/19",
+ "source_sha256": "9bd656546f7b89ef9e39f3545ac426abd19828ca0b746ac6ca078253f56438e6",
+ "in_force": "1948-01-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/19",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/19/text/O/D19480019.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/19/text/I/D19480019.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/19",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 3,
+  "pos": 19,
+  "address": "WDU19480030019",
+  "displayAddress": "Dz.U. 1948 nr 3 poz. 19",
+  "title": "Rozporządzenie Ministrów: Administracji Publicznej, Ziem Odzyskanych i Sprawiedliwości z dnia 31 grudnia 1947 r. o zmianie rozporządzenia Ministrów Administracji Publicznej i Sprawiedliwości w sprawie wykonania prawa o aktach stanu cywilnego oraz przepisów wprowadzających to prawo.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-12-31",
+  "entryIntoForce": "1948-01-23",
+  "validFrom": "1948-01-23",
+  "repealDate": "1955-08-30",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. ZIEM ODZYSKANYCH",
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/304",
+     "date": "1948-01-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/272"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1955/151",
+     "date": "1955-08-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480019.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480019.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
