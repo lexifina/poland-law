@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/112",
+ "source_sha256": "b1f937f0c34f1b03e74f95b1cc709913652819ea73ef2501380c6d5f35caf9f2",
+ "in_force": "1990-03-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/112",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/112/text/O/D19900112.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/112/text/I/D19900112.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/112",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 19,
+  "pos": 112,
+  "address": "WDU19900190112",
+  "displayAddress": "Dz.U. 1990 nr 19 poz. 112",
+  "title": "Rozporządzenie Rady Ministrów z dnia 5 marca 1990 r. w sprawie zawieszenia w 1990 r. pobierania ceł od niektórych towarów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-03-05",
+  "promulgation": "1990-03-29",
+  "entryIntoForce": "1990-03-29",
+  "validFrom": "1990-03-29",
+  "repealDate": "1990-06-29",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "handel zagraniczny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1990/240",
+     "date": "1990-06-29"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1990/2",
+     "date": "1990-03-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/445"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/445",
+     "art": "art. 4 ust. 5 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900112.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900112.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
