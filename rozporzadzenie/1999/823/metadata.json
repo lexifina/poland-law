@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/823",
+ "source_sha256": "d3433593e2d32c0577e8900dd63793023929feed7622fb2384b4a808880bdccf",
+ "in_force": "1999-09-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/823",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/823/text/O/D19990823.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/823/text/I/D19990823.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/823/text/T/D19990823L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/823",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 73,
+  "pos": 823,
+  "address": "WDU19990730823",
+  "displayAddress": "Dz.U. 1999 nr 73 poz. 823",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 27 sierpnia 1999 r. w sprawie wysokości opłaty od kasacji w sprawach karnych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-27",
+  "entryIntoForce": "1999-09-18",
+  "validFrom": "1999-09-18",
+  "repealDate": "2002-12-31",
+  "changeDate": "2021-06-10T15:19:52",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kasacja",
+   "kodeks postępowania karnego",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/556"
+    },
+    {
+     "id": "DU/1997/555"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/556",
+     "art": "art. 5 par. 2"
+    },
+    {
+     "id": "DU/1997/555",
+     "art": "art. 527 par. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/1801",
+     "date": "2002-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990823.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990823.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990823L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
