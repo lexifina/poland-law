@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/121",
+ "source_sha256": "3ecb70611b334275a4d8e253ddaeb4e80259bedbe6f6f46a3be09e8975f72792",
+ "in_force": "1947-02-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/121/text/O/D19470121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/121/text/I/D19470121.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/121",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 28,
+  "pos": 121,
+  "address": "WDU19470280121",
+  "displayAddress": "Dz.U. 1947 nr 28 poz. 121",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 28 lutego 1947 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 13 listopada 1945 r. o zasiłkach i pomocy dla ofiar wrogów demokratycznego ustroju Polski.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-02-28",
+  "expirationDate": "1953-05-30",
+  "changeDate": "2017-11-23T15:43:33",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/22"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1945/294"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470121.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
