@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/861",
+ "source_sha256": "cb76dde387fef3aa3c2c1efaeb89810938defe32da33f19d8ed2b75effd04e5a",
+ "in_force": "2004-12-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/861",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/861/text/O/M20040861.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/861/text/I/M20040861.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/861",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 51,
+  "pos": 861,
+  "address": "WMP20040510861",
+  "displayAddress": "M.P. 2004 nr 51 poz. 861",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 listopada 2004 r. nr 113-34-04 o zmianie w składzie Rady Ministrów",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-11-24",
+  "promulgation": "2004-12-02",
+  "changeDate": "2020-10-07T10:45:46",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stanowiska",
+   "ministrowie",
+   "administracja rządowa",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 161"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040861.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040861.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
