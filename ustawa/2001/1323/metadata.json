@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1323",
+ "source_sha256": "b268098efc03fab89e6d691d085c2bd752f473b4033f8bf9aff581d076895332",
+ "in_force": "2001-11-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1323",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1323/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1323/text/O/D20011323.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1323/text/I/D20011323.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1323/text/T/D20011323L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1323",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 122,
+  "pos": 1323,
+  "address": "WDU20011221323",
+  "displayAddress": "Dz.U. 2001 nr 122 poz. 1323",
+  "title": "Ustawa z dnia 18 września 2001 r. o zmianie ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-09-18",
+  "promulgation": "2001-10-23",
+  "entryIntoForce": "2001-11-07",
+  "validFrom": "2001-11-07",
+  "changeDate": "2024-03-15T09:59:34",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia",
+   "bezrobocie",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/3168.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/3168",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/3168",
+    "number": "3168",
+    "term": 3
+   }
+  ],
+  "comments": "z dniem 1 czerwca 2004 r. traci moc w zakresie ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1001",
+     "date": "2004-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/1",
+     "date": "2001-11-07"
+    },
+    {
+     "id": "DU/1991/464",
+     "date": "2001-11-07"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011323.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011323.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011323L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
