@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1989/123",
+ "source_sha256": "005ff791752c12eafacc3f9822c645afe485e8520675b14df4aed2f6a01de4b1",
+ "in_force": "1989-04-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1989/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1989/123/text/O/D19890123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1989/123/text/I/D19890123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1989/123",
+  "publisher": "DU",
+  "year": 1989,
+  "volume": 23,
+  "pos": 123,
+  "address": "WDU19890230123",
+  "displayAddress": "Dz.U. 1989 nr 23 poz. 123",
+  "title": "Rozporządzenie Rady Ministrów z dnia 20 kwietnia 1989 r. w sprawie czasowego zakazu sprzedaży i podawania napojów alkoholowych.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1989-04-20",
+  "promulgation": "1989-04-25",
+  "entryIntoForce": "1989-04-25",
+  "validFrom": "1989-04-25",
+  "changeDate": "2020-06-08T15:28:35",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "alkohol",
+   "zakaz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/230"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/230",
+     "art": "art. 19 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19890123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19890123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
