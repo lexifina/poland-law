@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/712",
+ "source_sha256": "7e5f2848f3ced24d55e932c6cdc8d34c8098f20260d8af59d8307150d495e0bc",
+ "in_force": "1927-09-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/712",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/712/text/O/D19270712.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/712/text/I/D19270712.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/712",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 81,
+  "pos": 712,
+  "address": "WDU19270810712",
+  "displayAddress": "Dz.U. 1927 nr 81 poz. 712",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 31 sierpnia 1927 r. w sprawie zwolnienia od cła surowic i szczepionek, używanych w lecznictwie.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-08-31",
+  "entryIntoForce": "1927-09-19",
+  "validFrom": "1927-09-19",
+  "repealDate": "1934-02-22",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "surowice i szczepionki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1934/122",
+     "date": "1934-02-22"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1924/228",
+     "date": "1927-09-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    },
+    {
+     "id": "DU/1920/314"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/777",
+     "art": "art. 6"
+    },
+    {
+     "id": "DU/1920/314",
+     "art": "art. 21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270712.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270712.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
