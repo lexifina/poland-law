@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/249",
+ "source_sha256": "7177bc9e7727f4e5796377bd08c79d16f0dfbc31445a2f182ee000f7f6860551",
+ "in_force": "1922-04-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/249",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/249/text/O/D19220249.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/249/text/I/D19220249.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/249",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 30,
+  "pos": 249,
+  "address": "WDU19220300249",
+  "displayAddress": "Dz.U. 1922 nr 30 poz. 249",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 7 kwietnia 1922 r. w przedmiocie uzupełnienia § 12 rozporządzenia z dnia 13 grudnia 1920 r. o postępowaniu celnem.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-04-07",
+  "entryIntoForce": "1922-04-28",
+  "validFrom": "1922-04-28",
+  "repealDate": "1930-06-01",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/276",
+     "date": "1930-06-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1922/578",
+     "date": "1922-08-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1921/64",
+     "date": "1922-04-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220249.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220249.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
