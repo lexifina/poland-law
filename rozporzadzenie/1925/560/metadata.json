@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/560",
+ "source_sha256": "b3f58c6cf74ebf7ce1e7c98d9ca76a261d698e1cac60a31a49e6f93f880bd66f",
+ "in_force": "1925-08-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/560",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/560/text/O/D19250560.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/560/text/I/D19250560.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/560",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 82,
+  "pos": 560,
+  "address": "WDU19250820560",
+  "displayAddress": "Dz.U. 1925 nr 82 poz. 560",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 8 sierpnia 1925 r. w celu wykonania ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-08-08",
+  "entryIntoForce": "1925-08-14",
+  "validFrom": "1925-08-14",
+  "repealDate": "1932-05-14",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/406",
+     "date": "1932-05-14"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1928/12",
+     "date": "1928-01-01"
+    },
+    {
+     "id": "DU/1927/827",
+     "date": "1927-10-25"
+    },
+    {
+     "id": "DU/1926/93",
+     "date": "1926-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/550"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250560.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250560.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
