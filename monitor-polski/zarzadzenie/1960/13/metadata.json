@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1960/13",
+ "source_sha256": "12c1b091957f8f88e28162885c92f38a186c55af3491d7dd9b341271fc7ba02f",
+ "in_force": "1960-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1960/13",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1960/13/text/O/M19600013.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1960/13/text/I/M19600013.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1960/13",
+  "publisher": "MP",
+  "year": 1960,
+  "volume": 3,
+  "pos": 13,
+  "address": "WMP19600030013",
+  "displayAddress": "M.P. 1960 nr 3 poz. 13",
+  "title": "Zarządzenie Ministra Finansów z dnia 5 stycznia 1960 r. w sprawie badania i zatwierdzania sprawozdań finansowych przedsiębiorstw państwowych i udziału przedstawicieli organów finansowych i banków w tych czynnościach.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-01-05",
+  "entryIntoForce": "1960-01-14",
+  "validFrom": "1960-01-14",
+  "repealDate": "1974-01-09",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/8",
+     "date": "1974-01-09"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/443",
+     "date": "1960-01-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1959/278"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1959/278"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1959/278",
+     "art": "par. 45 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19600013.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19600013.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
