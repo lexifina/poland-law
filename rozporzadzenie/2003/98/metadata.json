@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/98",
+ "source_sha256": "068567d6076e074328200fe596bd5e5ff3c8e17b90a705def870d7970659a7db",
+ "in_force": "2003-02-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/98",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/98/text/O/D20030098.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/98/text/I/D20030098.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/98",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 8,
+  "pos": 98,
+  "address": "WDU20030080098",
+  "displayAddress": "Dz.U. 2003 nr 8 poz. 98",
+  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2002 r. w sprawie określenia niektórych odpadów zwierzęcych uznanych za materiał szczególnego ryzyka",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-12-20",
+  "promulgation": "2003-01-24",
+  "entryIntoForce": "2003-02-08",
+  "validFrom": "2003-02-08",
+  "repealDate": "2003-06-26",
+  "changeDate": "2016-04-12T14:55:25",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "zwierzęta",
+   "choroby zakaźne",
+   "ochrona zdrowia",
+   "choroby zwierząt"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/1001",
+     "date": "2003-06-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/369"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/369",
+     "art": "art. 9 ust. 10 pkt 2 lit. b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20030098.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030098.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
