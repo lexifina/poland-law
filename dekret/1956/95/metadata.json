@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1956/95",
+ "source_sha256": "ccbf15b18ff820ba3564038ee24c5fbdd0459b6fa2fa353ca555b36dbc7efc55",
+ "in_force": "1956-06-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1956/95",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1956/95/text/O/D19560095.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1956/95/text/I/D19560095.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1956/95",
+  "publisher": "DU",
+  "year": 1956,
+  "volume": 18,
+  "pos": 95,
+  "address": "WDU19560180095",
+  "displayAddress": "Dz.U. 1956 nr 18 poz. 95",
+  "title": "Dekret z dnia 16 maja 1956 r. o zmianie imion i nazwisk.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-05-16",
+  "entryIntoForce": "1956-06-14",
+  "validFrom": "1956-06-14",
+  "repealDate": "1956-11-30",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1956/258",
+     "date": "1956-11-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1949/21",
+     "date": "1956-06-14"
+    },
+    {
+     "id": "DU/1945/310",
+     "date": "1956-06-14"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1952/18",
+     "date": "1956-06-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19560095.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19560095.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
