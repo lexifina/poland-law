@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/325",
+ "source_sha256": "7dd94f8f80c3383d9f198f175b0f307530237444c77f789b182c530cb49e3e19",
+ "in_force": "1933-12-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/325",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/325/text/O/M19330325.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/325/text/I/M19330325.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/325",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 295,
+  "pos": 325,
+  "address": "WMP19332950325",
+  "displayAddress": "M.P. 1933 nr 295 poz. 325",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 21 grudnia 1933 r. Nr 2547/33",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-12-21",
+  "promulgation": "1933-12-27",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330325.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330325.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
