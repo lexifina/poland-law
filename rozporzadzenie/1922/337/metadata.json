@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/337",
+ "source_sha256": "1bc2e7b61bfd9d83095752436eb3e38742faf3e66a5aa44d01d0ecbf9e8b7bf5",
+ "in_force": "1922-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/337",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/337/text/O/D19220337.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/337/text/I/D19220337.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/337",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 40,
+  "pos": 337,
+  "address": "WDU19220400337",
+  "displayAddress": "Dz.U. 1922 nr 40 poz. 337",
+  "title": "Rozporządzenie Ministra Zdrowia Publicznego z dnia 6 marca 1922 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych o przepisach sanitarnych dla zakładów fryzjerskich i golarskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-03-06",
+  "entryIntoForce": "1922-06-01",
+  "validFrom": "1922-06-01",
+  "repealDate": "1935-11-02",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. ZDROWIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby zakaźne",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1935/483",
+     "date": "1935-11-02"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1926/261",
+     "date": "1926-06-01"
+    },
+    {
+     "id": "DU/1924/470",
+     "date": "1924-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/402"
+    },
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220337.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220337.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
