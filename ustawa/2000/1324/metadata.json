@@ -1,0 +1,110 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1324",
+ "source_sha256": "6605acd2490ffdfe81ca54e3c3f2b0d3ff9f5e64020df9fbf7cfbcaf789f4c1c",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1324",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1324/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1324/text/O/D20001324.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1324/text/I/D20001324.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1324/text/T/D20001324L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1324",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 122,
+  "pos": 1324,
+  "address": "WDU20001221324",
+  "displayAddress": "Dz.U. 2000 nr 122 poz. 1324",
+  "title": "Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym, ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-12-22",
+  "promulgation": "2000-12-31",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "changeDate": "2024-03-15T09:50:15",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt podatkowy",
+   "ubezpieczenia zdrowotne",
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2375.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2375",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2375",
+    "number": "2375",
+    "term": 3
+   }
+  ],
+  "comments": "art. 1 pkt 1, 3-10,12-15, 19 lit. c) pkt 20-29 i 31-34 wchodzą w życie z dniem 30 czerwca 2001 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1999/289",
+     "date": "2001-06-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/391",
+     "date": "2003-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/930",
+     "date": "2001-01-01"
+    },
+    {
+     "id": "DU/1997/153",
+     "date": "2001-01-01"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2001-06-30"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001324.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001324.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001324L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
