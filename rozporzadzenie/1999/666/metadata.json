@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/666",
+ "source_sha256": "8cfc5599589d2586bb8c0b5cc4f45329edc7c4ae4a3d59acb695b83e5cb43d7d",
+ "in_force": "1999-07-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/666",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/666/text/O/D19990666.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/666/text/I/D19990666.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/666/text/T/D19990666L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/666",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 61,
+  "pos": 666,
+  "address": "WDU19990610666",
+  "displayAddress": "Dz.U. 1999 nr 61 poz. 666",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 6 lipca 1999 r. w sprawie zatrzymania żołnierza oraz w sprawie izb zatrzymań.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-07-06",
+  "entryIntoForce": "1999-07-30",
+  "validFrom": "1999-07-30",
+  "repealDate": "2002-10-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "obrona narodowa"
+  ],
+  "keywordsNames": [
+   "Żandarmeria Wojskowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/944"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/944",
+     "art": "art. 38 ust. 7"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/1332",
+     "date": "2002-10-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990666.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990666.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990666L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
