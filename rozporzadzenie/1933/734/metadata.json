@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/734",
+ "source_sha256": "f2a0d6a8382d07d159f3f3d12567565de05b895eb71e1eaf08780ef03f26cf7d",
+ "in_force": "1933-12-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/734",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/734/text/O/D19330734.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/734/text/I/D19330734.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/734",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 94,
+  "pos": 734,
+  "address": "WDU19330940734",
+  "displayAddress": "Dz.U. 1933 nr 94 poz. 734",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 25 października 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-10-25",
+  "promulgation": "1933-12-01",
+  "changeDate": "2026-10-23T11:14:11",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "przemysł",
+   "handel wewnętrzny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1934/976",
+     "date": "1935-01-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/227"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/227",
+     "art": "art. 3 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1920/7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330734.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330734.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
