@@ -1,0 +1,3 @@
+Na podstawie art. 9 ust. 1 i 3 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. Nr 22, poz. 98 i z 1987 r. Nr 21, poz. 123), w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 7 września 1988 r., sygn. akt Uw. 3/88, ogłaszam, że z dniem 21 stycznia 1989 r. traci moc obowiązującą § 27 ust. 4 rozporządzenia Rady Ministrów z dnia 28 marca 1983 r. w sprawie wykonania niektórych przepisów ustawy o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin (Dz. U. z 1988 r. Nr 2, poz. 10).
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej.
