@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1992/71",
+ "source_sha256": "39152de1f81c87e21f47c26399c4e3638d5eea81f639fe3ea8e6e5403e09fb8c",
+ "in_force": "1992-04-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1992/71",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1992/71/text/O/M19920071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1992/71/text/I/M19920071.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1992/71",
+  "publisher": "MP",
+  "year": 1992,
+  "volume": 10,
+  "pos": 71,
+  "address": "WMP19920100071",
+  "displayAddress": "M.P. 1992 nr 10 poz. 71",
+  "title": "Zarządzenie Ministra Obrony Narodowej z dnia 5 marca 1992 r. zmieniające zarządzenie w sprawie ustalenia siedzib i terytorialnego zakresu działania wojskowych jednostek organizacyjnych prokuratury.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-03-05",
+  "entryIntoForce": "1992-04-02",
+  "validFrom": "1992-04-02",
+  "repealDate": "1996-06-17",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa",
+   "sądy wojskowe",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1996/358",
+     "date": "1996-06-17"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1990/329",
+     "date": "1992-04-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 17 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19920071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19920071.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
