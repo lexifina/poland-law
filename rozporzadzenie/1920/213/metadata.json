@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/213",
+ "source_sha256": "cf14b4edb8cd9fcfea59dd65000ca6ef49b1e0ccef3ec554cb45eaa9adc17636",
+ "in_force": "1920-04-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/213/text/O/D19200213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/213/text/I/D19200213.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/213",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 37,
+  "pos": 213,
+  "address": "WDU19200370213",
+  "displayAddress": "Dz.U. 1920 nr 37 poz. 213",
+  "title": "Rozporządzenie z dnia 20 marca 1920 r. Ministrów Skarbu oraz Przemysłu i Handlu w przedmiocie czasowego zawieszenia cła od niektórych towarów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-03-20",
+  "entryIntoForce": "1920-04-10",
+  "validFrom": "1920-04-10",
+  "repealDate": "1920-07-10",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1920/441",
+     "date": "1920-07-10"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1919/512",
+     "date": "1920-04-10"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1920/214"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19200213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
