@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/72",
+ "source_sha256": "3c2d14d6e95e95cc4d970119ab6738153638fa42c33e7d5b1aa996281e4bf3fb",
+ "in_force": "1925-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/72",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/72/text/O/D19250072.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/72/text/I/D19250072.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/72",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 9,
+  "pos": 72,
+  "address": "WDU19250090072",
+  "displayAddress": "Dz.U. 1925 nr 9 poz. 72",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 24 stycznia 1925 r. o ustaleniu wysokości odsetek prawnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-01-24",
+  "entryIntoForce": "1925-02-01",
+  "validFrom": "1925-02-01",
+  "repealDate": "1927-03-01",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1927/125",
+     "date": "1927-03-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1924/769",
+     "date": "1925-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/769"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250072.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250072.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
