@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/154",
+ "source_sha256": "41f2423b3eff4cb222c88e4fa6dfdcb1471843025e2298bcefc9313b39552987",
+ "in_force": "1946-05-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/154",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/154/text/O/D19460154.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/154/text/I/D19460154.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/154",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 23,
+  "pos": 154,
+  "address": "WDU19460230154",
+  "displayAddress": "Dz.U. 1946 nr 23 poz. 154",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 16 maja 1946 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 13 marca 1934 r. o nadzorze nad hodowlą koni.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-05-16",
+  "repealDate": "1955-02-15",
+  "changeDate": "2017-11-23T15:43:33",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/67"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1934/284"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1955/34",
+     "date": "1955-02-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460154.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460154.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
