@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/620",
+ "source_sha256": "5cddc0028b07585844bc820cf1fff9cc7e6fe113ae9da7dad71c037a62c6d7e6",
+ "in_force": "1999-06-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/620",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/620/text/O/D19990620.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/620/text/I/D19990620.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/620",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 58,
+  "pos": 620,
+  "address": "WDU19990580620",
+  "displayAddress": "Dz.U. 1999 nr 58 poz. 620",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 24 maja 1999 r. zmieniające rozporządzenie w sprawie wzorów dokumentów stwierdzających uprawnienia do kierowania pojazdami.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-05-24",
+  "entryIntoForce": "1999-06-26",
+  "validFrom": "1999-06-26",
+  "repealDate": "2001-08-13",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/729",
+     "date": "2001-08-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/86",
+     "date": "1999-06-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/602",
+     "art": "art. 100 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990620.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990620.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
