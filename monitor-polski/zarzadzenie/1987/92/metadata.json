@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/92",
+ "source_sha256": "3331d2140ecf1bda9249a828beecac53ae12e2980cd0a029c5777b5392d312ed",
+ "in_force": "1987-04-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/92",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/92/text/O/M19870092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/92/text/I/M19870092.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/92",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 10,
+  "pos": 92,
+  "address": "WMP19870100092",
+  "displayAddress": "M.P. 1987 nr 10 poz. 92",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 13 marca 1987 r. w sprawie zakresu i warunków prowadzenia transportu drogowego taksówkami przedsiębiorstw komunalnych.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-03-13",
+  "entryIntoForce": "1987-04-04",
+  "validFrom": "1987-04-04",
+  "repealDate": "1989-01-01",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "transport drogowy i spedycja",
+   "taksówki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/262"
+    },
+    {
+     "id": "DU/1961/297"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/262",
+     "art": "art. 8 ust. 1"
+    },
+    {
+     "id": "DU/1961/297",
+     "art": "art. 7 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1988/324",
+     "date": "1989-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
