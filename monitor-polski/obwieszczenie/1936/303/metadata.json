@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/303",
+ "source_sha256": "8a86ab48f39a609a7aa18869512318668cec1a4e45865991080826ea79bc7f44",
+ "in_force": "1936-07-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/303/text/O/M19360303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/303/text/I/M19360303.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/303",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 165,
+  "pos": 303,
+  "address": "WMP19361650303",
+  "displayAddress": "M.P. 1936 nr 165 poz. 303",
+  "title": "Obwieszczenie Ministra Komunikacji Nr.L. II/219/3/36 z dnia 10 lipca 1936 r. w sprawie zmian w stanie lotnisk użytku publicznego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-07-10",
+  "promulgation": "1936-07-18",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porty lotnicze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/142"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/142",
+     "art": "par. 21"
+    },
+    {
+     "id": "DU/1934/142",
+     "art": "par. 26 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
