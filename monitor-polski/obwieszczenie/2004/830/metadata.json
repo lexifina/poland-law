@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/830",
+ "source_sha256": "08ed7f6de8b05b17505677c8107719d2c63c472091af4abd39078a149e8e17ed",
+ "in_force": "2004-11-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/830",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/830/text/O/M20040830.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/830/text/I/M20040830.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/830",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 48,
+  "pos": 830,
+  "address": "WMP20040480830",
+  "displayAddress": "M.P. 2004 nr 48 poz. 830",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 3 listopada 2004 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-11-03",
+  "promulgation": "2004-11-19",
+  "repealDate": "2006-01-03",
+  "changeDate": "2014-12-31T12:26:39",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Min. Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2006/48",
+     "date": "2006-01-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040830.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040830.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
