@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/1101",
+ "source_sha256": "d6b0d89e0719f905202de256c2ab2368ebb1b1387da8ee9334a60ee302f542e1",
+ "in_force": "1924-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/1101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/1101/text/O/D19231101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/1101/text/I/D19231101.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/1101",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 133,
+  "pos": 1101,
+  "address": "WDU19231331101",
+  "displayAddress": "Dz.U. 1923 nr 133 poz. 1101",
+  "title": "Rozporządzenie Rady Ministrów z dnia 17 grudnia 1923 r. w przedmiocie taksy dla pisarzy hipotecznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-12-17",
+  "entryIntoForce": "1924-01-01",
+  "validFrom": "1924-01-01",
+  "repealDate": "1924-03-20",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1924/264",
+     "date": "1924-03-20"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1923/897",
+     "date": "1924-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/451"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19231101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19231101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
