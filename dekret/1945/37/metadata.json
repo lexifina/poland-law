@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/37",
+ "source_sha256": "43b6856b4fa539b0f9b0650fd5b4613af401b5a462bfd7af17bd5d5e6958e231",
+ "in_force": "1945-03-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/37",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/37/text/O/D19450037.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/37/text/I/D19450037.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/37",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 8,
+  "pos": 37,
+  "address": "WDU19450080037",
+  "displayAddress": "Dz.U. 1945 nr 8 poz. 37",
+  "title": "Dekret z dnia 19 lutego 1945 r. o zmianie ustawy z dnia 9 kwietnia 1938 r. o powszechnym obowiązku wojskowym.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-02-19",
+  "entryIntoForce": "1945-03-20",
+  "validFrom": "1945-03-20",
+  "repealDate": "1950-05-28",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1950/46",
+     "date": "1950-05-28"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1949/16"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1938/220",
+     "date": "1945-03-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450037.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450037.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
