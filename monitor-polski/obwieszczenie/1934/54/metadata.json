@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/54",
+ "source_sha256": "f9a1b9225a82e41f74ca11b70ee168d8c428ce0bd90074068e8a1451a53502c1",
+ "in_force": "1934-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/54",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/54/text/O/M19340054.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/54/text/I/M19340054.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/54",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 40,
+  "pos": 54,
+  "address": "WMP19340400054",
+  "displayAddress": "M.P. 1934 nr 40 poz. 54",
+  "title": "Obwieszczenie Ministra Komunikacji z dnia 12 lutego 1934 r. w sprawie instytucyj, upoważnionych do badania zdolności statków powietrznych do lotu i nadzoru technicznego na tymi statkami",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-02-12",
+  "promulgation": "1934-02-19",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statki powietrzne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1934/147",
+     "date": "1934-05-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/635"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/635",
+     "art": "par. 13 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340054.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340054.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
