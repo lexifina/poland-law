@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1965/129",
+ "source_sha256": "05dd0347d20807656129ea5dd7673b2c3c0ade473f72ea5cf831572edf37098c",
+ "in_force": "1965-05-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1965/129",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1965/129/text/O/D19650129.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1965/129/text/I/D19650129.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1965/129",
+  "publisher": "DU",
+  "year": 1965,
+  "volume": 19,
+  "pos": 129,
+  "address": "WDU19650190129",
+  "displayAddress": "Dz.U. 1965 nr 19 poz. 129",
+  "title": "Obwieszczenie Przewodniczącego Komitetu Nauki i Techniki z dnia 7 maja 1965 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 lutego 1961 r. o instytutach naukowo-badawczych.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-05-07",
+  "expirationDate": "1975-03-12",
+  "changeDate": "2017-11-23T15:44:05",
+  "releasedBy": [
+   "PRZEW. KOMITETU NAUKI I TECHNIKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/100"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1961/60"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19650129.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19650129.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
