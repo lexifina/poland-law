@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/214",
+ "source_sha256": "73586fe3fa39e65208e98ab54662a8bf1354a7ad2c0ada437ce784f8ae25b86c",
+ "in_force": "1937-06-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/214",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/214/text/O/M19370214.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/214/text/I/M19370214.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/214",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 132,
+  "pos": 214,
+  "address": "WMP19371320214",
+  "displayAddress": "M.P. 1937 nr 132 poz. 214",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 4 czerwca 1937 r. w sprawie kontroli specjalnej obrotu towarowego polsko-włoskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-06-04",
+  "promulgation": "1937-06-12",
+  "entryIntoForce": "1937-06-16",
+  "validFrom": "1937-06-16",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą"
+  ],
+  "keywordsNames": [
+   "Włochy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1936/392",
+     "date": "1937-06-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/820"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/820",
+     "art": "par. 48 ust. 11"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 56 ust. 8"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 62 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370214.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370214.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
