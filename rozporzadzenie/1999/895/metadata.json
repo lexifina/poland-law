@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/895",
+ "source_sha256": "8cdd688a1a1989d9c6b10b67640da7e7a59bf0d4b1562ad23b413a7f27209320",
+ "in_force": "1999-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/895",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/895/text/O/D19990895.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/895/text/I/D19990895.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/895/text/T/D19990895L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/895",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 79,
+  "pos": 895,
+  "address": "WDU19990790895",
+  "displayAddress": "Dz.U. 1999 nr 79 poz. 895",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 28 września 1999 r. w sprawie nadania statutu Urzędowi Służby Cywilnej.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-09-28",
+  "entryIntoForce": "1999-10-01",
+  "validFrom": "1999-10-01",
+  "repealDate": "2002-10-14",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna",
+   "statut"
+  ],
+  "keywordsNames": [
+   "Urząd Służby Cywilnej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/483",
+     "art": "art. 13 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2002/682",
+     "date": "2002-10-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990895.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990895.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990895L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
