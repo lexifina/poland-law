@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/111",
+ "source_sha256": "3a79bb19c77d08fd856a34bfbab0ba5f9a394ce4a906845e20c61eed6457dead",
+ "in_force": "1946-05-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/111/text/O/D19460111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/111/text/I/D19460111.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/111",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 16,
+  "pos": 111,
+  "address": "WDU19460160111",
+  "displayAddress": "Dz.U. 1946 nr 16 poz. 111",
+  "title": "Rozporządzenie Ministra Administracji Publicznej z dnia 4 kwietnia 1946 r. o utworzeniu ekspozytury starostwa powiatowego warszawskiego we Włochach.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-04-04",
+  "entryIntoForce": "1946-05-21",
+  "validFrom": "1946-05-21",
+  "repealDate": "1950-02-28",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "WOJEWODA"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/86"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/48",
+     "date": "1950-02-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
