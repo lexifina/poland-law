@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/701",
+ "source_sha256": "07a13a2771e7f375d7a5380abe6d9f9aa984e6aa02d6478b6e90314f0b917ebf",
+ "in_force": "1928-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/701",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/701/text/O/D19280701.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/701/text/I/D19280701.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/701",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 80,
+  "pos": 701,
+  "address": "WDU19280800701",
+  "displayAddress": "Dz.U. 1928 nr 80 poz. 701",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 8 czerwca 1928 r. dotyczące wymiaru i poboru opłat za przeprowadzenie zmian w operacie katastralnym na obszarze województw poznańskiego i pomorskiego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-06-08",
+  "entryIntoForce": "1928-09-01",
+  "validFrom": "1928-09-01",
+  "repealDate": "1931-12-18",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kataster",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/840",
+     "date": "1931-12-18"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1926/150",
+     "date": "1928-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/691"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/691",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280701.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280701.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
