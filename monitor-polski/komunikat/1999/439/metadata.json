@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/439",
+ "source_sha256": "0fcb798e2793849c1fbc6a15462d23322cf9f3514715ce37c68b8fbfdd40734c",
+ "in_force": "1999-08-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/439",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/439/text/O/M19990439.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/439/text/I/M19990439.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/439/text/T/M9990439.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/439",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 28,
+  "pos": 439,
+  "address": "WMP19990280439",
+  "displayAddress": "M.P. 1999 nr 28 poz. 439",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 sierpnia 1999 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-08-16",
+  "validFrom": "1999-09-01",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990439.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990439.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990439.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
