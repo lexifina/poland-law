@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/40",
+ "source_sha256": "bda3059b4b16984a6c52ef102559a974c3b79cc8dcdcf649ee35567612948e29",
+ "in_force": "1958-02-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/40",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/40/text/O/M19580040.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/40/text/I/M19580040.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/40",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 7,
+  "pos": 40,
+  "address": "WMP19580070040",
+  "displayAddress": "M.P. 1958 nr 7 poz. 40",
+  "title": "Zarządzenie Ministra Finansów i Pełnomocnika Rządu do Spraw Repatriacji z dnia 16 stycznia 1958 r. w sprawie zasad i trybu udzielania pożyczek repatriantom.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-01-16",
+  "entryIntoForce": "1958-02-04",
+  "validFrom": "1958-01-01",
+  "repealDate": "1980-01-31",
+  "changeDate": "2019-12-10T15:37:24",
+  "releasedBy": [
+   "MIN. FINANSÓW",
+   "PEŁNOMOCNIK RZĄDU DO SPRAW REPATRIACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pełnomocnik rządu"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/11",
+     "date": "1980-01-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1958/252",
+     "date": "1958-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/217"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/217",
+     "art": "par. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580040.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580040.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
