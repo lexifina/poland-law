@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/504",
+ "source_sha256": "d8f3f0373f408983106e138c83bf40b6f8341df6fb10841921dcd40c416f1619",
+ "in_force": "1938-10-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/504",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/504/text/O/M19380504.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/504/text/I/M19380504.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/504",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 230,
+  "pos": 504,
+  "address": "WMP19382300504",
+  "displayAddress": "M.P. 1938 nr 230 poz. 504",
+  "title": "Ogłoszenie Komisarza Rządowego Izb Lekarsko-Dentystycznych z dnia 4 października 1938 r. o uprawomocnieniu się wyborów do rady okręgowej Izby Lekarsko-Dentystycznej w Warszawie",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-10-04",
+  "promulgation": "1938-10-07",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze dentyści",
+   "izby lekarskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1938/441"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1938/295",
+     "art": "par. 39 ust. 6"
+    },
+    {
+     "id": "DU/1938/295",
+     "art": "par. 44"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380504.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380504.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
