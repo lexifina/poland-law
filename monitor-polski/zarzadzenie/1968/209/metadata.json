@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/209",
+ "source_sha256": "c30ca3395b694f702039b1528a35c3064c048e170d7dca376a90d4bd3f6a9949",
+ "in_force": "1968-07-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/209",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/209/text/O/M19680209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/209/text/I/M19680209.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/209",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 31,
+  "pos": 209,
+  "address": "WMP19680310209",
+  "displayAddress": "M.P. 1968 nr 31 poz. 209",
+  "title": "Zarządzenie Przewodniczącego Komitetu Nauki i Techniki z dnia 1 lipca 1968 r. w sprawie funduszu za osiągnięcia techniczne i ekonomiczne w zakładach doświadczalnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-07-01",
+  "entryIntoForce": "1968-07-19",
+  "validFrom": "1968-01-01",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PRZEW. KOMITETU NAUKI I TECHNIKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1966/68",
+     "date": "1968-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1965/33"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1965/212"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1965/212",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680209.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
