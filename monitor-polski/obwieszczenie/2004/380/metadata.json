@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/380",
+ "source_sha256": "1ece4597d2dbf557e20f2e5dca323488d58bdf8df16bb58a36600d63dcf1edc8",
+ "in_force": "2004-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/380",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/380/text/O/M20040380.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/380/text/I/M20040380.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/380",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 21,
+  "pos": 380,
+  "address": "WMP20040210380",
+  "displayAddress": "M.P. 2004 nr 21 poz. 380",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 12 maja 2004 r. w sprawie pierwszego szacunku wartości produktu krajowego brutto w 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-05-12",
+  "promulgation": "2004-05-19",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "produkcja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1188",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040380.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040380.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
