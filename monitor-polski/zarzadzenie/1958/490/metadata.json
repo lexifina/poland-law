@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/490",
+ "source_sha256": "a238f08fcd7b53b50fc9628908573a5a6d261e16f97dd4052729a6253e0f14b6",
+ "in_force": "1958-11-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/490",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/490/text/O/M19580490.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/490/text/I/M19580490.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/490",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 87,
+  "pos": 490,
+  "address": "WMP19580870490",
+  "displayAddress": "M.P. 1958 nr 87 poz. 490",
+  "title": "Zarządzenie Ministrów Zdrowia i Rolnictwa z dnia 29 sierpnia 1958 r. w sprawie urzędowego spisu leków stosowanych w lecznictwie zwierząt.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-08-29",
+  "entryIntoForce": "1958-11-17",
+  "validFrom": "1958-11-17",
+  "repealDate": "1971-03-30",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. ROLNICTWA",
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1971/127",
+     "date": "1971-03-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1956/441",
+     "date": "1958-11-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/4"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/4",
+     "art": "art. 9 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580490.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580490.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
