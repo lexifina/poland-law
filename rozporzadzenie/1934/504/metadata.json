@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/504",
+ "source_sha256": "a64d85d2b7c6892150806ef71c01da20f1f10c4d749c296bf4f63319814c8208",
+ "in_force": "1934-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/504",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/504/text/O/D19340504.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/504/text/I/D19340504.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/504",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 57,
+  "pos": 504,
+  "address": "WDU19340570504",
+  "displayAddress": "Dz.U. 1934 nr 57 poz. 504",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 25 czerwca 1934 r. wydane w porozumieniu z Ministrem Skarbu o rejestrze spółdzielni.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-06-25",
+  "promulgation": "1934-06-30",
+  "entryIntoForce": "1934-07-01",
+  "validFrom": "1934-07-01",
+  "repealDate": "1949-02-12",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "spółdzielczość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/37",
+     "date": "1949-02-12"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1921/138",
+     "date": "1934-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/733"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1920/733",
+     "art": "art. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340504.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340504.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
