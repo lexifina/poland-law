@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/432",
+ "source_sha256": "7e53ed12498dec168b8f5d1d07d8f038e56c246ebe8123a7557e529c7ea25753",
+ "in_force": "2001-07-26",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/432",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/432/text/O/M20010432.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/432/text/I/M20010432.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/432",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 26,
+  "pos": 432,
+  "address": "WMP20010260432",
+  "displayAddress": "M.P. 2001 nr 26 poz. 432",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 26 lipca 2001 r. o ogłoszeniu Koncepcji polityki przestrzennego zagospodarowania kraju.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-07-26",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "planowanie przestrzenne"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1994/415"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 10 ust. 5 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010432.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010432.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
