@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/30",
+ "source_sha256": "ed055a9c96ce3bba9a77de2708cd7d1b24ed614b94fb630b31fc76d3902ee1f4",
+ "in_force": "1929-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/30/text/O/D19290030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/30/text/I/D19290030.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/30",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 3,
+  "pos": 30,
+  "address": "WDU19290030030",
+  "displayAddress": "Dz.U. 1929 nr 3 poz. 30",
+  "title": "Rozporządzenie Ministra Skarbu w porozumieniu z Ministrem Przemysłu i Handlu z dnia 26 listopada 1928 r. o powoływaniu i zwalnianiu oraz prawach i obowiązkach maklerów przysięgłych na giełdach pieniężnych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-11-26",
+  "entryIntoForce": "1929-02-01",
+  "validFrom": "1929-02-01",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "maklerzy",
+   "giełdy",
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1924/292",
+     "date": "1929-02-01"
+    },
+    {
+     "id": "DU/1923/372",
+     "date": "1929-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/1019"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/1019",
+     "art": "par. 29 i 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
