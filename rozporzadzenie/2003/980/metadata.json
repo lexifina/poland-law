@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/980",
+ "source_sha256": "b069fd23f816f592347bcaec0200bf7bcdd9b956074f9eeea9959b912c1e873c",
+ "in_force": "2003-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/980",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/980/text/O/D20030980.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/980/text/I/D20030980.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/980",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 104,
+  "pos": 980,
+  "address": "WDU20031040980",
+  "displayAddress": "Dz.U. 2003 nr 104 poz. 980",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 28 maja 2003 r. w sprawie wysokości zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-05-28",
+  "promulgation": "2003-06-13",
+  "entryIntoForce": "2003-07-01",
+  "validFrom": "2003-07-01",
+  "repealDate": "2025-07-01",
+  "changeDate": "2025-07-01T09:02:13",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2025/770",
+     "date": "2025-07-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1998/710",
+     "date": "2003-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/555"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/555",
+     "art": "art. 621 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20030980.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030980.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
