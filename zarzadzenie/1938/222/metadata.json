@@ -1,0 +1,58 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/222",
+ "source_sha256": "046a563b452ad38f6a97964bec520368cdcc48715644ac0897ac01c55745e151",
+ "in_force": "1938-04-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/222/text/O/D19380222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/222/text/I/D19380222.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/222",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 25,
+  "pos": 222,
+  "address": "WDU19380250222",
+  "displayAddress": "Dz.U. 1938 nr 25 poz. 222",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej z dnia 9 kwietnia 1938 r. o poborze rekruta w 1938 r.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-04-09",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/227"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
