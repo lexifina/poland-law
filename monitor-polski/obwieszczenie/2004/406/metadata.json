@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/406",
+ "source_sha256": "3da3812c0ec8716d6179309b687d72ef573a2903bb409d821159fcc5b052ffe3",
+ "in_force": "2004-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/406",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/406/text/O/M20040406.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/406/text/I/M20040406.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/406",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 23,
+  "pos": 406,
+  "address": "WMP20040230406",
+  "displayAddress": "M.P. 2004 nr 23 poz. 406",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 18 maja 2004 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego w III kwartale 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-05-18",
+  "promulgation": "2004-05-27",
+  "changeDate": "2019-03-22T14:26:50",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "ubezpieczenia społeczne",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 44 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040406.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040406.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
