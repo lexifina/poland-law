@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/911",
+ "source_sha256": "73d9839bc71e5ec5595d4acff79822e021735b03800c5590aaaef29eac4ca6d3",
+ "in_force": "1922-11-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/911",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/911/text/O/D19220911.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/911/text/I/D19220911.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/911",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 99,
+  "pos": 911,
+  "address": "WDU19220990911",
+  "displayAddress": "Dz.U. 1922 nr 99 poz. 911",
+  "title": "Rozporządzenie Rady Ministrów z dnia 6 listopada 1922 r. w sprawie zezwolenia na wprowadzenie pracy na 3 zmiany w tartakach.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-11-06",
+  "entryIntoForce": "1922-11-18",
+  "validFrom": "1922-11-18",
+  "repealDate": "1923-02-01",
+  "changeDate": "2014-12-31T12:22:25",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1922/911",
+     "date": "1923-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/7"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1922/911",
+     "date": "1923-02-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220911.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220911.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
