@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/128",
+ "source_sha256": "944d85907c28c8402c8ba8c2e5351b0f89a727d657c2441393c4e0fcb515dd91",
+ "in_force": "1950-04-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/128",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/128/text/O/D19500128.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/128/text/I/D19500128.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/128",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 13,
+  "pos": 128,
+  "address": "WDU19500130128",
+  "displayAddress": "Dz.U. 1950 nr 13 poz. 128",
+  "title": "Rozporządzenie Rady Ministrów z dnia 1 kwietnia 1950 r. w sprawie czasu pracy w sobotę pracowników zatrudnionych w kopalniach węgla na powierzchni.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-04-01",
+  "entryIntoForce": "1950-04-08",
+  "validFrom": "1949-10-17",
+  "repealDate": "1950-10-18",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1950/128",
+     "date": "1950-10-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1946/285",
+     "date": "1949-10-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/372"
+    },
+    {
+     "id": "DU/1946/285"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/128",
+     "date": "1950-10-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500128.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500128.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
