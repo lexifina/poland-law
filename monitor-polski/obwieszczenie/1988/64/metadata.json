@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/64",
+ "source_sha256": "67db2971a03aff70749015031fb4ec2133b5c2e685476e978b75ce5da46785d5",
+ "in_force": "1988-03-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/64",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/64/text/O/M19880064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/64/text/I/M19880064.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/64",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 7,
+  "pos": 64,
+  "address": "WMP19880070064",
+  "displayAddress": "M.P. 1988 nr 7 poz. 64",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 21 stycznia 1988 r. w sprawie ogłoszenia zmian w wykazie obowiązków sprawozdawczych ustalonych przez Główny Urząd Statystyczny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-01-21",
+  "entryIntoForce": "1988-03-02",
+  "validFrom": "1988-03-02",
+  "repealDate": "1989-12-29",
+  "changeDate": "2019-05-10T11:29:13",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/350",
+     "date": "1989-12-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1986/104"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/58",
+     "art": "art. 16 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880064.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
