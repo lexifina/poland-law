@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/195",
+ "source_sha256": "648a2c9613596764281ccb6c0795be4c676ba4e5844842902e2f11ef9382df70",
+ "in_force": "1988-08-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/195",
+  "html": "https://eli.gov.pl/api/acts/DU/1988/195/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/195/text/O/D19880195.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/195/text/I/D19880195.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1988/195/text/U/D19880195Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/195",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 27,
+  "pos": 195,
+  "address": "WDU19880270195",
+  "displayAddress": "Dz.U. 1988 nr 27 poz. 195",
+  "title": "Obwieszczenie Ministra Finansów z dnia 13 lipca 1988 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 26 lutego 1982 r. o cenach.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-07-13",
+  "promulgation": "1988-08-15",
+  "repealDate": "2001-12-12",
+  "changeDate": "2024-03-15T11:19:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "jakość wyrobów",
+   "finansowa gospodarka",
+   "dzienniki urzędowe",
+   "ceny i stawki taryfowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/1050",
+     "date": "2001-12-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1988/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1988/112",
+     "art": "art. 4"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/52"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19880195.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880195.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19880195Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
