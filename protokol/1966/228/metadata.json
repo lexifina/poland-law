@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1966/228",
+ "source_sha256": "2bc28e4c047eafbafa12191e515dc10a4f0d12598a22ec515ecfc14742a5c5d6",
+ "in_force": "1965-09-30",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1966/228",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1966/228/text/O/D19660228.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1966/228/text/I/D19660228.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1966/228",
+  "publisher": "DU",
+  "year": 1966,
+  "volume": 38,
+  "pos": 228,
+  "address": "WDU19660380228",
+  "displayAddress": "Dz.U. 1966 nr 38 poz. 228",
+  "title": "Protokół do Międzynarodowej konwencji o rybołówstwie na Północno-Zachodnim Atlantyku, sporządzony w Waszyngtonie dnia 15 lipca 1963 r.",
+  "type": "Protokół",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-09-30",
+  "repealDate": "1979-12-31",
+  "changeDate": "2014-12-31T12:22:37",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1980/107",
+     "date": "1979-12-31"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1976/46"
+    },
+    {
+     "id": "DU/1967/147"
+    },
+    {
+     "id": "DU/1966/229"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19660228.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19660228.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
