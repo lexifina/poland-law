@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/123",
+ "source_sha256": "ea620d1251489bf794abef088ee93b7e61f1521048fee318b773702acd13255f",
+ "in_force": "1928-02-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/123/text/O/D19280123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/123/text/I/D19280123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/123",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 16,
+  "pos": 123,
+  "address": "WDU19280160123",
+  "displayAddress": "Dz.U. 1928 nr 16 poz. 123",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 7 lutego 1928 r. w sprawie budowy kolei Herby - Inowrocław.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-02-07",
+  "entryIntoForce": "1928-02-14",
+  "validFrom": "1928-02-14",
+  "repealDate": "1931-04-28",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo",
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/350",
+     "date": "1931-04-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/443"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 44 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
