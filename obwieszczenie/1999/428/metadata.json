@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/428",
+ "source_sha256": "d8d4e71b40aa39f8d5455f09232d471a913d0bd8a08ad7dd9fd008845018b298",
+ "in_force": "1999-04-13",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/428",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/428/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/428/text/O/D19990428.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/428/text/I/D19990428.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/428/text/T/D19990428L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1999/428/text/U/D19990428Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/428",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 42,
+  "pos": 428,
+  "address": "WDU19990420428",
+  "displayAddress": "Dz.U. 1999 nr 42 poz. 428",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 13 kwietnia 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-04-13",
+  "repealDate": "2007-03-15",
+  "changeDate": "2024-03-15T11:34:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "sąd lustracyjny",
+   "organizacja i zakres działania",
+   "kierownicze stanowiska państwowe",
+   "lustracja",
+   "pracownicy urzędów państwowych",
+   "bezpieczeństwo państwa",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/1592",
+     "date": "2007-03-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/860"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/860",
+     "art": "art. 7"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/443"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990428.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990428.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990428L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D19990428Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
