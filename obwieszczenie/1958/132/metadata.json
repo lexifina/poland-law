@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1958/132",
+ "source_sha256": "938598fa98af190077e8ab010dfba46dac1fc2b052bd583768b24dc0d585a272",
+ "in_force": "1958-05-02",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1958/132",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1958/132/text/O/D19580132.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1958/132/text/I/D19580132.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1958/132",
+  "publisher": "DU",
+  "year": 1958,
+  "volume": 29,
+  "pos": 132,
+  "address": "WDU19580290132",
+  "displayAddress": "Dz.U. 1958 nr 29 poz. 132",
+  "title": "Obwieszczenie Ministra Finansów z dnia 2 maja 1958 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 5 sierpnia 1949 r. o państwowym arbitrażu gospodarczym.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-05-02",
+  "expirationDate": "1961-08-10",
+  "changeDate": "2017-11-23T15:43:51",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1957/135"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1949/340"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19580132.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19580132.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
