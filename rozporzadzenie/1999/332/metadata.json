@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/332",
+ "source_sha256": "951fdf5e2d90abc0efb7082be2d99b364cba9490b63adda1bd2827d2c1fde869",
+ "in_force": "1999-05-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/332",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/332/text/O/D19990332.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/332/text/I/D19990332.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/332/text/T/D19990332L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/332",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 35,
+  "pos": 332,
+  "address": "WDU19990350332",
+  "displayAddress": "Dz.U. 1999 nr 35 poz. 332",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 19 marca 1999 r. w sprawie kosztów postępowania dyscyplinarnego.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-03-19",
+  "entryIntoForce": "1999-05-23",
+  "validFrom": "1999-05-23",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/944"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/944",
+     "art": "art. 110"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/925",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990332.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990332.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990332L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
