@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/724",
+ "source_sha256": "9f5eb8eda4d3f8d161b2481e073bd8c1a2f4216026106b1eab8d50209780ea45",
+ "in_force": "2001-07-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 796 words, parsed 69; at 69: ', o stwierdzenie niezgodności : 1 ) art . 207'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/724",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/724/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/724/text/O/D20010724.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/724/text/I/D20010724.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/724/text/T/D20010724L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/724",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 69,
+  "pos": 724,
+  "address": "WDU20010690724",
+  "displayAddress": "Dz.U. 2001 nr 69 poz. 724",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 29 czerwca 2001 r. sygn. akt K. 23/2000",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-06-29",
+  "promulgation": "2001-07-06",
+  "entryIntoForce": "2001-07-06",
+  "validFrom": "2001-07-06",
+  "changeDate": "2024-03-15T09:59:35",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "spółdzielczość"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1982/210",
+     "date": "2001-07-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1982/210"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010724.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010724.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010724L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
