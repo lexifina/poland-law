@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/185",
+ "source_sha256": "b8c85a2a384f69963b83473260dfc63193388e489f324f35e3f3137c9379d805",
+ "in_force": "2005-02-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 381 words, parsed 202; at 202: 'zaskarżonej decyzji w całości : a ) jest niezgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/185",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/185/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/185/text/O/D20050185.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/185/text/I/D20050185.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/185/text/T/D20050185TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/185",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 22,
+  "pos": 185,
+  "address": "WDU20050220185",
+  "displayAddress": "Dz.U. 2005 nr 22 poz. 185",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 31 stycznia 2005 r. sygn. akt SK 27/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-01-31",
+  "promulgation": "2005-02-09",
+  "entryIntoForce": "2005-02-09",
+  "validFrom": "2005-02-09",
+  "changeDate": "2024-03-15T10:02:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsumenci",
+   "konkurencja",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2005-02-09"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1 i 3"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050185.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050185.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050185TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050185TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
