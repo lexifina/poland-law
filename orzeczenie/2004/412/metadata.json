@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/412",
+ "source_sha256": "a84f7235867059d7ddf9c4c2cceb4ce759247713d9e2ea8d4657f7e7c9b648f3",
+ "in_force": "2004-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 442 words, parsed 361; at 361: 'Polskiej ; Ponadto postanawia : 1 ) na podstawie art'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/412",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/412/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/412/text/O/D20040412.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/412/text/I/D20040412.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/412/text/T/D20040412TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/412",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 43,
+  "pos": 412,
+  "address": "WDU20040430412",
+  "displayAddress": "Dz.U. 2004 nr 43 poz. 412",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 marca 2004 r. sygn. akt SK 23/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-08",
+  "promulgation": "2004-03-16",
+  "entryIntoForce": "2004-03-16",
+  "validFrom": "2004-03-16",
+  "changeDate": "2024-03-15T09:55:49",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "handlowe prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1934/502",
+     "date": "2004-03-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1934/502"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040412.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040412.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040412TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
