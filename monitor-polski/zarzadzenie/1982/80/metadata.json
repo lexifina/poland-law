@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/80",
+ "source_sha256": "c221c07aa418ce7a04bfb960269bb33665352fc2aa7bbd9e77d23b4b0a9c459b",
+ "in_force": "1982-04-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/80/text/O/M19820080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/80/text/I/M19820080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/80",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 11,
+  "pos": 80,
+  "address": "WMP19820110080",
+  "displayAddress": "M.P. 1982 nr 11 poz. 80",
+  "title": "Zarządzenie nr 11 Prezesa Rady Ministrów z dnia 20 kwietnia 1982 r. w sprawie utworzenia Instytutu Gospodarki Materiałowej.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-04-20",
+  "entryIntoForce": "1982-04-27",
+  "validFrom": "1982-04-27",
+  "repealDate": "2002-06-28",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. GOSPODARKI MATERAIAŁOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "organizacja instytutów"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1974/156",
+     "date": "1982-04-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/60"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/60",
+     "art": "art. 4 ust. 1 i 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/667",
+     "date": "2002-06-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
