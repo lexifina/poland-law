@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/2",
+ "source_sha256": "faa1b307030db0e86c1ad205adcf8d0bd97cd0ce84378151af748aaf7256f8f7",
+ "in_force": "1999-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/2/text/O/D19990002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/2/text/I/D19990002.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/2/text/T/D19990002L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/2",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 1,
+  "pos": 2,
+  "address": "WDU19990010002",
+  "displayAddress": "Dz.U. 1999 nr 1 poz. 2",
+  "title": "Rozporządzenie Ministra Finansów z dnia 8 stycznia 1999 r. w sprawie wykonania niektórych przepisów ustawy - Prawo dewizowe.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-08",
+  "entryIntoForce": "1999-01-12",
+  "validFrom": "1999-01-12",
+  "repealDate": "2002-10-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dewizowe prawo",
+   "kredyty i pożyczki",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/1273",
+     "date": "2002-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1063"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1063",
+     "art": "art. 2 ust. 4"
+    },
+    {
+     "id": "DU/1998/1063",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990002.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990002L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
