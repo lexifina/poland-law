@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/513",
+ "source_sha256": "91841340c3c2e47cb3eeab781324ebf76583069db2015851e5b12fa2ac649951",
+ "in_force": "1922-08-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/513",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/513/text/O/D19220513.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/513/text/I/D19220513.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/513",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 56,
+  "pos": 513,
+  "address": "WDU19220560513",
+  "displayAddress": "Dz.U. 1922 nr 56 poz. 513",
+  "title": "Rozporządzenie Ministra Przemysłu z dnia 8 lipca 1922 r. w przedmiocie podwyższenia opłat za czynności urzędów miar.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-07-08",
+  "entryIntoForce": "1922-08-01",
+  "validFrom": "1922-08-01",
+  "repealDate": "1922-10-15",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "terenowe organy administracji rządowej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1922/731",
+     "date": "1922-10-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1922/326",
+     "date": "1922-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/247"
+    },
+    {
+     "id": "DU/1921/752"
+    },
+    {
+     "id": "DU/1921/716"
+    },
+    {
+     "id": "DU/1919/211"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220513.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220513.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
