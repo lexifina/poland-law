@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/122",
+ "source_sha256": "2d208d83b9866f28cb289b8526937158c56daf1791ec0eb401a8b0f361f8b917",
+ "in_force": "2000-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/122",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/122/text/O/D20000122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/122/text/I/D20000122.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/122/text/T/D20000122L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/122",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 9,
+  "pos": 122,
+  "address": "WDU20000090122",
+  "displayAddress": "Dz.U. 2000 nr 9 poz. 122",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 31 stycznia 2000 r. w sprawie przekształceń w Wyższej Szkole Zawodowej w Koninie.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-01-31",
+  "entryIntoForce": "2000-02-19",
+  "validFrom": "2000-02-19",
+  "changeDate": "2026-09-01T16:01:13",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/497",
+     "date": "2000-02-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/590",
+     "art": "art. 10 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000122.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000122L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
