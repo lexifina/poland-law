@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/532",
+ "source_sha256": "7b789b127442cd5c0fe1827f4f280e50380cf5fbf3bcaaa7d013f9418379b27f",
+ "in_force": "2004-07-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/532",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/532/text/O/M20040532.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/532/text/I/M20040532.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/532",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 29,
+  "pos": 532,
+  "address": "WMP20040290532",
+  "displayAddress": "M.P. 2004 nr 29 poz. 532",
+  "title": "Obwieszczenie Ministra Finansów z dnia 30 czerwca 2004 r. w sprawie stawki odsetek za zwłokę od zaległości podatkowych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-06-30",
+  "promulgation": "2004-07-07",
+  "changeDate": "2022-01-28T14:17:19",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa",
+   "odsetki",
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040532.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040532.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
