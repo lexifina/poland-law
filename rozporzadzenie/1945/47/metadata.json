@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/47",
+ "source_sha256": "f83398148546a1dd8bda7215ffba8e3fab799dc745ba08f69ddf1f2cab97c672",
+ "in_force": "1945-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/47",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/47/text/O/D19450047.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/47/text/I/D19450047.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/47",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 9,
+  "pos": 47,
+  "address": "WDU19450090047",
+  "displayAddress": "Dz.U. 1945 nr 9 poz. 47",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 27 lutego 1945 r. o zmianie rozporządzenia o opłatach w postępowaniu przed sądem rejestrowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-02-27",
+  "entryIntoForce": "1945-04-01",
+  "validFrom": "1945-04-01",
+  "repealDate": "1946-09-25",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/245",
+     "date": "1946-09-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1935/291",
+     "date": "1945-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/503"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450047.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450047.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
