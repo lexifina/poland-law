@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/346",
+ "source_sha256": "007107b4bf5b14ba804e1d8bfaf16fe1a635db6379b8700d1c8ac2d050a4ee67",
+ "in_force": "2002-05-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/346",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/346/text/O/M20020346.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/346/text/I/M20020346.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/346",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 19,
+  "pos": 346,
+  "address": "WMP20020190346",
+  "displayAddress": "M.P. 2002 nr 19 poz. 346",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 13 maja 2002 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za I kwartał 2002 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-05-13",
+  "promulgation": "2002-05-23",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020346.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020346.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
