@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/648",
+ "source_sha256": "15efa19dae914e579dfedd9857dd47c107dd37859e99ea1b1e5f8a9138fac23a",
+ "in_force": "2000-07-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 991 words, parsed 112; at 112: 'Prezesa Najwyższej Izby Kontroli : 1 ) o wydanie orzeczenia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/648",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/648/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/648/text/O/D20000648.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/648/text/I/D20000648.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/648/text/T/D20000648L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/648",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 53,
+  "pos": 648,
+  "address": "WDU20000530648",
+  "displayAddress": "Dz.U. 2000 nr 53 poz. 648",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 28 czerwca 2000 r. sygn. akt K. 25/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-28",
+  "entryIntoForce": "2000-07-07",
+  "validFrom": "2000-07-07",
+  "changeDate": "2024-03-15T09:49:55",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "polityka pieniężna",
+   "banki"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny",
+   "Rada Polityki Pieniężnej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/938",
+     "date": "2000-07-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/938"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000648.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000648.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000648L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
