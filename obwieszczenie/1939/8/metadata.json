@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/8",
+ "source_sha256": "70d642cb2d39834172dc30400656c80ae1dc90d1c26d88b575c963e7839624c9",
+ "in_force": "1939-01-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/8",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/8/text/O/D19390008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/8/text/I/D19390008.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/8",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 2,
+  "pos": 8,
+  "address": "WDU19390020008",
+  "displayAddress": "Dz.U. 1939 nr 2 poz. 8",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 12 października 1938 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 grudnia 1927 r. o godłach i barwach państwowych oraz o oznakach, chorągwiach i pieczęciach.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-10-12",
+  "promulgation": "1939-01-10",
+  "repealDate": "1955-12-31",
+  "changeDate": "2014-12-31T12:25:24",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pieczęcie urzędowe",
+   "godło i barwy państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1955/314",
+     "date": "1955-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/246",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/980"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
