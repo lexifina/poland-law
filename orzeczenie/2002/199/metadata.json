@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/199",
+ "source_sha256": "db64b9c94f4c63fa075ee946b6523faf2ab15f3927851528415d419e78f33af9",
+ "in_force": "2002-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1384 words, parsed 100; at 100: 'o stwierdzenie , że : 1 . art . 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/199",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/199/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/199/text/O/D20020199.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/199/text/I/D20020199.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/199/text/T/D20020199TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/199",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 19,
+  "pos": 199,
+  "address": "WDU20020190199",
+  "displayAddress": "Dz.U. 2002 nr 19 poz. 199",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 lutego 2002 r. sygn. akt K. 47/2001.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-02-27",
+  "promulgation": "2002-03-11",
+  "entryIntoForce": "2002-03-11",
+  "validFrom": "2002-03-11",
+  "changeDate": "2024-03-15T10:06:53",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt podatkowy",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1509",
+     "date": "2002-03-11"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2002-03-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1509"
+    },
+    {
+     "id": "DU/1991/350"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020199.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020199.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020199TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
