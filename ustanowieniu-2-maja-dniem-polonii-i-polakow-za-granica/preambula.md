@@ -1,0 +1,1 @@
+Uznając wielowiekowy dorobek i wkład Polonii i Polaków za granicą w odzyskanie przez Polskę niepodległości, wierność i przywiązanie do polskości oraz pomoc Krajowi w najtrudniejszych momentach, w celu potwierdzenia więzi z Macierzą i jedności wszystkich Polaków, tak mieszkających w Kraju, jak i żyjących poza nim, uchwala się, co następuje:
