@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/81",
+ "source_sha256": "0a89a24111b57f3b14f6e67b887e7267a336fda055d58339faacd5be863f7361",
+ "in_force": "1990-03-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/81",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/81/text/O/D19900081.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/81/text/I/D19900081.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/81",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 12,
+  "pos": 81,
+  "address": "WDU19900120081",
+  "displayAddress": "Dz.U. 1990 nr 12 poz. 81",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 16 lutego 1990 r. zmieniające rozporządzenie w sprawie wykonania przepisów ustawy - Prawo przewozowe.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-02-16",
+  "promulgation": "1990-03-07",
+  "entryIntoForce": "1990-03-20",
+  "validFrom": "1990-03-20",
+  "repealDate": "1997-04-03",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przewozowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1997/142",
+     "date": "1997-04-03"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1985/128",
+     "date": "1990-03-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/272"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/272",
+     "art": "art. 56 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900081.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900081.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
