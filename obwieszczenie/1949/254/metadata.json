@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1949/254",
+ "source_sha256": "8cdd28d243275040d343cce75664507c7da331694a8dabd8e8bbc80ecf1f9c2d",
+ "in_force": "1949-05-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1949/254",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1949/254/text/O/D19490254.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1949/254/text/I/D19490254.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1949/254",
+  "publisher": "DU",
+  "year": 1949,
+  "volume": 34,
+  "pos": 254,
+  "address": "WDU19490340254",
+  "displayAddress": "Dz.U. 1949 nr 34 poz. 254",
+  "title": "Obwieszczenie Ministra Administracji Publicznej z dnia 10 maja 1949 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 14 lipca 1936 r. o paszportach.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-05-10",
+  "repealDate": "1954-09-02",
+  "changeDate": "2024-12-12T12:21:26",
+  "releasedBy": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1954/170",
+     "date": "1954-09-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/153"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1936/404"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19490254.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19490254.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
