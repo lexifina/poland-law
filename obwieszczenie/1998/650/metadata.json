@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/650",
+ "source_sha256": "a1c6a4f81ab174141e1fc45ba6903045671e3bf3f367fbb2c1178383f0abe4f2",
+ "in_force": "1998-05-11",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/650",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/650/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/650/text/O/D19980650.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/650/text/I/D19980650.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1998/650/text/U/D19980650Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/650",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 102,
+  "pos": 650,
+  "address": "WDU19981020650",
+  "displayAddress": "Dz.U. 1998 nr 102 poz. 650",
+  "title": "Obwieszczenie Ministra Finansów z dnia 11 maja 1998 r. w sprawie ogłoszenia jednolitego tekstu ustawy o grach losowych i zakładach wzajemnych.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-05-11",
+  "expirationDate": "2003-12-19",
+  "changeDate": "2024-03-15T11:30:06",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "gry losowe i zakłady wzajemne",
+   "podatki",
+   "zezwolenia",
+   "dokumenty",
+   "karne skarbowe prawo",
+   "kontrola skarbowa",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/621"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/621",
+     "art": "art. 5"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1998/946"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1992/341"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980650.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980650.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980650Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
