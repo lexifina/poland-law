@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/668",
+ "source_sha256": "43a1585244ca81077f6f0eb815964da832205a25707d3284b9db506a792065f4",
+ "in_force": "2001-11-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/668",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/668/text/O/M20010668.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/668/text/I/M20010668.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/668",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 41,
+  "pos": 668,
+  "address": "WMP20010410668",
+  "displayAddress": "M.P. 2001 nr 41 poz. 668",
+  "title": "Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 31 października 2001 r. w sprawie ogłoszenia jednolitego tekstu regulaminu Trybunału Konstytucyjnego stanowiącego załącznik do uchwały Zgromadzenia Ogólnego Sędziów Trybunału Konstytucyjnego z dnia 22 października 1997 r. w sprawie regulaminu Trybunału Konstytucyjnego.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-10-31",
+  "promulgation": "2001-11-21",
+  "repealDate": "2006-11-19",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "PREZ. TRYBUNAŁU KONSTYTUCYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2006/720",
+     "date": "2006-11-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/2001/567"
+    },
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/2001/567",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1997/643",
+     "art": "art. 14 ust. 7"
+    },
+    {
+     "id": "DU/1997/643",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1997/788"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010668.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010668.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
