@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/42",
+ "source_sha256": "1039df057c1f5dcf7c7cc7862b134488efc451240c9314441d213564e604fa39",
+ "in_force": "1935-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/42",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/42/text/O/M19350042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/42/text/I/M19350042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/42",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 26,
+  "pos": 42,
+  "address": "WMP19350260042",
+  "displayAddress": "M.P. 1935 nr 26 poz. 42",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 25 stycznia 1935 o wartości jednego grama czystego złota",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-01-25",
+  "promulgation": "1935-01-31",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/694"
+    },
+    {
+     "id": "DU/1934/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/509",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
