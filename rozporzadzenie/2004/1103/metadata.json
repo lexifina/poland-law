@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1103",
+ "source_sha256": "84cca7f9ae96c23d623a8d397b626502b022cf027210a344b1a31b7abedd4800",
+ "in_force": "2004-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1103",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1103/text/O/D20041103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1103/text/I/D20041103.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1103",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 104,
+  "pos": 1103,
+  "address": "WDU20041041103",
+  "displayAddress": "Dz.U. 2004 nr 104 poz. 1103",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 30 kwietnia 2004 r. zmieniające rozporządzenie w sprawie recept lekarskich",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-04-30",
+  "promulgation": "2004-05-01",
+  "entryIntoForce": "2004-05-01",
+  "validFrom": "2004-05-01",
+  "repealDate": "2004-10-01",
+  "changeDate": "2014-12-31T12:26:01",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "dokumentacja medyczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/2164",
+     "date": "2004-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/785",
+     "date": "2004-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/152"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/152",
+     "art": "art. 45 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20041103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
