@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1980/98",
+ "source_sha256": "4d294e4e1552f352abeb84d5f3a604e5746b3f2a16031a8539c190a357b3a133",
+ "in_force": "1980-09-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1980/98",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1980/98/text/O/M19800098.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1980/98/text/I/M19800098.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1980/98",
+  "publisher": "MP",
+  "year": 1980,
+  "volume": 21,
+  "pos": 98,
+  "address": "WMP19800210098",
+  "displayAddress": "M.P. 1980 nr 21 poz. 98",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 5 września 1980 r. w sprawie powołania Prezesa Rady Ministrów.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1980-09-05",
+  "entryIntoForce": "1980-09-05",
+  "validFrom": "1980-09-05",
+  "repealDate": "1981-02-20",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ministrowie",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1980/50",
+     "date": "1980-09-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 37 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1981/18",
+     "date": "1981-02-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19800098.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19800098.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
