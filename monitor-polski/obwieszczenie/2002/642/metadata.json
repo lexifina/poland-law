@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/642",
+ "source_sha256": "814ca2a355dc30273bef5f2c4e9eb4be3b53f23c63a5161bbe090c7396ee81fe",
+ "in_force": "2002-09-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/642",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/642/text/O/M20020642.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/642/text/I/M20020642.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/642",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 41,
+  "pos": 642,
+  "address": "WMP20020410642",
+  "displayAddress": "M.P. 2002 nr 41 poz. 642",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 16 września 2002 r. o treści oświadczeń złożonych przez osoby powoływane na kierownicze stanowiska państwowe przez Prezesa Rady Ministrów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-09-16",
+  "promulgation": "2002-09-18",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kierownicze stanowiska państwowe",
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 11 ust. 1"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/2002/670"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020642.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020642.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
