@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/26",
+ "source_sha256": "e889a274a4ef62c7479a67f142e7ebf47e21b89e8b923ae5b4a8ad96052f605a",
+ "in_force": "1933-01-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/26",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/26/text/O/M19330026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/26/text/I/M19330026.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/26",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 20,
+  "pos": 26,
+  "address": "WMP19330200026",
+  "displayAddress": "M.P. 1933 nr 20 poz. 26",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 16 stycznia 1933 r. Nr 2523/33.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-01-16",
+  "promulgation": "1933-01-25",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
