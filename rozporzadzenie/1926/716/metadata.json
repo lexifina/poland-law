@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/716",
+ "source_sha256": "7aa41255cf86bc28ca12396b2058abf7da719e1449a2b6ce5908688307d1bfbd",
+ "in_force": "1926-12-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/716",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/716/text/O/D19260716.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/716/text/I/D19260716.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/716",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 124,
+  "pos": 716,
+  "address": "WDU19261240716",
+  "displayAddress": "Dz.U. 1926 nr 124 poz. 716",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych z dnia 30 listopada 1926 r. w sprawie uzupełnienia artykułu 15 rozporządzenia z dnia 11 czerwca 1920 r. o taryfie celnej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-11-30",
+  "entryIntoForce": "1926-12-22",
+  "validFrom": "1926-12-22",
+  "repealDate": "1931-08-01",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. ROLNICTWA I DÓBR PAŃSTWOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stawki taryfowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/526",
+     "date": "1931-08-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/314",
+     "date": "1926-12-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260716.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260716.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
