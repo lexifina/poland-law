@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/456",
+ "source_sha256": "d8681fad33a4a9492edbe2792cd32b0d88b24cbe415c2b9000902038df7eed32",
+ "in_force": "1933-08-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/456",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/456/text/O/D19330456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/456/text/I/D19330456.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/456",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 61,
+  "pos": 456,
+  "address": "WDU19330610456",
+  "displayAddress": "Dz.U. 1933 nr 61 poz. 456",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 2 sierpnia 1933 r. w sprawie zmiany statutu oficerskich sądów honorowych.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-08-02",
+  "promulgation": "1933-08-09",
+  "entryIntoForce": "1933-08-09",
+  "validFrom": "1933-08-09",
+  "repealDate": "1937-03-18",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/834",
+     "date": "1933-08-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/256"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/256",
+     "art": "art. 63"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1937/128",
+     "date": "1937-03-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330456.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
