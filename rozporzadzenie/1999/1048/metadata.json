@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1048",
+ "source_sha256": "d6e8af6b6040e2d84d51845c31000f0c689b01ef99af6b115bf17119a2390747",
+ "in_force": "1999-11-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1048",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1048/text/O/D19991048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1048/text/I/D19991048.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1048/text/T/D19991048L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1048",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 92,
+  "pos": 1048,
+  "address": "WDU19990921048",
+  "displayAddress": "Dz.U. 1999 nr 92 poz. 1048",
+  "title": "Rozporządzenie Rady Ministrów z dnia 9 listopada 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad, zakresu i trybu udzielania dopłat do oprocentowania kredytów na cele rolnicze.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-11-09",
+  "entryIntoForce": "1999-11-17",
+  "validFrom": "1999-11-17",
+  "repealDate": "2003-06-19",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolnictwo",
+   "banki",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/909",
+     "date": "2003-06-19"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/92",
+     "date": "1999-11-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/60"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/60",
+     "art": "art. 6 ust. 4"
+    },
+    {
+     "id": "DU/1995/60",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991048.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991048L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
