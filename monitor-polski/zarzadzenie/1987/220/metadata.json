@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/220",
+ "source_sha256": "d6959e68ed5f98c0c105d5cfd056fc15873a31eaec1e25c25641fd5d3024378f",
+ "in_force": "1987-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/220",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/220/text/O/M19870220.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/220/text/I/M19870220.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/220",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 28,
+  "pos": 220,
+  "address": "WMP19870280220",
+  "displayAddress": "M.P. 1987 nr 28 poz. 220",
+  "title": "Zarządzenie Ministra Finansów z dnia 9 września 1987 r. w sprawie zaniechania ustalania podatków obrotowego i dochodowego od przychodów osób fizycznych z tytułu przechowywania zbóż ze zbiorów 1987 r.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-09-09",
+  "entryIntoForce": "1987-09-30",
+  "validFrom": "1987-09-30",
+  "repealDate": "1987-12-31",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1987/220",
+     "date": "1987-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 8 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1987/220",
+     "date": "1987-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870220.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870220.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
