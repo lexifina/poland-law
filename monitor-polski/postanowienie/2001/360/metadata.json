@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/360",
+ "source_sha256": "efdd5b6e2998c0e07a38bfda0ed2adf889e431ad487b8c952a79e692a6e6f129",
+ "in_force": "2001-05-30",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/360",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/360/text/O/M20010360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/360/text/I/M20010360.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/360",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 22,
+  "pos": 360,
+  "address": "WMP20010220360",
+  "displayAddress": "M.P. 2001 nr 22 poz. 360",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 30 maja 2001 r. nr 112-7-01 o powołaniu na stanowisko sędziego.",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-05-30",
+  "changeDate": "2017-03-24T10:59:13",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 179"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010360.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
