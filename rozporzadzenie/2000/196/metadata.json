@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/196",
+ "source_sha256": "6033cb4311f36f206b932dbe4659a87167f6548e86a7cd7b9ebb7d5bf629a9a9",
+ "in_force": "2000-03-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/196",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/196/text/O/D20000196.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/196/text/I/D20000196.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/196/text/T/D20000196L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/196",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 15,
+  "pos": 196,
+  "address": "WDU20000150196",
+  "displayAddress": "Dz.U. 2000 nr 15 poz. 196",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 lutego 2000 r. w sprawie nadania osobowości prawnej Centrum Duchowości Archidiecezji Częstochowskiej \"Święta Puszcza\".",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-02-16",
+  "entryIntoForce": "2000-03-22",
+  "validFrom": "2000-03-22",
+  "changeDate": "2021-08-18T09:57:04",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [
+   "Kościół Katolicki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/318"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/154"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/154",
+     "art": "art. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000196.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000196.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000196L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
