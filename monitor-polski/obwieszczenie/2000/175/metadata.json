@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/175",
+ "source_sha256": "f4eed434467dd04fd282561eb2ab85bf4933cd2ac235d5194c9e24353be276ca",
+ "in_force": "2000-02-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/175",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/175/text/O/M20000175.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/175/text/I/M20000175.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/175/text/T/M20000175L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/175",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 8,
+  "pos": 175,
+  "address": "WMP20000080175",
+  "displayAddress": "M.P. 2000 nr 8 poz. 175",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 24 lutego 2000 r. w sprawie wskaźnika cen dóbr inwestycyjnych za IV kwartał 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-02-24",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "inwestycje",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1996/561"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000175.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000175.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000175L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
