@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1955/1200",
+ "source_sha256": "5d663a77f807c1caedd651efdbe533a4a0e958fb9b7f6c7f201be1a3752207d1",
+ "in_force": "1955-10-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1955/1200",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1955/1200/text/O/M19551200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1955/1200/text/I/M19551200.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1955/1200",
+  "publisher": "MP",
+  "year": 1955,
+  "volume": 93,
+  "pos": 1200,
+  "address": "WMP19550931200",
+  "displayAddress": "M.P. 1955 nr 93 poz. 1200",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 3 września 1955 r. w sprawie rejonizacji hodowli trzody chlewnej poszczególnych ras i typów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-09-03",
+  "entryIntoForce": "1955-10-21",
+  "validFrom": "1955-10-21",
+  "repealDate": "1968-07-26",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/198",
+     "date": "1968-07-26"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1959/202",
+     "date": "1959-05-20"
+    },
+    {
+     "id": "MP/1958/48",
+     "date": "1958-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1955/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1955/34",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19551200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19551200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
