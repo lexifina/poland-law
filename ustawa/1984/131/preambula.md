@@ -1,0 +1,1 @@
+W czterdziestą rocznicę powstania Polski Ludowej, dając wyraz uznania dla wysiłku ludzi pracy w budowie i umacnianiu socjalistycznego państwa, rozwoju społeczno-gospodarczego i kultury narodowej, stanowi się, co następuje:
