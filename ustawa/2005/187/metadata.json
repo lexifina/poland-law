@@ -1,0 +1,107 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/187",
+ "source_sha256": "f01add8a29d7957f29c0c272cb1b2965c24d5aa0c94716d3a03f8868605dffef",
+ "in_force": "2005-02-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/187",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/187/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/187/text/O/D20050187.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/187/text/I/D20050187.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/187/text/T/D20050187L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/187",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 23,
+  "pos": 187,
+  "address": "WDU20050230187",
+  "displayAddress": "Dz.U. 2005 nr 23 poz. 187",
+  "title": "Ustawa z dnia 7 stycznia 2005 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz ustawy o pożyczkach i kredytach studenckich",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-01-07",
+  "promulgation": "2005-02-09",
+  "entryIntoForce": "2005-02-24",
+  "validFrom": "2005-02-24",
+  "changeDate": "2024-03-15T10:02:02",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe",
+   "studenci",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3340.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3340",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3340",
+    "number": "3340",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1365",
+     "date": "2005-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/685",
+     "date": "2005-02-24"
+    },
+    {
+     "id": "DU/1997/590",
+     "date": "2005-02-24"
+    },
+    {
+     "id": "DU/1990/385",
+     "date": "2005-02-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/590"
+    },
+    {
+     "id": "DU/1991/425"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050187.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050187.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050187L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
