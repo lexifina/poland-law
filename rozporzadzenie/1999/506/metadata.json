@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/506",
+ "source_sha256": "18dab66538cc4f1135723080718efe9a20f1e28be3527f68cd676879e85fbc9f",
+ "in_force": "1999-06-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/506",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/506/text/O/D19990506.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/506/text/I/D19990506.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/506/text/T/D19990506L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/506",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 50,
+  "pos": 506,
+  "address": "WDU19990500506",
+  "displayAddress": "Dz.U. 1999 nr 50 poz. 506",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 20 maja 1999 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Elblągu.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-05-20",
+  "entryIntoForce": "1999-06-10",
+  "validFrom": "1999-06-10",
+  "changeDate": "2026-09-01T16:01:13",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/495",
+     "date": "1999-06-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/590",
+     "art": "art. 10 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990506.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990506.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990506L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
