@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/356",
+ "source_sha256": "c2cab4fe06a3d73588764f059c565b86b7f6fc210e5fdc3651728762fb9f3640",
+ "in_force": "2001-07-02",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/356",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/356/text/O/M20010356.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/356/text/I/M20010356.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/356",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 21,
+  "pos": 356,
+  "address": "WMP20010210356",
+  "displayAddress": "M.P. 2001 nr 21 poz. 356",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 2 lipca 2001 r. o liczbie wyborców ujętych w rejestrach wyborców.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-07-02",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 114 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010356.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010356.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
