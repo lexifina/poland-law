@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/36",
+ "source_sha256": "f4e3bd25b6b285968d46a2278d913accf15bc3ea8f09af58ce9540ac43c3f84c",
+ "in_force": "1952-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/36",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/36/text/O/M19520036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/36/text/I/M19520036.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/36",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 2,
+  "pos": 36,
+  "address": "WMP19520020036",
+  "displayAddress": "M.P. 1952 nr 2 poz. 36",
+  "title": "Zarządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego i Ministra Finansów z dnia 6 grudnia 1951 r. w sprawie zmiany stawek amortyzacyjnych od pojazdów samochodowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-12-06",
+  "entryIntoForce": "1952-01-15",
+  "validFrom": "1952-01-15",
+  "repealDate": "1962-01-01",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO",
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/408",
+     "date": "1962-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    },
+    {
+     "id": "MP/1957/471",
+     "date": "1958-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1951/506",
+     "date": "1952-01-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1951/1052"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520036.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
