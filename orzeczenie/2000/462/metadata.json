@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/462",
+ "source_sha256": "772244a644748dfdce9349546152474f564f1521adc31c02dfa8d0ff6cb13dbd",
+ "in_force": "2000-05-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 375 words, parsed 159; at 159: 'i Podstawowych Wolności orzeka : 1 . Art . 42'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/462",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/462/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/462/text/O/D20000462.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/462/text/I/D20000462.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/462/text/T/D20000462L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/462",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 39,
+  "pos": 462,
+  "address": "WDU20000390462",
+  "displayAddress": "Dz.U. 2000 nr 39 poz. 462",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 maja 2000 r. sygn. akt K. 21/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-10",
+  "entryIntoForce": "2000-05-17",
+  "validFrom": "2000-05-17",
+  "changeDate": "2024-03-15T09:49:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "informacje niejawne",
+   "ochrona praw człowieka"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/95",
+     "date": "2001-01-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/95"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000462.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000462.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000462L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
