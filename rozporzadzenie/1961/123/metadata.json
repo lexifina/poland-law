@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1961/123",
+ "source_sha256": "5f9ccc00bba4a96499e7dc7641d5dedfa1612ce6c075789d5469d9168fd93d2c",
+ "in_force": "1961-05-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1961/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1961/123/text/O/D19610123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1961/123/text/I/D19610123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1961/123",
+  "publisher": "DU",
+  "year": 1961,
+  "volume": 25,
+  "pos": 123,
+  "address": "WDU19610250123",
+  "displayAddress": "Dz.U. 1961 nr 25 poz. 123",
+  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 26 kwietnia 1961 r. zmieniające rozporządzenie z dnia 18 września 1956 r. w sprawie wydawania przez apteki otwarte i kolejowe leków i innych artykułów dozwolonych do obrotu aptecznego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-04-26",
+  "entryIntoForce": "1961-05-20",
+  "validFrom": "1961-05-20",
+  "repealDate": "1969-07-01",
+  "changeDate": "2014-12-31T12:25:28",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1969/75",
+     "date": "1969-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1956/197",
+     "date": "1961-05-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19610123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19610123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
