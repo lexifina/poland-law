@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/552",
+ "source_sha256": "f38b29fc7669a97ea35f9c234b4de1fb0a1f480a67ecdffb97e13669aae0272b",
+ "in_force": "1999-11-17",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/552",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/552/text/O/M19990552.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/552/text/I/M19990552.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/552/text/T/M9990552.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/552",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 36,
+  "pos": 552,
+  "address": "WMP19990360552",
+  "displayAddress": "M.P. 1999 nr 36 poz. 552",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 17 listopada 1999 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w październiku 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-17",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/939"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/939",
+     "art": "art. 56 ust. 1"
+    },
+    {
+     "id": "DU/1997/939",
+     "art": "art. 57 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990552.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990552.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990552.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
