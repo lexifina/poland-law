@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/565",
+ "source_sha256": "c666f2a89dbdf352772589234162fefc0fe739cf6d93bbaa155d6ac2d85c1c60",
+ "in_force": "2000-06-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/565",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/565/text/O/D20000565.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/565/text/I/D20000565.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/565/text/T/D20000565L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/565",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 49,
+  "pos": 565,
+  "address": "WDU20000490565",
+  "displayAddress": "Dz.U. 2000 nr 49 poz. 565",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 czerwca 2000 r. o zarządzeniu wyrobów Prezydenta Rzeczypospolitej Polskiej.",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-06-16",
+  "promulgation": "2000-06-17",
+  "entryIntoForce": "2000-06-16",
+  "validFrom": "2000-06-16",
+  "changeDate": "2025-07-21T10:12:56",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 7 ust. 1"
+    },
+    {
+     "id": "DU/1990/398",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000565.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000565.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000565L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
