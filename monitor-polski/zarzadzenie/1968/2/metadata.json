@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/2",
+ "source_sha256": "c97e2191352f60cf9b0206668eeff903cf3d00ff27fedfd0defc5013ef46c6ad",
+ "in_force": "1968-01-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/2/text/O/M19680002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/2/text/I/M19680002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/2",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 1,
+  "pos": 2,
+  "address": "WMP19680010002",
+  "displayAddress": "M.P. 1968 nr 1 poz. 2",
+  "title": "Zarządzenie Przewodniczącego Komisji Planowania przy Radzie Ministrów z dnia 23 grudnia 1967 r. w sprawie zbytu wyrobów przemysłu terenowego w roku 1968.",
+  "type": "Zarządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1967-12-23",
+  "entryIntoForce": "1968-01-11",
+  "validFrom": "1968-01-01",
+  "changeDate": "2020-11-23T15:45:10",
+  "releasedBy": [
+   "PRZEW. KOMISJI PLANOWANIA RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1960/329"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/318"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/318",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
