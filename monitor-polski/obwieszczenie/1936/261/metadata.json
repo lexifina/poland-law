@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/261",
+ "source_sha256": "a1cd0c2989915cff37b308f02446d13b93bf6fb2dcaa005352763bc0a304ba35",
+ "in_force": "1936-06-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/261",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/261/text/O/M19360261.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/261/text/I/M19360261.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/261",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 148,
+  "pos": 261,
+  "address": "WMP19361480261",
+  "displayAddress": "M.P. 1936 nr 148 poz. 261",
+  "title": "Obwieszczenie Urzędu Długów Państwowych z dnia 18 czerwca 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-06-18",
+  "promulgation": "1936-06-27",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360261.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360261.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
