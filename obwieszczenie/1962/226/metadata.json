@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1962/226",
+ "source_sha256": "de1abb660b599963f07717dcf3c9cfb9c8f1bec26c64d9a63e353fdbb1a6853f",
+ "in_force": "1962-07-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1962/226",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1962/226/text/O/D19620226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1962/226/text/I/D19620226.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1962/226",
+  "publisher": "DU",
+  "year": 1962,
+  "volume": 46,
+  "pos": 226,
+  "address": "WDU19620460226",
+  "displayAddress": "Dz.U. 1962 nr 46 poz. 226",
+  "title": "Obwieszczenie Ministra Rolnictwa z dnia 31 lipca 1962 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 16 sierpnia 1949 r. o wymianie gruntów.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-07-31",
+  "repealDate": "1982-04-06",
+  "changeDate": "2017-11-23T15:43:57",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "scalanie i wymiana gruntów",
+   "księgi wieczyste i hipoteka",
+   "leśnictwo",
+   "grunty rolne i leśne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/169"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1949/367"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1982/80",
+     "date": "1982-04-06"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19620226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19620226.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
