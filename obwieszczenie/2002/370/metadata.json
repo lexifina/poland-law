@@ -1,0 +1,104 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/370",
+ "source_sha256": "850575de53d009c1b4c8cd8f0b3f4e9b93f2b301f78a6a96fc7e224cfba07e0d",
+ "in_force": "2002-04-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/370",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/370/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/370/text/O/D20020370.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/370/text/I/D20020370.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/370/text/T/D20020370L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/370/text/U/D20020370Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/370",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 42,
+  "pos": 370,
+  "address": "WDU20020420370",
+  "displayAddress": "Dz.U. 2002 nr 42 poz. 370",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 2002 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dyscyplinie wojskowej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-03-30",
+  "promulgation": "2002-04-20",
+  "repealDate": "2010-01-01",
+  "changeDate": "2024-03-15T10:06:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "obrona narodowa",
+   "służba wojskowa żołnierzy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 118-126 ustawy z dnia 4 września 1997 r. o dyscyplinie wojskowej.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/1474",
+     "date": "2010-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/925"
+    },
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/925",
+     "art": "art. 16 ust. 1"
+    },
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/944"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020370.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020370.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020370L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20020370Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
