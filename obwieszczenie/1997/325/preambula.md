@@ -1,0 +1,3 @@
+W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 5 listopada 1996 r., sygn. K 6/96, i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470, z 1993 r. Nr 47, poz. 213, z 1994 r. Nr 122, poz. 593, z 1995 r. Nr 13, poz. 59 i z 1996 r. Nr 77, poz. 367) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. (Dz. U. Nr 105, poz. 481) ogłaszam utratę mocy obowiązującej art. 1 pkt 1 lit. b) ustawy z dnia 7 lipca 1994 r. o zmianie ustawy o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej (Dz. U. z 1996 r. Nr 32, poz. 139).
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
