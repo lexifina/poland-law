@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/587",
+ "source_sha256": "d855683889565153ea9cbd61f5f07d9bf897387ea518bb8e2e0f7d1ae5be08b5",
+ "in_force": "1999-06-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 260 words, parsed 151; at 151: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 34'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/587",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/587/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/587/text/O/D19990587.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/587/text/I/D19990587.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/587/text/T/D19990587L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/587",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 55,
+  "pos": 587,
+  "address": "WDU19990550587",
+  "displayAddress": "Dz.U. 1999 nr 55 poz. 587",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 czerwca 1999 r. sygn. akt K. 11/98.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-14",
+  "entryIntoForce": "1999-06-22",
+  "validFrom": "1999-06-22",
+  "changeDate": "2024-03-15T11:34:50",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/1026"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990587.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990587.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990587L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
