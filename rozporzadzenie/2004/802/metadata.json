@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/802",
+ "source_sha256": "f74f082b27b323b1b577107c857ea79ef006b895ce84bc7b01798d5d3e8ffeb5",
+ "in_force": "2004-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/802",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/802/text/O/D20040802.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/802/text/I/D20040802.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/802",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 86,
+  "pos": 802,
+  "address": "WDU20040860802",
+  "displayAddress": "Dz.U. 2004 nr 86 poz. 802",
+  "title": "Rozporządzenie Rady Ministrów z dnia 6 kwietnia 2004 r. w sprawie poddania kobiet obowiązkowi stawienia się do poboru",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-04-06",
+  "promulgation": "2004-04-28",
+  "entryIntoForce": "2004-07-01",
+  "validFrom": "2004-07-01",
+  "repealDate": "2006-06-21",
+  "changeDate": "2014-12-31T12:26:00",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kobiety",
+   "powszechny obowiązek obrony"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/660",
+     "date": "2006-06-21"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1992/333",
+     "date": "2004-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 48 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20040802.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040802.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
