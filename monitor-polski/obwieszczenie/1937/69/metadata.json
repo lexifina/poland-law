@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/69",
+ "source_sha256": "782f99a50668e9e9780551cc4251e963f9918c60ba22b05b4a6c2b648e403f47",
+ "in_force": "1937-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/69",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/69/text/O/M19370069.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/69/text/I/M19370069.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/69",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 49,
+  "pos": 69,
+  "address": "WMP19370490069",
+  "displayAddress": "M.P. 1937 nr 49 poz. 69",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 23 lutego 1937 r. w sprawie nowych wzorów świadectw rozrachunkowych, przeznaczonych dla kontroli specjalnej obrotu towarowego polsko-niemieckiego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-02-23",
+  "promulgation": "1937-03-02",
+  "entryIntoForce": "1937-03-01",
+  "validFrom": "1937-03-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "kontrola"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1937/35",
+     "date": "1937-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/820"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/820",
+     "art": "par. 48 ust. 11"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 56 ust. 8"
+    },
+    {
+     "id": "DU/1934/820",
+     "art": "par. 62 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370069.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370069.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
