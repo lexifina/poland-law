@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1974/150",
+ "source_sha256": "869023cd739318cfa82449b9985c9f85c46ccdb349bce6d8a2a98c2ed42add4b",
+ "in_force": "1974-07-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1974/150",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1974/150/text/O/M19740150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1974/150/text/I/M19740150.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1974/150",
+  "publisher": "MP",
+  "year": 1974,
+  "volume": 25,
+  "pos": 150,
+  "address": "WMP19740250150",
+  "displayAddress": "M.P. 1974 nr 25 poz. 150",
+  "title": "Zarządzenie Ministra Górnictwa i Energetyki z dnia 21 czerwca 1974 r. w sprawie warunków dostarczania paliw gazowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1974-06-21",
+  "entryIntoForce": "1974-07-11",
+  "validFrom": "1974-07-11",
+  "repealDate": "1978-05-15",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. GÓRNICTWA I ENERGETYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1978/56",
+     "date": "1978-05-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/240",
+     "date": "1974-07-11"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1970/79",
+     "date": "1974-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/150"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/150",
+     "art": "art. 4 ust. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19740150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19740150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
