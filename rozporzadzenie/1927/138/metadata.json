@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/138",
+ "source_sha256": "1d175b02c450eb487d92f386d20d74be60577e946541205e09aec4d6fb22a889",
+ "in_force": "1927-03-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/138",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/138/text/O/D19270138.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/138/text/I/D19270138.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/138",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 18,
+  "pos": 138,
+  "address": "WDU19270180138",
+  "displayAddress": "Dz.U. 1927 nr 18 poz. 138",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 stycznia 1927 r. o taksie aptekarskiej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-01-29",
+  "entryIntoForce": "1927-03-03",
+  "validFrom": "1927-03-03",
+  "repealDate": "1930-11-19",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "ceny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/604",
+     "date": "1930-11-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1926/402",
+     "date": "1927-04-01"
+    },
+    {
+     "id": "DU/1926/240",
+     "date": "1927-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/86"
+    },
+    {
+     "id": "DU/1923/1060"
+    },
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270138.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270138.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
