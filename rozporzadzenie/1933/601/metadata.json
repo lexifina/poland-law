@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/601",
+ "source_sha256": "53ab704d88c1c49b28770b310cd252bcaebe054314073efa981df4fe931af0b3",
+ "in_force": "1934-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/601",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/601/text/O/D19330601.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/601/text/I/D19330601.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/601",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 82,
+  "pos": 601,
+  "address": "WDU19330820601",
+  "displayAddress": "Dz.U. 1933 nr 82 poz. 601",
+  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. - Przepisy wprowadzające kodeks handlowy.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-10-27",
+  "promulgation": "1933-10-28",
+  "entryIntoForce": "1934-07-01",
+  "validFrom": "1934-07-01",
+  "changeDate": "2020-09-23T13:38:30",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "handlowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1934/503",
+     "date": "1934-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1928/321"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/249"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 44 ust. 6"
+    }
+   ],
+   "Przepisy wprowadzane": [
+    {
+     "id": "DU/1933/600"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330601.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330601.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
