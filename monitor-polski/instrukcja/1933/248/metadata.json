@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/248",
+ "source_sha256": "6ba789e729d57de15cdb53937f954bc88f850105cc0b0bf95f2e7ddd06833cec",
+ "in_force": "1933-09-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/248",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/248/text/O/M19330248.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/248/text/I/M19330248.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/248",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 223,
+  "pos": 248,
+  "address": "WMP19332230248",
+  "displayAddress": "M.P. 1933 nr 223 poz. 248",
+  "title": "Instrukcja Ministra Opieki Społecznej z dnia 20 września 1933 r. o sposobie wykonywania nadzoru nad wyrobem, obrotem i dobrocią preparatów organoterapeutycznych.",
+  "type": "Instrukcja",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-09-20",
+  "promulgation": "1933-09-28",
+  "entryIntoForce": "1933-09-28",
+  "validFrom": "1933-09-28",
+  "repealDate": "1948-09-13",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1948/602",
+     "date": "1948-09-13"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1939/40",
+     "date": "1939-02-08"
+    },
+    {
+     "id": "MP/1935/333",
+     "date": "1935-11-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1933/344"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330248.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330248.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
