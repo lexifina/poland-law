@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1982/70",
+ "source_sha256": "83b4cf969bd87c735580e31187e23f8d6e32721b03eda82a354a87689bc51576",
+ "in_force": "1982-03-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1982/70",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1982/70/text/O/D19820070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1982/70/text/I/D19820070.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1982/70",
+  "publisher": "DU",
+  "year": 1982,
+  "volume": 9,
+  "pos": 70,
+  "address": "WDU19820090070",
+  "displayAddress": "Dz.U. 1982 nr 9 poz. 70",
+  "title": "Rozporządzenie Ministra Finansów z dnia 6 marca 1982 r. w sprawie inkasa niektórych podatków i opłat w miastach.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-03-06",
+  "promulgation": "1982-03-25",
+  "entryIntoForce": "1982-03-25",
+  "validFrom": "1982-03-25",
+  "repealDate": "1991-01-01",
+  "changeDate": "2014-12-31T12:25:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1991/52",
+     "date": "1991-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1965/288"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    },
+    {
+     "id": "DU/1949/41"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 9 pkt 3"
+    },
+    {
+     "id": "DU/1949/41",
+     "art": "art. 5 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19820070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19820070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
