@@ -1,0 +1,141 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/500",
+ "source_sha256": "757a79f28df9f4328e8428d3854a8dfc7f71cfbd9c91bc3ad02718f53bef1553",
+ "in_force": "1999-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/500",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/500/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/500/text/O/D19990500.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/500/text/I/D19990500.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/500/text/T/D19990500L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1999/500/text/U/D19990500Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/500",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 50,
+  "pos": 500,
+  "address": "WDU19990500500",
+  "displayAddress": "Dz.U. 1999 nr 50 poz. 500",
+  "title": "Ustawa z dnia 7 maja 1999 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz o zmianie ustawy o uposażeniu żołnierzy.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-05-07",
+  "promulgation": "1999-06-02",
+  "entryIntoForce": "1999-07-01",
+  "validFrom": "1999-07-01",
+  "repealDate": "2022-04-23",
+  "changeDate": "2024-03-15T11:34:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW",
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek dla żołnierzy",
+   "obrona narodowa",
+   "wynagrodzenia",
+   "służba wojskowa żołnierzy",
+   "świadczenia pieniężne",
+   "powszechny obowiązek obrony",
+   "odprawy",
+   "służba zastępcza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/705.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/705",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/705",
+    "number": "705",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2022/655",
+     "date": "2022-04-23"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1990/311",
+     "date": "2000-07-01"
+    },
+    {
+     "id": "DU/1999/262",
+     "date": "2000-07-01"
+    },
+    {
+     "id": "DU/1999/14",
+     "date": "2000-07-01"
+    },
+    {
+     "id": "DU/1998/797",
+     "date": "2000-07-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/2036",
+     "date": "2004-07-01"
+    },
+    {
+     "id": "DU/2001/298",
+     "date": "2001-03-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1974/282",
+     "date": "1999-07-01"
+    },
+    {
+     "id": "DU/1967/220",
+     "date": "1999-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990500.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990500.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990500L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D19990500Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
