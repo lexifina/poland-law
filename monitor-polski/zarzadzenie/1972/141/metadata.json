@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/141",
+ "source_sha256": "b61edc8bc37d55209216c9f1f7b445e036fbd5d9e89b70c578176887a6d5cdc0",
+ "in_force": "1972-04-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/141",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/141/text/O/M19720141.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/141/text/I/M19720141.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/141",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 25,
+  "pos": 141,
+  "address": "WMP19720250141",
+  "displayAddress": "M.P. 1972 nr 25 poz. 141",
+  "title": "Zarządzenie nr 39 Prezesa Rady Ministrów z dnia 10 kwietnia 1972 r. w sprawie zasad bilansowania robót budowlano-montażowych i uproszczenia trybu ich zlecania.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-04-10",
+  "entryIntoForce": "1972-04-25",
+  "validFrom": "1972-04-25",
+  "repealDate": "1983-03-15",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. BUDOWNICTWA I PRZEMYSŁU MATERIAŁÓW BUDOWLANYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/56",
+     "date": "1983-03-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1971/289",
+     "date": "1972-04-25"
+    },
+    {
+     "id": "MP/1969/188",
+     "date": "1972-04-25"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1970/146",
+     "date": "1972-04-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720141.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720141.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
