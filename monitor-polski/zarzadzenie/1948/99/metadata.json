@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1948/99",
+ "source_sha256": "aae4efd2cdc014998485d9152cf6082596f831f2dcf21e9b55dae2c517fdac99",
+ "in_force": "1948-03-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1948/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1948/99/text/O/M19480099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1948/99/text/I/M19480099.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1948/99",
+  "publisher": "MP",
+  "year": 1948,
+  "volume": 25,
+  "pos": 99,
+  "address": "WMP19480250099",
+  "displayAddress": "M.P. 1948 nr 25 poz. 99",
+  "title": "Zarządzenie Ministra Pracy i Opieki Społecznej z dnia 1 marca 1948 r. w sprawie zatwierdzenia taryfy składek ryczałtowych w gospodarstwach rolnych i leśnych za ubezpieczenie od wypadków w zatrudnieniu i chorób zawodowych.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-03-01",
+  "entryIntoForce": "1948-03-12",
+  "validFrom": "1948-03-12",
+  "repealDate": "1948-12-31",
+  "changeDate": "2014-12-31T12:24:27",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1949/43",
+     "date": "1948-12-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1938/459"
+    },
+    {
+     "id": "DU/1933/793"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/396"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1949/43",
+     "date": "1948-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19480099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19480099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
