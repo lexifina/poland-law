@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/717",
+ "source_sha256": "716e7ec12e70d52354a5ef0c83794168dadb5bceef86ad9b36dc1865d2953ab4",
+ "in_force": "1932-09-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/717",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/717/text/O/D19320717.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/717/text/I/D19320717.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/717",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 81,
+  "pos": 717,
+  "address": "WDU19320810717",
+  "displayAddress": "Dz.U. 1932 nr 81 poz. 717",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 28 września 1932 r. o sprostowaniu błędu w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 23 sierpnia 1932 r. w sprawie wyłączeń z Ordynacji Zamoyskiej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-09-28",
+  "promulgation": "1932-09-30",
+  "changeDate": "2020-11-03T15:55:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. c)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1932/666"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320717.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320717.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
