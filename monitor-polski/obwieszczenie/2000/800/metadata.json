@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/800",
+ "source_sha256": "2be67f62aff3d443e23548ff3ada86ef037b2b15a129168890d6c82257fc085b",
+ "in_force": "2000-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/800",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/800/text/O/M20000800.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/800/text/I/M20000800.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/800",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 40,
+  "pos": 800,
+  "address": "WMP20000400800",
+  "displayAddress": "M.P. 2000 nr 40 poz. 800",
+  "title": "Obwieszczenie Głównego Lekarza Weterynarii z dnia 1 grudnia 2000 r. w sprawie rejestrów państw, z których może być przywożone i przewożone przez terytorium Rzeczypospolitej Polskiej mięso, środki spożywcze pochodzenia zwierzęcego, niejadalne surowce zwierzęce, pasze.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-12-01",
+  "repealDate": "2001-01-25",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "GŁÓWNY LEKARZ WETERYNARII"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "import",
+   "rejestry",
+   "zwierzęta",
+   "choroby zakaźne",
+   "mięso",
+   "tranzyt",
+   "choroby zwierząt"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2001/83",
+     "date": "2001-01-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2000/747",
+     "date": "2000-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/369"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/369",
+     "art": "art. 11 ust. ust.. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2001/83",
+     "date": "2001-01-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000800.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000800.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
