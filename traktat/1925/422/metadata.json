@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/422",
+ "source_sha256": "3f341dc48eb90d30e06653c847310bc6d09d8e2a07efa7debec60d8356eaed11",
+ "in_force": "1925-05-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/422",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/422/text/O/D19250422.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/422/text/I/D19250422.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/422",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 60,
+  "pos": 422,
+  "address": "WDU19250600422",
+  "displayAddress": "Dz.U. 1925 nr 60 poz. 422",
+  "title": "Traktat Handlowy i Nawigacyjny pomiędzy Polską a Holandją podpisany w Warszawie, dnia 30 maja 1924 roku.",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1925-05-04",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "handel zagraniczny",
+   "umowy międzynarodowe",
+   "umowy handlowe i handlowo-nawigacyjne"
+  ],
+  "keywordsNames": [
+   "Holandia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1931/7"
+    },
+    {
+     "id": "MP/1931/16"
+    },
+    {
+     "id": "DU/1925/423"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1926/733",
+     "date": "1926-12-23"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1925/295"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250422.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250422.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
