@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/203",
+ "source_sha256": "d3e3572998970d18de529e304eaaa02f6bb0dbe8a4145724cb325ac951eff58b",
+ "in_force": "1945-09-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/203",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/203/text/O/D19450203.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/203/text/I/D19450203.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/203",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 34,
+  "pos": 203,
+  "address": "WDU19450340203",
+  "displayAddress": "Dz.U. 1945 nr 34 poz. 203",
+  "title": "Dekret z dnia 24 sierpnia 1945 r. o zmianie ustawy z dnia 6 maja 1945 r. o wyłączeniu ze społeczeństwa polskiego wrogich elementów.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-08-24",
+  "entryIntoForce": "1945-09-19",
+  "validFrom": "1945-09-19",
+  "repealDate": "1946-11-17",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/324",
+     "date": "1946-11-17"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/96",
+     "date": "1945-09-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450203.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450203.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
