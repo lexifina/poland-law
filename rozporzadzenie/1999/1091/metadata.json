@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1091",
+ "source_sha256": "9bc44dc27d95e12f7b93fc59fc5c9a5db087ff66016bcf93a4ebc455144c71ae",
+ "in_force": "1999-12-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1091",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1091/text/O/D19991091.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1091/text/I/D19991091.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1091/text/T/D19991091L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1091",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 94,
+  "pos": 1091,
+  "address": "WDU19990941091",
+  "displayAddress": "Dz.U. 1999 nr 94 poz. 1091",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 10 listopada 1999 r. w sprawie przekształceń w Wyższej Szkole Zawodowej Administracji Publicznej w Sulechowie.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-10",
+  "entryIntoForce": "1999-12-09",
+  "validFrom": "1999-12-09",
+  "changeDate": "2026-09-01T16:01:13",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/670",
+     "date": "1999-12-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/590",
+     "art": "art. 10 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991091.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991091.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991091L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
