@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1980/96",
+ "source_sha256": "ac33adf78157439d977f821c8010ac7fb6b61df4592437119c622b3e2db68030",
+ "in_force": "1980-08-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1980/96",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1980/96/text/O/M19800096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1980/96/text/I/M19800096.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1980/96",
+  "publisher": "MP",
+  "year": 1980,
+  "volume": 20,
+  "pos": 96,
+  "address": "WMP19800200096",
+  "displayAddress": "M.P. 1980 nr 20 poz. 96",
+  "title": "Uchwała Rady Państwa z dnia 24 sierpnia 1980 r.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1980-08-24",
+  "entryIntoForce": "1980-08-24",
+  "validFrom": "1980-08-24",
+  "repealDate": "1980-08-30",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ministrowie",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1980/96",
+     "date": "1980-08-30"
+    },
+    {
+     "id": "MP/1980/48",
+     "date": "1980-08-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 37 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1980/96",
+     "date": "1980-08-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19800096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19800096.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
