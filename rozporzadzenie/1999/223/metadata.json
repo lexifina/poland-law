@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/223",
+ "source_sha256": "b77e1931c338af0549fec23829637947df2f04101355103fad21d970944f319e",
+ "in_force": "1999-04-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/223/text/O/D19990223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/223/text/I/D19990223.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/223/text/T/D19990223L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/223",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 25,
+  "pos": 223,
+  "address": "WDU19990250223",
+  "displayAddress": "Dz.U. 1999 nr 25 poz. 223",
+  "title": "Rozporządzenie Ministra Łączności z dnia 9 marca 1999 r. zmieniające rozporządzenie w sprawie planu emisji znaczków pocztowych na 1999 r.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-03-09",
+  "entryIntoForce": "1999-04-10",
+  "validFrom": "1999-04-10",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. ŁĄCZNOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "łączność",
+   "znaczki pocztowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/674",
+     "date": "1999-04-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/504"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/504",
+     "art": "art. 44 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990223.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990223L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
