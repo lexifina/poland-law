@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/411",
+ "source_sha256": "03f8653da9e6f29ec208bd3aa7e7a14d588ced2e6ec1b1f776661056e3e09904",
+ "in_force": "2000-06-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/411",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/411/text/O/M20000411.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/411/text/I/M20000411.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/411",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 20,
+  "pos": 411,
+  "address": "WMP20000200411",
+  "displayAddress": "M.P. 2000 nr 20 poz. 411",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 28 czerwca 2000 r. w sprawie wyrażenia zgody na powołanie Rzecznika Praw Dziecka .",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-28",
+  "changeDate": "2016-04-13T13:42:18",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Rzecznik Praw Dziecka"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/69"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/69",
+     "art": "art. 4 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000411.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000411.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
