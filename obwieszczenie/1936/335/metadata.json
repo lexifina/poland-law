@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/335",
+ "source_sha256": "ba71b97cd95c92e83ec807cbe7c80bf2971579ebc067d617fe948d4acf442074",
+ "in_force": "1936-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/335",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/335/text/O/D19360335.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/335/text/I/D19360335.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/335",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 45,
+  "pos": 335,
+  "address": "WDU19360450335",
+  "displayAddress": "Dz.U. 1936 nr 45 poz. 335",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 17 kwietnia 1936 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 15 lipca 1927 r. o izbach przemysłowo-handlowych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-04-17",
+  "promulgation": "1936-06-15",
+  "repealDate": "1950-03-30",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby przemysłowo-handlowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1950/104",
+     "date": "1950-03-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/976"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/976",
+     "art": "art. 122 ust. 2 i 3 pkt 7"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/591"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360335.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360335.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
