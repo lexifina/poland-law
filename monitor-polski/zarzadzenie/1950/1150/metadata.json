@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1150",
+ "source_sha256": "449251c9d4a40ce820a54f0c3ed0eaf8e41b1db6fc1e83cc657016fc5c5937d6",
+ "in_force": "1950-08-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1150",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1150/text/O/M19501150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1150/text/I/M19501150.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1150",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 92,
+  "pos": 1150,
+  "address": "WMP19500921150",
+  "displayAddress": "M.P. 1950 nr 92 poz. 1150",
+  "title": "Zarządzenie Ministra Handlu Wewnętrznego z dnia 4 sierpnia 1950 r. o uchyleniu przymusowego zarządu państwowego nad przedsiębiorstwem: Piekarnia Mechaniczna w Otwocku.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-08-04",
+  "entryIntoForce": "1950-08-23",
+  "validFrom": "1950-08-10",
+  "repealDate": "1950-08-24",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1950/499",
+     "date": "1950-08-10"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1950/1150",
+     "date": "1950-08-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1918/67"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1950/1150",
+     "date": "1950-08-24"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19501150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19501150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
