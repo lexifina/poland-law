@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1974/235",
+ "source_sha256": "2bf4813fb8445bfc6f794edf7096250ae8f28d00feb6597b49dbf5784ee4d488",
+ "in_force": "1975-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1974/235",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1974/235/text/O/M19740235.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1974/235/text/I/M19740235.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1974/235",
+  "publisher": "MP",
+  "year": 1974,
+  "volume": 40,
+  "pos": 235,
+  "address": "WMP19740400235",
+  "displayAddress": "M.P. 1974 nr 40 poz. 235",
+  "title": "Zarządzenie Ministra Finansów z dnia 19 listopada 1974 r. w sprawie amortyzacji niektórych środków trwałych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1974-11-19",
+  "entryIntoForce": "1975-01-01",
+  "validFrom": "1975-01-01",
+  "repealDate": "1984-01-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1983/320",
+     "date": "1984-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1973/151"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1973/151"
+    },
+    {
+     "id": "MP/1961/408"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1973/151",
+     "art": "par. 8 ust. 1 pkt 2"
+    },
+    {
+     "id": "MP/1961/408",
+     "art": "par. 10 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19740235.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19740235.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
