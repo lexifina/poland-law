@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/440",
+ "source_sha256": "78d88b1779913c4c944cf47da849de3098d7438480dfcd1a917b16a19b7fc042",
+ "in_force": "1999-08-25",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/440",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/440/text/O/M19990440.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/440/text/I/M19990440.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/440/text/T/M9990440.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/440",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 28,
+  "pos": 440,
+  "address": "WMP19990280440",
+  "displayAddress": "M.P. 1999 nr 28 poz. 440",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 25 sierpnia 1999 r. w sprawie wskaźnika waloryzacji składek za II kwartał 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-08-25",
+  "validFrom": "1999-09-01",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "waloryzacja",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990440.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990440.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990440.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
