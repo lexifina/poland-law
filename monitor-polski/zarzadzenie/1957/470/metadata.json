@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/470",
+ "source_sha256": "3ac11cb1b36acacd3042bf33d09fe3891471bc4f2573166cb759afd15a7ea581",
+ "in_force": "1957-09-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/470",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/470/text/O/M19570470.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/470/text/I/M19570470.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/470",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 77,
+  "pos": 470,
+  "address": "WMP19570770470",
+  "displayAddress": "M.P. 1957 nr 77 poz. 470",
+  "title": "Zarządzenie Ministra Gospodarki Komunalnej z dnia 14 września 1957 r. w sprawie ustalenia opłat za zużycie wody pitnej (wodociągowej) ponad przyznany kontyngent.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-09-14",
+  "entryIntoForce": "1957-09-26",
+  "validFrom": "1957-09-26",
+  "repealDate": "1961-01-25",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. GOSPODARKI KOMUNALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/30",
+     "date": "1961-01-25"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/274",
+     "date": "1957-09-26"
+    },
+    {
+     "id": "MP/1956/536",
+     "date": "1957-09-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1953/122"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1953/122",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570470.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570470.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
