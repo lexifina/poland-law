@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/20",
+ "source_sha256": "b138aece26d72cca6a4cf914ab584aecc4ca8ec676e5699c43b0ba49367f8423",
+ "in_force": "1949-12-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/20",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/20/text/O/M19500020.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/20/text/I/M19500020.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/20",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 2,
+  "pos": 20,
+  "address": "WMP19500020020",
+  "displayAddress": "M.P. 1950 nr 2 poz. 20",
+  "title": "Zarządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 17 grudnia 1949 r. w sprawie upłynnienia łożysk tocznych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-17",
+  "entryIntoForce": "1949-12-07",
+  "validFrom": "1949-12-17",
+  "repealDate": "1951-10-25",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1951/1236",
+     "date": "1951-10-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1950/19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500020.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500020.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
