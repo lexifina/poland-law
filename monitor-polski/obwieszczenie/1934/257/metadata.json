@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/257",
+ "source_sha256": "33ae3214db344672dcca6a7f723b00c8bb2335486e00ad4b61d08c1ad477915e",
+ "in_force": "1934-08-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/257",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/257/text/O/M19340257.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/257/text/I/M19340257.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/257",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 198,
+  "pos": 257,
+  "address": "WMP19341980257",
+  "displayAddress": "M.P. 1934 nr 198 poz. 257",
+  "title": "Obwieszczenie Komisarza Generalnego Pożyczki Narodowej z dnia 22 sierpnia 1934 r. w sprawie skupu i zastawu obligacyj Pożyczki Narodowej w wypadkach losowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-08-22",
+  "promulgation": "1934-08-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1934/251"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/416"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/416",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340257.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340257.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
