@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/54",
+ "source_sha256": "a3eb61e2bed9f067effc9a91f291d73f46557bf33eba033ad765e90ced16ff2b",
+ "in_force": "1945-02-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/54",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/54/text/O/D19450054.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/54/text/I/D19450054.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/54",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 11,
+  "pos": 54,
+  "address": "WDU19450110054",
+  "displayAddress": "Dz.U. 1945 nr 11 poz. 54",
+  "title": "Dekret z dnia 8 marca 1945 r. o częściowej zmianie prawa o ustroju sądów powszechnych.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-03-08",
+  "entryIntoForce": "1945-02-28",
+  "validFrom": "1945-02-28",
+  "repealDate": "1985-09-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1949/436",
+     "date": "1949-11-02"
+    },
+    {
+     "id": "DU/1947/386",
+     "date": "1947-10-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1928/93",
+     "date": "1945-02-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1985/137",
+     "date": "1985-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450054.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450054.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
