@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1234",
+ "source_sha256": "cba3c87ab1763a12b3da7fba14df4a07682da177699c408791b7d66d9f2ff02d",
+ "in_force": "2002-09-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1234/text/O/D20021234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1234/text/I/D20021234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1234",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 148,
+  "pos": 1234,
+  "address": "WDU20021481234",
+  "displayAddress": "Dz.U. 2002 nr 148 poz. 1234",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 20 sierpnia 2002 r. w sprawie określenia wzoru stroju urzędowego sędziów i ławników sądów wojskowych.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-08-20",
+  "promulgation": "2002-09-13",
+  "entryIntoForce": "2002-09-28",
+  "validFrom": "2002-09-28",
+  "changeDate": "2014-12-31T12:25:56",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "ławnicy",
+   "sądy wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1998/750",
+     "date": "2002-09-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/753"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/753",
+     "art": "art. 25 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20021234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
