@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/303",
+ "source_sha256": "9eb5baa149159a63faa3041ca13c9eba7939f3287278e958bbab434fe4f1036d",
+ "in_force": "1929-05-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/303/text/O/D19290303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/303/text/I/D19290303.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/303",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 32,
+  "pos": 303,
+  "address": "WDU19290320303",
+  "displayAddress": "Dz.U. 1929 nr 32 poz. 303",
+  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 30 kwietnia 1929 r. o wprowadzeniu zmian w dekrecie Prezydenta Rzeczypospolitej z dnia 6 sierpnia 1926 r. o sprawowaniu dowództwa nad siłami zbrojnemi w czasie pokoju i o ustanowieniu Generalnego Inspektora sił zbrojnych.",
+  "type": "Dekret",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-04-30",
+  "promulgation": "1929-05-17",
+  "entryIntoForce": "1929-05-17",
+  "validFrom": "1929-05-17",
+  "changeDate": "2020-09-23T13:37:01",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1926/445",
+     "date": "1929-05-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/444"
+    },
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/444",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1921/267",
+     "art": "art. 46"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
