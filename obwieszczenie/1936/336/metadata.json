@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/336",
+ "source_sha256": "2e003e5a2b6e2d6b629aa0a4d405a63bcb1c708c6561ea58c7bb04ffce452d16",
+ "in_force": "1936-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/336",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/336/text/O/D19360336.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/336/text/I/D19360336.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/336",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 45,
+  "pos": 336,
+  "address": "WDU19360450336",
+  "displayAddress": "Dz.U. 1936 nr 45 poz. 336",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 9 maja 1936 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 10 czerwca 1927 r. o Państwowym Zakładzie Higjeny.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1936-05-09",
+  "promulgation": "1936-06-15",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [
+   "Państwowy Zakład Higieny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2007/1466",
+     "date": "2007-10-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/977"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/977",
+     "art": "art. 2 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/477"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360336.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360336.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
