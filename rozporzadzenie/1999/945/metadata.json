@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/945",
+ "source_sha256": "35f4f1d9ee615f7837c4843624086279ce4fcb264b241ceabd11be61cde3deff",
+ "in_force": "1999-11-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/945",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/945/text/O/D19990945.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/945/text/I/D19990945.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/945",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 85,
+  "pos": 945,
+  "address": "WDU19990850945",
+  "displayAddress": "Dz.U. 1999 nr 85 poz. 945",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 5 października 1999 r. w sprawie załatwiania wniosków, skarg i próśb osób osadzonych w zakładach karnych i aresztach śledczych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-10-05",
+  "entryIntoForce": "1999-11-02",
+  "validFrom": "1999-11-02",
+  "repealDate": "2003-09-01",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wymiar sprawiedliwości",
+   "zakłady karne",
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1960/168"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/557"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/557",
+     "art": "art. 249 par. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2003/1467",
+     "date": "2003-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990945.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990945.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
