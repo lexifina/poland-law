@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1997/791",
+ "source_sha256": "5cb0902fd3545ba8e991980dc945cdf5f1e052466e36f1e5cb1d1196a4d87979",
+ "in_force": "1997-11-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1997/791",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1997/791/text/O/M19970791.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1997/791/text/I/M19970791.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1997/791/text/T/M9970791.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1997/791",
+  "publisher": "MP",
+  "year": 1997,
+  "volume": 82,
+  "pos": 791,
+  "address": "WMP19970820791",
+  "displayAddress": "M.P. 1997 nr 82 poz. 791",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 listopada 1997 r. w sprawie wyboru Trybunału Stanu.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-11-06",
+  "entryIntoForce": "1997-11-06",
+  "validFrom": "1997-11-06",
+  "repealDate": "2001-10-19",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 199 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2001/611",
+     "date": "2001-10-23"
+    },
+    {
+     "id": "MP/2001/540",
+     "date": "2001-10-19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19970791.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19970791.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9970791.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
