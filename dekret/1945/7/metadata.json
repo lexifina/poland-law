@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/7",
+ "source_sha256": "b36e40373e21bd0e5c8145754573156ca9e909bea5df4582c8ad6832d85114e4",
+ "in_force": "1945-01-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/7",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/7/text/O/D19450007.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/7/text/I/D19450007.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/7",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 3,
+  "pos": 7,
+  "address": "WDU19450030007",
+  "displayAddress": "Dz.U. 1945 nr 3 poz. 7",
+  "title": "Dekret z dnia 14 stycznia 1945 r. o zawieszeniu biegu przedawnienia i przedłużeniu terminów prawa wekslowego i czekowego.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-01-14",
+  "entryIntoForce": "1945-01-19",
+  "validFrom": "1945-01-19",
+  "repealDate": "1945-06-30",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wekslowe prawo",
+   "czekowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/7",
+     "date": "1945-06-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/283"
+    },
+    {
+     "id": "DU/1936/282"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/7",
+     "date": "1945-06-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450007.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450007.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
