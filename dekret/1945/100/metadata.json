@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/100",
+ "source_sha256": "e88bcd92a4752e990a2f7f9c444f63a53113c0171927822bd4cbcbe3a952c7c5",
+ "in_force": "1945-05-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/100",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/100/text/O/D19450100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/100/text/I/D19450100.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/100",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 18,
+  "pos": 100,
+  "address": "WDU19450180100",
+  "displayAddress": "Dz.U. 1945 nr 18 poz. 100",
+  "title": "Dekret z dnia 7 maja 1945 r. o utworzeniu przedsiębiorstwa państwowego Polskie Biuro Podróży \"Orbis\".",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-05-07",
+  "entryIntoForce": "1945-05-12",
+  "validFrom": "1945-05-12",
+  "repealDate": "1947-02-03",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1948/486"
+    },
+    {
+     "id": "MP/1946/246"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1949/257",
+     "date": "1949-06-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/42",
+     "date": "1947-02-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
