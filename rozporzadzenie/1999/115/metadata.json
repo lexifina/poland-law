@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/115",
+ "source_sha256": "0683a0e330806a461cc2952086e8617225758aaed66c48842a1d2e325b04dc45",
+ "in_force": "1999-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/115",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/115/text/O/D19990115.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/115/text/I/D19990115.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/115/text/T/D19990115L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/115",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 13,
+  "pos": 115,
+  "address": "WDU19990130115",
+  "displayAddress": "Dz.U. 1999 nr 13 poz. 115",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 17 lutego 1999 r. w sprawie obszarów właściwości samorządowych kolegiów odwoławczych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-02-17",
+  "entryIntoForce": "1999-02-19",
+  "validFrom": "1999-01-01",
+  "repealDate": "2003-10-25",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "właściwość miejscowa",
+   "samorządowe kolegia odwoławcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/1713",
+     "date": "2003-10-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1124"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1124",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990115.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990115.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990115L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
