@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/319",
+ "source_sha256": "931ffcbddb59ec7607fdde15e47037efb5cb21ae2f9e8a958b418204412530f4",
+ "in_force": "1950-08-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/319",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/319/text/O/D19500319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/319/text/I/D19500319.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/319",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 35,
+  "pos": 319,
+  "address": "WDU19500350319",
+  "displayAddress": "Dz.U. 1950 nr 35 poz. 319",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 14 sierpnia 1950 r. w sprawie norm i zasad wynagrodzenia adwokatów za wykonywanie czynności zawodowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-08-14",
+  "entryIntoForce": "1950-08-27",
+  "validFrom": "1950-08-27",
+  "repealDate": "1953-09-13",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1953/176",
+     "date": "1953-09-13"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1946/169",
+     "date": "1950-08-27"
+    },
+    {
+     "id": "DU/1933/201",
+     "date": "1950-08-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/275"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500319.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
