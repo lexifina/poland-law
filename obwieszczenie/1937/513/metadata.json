@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1937/513",
+ "source_sha256": "43e5103796bb6ff2f14bd73b1dea98b7a9acf320c4194428563e043827b95014",
+ "in_force": "1937-09-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1937/513",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1937/513/text/O/D19370513.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1937/513/text/I/D19370513.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1937/513",
+  "publisher": "DU",
+  "year": 1937,
+  "volume": 67,
+  "pos": 513,
+  "address": "WDU19370670513",
+  "displayAddress": "Dz.U. 1937 nr 67 poz. 513",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 30 sierpnia 1937 r. o sprostowaniu błędów w dekrecie Prezydenta Rzeczypospolitej z dnia 3 listopada 1936 r. zawierającym prawo karne skarbowe.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1937-08-30",
+  "promulgation": "1937-09-17",
+  "changeDate": "2020-11-03T15:56:32",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "karne skarbowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 5"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1936/581"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19370513.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19370513.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
