@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1713",
+ "source_sha256": "30bc6d7b40a1b6e46a5461022da233d21a989dde89cf3c54659e6339a626f560",
+ "in_force": "2004-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 441 words, parsed 136; at 136: 'okręgu wyborczym nr 1 . I W dniu 11 lipca'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1713",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/1713/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1713/text/O/D20041713.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1713/text/I/D20041713.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1713",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 163,
+  "pos": 1713,
+  "address": "WDU20041631713",
+  "displayAddress": "Dz.U. 2004 nr 163 poz. 1713",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 12 lipca 2004 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 11 lipca 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-07-12",
+  "promulgation": "2004-07-20",
+  "changeDate": "2025-03-21T10:38:07",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20041713.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041713.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
