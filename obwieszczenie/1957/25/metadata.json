@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/25",
+ "source_sha256": "c9faec52477d21e4dfaa87557890aabdbab365dd36d86b2cc973165754835b46",
+ "in_force": "1956-12-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/25",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/25/text/O/D19570025.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/25/text/I/D19570025.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/25",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 7,
+  "pos": 25,
+  "address": "WDU19570070025",
+  "displayAddress": "Dz.U. 1957 nr 7 poz. 25",
+  "title": "Obwieszczenie Ministra Finansów z dnia 20 grudnia 1956 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 16 maja 1946 r. o postępowaniu podatkowym.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-12-20",
+  "repealDate": "1963-03-02",
+  "changeDate": "2017-11-23T15:43:48",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1950/506",
+     "date": "1956-12-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1956/252"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1946/174"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1963/60",
+     "date": "1963-03-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570025.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570025.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
