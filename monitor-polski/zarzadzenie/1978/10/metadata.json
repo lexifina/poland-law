@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1978/10",
+ "source_sha256": "998def69cb97740eadb2033a0cc220791cac4235f5ee451330c356e9de240f10",
+ "in_force": "1978-01-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1978/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1978/10/text/O/M19780010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1978/10/text/I/M19780010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1978/10",
+  "publisher": "MP",
+  "year": 1978,
+  "volume": 1,
+  "pos": 10,
+  "address": "WMP19780010010",
+  "displayAddress": "M.P. 1978 nr 1 poz. 10",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 19 stycznia 1978 r. w sprawie ustalenia i ogłoszenia statutu stowarzyszenia wyższej użyteczności \"Towarzystwo Wiedzy Obronnej\".",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-01-19",
+  "entryIntoForce": "1978-01-31",
+  "validFrom": "1978-01-31",
+  "repealDate": "1984-11-22",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stowarzyszenia",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1984/169",
+     "date": "1984-11-22"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1972/203",
+     "date": "1978-01-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1972/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1972/117",
+     "art": "par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19780010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19780010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
