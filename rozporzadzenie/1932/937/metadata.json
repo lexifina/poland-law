@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/937",
+ "source_sha256": "250fe7443cf1154a55e9b0dd5430fc1b8ee49d003e18c2bf1bce15f348bd6c48",
+ "in_force": "1932-11-23",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/937",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/937/text/O/D19320937.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/937/text/I/D19320937.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/937",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 113,
+  "pos": 937,
+  "address": "WDU19321130937",
+  "displayAddress": "Dz.U. 1932 nr 113 poz. 937",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 listopada 1932 r. wydane w porozumieniu z Ministrem Skarbu celem wykonania ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-23",
+  "changeDate": "2020-09-23T13:38:30",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1933/126"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1938/417",
+     "date": "1938-07-29"
+    },
+    {
+     "id": "DU/1936/464",
+     "date": "1936-08-24"
+    },
+    {
+     "id": "DU/1934/400",
+     "date": "1934-06-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1923/747"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1933/203"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320937.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320937.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
