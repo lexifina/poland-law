@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/193",
+ "source_sha256": "5b2acfa773db393684ca5b3dddcb42fb6af1a5101a82dab6088d8a27543303a8",
+ "in_force": "1946-07-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/193",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/193/text/O/D19460193.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/193/text/I/D19460193.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/193",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 30,
+  "pos": 193,
+  "address": "WDU19460300193",
+  "displayAddress": "Dz.U. 1946 nr 30 poz. 193",
+  "title": "Dekret z dnia 13 czerwca 1946 r. o zmianie dekretu z dnia 16 listopada 1945 r. o postępowaniu doraźnym.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-06-13",
+  "entryIntoForce": "1946-07-12",
+  "validFrom": "1946-07-12",
+  "repealDate": "1979-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1969/97",
+     "date": "1979-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/301",
+     "date": "1946-07-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1946/192"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460193.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460193.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
