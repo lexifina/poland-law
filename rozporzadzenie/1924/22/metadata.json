@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1924/22",
+ "source_sha256": "492d2526a4dc12b83a44abb9905bca6d3a67d9a68bc37d24764641f8a73bfd48",
+ "in_force": "1924-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1924/22",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1924/22/text/O/D19240022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1924/22/text/I/D19240022.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1924/22",
+  "publisher": "DU",
+  "year": 1924,
+  "volume": 3,
+  "pos": 22,
+  "address": "WDU19240030022",
+  "displayAddress": "Dz.U. 1924 nr 3 poz. 22",
+  "title": "Rozporządzenie Ministra Przemysłu i Handlu w porozumieniu z Ministrem Skarbu z dnia 31 grudnia 1923 r. o podniesieniu opłat za świadectwa złotnicze.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-12-31",
+  "entryIntoForce": "1924-01-14",
+  "validFrom": "1924-01-14",
+  "repealDate": "1927-01-01",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1926/770",
+     "date": "1927-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1922/1064",
+     "date": "1924-01-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/566",
+     "date": "1924-01-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/470"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19240022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19240022.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
