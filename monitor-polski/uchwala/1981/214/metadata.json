@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/214",
+ "source_sha256": "46c1dac2a601c9231cd24140fccba2642e674f2584a6c17ff10f9d68039eb786",
+ "in_force": "1981-09-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/214",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/214/text/O/M19810214.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/214/text/I/M19810214.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/214",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 24,
+  "pos": 214,
+  "address": "WMP19810240214",
+  "displayAddress": "M.P. 1981 nr 24 poz. 214",
+  "title": "Uchwała nr 192 Rady Ministrów z dnia 7 września 1981 r. w sprawie rozwoju małej energetyki wodnej.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-09-07",
+  "entryIntoForce": "1981-09-25",
+  "validFrom": "1981-09-25",
+  "repealDate": "1996-05-11",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. GÓRNICTWA I ENERGETYKI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "energetyka",
+   "inwestycje",
+   "urządzenia energetyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1996/301",
+     "date": "1996-05-11"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1958/489",
+     "date": "1981-09-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1978/6",
+     "date": "1981-09-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1977/181"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810214.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810214.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
