@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/854",
+ "source_sha256": "86d76a3a33331490d33750ed350fc5d8bf10f1cc22da5764b8d7db061f23d41f",
+ "in_force": "2001-07-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/854",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/854/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/854/text/O/D20010854.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/854/text/I/D20010854.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/854/text/T/D20010854L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/854/text/U/D20010854Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/854",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 79,
+  "pos": 854,
+  "address": "WDU20010790854",
+  "displayAddress": "Dz.U. 2001 nr 79 poz. 854",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 maja 2001 r. w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-05-31",
+  "promulgation": "2001-07-31",
+  "expirationDate": "2014-02-04",
+  "changeDate": "2024-03-15T09:59:08",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przepisy karne",
+   "sądy powszechne",
+   "prawo pracy",
+   "rejestry sądowe",
+   "związki zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 40-45 i 47 ustawy z dnia 23 maja 1991 r o związkach zawodowych (Dz. U. Nr 55, poz. 234).",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/234"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010854.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010854.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010854L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20010854Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
