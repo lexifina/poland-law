@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/990",
+ "source_sha256": "c1eba9bc24cb9c3baef64064cd7b60912d057952190537e1b2df3fc6ae33b638",
+ "in_force": "1999-11-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/990",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/990/text/O/D19990990.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/990/text/I/D19990990.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/990/text/T/D19990990L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/990",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 88,
+  "pos": 990,
+  "address": "WDU19990880990",
+  "displayAddress": "Dz.U. 1999 nr 88 poz. 990",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 30 września 1999 r. zmieniające rozporządzenie w sprawie wysokości opłat kancelaryjnych w sprawach cywilnych.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-09-30",
+  "entryIntoForce": "1999-11-13",
+  "validFrom": "1999-11-13",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądowe koszty i opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1996/650",
+     "date": "1999-11-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/110"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/110",
+     "art": "art. 40"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990990.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990990.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990990L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
