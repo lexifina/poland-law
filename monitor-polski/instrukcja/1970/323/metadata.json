@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/323",
+ "source_sha256": "0dd4efafa2aab782210f2f7af137c9c8e5998b7f8014c18fa27ce67daabc4afb",
+ "in_force": "1970-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/323",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/323/text/O/M19700323.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/323/text/I/M19700323.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/323",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 42,
+  "pos": 323,
+  "address": "WMP19700420323",
+  "displayAddress": "M.P. 1970 nr 42 poz. 323",
+  "title": "Instrukcja Ministra Finansów z dnia 4 grudnia 1970 r. zmieniająca instrukcję w sprawie trybu inkasa podatków i innych należności finansowych przez sołtysów.",
+  "type": "Instrukcja",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-12-04",
+  "entryIntoForce": "1970-12-18",
+  "validFrom": "1970-12-18",
+  "repealDate": "1973-01-01",
+  "changeDate": "2016-08-25T09:02:52",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1965/411",
+     "date": "1970-12-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1963/37"
+    },
+    {
+     "id": "DU/1958/67"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1963/37",
+     "art": "par. 5"
+    },
+    {
+     "id": "DU/1958/67",
+     "art": "par. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/319",
+     "date": "1973-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700323.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700323.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
