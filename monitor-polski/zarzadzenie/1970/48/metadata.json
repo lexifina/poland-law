@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/48",
+ "source_sha256": "5a2da120627c1f8e82313ccb1cb26239a3bb9ad29ba622d5b18ef9f85008dd20",
+ "in_force": "1970-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/48/text/O/M19700048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/48/text/I/M19700048.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/48",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 5,
+  "pos": 48,
+  "address": "WMP19700050048",
+  "displayAddress": "M.P. 1970 nr 5 poz. 48",
+  "title": "Zarządzenie Prezesa Wyższego Urzędu Górniczego z dnia 29 stycznia 1970 r. w sprawie ustalania kryteriów zagrożeń tąpaniami złóż węgla kamiennego.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-01-29",
+  "entryIntoForce": "1970-02-19",
+  "validFrom": "1970-02-19",
+  "repealDate": "1994-09-02",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. WYŻSZEGO URZĘDU GÓRNICZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "górnicze prawo",
+   "wydobywanie kopalin",
+   "bhp"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1991/22",
+     "date": "1991-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1969/176"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1969/176",
+     "art": "par. 52 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1994/368",
+     "date": "1994-09-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
