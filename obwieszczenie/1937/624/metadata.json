@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1937/624",
+ "source_sha256": "f4cbeee82baacd84c7df4cfe4081b4ff9fe5c4fa6d2180db73f5ac0829e080c2",
+ "in_force": "1937-12-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1937/624",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1937/624/text/O/D19370624.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1937/624/text/I/D19370624.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1937/624",
+  "publisher": "DU",
+  "year": 1937,
+  "volume": 86,
+  "pos": 624,
+  "address": "WDU19370860624",
+  "displayAddress": "Dz.U. 1937 nr 86 poz. 624",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 15 listopada 1937 r. o sprostowaniu błędów w tekście traktatu handlowego i nawigacyjnego pomiędzy Rzecząpospolitą Polską a Republiką Francuską, podpisanego wraz z protokołem podpisania w Paryżu dnia 22 maja 1937 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1937-11-15",
+  "promulgation": "1937-12-17",
+  "changeDate": "2020-11-03T15:56:32",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "handel zagraniczny",
+   "umowy międzynarodowe",
+   "sprostowanie",
+   "umowy handlowe i handlowo-nawigacyjne"
+  ],
+  "keywordsNames": [
+   "Francja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 pkt 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1937/423"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19370624.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19370624.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
