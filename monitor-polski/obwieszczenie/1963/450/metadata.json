@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/450",
+ "source_sha256": "00f3f6d3a6efa1b75d30aa9077a8d44d9165c515158e30512a16b90128e7e6ac",
+ "in_force": "1963-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/450",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/450/text/O/M19630450.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/450/text/I/M19630450.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/450",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 95,
+  "pos": 450,
+  "address": "WMP19630950450",
+  "displayAddress": "M.P. 1963 nr 95 poz. 450",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 18 grudnia 1963 r. w sprawie ogłoszenia ustanowionej Polskiej Normy.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-12-18",
+  "entryIntoForce": "1963-12-18",
+  "validFrom": "1964-01-01",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1971/192",
+     "date": "1971-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/228",
+     "date": "1963-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630450.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630450.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
