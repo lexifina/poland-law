@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/201",
+ "source_sha256": "709a69a06c93a1ef2474cf391bedc57742191c48aa918e70b884eacd246fffe0",
+ "in_force": "2000-03-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/201",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/201/text/O/D20000201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/201/text/I/D20000201.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/201",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 15,
+  "pos": 201,
+  "address": "WDU20000150201",
+  "displayAddress": "Dz.U. 2000 nr 15 poz. 201",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 24 lutego 2000 r. zmieniające rozporządzenie w sprawie wydawania uprawnień do kierowania pojazdami.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-02-24",
+  "entryIntoForce": "2000-03-22",
+  "validFrom": "2000-03-22",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pojazdy mechaniczne",
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/1680",
+     "date": "2002-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/621",
+     "date": "2000-03-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/602",
+     "art": "art. 100 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
