@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/39",
+ "source_sha256": "457040adb4710ddfbd47d328633ce4b7753d82b7d1c990a8a75574c8220a695a",
+ "in_force": "1929-01-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/39",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/39/text/O/D19290039.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/39/text/I/D19290039.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/39",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 4,
+  "pos": 39,
+  "address": "WDU19290040039",
+  "displayAddress": "Dz.U. 1929 nr 4 poz. 39",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 17 grudnia 1928 r. w sprawie zwrotu cła przy wywozie bekonów i szynek.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-17",
+  "entryIntoForce": "1929-01-29",
+  "validFrom": "1929-01-29",
+  "repealDate": "1930-08-01",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. SKARBU",
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/451",
+     "date": "1930-08-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1930/92"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/777",
+     "art": "art. 7 punkt d)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290039.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290039.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
