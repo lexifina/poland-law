@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/596",
+ "source_sha256": "78a677f5fbe21e9e570365a7281ea974a65338cba3f985ea41c408ed9096649b",
+ "in_force": "1938-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/596",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/596/text/O/D19380596.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/596/text/I/D19380596.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/596",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 87,
+  "pos": 596,
+  "address": "WDU19380870596",
+  "displayAddress": "Dz.U. 1938 nr 87 poz. 596",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 3 października 1938 r. o sprostowaniu błędu w tekście drugiego protokołu dodatkowego z dnia 22 lipca 1938 r. do konwencji handlowej i nawigacyjnej między Polską a Rumunią z dnia 23 czerwca 1930 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-10-03",
+  "promulgation": "1938-11-16",
+  "changeDate": "2020-11-03T15:55:21",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "sprostowanie",
+   "umowy handlowe i handlowo-nawigacyjne"
+  ],
+  "keywordsNames": [
+   "Rumunia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1932/726"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/423"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/423",
+     "art": "art. 5 ust. 1 pkt 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1938/485"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380596.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380596.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
