@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/590",
+ "source_sha256": "d05d5a7aa9399e26ad4175a4fdf75ce6084d098c6c9f5a1d47c4f07746cbd6f0",
+ "in_force": "2004-04-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 162 words, parsed 103; at 99: 'Kryteria ” zamiast wyrazów : „ 0 , 1 g'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/590",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/590/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/590/text/O/D20040590.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/590/text/I/D20040590.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/590",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 63,
+  "pos": 590,
+  "address": "WDU20040630590",
+  "displayAddress": "Dz.U. 2004 nr 63 poz. 590",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 1 kwietnia 2004 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-04-01",
+  "promulgation": "2004-04-15",
+  "changeDate": "2024-03-15T09:55:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "jakość wyrobów",
+   "artykuły spożywcze",
+   "sprostowanie",
+   "miód i pszczelarstwo",
+   "żywność i żywienie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2004/370"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040590.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040590.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
