@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/253",
+ "source_sha256": "7e3491f6eb07ef0fbb9aafd8e9926a5c6d627cdb9632d6483d224c579d5b2598",
+ "in_force": "1962-06-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/253",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/253/text/O/M19620253.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/253/text/I/M19620253.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/253",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 52,
+  "pos": 253,
+  "address": "WMP19620520253",
+  "displayAddress": "M.P. 1962 nr 52 poz. 253",
+  "title": "Uchwała Rady Ministrów i Centralnej Rady Związków Zawodowych z dnia 1 czerwca 1962 r. w sprawie zapewnienia warunków dalszego rozwoju socjalistycznego współzawodnictwa pracy.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-06-01",
+  "entryIntoForce": "1962-06-30",
+  "validFrom": "1962-06-30",
+  "repealDate": "1966-01-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "RADA MINISTRÓW",
+   "CENTRALNA RADA ZWIĄZKÓW ZAWODOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1966/83",
+     "date": "1966-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1959/96",
+     "date": "1962-06-30"
+    },
+    {
+     "id": "MP/1952/253",
+     "date": "1962-06-30"
+    },
+    {
+     "id": "MP/1950/337",
+     "date": "1962-06-30"
+    },
+    {
+     "id": "MP/1949/626",
+     "date": "1962-06-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620253.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620253.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
