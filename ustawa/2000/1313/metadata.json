@@ -1,0 +1,117 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1313",
+ "source_sha256": "ab365c017251469eaaaea7e193d9c4a013cfe58aee7d86bebf440420c1c6e218",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1313",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1313/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1313/text/O/D20001313.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1313/text/I/D20001313.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1313/text/T/D20001313L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/1313/text/U/D20001313Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1313",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 122,
+  "pos": 1313,
+  "address": "WDU20001221313",
+  "displayAddress": "Dz.U. 2000 nr 122 poz. 1313",
+  "title": "Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-12-08",
+  "promulgation": "2000-12-31",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "changeDate": "2024-03-15T09:50:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żołnierz zawodowy",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [
+   "Policja",
+   "Państwowa Straż Pożarna",
+   "Służba Więzienna",
+   "Straż Graniczna",
+   "Urząd Ochrony Państwa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2011.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2011",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2011",
+    "number": "2011",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/1604",
+     "date": "2002-11-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/36",
+     "date": "2001-01-01"
+    },
+    {
+     "id": "DU/1994/214",
+     "date": "2001-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2006/854"
+    },
+    {
+     "id": "DU/2002/1604"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001313.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001313.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001313L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20001313Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
