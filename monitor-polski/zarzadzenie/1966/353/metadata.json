@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1966/353",
+ "source_sha256": "893c9af839ed7fb6bffbb3bccd35256d707b47ef077054fbf3384b292eb05b92",
+ "in_force": "1966-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1966/353",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1966/353/text/O/M19660353.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1966/353/text/I/M19660353.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1966/353",
+  "publisher": "MP",
+  "year": 1966,
+  "volume": 74,
+  "pos": 353,
+  "address": "WMP19660740353",
+  "displayAddress": "M.P. 1966 nr 74 poz. 353",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 9 grudnia 1966 r. zmieniające zarządzenie w sprawie skrzyżowania linii kolejowych z drogami publicznymi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-12-09",
+  "entryIntoForce": "1966-12-31",
+  "validFrom": "1966-12-31",
+  "repealDate": "1968-12-31",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/395",
+     "date": "1968-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/354",
+     "date": "1966-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/46"
+    },
+    {
+     "id": "DU/1960/311"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/46",
+     "art": "art. 5 ust. 1"
+    },
+    {
+     "id": "DU/1960/311",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19660353.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19660353.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
