@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/76",
+ "source_sha256": "d335f7b14b5c279106b3747414577522cf905170466fc0f7468202052e8ff940",
+ "in_force": "1944-12-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/76",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/76/text/O/D19440076.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/76/text/I/D19440076.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/76",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 14,
+  "pos": 76,
+  "address": "WDU19440140076",
+  "displayAddress": "Dz.U. 1944 nr 14 poz. 76",
+  "title": "Rozporządzenie Kierownika Resortu Rolnictwa i Reform Rolnych z dnia 30 listopada 1944 r. w sprawie ochrony niektórych zwierząt łownych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-11-30",
+  "entryIntoForce": "1944-12-11",
+  "validFrom": "1944-12-11",
+  "repealDate": "1946-12-31",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "KIER. RESORTU ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zwierząt"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1944/76",
+     "date": "1946-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/934"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/934",
+     "art": "art. 51 pkt b"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1944/76",
+     "date": "1946-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440076.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440076.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
