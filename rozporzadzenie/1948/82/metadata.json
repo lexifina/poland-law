@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/82",
+ "source_sha256": "589da59218305ff7ab876710a9ed71303e158e07735b2eb91e8945f4bd095201",
+ "in_force": "1948-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/82",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/82/text/O/D19480082.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/82/text/I/D19480082.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/82",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 11,
+  "pos": 82,
+  "address": "WDU19480110082",
+  "displayAddress": "Dz.U. 1948 nr 11 poz. 82",
+  "title": "Rozporządzenie Ministra Ziem Odzyskanych z dnia 17 lutego 1948 r. w sprawie zakazu wywozu mienia ruchomego z obszaru Ziem Odzyskanych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-02-17",
+  "entryIntoForce": "1948-03-11",
+  "validFrom": "1946-07-12",
+  "repealDate": "1951-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. ZIEM ODZYSKANYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/11",
+     "date": "1951-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1948/376",
+     "date": "1948-10-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/192"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480082.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480082.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
