@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/223",
+ "source_sha256": "bb344eeab15859349ca1207ec1c242e18847d74a8e75e86ebb24f7f95db5f690",
+ "in_force": "1922-04-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/223/text/O/D19220223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/223/text/I/D19220223.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/223",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 27,
+  "pos": 223,
+  "address": "WDU19220270223",
+  "displayAddress": "Dz.U. 1922 nr 27 poz. 223",
+  "title": "Rozporządzenie Ministra Pracy i Opieki Społecznej w porozumieniu z Ministrem Przemysłu i Handlu z dnia 1 kwietnia 1922 r. w przedmiocie zmiany rozporządzenia wykonawczego z dnia 22 marca 1921 r. o czasie pracy w zakładach handlowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-04-01",
+  "entryIntoForce": "1922-04-15",
+  "validFrom": "1922-04-15",
+  "repealDate": "1923-07-23",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/551",
+     "date": "1923-07-23"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1921/291",
+     "date": "1922-04-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/127"
+    },
+    {
+     "id": "DU/1920/7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
