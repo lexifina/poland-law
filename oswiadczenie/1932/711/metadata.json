@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/711",
+ "source_sha256": "d007191a09210c72041e47cc2e0134b15318489f314e85904359da5f33a33ec0",
+ "in_force": "1932-09-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/711",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/711/text/O/D19320711.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/711/text/I/D19320711.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/711",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 80,
+  "pos": 711,
+  "address": "WDU19320800711",
+  "displayAddress": "Dz.U. 1932 nr 80 poz. 711",
+  "title": "Oświadczenie Prezesa Rady Ministrów z dnia 10 września 1932 r. o wyrażeniu zgody Sejmu Śląskiego na wejście w życie na obszarze województwa śląskiego rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1928 r. o prawie bankowem.",
+  "type": "Oświadczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-09-10",
+  "promulgation": "1932-09-28",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 1 pkt 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320711.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320711.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
