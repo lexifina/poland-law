@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/388",
+ "source_sha256": "8eec356344592abd790d55ce2cb07e8ee6e4f3113b9ed989424d30b460f06c30",
+ "in_force": "1931-12-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/388",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/388/text/O/M19310388.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/388/text/I/M19310388.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/388",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 293,
+  "pos": 388,
+  "address": "WMP19312930388",
+  "displayAddress": "M.P. 1931 nr 293 poz. 388",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-12-21",
+  "promulgation": "1931-12-21",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310388.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310388.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
