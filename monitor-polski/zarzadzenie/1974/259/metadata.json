@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1974/259",
+ "source_sha256": "f3c8cbfdade309dca8b02064036befe0bd75104280213751b75927e3b431f6f9",
+ "in_force": "1975-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1974/259",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1974/259/text/O/M19740259.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1974/259/text/I/M19740259.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1974/259",
+  "publisher": "MP",
+  "year": 1974,
+  "volume": 42,
+  "pos": 259,
+  "address": "WMP19740420259",
+  "displayAddress": "M.P. 1974 nr 42 poz. 259",
+  "title": "Zarządzenie Ministra Finansów z dnia 16 grudnia 1974 r. w sprawie ustalenia wysokości szkód w pojazdach samochodowych objętych obowiązkowymi ubezpieczeniami komunikacyjnymi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1974-12-16",
+  "entryIntoForce": "1975-01-01",
+  "validFrom": "1975-01-01",
+  "repealDate": "1982-01-01",
+  "changeDate": "2024-01-08T11:34:38",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samochody",
+   "ubezpieczenia komunikacyjne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1981/284",
+     "date": "1982-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/274"
+    },
+    {
+     "id": "DU/1958/357"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/274",
+     "art": "par. 40 ust. 2"
+    },
+    {
+     "id": "DU/1958/357",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19740259.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19740259.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
