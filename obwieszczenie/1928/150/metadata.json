@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/150",
+ "source_sha256": "252d7e251cee5de8aa4d7dcf66d2400885daf1bf4df7bc0d24cbb7d0665a3418",
+ "in_force": "1928-02-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/150",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/150/text/O/D19280150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/150/text/I/D19280150.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/150",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 17,
+  "pos": 150,
+  "address": "WDU19280170150",
+  "displayAddress": "Dz.U. 1928 nr 17 poz. 150",
+  "title": "Obwieszczenie Ministra Rolnictwa z dnia 4 lutego 1928 r. o sprostowaniu błędu w rozporządzeniu Ministra Rolnictwa z dnia 4 listopada 1927 r. o znakowaniu mięsa przeznaczonego do wywozu do Szwecji.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-02-04",
+  "changeDate": "2020-11-03T15:55:23",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "handel zagraniczny",
+   "sprostowanie",
+   "mięso",
+   "eksport"
+  ],
+  "keywordsNames": [
+   "Szwecja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
