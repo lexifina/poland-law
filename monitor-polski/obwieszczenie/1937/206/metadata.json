@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/206",
+ "source_sha256": "1c575f6d6419d14f01ee83b30a47bcabc7e99f0f278010ae743c294253e323a3",
+ "in_force": "1937-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/206",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/206/text/O/M19370206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/206/text/I/M19370206.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/206",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 130,
+  "pos": 206,
+  "address": "WMP19371300206",
+  "displayAddress": "M.P. 1937 nr 130 poz. 206",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 3 czerwca 1937 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-06-03",
+  "promulgation": "1937-06-10",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
