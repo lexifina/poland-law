@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/854",
+ "source_sha256": "6d0a3681ab417e7b964c88e9d952452a30315cd1d8b7d1c33a735c53eecb7058",
+ "in_force": "2000-12-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/854",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/854/text/O/M20000854.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/854/text/I/M20000854.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/854",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 43,
+  "pos": 854,
+  "address": "WMP20000430854",
+  "displayAddress": "M.P. 2000 nr 43 poz. 854",
+  "title": "Obwieszczenie Ministra Finansów z dnia 22 grudnia 2000 r. w sprawie wysokości ogólnej kwoty odliczeń z tytułu wydatków na cele mieszkaniowe.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-12-22",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/931"
+    },
+    {
+     "id": "DU/1992/86"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1104"
+    },
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1104",
+     "art": "art. 7 ust. 27"
+    },
+    {
+     "id": "DU/1991/350",
+     "art": "art. 27a ust. 18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000854.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000854.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
