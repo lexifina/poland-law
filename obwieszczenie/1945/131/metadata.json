@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/131",
+ "source_sha256": "a6c6f497879cab867ca86cddbf98847aea9af0cf3de09b60b04f1676c351d9e7",
+ "in_force": "1945-06-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/131",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/131/text/O/D19450131.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/131/text/I/D19450131.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/131",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 22,
+  "pos": 131,
+  "address": "WDU19450220131",
+  "displayAddress": "Dz.U. 1945 nr 22 poz. 131",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 7 czerwca 1945 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 marca 1932 r. o zaopatrzeniu inwalidzkim.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-06-07",
+  "repealDate": "1954-07-01",
+  "changeDate": "2017-11-23T15:43:30",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/81"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1932/238"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1954/159",
+     "date": "1954-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450131.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450131.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
