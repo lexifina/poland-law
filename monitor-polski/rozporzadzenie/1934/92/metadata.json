@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/92",
+ "source_sha256": "1c09ee8bc5da6b80a07ef63202cf380ff303c3b08638d10f8da7abc2c46e6eb3",
+ "in_force": "1934-03-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/92",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/92/text/O/M19340092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/92/text/I/M19340092.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/92",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 62,
+  "pos": 92,
+  "address": "WMP19340620092",
+  "displayAddress": "M.P. 1934 nr 62 poz. 92",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 7 marca 1934 r. w sprawie powołania Nadzwyczajnej Komisji Rozjemczej dla ustalenia warunków pracy i płacy robotników rolnych na obszarze powiatu olkuskiego na rok służbowy 1934/35",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-03-07",
+  "promulgation": "1934-03-16",
+  "changeDate": "2020-09-23T13:40:49",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolnicy",
+   "komisje rozjemcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/686"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/686",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1924/686",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
