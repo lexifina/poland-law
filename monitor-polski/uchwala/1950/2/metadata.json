@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/2",
+ "source_sha256": "20e994844a60ca3171b0314993728eccfa6ca37bed347a3389eaecee8e40d5bf",
+ "in_force": "1950-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/2/text/O/M19500002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/2/text/I/M19500002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/2",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 1,
+  "pos": 2,
+  "address": "WMP19500010002",
+  "displayAddress": "M.P. 1950 nr 1 poz. 2",
+  "title": "Uchwała Rady Ministrów z dnia 22 grudnia 1949 r. w sprawie podporządkowania Prezesowi Rady Ministrów Komisarza Rządu do Spraw Wystaw i Targów.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-22",
+  "entryIntoForce": "1950-01-01",
+  "validFrom": "1950-01-01",
+  "repealDate": "1954-04-01",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1954/534",
+     "date": "1954-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1949/217",
+     "date": "1950-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
