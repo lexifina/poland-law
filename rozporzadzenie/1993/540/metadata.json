@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1993/540",
+ "source_sha256": "87fc25f21366a3c56674e5115580f291f1abd13bb35126b4bc509e11a8ff165b",
+ "in_force": "1994-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1993/540",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1993/540/text/O/D19930540.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1993/540/text/I/D19930540.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1993/540",
+  "publisher": "DU",
+  "year": 1993,
+  "volume": 121,
+  "pos": 540,
+  "address": "WDU19931210540",
+  "displayAddress": "Dz.U. 1993 nr 121 poz. 540",
+  "title": "Rozporządzenie Ministra Finansów z dnia 8 grudnia 1993 r. w sprawie wykonania niektórych przepisów ustawy o podatkach i opłatach lokalnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-12-08",
+  "entryIntoForce": "1994-01-01",
+  "validFrom": "1994-01-01",
+  "repealDate": "1995-01-01",
+  "changeDate": "2024-10-04T10:09:21",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "podatki",
+   "opłaty lokalne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1994/675",
+     "date": "1995-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1992/467",
+     "date": "1994-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/31"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/31",
+     "art": "art. 20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19930540.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19930540.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
