@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/830",
+ "source_sha256": "50527f79bf1e3cb96b426d96f18bcf9df02a6a9d78eb103ebf32cc2ea52c8783",
+ "in_force": "1928-10-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/830",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/830/text/O/D19280830.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/830/text/I/D19280830.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/830",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 93,
+  "pos": 830,
+  "address": "WDU19280930830",
+  "displayAddress": "Dz.U. 1928 nr 93 poz. 830",
+  "title": "Obwieszczenie Ministra Reform Rolnych z dnia 22 października 1928 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 czerwca 1921 r. w przedmiocie utworzenia Państwowego Banku Rolnego.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-10-22",
+  "expirationDate": "1931-08-26",
+  "changeDate": "2017-12-07T15:58:15",
+  "releasedBy": [
+   "MIN. REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "banki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/356"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/356",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1921/369"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280830.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280830.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
