@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/724",
+ "source_sha256": "94a70e9bbe941dbb2f21d593fd17260c05f0a0f070c755fdebe8590a5317b1ab",
+ "in_force": "1999-08-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/724",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/724/text/O/D19990724.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/724/text/I/D19990724.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/724/text/T/D19990724L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/724",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 63,
+  "pos": 724,
+  "address": "WDU19990630724",
+  "displayAddress": "Dz.U. 1999 nr 63 poz. 724",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 14 lipca 1999 r. w sprawie wykonywania nadzoru administracyjnego nad kolegiami do spraw wykroczeń.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-07-14",
+  "entryIntoForce": "1999-08-14",
+  "validFrom": "1999-08-14",
+  "repealDate": "2001-10-17",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "kolegia do spraw wykroczeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1971/116"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1971/116",
+     "art": "art. 110 par. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/1149",
+     "date": "2001-10-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990724.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990724.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990724L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
