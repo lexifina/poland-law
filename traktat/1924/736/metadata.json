@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1924/736",
+ "source_sha256": "ac7ab36594f79be1b8eb4ef467fff981cc61ecaf90b4d86e79c1276a4d3a5771",
+ "in_force": "1924-08-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1924/736",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1924/736/text/O/D19240736.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1924/736/text/I/D19240736.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1924/736",
+  "publisher": "DU",
+  "year": 1924,
+  "volume": 74,
+  "pos": 736,
+  "address": "WDU19240740736",
+  "displayAddress": "Dz.U. 1924 nr 74 poz. 736",
+  "title": "Traktat Handlowy i Nawigacyjny pomiędzy Polską a Danją podpisany dnia 22 marca 1924 r. (zatwierdzony ustawą z dnia 25 lipca 1924 r.).",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1924-08-07",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "handel zagraniczny",
+   "umowy międzynarodowe",
+   "umowy handlowe i handlowo-nawigacyjne"
+  ],
+  "keywordsNames": [
+   "Dania"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1931/7"
+    },
+    {
+     "id": "MP/1931/12"
+    },
+    {
+     "id": "DU/1924/737"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1926/731",
+     "date": "1926-12-23"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1924/718"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19240736.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19240736.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
