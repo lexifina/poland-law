@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/197",
+ "source_sha256": "67f992cc3ac7b06dffe07eb4a8d67d7d0078a6d3fe2bcfdd3820d0c854fc945d",
+ "in_force": "1938-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/197",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/197/text/O/D19380197.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/197/text/I/D19380197.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/197",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 22,
+  "pos": 197,
+  "address": "WDU19380220197",
+  "displayAddress": "Dz.U. 1938 nr 22 poz. 197",
+  "title": "Rozporządzenie Rady Ministrów z dnia 28 marca 1938 r. o zniesieniu zakazu wywozu niektórych pasz.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-03-28",
+  "promulgation": "1938-04-01",
+  "entryIntoForce": "1938-04-01",
+  "validFrom": "1938-04-01",
+  "repealDate": "1939-09-02",
+  "changeDate": "2014-12-31T12:25:24",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "pasze",
+   "zakaz wywozu i przywozu"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/555",
+     "date": "1939-09-02"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1938/3",
+     "date": "1938-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 30 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380197.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380197.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
