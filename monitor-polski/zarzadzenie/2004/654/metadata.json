@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/654",
+ "source_sha256": "f8c36c2e8a9d27b3394ac09602f3ee1443be01d5aa0d4fe9772f261e4a46d00f",
+ "in_force": "2004-09-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/654",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/654/text/O/M20040654.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/654/text/I/M20040654.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/654",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 37,
+  "pos": 654,
+  "address": "WMP20040370654",
+  "displayAddress": "M.P. 2004 nr 37 poz. 654",
+  "title": "Zarządzenie Nr 82 Prezesa Rady Ministrów z dnia 1 września 2004 r. w sprawie nadania statutu Ministerstwu Skarbu Państwa",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-09-01",
+  "promulgation": "2004-09-08",
+  "entryIntoForce": "2004-09-08",
+  "validFrom": "2004-09-08",
+  "repealDate": "2006-04-07",
+  "changeDate": "2014-12-31T12:26:39",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Skarbu Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2006/279",
+     "date": "2006-04-07"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2002/362",
+     "date": "2004-09-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040654.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040654.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
