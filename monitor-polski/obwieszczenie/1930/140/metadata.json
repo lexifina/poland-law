@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/140",
+ "source_sha256": "cab91fa9318e953cf74dc174e9fd7924e26be6cc41cd8b09a2358e6bedd19e4f",
+ "in_force": "1930-04-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/140",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/140/text/O/M19300140.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/140/text/I/M19300140.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/140",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 94,
+  "pos": 140,
+  "address": "WMP19300940140",
+  "displayAddress": "M.P. 1930 nr 94 poz. 140",
+  "title": "Obwieszczenie Przewodniczącego Komitetu Likwidacyjnego do spraw byłych rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-04-23",
+  "promulgation": "1930-04-23",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300140.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300140.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
