@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/22",
+ "source_sha256": "fcc00932515a246db984660bac176a039d69435c2c37df0e2770fa4c686a5550",
+ "in_force": "1932-01-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/22",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/22/text/O/M19320022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/22/text/I/M19320022.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/22",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 19,
+  "pos": 22,
+  "address": "WMP19320190022",
+  "displayAddress": "M.P. 1932 nr 19 poz. 22",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 14 stycznia 1932 roku.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-14",
+  "promulgation": "1932-01-25",
+  "changeDate": "2026-10-30T10:44:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/561",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320022.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
