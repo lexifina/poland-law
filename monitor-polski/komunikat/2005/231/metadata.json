@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/231",
+ "source_sha256": "b8d128a1aaec7fdaaea7eb621b492753581766a47aeda805b646d1cf4b7bfef2",
+ "in_force": "2005-02-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/231",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/231/text/O/M20050231.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/231/text/I/M20050231.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/231",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 11,
+  "pos": 231,
+  "address": "WMP20050110231",
+  "displayAddress": "M.P. 2005 nr 11 poz. 231",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 lutego 2005 r. w sprawie kwoty zasiłku pogrzebowego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-02-16",
+  "promulgation": "2005-02-25",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek pogrzebowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 80 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050231.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050231.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
