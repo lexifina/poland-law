@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/299",
+ "source_sha256": "97bfa609b741b9538527047c58e3f79522216aa1c565813e5ae234c7b55ecc36",
+ "in_force": "1935-10-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/299",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/299/text/O/M19350299.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/299/text/I/M19350299.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/299",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 251,
+  "pos": 299,
+  "address": "WMP19352510299",
+  "displayAddress": "M.P. 1935 nr 251 poz. 299",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 25 października 1935 r. o wartości jednego grama czystego złota.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-10-25",
+  "promulgation": "1935-10-31",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/694"
+    },
+    {
+     "id": "DU/1934/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/509",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350299.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350299.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
