@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1973/92",
+ "source_sha256": "e720193ec8d6a3cc16700de574e1516d4a6d70ccea831f04b17d638f71b37093",
+ "in_force": "1973-03-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1973/92",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1973/92/text/O/M19730092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1973/92/text/I/M19730092.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1973/92",
+  "publisher": "MP",
+  "year": 1973,
+  "volume": 14,
+  "pos": 92,
+  "address": "WMP19730140092",
+  "displayAddress": "M.P. 1973 nr 14 poz. 92",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 14 marca 1973 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-03-14",
+  "entryIntoForce": "1973-03-14",
+  "validFrom": "1973-03-14",
+  "repealDate": "1973-03-24",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/101",
+     "date": "1973-03-24"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1973/67",
+     "date": "1973-03-14"
+    },
+    {
+     "id": "MP/1973/62",
+     "date": "1973-03-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19730092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19730092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
