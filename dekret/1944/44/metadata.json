@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/44",
+ "source_sha256": "6fda4bb8eb58f1e27c045350823e6e3fb9ca51bcbfcc0e8d4c051dc4812e7467",
+ "in_force": "1944-10-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/44/text/O/D19440044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/44/text/I/D19440044.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/44",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 9,
+  "pos": 44,
+  "address": "WDU19440090044",
+  "displayAddress": "Dz.U. 1944 nr 9 poz. 44",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 października 1944 r. o zmianie ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-10-23",
+  "entryIntoForce": "1944-10-24",
+  "validFrom": "1944-10-24",
+  "repealDate": "1999-01-01",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU PRACY, OPIEKI SPOŁECZNEJ I ZDROWIA"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "zakłady opieki zdrowotnej",
+   "ubezpieczenia społeczne",
+   "opieka zdrowotna",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1997/153",
+     "date": "1999-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1933/396",
+     "date": "1944-10-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440044.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
