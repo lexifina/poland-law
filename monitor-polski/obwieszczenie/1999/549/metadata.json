@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/549",
+ "source_sha256": "60af9af8885e68ee7c3074b06c3deb8e16cbd9b05e0220a1c6d9e0b9070a518f",
+ "in_force": "1999-11-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/549",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/549/text/O/M19990549.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/549/text/I/M19990549.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/549/text/T/M9990549.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/549",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 36,
+  "pos": 549,
+  "address": "WMP19990360549",
+  "displayAddress": "M.P. 1999 nr 36 poz. 549",
+  "title": "Obwieszczenie Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast z dnia 15 listopada 1999 r. w sprawie średnich podstawowych dochodów podatkowych gmin za 1999 r. w przeliczeniu na 1 mieszkańca.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-11-15",
+  "repealDate": "1999-12-31",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZ. URZĘDU MIESZKALNICTWA I ROZWOJU MIAST"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "podatki",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2000/45",
+     "date": "1999-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/509",
+     "art": "art. 45c ust. 2 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990549.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990549.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990549.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
