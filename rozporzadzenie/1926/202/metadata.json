@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/202",
+ "source_sha256": "b11a68cfc105d43f1046b823fa080f528323171c83a9fb5720e6d2d0dca450fc",
+ "in_force": "1926-04-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/202",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/202/text/O/D19260202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/202/text/I/D19260202.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/202",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 33,
+  "pos": 202,
+  "address": "WDU19260330202",
+  "displayAddress": "Dz.U. 1926 nr 33 poz. 202",
+  "title": "Rozporządzenie Rady Ministrów z dnia 31 marca 1926 r. o podatku wojskowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-03-31",
+  "entryIntoForce": "1926-04-15",
+  "validFrom": "1926-04-15",
+  "repealDate": "1930-04-01",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/63",
+     "date": "1930-04-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1926/554"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/609"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1926/291"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260202.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
