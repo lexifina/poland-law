@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/383",
+ "source_sha256": "927f7fdea8e86e7711ede2143448609d26b796be622ddc24613f8f5bcd1af718",
+ "in_force": "1990-12-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/383",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/383/text/O/M19900383.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/383/text/I/M19900383.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/383",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 49,
+  "pos": 383,
+  "address": "WMP19900490383",
+  "displayAddress": "M.P. 1990 nr 49 poz. 383",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 1 grudnia 1990 r. w sprawie zmian w wykazie obowiązków sprawozdawczych ustalonych przez Główny Urząd Statystyczny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-12-01",
+  "entryIntoForce": "1990-12-29",
+  "validFrom": "1990-12-29",
+  "repealDate": "1991-06-30",
+  "changeDate": "2019-05-10T11:32:12",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1991/81",
+     "date": "1991-06-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1989/350",
+     "date": "1990-12-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/171"
+    },
+    {
+     "id": "DU/1982/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/58",
+     "art": "art. 16 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900383.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900383.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
