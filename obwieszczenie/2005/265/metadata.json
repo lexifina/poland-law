@@ -1,0 +1,860 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/265",
+ "source_sha256": "cea75b21db22e1f5b1a7c7df45cdf5c6b0bd6f561a879af0d2089d6d091e3914",
+ "in_force": "2005-02-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/265",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/265/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/265/text/O/D20050265.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/265/text/I/D20050265.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/265/text/T/D20050265L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/265/text/U/D20050265Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/265",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 31,
+  "pos": 265,
+  "address": "WDU20050310265",
+  "displayAddress": "Dz.U. 2005 nr 31 poz. 265",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lutego 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o warunkach zdrowotnych żywności i żywienia",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-02-07",
+  "promulgation": "2005-02-21",
+  "repealDate": "2006-10-28",
+  "changeDate": "2024-03-15T10:01:48",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spirytus",
+   "żywność i żywienie",
+   "choroby zakaźne",
+   "mięso",
+   "ochrona zdrowia",
+   "choroby zwierząt"
+  ],
+  "keywordsNames": [
+   "Agencja Rynku Rolnego",
+   "Unia Europejska",
+   "Inspekcja Weterynaryjna"
+  ],
+  "directives": [
+   {
+    "address": "31964L0433",
+    "date": "1964-06-26",
+    "title": "DYREKTYWA RADY z dnia 26 czerwca 1964 r. w sprawie problemów zdrowotnych wpływających na handel wewnątrzwspólnotowy świeżym mięsem"
+   },
+   {
+    "address": "31976L0895",
+    "date": "1976-11-23",
+    "title": "DYREKTYWA RADY z dnia 23 listopada 1976 r. dotycząca ustalania maksymalnych poziomów dla pozostałości pestycydów w i na owocach i warzywach"
+   },
+   {
+    "address": "31977L0099",
+    "date": "1976-12-21",
+    "title": "DYREKTYWA RADY Nr 77 z 21 grudnia 1976 r. w sprawie problemów zdrowotnych wpływających na produkcję i marketing produktów mięsnych i innych produktów pochodzenia zwierzęcego"
+   },
+   {
+    "address": "31980L0428",
+    "date": "1980-03-28",
+    "title": "DYREKTYWA KOMISJI z dnia 28 marca 1980 r. zmieniająca zał. II do dyrektywy Rady 76/895/EWG w sprawie ustalenia maksymalnych poziomów pozostałości środków ochrony roślin w owocach i warzywach oraz na ich powierzchni"
+   },
+   {
+    "address": "31980L0777",
+    "date": "1980-07-15",
+    "title": "DYREKTYWA RADY 80/777/EWG z 15 lipca 1980 r. w sprawie dostosowania przepisów prawnych państw członkowskich dotyczących eksploatacji i wprowadzania do handlu naturalnych wód mineralnych"
+   },
+   {
+    "address": "31981L0036",
+    "date": "1981-02-09",
+    "title": "DYREKTYWA RADY z dnia 9 lutego 1981 r. wprowadzająca zmiany w zał. II do dyrektywy 76/895/EWG w sprawie ustalenia dopuszczalnego poziomu pozostałości pestycydów w i na owocach i warzywach"
+   },
+   {
+    "address": "31981L0712",
+    "date": "1981-07-28",
+    "title": "PIERWSZA DYREKTYWA KOMISJI z dnia 28 lipca 1981 r. ustanawiająca wspólnotowe metody analiz w celu kontroli spełniania kryteriów czystości przez niektóre dodatki stosowane w środkach spożywczych"
+   },
+   {
+    "address": "31982L0528",
+    "date": "1982-06-19",
+    "title": "DYREKTYWA RADY z dnia 19 lipca 1982 r. zmieniająca załącznik II do dyrektywy 76/889/EWG odnoszącej się do ustalenia maksymalnych poziomów pozostałości pestycydów w/na owocach i warzywach"
+   },
+   {
+    "address": "31983L0201",
+    "date": "1983-04-12",
+    "title": "DYREKTYWA KOMISJI z dnia 12 kwietnia 1983 r. ustanawiająca wyjątki od dyrektywy Rady 77/99/EWG dotyczące niektórych produktów, zawierających inne artykuły żywnościowe oraz jedynie niewielki procent mięsa lub produktów mięsnych"
+   },
+   {
+    "address": "31985L0591",
+    "date": "1985-12-20",
+    "title": "DYREKTYWA RADY z dnia 20 grudnia 1985 r. dotycząca wprowadzenia wspólnotowych metod pobierania próbek i analizy do celów monitoringu produktów spożywczych przeznaczonych do spożycia przez ludzi"
+   },
+   {
+    "address": "31986L0362",
+    "date": "1986-07-24",
+    "title": "Dyrektywa Rady z 24 lipca 1986 r. w sprawie ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w zbożach i na ich powierzchni"
+   },
+   {
+    "address": "31986L0363",
+    "date": "1986-07-24",
+    "title": "DYREKTYWA RADY z 24 lipca 1986 r dotycząca ustalania najwyższych dopuszczalnych pozostałości pestycydów w środkach spożywczych pochodzenia zwierzęcego i na ich powierzchniach"
+   },
+   {
+    "address": "31987L0250",
+    "date": "1987-04-15",
+    "title": "Dyrektywa Komisji nr 87/250/EWG z dnia 15 kwietnia 1987 r. w sprawie oznaczania zawartości alkoholu na etykietach napojów alkoholowych przeznaczonych do sprzedaży konsumentowi końcowemu"
+   },
+   {
+    "address": "31988L0298",
+    "date": "1988-05-16",
+    "title": "DYREKTYWA RADY z dnia 16 maja 1988 r. w sprawie zmiany treści Załącznika II do dyrektyw nr 76/895/EWG i 86/362/EWG w sprawie ustalenia maksymalnych poziomów pozostałości pestycydów wewnątrz i na powierzchni odpowiednio owoców i warzyw oraz zbóż"
+   },
+   {
+    "address": "31988L0344",
+    "date": "1988-06-13",
+    "title": "Dyrektywa Rady 88/344/EWG z dnia 13 czerwca 1988 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich dotyczących rozpuszczalników do ekstrakcji stosowanych w produkcji środków spożywczych i składników żywności"
+   },
+   {
+    "address": "31988L0388",
+    "date": "1988-06-22",
+    "title": "DYREKTYWA RADY 88/388/WE z dnia 22 czerwca 1988 r. dotycząca dostosowania przepisów ustawodawczych państw członkowskich w dziedzinie aromatów przeznaczonych do wykorzystania w artykułach spożywczych oraz podstawowych surowców do produkcji aromatów"
+   },
+   {
+    "address": "31989L0107",
+    "date": "1988-12-21",
+    "title": "DYREKTYWA RADY z 21 grudnia 1988 r. w sprawie ujednolicenia przepisów prawnych państw członkowskich w zakresie dodatkowych środków, które mogą być stosowane do artykułów spożywczych"
+   },
+   {
+    "address": "31989L0108",
+    "date": "1988-12-21",
+    "title": "Dyrektywa Rady 89/108/EWG z dnia 21 grudnia 1988 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do głęboko mrożonych środków spożywczych przeznaczonych do spożycia przez ludzi"
+   },
+   {
+    "address": "31989L0109",
+    "date": "1988-12-21",
+    "title": "DYREKTYWA RADY z dnia 21 grudnia 1988 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich dotyczących materiałów i wyrobów przeznaczonych do kontaktu ze środkami spożywczymi"
+   },
+   {
+    "address": "31989L0186",
+    "date": "1989-03-06",
+    "title": "DYREKTYWA RADY z dnia 6 marca 1989 r. zmieniająca załącznik nr II do dyrektywy nr 76/895/EWG dotyczącej wyznaczania maksymalnego poziomu pozostałości pestycydu w i na owocach i warzywach"
+   },
+   {
+    "address": "31989L0396",
+    "date": "1989-06-14",
+    "title": "DYREKTYWA RADY z dnia 14 czerwca 1989 r. w sprawie wskazówek lub oznakowań identyfikacyjnych partii towarów, do których należy dany środek spożywczy"
+   },
+   {
+    "address": "31989L0397",
+    "date": "1989-06-14",
+    "title": "DYREKTYWA RADY z dnia 14 czerwca 1989 r. w sprawie urzędowej kontroli żywności"
+   },
+   {
+    "address": "31989L0398",
+    "date": "1989-05-03",
+    "title": "Dyrektywa Rady z dnia 3 maja 1989 r. w sprawie dostosowania przepisów prawnych państw członkowskich, dotyczących artykułów spożywczych przeznaczonych do specjalnych zastosowań w żywieniu"
+   },
+   {
+    "address": "31989L0662",
+    "date": "1989-12-11",
+    "title": "DYREKTYWA RADY z dnia 11 grudnia 1989 r. dotycząca kontroli weterynaryjnych w handlu wewnątrzwspólnotowym mająca na względzie budowę rynku wewnętrznego"
+   },
+   {
+    "address": "31990L0425",
+    "date": "1990-06-26",
+    "title": "DYREKTYWA RADY z dnia 26 czerwca 1990 r. dotycząca kontroli weterynaryjnych i zootechnicznych mających zastosowanie w handlu wewnątrzwspólnotowym niektórymi żywymi zwierzętami i produktami mająca na względzie budowę rynku wewnętrznego"
+   },
+   {
+    "address": "31990L0496",
+    "date": "1990-09-24",
+    "title": "Dyrektywa Rady 90/496/ EWG z dnia 24 września 1990 r. w sprawie oznaczania wartości odżywczej środków spożywczych"
+   },
+   {
+    "address": "31990L0642",
+    "date": "1990-11-27",
+    "title": "Dyrektywa Rady z 27 listopada 1990 r. dotycząca ustalania maksymalnych pozostałości pestycydów na i w niektórych produktach pochodzenia roślinnego, włączając owoce i warzywa"
+   },
+   {
+    "address": "31991L0071",
+    "date": "1991-01-16",
+    "title": "DYREKTYWA KOMISJI z dnia 16 stycznia 1991 r. uzupełniająca dyrektywę 88/388/EWG w sprawie dostosowania przepisów prawnych państw członkowskich w dziedzinie aromatów przeznaczonych do wykorzystania w artykułach żywnościowych oraz podstawowych surowców do produkcji aromatów"
+   },
+   {
+    "address": "31991L0238",
+    "date": "1991-04-22",
+    "title": "Dyrektywa Rady 91/238/EWG z dnia 22 kwietnia 1991 r. zmieniająca dyrektywę 89/396/EWG w sprawie wskazówek lub oznakowań identyfikacyjnych partii artykułów, do których należy dany środek spożywczy"
+   },
+   {
+    "address": "31991L0321",
+    "date": "1991-05-14",
+    "title": "Dyrektywa Komisji 91/321/EWGz dnia 14 maja 1991 r. w sprawie preparatów dla niemowląt i preparatów pochodnych"
+   },
+   {
+    "address": "31992L0001",
+    "date": "1992-01-13",
+    "title": "DYREKTYWA KOMISJI NR 92/1/EWG z dnia 13 stycznia 1992 r. w sprawie monitorowania temperatur w środkach transportu, podczas magazynowania i składowania głęboko mrożonych środków spożywczych przeznaczonych do spożycia przez ludzi"
+   },
+   {
+    "address": "31992L0002",
+    "date": "1992-01-13",
+    "title": "DYREKTYWA KOMISJI NR 92/2/EWG z dnia 13 stycznia 1992 r. ustanawiająca procedurę pobierania próbek oraz wspólnotową metodę analizy do celów urzędowej kontroli temperatur głęboko mrożonej żywności przeznaczonej do spożycia przez ludzi"
+   },
+   {
+    "address": "31992L0004",
+    "date": "1992-02-10",
+    "title": "DYREKTYWA KOMISJI 92/4/EWG z dnia 10 lutego 1992 r. zmieniająca dyrektywę Rady 78/663/EWG ustanawiającą szczególne kryteria czystości dla emulgatorów, stabilizatorów, zagęszczaczy i substancji żelujących do stosowania w środkach spożywczych"
+   },
+   {
+    "address": "31992L0005",
+    "date": "1992-02-10",
+    "title": "DYREKTYWA RADY z dnia 10 lutego 1992 r. zmieniająca i uaktualniająca dyrektywę 77/99/EWG w sprawie problemów zdrowotnych wpływających na handel wewnątrzwspólnotowy produktami mięsnymi oraz zmieniająca dyrektywę 64/433/EWG"
+   },
+   {
+    "address": "31992L0011",
+    "date": "1992-03-03",
+    "title": "Dyrektywa Rady 1992/11/EWG z dnia 3 marca 1992 r. zmieniająca dyrektywę 89/396/EWG w sprawie wskazówek lub oznakowań identyfikacyjnych partii artykułów, do których należy dany środek spożywczy"
+   },
+   {
+    "address": "31992L0052",
+    "date": "1992-06-18",
+    "title": "Dyrektywa Rady 92/52/EWG z dnia 18 czerwca 1992 r. w sprawie preparatów dla niemowląt i receptur przeznaczonych na wywóz do państw trzecich"
+   },
+   {
+    "address": "31992L0115",
+    "date": "1992-12-17",
+    "title": "DYREKTYWA RADY 92/115/EWG z dnia 17 grudnia 1992 r. zmieniająca po raz pierwszy dyrektywę 88/344/EWG w sprawie zbliżenia ustawodawstw Państw Członkowskich dotyczących rozpuszczalników do ekstrakcji stosowanych w produkcji środków spożywczych i składników żywności"
+   },
+   {
+    "address": "31992L0116",
+    "date": "1992-12-17",
+    "title": "DYREKTYWA RADY NR 92/116/EWG z dnia 17 grudnia 1992 r. zmieniająca i aktualizująca dyrektywę 71/118/EWG w sprawie problemów zdrowotnych wpływających na handel świeżym mięsem drobiowym"
+   },
+   {
+    "address": "31992L0118",
+    "date": "1992-12-17",
+    "title": "DYREKTYWA RADY 92/118/EWG z dnia 17 grudnia 1992 r. ustanawiająca warunki zdrowotne zwierząt i zdrowia publicznego regulujące handel i przywóz do Wspólnoty produktów nieobjętych wyżej wymienionymi warunkami ustanowionymi w szczególnych zasadach wspólnotowych określonych w załączniku A pkt I do dyrektywy 89/662/EWG oraz w zakresie czynników chorobotwórczych do dyrektywy 90/425/EWG"
+   },
+   {
+    "address": "31993L0005",
+    "date": "1993-02-25",
+    "title": "Dyrektywa Rady 93/5/EWG z dnia 25 lutego 1993 r. w sprawie pomocy Komisji i współpracy Państw Członkowskich w naukowym badaniu zagadnień dotyczących żywności"
+   },
+   {
+    "address": "31993L0043",
+    "date": "1993-06-14",
+    "title": "DYREKTYWA RADY 93/43/EWG z dnia 14 czerwca 1993 r. w sprawie higieny środków spożywczych"
+   },
+   {
+    "address": "31993L0045",
+    "date": "1993-06-17",
+    "title": "DYREKTYWA KOMISJI 93/45/EWG z dnia 17 czerwca 1993 r. dotycząca produkcji nektarów bez dodatku cukrów lub miodu"
+   },
+   {
+    "address": "31993L0057",
+    "date": "1993-06-29",
+    "title": "Dyrektywa Rady 93/57/EWG z dnia 29 czerwca 1993 r. zmieniająca załączniki do dyrektyw 86/362/EWG i 86/363/EWG o ustaleniu maksymalnych poziomów pozostałości pestycydów w i na zbożach i artykułach spożywczych pochodzenia zwierzęcego"
+   },
+   {
+    "address": "31993L0058",
+    "date": "1993-06-29",
+    "title": "DYREKTYWA RADY 93/58/EWG z dnia 29 czerwca 1993 r. zmieniająca załącznik II do dyrektywy 76/895/EWG odnoszącej się do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w owocach i warzywach oraz na ich powierzchni oraz Załącznik do dyrektywy 90/642/EWG w sprawie ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach, oraz na ich powierzchni oraz ustanawiająca pierwszy wykaz najwyższych dopuszczalnych poziomów"
+   },
+   {
+    "address": "31993L0099",
+    "date": "1993-10-29",
+    "title": "Dyrektywa Rady 93/99/EWG z dnia 29 października 1993 r. w sprawie dodatkowych środków urzędowej kontroli środków spożywczych"
+   },
+   {
+    "address": "31994L0029",
+    "date": "1994-06-23",
+    "title": "DYREKTYWA RADY 94/29/EWG z dnia 23 czerwca 1994 r. zmieniająca załączniki do dyrektyw 86/362/EWG oraz 86/363/EWG w sprawie ustalenia maksymalnych stężeń resztek pestycydów odpowiednio: w zbożach, na ziarnach zbóż oraz w artykułach spożywczych pochodzenia zwierzęcego"
+   },
+   {
+    "address": "31994L0030",
+    "date": "1994-06-23",
+    "title": "DYREKTYWA RADY 94/30/EWG z dnia 23 czerwca 1994 r. uzupełnienie załącznika II do dyrektywy 90/64/EWG w sprawie najwyższych dopuszczalnych wartości stężeń resztek pestycydów w pewnych artykułach pochodzenia roślinnego i na ich powierzchni, obejmujących owoce i warzywa, oraz wykazu najwyższych dopuszczalnych wartości stężeń"
+   },
+   {
+    "address": "31994L0034",
+    "date": "1994-06-30",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY z dnia 30 czerwca 1994 r. zmieniająca dyrektywę 89/107/EWG w sprawie zbliżenia ustaw państw członkowskich dotyczących substancji przyprawowych zatwierdzonych do stosowania w zakresie artykułów żywnościowych przeznaczonych do konsumpcji"
+   },
+   {
+    "address": "31994L0035",
+    "date": "1994-06-30",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady Nr 94/35/WE z dnia 30 czerwca 1994 r. w sprawie substancji słodzących używanych w środkach spożywczych"
+   },
+   {
+    "address": "31994L0036",
+    "date": "1994-06-30",
+    "title": "Dyrektywa 94/36/WE Parlamentu Europejskiego I Rady z dnia 30 czerwca 1994 r. w sprawie barwników używanych w środkach spożywczych"
+   },
+   {
+    "address": "31994L0052",
+    "date": "1994-12-07",
+    "title": "DYREKTYWA 94/52/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 7 grudnia 1994 r. zmieniająca po raz drugi dyrektywę 88/344/EWG w sprawie zbliżenia ustawodawstw Państw Członkowskich dotyczących rozpuszczalników do ekstrakcji stosowanych w produkcji środków spożywczych i składników żywności"
+   },
+   {
+    "address": "31994L0054",
+    "date": "1994-11-18",
+    "title": "DYREKTYWA KOMISJI 94/54/WE z dnia 18 listopada 1994 r. dotycząca obowiązkowego umieszczania na etykietach niektórych środków spożywczych danych szczegółowych innych niż wymienione w dyrektywie Rady 79/112/EWG"
+   },
+   {
+    "address": "31994L0065",
+    "date": "1994-12-14",
+    "title": "DYREKTYWA RADY 94/65/WE z dnia 14 grudnia 1994 r. ustanawiająca wymagania w odniesieniu do produkcji i wprowadzania na rynek mięsa mielonego i przetworów mięsnych"
+   },
+   {
+    "address": "31995L0002",
+    "date": "1995-02-20",
+    "title": "Dyrektywa 95/2/WE Parlamentu Europejskiego i Rady z dnia 20 lutego 1995 r. w sprawie dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "31995L0031",
+    "date": "1995-05-07",
+    "title": "Dyrektywa Komisji 95/31/WE z dnia 5 lipca 1995 r. ustanawiająca szczególne kryteria czystości dotyczące substancji słodzących stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "31995L0038",
+    "date": "1995-07-17",
+    "title": "DYREKTYWA RADY 95/38/EWG z dnia 17 lipca 1995 r. zmieniająca załączniki I i II do dyrektywy 90/642/EWG w sprawie ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach, oraz na ich powierzchni oraz przewidująca ustalenie wykazu najwyższych dopuszczalnych poziomów"
+   },
+   {
+    "address": "31995L0039",
+    "date": "1995-07-17",
+    "title": "DYREKTYWA RADY 95/39/WE z dnia 17 lipca 1995 r. zmieniająca załączniki do dyrektyw 86/362/EWG i 86/363/EWG w sprawie ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w zbożach i na ich powierzchni oraz w środkach spożywczych i na ich powierzchni"
+   },
+   {
+    "address": "31995L0045",
+    "date": "1995-07-26",
+    "title": "Dyrektywa Komisji 95/45/WE z dnia 26 lipca 1995 r. ustanawiająca szczególne kryteria czystości dotyczące barwników stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "31995L0061",
+    "date": "1995-11-29",
+    "title": "DYREKTYWA RADY 95/61/WE z dnia 29 listopada 1995 r. zmieniająca załącznik II do dyrektywy 90/642/EWG w sprawie ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów na i w niektórych produktach pochodzenia roślinnego, z uwzględnieniem owoców i warzyw"
+   },
+   {
+    "address": "31996L0003",
+    "date": "1996-01-26",
+    "title": "DYREKTYWA KOMISJI 96/3/WE z dnia 26 stycznia 1996 r. przyznająca odstępstwo od niektórych przepisów dyrektywy Rady 93/43/EWG w sprawie higieny środków spożywczych w odniesieniu do transportu morskiego płynnych olejów i tłuszczów luzem"
+   },
+   {
+    "address": "31996L0004",
+    "date": "1996-02-16",
+    "title": "DYREKTYWA KOMISJI 96/4/WE z dnia 16 lutego 1996 r. zmieniająca dyrektywę 91/321/EWG w sprawie preparatów dla niemowląt i preparatów pochodnych"
+   },
+   {
+    "address": "31996L0005",
+    "date": "1996-02-16",
+    "title": "Dyrektywa Komisji 96/5/WE z dnia 16 lutego 1996 r. w sprawie przetworzonej żywności na bazie zbóż oraz żywności dla niemowląt i małych dzieci"
+   },
+   {
+    "address": "31996L0008",
+    "date": "1996-02-26",
+    "title": "Dyrektywa Komisji 96/8/WE z dnia 26 lutego 1996 r. w sprawie żywności przeznaczonej do użycia w dietach o obniżonej energetyczności"
+   },
+   {
+    "address": "31996L0021",
+    "date": "1996-03-29",
+    "title": "DYREKTYWA RADY 96/21/WE z dnia 29 marca 1996 r. zmieniająca dyrektywę Komisji 94/54/WE dotyczącą obowiązkowego umieszczania na etykietach niektórych środków spożywczych danych szczegółowych innych niż wymienione w dyrektywie 79/112/EWG"
+   },
+   {
+    "address": "31996L0032",
+    "date": "1996-05-21",
+    "title": "DYREKTYWA RADY 96/32/WE z dnia 21 maja 1996 r. zmieniająca załącznik II do dyrektywy 76/895/EWG odnoszącej się do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w owocach i warzywach oraz na ich powierzchni, oraz załącznik II do dyrektywy 90/642/EWG odnoszącej się do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach, oraz na ich powierzchni, oraz przewidującej ustalanie wykazu najwyższych dopuszczalnych poziomów"
+   },
+   {
+    "address": "31996L0033",
+    "date": "1996-05-21",
+    "title": "DYREKTYWA RADY 96/33/EWG z dnia 21 maja 1996 r. zmieniająca załączniki do dyrektyw 86/362/EWG oraz 86/363/EWG w sprawie maksymalnych stężeń resztek pestycydów, odpowiednio: w zbożach i na ziarnach zbóż oraz w artykułach spożywczych pochodzenia zwierzęcego"
+   },
+   {
+    "address": "31996L0070",
+    "date": "1996-10-28",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY z dnia 28 października 1996 r. zmieniająca dyrektywę 80/777/EWG w sprawie dostosowania przepisów prawnych państw członkowskich dotyczących eksploatacji i wprowadzania do handlu naturalnych wód mineralnych"
+   },
+   {
+    "address": "31996L0077",
+    "date": "1996-02-12",
+    "title": "DYREKTYWA KOMISJI 96/77/WE z dnia 2 grudnia 1996 r. ustanawiająca szczególne kryteria czystości dla dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "31996L0083",
+    "date": "1996-12-19",
+    "title": "Dyrektywa 96/83/WE Parlamentu Europejskiego i Rady z dnia 19 grudnia 1996 r. zmieniająca dyrektywę 94/35/WE w sprawie substancji słodzących używanych w środkach spożywczych"
+   },
+   {
+    "address": "31996L0084",
+    "date": "1996-12-19",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY z dnia 19 grudnia 1996 r. zmieniająca dyrektywę 89/398/EWG w sprawie zbliżenia przepisów prawnych państw członkowskich dotyczących artykułów żywnościowych mających specjalne zastosowania w żywieniu"
+   },
+   {
+    "address": "31996L0085",
+    "date": "1996-12-19",
+    "title": "Dyrektywa 96/85/WE Parlamentu Europejskiego i Rady z dnia 19 grudnia 1996 r. zmieniająca dyrektywę 95/2/WE o dodatkach do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "31997L0041",
+    "date": "1997-06-25",
+    "title": "DYREKTYWA RADY 97/41/EWG z dnia 25 czerwca 1997 r. zmieniająca dyrektywy 76/895/EWG, 86/362/EWG oraz 90/642/EWG w sprawie ustalenia maksymalnych poziomów pozostałości pestycydu w i na, odpowiednio owocach oraz warzywach, zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, w tym także owocach i warzywach"
+   },
+   {
+    "address": "31997L0060",
+    "date": "1997-10-27",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 97/60/WE z dnia 27 października 1997 r. zmieniająca po raz trzeci dyrektywę 88/344/EWG w sprawie zbliżenia ustawodawstw Państw Członkowskich dotyczących rozpuszczalników do ekstrakcji stosowanych w produkcji środków spożywczych i składników żywności"
+   },
+   {
+    "address": "31997L0071",
+    "date": "1997-12-15",
+    "title": "DYREKTYWA KOMISJI 97/71/WE z dnia 15 grudnia 1997 zmieniająca Załączniki do Dyrektyw Rady nr 86/362/EWG, 86/363/EWG i 90/642/EWG w sprawie ustalania maksymalnych poziomów dla pozostałości pestycydów w i na zbożach, artykułach żywnościowych pochodzenia zwierzęcego i pewnych produktach pochodzenia roślinnego, odpowiednio łącznie z owocami i warzywami"
+   },
+   {
+    "address": "31997R0258",
+    "date": "1997-01-27",
+    "title": "ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY nr 258/97/WE z dnia 27 stycznia 1997 r. w sprawie nowych produktów spożywczych i nowych składników żywności"
+   },
+   {
+    "address": "31998L0028",
+    "date": "1998-04-29",
+    "title": "DYREKTYWA KOMISJI 98/28/WE z dnia 29 kwietnia 1998 r. przyznająca odstępstwo od niektórych przepisów dyrektywy 93/43/EWG w sprawie higieny środków spożywczych w odniesieniu do transportu morskiego cukru nierafinowanego luzem"
+   },
+   {
+    "address": "31998L0036",
+    "date": "1998-02-06",
+    "title": "DYREKTYWA KOMISJI 98/36/WE z dnia 2 czerwca 1998 r. zmieniająca dyrektywę 96/5/WE w sprawie przetworzonej żywności na bazie zbóż oraz odżywek dla niemowląt i małych dzieci"
+   },
+   {
+    "address": "31998L0053",
+    "date": "1998-07-16",
+    "title": "DYREKTYWA KOMISJI 98/53/WE z dnia 16 lipca 1998 r. ustanawiająca metody pobierania próbek oraz metody analiz do celów urzędowej kontroli poziomów niektórych substancji zanieczyszczających w środkach spożywczych"
+   },
+   {
+    "address": "31998L0066",
+    "date": "1998-09-04",
+    "title": "DYREKTYWA KOMISJI 98/66/WE z dnia 4 września 1998 r. zmieniająca dyrektywę 95/31/WE ustanawiającą szczególne kryteria czystości dotyczące substancji słodzących stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "31998L0072",
+    "date": "1998-10-15",
+    "title": "DYREKTYWA 98/72/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 15 października 1998 r. zmieniająca dyrektywę 95/2/WE dotycząca dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "31998L0082",
+    "date": "1998-10-28",
+    "title": "DYREKTYWA KOMISJI NR 98/82/EC z 28 października 1998r. zmieniająca załączniki do Dyrektyw Rady nr 86/362/EWG, 86/363/EWG i 90/642/EWG w sprawie maksymalnych poziomów ilości śladowych pestycydów wewnątrz i na powierzchni zbóż, produktów żywnościowych pochodzenia zwierzęcego oraz niektórych produktów pochodzenia roślinnego, w tym owoców i warzyw."
+   },
+   {
+    "address": "31998L0086",
+    "date": "1998-11-11",
+    "title": "DYREKTYWA KOMISJI 98/86/WE z dnia 11 listopada 1998 r. zmieniająca dyrektywę 96/77/WE ustanawiającą szczególne kryteria czystości dla dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "31999L0002",
+    "date": "1999-02-22",
+    "title": "DYREKTYWA 1999/2/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 22 lutego 1999 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich dotyczących środków spożywczych oraz składników środków spożywczych poddanych działaniu promieniowania jonizującego"
+   },
+   {
+    "address": "31999L0003",
+    "date": "1999-02-22",
+    "title": "DYREKTYWA 1999/3/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 22 lutego 1999 r. w sprawie ustanowienia we Wspólnocie listy artykułów spożywczych oraz ich składników poddanych działaniu promieni jonizujących"
+   },
+   {
+    "address": "31999L0021",
+    "date": "1999-03-25",
+    "title": "DYREKTYWA KOMISJI 1999/21 z dnia 25 marca 1999 r. dotycząca dietetycznych artykułów żywnościowych do specjalnych celów medycznych"
+   },
+   {
+    "address": "31999L0039",
+    "date": "1999-06-05",
+    "title": "DYREKTYWA KOMISJI 1999/39/WE z dnia 6 maja 1999 r. zmieniająca dyrektywę 96/5/WE w sprawie przetworzonej żywności na bazie zbóż oraz żywności dla niemowląt i małych dzieci"
+   },
+   {
+    "address": "31999L0041",
+    "date": "1999-06-07",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY z dnia 7 czerwca 1999 roku zmieniająca dyrektywę 89/398 EWG w sprawie harmonizacji przepisów państw członkowskich dotyczących środków spożywczych specjalnego przeznaczenia żywieniowego"
+   },
+   {
+    "address": "31999L0050",
+    "date": "1999-05-25",
+    "title": "DYREKTYWA KOMISJI 1999/50/WE z dnia 25 maja 1999 r. zmieniająca dyrektywę 91/321/EWG w sprawie preparatów dla niemowląt i preparatów pochodnych"
+   },
+   {
+    "address": "31999L0065",
+    "date": "1999-06-24",
+    "title": "DYREKTYWA KOMISJI 1999/65/WE z dnia 24 czerwca 1999 r. zmieniająca dyrektywę Rady 86/362/EWG i 90/642/EWG w sprawie ustalenia maksymalnych poziomów dla pozostałości pestycydów znajdujących się w zbożach oraz na ich powierzchni, a także w niektórych innych produktach pochodzenia roślinnego łącznie z owocami i warzywami"
+   },
+   {
+    "address": "31999L0071",
+    "date": "1999-07-14",
+    "title": "DYREKTYWA KOMISJI 1999/71/WE z dnia 14 lipca 1999 r. zmieniająca załączniki do dyrektyw Rady 86/362/EWG, 86/363/EWG i 90/642/EWG w sprawie ustalania maksymalnych poziomów pozostałości pestycydów wewnątrz i na powierzchni zbóż, artykułów spożywczych pochodzenia zwierzęcego i pewnych produktów pochodzenia roślinnego, w tym wewnątrz i na powierzchni owoców i warzyw. (tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "31999L0075",
+    "date": "1999-07-22",
+    "title": "DYREKTYWA KOMISJI 1999/75/WE z dnia 22 lipca 1999 r. zmieniająca dyrektywę Komisji 95/45/WE ustanawiającą szczególne kryteria czystości dotyczące barwników stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "31999L0077",
+    "date": "1999-07-26",
+    "title": "DYREKTYWA KOMISJI 1999/77/WE z dnia 26 lipca 1999 r. dostosowująca po raz szósty do postępu technicznego załącznik I do dyrektywy Rady 76/769/EWG w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do ograniczeń we wprowadzaniu do obrotu i stosowaniu niektórych substancji i preparatów niebezpiecznych (azbest)"
+   },
+   {
+    "address": "32000L0013",
+    "date": "2000-03-20",
+    "title": "Dyrektywa 2000/13/WE Parlamentu Europejskiego i Rady z dnia 20 marca 2000 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie etykietowania, prezentacji i reklamy środków spożywczych"
+   },
+   {
+    "address": "32000L0024",
+    "date": "2000-04-28",
+    "title": "DYREKTYWA KOMISJI 2000/24/WE z dnia 28 kwietnia 2000 r. zmieniająca załączniki do dyrektyw Rady nr 76/895/EWG, 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie wyznaczania maksymalnego poziomu pozostałości pestycydu w i na zbożach, produktach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, włączając odpowiednio owoce i warzywa"
+   },
+   {
+    "address": "32000L0042",
+    "date": "2000-07-22",
+    "title": "DYREKTYWA KOMISJI 2000/42/WE z dnia 22 lipca 2000 r. zmieniająca załączniki do dyrektyw Rady nr 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie wyznaczania dopuszczalnego poziomu pozostałości pestycydu w i na zbożach, produktach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, włączając odpowiednio owoce i warzywa"
+   },
+   {
+    "address": "32000L0048",
+    "date": "2000-07-25",
+    "title": "DYREKTYWA KOMISJI 2000/48/WE z dnia 25 lipca 2000 r. zmieniająca załączniki do dyrektyw Rady nr 86/362/EWG i 90/642/EWG w sprawie wyznaczania maksymalnego poziomu pozostałości pestycydu w i na zbożach i niektórych produktach pochodzenia roślinnego, włączając odpowiednio owoce i warzywa"
+   },
+   {
+    "address": "32000L0051",
+    "date": "2000-07-26",
+    "title": "DYREKTYWA KOMISJI 2000/51/WE z dnia 26 lipca 2000 r. zmieniająca dyrektywę 95/31/WE ustanawiającą szczególne kryteria czystości dotyczące substancji słodzących stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "32000L0057",
+    "date": "2000-09-22",
+    "title": "DYREKTYWA KOMISJI 2000/57/WE z dnia 22 września 2000 r. zmieniająca treść załączników do dyrektyw Rady Unii Europejskiej 76/895/EWG i 90/642/EWG w sprawie określenia maksymalnego poziomu pozostałości pestycydów wewnątrz i na powierzchni owoców, warzyw i niektórych innych produktów pochodzenia roślinnego, w tym odpowiednio owocowego i warzywnego"
+   },
+   {
+    "address": "32000L0058",
+    "date": "2000-09-22",
+    "title": "DYREKTYWA KOMISJI 2000/58/WE z dnia 22 września 2000 r. zmieniająca załączniki do dyrektyw Rady nr 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie wyznaczania maksymalnego poziomu pozostałości pestycydu w i na zbożach, produktach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, włączając odpowiednio owoce i warzywa"
+   },
+   {
+    "address": "32000L0063",
+    "date": "2000-10-05",
+    "title": "DYREKTYWA KOMISJI 2000/63/WE z dnia 5 października 2000 r. zmieniająca dyrektywę 96/77/WE ustanawiającą szczególne kryteria czystości dla dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "32000L0081",
+    "date": "2000-12-18",
+    "title": "DYREKTYWA KOMISJI 2000/81/WE z dnia 18 grudnia 2000 r. zmieniająca załączniki do dyrektyw Rady nr 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie wyznaczania maksymalnego poziomu pozostałości pestycydu w i na zbożach, produktach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, włączając odpowiednio owoce i warzywa"
+   },
+   {
+    "address": "32000L0082",
+    "date": "2000-12-20",
+    "title": "DYREKTYWA KOMISJI 2000/82/WE z dnia 20 grudnia 2000 r. zmieniająca załączniki do dyrektyw Rady 76/895/EWG, 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów odpowiednio w owocach i warzywach, zbożach, środkach spożywczych pochodzenia zwierzęcego, niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach, oraz na ich powierzchni"
+   },
+   {
+    "address": "32001L0005",
+    "date": "2001-12-02",
+    "title": "DYREKTYWA 2001/5/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 12 lutego 2001 r. zmieniająca dyrektywę 95/2/WE w sprawie dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "32001L0015",
+    "date": "2001-02-15",
+    "title": "DYREKTYWA KOMISJI 2001/15/WE z dnia 15 lutego 2001 r. w sprawie substancji, które mogą być dodawane w szczególnych celach odżywczych do żywności specjalnego przeznaczenia żywieniowego"
+   },
+   {
+    "address": "32001L0018",
+    "date": "2001-03-12",
+    "title": "DYREKTYWA 2001/18/EC PARLAMENTU EUROPEJSKIEGO I RADY EUROPY z dnia 12 marca 2001 roku w sprawie zamierzonego uwalniania do środowiska organizmów genetycznie zmodyfikowanych oraz uchylenia Dyrektywy 90/220/EWG"
+   },
+   {
+    "address": "32001L0022",
+    "date": "2001-03-08",
+    "title": "DYREKTYWA KOMISJI 2001/22/WE z dnia 8 marca 2001 r. ustanawiająca metody pobierania próbek i metody analiz do celów urzędowej kontroli poziomów ołowiu, kadmu, rtęci i 3-MCPD w środkach spożywczych"
+   },
+   {
+    "address": "32001L0030",
+    "date": "2001-05-02",
+    "title": "DYREKTYWA KOMISJI 2001/30/WE z dnia 2 maja 2001 r. zmieniająca dyrektywę 96/77/WE ustanawiającą szczególne kryteria czystości dla dodatków do środków spożywczych innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "32001L0035",
+    "date": "2001-05-11",
+    "title": "Dyrektywa Komisji 2001/35/WE z dnia 11 maja 2001 zmieniająca załączniki do dyrektywy Rady 90/642/EWG w sprawie ustalania maksymalnych poziomów pozostałości pestycydów wewnątrz i na powierzchni produktów pochodzenia roślinnego, w tym owocach i warzywach"
+   },
+   {
+    "address": "32001L0039",
+    "date": "2001-05-23",
+    "title": "Dyrektywa Komisji 2001/39/WE z dnia 23 maja 2001 zmieniająca Załączniki do Dyrektyw Rady 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie ustalenia maksymalnych poziomów odpadów z pestycydów w zbożach oraz określonych produktach pochodzenia roślinnego, włączając odpowiednio owoce oraz warzywa."
+   },
+   {
+    "address": "32001L0048",
+    "date": "2001-06-25",
+    "title": "Dyrektywa Komisji 2001/48/WE z dnia 25 czerwca 2001 zmieniająca Załącznik do Dyrektywy Rady 86/362/EWG oraz 90/642/EWG w sprawie ustalenia maksymalnych poziomów odpadów z pestycydów w zbożach oraz określonych produktach pochodzenia roślinnego, włączając odpowiednio owoce oraz warzywa."
+   },
+   {
+    "address": "32001L0050",
+    "date": "2001-03-07",
+    "title": "Dyrektywa Komisji 2001/50/WE z dnia 3 lipca 2001 r. zmieniająca dyrektywę 95/45/WE ustanawiającą szczególne kryteria czystości dotyczące barwników stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "32001L0052",
+    "date": "2001-03-07",
+    "title": "Dyrektywa 2001/52/WE Komisji z dnia 3 lipca 2001 r. zmieniająca dyrektywę 95/31/WE ustanawiającą szczególne kryteria czystości dotyczące substancji słodzących stosowanych w środkach spożywczych"
+   },
+   {
+    "address": "32001L0057",
+    "date": "2001-07-25",
+    "title": "Dyrektywa Komisji 2001/57/WE z dnia 25 lipca 2001 zmieniająca Załączniki do Dyrektyw Rady 86/362/EWG, 86/363/EWG oraz 90/642/EWG w sprawie ustalenia maksymalnych poziomów odpadów z pestycydów w zbożach oraz określonych produktach pochodzenia roślinnego, włączając odpowiednio owoce oraz warzywa."
+   },
+   {
+    "address": "32001L0095",
+    "date": "2001-12-03",
+    "title": "DYREKTYWA 2001/95/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 3 grudnia 2001 r. w sprawie ogólnego bezpieczeństwa produktów"
+   },
+   {
+    "address": "32001L0101",
+    "date": "2001-11-26",
+    "title": "DYREKTYWA KOMISJI 2001/101/WE z dnia 26 listopada 2001 r. zmieniająca dyrektywę 2000/13/WE Parlamentu Europejskiego i Rady w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do etykietowania, prezentacji i reklamy środków spożywczych"
+   },
+   {
+    "address": "32002L0005",
+    "date": "2002-01-30",
+    "title": "DYREKTYWA KOMISJI 2002/5/WE z dnia 30 stycznia 2002 r. zmieniająca załącznik II do dyrektywy Rady 90/642/EWG w odniesieniu do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach, oraz na ich powierzchni"
+   },
+   {
+    "address": "32002L0023",
+    "date": "2002-02-26",
+    "title": "DYREKTYWA KOMISJI 2002/23/WE z dnia 26 lutego 2002 r. zmieniająca załączniki do dyrektyw Rady 86/362/EWG, 86/363/EWG i 90/642/EWG w odniesieniu do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, w tym odpowiednio owocach i warzywach, oraz na ich powierzchni"
+   },
+   {
+    "address": "32002L0026",
+    "date": "2002-03-13",
+    "title": "DYREKTYWA KOMISJI 2002/26/WE z dnia 13 marca 2002 r. ustanawiająca metody pobierania próbek i metody analiz do celów urzędowej kontroli poziomów ochratoksyny A w środkach spożywczych"
+   },
+   {
+    "address": "32002L0027",
+    "date": "2002-03-13",
+    "title": "DYREKTYWA KOMISJI 2002/27/WE z dnia 13 marca 2002 r. zmieniająca dyrektywę 98/53/WE ustanawiającą metody pobierania próbek oraz metody analiz do celów urzędowej kontroli poziomów niektórych substancji zanieczyszczających w środkach spożywczych"
+   },
+   {
+    "address": "32002L0042",
+    "date": "2002-05-17",
+    "title": "DYREKTYWA KOMISJI 2002/42/WE z dnia 17 maja 2002 r. zmieniająca załączniki do dyrektyw Rady 86/362/EWG, 86/363/EWG i 90/642/EWG w odniesieniu do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów (bentazonu i pirydatu) w zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach oraz na ich powierzchni"
+   },
+   {
+    "address": "32002L0046",
+    "date": "2002-06-10",
+    "title": "DYREKTYWA 2002/46/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 10 czerwca 2002 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do suplementów żywnościowych"
+   },
+   {
+    "address": "32002L0063",
+    "date": "2002-07-11",
+    "title": "DYREKTYWA KOMISJI (WE) NR 2002/63/EC z dnia 11 lipca 2002 r. ustanawiająca Wspólnotowe metody pobierania próbek do urzędowej kontroli pozostałości pestycydów w oraz na produktach pochodzenia roślinnego i zwierzęcego oraz odwołująca dyrektywę (EWG) nr 79/700"
+   },
+   {
+    "address": "32002L0066",
+    "date": "2002-07-16",
+    "title": "DYREKTYWA KOMISJI 2002/66/WE z dnia 16 lipca 2002 r. zmieniająca załączniki do dyrektyw Rady 76/895/EWG, 86/362/EWG, 86/363/EWG i 90/642/EWG w odniesieniu do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w owocach i warzywach, zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, w tym odpowiednio owocach i warzywach oraz na ich powierzchni"
+   },
+   {
+    "address": "32002L0067",
+    "date": "2002-07-18",
+    "title": "Dyrektywa Komisji 2002/67/WE z dnia 18 lipca 2002 r. w sprawie etykietowania środków spożywczych zawierających chininę oraz środków spożywczych zawierających kofeinę"
+   },
+   {
+    "address": "32002L0069",
+    "date": "2002-07-26",
+    "title": "DYREKTYWA KOMISJI 2002/69/WE z dnia 26 lipca 2002 r ustanawiająca metody pobieranie próbek i metody analityczne na potrzeby urzędowej kontroli dioksyn i oznaczania dioksynopodobnych PCB (polichlorowanych dwufenyli) w artykułach żywnościowych"
+   },
+   {
+    "address": "32002L0071",
+    "date": "2002-08-19",
+    "title": "DYREKTYWA KOMISJI 2002/71/WE z dnia 19 sierpnia 2002 r. zmieniająca załączniki do dyrektyw Rady 76/895/EWG, 86/362/EWG, 86/363/EWG i 90/642/EWG odnoszące się do ustalania maksymalnego poziomu pozostałości pestycydów (formotonu, dimetoatu i oksydemetono-metylu) w i na zbożach, artykułach żywnościowych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, włączając owoce i warzywa"
+   },
+   {
+    "address": "32002L0076",
+    "date": "2002-09-06",
+    "title": "DYREKTYWA KOMISJI 2002/76/WE z dnia 6 września 2002 r. zmieniająca Załącznik do dyrektyw Rady 86/362/EWG i 90/642/EWG w zakresie ustalania maksymalnego poziomu pozostałości pestycydów (metsulfuronu metylu) w i na zbożach oraz niektórych produktach pochodzenia roślinnego, włącznie z owocami i warzywami"
+   },
+   {
+    "address": "32002L0079",
+    "date": "2002-10-02",
+    "title": "DYREKTYWA KOMISJI 2002/79/WE z dnia 2 października 2002 r. zmieniająca załączniki do dyrektyw Rady 76/895/EWG, 86/362/EWG, 86/363/EWG i 90/642/EWG w odniesieniu do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach oraz na ich powierzchni"
+   },
+   {
+    "address": "32002L0082",
+    "date": "2002-10-15",
+    "title": "DYREKTYWA KOMISJI 2002/82/WE z dnia 15 października 2002 r. zmieniająca dyrektywę 96/77/WE ustanawiającą szczególne kryteria czystości dla dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "32002L0097",
+    "date": "2002-12-16",
+    "title": "DYREKTYWA KOMISJI 2002/97/WE z dnia 16 grudnia 2002 r. zmieniająca załączniki do dyrektyw Rady 86/362/EWG, 86/363/EWG i 90/642/EWG odnośnie określenia najwyższych dopuszczalnych poziomów pozostałości pestycydów (2,4-D, triasulfuron i metyl tifensulfuronu) w zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, włączając w to owoce i warzywa, oraz na ich powierzchni"
+   },
+   {
+    "address": "32002L0100",
+    "date": "2002-12-20",
+    "title": "DYREKTYWA KOMISJI 2002/100/WE z dnia 20 grudnia 2002 r. zmieniająca dyrektywę Rady 90/642/EWG w sprawie najwyższych dopuszczalnych poziomów pozostałości azoksystrobiny"
+   },
+   {
+    "address": "32002R0178",
+    "date": "2002-01-28",
+    "title": "ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (WE) NR 178/2002 z dnia 28 stycznia 2002 r. ustalające ogólne zasady i wymagania prawa żywnościowego, ustanawiające Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiające procedury w sprawie bezpieczeństwa żywnościowego"
+   },
+   {
+    "address": "32003L0013",
+    "date": "2003-10-02",
+    "title": "Dyrektywa Komisji 2003/13/WE z dnia 10 lutego 2003 r. zmieniająca dyrektywę 96/5/WE w sprawie przetworzonej żywności na bazie zbóż oraz żywności dla niemowląt i małych dzieci"
+   },
+   {
+    "address": "32003L0014",
+    "date": "2003-10-02",
+    "title": "Dyrektywa Komisji 2003/14/WE z dnia 10 lutego 2003 r. zmieniająca dyrektywę 91/321/EWG w sprawie preparatów dla niemowląt i preparatów pochodnych"
+   },
+   {
+    "address": "32003L0052",
+    "date": "2003-06-18",
+    "title": "DYREKTYWA 2003/52/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 18 czerwca 2003 r. zmieniająca dyrektywę 95/2/WE w zakresie warunków stosowania dodatku do żywności E 425 konjac"
+   },
+   {
+    "address": "32003L0060",
+    "date": "2003-06-18",
+    "title": "DYREKTYWA KOMISJI 2003/60/WE z dnia 18 czerwca 2003 r. zmieniająca załączniki do dyrektyw Rady 76/895/EWG, 86/362/EWG, 86/363/EWG oraz 90/642/EWG w odniesieniu do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w zbożach, środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego, w tym owocach i warzywach"
+   },
+   {
+    "address": "32003L0062",
+    "date": "2003-06-20",
+    "title": "DYREKTYWA KOMISJI 2003/62/WE z dnia 20 czerwca 2003 r. zmieniająca dyrektywy Rady 86/362/EWG i 90/642/EWG w odniesieniu do najwyższych dopuszczalnych poziomów pozostałości heksakonazolu, klofentezyny, mychlobutanilu i prochlorazu"
+   },
+   {
+    "address": "32003L0069",
+    "date": "2003-07-11",
+    "title": "DYREKTYWA KOMISJI 2003/69/WE z dnia 11 lipca 2003 r. zmieniająca Załącznik do dyrektywy Rady 90/642/EWG w odniesieniu do najwyższych dopuszczalnych poziomów pozostałości dla chlormekwatu, lambda-cyhalotryny, krezoksymu metylowego, azoksystrobiny oraz niektórych ditiokarbaminianów"
+   },
+   {
+    "address": "32003L0078",
+    "date": "2003-08-11",
+    "title": "DYREKTYWA KOMISJI 2003/78/WE z dnia 11 sierpnia 2003 r. ustanawiająca metody pobierania próbek i metody analizy do celów urzędowej kontroli poziomów patuliny w środkach spożywczych"
+   },
+   {
+    "address": "32003L0095",
+    "date": "2003-10-27",
+    "title": "DYREKTYWA KOMISJI 2003/95/WE z dnia 27 października 2003 r. zmieniająca dyrektywę 96/77/WE ustanawiającą szczególne kryteria czystości dla dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "32003L0113",
+    "date": "2003-12-03",
+    "title": "DYREKTYWA KOMISJI 2003/113/WE z dnia 3 grudnia 2003 r. zmieniająca Załączniki do dyrektyw Rady 86/362/EWG, 86/363/EWG i 90/642/EWG w zakresie ustalenia najwyższych dopuszczalnych poziomów niektórych pozostałości pestycydów w zbożach i na ich powierzchni, w środkach spożywczych pochodzenia zwierzęcego i niektórych produktach pochodzenia roślinnego w tym w owocach i warzywach"
+   },
+   {
+    "address": "32003L0114",
+    "date": "2003-12-22",
+    "title": "Dyrektywa 2003/114/WE Parlamentu Europejskiego i Rady z dnia 22 grudnia 2003 r. zmieniająca dyrektywę 95/2/WE w sprawie dodatków do żywności innych niż barwniki i substancje słodzące"
+   },
+   {
+    "address": "32003L0115",
+    "date": "2003-12-22",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady 2003/115/WE z dnia 22 grudnia 2003 r. zmieniająca dyrektywę 94/35/WE w sprawie substancji słodzących używanych w środkach spożywczych"
+   },
+   {
+    "address": "32003L0118",
+    "date": "2003-12-05",
+    "title": "DYREKTYWA KOMISJI 2003/118/WE z dnia 5 grudnia 2003 r. zmieniająca załączniki do dyrektyw Rady 76/895/EWG, 86/362/EWG, 86/363/EWG i 90/642/EWG w odniesieniu do maksymalnych poziomów pozostałości dla acefatu, 2,4-D i parationu metylowego"
+   },
+   {
+    "address": "32003L0120",
+    "date": "2003-12-05",
+    "title": "Dyrektywa Komisji 2003/120/WE z dnia 5 grudnia 2003 r. zmieniająca dyrektywę 90/496/EWG w sprawie oznaczania wartości odżywczej środków spożywczych"
+   },
+   {
+    "address": "32003L0121",
+    "date": "2003-12-15",
+    "title": "DYREKTYWA KOMISJI 2003/121/WE z dnia 15 grudnia 2003 r. zmieniająca dyrektywę 98/53/WE ustanawiającą metody pobierania próbek oraz metody analiz do celów urzędowej kontroli poziomów niektórych substancji zanieczyszczających w środkach spożywczych"
+   },
+   {
+    "address": "32003R1829",
+    "date": "2003-09-22",
+    "title": "ROZPORZĄDZENIE (WE) NR 1829/2003 PARLAMENTU EUROPEJSKIEGO I RADY z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy"
+   },
+   {
+    "address": "32004L0002",
+    "date": "2004-09-01",
+    "title": "DYREKTYWA KOMISJI 2004/2/WE z dnia 9 stycznia 2004 r. zmieniająca dyrektywy Rady 86/362/EWG, 86/363/EWG i 90/642/EWG w odniesieniu do najwyższych dopuszczalnych poziomów pozostałości fenamifosu"
+   },
+   {
+    "address": "32004L0004",
+    "date": "2004-01-15",
+    "title": "DYREKTYWA KOMISJI 2004/4/WE z dnia 15 stycznia 2004 r. zmieniająca dyrektywę 96/3/WE przyznającą odstępstwo od niektórych przepisów dyrektywy Rady 93/43/EWG w sprawie higieny środków spożywczych w odniesieniu do transportu morskiego płynnych olejów i tłuszczów luzem"
+   },
+   {
+    "address": "32004L0005",
+    "date": "2004-01-20",
+    "title": "Dyrektywa Komisji 2004/5/WE z dnia 20 stycznia 2004 r. zmieniająca dyrektywę 2001/15 w celu włączenia niektórych substancji do Załącznika"
+   },
+   {
+    "address": "32004L0006",
+    "date": "2004-01-20",
+    "title": "DYREKTYWA KOMISJI z dnia 20 stycznia 2004 r. wprowadzająca odstępstwo od dyrektywy 2001/15/WE w sprawie odroczenia stosowania zakazu handlu w odniesieniu do niektórych produktów"
+   }
+  ],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 53-57 i 59 ustawy z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634)",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/1225",
+     "date": "2006-10-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/634"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050265.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050265.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050265L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050265Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
