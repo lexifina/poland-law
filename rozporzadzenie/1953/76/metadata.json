@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/76",
+ "source_sha256": "db4ce15629b42a86a82114b0f93b54bc39c3701c51427f87f9d392f2477e15df",
+ "in_force": "1953-03-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/76",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/76/text/O/D19530076.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/76/text/I/D19530076.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/76",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 19,
+  "pos": 76,
+  "address": "WDU19530190076",
+  "displayAddress": "Dz.U. 1953 nr 19 poz. 76",
+  "title": "Rozporządzenie Rady Ministrów z dnia 25 marca 1953 r. w sprawie czynszów za lokale użytkowe i wpłat na Fundusz Gospodarki Mieszkaniowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-03-25",
+  "entryIntoForce": "1953-03-31",
+  "validFrom": "1953-03-01",
+  "repealDate": "1957-09-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1957/229",
+     "date": "1957-09-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1949/62",
+     "date": "1953-03-01"
+    },
+    {
+     "id": "MP/1949/283",
+     "date": "1953-03-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1956/175",
+     "date": "1956-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/259"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530076.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530076.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
