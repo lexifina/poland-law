@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/143",
+ "source_sha256": "f66907ed84ba068765fb7f15cb48884a44c3022e2efc9daa54989ce07c433ed9",
+ "in_force": "2004-02-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 518 words, parsed 67; at 67: 'Warszawie o zbadanie zgodności : 1 ) art . 7'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/143",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/143/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/143/text/O/D20040143.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/143/text/I/D20040143.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/143/text/T/D20040143TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/143",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 15,
+  "pos": 143,
+  "address": "WDU20040150143",
+  "displayAddress": "Dz.U. 2004 nr 15 poz. 143",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 stycznia 2004 r. sygn. akt P 9/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-01-27",
+  "promulgation": "2004-02-03",
+  "entryIntoForce": "2004-02-03",
+  "validFrom": "2004-02-03",
+  "changeDate": "2024-03-15T09:57:00",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "drogi publiczne",
+   "ruch drogowy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1971/114"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2000/850"
+    },
+    {
+     "id": "DU/1999/622"
+    },
+    {
+     "id": "DU/1997/602"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040143.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040143.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040143TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
