@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/43",
+ "source_sha256": "427a3a8967ab0ce5cb7a691b5491ad257eb58966bc2aa618b010705f2079409e",
+ "in_force": "1953-02-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/43/text/O/D19530043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/43/text/I/D19530043.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/43",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 11,
+  "pos": 43,
+  "address": "WDU19530110043",
+  "displayAddress": "Dz.U. 1953 nr 11 poz. 43",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 3 stycznia 1953 r. w sprawie opłat za leki i środki opatrunkowe wydawane ubezpieczonym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-01-03",
+  "entryIntoForce": "1953-02-14",
+  "validFrom": "1953-01-05",
+  "repealDate": "1971-01-25",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1971/18",
+     "date": "1971-01-25"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1952/76",
+     "date": "1953-01-05"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1958/43",
+     "date": "1958-03-08"
+    },
+    {
+     "id": "DU/1956/10",
+     "date": "1956-01-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/396"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
