@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/12",
+ "source_sha256": "8467344d680ff200af34cf71fd09664b8f477f0dbbd2354f797c45ad38c86f71",
+ "in_force": "1923-01-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/12/text/O/D19230012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/12/text/I/D19230012.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/12",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 3,
+  "pos": 12,
+  "address": "WDU19230030012",
+  "displayAddress": "Dz.U. 1923 nr 3 poz. 12",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 30 listopada 1922 r. w przedmiocie uzupełnienia § 7 ustępu do p. 10 rozporządzenia z dnia 13 grudnia 1920 r. o postępowaniu celnem.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-11-30",
+  "entryIntoForce": "1923-01-11",
+  "validFrom": "1923-01-11",
+  "repealDate": "1930-06-01",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/276",
+     "date": "1930-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1921/64",
+     "date": "1923-01-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
