@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/8",
+ "source_sha256": "674366a92494256c443860727936de8af226c0353abcbef7059aa58019929bb6",
+ "in_force": "1999-12-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/8",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/8/text/O/M20000008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/8/text/I/M20000008.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/8",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 1,
+  "pos": 8,
+  "address": "WMP20000010008",
+  "displayAddress": "M.P. 2000 nr 1 poz. 8",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 grudnia 1999 r. w sprawie wykazu środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt dopuszczonych do obrotu w kraju.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-31",
+  "repealDate": "2000-04-20",
+  "changeDate": "2016-04-12T14:57:02",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1999/462",
+     "date": "1999-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/452",
+     "art": "art. 18 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2000/544",
+     "date": "2000-04-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
