@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/100",
+ "source_sha256": "fcc87d09f158374ee08cf6d40b629f14b68fa6665c0f781c48985cd3ea15f820",
+ "in_force": "1990-04-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/100",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/100/text/O/M19900100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/100/text/I/M19900100.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/100",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 13,
+  "pos": 100,
+  "address": "WMP19900130100",
+  "displayAddress": "M.P. 1990 nr 13 poz. 100",
+  "title": "Zarządzenie nr 31 Prezesa Rady Ministrów z dnia 5 kwietnia 1990 r. w sprawie uzyskania przez dzielnice m.st. Warszawy statusu gmin.",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1990-04-05",
+  "entryIntoForce": "1990-04-07",
+  "validFrom": "1990-04-02",
+  "changeDate": "2022-11-24T12:21:07",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "miasta",
+   "status"
+  ],
+  "keywordsNames": [
+   "Warszawa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/95"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/95",
+     "art": "art. 5 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
