@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1514",
+ "source_sha256": "888b203e4b0f6579995402617873547533a1f10fa7db415d0c6b0e3047d33f69",
+ "in_force": "2004-06-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1514",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/1514/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1514/text/O/D20041514.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1514/text/I/D20041514.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/1514/text/T/D20041514L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2004/1514/text/U/D20041514Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1514",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 142,
+  "pos": 1514,
+  "address": "WDU20041421514",
+  "displayAddress": "Dz.U. 2004 nr 142 poz. 1514",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 czerwca 2004 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-06-03",
+  "promulgation": "2004-06-22",
+  "changeDate": "2024-03-15T09:56:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od spadków i darowizn"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1983/207"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20041514.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041514.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20041514L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20041514Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
