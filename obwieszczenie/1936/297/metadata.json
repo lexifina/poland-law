@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/297",
+ "source_sha256": "7dab9618668f081c581c02b10ce6eb259b4acd6d3a052750672c4ea6271e5eac",
+ "in_force": "1936-05-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/297",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/297/text/O/D19360297.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/297/text/I/D19360297.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/297",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 39,
+  "pos": 297,
+  "address": "WDU19360390297",
+  "displayAddress": "Dz.U. 1936 nr 39 poz. 297",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 4 maja 1936 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 11 kwietnia 1924 r. o ochronie lokatorów.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-05-04",
+  "promulgation": "1936-05-15",
+  "repealDate": "1948-09-01",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokalowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1948/259",
+     "date": "1948-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/504"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/504",
+     "art": "art. 7"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/406"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360297.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360297.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
