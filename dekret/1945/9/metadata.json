@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/9",
+ "source_sha256": "7c5d9607346d3d35c98cca8e0e099036b9050eb063ef703a2b7e6de07afd7200",
+ "in_force": "1945-01-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/9",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/9/text/O/D19450009.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/9/text/I/D19450009.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/9",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 3,
+  "pos": 9,
+  "address": "WDU19450030009",
+  "displayAddress": "Dz.U. 1945 nr 3 poz. 9",
+  "title": "Dekret z dnia 17 stycznia 1945 r. w sprawie zmiany dekretu Polskiego Komitetu Wyzwolenia Narodowego z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej.",
+  "type": "Dekret",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1945-01-17",
+  "entryIntoForce": "1945-01-19",
+  "validFrom": "1945-01-19",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "reforma rolna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Objęte tekstem jednolitym Dz. U. z 1945 r. nr 3 poz. 13 z dniem 18 stycznia 1945 r.",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1944/17",
+     "date": "1945-01-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1944/50"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450009.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450009.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
