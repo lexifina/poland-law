@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/863",
+ "source_sha256": "ae21726b141b8c5cdf8d8b38681367fc1f6189f97eef47c705ba4e254a4be820",
+ "in_force": "1932-11-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/863",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/863/text/O/D19320863.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/863/text/I/D19320863.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/863",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 102,
+  "pos": 863,
+  "address": "WDU19321020863",
+  "displayAddress": "Dz.U. 1932 nr 102 poz. 863",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 15 listopada 1932 r. w sprawie ogłoszenia jednolitego tekstu prawa o ustroju sądów powszechnych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-15",
+  "promulgation": "1932-11-22",
+  "repealDate": "1985-09-01",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1985/137",
+     "date": "1985-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/661"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/661",
+     "art": "art. 85"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320863.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320863.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
