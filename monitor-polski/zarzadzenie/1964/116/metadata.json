@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/116",
+ "source_sha256": "ff57d3d4c857ac3f5c7cce1eb567fa13292f12a597958c936d93642da5ea1daa",
+ "in_force": "1964-04-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/116/text/O/M19640116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/116/text/I/M19640116.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/116",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 26,
+  "pos": 116,
+  "address": "WMP19640260116",
+  "displayAddress": "M.P. 1964 nr 26 poz. 116",
+  "title": "Zarządzenie Ministra Przemysłu Spożywczego i Skupu z dnia 11 kwietnia 1964 r. w sprawie ustalenia normy ubytków naturalnych spirytusu podrożdżowego podczas magazynowania w drożdżowniach.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-04-11",
+  "entryIntoForce": "1964-04-20",
+  "validFrom": "1964-04-20",
+  "repealDate": "1975-03-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1963/420"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1963/420",
+     "art": "par. 1 ust. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1975/25",
+     "date": "1975-03-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
