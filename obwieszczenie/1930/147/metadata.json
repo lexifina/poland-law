@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/147",
+ "source_sha256": "204be20fa21468e0e486ded46fa326f1a5a217cd10d227240bfbffb95f7c41fd",
+ "in_force": "1930-03-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/147",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/147/text/O/D19300147.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/147/text/I/D19300147.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/147",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 18,
+  "pos": 147,
+  "address": "WDU19300180147",
+  "displayAddress": "Dz.U. 1930 nr 18 poz. 147",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 6 marca 1930 r. w sprawie sprostowania błędu w rozporządzeniu Ministra Sprawiedliwości z dnia 24 czerwca 1929 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-03-06",
+  "promulgation": "1930-03-15",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy grodzkie",
+   "wymiar sprawiedliwości",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 punkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1929/380"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300147.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300147.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
