@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/105",
+ "source_sha256": "6c4e9f9ad7a0f027c3bcc139c00222fd00a1efd2d3eaf510640928df2d65b20f",
+ "in_force": "1930-03-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/105",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/105/text/O/D19300105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/105/text/I/D19300105.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/105",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 14,
+  "pos": 105,
+  "address": "WDU19300140105",
+  "displayAddress": "Dz.U. 1930 nr 14 poz. 105",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 28 lutego 1930 r. o ponownych wyborach do Sejmu w okręgu wyborczym nr 57 oraz do Senatu na obszarze województwa wołyńskiego.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-02-28",
+  "promulgation": "1930-03-01",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/591"
+    },
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/591",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1922/591",
+     "art": "art. 9"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 109 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300105.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
