@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/2051",
+ "source_sha256": "abcc2d35260d4d64a3b5f0ef88594151014008eec9e34d39c038b31733a9220b",
+ "in_force": "2002-12-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/2051",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/2051/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/2051/text/O/D20022051.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/2051/text/I/D20022051.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/2051",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 239,
+  "pos": 2051,
+  "address": "WDU20022392051",
+  "displayAddress": "Dz.U. 2002 nr 239 poz. 2051",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 23 grudnia 2002 r. o sprostowaniu błędu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-23",
+  "promulgation": "2002-12-31",
+  "changeDate": "2024-03-15T10:05:58",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "rolnictwo",
+   "dotacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/655",
+     "date": "2004-04-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2002/595"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20022051.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20022051.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
