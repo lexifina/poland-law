@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/819",
+ "source_sha256": "b4d6a6d4173f68d557a1fa6590781cc21ccb75767bf28feaee259b9d9fced070",
+ "in_force": "1934-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/819",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/819/text/O/D19330819.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/819/text/I/D19330819.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/819",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 103,
+  "pos": 819,
+  "address": "WDU19331030819",
+  "displayAddress": "Dz.U. 1933 nr 103 poz. 819",
+  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 30 grudnia 1933 r. o przekształceniu się kas chorych na ubezpieczalnie społeczne i ustaleniu okręgów i siedzib ubezpieczalni.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-12-30",
+  "promulgation": "1933-12-31",
+  "entryIntoForce": "1934-01-01",
+  "validFrom": "1934-01-01",
+  "changeDate": "2020-09-23T13:38:30",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kasy chorych",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1936/642",
+     "date": "1937-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/396"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/396",
+     "art": "art. 258 ust. 1 pkt 1"
+    },
+    {
+     "id": "DU/1933/396",
+     "art": "art. 319 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330819.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330819.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
