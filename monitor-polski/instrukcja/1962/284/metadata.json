@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/284",
+ "source_sha256": "d27c8e7902a291560e296c1f9e931b86bc0baa8b14bc91d7c0c58508fde88bda",
+ "in_force": "1962-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/284",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/284/text/O/M19620284.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/284/text/I/M19620284.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/284",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 59,
+  "pos": 284,
+  "address": "WMP19620590284",
+  "displayAddress": "M.P. 1962 nr 59 poz. 284",
+  "title": "Instrukcja Ministra Żeglugi z dnia 17 lipca 1962 r. w sprawie trybu postępowania w związku z wypadkami żeglugowymi na śródlądowych drogach wodnych żeglownych i spławnych.",
+  "type": "Instrukcja",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-07-17",
+  "entryIntoForce": "1962-07-31",
+  "validFrom": "1962-07-31",
+  "repealDate": "2002-04-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żegluga śródlądowa",
+   "transport wodny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1952/1655",
+     "date": "1962-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/108"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/108",
+     "art": "art. 12 ust. 1 pkt 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/161",
+     "date": "2002-04-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620284.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620284.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
