@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/117",
+ "source_sha256": "e3462c361850a364c1110b623cbbc9ce5baa80da488598748841e4951e272a02",
+ "in_force": "1948-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/117",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/117/text/O/D19480117.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/117/text/I/D19480117.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/117",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 17,
+  "pos": 117,
+  "address": "WDU19480170117",
+  "displayAddress": "Dz.U. 1948 nr 17 poz. 117",
+  "title": "Dekret z dnia 25 marca 1948 r. o zmianie dekretu z dnia 18 sierpnia 1945 r. o podatku od wynagrodzeń.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-03-25",
+  "entryIntoForce": "1948-04-01",
+  "validFrom": "1948-04-01",
+  "repealDate": "1949-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SKARBU"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/41",
+     "date": "1949-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/220",
+     "date": "1948-04-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1945/220"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/107"
+    },
+    {
+     "id": "DU/1947/71"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480117.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480117.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
