@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1994/213",
+ "source_sha256": "168313187dfbfe95cf748904fcb3581b8541aae57564b3e1c0525b6696398458",
+ "in_force": "1994-05-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1994/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1994/213/text/O/D19940213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1994/213/text/I/D19940213.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1994/213",
+  "publisher": "DU",
+  "year": 1994,
+  "volume": 52,
+  "pos": 213,
+  "address": "WDU19940520213",
+  "displayAddress": "Dz.U. 1994 nr 52 poz. 213",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 marca 1994 r. zmieniające rozporządzenie w sprawie umarzania, rozkładania na raty i odraczania terminu spłaty należności sądowych.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1994-03-16",
+  "entryIntoForce": "1994-05-06",
+  "validFrom": "1994-05-06",
+  "changeDate": "2014-12-31T12:25:41",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądowe koszty i opłaty",
+   "cywilne postępowanie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/102",
+     "date": "1994-05-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1969/98"
+    },
+    {
+     "id": "DU/1967/110"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1969/98",
+     "art": "art. 212 par. 1"
+    },
+    {
+     "id": "DU/1967/110",
+     "art": "art. 47 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19940213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19940213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
