@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/225",
+ "source_sha256": "32032230dc8d395310adfa3d147d2cb4d83264383a20d69914af080a19c81ab4",
+ "in_force": "1965-08-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/225",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/225/text/O/M19650225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/225/text/I/M19650225.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/225",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 40,
+  "pos": 225,
+  "address": "WMP19650400225",
+  "displayAddress": "M.P. 1965 nr 40 poz. 225",
+  "title": "Zarządzenie Ministra Finansów z dnia 28 lipca 1965 r. w sprawie zwolnienia od podatku obrotowego niektórych świadczeń domów wypoczynkowych prowadzonych przez organizacje społeczne.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-07-28",
+  "entryIntoForce": "1965-08-06",
+  "validFrom": "1965-01-01",
+  "repealDate": "1973-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/72",
+     "date": "1973-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1961/95"
+    },
+    {
+     "id": "DU/1950/399"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1961/95",
+     "art": "par. 3 ust. 3"
+    },
+    {
+     "id": "DU/1950/399",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1950/399",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650225.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
