@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/157",
+ "source_sha256": "eda0cdb8dfb43ac70699a98ddb443bc9633aea34a75dd621527ba7bb23dec2e0",
+ "in_force": "1934-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/157",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/157/text/O/M19340157.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/157/text/I/M19340157.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/157",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 114,
+  "pos": 157,
+  "address": "WMP19341140157",
+  "displayAddress": "M.P. 1934 nr 114 poz. 157",
+  "title": "Obwieszczenie Ministra Skarbu oraz Ministra Przemysłu i Handlu z dnia 19 maja 1934 r. o instytucjach uprawnionych do wydawania zaświadczeń eksportowych z myśl par 2 rozporządzenia Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 4 kwietnia 1928 r. w sprawie zwrotu cła przy wywozie przędzy barwionej",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-05-19",
+  "promulgation": "1934-05-19",
+  "repealDate": "1934-08-01",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo",
+   "zaświadczenia",
+   "eksport"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1934/232",
+     "date": "1934-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/469"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/469",
+     "art": "par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340157.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340157.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
