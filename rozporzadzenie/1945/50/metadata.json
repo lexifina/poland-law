@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/50",
+ "source_sha256": "9d9b952820825b7a694ae9ea02a974b5c559d8f28766d1bec3b65085e2001756",
+ "in_force": "1945-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/50",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/50/text/O/D19450050.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/50/text/I/D19450050.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/50",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 9,
+  "pos": 50,
+  "address": "WDU19450090050",
+  "displayAddress": "Dz.U. 1945 nr 9 poz. 50",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 27 lutego 1945 r. o zmianie rozporządzenia o taksie za czynności komorników.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-02-27",
+  "entryIntoForce": "1945-04-01",
+  "validFrom": "1945-04-01",
+  "repealDate": "1947-04-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/114",
+     "date": "1947-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1936/277",
+     "date": "1945-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450050.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450050.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
