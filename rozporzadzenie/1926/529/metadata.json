@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/529",
+ "source_sha256": "29ed4fda4002b2a3ed01087d39d56f0c7a33478d80118e982f308cc5cf68ed9a",
+ "in_force": "1926-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/529",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/529/text/O/D19260529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/529/text/I/D19260529.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/529",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 91,
+  "pos": 529,
+  "address": "WDU19260910529",
+  "displayAddress": "Dz.U. 1926 nr 91 poz. 529",
+  "title": "Rozporządzenie Ministra Kolei z dnia 30 sierpnia 1926 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych o wprowadzeniu zniżki taryfowej dla węgla kamiennego w komunikacji polsko-austrjackiej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-08-30",
+  "entryIntoForce": "1926-09-01",
+  "validFrom": "1926-09-01",
+  "repealDate": "1927-09-01",
+  "changeDate": "2014-12-31T12:25:19",
+  "releasedBy": [
+   "MIN. KOLEI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stawki taryfowe",
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1927/672",
+     "date": "1927-09-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1926/136",
+     "date": "1926-09-01"
+    },
+    {
+     "id": "DU/1925/794",
+     "date": "1926-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/580"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260529.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
