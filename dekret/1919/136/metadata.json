@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/136",
+ "source_sha256": "aa18a31e69770c87f01aff8ddcdac4d6c305960f82b9f0a9c7d97ef2cdb6c1eb",
+ "in_force": "1919-02-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/136",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/136/text/O/D19190136.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/136/text/I/D19190136.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/136",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 12,
+  "pos": 136,
+  "address": "WDU19190120136",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 12 poz. 136",
+  "title": "Dekret w przedmiocie wprowadzenia podatku od zysków wojennych.",
+  "type": "Dekret",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-02-05",
+  "entryIntoForce": "1919-02-06",
+  "validFrom": "1919-02-06",
+  "changeDate": "2020-09-23T13:37:01",
+  "releasedBy": [
+   "NACZELNIK PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1921/187"
+    },
+    {
+     "id": "DU/1920/307"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1920/542",
+     "date": "1920-08-24"
+    },
+    {
+     "id": "DU/1920/307",
+     "date": "1920-06-23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190136.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190136.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
