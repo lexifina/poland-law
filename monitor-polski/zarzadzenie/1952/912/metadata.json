@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/912",
+ "source_sha256": "00e75373a9092866496ab2d586b6c206f01b0727b263041e2a45da49c125d7a9",
+ "in_force": "1953-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/912",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/912/text/O/M19520912.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/912/text/I/M19520912.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/912",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 60,
+  "pos": 912,
+  "address": "WMP19520600912",
+  "displayAddress": "M.P. 1952 nr 60 poz. 912",
+  "title": "Zarządzenie Ministra Finansów z dnia 20 czerwca 1952 r. w sprawie klasyfikacji dochodów i wydatków budżetu Państwa.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-06-20",
+  "entryIntoForce": "1953-01-01",
+  "validFrom": "1953-01-01",
+  "repealDate": "1954-01-01",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1953/787",
+     "date": "1954-01-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1952/257",
+     "date": "1953-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/186",
+     "date": "1953-01-01"
+    },
+    {
+     "id": "MP/1952/1576",
+     "date": "1953-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1950/481"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520912.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520912.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
