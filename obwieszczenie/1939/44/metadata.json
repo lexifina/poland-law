@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1939/44",
+ "source_sha256": "3382c98a86f5bad3071aa894174013621849f37107fbffdd464f8f436ee5b5a6",
+ "in_force": "1939-02-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1939/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1939/44/text/O/D19390044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1939/44/text/I/D19390044.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1939/44",
+  "publisher": "DU",
+  "year": 1939,
+  "volume": 8,
+  "pos": 44,
+  "address": "WDU19390080044",
+  "displayAddress": "Dz.U. 1939 nr 8 poz. 44",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 16 stycznia 1939 r. o ogłoszeniu jednolitego tekstu kodeksu postępowania karnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-01-16",
+  "promulgation": "1939-02-03",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/609"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1938/609",
+     "art": "art. 11"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/313"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19390044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19390044.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
