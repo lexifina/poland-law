@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1949/601",
+ "source_sha256": "71e52216111d9cf2610cc71f5d7bc47cdd76a48e8897e7ac2c0d7878f1b0d718",
+ "in_force": "1949-07-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1949/601",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1949/601/text/O/M19490601.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1949/601/text/I/M19490601.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1949/601",
+  "publisher": "MP",
+  "year": 1949,
+  "volume": 45,
+  "pos": 601,
+  "address": "WMP19490450601",
+  "displayAddress": "M.P. 1949 nr 45 poz. 601",
+  "title": "Zarządzenie Ministra Przemysłu Ciężkiego z dnia 1 lipca 1949 r. o przejęciu przedsiębiorstwa państwowego \"Centralny Zarząd Przemysłu Metalowego\" przez przedsiębiorstwo państwowe \"Centralny Zarząd Przemysłu Maszynowego\".",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-07-01",
+  "entryIntoForce": "1949-07-16",
+  "validFrom": "1949-07-01",
+  "repealDate": "1950-12-31",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU CIĘŻKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1948/788",
+     "date": "1949-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1949/600",
+     "date": "1949-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/42"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/439",
+     "date": "1950-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19490601.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19490601.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
