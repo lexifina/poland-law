@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/7",
+ "source_sha256": "ec4e2761d23e0074cabcd672f1cfadaa839db10deff19fe83db68efff20e9b2b",
+ "in_force": "1932-01-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/7",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/7/text/O/D19320007.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/7/text/I/D19320007.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/7",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 1,
+  "pos": 7,
+  "address": "WDU19320010007",
+  "displayAddress": "Dz.U. 1932 nr 1 poz. 7",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 24 grudnia 1931 r. o sprostowaniu błędu w rozporządzeniu Ministra Pracy i Opieki Społecznej z dnia 30 listopada 1931 r. w sprawie przyznania prawa do zasiłków częściowo zatrudnionym robotnikom niektórych zakładów pracy w województwach: śląskiem, lwowskiem, kieleckiem i łódzkiem.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-12-24",
+  "promulgation": "1932-01-09",
+  "changeDate": "2020-11-03T15:55:22",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo pracy",
+   "sprostowanie",
+   "zasiłek dla bezrobotnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1931/833"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320007.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320007.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
