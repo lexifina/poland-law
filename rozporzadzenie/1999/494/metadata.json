@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/494",
+ "source_sha256": "332a6fc2b8a18a1723fcfc0b978a504dce28bc9565457d6f13529a868fcf90cf",
+ "in_force": "1999-06-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/494",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/494/text/O/D19990494.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/494/text/I/D19990494.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/494",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 49,
+  "pos": 494,
+  "address": "WDU19990490494",
+  "displayAddress": "Dz.U. 1999 nr 49 poz. 494",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 maja 1999 r. zmieniające rozporządzenie w sprawie umundurowania policjantów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-05-18",
+  "entryIntoForce": "1999-06-15",
+  "validFrom": "1999-06-15",
+  "repealDate": "2002-01-30",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mundury"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/29",
+     "date": "2002-01-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/466",
+     "date": "1999-06-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 12 ust. 1 pkt 2-4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990494.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990494.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
