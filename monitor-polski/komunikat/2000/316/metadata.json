@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/316",
+ "source_sha256": "15d7bf5242db8f115338245b4debb7c15a1398d2e349e0f268f93de9d3853e4d",
+ "in_force": "2000-05-13",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/316",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/316/text/O/M20000316.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/316/text/I/M20000316.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/316",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 14,
+  "pos": 316,
+  "address": "WMP20000140316",
+  "displayAddress": "M.P. 2000 nr 14 poz. 316",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 13 maja 2000 r. w sprawie kwoty najniższej emerytury i renty, dodatku pielęgnacyjnego i dodatku dla sieroty zupełnej oraz kwot maksymalnych zmniejszeń emerytur lub rent.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-13",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000316.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000316.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
