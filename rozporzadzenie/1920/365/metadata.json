@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/365",
+ "source_sha256": "14347f3c19381377ce32b1ac15afc015795050028789a55896dc3168a1edf6d8",
+ "in_force": "1920-07-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/365/text/O/D19200365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/365/text/I/D19200365.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/365",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 58,
+  "pos": 365,
+  "address": "WDU19200580365",
+  "displayAddress": "Dz.U. 1920 nr 58 poz. 365",
+  "title": "Rozporządzenie Ministra Zdrowia Publicznego w przedmiocie urzędowych świadectw zdrowia.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-07-01",
+  "entryIntoForce": "1920-07-20",
+  "validFrom": "1920-07-20",
+  "repealDate": "1928-05-16",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "MIN. ZDROWIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1928/518",
+     "date": "1928-05-16"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1922/288",
+     "date": "1922-05-16"
+    },
+    {
+     "id": "DU/1921/663",
+     "date": "1921-11-12"
+    },
+    {
+     "id": "DU/1921/312",
+     "date": "1921-06-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19200365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
