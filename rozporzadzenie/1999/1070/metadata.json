@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1070",
+ "source_sha256": "f1d924d629c7dc1aae22c2fa1f95a894a9283f8b91775e617f7260890b176dde",
+ "in_force": "1999-11-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1070",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1070/text/O/D19991070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1070/text/I/D19991070.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1070/text/T/D19991070L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1070",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 93,
+  "pos": 1070,
+  "address": "WDU19990931070",
+  "displayAddress": "Dz.U. 1999 nr 93 poz. 1070",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 16 listopada 1999 r. w sprawie wynagrodzenia członków Rady Służby Cywilnej",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-11-16",
+  "entryIntoForce": "1999-11-20",
+  "validFrom": "1999-08-01",
+  "repealDate": "2002-02-01",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna",
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/63",
+     "date": "2002-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/483",
+     "art": "art. 19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991070.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991070L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
