@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/666",
+ "source_sha256": "0bad5eef595ca470ba8af768bfa7571bb78779904d0661e6a8d44833c2d8ea3d",
+ "in_force": "2000-07-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 839 words, parsed 353; at 353: 'Konstytucji Rzeczypospolitej Polskiej orzeka : 1 . Art . 14'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/666",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/666/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/666/text/O/D20000666.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/666/text/I/D20000666.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/666/text/T/D20000666L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/666",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 55,
+  "pos": 666,
+  "address": "WDU20000550666",
+  "displayAddress": "Dz.U. 2000 nr 55 poz. 666",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2000 r. sygn. akt SK. 21/99",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-07-10",
+  "entryIntoForce": "2000-07-17",
+  "validFrom": "2000-07-17",
+  "changeDate": "2024-03-15T09:49:18",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    },
+    {
+     "id": "DU/1977/167"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/554"
+    },
+    {
+     "id": "DU/1997/553"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000666.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000666.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000666L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
