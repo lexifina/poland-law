@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1992/100",
+ "source_sha256": "9abce37e36ce6fae232689bf937d13f7d6b70040a7034d412b0dbf8d8a7c9af0",
+ "in_force": "1992-03-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1992/100",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1992/100/text/O/D19920100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1992/100/text/I/D19920100.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1992/100",
+  "publisher": "DU",
+  "year": 1992,
+  "volume": 23,
+  "pos": 100,
+  "address": "WDU19920230100",
+  "displayAddress": "Dz.U. 1992 nr 23 poz. 100",
+  "title": "Oświadczenie rządowe z dnia 24 stycznia 1992 r. w sprawie wymiany dokumentów ratyfikacyjnych Umowy między Polską Rzecząpospolitą Ludową a Republiką Włoską o pomocy w sprawach karnych, podpisanej w Warszawie dnia 28 kwietnia 1989 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1992-01-24",
+  "promulgation": "1992-03-16",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Włochy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1992/99"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1992/99",
+     "art": "art. 16 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19920100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19920100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
