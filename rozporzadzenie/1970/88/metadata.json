@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1970/88",
+ "source_sha256": "7a8c6cf76bc42d1b5435a49e9c06b98b7681300b19b2b513ffa29e1c7cb894ee",
+ "in_force": "1970-04-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1970/88",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1970/88/text/O/D19700088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1970/88/text/I/D19700088.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1970/88",
+  "publisher": "DU",
+  "year": 1970,
+  "volume": 10,
+  "pos": 88,
+  "address": "WDU19700100088",
+  "displayAddress": "Dz.U. 1970 nr 10 poz. 88",
+  "title": "Rozporządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 11 kwietnia 1970 r. w sprawie okresów polowań na zwierzęta łowne.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-04-11",
+  "entryIntoForce": "1970-04-30",
+  "validFrom": "1970-04-30",
+  "repealDate": "1975-12-15",
+  "changeDate": "2014-12-31T12:24:10",
+  "releasedBy": [
+   "MIN. LEŚNICTWA I PRZEMYSŁU DRZEWNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1975/208",
+     "date": "1975-12-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1969/13",
+     "date": "1970-04-30"
+    },
+    {
+     "id": "DU/1967/113",
+     "date": "1970-04-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/226"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19700088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19700088.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
