@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1967/61",
+ "source_sha256": "ac94e1aee5f58d1e748b518f204b78fb3a05d64230cc12b33f3711dd60239e99",
+ "in_force": "1967-02-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1967/61",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1967/61/text/O/M19670061.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1967/61/text/I/M19670061.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1967/61",
+  "publisher": "MP",
+  "year": 1967,
+  "volume": 11,
+  "pos": 61,
+  "address": "WMP19670110061",
+  "displayAddress": "M.P. 1967 nr 11 poz. 61",
+  "title": "Zarządzenie nr 14 Prezesa Rady Ministrów z dnia 22 lutego 1967 r. o poborze głównym w 1967 r.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-02-22",
+  "entryIntoForce": "1967-02-24",
+  "validFrom": "1967-02-24",
+  "repealDate": "1967-04-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1967/61",
+     "date": "1967-04-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1967/61",
+     "date": "1967-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/75"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1959/75",
+     "art": "art. 18 ust. 1"
+    },
+    {
+     "id": "DU/1959/75",
+     "art": "art. 35 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19670061.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19670061.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
