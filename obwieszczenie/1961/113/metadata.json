@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1961/113",
+ "source_sha256": "7a851442b5b95bb31eaa7eed65e86fe77405a102f09a34c936e2946f757d6421",
+ "in_force": "1961-04-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1961/113",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1961/113/text/O/D19610113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1961/113/text/I/D19610113.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1961/113",
+  "publisher": "DU",
+  "year": 1961,
+  "volume": 23,
+  "pos": 113,
+  "address": "WDU19610230113",
+  "displayAddress": "Dz.U. 1961 nr 23 poz. 113",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 27 kwietnia 1961 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 6 maja 1953 r. - Prawo górnicze.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-04-27",
+  "expirationDate": "1978-03-03",
+  "changeDate": "2017-11-23T15:43:55",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/302"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1953/113"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19610113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19610113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
