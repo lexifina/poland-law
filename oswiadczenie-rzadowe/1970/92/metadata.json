@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1970/92",
+ "source_sha256": "fcef74bc48ecfa27d5ea118653593bf2adc35baba45d4783fb697cd7cf1bc27c",
+ "in_force": "1970-04-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1970/92",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1970/92/text/O/D19700092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1970/92/text/I/D19700092.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1970/92",
+  "publisher": "DU",
+  "year": 1970,
+  "volume": 10,
+  "pos": 92,
+  "address": "WDU19700100092",
+  "displayAddress": "Dz.U. 1970 nr 10 poz. 92",
+  "title": "Oświadczenie rządowe z dnia 4 kwietnia 1970 r. w sprawie przyjęcia przez Liban Konwencji o Międzyrządowej Morskiej Organizacji Doradczej, sporządzonej w Genewie dnia 6 marca 1948 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1970-04-04",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "organizacje międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Liban",
+   "Międzyrządowa Morska Organizacja Doradcza"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1970/205",
+     "date": "1970-09-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/74"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19700092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19700092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
