@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/577",
+ "source_sha256": "8363239e282fdaef7f9bb2440fda15a87742a6dba733579ff6e0a9cfbadf6d63",
+ "in_force": "1999-06-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/577",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/577/text/O/D19990577.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/577/text/I/D19990577.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/577/text/T/D19990577L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/577",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 55,
+  "pos": 577,
+  "address": "WDU19990550577",
+  "displayAddress": "Dz.U. 1999 nr 55 poz. 577",
+  "title": "Rozporządzenie Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Płocku.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-15",
+  "entryIntoForce": "1999-06-30",
+  "validFrom": "1999-07-01",
+  "changeDate": "2026-09-10T15:36:49",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2001/584",
+     "date": "2001-06-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/590",
+     "art": "art. 10 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990577.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990577.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990577L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
