@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/31",
+ "source_sha256": "4a5b0b35363f4cbd89cd52d39e262361d24d8538d80f5deffe62ff87a3456b7a",
+ "in_force": "1935-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/31/text/O/D19350031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/31/text/I/D19350031.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/31",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 5,
+  "pos": 31,
+  "address": "WDU19350050031",
+  "displayAddress": "Dz.U. 1935 nr 5 poz. 31",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 11 września 1934 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 marca 1932 r. o zaopatrzeniu inwalidzkiem.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-09-11",
+  "promulgation": "1935-02-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwalidzi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/669"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/669",
+     "art": "art. 4 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1932/238"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
