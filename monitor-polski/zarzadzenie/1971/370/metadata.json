@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1971/370",
+ "source_sha256": "55dfcea088a01a80dea66f5c20dcc07b6f86f05c8a45aaa1d40adc17761e5f14",
+ "in_force": "1971-12-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1971/370",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1971/370/text/O/M19710370.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1971/370/text/I/M19710370.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1971/370",
+  "publisher": "MP",
+  "year": 1971,
+  "volume": 57,
+  "pos": 370,
+  "address": "WMP19710570370",
+  "displayAddress": "M.P. 1971 nr 57 poz. 370",
+  "title": "Zarządzenie Ministra Finansów z dnia 23 listopada 1971 r. zmieniające zarządzenie w sprawie odsetek bankowych od kredytów i środków pieniężnych jednostek gospodarki uspołecznionej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-11-23",
+  "entryIntoForce": "1971-12-20",
+  "validFrom": "1971-01-01",
+  "repealDate": "1974-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/7",
+     "date": "1974-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1969/241",
+     "date": "1971-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1969/238"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1969/238",
+     "art": "par. 11 ust. 1 pkt 2, 3"
+    },
+    {
+     "id": "MP/1969/238",
+     "art": "par. 14 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19710370.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19710370.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
