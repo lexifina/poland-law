@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/82",
+ "source_sha256": "31cc168b7f87ea07f9c9e77b336d9066b8fbfa4dc50a34b58e427f6951ff41d2",
+ "in_force": "1934-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/82",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/82/text/O/M19340082.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/82/text/I/M19340082.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/82",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 58,
+  "pos": 82,
+  "address": "WMP19340580082",
+  "displayAddress": "M.P. 1934 nr 58 poz. 82",
+  "title": "Obwieszczenie Ministra Skarbu w porozumieniu z Ministrem Rolnictwa i Reform Rolnych z dnia 5 marca 1934 r. o ustaleniu ilości spirytusu, jaką Państwowy Monopol Spirytusowy zakupi w ciągu kampanji 1934/35 r. na cele konsumcyjne (kontyngent zakupu)",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-03-05",
+  "promulgation": "1934-03-12",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spirytus"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/586"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/586",
+     "art": "art. 28"
+    },
+    {
+     "id": "DU/1932/586",
+     "art": "art. 71"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340082.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340082.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
