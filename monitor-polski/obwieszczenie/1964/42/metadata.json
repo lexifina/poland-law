@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/42",
+ "source_sha256": "7ccb2a39b320ab4ebe4cdd60b9154b464ee5b620d72708c154c524c4037b6711",
+ "in_force": "1964-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/42",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/42/text/O/M19640042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/42/text/I/M19640042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/42",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 9,
+  "pos": 42,
+  "address": "WMP19640090042",
+  "displayAddress": "M.P. 1964 nr 9 poz. 42",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 lutego 1964 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-02-01",
+  "entryIntoForce": "1964-02-01",
+  "validFrom": "1964-02-01",
+  "repealDate": "1984-03-31",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1964/70",
+     "date": "1964-03-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1964/3",
+     "date": "1964-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/288",
+     "date": "1984-03-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
