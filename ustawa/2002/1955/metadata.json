@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1955",
+ "source_sha256": "49dd0916babe90e87808d1b88c675bb9c4944f30c4c83387da4e5df275b4ce1f",
+ "in_force": "2003-01-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1955",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1955/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1955/text/O/D20021955.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1955/text/I/D20021955.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1955/text/T/D20021955L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1955",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 233,
+  "pos": 1955,
+  "address": "WDU20022331955",
+  "displayAddress": "Dz.U. 2002 nr 233 poz. 1955",
+  "title": "Ustawa z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-11-22",
+  "promulgation": "2002-12-28",
+  "entryIntoForce": "2003-01-28",
+  "validFrom": "2003-01-28",
+  "changeDate": "2024-03-15T10:05:59",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania",
+   "cywilne prawo",
+   "koszty i opłaty sądowe",
+   "kodeks cywilny",
+   "prawa człowieka",
+   "koszty sądowe w sprawach cywilnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/17.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/17",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/17",
+    "number": "17",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1398",
+     "date": "2006-03-02"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1967/110",
+     "date": "2003-01-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1964/93"
+    },
+    {
+     "id": "DU/1960/168"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021955.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021955.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021955L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
