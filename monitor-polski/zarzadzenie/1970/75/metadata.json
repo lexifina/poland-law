@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/75",
+ "source_sha256": "61a49ec5a7f2b6650d40a6b14878474eff338fef1c7578237b0b4e610ef5ae58",
+ "in_force": "1970-04-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/75",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/75/text/O/M19700075.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/75/text/I/M19700075.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/75",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 8,
+  "pos": 75,
+  "address": "WMP19700080075",
+  "displayAddress": "M.P. 1970 nr 8 poz. 75",
+  "title": "Zarządzenie Ministra Handlu Wewnętrznego z dnia 5 marca 1970 r. zmieniające zarządzenie w sprawie ogólnych warunków umów dostawy pieczywa i wyrobów ciastkarskich.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-03-05",
+  "entryIntoForce": "1970-04-16",
+  "validFrom": "1970-04-16",
+  "repealDate": "1976-05-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/86",
+     "date": "1976-05-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1967/102",
+     "date": "1970-04-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1965/109"
+    },
+    {
+     "id": "DU/1964/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1965/109",
+     "art": "par. 1 ust. 1 pkt 3"
+    },
+    {
+     "id": "DU/1964/93",
+     "art": "art. 384"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700075.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700075.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
