@@ -1,0 +1,1 @@
+Na mocy art. 15 ustawy konstytucyjnej z dnia 15 lipca 1920 r. zawierającej statut organiczny województwa śląskiego (Dz. U. R. P. Nr 73, poz. 497) ogłaszam uchwaloną przez Sejm Śląski ustawą następującej treści:
