@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/123",
+ "source_sha256": "daf80ce3656b81e7f16c5d66f7ca5a99c3e971eb019d777d47bb70cbbc7b5990",
+ "in_force": "1934-04-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/123/text/O/M19340123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/123/text/I/M19340123.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/123",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 82,
+  "pos": 123,
+  "address": "WMP19340820123",
+  "displayAddress": "M.P. 1934 nr 82 poz. 123",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 31 stycznia 1934 r. o instytucjach (towarzystwach) klasyfikacyjnych, których zaświadczenia będą uwzględniane przy inspekcji statków i które są uprawniane do obliczania wolnej burty statków.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-31",
+  "promulgation": "1934-04-10",
+  "repealDate": "1950-01-08",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zaświadczenia",
+   "inspekcja",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1950/17",
+     "date": "1950-01-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1930/632"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/739"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/739",
+     "art": "par. 4 ust. 1"
+    },
+    {
+     "id": "DU/1933/739",
+     "art": "par. 5 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
