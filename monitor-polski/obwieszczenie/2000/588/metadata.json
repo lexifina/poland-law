@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/588",
+ "source_sha256": "a192664f51a611292b706690d72edf3eee2b790c7dcf0bea09f6d9ed71959125",
+ "in_force": "2000-09-21",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/588",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/588/text/O/M20000588.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/588/text/I/M20000588.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/588",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 28,
+  "pos": 588,
+  "address": "WMP20000280588",
+  "displayAddress": "M.P. 2000 nr 28 poz. 588",
+  "title": "Obwieszczenie Ministra Finansów z dnia 21 września 2000 r. w sprawie ogłoszenia kwot i relacji, o których mowa w art. 12 ust. 1 pkt 1 ustawy o finansach publicznych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-09-21",
+  "changeDate": "2026-10-09T09:42:57",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1014",
+     "art": "art. 12 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000588.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000588.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
