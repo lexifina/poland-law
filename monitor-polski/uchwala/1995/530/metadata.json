@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/530",
+ "source_sha256": "960dff6d09e90205d84e9a5c5abb4fe8b1915e9258eb5bed9fc7a269f1cd574b",
+ "in_force": "1995-09-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/530",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/530/text/O/M19950530.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/530/text/I/M19950530.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/530",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 46,
+  "pos": 530,
+  "address": "WMP19950460530",
+  "displayAddress": "M.P. 1995 nr 46 poz. 530",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 11 września 1995 r. w sprawie wzorów protokołów głosowania i protokołu z wyborów, stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-09-11",
+  "entryIntoForce": "1995-09-11",
+  "validFrom": "1995-09-11",
+  "repealDate": "2000-09-05",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2000/541",
+     "date": "2000-09-05"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1990/353",
+     "date": "1995-09-11"
+    },
+    {
+     "id": "MP/1990/310",
+     "date": "1995-09-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 18 pkt 2 i 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950530.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950530.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
