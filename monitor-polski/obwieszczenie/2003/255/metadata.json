@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/255",
+ "source_sha256": "a44f632887a78d99b93496e3b31b03baa3459dc05ad7ab3421c97f546900b8d6",
+ "in_force": "2003-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/255",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/255/text/O/M20030255.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/255/text/I/M20030255.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/255",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 16,
+  "pos": 255,
+  "address": "WMP20030160255",
+  "displayAddress": "M.P. 2003 nr 16 poz. 255",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 20 marca 2003 r. w sprawie uznania rejonu działania Polskiego Kontyngentu Wojskowego w składzie wielonarodowych Połączonych Sił Operacyjnych koalicji międzynarodowej za strefę działań wojennych",
+  "type": "Obwieszczenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-03-20",
+  "promulgation": "2003-03-31",
+  "changeDate": "2020-09-03T11:18:13",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wojsko",
+   "kontyngenty wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1198"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1198",
+     "art": "par. 19 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030255.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030255.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
