@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/56",
+ "source_sha256": "ebddcb6f389d24005deb9d08f4093c0a42fca5938f4cc881472a25f436228f10",
+ "in_force": "1934-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/56",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/56/text/O/D19340056.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/56/text/I/D19340056.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/56",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 7,
+  "pos": 56,
+  "address": "WDU19340070056",
+  "displayAddress": "Dz.U. 1934 nr 7 poz. 56",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 18 stycznia 1934 r. w sprawie klasyfikacji więzień.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-18",
+  "promulgation": "1934-01-26",
+  "entryIntoForce": "1934-02-01",
+  "validFrom": "1934-02-01",
+  "repealDate": "1939-08-02",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1928/591",
+     "date": "1934-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/272"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/272",
+     "art": "art. 4 ust. 1 i 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1939/457",
+     "date": "1939-08-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340056.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340056.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
