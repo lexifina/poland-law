@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1989/230",
+ "source_sha256": "1a05e7531bf72c7f875dfe2a105e0ba907bc2b8fbc33e30921f6bdac9de35868",
+ "in_force": "1989-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1989/230",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1989/230/text/O/D19890230.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1989/230/text/I/D19890230.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1989/230/text/T/D19890230L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1989/230",
+  "publisher": "DU",
+  "year": 1989,
+  "volume": 42,
+  "pos": 230,
+  "address": "WDU19890420230",
+  "displayAddress": "Dz.U. 1989 nr 42 poz. 230",
+  "title": "Dekret z dnia 1 lipca 1989 r. o zmianie ustawy o obowiązkach i prawach posłów na Sejm Polskiej Rzeczypospolitej Ludowej.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1989-07-01",
+  "promulgation": "1989-07-03",
+  "entryIntoForce": "1989-07-01",
+  "validFrom": "1989-07-01",
+  "repealDate": "1996-07-01",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "urlopy pracownicze",
+   "urlopy bezpłatne"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1996/350",
+     "date": "1996-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1985/173",
+     "date": "1989-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19890230.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19890230.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19890230L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
