@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1971/365",
+ "source_sha256": "66270516d9d688629fadb288ce4d1c4c3ec25bfca35a7bb608b64d39bd272595",
+ "in_force": "1971-12-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1971/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1971/365/text/O/M19710365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1971/365/text/I/M19710365.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1971/365",
+  "publisher": "MP",
+  "year": 1971,
+  "volume": 56,
+  "pos": 365,
+  "address": "WMP19710560365",
+  "displayAddress": "M.P. 1971 nr 56 poz. 365",
+  "title": "Zarządzenie Ministra Finansów z dnia 17 listopada 1971 r. w sprawie przedterminowych wypłat rat odszkodowania.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-11-17",
+  "entryIntoForce": "1971-12-07",
+  "validFrom": "1971-12-07",
+  "repealDate": "1972-09-29",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1972/260",
+     "date": "1972-09-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1959/166"
+    },
+    {
+     "id": "DU/1958/70"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1963/1"
+    },
+    {
+     "id": "DU/1958/70"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1963/1",
+     "art": "par. 12 ust. 3"
+    },
+    {
+     "id": "DU/1958/70",
+     "art": "art. 12 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19710365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19710365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
