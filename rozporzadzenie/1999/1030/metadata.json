@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1030",
+ "source_sha256": "f57090cd966d7eb8aadd762cfefe3766f8faf56f5285c7b1ce48f70bff9dd6da",
+ "in_force": "1999-11-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1030",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1030/text/O/D19991030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1030/text/I/D19991030.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1030/text/T/D19991030L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1030",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 91,
+  "pos": 1030,
+  "address": "WDU19990911030",
+  "displayAddress": "Dz.U. 1999 nr 91 poz. 1030",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 1999 r. zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-08",
+  "entryIntoForce": "1999-11-10",
+  "validFrom": "1999-11-10",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania"
+  ],
+  "keywordsNames": [
+   "Krajowa Komisja Uwłaszczeniowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/291",
+     "date": "1999-11-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/191"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/191",
+     "art": "art. 18 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991030.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991030L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
