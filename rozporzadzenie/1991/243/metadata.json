@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1991/243",
+ "source_sha256": "35fa240b8365fa2ee714806ce13326e1b6a8b8facebd653f049a6f24ba559c48",
+ "in_force": "1991-06-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1991/243",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1991/243/text/O/D19910243.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1991/243/text/I/D19910243.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1991/243",
+  "publisher": "DU",
+  "year": 1991,
+  "volume": 57,
+  "pos": 243,
+  "address": "WDU19910570243",
+  "displayAddress": "Dz.U. 1991 nr 57 poz. 243",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 13 czerwca 1991 r. w sprawie zasad, jakim powinien odpowiadać statut uczelni państwowej nie spełniającej wymagań określonych w art. 12 ust. 1 i 2 ustawy o szkolnictwie wyższym.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-06-13",
+  "promulgation": "1991-06-28",
+  "entryIntoForce": "1991-06-28",
+  "validFrom": "1991-06-28",
+  "repealDate": "2005-09-01",
+  "changeDate": "2014-12-31T12:25:38",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/385"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/385",
+     "art": "art. 13 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2005/1365",
+     "date": "2005-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19910243.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19910243.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
