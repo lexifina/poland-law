@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/149",
+ "source_sha256": "3367e835c5166b9f057c595dc227bab2de89d5a9927fbfd24842a6a2bca91034",
+ "in_force": "1962-04-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/149",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/149/text/O/M19620149.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/149/text/I/M19620149.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/149",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 32,
+  "pos": 149,
+  "address": "WMP19620320149",
+  "displayAddress": "M.P. 1962 nr 32 poz. 149",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 4 kwietnia 1962 r. w sprawie określenia organizacji społecznych obowiązanych do dokonywania wpisów w dowodach osobistych i tymczasowych zaświadczeniach tożsamości zatrudnionych u nich osób o dacie przyjęcia do pracy i zwolnienia.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-04-04",
+  "entryIntoForce": "1962-04-12",
+  "validFrom": "1962-04-12",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/70"
+    },
+    {
+     "id": "DU/1951/382"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/70",
+     "art": "par. 10 ust. 2"
+    },
+    {
+     "id": "DU/1951/382",
+     "art": "art. 18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620149.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620149.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
