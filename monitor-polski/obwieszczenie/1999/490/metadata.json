@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/490",
+ "source_sha256": "436d80ea0c27d332b08c8599cdb7f40cb56374ba4ad2c9197f15ae4c9d24bf1c",
+ "in_force": "1999-09-23",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/490",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/490/text/O/M19990490.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/490/text/I/M19990490.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/490",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 31,
+  "pos": 490,
+  "address": "WMP19990310490",
+  "displayAddress": "M.P. 1999 nr 31 poz. 490",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 23 września 1999 r. w sprawie średniej krajowej ceny skupu pszenicy w I półroczu 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-09-23",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "zboża",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990490.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990490.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
