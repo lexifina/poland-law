@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/105",
+ "source_sha256": "843a0a2481fa8030a76aab29e5f6bf6765c57c3a754d46d728fe7f6f8a32341c",
+ "in_force": "1982-05-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/105",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/105/text/O/M19820105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/105/text/I/M19820105.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/105",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 14,
+  "pos": 105,
+  "address": "WMP19820140105",
+  "displayAddress": "M.P. 1982 nr 14 poz. 105",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 6 maja 1982 r. w sprawie ustalenia wzorów banknotów nominalnej wartości 10 złotych, 20 złotych i 5000 złotych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-05-06",
+  "entryIntoForce": "1982-05-25",
+  "validFrom": "1982-05-25",
+  "repealDate": "1995-01-01",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pieniężny system"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "obowiązywało do dnia 31 grudnia 1996 r. w zakresie ustalenia wzoru banknotu wartości 5000 złotych.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1994/541",
+     "date": "1995-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1981/82"
+    },
+    {
+     "id": "DU/1975/108"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1975/108",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820105.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
