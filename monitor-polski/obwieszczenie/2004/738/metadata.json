@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/738",
+ "source_sha256": "12298162df4c599f8480e1d1c5fb02d89c99fa10cbe240d7d7270a7b8db7ab2f",
+ "in_force": "2004-10-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/738",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/738/text/O/M20040738.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/738/text/I/M20040738.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/738",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 42,
+  "pos": 738,
+  "address": "WMP20040420738",
+  "displayAddress": "M.P. 2004 nr 42 poz. 738",
+  "title": "Obwieszczenie Ministra Infrastruktury z dnia 15 września 2004 r. w sprawie ogłoszenia tekstu jednolitego statutu państwowego przedsiębiorstwa użyteczności publicznej \"Poczta Polska\"",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-09-15",
+  "promulgation": "2004-10-14",
+  "repealDate": "2008-11-10",
+  "changeDate": "2014-12-31T12:26:39",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa państwowe",
+   "statut"
+  ],
+  "keywordsNames": [
+   "Poczta Polska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1998/221"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2008/1109",
+     "date": "2008-11-10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040738.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040738.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
