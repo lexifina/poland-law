@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/863",
+ "source_sha256": "32302c18ebe28c57f077dbd8c5595b8ef338bca92f4bad6c5c001272a6f61d1c",
+ "in_force": "1928-11-19",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/863",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/863/text/O/D19280863.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/863/text/I/D19280863.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/863",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 97,
+  "pos": 863,
+  "address": "WDU19280970863",
+  "displayAddress": "Dz.U. 1928 nr 97 poz. 863",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 19 listopada 1928 r. w sprawie częściowej zmiany taryfy pocztowej i telefonicznej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-11-19",
+  "repealDate": "1929-04-01",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1929/181",
+     "date": "1929-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/26"
+    },
+    {
+     "id": "DU/1924/584"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280863.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280863.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
