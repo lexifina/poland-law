@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/240",
+ "source_sha256": "7d70a939fe7e5f72624ae8177a83e972c6d49d3ba58502ada063e635f655a3ce",
+ "in_force": "1999-04-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/240",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/240/text/O/D19990240-1.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/240/text/I/D19990240-1.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/240/text/T/D19990240L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/240",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 26,
+  "pos": 240,
+  "address": "WDU19990260240",
+  "displayAddress": "Dz.U. 1999 nr 26 poz. 240",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 lutego 1999 r. w sprawie określenia kosztorysowych norm nakładów rzeczowych, cen jednostkowych robót budowlanych oraz cen czynników produkcji dla potrzeb sporządzania kosztorysu inwestorskiego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-02-26",
+  "entryIntoForce": "1999-04-30",
+  "validFrom": "1999-04-30",
+  "repealDate": "2001-01-20",
+  "changeDate": "2026-06-16T15:02:45",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kosztorysy",
+   "ceny",
+   "roboty budowlane"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/1195",
+     "date": "2001-01-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/344"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/344",
+     "art": "art. 35 ust. 3 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990240-1.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990240-1.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990240-2.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990240-2.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990240L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
