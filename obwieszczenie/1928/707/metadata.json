@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/707",
+ "source_sha256": "edb80fc2d6b022c0fa8021e1adbf54aeae4a7ac33864a14d52bc905d879278c2",
+ "in_force": "1928-07-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/707",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/707/text/O/D19280707.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/707/text/I/D19280707.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/707",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 80,
+  "pos": 707,
+  "address": "WDU19280800707",
+  "displayAddress": "Dz.U. 1928 nr 80 poz. 707",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 18 lipca 1928 r. w sprawie sprostowania błędu w rozporządzeniu Rady Ministrów z dnia 3 lutego 1928 r. o zmianie wzorów kart zgłoszenia statystycznego towarów i notatek statystycznych, ustalonych rozporządzeniem Rady Ministrów z dnia 10 listopada 1921 r. w sprawie statystyki celnej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-07-18",
+  "repealDate": "1930-05-27",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "statystyka",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/350",
+     "date": "1930-05-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/471"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280707.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280707.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
