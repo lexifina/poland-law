@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/356",
+ "source_sha256": "b78c198518c917358bf92e8d91502ab2c05f1aa00cff028aca4de8e69f9c4b05",
+ "in_force": "1930-11-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/356",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/356/text/O/M19300356.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/356/text/I/M19300356.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/356",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 261,
+  "pos": 356,
+  "address": "WMP19302610356",
+  "displayAddress": "M.P. 1930 nr 261 poz. 356",
+  "title": "Ogłoszenie Głównego Urzędu Statystycznego z dnia 5 listopada 1930 r. w sprawie ustalenia klasyfikacji krajów, obowiązującej przy określaniu kraju zakupu, sprzedaży, pochodzenia i przeznaczenia - w statystyce celnej.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-11-05",
+  "promulgation": "1930-11-12",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1932/66",
+     "date": "1932-02-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/350",
+     "art": "par. 43"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300356.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300356.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
