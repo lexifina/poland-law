@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/410",
+ "source_sha256": "5faccf5dbaa59708b84e8096ba66bf28e19d4510ebf8142ffaeef6d0e18fe2cb",
+ "in_force": "2004-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 259 words, parsed 57; at 57: 'marca 2004 r . : 1 ) skargi konstytucyjnej Andrzeja'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/410",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/410/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/410/text/O/D20040410.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/410/text/I/D20040410.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/410/text/T/D20040410TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/410",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 43,
+  "pos": 410,
+  "address": "WDU20040430410",
+  "displayAddress": "Dz.U. 2004 nr 43 poz. 410",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 2 marca 2004 r. sygn. akt SK 53/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-02",
+  "promulgation": "2004-03-16",
+  "entryIntoForce": "2004-03-16",
+  "validFrom": "2004-03-16",
+  "changeDate": "2024-03-15T09:55:49",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040410.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040410.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040410TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
