@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1757",
+ "source_sha256": "a5dfa9a9c2440c027803c343958c79d7404bf1546ae581c3997f78d4f8d04ea5",
+ "in_force": "2003-10-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 434 words, parsed 125; at 125: 'okręgu wyborczym nr 23 . I . W dniu 12'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1757",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1757/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1757/text/O/D20031757.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1757/text/I/D20031757.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1757",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 179,
+  "pos": 1757,
+  "address": "WDU20031791757",
+  "displayAddress": "Dz.U. 2003 nr 179 poz. 1757",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 13 października 2003 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 12 października 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-10-13",
+  "promulgation": "2003-10-20",
+  "changeDate": "2025-03-21T10:37:21",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031757.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031757.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
