@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/91",
+ "source_sha256": "fbc547d78fea723dc058a5f644a4f927f0c31956d560cac865be0a98f479b9dd",
+ "in_force": "1945-04-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/91",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/91/text/O/D19450091.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/91/text/I/D19450091.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/91",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 16,
+  "pos": 91,
+  "address": "WDU19450160091",
+  "displayAddress": "Dz.U. 1945 nr 16 poz. 91",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 kwietnia 1945 r. wydane w porozumieniu z Ministrem Pracy i Opieki Społecznej oraz Ministrem Administracji Publicznej o wyznaczeniu organu opieki społecznej, powołanego do wyrażenia w imieniu dziecka nieznanych rodziców lub dziecka opuszczonego zgody na przysposobienie w trybie ustawy z dnia 13 lipca 1939 r.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-04-24",
+  "entryIntoForce": "1945-04-30",
+  "validFrom": "1945-04-30",
+  "repealDate": "1946-07-01",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/53",
+     "date": "1946-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1929/291"
+    },
+    {
+     "id": "DU/1928/267"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1939/416"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450091.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450091.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
