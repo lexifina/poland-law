@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1994/320",
+ "source_sha256": "31383f68fb6b263d5951542f4c7de8a6bc51ec2d1c588e82b2eeb728c054f644",
+ "in_force": "1994-07-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1994/320",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1994/320/text/O/D19940320.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1994/320/text/I/D19940320.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1994/320",
+  "publisher": "DU",
+  "year": 1994,
+  "volume": 72,
+  "pos": 320,
+  "address": "WDU19940720320",
+  "displayAddress": "Dz.U. 1994 nr 72 poz. 320",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 czerwca 1994 r. zmieniające rozporządzenie w sprawie regulaminu wykonywania kary pozbawienia wolności.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1994-06-10",
+  "entryIntoForce": "1994-07-07",
+  "validFrom": "1994-07-07",
+  "repealDate": "1998-09-01",
+  "changeDate": "2024-11-25T09:48:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze",
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1998/699",
+     "date": "1998-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/166",
+     "date": "1994-07-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1969/98"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1969/98",
+     "art": "art. 212 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19940320.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19940320.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
