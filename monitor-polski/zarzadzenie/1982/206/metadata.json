@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/206",
+ "source_sha256": "8209e3df8ab22ee0ce2d367ddd5e7b7f11807cbdda6dc87605a15cf3ae573d65",
+ "in_force": "1982-10-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/206",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/206/text/O/M19820206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/206/text/I/M19820206.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/206",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 23,
+  "pos": 206,
+  "address": "WMP19820230206",
+  "displayAddress": "M.P. 1982 nr 23 poz. 206",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 14 września 1982 r. zmieniające zarządzenie w sprawie odsetek od kredytów udzielanych jednostkom gospodarki uspołecznionej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-09-14",
+  "entryIntoForce": "1982-10-05",
+  "validFrom": "1982-07-01",
+  "repealDate": "1983-01-01",
+  "changeDate": "2023-07-05T14:57:58",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarka uspołeczniona",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/17",
+     "date": "1983-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1982/36",
+     "date": "1982-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/56"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/56",
+     "art": "art. 25 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
