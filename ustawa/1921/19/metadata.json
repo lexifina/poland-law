@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1921/19",
+ "source_sha256": "17e7fc836d87c356c6872dfc1ddb911a3e35c115d0ac72faa2d279dd64431582",
+ "in_force": "1921-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1921/19",
+  "html": "https://eli.gov.pl/api/acts/DU/1921/19/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1921/19/text/O/D19210019.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1921/19/text/I/D19210019.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1921/19",
+  "publisher": "DU",
+  "year": 1921,
+  "volume": 4,
+  "pos": 19,
+  "address": "WDU19210040019",
+  "displayAddress": "Dz.U. 1921 nr 4 poz. 19",
+  "title": "Ustawa z dnia 18 grudnia 1920 r. o ochronie lokatorów.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1920-12-18",
+  "entryIntoForce": "1921-01-12",
+  "validFrom": "1921-01-12",
+  "repealDate": "1924-06-01",
+  "changeDate": "2024-03-14T12:02:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokalowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1924/406",
+     "date": "1924-06-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1919/335",
+     "date": "1921-01-12"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1921/377"
+    },
+    {
+     "id": "DU/1921/275"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1922/356",
+     "date": "1922-06-09"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19210019.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19210019.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
