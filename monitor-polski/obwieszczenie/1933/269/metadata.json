@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/269",
+ "source_sha256": "3c18b279ea71f41715b720418b193e8343bcacaceb72a9af6629e8076068cb5d",
+ "in_force": "1933-11-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/269",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/269/text/O/M19330269.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/269/text/I/M19330269.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/269",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 252,
+  "pos": 269,
+  "address": "WMP19332520269",
+  "displayAddress": "M.P. 1933 nr 252 poz. 269",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 23 października 1933 r. w sprawie ilości i wysokości premij 4% premjowej pożyczki inwestycyjnej oraz sposobu ich losowania.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-10-23",
+  "promulgation": "1933-11-02",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwestycje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/99"
+    },
+    {
+     "id": "DU/1928/190"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/99",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1928/190",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330269.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330269.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
