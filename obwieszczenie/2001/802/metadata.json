@@ -1,0 +1,110 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/802",
+ "source_sha256": "f9015ebf945b6c5117400b17e29c2f9b6b3bdfa1256ca70ad884dab679156113",
+ "in_force": "2001-07-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/802",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/802/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/802/text/O/D20010802.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/802/text/I/D20010802.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/802/text/T/D20010802L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/802/text/U/D20010802Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/802",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 75,
+  "pos": 802,
+  "address": "WDU20010750802",
+  "displayAddress": "Dz.U. 2001 nr 75 poz. 802",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 czerwca 2001 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks celny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-06-29",
+  "promulgation": "2001-07-23",
+  "repealDate": "2004-05-01",
+  "changeDate": "2024-03-15T10:00:19",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dewizowe prawo",
+   "obrót towarowy z zagranicą",
+   "celne prawo",
+   "działalność gospodarcza",
+   "podatek akcyzowy",
+   "podatek od towarów i usług",
+   "administracja państwowa"
+  ],
+  "keywordsNames": [
+   "Krajowy Rejestr Sądowy"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 294-296 ustawy z dnia 9 stycznia 1997 r. - Kodeks celny (Dz. U. Nr 23, poz. 117).",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/623",
+     "date": "2004-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/92"
+    },
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/92",
+     "art": "art. 5"
+    },
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/117"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010802.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010802.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010802L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20010802Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
