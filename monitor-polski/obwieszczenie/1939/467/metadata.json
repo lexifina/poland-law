@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/467",
+ "source_sha256": "0eb2013e58940e31b2061746ed212992e9dbd12b676b1ceedbf2217ef3fb29f2",
+ "in_force": "1939-08-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/467",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/467/text/O/M19390467.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/467/text/I/M19390467.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/467",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 189,
+  "pos": 467,
+  "address": "WMP19391890467",
+  "displayAddress": "M.P. 1939 nr 189 poz. 467",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 17 sierpnia 1939 r. w sprawie odebrania związkow spółdzielni prawa dokonywania rewizji.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1939-08-17",
+  "promulgation": "1939-08-19",
+  "changeDate": "2019-03-25T12:16:29",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość",
+   "spółdzielcze prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1935/123",
+     "date": "1939-08-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/733"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1920/733",
+     "art": "art. 68 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390467.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390467.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
