@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/322",
+ "source_sha256": "1ea6f2b3a7c5d5d9972fbacabf6130bcee37d03de98648de58acb5df0d204f2c",
+ "in_force": "1928-03-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/322",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/322/text/O/D19280322.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/322/text/I/D19280322.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/322",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 34,
+  "pos": 322,
+  "address": "WDU19280340322",
+  "displayAddress": "Dz.U. 1928 nr 34 poz. 322",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 12 marca 1928 r. o zmianie rozporządzenia Ministra Skarbu z dnia 9 stycznia 1928 r. w sprawie uprawy tytoniu w 1928 r.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-03-12",
+  "entryIntoForce": "1928-03-20",
+  "validFrom": "1928-03-20",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1928/132",
+     "date": "1928-03-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/409"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/409",
+     "art": "art. 6"
+    },
+    {
+     "id": "DU/1922/409",
+     "art": "art. 62"
+    },
+    {
+     "id": "DU/1922/409",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280322.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280322.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
