@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1979/78",
+ "source_sha256": "6d3e6e63b681550d6ca30ccead4be1f8e14a4aca8c118404deb1a416f1a8b1bf",
+ "in_force": "1979-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1979/78",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1979/78/text/O/D19790078.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1979/78/text/I/D19790078.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1979/78",
+  "publisher": "DU",
+  "year": 1979,
+  "volume": 11,
+  "pos": 78,
+  "address": "WDU19790110078",
+  "displayAddress": "Dz.U. 1979 nr 11 poz. 78",
+  "title": "Rozporządzenie Ministra Finansów z dnia 5 maja 1979 r. zmieniające rozporządzenie w sprawie zryczałtowania podatków obrotowego i dochodowego od niektórych grup podatników.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1979-05-05",
+  "promulgation": "1979-05-25",
+  "entryIntoForce": "1979-06-01",
+  "validFrom": "1979-06-01",
+  "repealDate": "1982-01-01",
+  "changeDate": "2014-12-31T12:25:32",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek dochodowy",
+   "podatek obrotowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1977/24",
+     "date": "1979-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    },
+    {
+     "id": "DU/1946/174"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1980/111",
+     "date": "1982-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19790078.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19790078.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
