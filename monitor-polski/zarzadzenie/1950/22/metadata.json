@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/22",
+ "source_sha256": "aed12500e3eefdf5f79ec440b5e68a9f614c1d840640628f950f75430ef39e76",
+ "in_force": "1950-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/22",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/22/text/O/M19500022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/22/text/I/M19500022.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/22",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 3,
+  "pos": 22,
+  "address": "WMP19500030022",
+  "displayAddress": "M.P. 1950 nr 3 poz. 22",
+  "title": "Zarządzenie Prezesa Rady Ministrów z dnia 1 grudnia 1949 r. o organizacji i funkcjonowaniu kontroli wewnętrznej w Ministerstwie Leśnictwa oraz urzędach, instytucjach i przedsiębiorstwach podległych, wydane w porozumieniu z Prezesem Najwyższej Izby Kontroli, na wniosek Ministra Leśnictwa.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-01",
+  "entryIntoForce": "1950-01-12",
+  "validFrom": "1950-01-12",
+  "repealDate": "1951-07-31",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. LEŚNICTWA"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1951/867",
+     "date": "1951-07-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1948/292"
+    },
+    {
+     "id": "DU/1922/164"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1948/293"
+    },
+    {
+     "id": "MP/1948/292"
+    },
+    {
+     "id": "DU/1949/74"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500022.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
