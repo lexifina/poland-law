@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/331",
+ "source_sha256": "6cf951bdb2d03a98abf10355fbf99a2424e97786fe25c36f1677d8d48e98aadf",
+ "in_force": "1962-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/331",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/331/text/O/M19620331.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/331/text/I/M19620331.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/331",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 70,
+  "pos": 331,
+  "address": "WMP19620700331",
+  "displayAddress": "M.P. 1962 nr 70 poz. 331",
+  "title": "Zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 13 sierpnia 1962 r. zmieniające zarządzenie w sprawie uzupełnienia tabeli dodatków funkcyjnych dla niektórych pracowników służby zdrowia.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-08-13",
+  "entryIntoForce": "1962-09-24",
+  "validFrom": "1962-09-24",
+  "repealDate": "1966-06-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1960/326",
+     "date": "1962-09-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/379"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/379",
+     "art": "par. 18 ust. 2 pkt 2 i ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1966/124",
+     "date": "1966-06-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620331.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620331.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
