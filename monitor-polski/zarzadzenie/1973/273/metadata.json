@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1973/273",
+ "source_sha256": "37ace2e5121a5e51888e821ac458d5bb1cd042fd04bc6ce169387126bf6cc620",
+ "in_force": "1973-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1973/273",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1973/273/text/O/M19730273.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1973/273/text/I/M19730273.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1973/273",
+  "publisher": "MP",
+  "year": 1973,
+  "volume": 49,
+  "pos": 273,
+  "address": "WMP19730490273",
+  "displayAddress": "M.P. 1973 nr 49 poz. 273",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 26 października 1973 r. w sprawie rejonizacji hodowli koni.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-10-26",
+  "entryIntoForce": "1973-12-01",
+  "validFrom": "1973-12-01",
+  "repealDate": "1983-08-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/135",
+     "date": "1983-08-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1969/16",
+     "date": "1973-12-01"
+    },
+    {
+     "id": "MP/1969/146",
+     "date": "1973-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/310"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/310",
+     "art": "art. 3"
+    },
+    {
+     "id": "DU/1960/310",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19730273.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19730273.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
