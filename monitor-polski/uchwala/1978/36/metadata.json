@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1978/36",
+ "source_sha256": "074139c786cd89488801ceac73fa9429a795bb695a2bc512cba5e9e62c15bb74",
+ "in_force": "1978-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1978/36",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1978/36/text/O/M19780036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1978/36/text/I/M19780036.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1978/36",
+  "publisher": "MP",
+  "year": 1978,
+  "volume": 10,
+  "pos": 36,
+  "address": "WMP19780100036",
+  "displayAddress": "M.P. 1978 nr 10 poz. 36",
+  "title": "Uchwała nr 29 Rady Ministrów z dnia 10 marca 1978 r. w sprawie podwyższenia najniższych wynagrodzeń pracownikom zatrudnionym w uspołecznionych zakładach pracy.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-03-10",
+  "entryIntoForce": "1978-05-01",
+  "validFrom": "1978-05-01",
+  "repealDate": "1979-05-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [
+   "MIN. PRACY, PŁAC I SPRAW SOCJALNYCH"
+  ],
+  "obligated": [
+   "MIN. PRACY, PŁAC I SPRAW SOCJALNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1979/62",
+     "date": "1979-05-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1977/36",
+     "date": "1978-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/141",
+     "art": "art. 79"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19780036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19780036.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
