@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/48",
+ "source_sha256": "2290f7a8c7a3ca48fa8d43581c0af456978950ef77e005bb76e229d876fbc4c8",
+ "in_force": "1999-02-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/48/text/O/D19990048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/48/text/I/D19990048.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/48/text/T/D19990048L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/48",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 6,
+  "pos": 48,
+  "address": "WDU19990060048",
+  "displayAddress": "Dz.U. 1999 nr 6 poz. 48",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 stycznia 1999 r. w sprawie nadania osobowości prawnej \"Radiu Plus Lublin\" z siedzibą w Lublinie.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-01-06",
+  "entryIntoForce": "1999-02-05",
+  "validFrom": "1999-02-05",
+  "changeDate": "2021-08-18T09:57:04",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "osobowość prawna",
+   "kościoły"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/318"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/154"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/154",
+     "art": "art. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990048.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990048L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
