@@ -1,0 +1,56 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/102",
+ "source_sha256": "2096ddb5c147780610b11e16452c1dc5d2867b39159e8b38d25a2e4e818fd4e5",
+ "in_force": "1953-02-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/102/text/O/D19530102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/102/text/I/D19530102.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/102",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 26,
+  "pos": 102,
+  "address": "WDU19530260102",
+  "displayAddress": "Dz.U. 1953 nr 26 poz. 102",
+  "title": "Oświadczenie rządowe z dnia 27 lutego 1953 r. w sprawie wypowiedzenia przez Holandię konwencji o ujednostajnieniu znaków drogowych, podpisanej w Genewie dnia 30 marca 1931 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1953-02-27",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/793"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
