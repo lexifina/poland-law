@@ -1,0 +1,129 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1434",
+ "source_sha256": "3de928acaa8cd859931d83ce103da014b8f402c8aeeca7d7f780b0e53c9f62ad",
+ "in_force": "2002-11-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1434",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1434/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1434/text/O/D20021434.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1434/text/I/D20021434.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1434/text/T/D20021434L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/1434/text/U/D20021434Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1434",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 175,
+  "pos": 1434,
+  "address": "WDU20021751434",
+  "displayAddress": "Dz.U. 2002 nr 175 poz. 1434",
+  "title": "Ustawa z dnia 13 września 2002 r. o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-09-13",
+  "promulgation": "2002-10-21",
+  "entryIntoForce": "2002-11-05",
+  "validFrom": "2002-11-05",
+  "repealDate": "2007-03-15",
+  "changeDate": "2024-03-15T10:05:57",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/765.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/765",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/765",
+    "number": "765",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/1592",
+     "date": "2007-03-15"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/2003/888"
+    },
+    {
+     "id": "MP/2003/808"
+    },
+    {
+     "id": "MP/2002/848"
+    },
+    {
+     "id": "MP/2002/795"
+    },
+    {
+     "id": "MP/2002/792"
+    },
+    {
+     "id": "MP/2002/782"
+    },
+    {
+     "id": "MP/2002/742"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/921",
+     "date": "2003-06-04"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/443",
+     "date": "2002-11-05"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2003/921"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021434.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021434.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021434L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20021434Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
