@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/145",
+ "source_sha256": "6e1dfc0963365c93697525426922ee5cae0893397a7d7fe7383fa2e05e92cd13",
+ "in_force": "1957-06-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/145",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/145/text/O/D19570145.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/145/text/I/D19570145.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/145",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 33,
+  "pos": 145,
+  "address": "WDU19570330145",
+  "displayAddress": "Dz.U. 1957 nr 33 poz. 145",
+  "title": "Rozporządzenie Ministra Przemysłu Drobnego i Rzemiosła z dnia 28 lutego 1957 r. w sprawie zmiany listy rzemiosł.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-02-28",
+  "entryIntoForce": "1957-06-22",
+  "validFrom": "1957-06-22",
+  "repealDate": "1963-08-20",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU DROBNEGO I RZEMIOSŁA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1963/184",
+     "date": "1963-08-20"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1954/126",
+     "date": "1957-06-22"
+    },
+    {
+     "id": "DU/1950/2",
+     "date": "1957-06-22"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/468",
+     "date": "1957-06-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/468"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570145.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570145.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
