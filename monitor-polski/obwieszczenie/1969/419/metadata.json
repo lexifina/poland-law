@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/419",
+ "source_sha256": "68644bbbb52780c4d6bc6e59cfbfc9039a06b8c1e31eee1c0ea4779ca8c68f4c",
+ "in_force": "1969-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/419",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/419/text/O/M19690419.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/419/text/I/M19690419.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/419",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 52,
+  "pos": 419,
+  "address": "WMP19690520419",
+  "displayAddress": "M.P. 1969 nr 52 poz. 419",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 15 grudnia 1969 r. w sprawie ogłoszenia ustanowionej Polskiej Normy.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-12-15",
+  "entryIntoForce": "1969-12-15",
+  "validFrom": "1969-12-15",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1968/15",
+     "date": "1969-12-15"
+    },
+    {
+     "id": "MP/1961/90",
+     "date": "1969-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690419.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690419.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
