@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/693",
+ "source_sha256": "8e4416db22d6c03cd8ac31f642d383ad83e5ccf64cfc971f4e88229e534a1ae4",
+ "in_force": "1923-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/693",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/693/text/O/D19220693.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/693/text/I/D19220693.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/693",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 77,
+  "pos": 693,
+  "address": "WDU19220770693",
+  "displayAddress": "Dz.U. 1922 nr 77 poz. 693",
+  "title": "Rozporządzenie Rady Ministrów z dnia 4 września 1922 r. o rozszerzeniu granic miasta Włoszczowy.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1922-09-04",
+  "entryIntoForce": "1923-01-01",
+  "validFrom": "1923-01-01",
+  "changeDate": "2022-04-29T13:45:11",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miasta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/92"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1920/92",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1920/92",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19220693.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19220693.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
