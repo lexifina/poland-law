@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1966/1",
+ "source_sha256": "0e6d2be9c31fb4927947ebc552c976c83558ef74c25a3ddbf0c5eca08365e26d",
+ "in_force": "1965-12-21",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1966/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1966/1/text/O/D19660001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1966/1/text/I/D19660001.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1966/1",
+  "publisher": "DU",
+  "year": 1966,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU19660010001",
+  "displayAddress": "Dz.U. 1966 nr 1 poz. 1",
+  "title": "Obwieszczenie Ministra Rolnictwa z dnia 21 grudnia 1965 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 28 czerwca 1962 r. o zaopatrzeniu emerytalnym członków rolniczych spółdzielni produkcyjnych, ich domowników oraz ich rodzin.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-12-21",
+  "repealDate": "1972-01-01",
+  "changeDate": "2017-11-23T15:44:06",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/289"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1962/165"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1971/255",
+     "date": "1972-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19660001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19660001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
