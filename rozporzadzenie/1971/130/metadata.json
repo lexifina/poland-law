@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1971/130",
+ "source_sha256": "f67b65563230e6856ebd95b48b53e342590b747b9dcb983874fed57ea95991c4",
+ "in_force": "1971-06-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1971/130",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1971/130/text/O/D19710130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1971/130/text/I/D19710130.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1971/130",
+  "publisher": "DU",
+  "year": 1971,
+  "volume": 13,
+  "pos": 130,
+  "address": "WDU19710130130",
+  "displayAddress": "Dz.U. 1971 nr 13 poz. 130",
+  "title": "Rozporządzenie Ministra Żeglugi z dnia 24 maja 1971 r. zmieniające rozporządzenie w sprawie transportu morskiego materiałów niebezpiecznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-05-24",
+  "promulgation": "1971-06-05",
+  "entryIntoForce": "1971-06-19",
+  "validFrom": "1971-06-19",
+  "repealDate": "1974-09-05",
+  "changeDate": "2014-12-31T12:25:30",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski",
+   "transport morski"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1974/55",
+     "date": "1974-09-05"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1963/147",
+     "date": "1971-06-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/318"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/318",
+     "art": "art. 46 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19710130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19710130.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
