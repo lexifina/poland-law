@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/305",
+ "source_sha256": "2a1904717ba4d1f6c181ba2c39467fee9195f4d07fa10a06312961240dc5629e",
+ "in_force": "1995-05-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/305",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/305/text/O/M19950305.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/305/text/I/M19950305.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/305",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 25,
+  "pos": 305,
+  "address": "WMP19950250305",
+  "displayAddress": "M.P. 1995 nr 25 poz. 305",
+  "title": "Zarządzenie Prezesa Głównego Urzędu Statystycznego z dnia 13 maja 1995 r. w sprawie wzoru formularza opisowego do spisu kontrolnego spisu ludności i mieszkań w 1995 r.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-05-13",
+  "entryIntoForce": "1995-05-24",
+  "validFrom": "1995-05-24",
+  "repealDate": "1995-12-31",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "formularze",
+   "ewidencja ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1995/305",
+     "date": "1995-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/5",
+     "art": "art. 5 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1995/305",
+     "date": "1995-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950305.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950305.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
