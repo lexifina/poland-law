@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1115",
+ "source_sha256": "e3a1bca017426294ee5264dd3ebce92b3c9cc56843025ea0bbb5405a7817f889",
+ "in_force": "2001-10-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1115",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1115/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1115/text/O/D20011115.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1115/text/I/D20011115.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1115/text/U/D20011115Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1115",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 102,
+  "pos": 1115,
+  "address": "WDU20011021115",
+  "displayAddress": "Dz.U. 2001 nr 102 poz. 1115",
+  "title": "Ustawa z dnia 20 lipca 2001 r. o zmianie ustawy o kulturze fizycznej oraz ustawy - Prawo działalności gospodarczej.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-07-20",
+  "promulgation": "2001-09-21",
+  "entryIntoForce": "2001-10-06",
+  "validFrom": "2001-10-06",
+  "changeDate": "2024-03-15T09:58:52",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS KULTURY FIZYCZNEJ I SPORTU"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "działalność gospodarcza",
+   "kultura fizyczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2884.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2884",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2884",
+    "number": "2884",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2001/282",
+     "date": "2001-10-06"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1808",
+     "date": "2004-08-21"
+    },
+    {
+     "id": "DU/2002/820",
+     "date": "2002-06-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/1178",
+     "date": "2001-10-06"
+    },
+    {
+     "id": "DU/1996/113",
+     "date": "2001-10-06"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011115.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011115.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011115Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
