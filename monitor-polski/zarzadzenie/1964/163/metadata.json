@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/163",
+ "source_sha256": "3db4890b42205e8f1a1f09bf34313dab02ecaf3de7a261e804c4a5a8af8e49da",
+ "in_force": "1964-05-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/163",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/163/text/O/M19640163.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/163/text/I/M19640163.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/163",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 35,
+  "pos": 163,
+  "address": "WMP19640350163",
+  "displayAddress": "M.P. 1964 nr 35 poz. 163",
+  "title": "Zarządzenie Ministra Handlu Zagranicznego z dnia 11 maja 1964 r. zmieniające zarządzenie w sprawie zaliczenia urzędów celnych do klas.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-05-11",
+  "entryIntoForce": "1964-05-29",
+  "validFrom": "1964-05-29",
+  "repealDate": "1965-06-24",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. HANDLU ZAGRANICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/167",
+     "date": "1965-06-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/519",
+     "date": "1964-05-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/294"
+    },
+    {
+     "id": "DU/1949/39"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/294",
+     "art": "par. 11"
+    },
+    {
+     "id": "DU/1949/39",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640163.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640163.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
