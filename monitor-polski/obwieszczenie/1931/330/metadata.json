@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/330",
+ "source_sha256": "ab54ac5988af384857725622db88185b74bf25d647eb51efcb3e766129d1a094",
+ "in_force": "1931-10-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/330",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/330/text/O/M19310330.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/330/text/I/M19310330.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/330",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 244,
+  "pos": 330,
+  "address": "WMP19312440330",
+  "displayAddress": "M.P. 1931 nr 244 poz. 330",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 9 października 1931 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-10-09",
+  "promulgation": "1931-10-22",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "inwestycje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/99"
+    },
+    {
+     "id": "DU/1928/190"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/99",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1928/190",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310330.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310330.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
