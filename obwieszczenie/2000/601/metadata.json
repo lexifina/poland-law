@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/601",
+ "source_sha256": "7f6b18da5ac5fa10999b7217c0d13688c9056bb9a910ca740ea3a59f85290333",
+ "in_force": "2000-06-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/601",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/601/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/601/text/O/D20000601.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/601/text/I/D20000601.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/601/text/T/D20000601L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/601/text/U/D20000601Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/601",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 50,
+  "pos": 601,
+  "address": "WDU20000500601",
+  "displayAddress": "Dz.U. 2000 nr 50 poz. 601",
+  "title": "Obwieszczenie Ministra Transportu i Gospodarki Morskiej z dnia 29 maja 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo przewozowe.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-05-29",
+  "promulgation": "2000-06-21",
+  "expirationDate": "2012-10-26",
+  "changeDate": "2024-03-15T09:49:32",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przewozowe prawo",
+   "celne prawo",
+   "lotnicze prawo",
+   "transport kolejowy"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31996L0075",
+    "date": "1996-11-19",
+    "title": "Dyrektywa Rady 96/75/WE z dnia 19 listopada 1996 r. w sprawie systemów czarterowania i wyznaczania stawek przewozowych w krajowej i międzynarodowej żegludze śródlądowej we Wspólnocie"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1984/272"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000601.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000601.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000601L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20000601Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
