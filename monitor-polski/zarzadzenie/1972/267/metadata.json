@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/267",
+ "source_sha256": "04b369750098454f46d396c30c4797fa9ae8f352c65aeba751d6d1dcaad82ace",
+ "in_force": "1972-11-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/267",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/267/text/O/M19720267.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/267/text/I/M19720267.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/267",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 50,
+  "pos": 267,
+  "address": "WMP19720500267",
+  "displayAddress": "M.P. 1972 nr 50 poz. 267",
+  "title": "Zarządzenie Ministra Pracy, Płac i Spraw Socjalnych z dnia 26 października 1972 r. w sprawie zmiany fundatora stypendium oraz zwolnień od obowiązku wynikającego z umowy stypendialnej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-10-26",
+  "entryIntoForce": "1972-11-15",
+  "validFrom": "1972-11-15",
+  "repealDate": "1973-03-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. PRACY, PŁAC I SPRAW SOCJALNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/88",
+     "date": "1973-03-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1967/210",
+     "date": "1972-11-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1969/125"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1969/125",
+     "art": "par. 21 ust. 5"
+    },
+    {
+     "id": "DU/1969/125",
+     "art": "par. 24 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720267.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720267.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
