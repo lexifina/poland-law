@@ -1,0 +1,63 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/782",
+ "source_sha256": "00e616e44670fb3813cc013c0a140b55cd39f06e3357389c12f0ac7c0fcbced9",
+ "in_force": "1925-10-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/782",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/782/text/O/D19250782.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/782/text/I/D19250782.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/782",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 109,
+  "pos": 782,
+  "address": "WDU19251090782",
+  "displayAddress": "Dz.U. 1925 nr 109 poz. 782",
+  "title": "Rozporządzenie Ministra Kolei z dnia 20 października 1925 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych o zmianach i uzupełnieniach części I Taryfy Ogólnej na przewóz towarów, zwłok i zwierząt kolejami żelaznemi w Polsce, obowiązującej od dnia 1 maja 1925 r.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-10-20",
+  "repealDate": "1928-03-01",
+  "changeDate": "2020-09-23T13:40:22",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1928/103",
+     "date": "1928-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/580"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250782.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250782.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
