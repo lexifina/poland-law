@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/246",
+ "source_sha256": "38f6d0da1e3b876bf341a98c39435bdac757e3588ec7de5ce27ee4d802a3713a",
+ "in_force": "1938-04-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/246",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/246/text/O/D19380246.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/246/text/I/D19380246.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/246",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 27,
+  "pos": 246,
+  "address": "WDU19380270246",
+  "displayAddress": "Dz.U. 1938 nr 27 poz. 246",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 12 marca 1938 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o państwowych zakładach chowu koni i o dostarczaniu ogierów dla hodowli.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-03-12",
+  "promulgation": "1938-04-20",
+  "repealDate": "1949-10-14",
+  "changeDate": "2014-12-31T12:25:24",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zwierzęta hodowlane",
+   "hodowla"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/405",
+     "date": "1949-10-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1937/191"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1937/191",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/435"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380246.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380246.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
