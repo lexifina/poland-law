@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1969/283",
+ "source_sha256": "a7092aa1d8dff511e95f0522d9ae9b04cae1af164175f36c7a25630b1ffd6411",
+ "in_force": "1970-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1969/283",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1969/283/text/O/D19690283.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1969/283/text/I/D19690283.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1969/283",
+  "publisher": "DU",
+  "year": 1969,
+  "volume": 33,
+  "pos": 283,
+  "address": "WDU19690330283",
+  "displayAddress": "Dz.U. 1969 nr 33 poz. 283",
+  "title": "Rozporządzenie Ministrów Sprawiedliwości i Obrony Narodowej z dnia 11 listopada 1969 r. w sprawie zawiadamiania o orzeczeniach w sprawach karnych dotyczących osób podlegających obowiązkowi służby wojskowej lub służby w formacjach samoobrony.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-11-11",
+  "entryIntoForce": "1970-01-01",
+  "validFrom": "1970-01-01",
+  "repealDate": "1980-02-08",
+  "changeDate": "2014-12-31T12:24:10",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/17",
+     "date": "1980-02-08"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1964/355",
+     "date": "1970-01-01"
+    },
+    {
+     "id": "MP/1960/181",
+     "date": "1970-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19690283.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19690283.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
