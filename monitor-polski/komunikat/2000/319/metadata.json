@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/319",
+ "source_sha256": "8726788f4722938f0c019bbb26111d1a5c04f80420f5a46ce144588b7aa916ed",
+ "in_force": "2000-05-13",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/319",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/319/text/O/M20000319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/319/text/I/M20000319.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/319",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 14,
+  "pos": 319,
+  "address": "WMP20000140319",
+  "displayAddress": "M.P. 2000 nr 14 poz. 319",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 13 maja 2000 r. w sprawie kwoty świadczenia pieniężnego przysługującego osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-13",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca przymusowa",
+   "świadczenia pieniężne",
+   "deportowani"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/395"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/395",
+     "art": "art. 3 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000319.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
