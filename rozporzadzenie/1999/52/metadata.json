@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/52",
+ "source_sha256": "c2b71405ee6121261deb01e3f8ef1ee57746f22f0d2abab9d53bb4bc8dbad5d1",
+ "in_force": "1999-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/52",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/52/text/O/D19990052.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/52/text/I/D19990052.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/52/text/T/D19990052L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/52",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 7,
+  "pos": 52,
+  "address": "WDU19990070052",
+  "displayAddress": "Dz.U. 1999 nr 7 poz. 52",
+  "title": "Rozporządzenie Rady Ministrów z dnia 20 stycznia 1999 r. w sprawie określenia wysokości odsetek ustawowych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-01-20",
+  "entryIntoForce": "1999-01-26",
+  "validFrom": "1999-02-01",
+  "repealDate": "2003-09-25",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki ustawowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/84",
+     "date": "1999-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/93",
+     "art": "art. 359 par. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2003/1613",
+     "date": "2003-09-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990052.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990052.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990052L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
