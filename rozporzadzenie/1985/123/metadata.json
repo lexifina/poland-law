@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1985/123",
+ "source_sha256": "c03d0f7d829c8c9fc7cc88a3c86fc0deb752aeaec959770ed290d346269ed382",
+ "in_force": "1985-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1985/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1985/123/text/O/D19850123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1985/123/text/I/D19850123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1985/123",
+  "publisher": "DU",
+  "year": 1985,
+  "volume": 28,
+  "pos": 123,
+  "address": "WDU19850280123",
+  "displayAddress": "Dz.U. 1985 nr 28 poz. 123",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 17 czerwca 1985 r. w sprawie komisji pojednawczych przy sądach pracy.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1985-06-17",
+  "promulgation": "1985-06-28",
+  "entryIntoForce": "1985-07-01",
+  "validFrom": "1985-07-01",
+  "repealDate": "1996-06-02",
+  "changeDate": "2014-12-31T12:25:36",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "prawo pracy",
+   "komisje",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1974/141"
+    },
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/85"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/85",
+     "art": "art. 2 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1996/110",
+     "date": "1996-06-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19850123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19850123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
