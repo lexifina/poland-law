@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/486",
+ "source_sha256": "b9ac80c31c584aef103b74ab183c1dd11d426707ff60b241a59484e9866b7360",
+ "in_force": "2001-08-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/486",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/486/text/O/M20010486.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/486/text/I/M20010486.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/486",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 28,
+  "pos": 486,
+  "address": "WMP20010280486",
+  "displayAddress": "M.P. 2001 nr 28 poz. 486",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 24 sierpnia 2001 r. w sprawie wskaźnika cen dóbr inwestycyjnych za II kwartał 2001 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-08-24",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwestycje",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010486.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010486.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
