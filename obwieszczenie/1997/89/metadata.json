@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/89",
+ "source_sha256": "661e3efc47445aa81d869b23fcd18f5c201066c2b104e13a2e5d04899f2d87eb",
+ "in_force": "1997-02-07",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/89",
+  "html": "https://eli.gov.pl/api/acts/DU/1997/89/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/89/text/O/D19970089.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/89/text/I/D19970089.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1997/89/text/U/D19970089Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/89",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 16,
+  "pos": 89,
+  "address": "WDU19970160089",
+  "displayAddress": "Dz.U. 1997 nr 16 poz. 89",
+  "title": "Obwieszczenie Ministra Finansów z dnia 7 lutego 1997 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-02-07",
+  "expirationDate": "2004-06-22",
+  "changeDate": "2024-03-15T11:35:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od spadków i darowizn"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/428"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1983/207"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19970089.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970089.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19970089Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
