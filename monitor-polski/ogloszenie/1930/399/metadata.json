@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/399",
+ "source_sha256": "7593091f4d55c91db4a47ba4f31e73817617c52f483bdab59d271010a80a5317",
+ "in_force": "1930-12-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/399",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/399/text/O/M19300399.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/399/text/I/M19300399.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/399",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 286,
+  "pos": 399,
+  "address": "WMP19302860399",
+  "displayAddress": "M.P. 1930 nr 286 poz. 399",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego z dnia 10 grudnia 1930 r. L. dz. 2158/30",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-12-10",
+  "promulgation": "1930-12-12",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 102"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 103"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300399.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300399.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
