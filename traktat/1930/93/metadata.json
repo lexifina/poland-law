@@ -1,0 +1,61 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/93",
+ "source_sha256": "f544329484ad6f1acf45a6f59993cbcdd692d0ec769d2e75d5752887f36e21b4",
+ "in_force": "1929-12-23",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/93",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/93/text/O/D19300093.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/93/text/I/D19300093.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/93",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 13,
+  "pos": 93,
+  "address": "WDU19300130093",
+  "displayAddress": "Dz.U. 1930 nr 13 poz. 93",
+  "title": "Traktat koncyljacyjno-arbitrażowy między Polską a Węgrami, podpisany w Warszawie dnia 30 listopada 1928 roku.",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1929-12-23",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "arbitraż",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Węgry"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1930/94"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300093.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300093.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
