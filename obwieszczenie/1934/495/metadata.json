@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/495",
+ "source_sha256": "1582ec5cd9dc710fc4fa130002ebfa3df788f0cce828bfa7dbfc22165d53964e",
+ "in_force": "1934-06-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/495",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/495/text/O/D19340495.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/495/text/I/D19340495.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/495",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 55,
+  "pos": 495,
+  "address": "WDU19340550495",
+  "displayAddress": "Dz.U. 1934 nr 55 poz. 495",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 16 czerwca 1934 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 29 października 1920 r. o spółdzielniach.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-06-16",
+  "promulgation": "1934-06-27",
+  "repealDate": "1961-06-05",
+  "changeDate": "2017-12-05T16:00:55",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/61",
+     "date": "1961-06-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/342"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/342",
+     "art": "art. 4"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1920/733"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340495.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340495.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
