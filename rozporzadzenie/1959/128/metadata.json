@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1959/128",
+ "source_sha256": "369f45ffe763e8e879091428b427646b0f60251a54460f22f617eb2e52b3c899",
+ "in_force": "1959-03-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1959/128",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1959/128/text/O/D19590128.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1959/128/text/I/D19590128.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1959/128",
+  "publisher": "DU",
+  "year": 1959,
+  "volume": 20,
+  "pos": 128,
+  "address": "WDU19590200128",
+  "displayAddress": "Dz.U. 1959 nr 20 poz. 128",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 2 marca 1959 r. w sprawie kwalifikacji wymaganych od lekarzy w zakładach opieki zdrowotnej zamkniętej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-03-02",
+  "entryIntoForce": "1959-03-23",
+  "validFrom": "1959-03-23",
+  "repealDate": "1962-07-11",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1962/176",
+     "date": "1962-07-11"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1957/73",
+     "date": "1959-03-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/434"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19590128.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19590128.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
