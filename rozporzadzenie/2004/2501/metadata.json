@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2501",
+ "source_sha256": "de623121f756cff802a5ebc40135f298703b0af489b9ee8259ebd7e9b0916bdc",
+ "in_force": "2004-12-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2501",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2501/text/O/D20042501.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2501/text/I/D20042501.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2501",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 249,
+  "pos": 2501,
+  "address": "WDU20042492501",
+  "displayAddress": "Dz.U. 2004 nr 249 poz. 2501",
+  "title": "Rozporządzenie Ministra obrony Narodowej z dnia 3 listopada 2004 r. zmieniające rozporządzenie w sprawie wojskowych rzeczników dyscyplinarnych",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-11-03",
+  "promulgation": "2004-11-23",
+  "entryIntoForce": "2004-12-08",
+  "validFrom": "2004-12-08",
+  "repealDate": "2009-03-10",
+  "changeDate": "2014-12-31T12:26:03",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/184",
+     "date": "2009-03-10"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/1292",
+     "date": "2004-12-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/944"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/944",
+     "art": "art. 48"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20042501.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042501.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
