@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/63",
+ "source_sha256": "6fd31bb6cf3b332318169cabd2b775ee3015f194e3db112286f3f9bf3eb86933",
+ "in_force": "1970-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/63",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/63/text/O/M19700063.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/63/text/I/M19700063.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/63",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 6,
+  "pos": 63,
+  "address": "WMP19700060063",
+  "displayAddress": "M.P. 1970 nr 6 poz. 63",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 28 lutego 1970 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-02-28",
+  "entryIntoForce": "1970-03-01",
+  "validFrom": "1970-03-01",
+  "repealDate": "1970-04-01",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1970/84",
+     "date": "1970-04-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1970/32",
+     "date": "1970-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700063.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700063.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
