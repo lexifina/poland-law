@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/617",
+ "source_sha256": "92de991fe1eff7fb1c753ea4a7b746a00d4229d2152a0470fc1cde4539bcfdbc",
+ "in_force": "1999-07-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 202 words, parsed 143; at 139: '2 konwencji zamiast brzmienia : „ Rzeczpospolita Polska udzieli ochrony'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/617",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/617/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/617/text/O/D19990617.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/617/text/I/D19990617.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/617",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 57,
+  "pos": 617,
+  "address": "WDU19990570617",
+  "displayAddress": "Dz.U. 1999 nr 57 poz. 617",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 9 czerwca 1999 r. o sprostowaniu błędu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-09",
+  "entryIntoForce": "1999-07-10",
+  "validFrom": "1999-07-10",
+  "changeDate": "2024-03-15T11:35:04",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1997/801"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990617.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990617.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
