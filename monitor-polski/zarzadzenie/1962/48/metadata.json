@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/48",
+ "source_sha256": "d4f5ba1fd65e11bbcac30a584b66539b2e5f7131561de1acd832d150c5f076ef",
+ "in_force": "1962-02-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/48/text/O/M19620048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/48/text/I/M19620048.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/48",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 12,
+  "pos": 48,
+  "address": "WMP19620120048",
+  "displayAddress": "M.P. 1962 nr 12 poz. 48",
+  "title": "Zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 13 stycznia 1962 r. w sprawie sprawozdawczości z wykonanych zabiegów przerwania ciąży.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-01-13",
+  "entryIntoForce": "1962-02-09",
+  "validFrom": "1962-02-09",
+  "repealDate": "1980-12-02",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1980/110",
+     "date": "1980-12-02"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/14",
+     "date": "1962-02-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1960/15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
