@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1960/326",
+ "source_sha256": "5b4b743ab43a8038e94ab5ee11e1275369ee4abe43c7de0afe4bdac59ea819bc",
+ "in_force": "1960-12-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1960/326",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1960/326/text/O/D19600326.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1960/326/text/I/D19600326.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1960/326",
+  "publisher": "DU",
+  "year": 1960,
+  "volume": 58,
+  "pos": 326,
+  "address": "WDU19600580326",
+  "displayAddress": "Dz.U. 1960 nr 58 poz. 326",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 27 grudnia 1960 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 31 października 1957 r. - Ordynacja wyborcza do rad narodowych.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-12-27",
+  "expirationDate": "1973-09-08",
+  "changeDate": "2017-11-23T15:43:52",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/323"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/323",
+     "art": "art. 5"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1957/270"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19600326.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19600326.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
