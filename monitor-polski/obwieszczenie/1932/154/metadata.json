@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/154",
+ "source_sha256": "fe4d5dfaa6ee102a91543a27335d4620a9b4d7ace66af01a3de6ae3acd2bbfb4",
+ "in_force": "1932-05-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/154",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/154/text/O/M19320154.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/154/text/I/M19320154.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/154",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 122,
+  "pos": 154,
+  "address": "WMP19321220154",
+  "displayAddress": "M.P. 1932 nr 122 poz. 154",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 27 maja 1932 r. z wykazem miejscowości, leżących w pasie granicznym polsko-rumuńskim.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-05-27",
+  "promulgation": "1932-05-31",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "granice państwa",
+   "przejścia graniczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1931/80"
+    },
+    {
+     "id": "DU/1931/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1931/492",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320154.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320154.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
