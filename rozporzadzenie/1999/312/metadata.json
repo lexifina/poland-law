@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/312",
+ "source_sha256": "c8e53c8b886e5597bef123bd1cb42c8b38e39a474b6cee372b4dfe28f5f3b3db",
+ "in_force": "1999-04-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/312/text/O/D19990312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/312/text/I/D19990312.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/312/text/T/D19990312L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/312",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 32,
+  "pos": 312,
+  "address": "WDU19990320312",
+  "displayAddress": "Dz.U. 1999 nr 32 poz. 312",
+  "title": "Rozporządzenie Rady Ministrów z dnia 8 kwietnia 1999 r. zmieniające rozporządzenie w sprawie nadania statutu Państwowemu Urzędowi Nadzoru Ubezpieczeń.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-04-08",
+  "entryIntoForce": "1999-04-30",
+  "validFrom": "1999-04-30",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Państwowy Urząd Nadzoru Ubezpieczeń"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/705",
+     "date": "1999-04-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/344"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/344",
+     "art": "art. 82c ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990312.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990312L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
