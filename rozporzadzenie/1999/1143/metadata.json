@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1143",
+ "source_sha256": "1b37431b2d080c2e81a31fd9f9a1e26fa05ba1d069296c4218fbd415d4b51810",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1143",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1143/text/O/D19991143.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1143/text/I/D19991143.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1143/text/T/D19991143L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1143",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 98,
+  "pos": 1143,
+  "address": "WDU19990981143",
+  "displayAddress": "Dz.U. 1999 nr 98 poz. 1143",
+  "title": "Rozporządzenie Ministra Finansów z dnia 29 listopada 1999 r. w sprawie kas rejestrujących.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-11-29",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "repealDate": "2001-01-01",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kasy rejestrujące",
+   "podatek akcyzowy",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1999/598",
+     "date": "2000-01-01"
+    },
+    {
+     "id": "DU/1998/953",
+     "date": "2000-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/50"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/50",
+     "art": "art. 29 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2000/1295",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991143.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991143.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991143L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
