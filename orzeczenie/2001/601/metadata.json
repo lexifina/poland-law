@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/601",
+ "source_sha256": "674462ffd9e1d4fce4269c74fbdc621dbc87f164fda69af4ca3e3e495e7ac523",
+ "in_force": "2001-06-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 683 words, parsed 83; at 83: 'RP o stwierdzenie niezgodności : 1 ) art . 25'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/601",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/601/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/601/text/O/D20010601.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/601/text/I/D20010601.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/601/text/T/D20010601L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/601",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 57,
+  "pos": 601,
+  "address": "WDU20010570601",
+  "displayAddress": "Dz.U. 2001 nr 57 poz. 601",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 29 maja 2001 r. sygn. akt K. 5/2001.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-05-29",
+  "promulgation": "2001-06-09",
+  "entryIntoForce": "2001-06-09",
+  "validFrom": "2001-06-09",
+  "changeDate": "2024-03-15T10:00:51",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "spółdzielczość mieszkaniowa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/27",
+     "date": "2001-06-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/27"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010601.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010601.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010601L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
