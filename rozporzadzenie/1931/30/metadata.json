@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/30",
+ "source_sha256": "2d3bcee6d3aba4e0ab80b957bd5951accfe3096f9b6bd113eb69884302b2d2ac",
+ "in_force": "1931-01-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/30/text/O/D19310030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/30/text/I/D19310030.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/30",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 6,
+  "pos": 30,
+  "address": "WDU19310060030",
+  "displayAddress": "Dz.U. 1931 nr 6 poz. 30",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 28 sierpnia 1930 r. o wydawaniu z aptek środków lekarskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-08-28",
+  "promulgation": "1931-01-26",
+  "repealDate": "1956-10-05",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1956/197",
+     "date": "1956-10-05"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1949/45",
+     "date": "1949-02-18"
+    },
+    {
+     "id": "DU/1931/486",
+     "date": "1931-07-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/371"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1919/371",
+     "art": "art. 10"
+    },
+    {
+     "id": "DU/1919/371",
+     "art": "art. 2 p. 13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
