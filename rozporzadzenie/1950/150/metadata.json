@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/150",
+ "source_sha256": "061fef84962ae277bbe7ddd2b729efd210c04a7db82ffaf0fc08f9e8ebd52ba8",
+ "in_force": "1950-04-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/150",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/150/text/O/D19500150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/150/text/I/D19500150.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/150",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 17,
+  "pos": 150,
+  "address": "WDU19500170150",
+  "displayAddress": "Dz.U. 1950 nr 17 poz. 150",
+  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 3 kwietnia 1950 r. zmieniające rozporządzenie w sprawie wykonania ustawy o nadzorze nad hodowlą bydła, trzody chlewnej i owiec.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-04-03",
+  "entryIntoForce": "1950-04-24",
+  "validFrom": "1950-04-24",
+  "repealDate": "1955-02-15",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1937/291",
+     "date": "1950-04-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/296"
+    },
+    {
+     "id": "DU/1946/265"
+    },
+    {
+     "id": "DU/1934/349"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1955/34",
+     "date": "1955-02-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
