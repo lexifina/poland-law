@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/34",
+ "source_sha256": "a49ee5b70f9d7134c1d07a52206b4c75f4bd91a1450b591f4cd40d6640baef7e",
+ "in_force": "1945-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/34",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/34/text/O/D19450034.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/34/text/I/D19450034.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/34",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 7,
+  "pos": 34,
+  "address": "WDU19450070034",
+  "displayAddress": "Dz.U. 1945 nr 7 poz. 34",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 3 marca 1945 r. w sprawie uchylenia rozporządzenia Ministra Sprawiedliwości z dnia 4 czerwca 1938 r. o zamknięciu list adwokatów i list aplikantów adwokackich.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-03-03",
+  "entryIntoForce": "1945-03-10",
+  "validFrom": "1945-03-10",
+  "repealDate": "1945-03-11",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura",
+   "aplikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1938/334",
+     "date": "1945-03-10"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/34",
+     "date": "1945-03-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/289"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/34",
+     "date": "1945-03-11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450034.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450034.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
