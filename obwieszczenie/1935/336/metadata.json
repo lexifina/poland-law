@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/336",
+ "source_sha256": "fce79f8c644dc5382ede5ca2c0b534f6a4978cfe46693dcae9217064eb145e88",
+ "in_force": "1935-07-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/336",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/336/text/O/D19350336.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/336/text/I/D19350336.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/336",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 50,
+  "pos": 336,
+  "address": "WDU19350500336",
+  "displayAddress": "Dz.U. 1935 nr 50 poz. 336",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 12 czerwca 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 marca 1932 r. o spłacie zaległości podatkowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-06-12",
+  "promulgation": "1935-07-17",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/202"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/202",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1932/291"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350336.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350336.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
