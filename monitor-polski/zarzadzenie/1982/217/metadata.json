@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/217",
+ "source_sha256": "c879d4229097ccbf6e9649a30b30d307417d849920e6ded60ae92a2fa022073f",
+ "in_force": "1982-10-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/217",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/217/text/O/M19820217.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/217/text/I/M19820217.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/217",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 24,
+  "pos": 217,
+  "address": "WMP19820240217",
+  "displayAddress": "M.P. 1982 nr 24 poz. 217",
+  "title": "Zarządzenie Ministra - Kierownika Urzędu Gospodarki Morskiej z dnia 5 października 1982 r. zmieniające zarządzenie w sprawie utworzenia, organizacji i właściwości miejscowej urzędów morskich.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-10-05",
+  "entryIntoForce": "1982-10-15",
+  "validFrom": "1982-10-15",
+  "repealDate": "1991-10-31",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "MIN. KIEROWNIK URZĘDU GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie urzędy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1991/438",
+     "date": "1991-10-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1955/749",
+     "date": "1982-10-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1955/35"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1955/35",
+     "art": "art. 3 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820217.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820217.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
