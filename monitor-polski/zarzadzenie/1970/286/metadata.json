@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/286",
+ "source_sha256": "837ce0a527a1ab12fd635f1726f896820a74d226199a308b0ebd5b5f7a08d7f2",
+ "in_force": "1970-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/286",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/286/text/O/M19700286.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/286/text/I/M19700286.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/286",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 39,
+  "pos": 286,
+  "address": "WMP19700390286",
+  "displayAddress": "M.P. 1970 nr 39 poz. 286",
+  "title": "Zarządzenie Ministra Finansów z dnia 5 listopada 1970 r. zmieniające zarządzenie w sprawie ulg w podatku gruntowym dla gospodarstw rolnych kontraktujących zboże.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-11-05",
+  "entryIntoForce": "1970-12-01",
+  "validFrom": "1970-12-01",
+  "repealDate": "1971-11-29",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1971/357",
+     "date": "1971-11-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1967/197",
+     "date": "1970-12-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/283"
+    },
+    {
+     "id": "DU/1950/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/283",
+     "art": "art. 12 ust. 1 pkt 1"
+    },
+    {
+     "id": "DU/1950/452",
+     "art": "art. 3 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700286.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700286.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
