@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/418",
+ "source_sha256": "6658c7c9c28ce705429a73f7cb8fd2d476fc53c1fe029ea5234034f62edfed2e",
+ "in_force": "1931-05-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/418",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/418/text/O/D19310418.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/418/text/I/D19310418.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/418",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 49,
+  "pos": 418,
+  "address": "WDU19310490418",
+  "displayAddress": "Dz.U. 1931 nr 49 poz. 418",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 23 maja 1931 r. o ponownych wyborach do Sejmu w okręgu nr 9.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-05-23",
+  "promulgation": "1931-05-23",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 109 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310418.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310418.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
