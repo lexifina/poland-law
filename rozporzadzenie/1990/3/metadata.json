@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/3",
+ "source_sha256": "e9d402f7a23a817547070754f79c483e9de6f4c635dca5f58e45e0234106c323",
+ "in_force": "1990-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/3/text/O/D19900003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/3/text/I/D19900003.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/3",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 1,
+  "pos": 3,
+  "address": "WDU19900010003",
+  "displayAddress": "Dz.U. 1990 nr 1 poz. 3",
+  "title": "Rozporządzenie Rady Ministrów z dnia 31 grudnia 1989 r. w sprawie ustalenia wysokości współczynników korygujących oraz określenia przeciętnego miesięcznego wynagrodzenia stanowiącego podstawę ustalenia normy wynagrodzeń u podatników, którzy podjęli działalność po dniu 30 września 1989 r.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1989-12-31",
+  "promulgation": "1990-01-01",
+  "entryIntoForce": "1990-01-01",
+  "validFrom": "1990-01-01",
+  "changeDate": "2021-11-10T14:50:01",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "podatki",
+   "opodatkowanie wzrostu wynagrodzeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/438"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/438",
+     "art": "art. 4 ust. 4"
+    },
+    {
+     "id": "DU/1989/438",
+     "art": "art. 5 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
