@@ -1,0 +1,3 @@
+W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 8 grudnia 1992 r. sygn. akt K 3/92 i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470 i z 1993 r. Nr 47, poz. 213) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. (Dz. U. z 1993 r. Nr 105, poz. 481) ogłaszam utratę mocy obowiązującej art. 43 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. Nr 30, poz. 127, Nr 103, poz. 446 i Nr 107, poz. 464 oraz z 1993 r. Nr 47, poz. 212).
+
+Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
