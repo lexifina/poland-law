@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/98",
+ "source_sha256": "b1ebba7c550209e4cd7915a908f70c1f8bb34fb5306c9c4397305a6bae480bea",
+ "in_force": "1972-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/98",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/98/text/O/M19720098.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/98/text/I/M19720098.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/98",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 15,
+  "pos": 98,
+  "address": "WMP19720150098",
+  "displayAddress": "M.P. 1972 nr 15 poz. 98",
+  "title": "Zarządzenie nr 24 Prezesa Rady Ministrów z dnia 29 lutego 1972 r. zmieniające zarządzenie w sprawie ogólnych zasad organizacji obsługi prawnej przedsiębiorstw państwowych, zjednoczeń oraz banków państwowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-02-29",
+  "entryIntoForce": "1972-03-11",
+  "validFrom": "1972-03-11",
+  "repealDate": "1983-03-15",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/56",
+     "date": "1983-03-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/270",
+     "date": "1972-03-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1961/406"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1961/406",
+     "art": "par. 2 ust. 3"
+    },
+    {
+     "id": "MP/1961/406",
+     "art": "par. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720098.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720098.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
