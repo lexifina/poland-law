@@ -1,0 +1,1 @@
+Nawiązując do Porozumienia o zaproszeniu Rzeczypospolitej Polskiej do przystąpienia do Organizacji Współpracy Gospodarczej i Rozwoju, podpisanego w Paryżu dnia 11 lipca 1996 r., stanowi się, co następuje:
