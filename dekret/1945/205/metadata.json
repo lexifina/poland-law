@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/205",
+ "source_sha256": "0ea18523c6093911908e0964d99efcf5e68a3ed8bb4cb51f6ab73c6d552e5104",
+ "in_force": "1945-09-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/205",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/205/text/O/D19450205.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/205/text/I/D19450205.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/205",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 34,
+  "pos": 205,
+  "address": "WDU19450340205",
+  "displayAddress": "Dz.U. 1945 nr 34 poz. 205",
+  "title": "Dekret z dnia 24 sierpnia 1945 r. o zmianie ustawy z dnia 29 października 1920 r. o spółdzielniach.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-08-24",
+  "entryIntoForce": "1945-09-19",
+  "validFrom": "1945-09-19",
+  "repealDate": "1961-06-05",
+  "changeDate": "2018-05-15T14:49:19",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/61",
+     "date": "1961-06-05"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1920/733",
+     "date": "1945-09-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450205.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450205.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
