@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/685",
+ "source_sha256": "f1bf3d4e00cc96eb7c7a91d3660f84aaa0093ed75ea3681403667f2498a71b79",
+ "in_force": "1999-08-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/685",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/685/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/685/text/O/D19990685.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/685/text/I/D19990685.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/685/text/T/D19990685L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/685",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 62,
+  "pos": 685,
+  "address": "WDU19990620685",
+  "displayAddress": "Dz.U. 1999 nr 62 poz. 685",
+  "title": "Ustawa z dnia 18 czerwca 1999 r. o zmianie ustawy o portach i przystaniach morskich.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-06-18",
+  "promulgation": "1999-07-23",
+  "entryIntoForce": "1999-08-07",
+  "validFrom": "1999-08-07",
+  "changeDate": "2024-03-15T11:34:16",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "porty morskie"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1043.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1043",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1043",
+    "number": "1043",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1766",
+     "date": "2004-08-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/44",
+     "date": "1999-08-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1996/561"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990685.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990685.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990685L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
