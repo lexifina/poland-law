@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1993/303",
+ "source_sha256": "5d22c14fb43305f52f4dbbe81c057dc058c66e0a093ff1493fa972df7760dd21",
+ "in_force": "1993-07-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1993/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1993/303/text/O/D19930303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1993/303/text/I/D19930303.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1993/303",
+  "publisher": "DU",
+  "year": 1993,
+  "volume": 63,
+  "pos": 303,
+  "address": "WDU19930630303",
+  "displayAddress": "Dz.U. 1993 nr 63 poz. 303",
+  "title": "Rozporządzenie Ministra Łączności z dnia 30 czerwca 1993 r. w sprawie urządzeń, linii i sieci telekomunikacyjnych, których zakładanie i używanie nie wymaga zezwolenia.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1993-06-30",
+  "entryIntoForce": "1993-07-16",
+  "validFrom": "1993-07-16",
+  "repealDate": "1995-11-02",
+  "changeDate": "2014-12-31T12:25:40",
+  "releasedBy": [
+   "MIN. ŁĄCZNOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "telekomunikacja",
+   "łączność"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1995/571",
+     "date": "1995-11-02"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1991/154",
+     "date": "1993-07-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/504"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/504",
+     "art": "art. 13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19930303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19930303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
