@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/916",
+ "source_sha256": "5bfac716545a9ce68ed28780bea8bcda1cd9c482387bae67c03c0bba23b1c004",
+ "in_force": "1999-10-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1056 words, parsed 73; at 73: '2 Konstytucji połączonych wniosków : 1 ) Zarządu Krajowego Ogólnopolskiego'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/916",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/916/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/916/text/O/D19990916.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/916/text/I/D19990916.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/916/text/T/D19990916L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/916",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 80,
+  "pos": 916,
+  "address": "WDU19990800916",
+  "displayAddress": "Dz.U. 1999 nr 80 poz. 916",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 października 1999 r. sygn. akt U. 4/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-10-05",
+  "entryIntoForce": "1999-10-08",
+  "validFrom": "1999-10-08",
+  "changeDate": "2024-03-15T11:34:59",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/873",
+     "date": "1999-10-08"
+    },
+    {
+     "id": "DU/1998/1069",
+     "date": "1999-10-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1997/153"
+    },
+    {
+     "id": "DU/1997/1080"
+    },
+    {
+     "id": "DU/1995/163"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/873"
+    },
+    {
+     "id": "DU/1998/1069"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990916.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990916.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990916L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
