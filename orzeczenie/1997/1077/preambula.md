@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Wojciech Sokolewicz - przewodniczący,
+
+Lech Garlicki,
+
+Stefan Jaworski - sprawozdawca,
+
+Jadwiga Skórzewska-Łosiak,
+
+Marian Zdyb,
+
+protokolant: Joanna Szymczak
+
+po rozpoznaniu na rozprawie w dniu 22 grudnia 1997 r. sprawy z wniosku Ogólnokrajowego Zrzeszenia Związków Zawodowych Pracowników Ruchu Ciągłego, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczypospolitej Polskiej, Prokuratora Generalnego oraz Ministra Pracy i Polityki Socjalnej, o stwierdzenie zgodności art. 17 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. Nr 24, poz. 110), w drugiej części zdania tego przepisu, z art. 1, art. 67 ust. 2, art. 68 i art. 69 ust. 2 przepisów konstytucyjnych utrzymanych w mocy na podstawie art. 77 ustawy konstytucyjnej z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym (Dz. U. Nr 84, poz. 426 ze zm.), a obecnie odpowiednio z art. 2, art. 32 ust. 1 i art. 66 ust. 2 Konstytucji Rzeczypospolitej Polskiej, a także z art. 64 ust. 2 tej Konstytucji,
+
+orzeka:
+
+Art. 17 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. Nr 24, poz. 110) w części stanowiącej, iż „nie dotyczy rozporządzenia Rady Ministrów z dnia 23 grudnia 1988 r. w sprawie czasu pracy w zakładach pracy (Dz. U. z 1991 r. Nr 117, poz. 511, z 1992 r. Nr 102, poz. 518, z 1993 r. Nr 132, poz. 634 i z 1994 r. Nr 140, poz. 768)”, jest zgodny z art. 2, art. 32 ust. 1, art. 64 ust. 2 i art. 66 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
