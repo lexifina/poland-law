@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/121",
+ "source_sha256": "e440164a13d7a8a7f02647cf255fee007fa533e101bab12921ef7fa339b79325",
+ "in_force": "1933-05-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/121/text/O/M19330121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/121/text/I/M19330121.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/121",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 101,
+  "pos": 121,
+  "address": "WMP19331010121",
+  "displayAddress": "M.P. 1933 nr 101 poz. 121",
+  "title": "Zarządzenie Ministra Przemysłu i Handlu z dnia 25 kwietnia 1933 r. w sprawie uzupełniającego powołania przez zrzeszenie gospodarcze radcy do Izby Przemysłowo Handlowej w Warszawie",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-04-25",
+  "promulgation": "1933-05-02",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby przemysłowo-handlowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1931/144"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/591"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/591",
+     "art": "art. 9 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330121.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
