@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/220",
+ "source_sha256": "377a5f04c2dff84990e861d4cb12741b16603168ffb89e378879aee7066824e9",
+ "in_force": "1972-08-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/220",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/220/text/O/M19720220.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/220/text/I/M19720220.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/220",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 40,
+  "pos": 220,
+  "address": "WMP19720400220",
+  "displayAddress": "M.P. 1972 nr 40 poz. 220",
+  "title": "Zarządzenie Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 19 lipca 1972 r. w sprawie sporządzania kalkulacji wstępnej prac badawczych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-07-19",
+  "entryIntoForce": "1972-08-18",
+  "validFrom": "1972-08-18",
+  "repealDate": "1974-04-17",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. NAUKI, SZKOLNICTWA WYŻSZEGO I TECHNIKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/110",
+     "date": "1974-04-17"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1970/271",
+     "date": "1972-08-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1972/59"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1972/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1972/59",
+     "art": "par. 10 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720220.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720220.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
