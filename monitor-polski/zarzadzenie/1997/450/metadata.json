@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1997/450",
+ "source_sha256": "a0ff6aab9ca94a21988292b0b36e64dd284cf33e6c59d2e6fe9680d3a0796030",
+ "in_force": "1997-07-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1997/450",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1997/450/text/O/M19970450.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1997/450/text/I/M19970450.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1997/450",
+  "publisher": "MP",
+  "year": 1997,
+  "volume": 46,
+  "pos": 450,
+  "address": "WMP19970460450",
+  "displayAddress": "M.P. 1997 nr 46 poz. 450",
+  "title": "Zarządzenie Ministra Finansów z dnia 23 lipca 1997 r. zmieniające zarządzenie w sprawie zaniechania ustalania i poboru podatku akcyzowego od paliw lotniczych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-07-23",
+  "entryIntoForce": "1997-07-29",
+  "validFrom": "1997-07-29",
+  "repealDate": "1998-02-01",
+  "changeDate": "2014-12-31T12:26:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statki powietrzne",
+   "paliwa i smary",
+   "podatek akcyzowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1998/3",
+     "date": "1998-02-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1997/206",
+     "date": "1997-07-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 8 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19970450.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19970450.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
