@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1933/181",
+ "source_sha256": "e70a8317c5c2778c2f9bef4223902c3ea77a4a3b49804da1e9b5170401fbef25",
+ "in_force": "1933-06-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1933/181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1933/181/text/O/M19330181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1933/181/text/I/M19330181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1933/181",
+  "publisher": "MP",
+  "year": 1933,
+  "volume": 139,
+  "pos": 181,
+  "address": "WMP19331390181",
+  "displayAddress": "M.P. 1933 nr 139 poz. 181",
+  "title": "Okólnik Ministerstwa Skarbu z dnia 7 czerwca 1933 r. L.D. IV. 12219/1/33 o zwalnianiu od cła druków, dotyczących zagranicznej propagandy turystycznej",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-06-07",
+  "promulgation": "1933-06-20",
+  "repealDate": "1934-02-21",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "turystyka",
+   "reklama"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1934/79",
+     "date": "1934-02-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1933/36"
+    },
+    {
+     "id": "MP/1932/176"
+    },
+    {
+     "id": "DU/1931/661"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19330181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19330181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
