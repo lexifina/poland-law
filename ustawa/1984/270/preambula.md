@@ -1,0 +1,1 @@
+W uznaniu szczególnych zasług artystów, twórców kultury narodowej oraz innych osób, które swoją pracą sprawiają, że wartości i humanistyczne treści narodowej kultury stają się własnością ogólnospołeczną, Sejm Polskiej Rzeczypospolitej Ludowej stanowi, co następuje:
