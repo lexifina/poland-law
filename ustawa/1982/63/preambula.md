@@ -1,0 +1,1 @@
+W uznaniu ofiarnej pracy pracowników morskich portów handlowych, mającej wpływ na prawidłowe funkcjonowanie gospodarki kraju, jak i na utrwalenie roli i znaczenia Polskiej Rzeczypospolitej Ludowej jako państwa morskiego, Sejm Polskiej Rzeczypospolitej Ludowej stanowi, co następuje:
