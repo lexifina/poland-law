@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/5",
+ "source_sha256": "5d07b182284f74f9f78c40bc0471807bf06af5bc3f7c76b42716dc2e7da57801",
+ "in_force": "1957-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/5",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/5/text/O/D19570005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/5/text/I/D19570005.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/5",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 1,
+  "pos": 5,
+  "address": "WDU19570010005",
+  "displayAddress": "Dz.U. 1957 nr 1 poz. 5",
+  "title": "Dekret z dnia 31 grudnia 1956 r. o zmianie dekretu o uchwaleniu i wykonywaniu budżetu Państwa.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-12-31",
+  "entryIntoForce": "1957-01-12",
+  "validFrom": "1957-01-12",
+  "repealDate": "1958-07-21",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1958/221",
+     "date": "1958-07-21"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1952/334",
+     "date": "1957-01-12"
+    },
+    {
+     "id": "DU/1950/130",
+     "date": "1957-01-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
