@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1994/2",
+ "source_sha256": "ff4be521a68487db5bfec753288edb72b7e932199a9dca9cabbdebca16c5eba7",
+ "in_force": "1994-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1994/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1994/2/text/O/M19940002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1994/2/text/I/M19940002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1994/2",
+  "publisher": "MP",
+  "year": 1994,
+  "volume": 2,
+  "pos": 2,
+  "address": "WMP19940020002",
+  "displayAddress": "M.P. 1994 nr 2 poz. 2",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 31 grudnia 1993 r. w sprawie odwołania członka Państwowej Komisji Wyborczej.",
+  "type": "Zarządzenie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1993-12-31",
+  "entryIntoForce": "1994-01-13",
+  "validFrom": "1994-01-13",
+  "changeDate": "2018-05-30T15:17:49",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/205"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/205",
+     "art": "art. 62 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19940002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19940002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
