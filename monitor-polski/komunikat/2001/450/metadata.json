@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/450",
+ "source_sha256": "0388d65adbd6092ce4c10ecc70bff7f447bda2e721c4ddec0f3760f92c0f6b86",
+ "in_force": "2001-08-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/450",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/450/text/O/M20010450.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/450/text/I/M20010450.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/450",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 27,
+  "pos": 450,
+  "address": "WMP20010270450",
+  "displayAddress": "M.P. 2001 nr 27 poz. 450",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z 9 sierpnia 2001 r. w sprawie przeciętnego wynagrodzenia w drugim kwartale 2001 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-08-09",
+  "changeDate": "2020-11-13T11:47:32",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010450.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010450.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
