@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1988/309",
+ "source_sha256": "8e8213a06611092796450631aaafc3cf6ccb9624a00a853ef2651f8d9ecb69b7",
+ "in_force": "1989-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1988/309",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1988/309/text/O/M19880309.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1988/309/text/I/M19880309.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1988/309",
+  "publisher": "MP",
+  "year": 1988,
+  "volume": 34,
+  "pos": 309,
+  "address": "WMP19880340309",
+  "displayAddress": "M.P. 1988 nr 34 poz. 309",
+  "title": "Obwieszczenie Prezesa Państwowego Zakładu Ubezpieczeń z dnia 5 grudnia 1988 r. w sprawie ogłoszenia taryfy składek za ubezpieczenie od kradzieży z włamaniem i rabunku.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-12-05",
+  "entryIntoForce": "1989-02-01",
+  "validFrom": "1989-01-01",
+  "repealDate": "1990-02-23",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "PREZ. PAŃSTWOWEGO ZAKŁADU UBEZPIECZEŃ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia majątkowe i osobowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1990/48",
+     "date": "1990-02-23"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1985/271",
+     "date": "1989-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/242"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/242",
+     "art": "art. 12 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19880309.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19880309.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
