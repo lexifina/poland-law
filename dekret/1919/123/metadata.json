@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/123",
+ "source_sha256": "917a53a27765be0a03472ef3ab6302eb6932779b959b560d1fd19cd2c2e1d198",
+ "in_force": "1919-01-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/123/text/O/D19190123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/123/text/I/D19190123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/123",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 9,
+  "pos": 123,
+  "address": "WDU19190090123",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 9 poz. 123",
+  "title": "Dekret o nabywaniu i posiadaniu broni i amunicji.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-01-25",
+  "entryIntoForce": "1919-01-29",
+  "validFrom": "1919-01-29",
+  "repealDate": "1933-01-01",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "NACZELNIK PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "broń, amunicja i materiały wybuchowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/807",
+     "date": "1933-01-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1920/266"
+    },
+    {
+     "id": "DU/1919/133"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1921/472",
+     "date": "1921-08-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
