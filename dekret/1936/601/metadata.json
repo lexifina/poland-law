@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/601",
+ "source_sha256": "546139f88a5136238236de2c4bf01114092030d8ee91ee978756ce05b745626f",
+ "in_force": "1937-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/601",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/601/text/O/D19360601.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/601/text/I/D19360601.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/601",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 86,
+  "pos": 601,
+  "address": "WDU19360860601",
+  "displayAddress": "Dz.U. 1936 nr 86 poz. 601",
+  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 9 listopada 1936 r. w sprawie zmiany ustawy z dnia 23 maja 1924 r. o powszechnym obowiązku wojskowym.",
+  "type": "Dekret",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-11-09",
+  "promulgation": "1936-11-10",
+  "entryIntoForce": "1937-01-01",
+  "validFrom": "1937-01-01",
+  "changeDate": "2020-09-23T13:37:01",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "powszechny obowiązek obrony",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1924/609",
+     "date": "1937-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/363"
+    },
+    {
+     "id": "DU/1935/227"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/363",
+     "art": "art. 1 pkt a"
+    },
+    {
+     "id": "DU/1935/227",
+     "art": "art. 55 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360601.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360601.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
