@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/6",
+ "source_sha256": "3a3243b77b819f8706bd85a502f2ff586c07d4ef77bbbd41d6a5acbdacc4e768",
+ "in_force": "1968-01-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/6/text/O/M19680006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/6/text/I/M19680006.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/6",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 1,
+  "pos": 6,
+  "address": "WMP19680010006",
+  "displayAddress": "M.P. 1968 nr 1 poz. 6",
+  "title": "Zarządzenie Prezesa Centralnego Urzędu Gospodarki Wodnej i Ministra Gospodarki Komunalnej z dnia 8 grudnia 1967 r. w sprawie wprowadzenia kontyngentowania wody, dostarczanej przez Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w Brzegu na rzecz jednostek gospodarczych.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-12-08",
+  "entryIntoForce": "1968-01-11",
+  "validFrom": "1968-01-11",
+  "repealDate": "1975-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PREZ. CENTRALNEGO URZĘDU GOSPODARKI WODNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1963/245"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/72"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/72",
+     "art": "art. 11 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1974/230",
+     "date": "1975-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
