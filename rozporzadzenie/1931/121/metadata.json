@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/121",
+ "source_sha256": "25fd7998f24112438b6b4891bf9bf1b9d8f2b81e809b7b73d41e5162ea3bdd0c",
+ "in_force": "1931-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/121/text/O/D19310121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/121/text/I/D19310121.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/121",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 20,
+  "pos": 121,
+  "address": "WDU19310200121",
+  "displayAddress": "Dz.U. 1931 nr 20 poz. 121",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 17 lutego 1931 r. zmieniające rozporządzenie Ministra Skarbu z dnia 1 kwietnia 1930 r. w sprawie poboru w okresie od 1 kwietnia 1930 r. do 31 marca 1931 r. nadzwyczajnego 10% dodatku do niektórych podatków i opłat stemplowych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-02-17",
+  "promulgation": "1931-03-11",
+  "entryIntoForce": "1931-03-11",
+  "validFrom": "1931-03-11",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1930/251",
+     "date": "1931-03-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/221",
+     "art": "art. 12"
+    },
+    {
+     "id": "DU/1930/221",
+     "art": "art. 14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310121.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
