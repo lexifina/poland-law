@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/995",
+ "source_sha256": "3e19dce30586cd31b0655c3c86850cbd1cecc8514e1853ba6b9f58bb74fbd254",
+ "in_force": "2002-08-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/995",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/995/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/995/text/O/D20020995.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/995/text/I/D20020995.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/995/text/T/D20020995L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/995",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 115,
+  "pos": 995,
+  "address": "WDU20021150995",
+  "displayAddress": "Dz.U. 2002 nr 115 poz. 995",
+  "title": "Ustawa z dnia 23 maja 2002 r. o zmianie ustawy - Prawo działalności gospodarczej i ustawy o funkcjach konsulów Rzeczypospolitej Polskiej.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-05-23",
+  "promulgation": "2002-07-24",
+  "entryIntoForce": "2002-08-08",
+  "validFrom": "2002-08-08",
+  "repealDate": "2015-11-01",
+  "changeDate": "2024-03-15T10:05:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsularne prawo",
+   "działalność gospodarcza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/379.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/379",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/379",
+    "number": "379",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2015/1274",
+     "date": "2015-11-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1808",
+     "date": "2004-08-21"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/1178",
+     "date": "2002-08-08"
+    },
+    {
+     "id": "DU/1984/34",
+     "date": "2002-08-08"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020995.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020995.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020995L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
