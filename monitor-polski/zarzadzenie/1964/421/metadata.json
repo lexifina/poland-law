@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/421",
+ "source_sha256": "0135a81e7fcea6204bfecd24a504d8b81c426baaa4fc4904356cd9abb138cc13",
+ "in_force": "1965-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/421",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/421/text/O/M19640421.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/421/text/I/M19640421.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/421",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 88,
+  "pos": 421,
+  "address": "WMP19640880421",
+  "displayAddress": "M.P. 1964 nr 88 poz. 421",
+  "title": "Zarządzenie Ministra Finansów z dnia 14 grudnia 1964 r. zmieniające zarządzenie w sprawie nadania państwowym jednostkom organizacyjnym formy zakładów budżetowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-12-14",
+  "entryIntoForce": "1965-01-01",
+  "validFrom": "1965-01-01",
+  "repealDate": "1965-06-28",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/189",
+     "date": "1965-06-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/3",
+     "date": "1965-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/221",
+     "art": "art. 11 ust. 4"
+    },
+    {
+     "id": "DU/1958/221",
+     "art": "art. 51"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640421.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640421.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
