@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1924/210",
+ "source_sha256": "24ee595c992da04505dae0935358410102270ad90e7d0ade9a3122c9a597690e",
+ "in_force": "1924-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1924/210",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1924/210/text/O/D19240210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1924/210/text/I/D19240210.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1924/210",
+  "publisher": "DU",
+  "year": 1924,
+  "volume": 19,
+  "pos": 210,
+  "address": "WDU19240190210",
+  "displayAddress": "Dz.U. 1924 nr 19 poz. 210",
+  "title": "Rozporządzenie Ministra Sprawiedliwości w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu z dnia 25 lutego 1924 r. w przedmiocie stosowania złotego do opłat w postępowaniu rejestrowem na obszarze sądów apelacyjnych: krakowskiego i lwowskiego oraz sądu okręgowego cieszyńskiego.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1924-02-25",
+  "entryIntoForce": "1924-03-01",
+  "validFrom": "1924-03-01",
+  "changeDate": "2020-09-23T10:51:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1923/1009",
+     "date": "1924-03-01"
+    },
+    {
+     "id": "DU/1922/751",
+     "date": "1924-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1923/1044"
+    },
+    {
+     "id": "DU/1922/751"
+    },
+    {
+     "id": "DU/1919/164"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19240210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19240210.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
