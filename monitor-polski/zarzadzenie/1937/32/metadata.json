@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/32",
+ "source_sha256": "297efe3a297a6f1d67315e3e9e54d4dd7081fecb4d6606e87c23de72239d5042",
+ "in_force": "1937-01-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/32",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/32/text/O/M19370032.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/32/text/I/M19370032.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/32",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 21,
+  "pos": 32,
+  "address": "WMP19370210032",
+  "displayAddress": "M.P. 1937 nr 21 poz. 32",
+  "title": "Zarządzenie Ministra Opieki Społecznej z dnia 18 stycznia 1937 r. w sprawie powołania Nadzwyczajnej Komisji Rozjemczej dla ustalenia warunków pracy i płacy robotników rolnych na obszarze województwa krakowskiego, na rok służbowy 1937/1938.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-01-18",
+  "promulgation": "1937-01-27",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "układy zbiorowe pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/686"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/686",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1924/686",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370032.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370032.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
