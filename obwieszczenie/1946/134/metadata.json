@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/134",
+ "source_sha256": "01db1144bc8a9aefcabc2b03e0ecfdd70e4e7ed7849f43f865d3ed7add9eb2fb",
+ "in_force": "1946-03-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/134/text/O/D19460134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/134/text/I/D19460134.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/134",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 19,
+  "pos": 134,
+  "address": "WDU19460190134",
+  "displayAddress": "Dz.U. 1946 nr 19 poz. 134",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 14 marca 1946 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 września 1927 r. o opodatkowaniu cukru.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-03-14",
+  "repealDate": "1947-03-27",
+  "changeDate": "2017-11-23T15:43:32",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/315"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/700"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/122",
+     "date": "1947-03-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460134.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
