@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1972/322",
+ "source_sha256": "976e4e306dee615cb5ce6928b526cfe4b1e4ce16cf61936acb24db87298ec9e6",
+ "in_force": "1973-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1972/322",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1972/322/text/O/D19720322.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1972/322/text/I/D19720322.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1972/322",
+  "publisher": "DU",
+  "year": 1972,
+  "volume": 50,
+  "pos": 322,
+  "address": "WDU19720500322",
+  "displayAddress": "Dz.U. 1972 nr 50 poz. 322",
+  "title": "Rozporządzenie Rady Ministrów z dnia 30 listopada 1972 r. w sprawie zmiany granic niektórych województw.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1972-11-30",
+  "entryIntoForce": "1973-01-01",
+  "validFrom": "1973-01-01",
+  "changeDate": "2022-04-12T13:13:59",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "administracyjny podział kraju"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/48"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/48",
+     "art": "art. 1 ust. 3"
+    },
+    {
+     "id": "DU/1950/48",
+     "art": "art. 5 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19720322.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19720322.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
