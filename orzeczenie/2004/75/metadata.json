@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/75",
+ "source_sha256": "e12003914fa624f34707328fb94073192ddcd4a22a9cb6f51ebca78d455702ad",
+ "in_force": "2004-01-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1070 words, parsed 55; at 55: 'Sejmu oraz Prokuratora Generalnego : 1 ) skargi konstytucyjnej spółki'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/75",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/75/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/75/text/O/D20040075.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/75/text/I/D20040075.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/75/text/T/D20040075TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/75",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 9,
+  "pos": 75,
+  "address": "WDU20040090075",
+  "displayAddress": "Dz.U. 2004 nr 9 poz. 75",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 stycznia 2004 r. sygn. akt SK 10/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-01-13",
+  "promulgation": "2004-01-23",
+  "entryIntoForce": "2004-01-23",
+  "validFrom": "2004-01-23",
+  "changeDate": "2024-03-15T09:56:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2005-07-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040075.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040075.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040075TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
