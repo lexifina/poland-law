@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/199",
+ "source_sha256": "8219008c8148930e3c26c02797bcd6f1e0b9bb544fc861d4feba1ee41698fdf2",
+ "in_force": "1936-05-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/199",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/199/text/O/M19360199.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/199/text/I/M19360199.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/199",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 112,
+  "pos": 199,
+  "address": "WMP19361120199",
+  "displayAddress": "M.P. 1936 nr 112 poz. 199",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego o powołaniu posła.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-05-13",
+  "promulgation": "1936-05-13",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/319"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/319",
+     "art": "art. 76"
+    },
+    {
+     "id": "DU/1935/319",
+     "art": "art. 81"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360199.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360199.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
