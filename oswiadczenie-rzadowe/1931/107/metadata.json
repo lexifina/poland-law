@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/107",
+ "source_sha256": "056e1f52e61b44366c2adc581b22cd7b8721a02230f3680e4b145d88c0248c3b",
+ "in_force": "1931-03-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/107",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/107/text/O/D19310107.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/107/text/I/D19310107.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/107",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 19,
+  "pos": 107,
+  "address": "WDU19310190107",
+  "displayAddress": "Dz.U. 1931 nr 19 poz. 107",
+  "title": "Oświadczenie rządowe z dnia 16 lutego 1931 r. w sprawie wymiany dokumentów ratyfikacyjnych polsko-niemieckiego układu waloryzacyjnego, podpisanego wraz z protokółami końcowemi w Berlinie dnia 5 lipca 1928 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1931-02-16",
+  "promulgation": "1931-03-07",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "waloryzacja",
+   "ratyfikacja"
+  ],
+  "keywordsNames": [
+   "Niemcy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1931/106"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1931/106",
+     "art": "art. 76"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310107.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310107.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
