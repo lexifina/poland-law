@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/211",
+ "source_sha256": "57a08a02cee4bcfec42e6f9c208f71fab2a5ad56ff798fbfe2cc0ecc24ffe91b",
+ "in_force": "1999-03-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 411 words, parsed 169; at 169: 'Konstytucji RP , orzeka : 1 . § 54 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/211",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/211/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/211/text/O/D19990211.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/211/text/I/D19990211.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/211/text/T/D19990211L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/211",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 22,
+  "pos": 211,
+  "address": "WDU19990220211",
+  "displayAddress": "Dz.U. 1999 nr 22 poz. 211",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 16 marca 1999 r. sygn. akt SK. 19/98",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-03-16",
+  "entryIntoForce": "1999-03-19",
+  "validFrom": "1999-03-19",
+  "changeDate": "2024-03-15T11:34:35",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "orzeczenie",
+   "wykładnia prawa"
+  ],
+  "keywordsNames": [
+   "Służba Więzienna",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1996/634",
+     "date": "2000-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/283"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1996/634"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990211.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990211.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990211L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
