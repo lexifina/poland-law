@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/102",
+ "source_sha256": "a4e275cf174229216514461f1d125fc21e124ed58b94d506e122536306622313",
+ "in_force": "1988-05-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/102/text/O/D19880102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/102/text/I/D19880102.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/102",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 14,
+  "pos": 102,
+  "address": "WDU19880140102",
+  "displayAddress": "Dz.U. 1988 nr 14 poz. 102",
+  "title": "Rozporządzenie Rady Ministrów z dnia 25 kwietnia 1988 r. zmieniające rozporządzenie w sprawie opłat drogowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-04-25",
+  "promulgation": "1988-05-19",
+  "entryIntoForce": "1988-05-19",
+  "validFrom": "1988-05-19",
+  "repealDate": "1990-04-08",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "drogi publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1990/104",
+     "date": "1990-04-08"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1986/238",
+     "date": "1988-05-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/60"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/60",
+     "art": "art. 13 ust. 2 pkt 1 lit. a) i b)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19880102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
