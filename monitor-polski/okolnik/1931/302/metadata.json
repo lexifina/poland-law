@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/302",
+ "source_sha256": "66fbc98951bd4b9c1f11854d07ea73965e666e3ea79f551702d13817069499f0",
+ "in_force": "1931-09-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/302/text/O/M19310302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/302/text/I/M19310302.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/302",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 224,
+  "pos": 302,
+  "address": "WMP19312240302",
+  "displayAddress": "M.P. 1931 nr 224 poz. 302",
+  "title": "Okólnik Ministerstwa Skarbu T.36",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-09-29",
+  "promulgation": "1931-09-29",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1928/556"
+    },
+    {
+     "id": "DU/1927/289"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
