@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/312",
+ "source_sha256": "eead47e89ab75d99559ce2df055118c0325eaf2643faab189610310d3fe12ca6",
+ "in_force": "2000-04-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/312/text/O/D20000312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/312/text/I/D20000312.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/312/text/T/D20000312L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/312",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 26,
+  "pos": 312,
+  "address": "WDU20000260312",
+  "displayAddress": "Dz.U. 2000 nr 26 poz. 312",
+  "title": "Rozporządzenie Ministra Finansów z dnia 27 marca 2000 r. w sprawie komisji opiniodawczej.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-03-27",
+  "entryIntoForce": "2000-04-25",
+  "validFrom": "2000-04-25",
+  "repealDate": "2009-10-31",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "komisje",
+   "pracownicy"
+  ],
+  "keywordsNames": [
+   "Służba Celna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/802"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/802",
+     "art": "art. 93 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2009/1323",
+     "date": "2009-10-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000312.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000312L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
