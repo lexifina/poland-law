@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/202",
+ "source_sha256": "6c0e0876f280770b930b14213fdbc8eb45509a097fdeecfec558c7dc2c517b5c",
+ "in_force": "1990-07-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/202",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/202/text/O/M19900202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/202/text/I/M19900202.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/202",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 26,
+  "pos": 202,
+  "address": "WMP19900260202",
+  "displayAddress": "M.P. 1990 nr 26 poz. 202",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 3 lipca 1990 r. w sprawie trybu zgłaszania radom gmin kandydatów na członków kolegiów do spraw wykroczeń.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-07-03",
+  "entryIntoForce": "1990-07-04",
+  "validFrom": "1990-07-04",
+  "repealDate": "2001-10-17",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "kolegia do spraw wykroczeń",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/251"
+    },
+    {
+     "id": "DU/1972/312"
+    },
+    {
+     "id": "DU/1971/118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1971/118",
+     "art": "art. 9 par. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/1149",
+     "date": "2001-10-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900202.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
