@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/529",
+ "source_sha256": "ae180f39f575afa93a03a2bcb0a5a63abee0294815d00ca5b34172c23bbebd10",
+ "in_force": "1995-09-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/529",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/529/text/O/M19950529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/529/text/I/M19950529.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/529",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 46,
+  "pos": 529,
+  "address": "WMP19950460529",
+  "displayAddress": "M.P. 1995 nr 46 poz. 529",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 11 września 1995 r. w sprawie wzorów pieczęci wojewódzkich i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-09-11",
+  "entryIntoForce": "1995-09-11",
+  "validFrom": "1995-09-11",
+  "repealDate": "2000-07-19",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "pieczęcie urzędowe",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2000/452",
+     "date": "2000-07-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1990/297",
+     "date": "1995-09-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 18 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950529.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
