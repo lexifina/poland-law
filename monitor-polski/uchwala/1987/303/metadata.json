@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/303",
+ "source_sha256": "44b1ffacce1876fb7b42aaecaa6c7b90ab3fd047ee659bcda1db5c4b122e497d",
+ "in_force": "1987-12-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/303/text/O/M19870303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/303/text/I/M19870303.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/303",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 36,
+  "pos": 303,
+  "address": "WMP19870360303",
+  "displayAddress": "M.P. 1987 nr 36 poz. 303",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 5 grudnia 1987 r. zmieniająca Regulamin Sejmu Polskiej Rzeczypospolitej Ludowej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-12-05",
+  "entryIntoForce": "1987-12-05",
+  "validFrom": "1987-12-05",
+  "repealDate": "1992-08-28",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Kancelaria Sejmu",
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1992/185",
+     "date": "1992-08-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1986/151",
+     "date": "1987-12-05"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
