@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/133",
+ "source_sha256": "56ec18d251fbc2d8ded839f6b185f5113210059ed0f22c0a95007ef18951b195",
+ "in_force": "1970-05-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/133",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/133/text/O/M19700133.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/133/text/I/M19700133.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/133",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 16,
+  "pos": 133,
+  "address": "WMP19700160133",
+  "displayAddress": "M.P. 1970 nr 16 poz. 133",
+  "title": "Obwieszczenie Przewodniczącego Komitetu Nauki i Techniki z dnia 26 maja 1970 r. w sprawie ogłoszenia jednolitego tekstu uchwały nr 306 Rady Ministrów z dnia 30 listopada 1965 r. w sprawie podnoszenia kwalifikacji pracowników zatrudnionych w gospodarce narodowej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-05-26",
+  "entryIntoForce": "1970-05-26",
+  "validFrom": "1970-05-26",
+  "repealDate": "1982-10-15",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PRZEW. KOMITETU NAUKI I TECHNIKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1982/209",
+     "date": "1982-10-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1970/132"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1970/132",
+     "art": "par. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1966/2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700133.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700133.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
