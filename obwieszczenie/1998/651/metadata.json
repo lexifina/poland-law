@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/651",
+ "source_sha256": "8114b9641a938502adb6485c62195cfb55900d914d1bb05a6cc79d44e4d67434",
+ "in_force": "1998-05-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/651",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/651/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/651/text/O/D19980651.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/651/text/I/D19980651.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1998/651/text/U/D19980651Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/651",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 102,
+  "pos": 651,
+  "address": "WDU19981020651",
+  "displayAddress": "Dz.U. 1998 nr 102 poz. 651",
+  "title": "Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 22 maja 1998 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasiłkach rodzinnych i pielęgnacyjnych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-05-22",
+  "repealDate": "2004-05-01",
+  "changeDate": "2024-03-15T11:30:05",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek rodzinny",
+   "zakłady opieki zdrowotnej",
+   "emerytury i renty",
+   "zasiłek pielęgnacyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/2255",
+     "date": "2004-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/569"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/569",
+     "art": "art. 8"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/17"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980651.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980651.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980651Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
