@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/33",
+ "source_sha256": "aa3b94cb3ed65008a10fd40b7d5465889ba0633029d3760a546b676e88b2b052",
+ "in_force": "1944-10-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/33",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/33/text/O/D19440033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/33/text/I/D19440033.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/33",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 7,
+  "pos": 33,
+  "address": "WDU19440070033",
+  "displayAddress": "Dz.U. 1944 nr 7 poz. 33",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 7 października 1944 r. o Milicji Obywatelskiej.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-10-07",
+  "entryIntoForce": "1944-10-12",
+  "validFrom": "1944-10-12",
+  "repealDate": "1954-07-21",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU BEZPIECZEŃSTWA PUBLICZNEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1954/143",
+     "date": "1954-07-21"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1951/112"
+    },
+    {
+     "id": "DU/1948/357"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1944/22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440033.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
