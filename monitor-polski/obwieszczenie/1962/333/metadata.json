@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/333",
+ "source_sha256": "85a7fc04d0dff4c3b8c4041ef75fcca84afe014fc8ac1aede905e331eecf14e1",
+ "in_force": "1962-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/333",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/333/text/O/M19620333.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/333/text/I/M19620333.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/333",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 71,
+  "pos": 333,
+  "address": "WMP19620710333",
+  "displayAddress": "M.P. 1962 nr 71 poz. 333",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 października 1962 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-10-01",
+  "entryIntoForce": "1962-09-30",
+  "validFrom": "1962-09-30",
+  "repealDate": "1962-11-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1962/371",
+     "date": "1962-11-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/312",
+     "date": "1962-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620333.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620333.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
