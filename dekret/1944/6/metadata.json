@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/6",
+ "source_sha256": "9914823c7c4bc6ea1694915fc23445bdceafd318dd1fc019c32d1915a38f804e",
+ "in_force": "1944-08-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/6/text/O/D19440006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/6/text/I/D19440006.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/6",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 2,
+  "pos": 6,
+  "address": "WDU19440020006",
+  "displayAddress": "Dz.U. 1944 nr 2 poz. 6",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 15 sierpnia 1944 r. o rozwiązaniu policji państwowej (tak zwanej granatowej policji).",
+  "type": "Dekret",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-15",
+  "entryIntoForce": "1944-08-22",
+  "validFrom": "1944-08-22",
+  "repealDate": "1945-01-06",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/1",
+     "date": "1945-01-06"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
