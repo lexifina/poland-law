@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1981/43",
+ "source_sha256": "c3231e2186e66cc8adc7179aeb783122629a18ae3757c97fc5b895f0f90079d8",
+ "in_force": "1981-02-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1981/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1981/43/text/O/M19810043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1981/43/text/I/M19810043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1981/43",
+  "publisher": "MP",
+  "year": 1981,
+  "volume": 5,
+  "pos": 43,
+  "address": "WMP19810050043",
+  "displayAddress": "M.P. 1981 nr 5 poz. 43",
+  "title": "Zarządzenie Ministra Finansów z dnia 6 lutego 1981 r. w sprawie upoważnienia Narodowego Banku Polskiego do wprowadzenia depozytowych bonów oszczędnościowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1981-02-06",
+  "entryIntoForce": "1981-02-23",
+  "validFrom": "1981-02-23",
+  "repealDate": "1983-08-26",
+  "changeDate": "2024-01-17T10:28:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bony oszczędnościowe"
+  ],
+  "keywordsNames": [
+   "Narodowy Bank Polski"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/157",
+     "date": "1983-08-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1980/155"
+    },
+    {
+     "id": "DU/1975/108"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1980/155",
+     "art": "par. 5"
+    },
+    {
+     "id": "DU/1975/108",
+     "art": "art. 38 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19810043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19810043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
