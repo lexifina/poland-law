@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1985/184",
+ "source_sha256": "1b27f0eebdc66dc2f04e28a2e41c537931ea3a01e16a4d6255db8deb1ab8398e",
+ "in_force": "1985-09-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1985/184",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1985/184/text/O/M19850184.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1985/184/text/I/M19850184.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1985/184",
+  "publisher": "MP",
+  "year": 1985,
+  "volume": 24,
+  "pos": 184,
+  "address": "WMP19850240184",
+  "displayAddress": "M.P. 1985 nr 24 poz. 184",
+  "title": "Zarządzenie Ministra Finansów z dnia 12 sierpnia 1985 r. w sprawie norm zużycia budynków podlegających ubezpieczeniu ustawowemu.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1985-08-12",
+  "entryIntoForce": "1985-09-26",
+  "validFrom": "1985-09-26",
+  "repealDate": "1988-08-22",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia majątkowe i osobowe",
+   "budownictwo mieszkaniowe",
+   "budownictwo wiejskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1988/203",
+     "date": "1988-08-22"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1982/296",
+     "date": "1985-09-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/38"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/38",
+     "art": "par. 15 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19850184.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19850184.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
