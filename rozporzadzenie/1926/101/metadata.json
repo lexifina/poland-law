@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/101",
+ "source_sha256": "068e3a36ed0c07575c80bdd70c554d6ff222673b90a7f7edb5a08f1ed335025c",
+ "in_force": "1926-02-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/101/text/O/D19260101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/101/text/I/D19260101.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/101",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 18,
+  "pos": 101,
+  "address": "WDU19260180101",
+  "displayAddress": "Dz.U. 1926 nr 18 poz. 101",
+  "title": "Rozporządzenie Rady Ministrów z dnia 10 lutego 1926 r. o regulowaniu cen przetworów zbóż chlebowych, mięsa i jego przetworów oraz odzieży i obuwia przez wyznaczenie cen.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-02-10",
+  "entryIntoForce": "1926-02-24",
+  "validFrom": "1926-02-24",
+  "repealDate": "1928-10-26",
+  "changeDate": "2018-05-16T14:14:38",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "zboża",
+   "mięso"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1928/761",
+     "date": "1928-10-26"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1926/527",
+     "date": "1926-08-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
