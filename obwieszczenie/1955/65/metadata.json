@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1955/65",
+ "source_sha256": "8cb13fa43f7913091eecc9e37600e8b5f183e9d07977d1564aff903d1c2f598c",
+ "in_force": "1955-02-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1955/65",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1955/65/text/O/D19550065.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1955/65/text/I/D19550065.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1955/65",
+  "publisher": "DU",
+  "year": 1955,
+  "volume": 10,
+  "pos": 65,
+  "address": "WDU19550100065",
+  "displayAddress": "Dz.U. 1955 nr 10 poz. 65",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 16 lutego 1955 r. w sprawie ogłoszenia jednolitego tekstu prawa górniczego.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-02-16",
+  "expirationDate": "1961-05-10",
+  "changeDate": "2017-11-23T15:43:42",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1954/224"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1953/113"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19550065.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19550065.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
