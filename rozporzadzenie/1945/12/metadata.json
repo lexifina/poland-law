@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/12",
+ "source_sha256": "de5a31302bd8144ca5e8a04cca5156f0a7d75c94442217d726377623aee78cb4",
+ "in_force": "1945-01-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/12/text/O/D19450012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/12/text/I/D19450012.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/12",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 3,
+  "pos": 12,
+  "address": "WDU19450030012",
+  "displayAddress": "Dz.U. 1945 nr 3 poz. 12",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 15 stycznia 1945 r. o ustaleniu opłaty monopolowej od spirytusu na niektóre cele niekonsumcyjne.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-01-15",
+  "entryIntoForce": "1945-01-19",
+  "validFrom": "1945-01-19",
+  "repealDate": "1945-04-17",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/82",
+     "date": "1945-04-17"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1937/466",
+     "date": "1945-01-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1945/11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/586"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
