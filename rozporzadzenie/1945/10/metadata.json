@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/10",
+ "source_sha256": "8d0376790aeea7af4ca5b4277315a23cad9f0378f934047319dda9ec281234ef",
+ "in_force": "1945-01-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/10/text/O/D19450010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/10/text/I/D19450010.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/10",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 3,
+  "pos": 10,
+  "address": "WDU19450030010",
+  "displayAddress": "Dz.U. 1945 nr 3 poz. 10",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 4 stycznia 1945 r. o ustaleniu opłaty monopolowej oraz cen sprzedażnych spirytusu na cele konsumcyjne i wyrobów Państwowego Monopolu Spirytusowego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-01-04",
+  "entryIntoForce": "1945-01-19",
+  "validFrom": "1945-01-19",
+  "repealDate": "1945-04-17",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/80",
+     "date": "1945-04-17"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1935/70",
+     "date": "1945-01-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/586"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
