@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1038",
+ "source_sha256": "71cbb299a8bfa73a731db2c0b7fdb4956f55fdc9725c2224394fc51fc0494ec5",
+ "in_force": "2003-06-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 311 words, parsed 53; at 53: 'czerwca 2003 r . : 1 ) wniosku grupy posłów'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1038",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1038/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1038/text/O/D20031038.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1038/text/I/D20031038.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1038/text/T/D20031038TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1038",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 109,
+  "pos": 1038,
+  "address": "WDU20031091038",
+  "displayAddress": "Dz.U. 2003 nr 109 poz. 1038",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2003 r. sygn. akt K 16/02",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-06-10",
+  "promulgation": "2003-06-27",
+  "entryIntoForce": "2003-06-27",
+  "validFrom": "2003-06-27",
+  "changeDate": "2024-03-15T09:53:03",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prywatyzacja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 60 ust. 2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031038.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031038.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031038TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
