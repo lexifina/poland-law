@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/103",
+ "source_sha256": "a3f19998d55bf791f37cbd707b4863d75d91ffde64a9cf3e45b2100d70661ace",
+ "in_force": "1972-03-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/103/text/O/M19720103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/103/text/I/M19720103.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/103",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 15,
+  "pos": 103,
+  "address": "WMP19720150103",
+  "displayAddress": "M.P. 1972 nr 15 poz. 103",
+  "title": "Zarządzenie Prezesa Centralnego Urzędu Gospodarki Wodnej z dnia 15 lutego 1972 r. w sprawie zaliczenia do klas czystości niektórych rzek.",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1972-02-15",
+  "entryIntoForce": "1972-03-15",
+  "validFrom": "1972-03-15",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. CENTRALNEGO URZĘDU GOSPODARKI WODNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska morskiego",
+   "ochrona środowiska",
+   "wodne prawo",
+   "ochrona wód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1983/22",
+     "date": "1983-01-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1970/144"
+    },
+    {
+     "id": "DU/1962/158"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1970/144",
+     "art": "par. 1 ust. 3"
+    },
+    {
+     "id": "DU/1962/158",
+     "art": "art. 83"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
