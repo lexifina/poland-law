@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1960/330",
+ "source_sha256": "8fe98d70f19282325ffe343413f16030c651a2a489f1f8ff9d2ccfc8f9d36b3f",
+ "in_force": "1960-09-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1960/330",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1960/330/text/O/M19600330.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1960/330/text/I/M19600330.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1960/330",
+  "publisher": "MP",
+  "year": 1960,
+  "volume": 71,
+  "pos": 330,
+  "address": "WMP19600710330",
+  "displayAddress": "M.P. 1960 nr 71 poz. 330",
+  "title": "Zarządzenie Ministra Przemysłu Spożywczego i Skupu z dnia 23 sierpnia 1960 r. w sprawie norm ubytków naturalnych przy zamrażaniu i przechowywaniu mięsa wieprzowego, wołowego ze zwierząt dorosłych, cielęcego i baraniego w chłodniach składowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-08-23",
+  "entryIntoForce": "1960-09-17",
+  "validFrom": "1960-09-17",
+  "repealDate": "1962-10-16",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1962/346",
+     "date": "1962-10-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1955/1630"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1955/1630",
+     "art": "par. 1 ust. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19600330.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19600330.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
