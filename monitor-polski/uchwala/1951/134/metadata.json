@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1951/134",
+ "source_sha256": "333a62a60303fb592d31a502d806e8dfdbfb3225348bf0399b1dc5cf2e86f246",
+ "in_force": "1951-02-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1951/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1951/134/text/O/M19510134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1951/134/text/I/M19510134.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1951/134",
+  "publisher": "MP",
+  "year": 1951,
+  "volume": 9,
+  "pos": 134,
+  "address": "WMP19510090134",
+  "displayAddress": "M.P. 1951 nr 9 poz. 134",
+  "title": "Uchwała nr 36 Rady Ministrów z dnia 24 stycznia 1951 r. w sprawie trybu powoływania komisji resortowych i wynagradzania za udział w posiedzeniach.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-01-24",
+  "entryIntoForce": "1951-02-10",
+  "validFrom": "1951-02-10",
+  "repealDate": "1954-04-02",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1954/442",
+     "date": "1954-04-02"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1953/735"
+    },
+    {
+     "id": "MP/1952/802"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/42",
+     "date": "1953-01-20"
+    },
+    {
+     "id": "MP/1951/523",
+     "date": "1951-05-23"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1950/652"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19510134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19510134.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
