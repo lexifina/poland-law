@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1951/521",
+ "source_sha256": "7b05ce7456126ff8c5e536da3c77c01c9691910e9cc486850d653ab2682ee70e",
+ "in_force": "1951-05-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1951/521",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1951/521/text/O/M19510521.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1951/521/text/I/M19510521.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1951/521",
+  "publisher": "MP",
+  "year": 1951,
+  "volume": 41,
+  "pos": 521,
+  "address": "WMP19510410521",
+  "displayAddress": "M.P. 1951 nr 41 poz. 521",
+  "title": "Zarządzenie Prezesa Rady Ministrów i Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 4 maja 1951 r. w sprawie stosowania wzoru umowy ramowej o wykonanie robót geodezyjnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-05-04",
+  "entryIntoForce": "1951-05-21",
+  "validFrom": "1951-05-21",
+  "repealDate": "1956-01-25",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO",
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1956/40",
+     "date": "1956-01-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1950/1614"
+    },
+    {
+     "id": "DU/1949/73"
+    },
+    {
+     "id": "DU/1932/125"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/529"
+    },
+    {
+     "id": "DU/1949/190"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19510521.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19510521.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
