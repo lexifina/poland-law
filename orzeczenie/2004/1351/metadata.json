@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1351",
+ "source_sha256": "306ef1b16515ff41c7dca62dacaa11b3aa551dca28c9901f5d82e124b3c5323c",
+ "in_force": "2004-06-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 288 words, parsed 114; at 114: '78 Konstytucji , orzeka : I 1 . Art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1351",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/1351/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1351/text/O/D20041351.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1351/text/I/D20041351.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/1351/text/T/D20041351TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1351",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 128,
+  "pos": 1351,
+  "address": "WDU20041281351",
+  "displayAddress": "Dz.U. 2004 nr 128 poz. 1351",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 maja 2004 r. sygn. akt SK 38/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-05-18",
+  "promulgation": "2004-06-04",
+  "entryIntoForce": "2004-06-04",
+  "validFrom": "2004-06-04",
+  "changeDate": "2024-03-15T09:55:29",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania w sprawach o wykroczenia"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1148",
+     "date": "2005-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1148"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20041351.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041351.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20041351TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
