@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1010",
+ "source_sha256": "76a05bb98bd49d89fbf3a0e4ae86b84a50389b21e0d92ee3956bf022f7e79ecd",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1010",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1010/text/O/D19991010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1010/text/I/D19991010.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1010/text/T/D19991010L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1010",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 90,
+  "pos": 1010,
+  "address": "WDU19990901010",
+  "displayAddress": "Dz.U. 1999 nr 90 poz. 1010",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 15 października 1999 r. w sprawie szczegółowych zasad tworzenia i funkcjonowania funduszu likwidacji kopalń, ustalania wysokości odpisów i terminów przekazywania środków na ten fundusz oraz ich wykorzystania.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-10-15",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "repealDate": "2002-12-31",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "likwidacja",
+   "górnicze prawo",
+   "kopalnie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1112",
+     "art": "art. 17 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1998/1112",
+     "date": "2002-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991010.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991010L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
