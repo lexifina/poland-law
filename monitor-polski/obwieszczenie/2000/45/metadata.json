@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/45",
+ "source_sha256": "3c411bd954496eaac9be5a88c37e137fef49bd7d1db6904cfff7b05a4aa76035",
+ "in_force": "1999-12-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/45/text/O/M20000045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/45/text/I/M20000045.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/45/text/T/M20000045L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/45",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 2,
+  "pos": 45,
+  "address": "WMP20000020045",
+  "displayAddress": "M.P. 2000 nr 2 poz. 45",
+  "title": "Obwieszczenie Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast z dnia 31 grudnia 1999 r. w sprawie średnich podstawowych dochodów podatkowych gmin za 1999 r. w przeliczeniu na 1 mieszkańca.",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-31",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZ. URZĘDU MIESZKALNICTWA I ROZWOJU MIAST"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "podatki",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1999/549",
+     "date": "1999-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1999/1281"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/509",
+     "art": "art. 45d"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/734",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000045.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000045L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
