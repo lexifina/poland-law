@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1988/90",
+ "source_sha256": "383e0528c8ce6c47965fcacabcad114dc250fb3fbfc9ccac00ba61dd224a3998",
+ "in_force": "1988-04-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1988/90",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1988/90/text/O/D19880090.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1988/90/text/I/D19880090.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1988/90",
+  "publisher": "DU",
+  "year": 1988,
+  "volume": 11,
+  "pos": 90,
+  "address": "WDU19880110090",
+  "displayAddress": "Dz.U. 1988 nr 11 poz. 90",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 30 marca 1988 r. w sprawie przekazania szkołom wyższym niektórych uprawnień Ministra Edukacji Narodowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1988-03-30",
+  "promulgation": "1988-04-30",
+  "entryIntoForce": "1988-04-30",
+  "validFrom": "1988-04-30",
+  "repealDate": "1988-09-29",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1988/263",
+     "date": "1988-09-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1987/178"
+    },
+    {
+     "id": "DU/1982/113"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/113"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/113",
+     "art": "art. 6 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19880090.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19880090.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
