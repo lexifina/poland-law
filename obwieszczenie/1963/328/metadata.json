@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1963/328",
+ "source_sha256": "8c29b8bd39fbc16fd15d04ff9d743648fde7a923e258c4d35510a47e8735e2c3",
+ "in_force": "1963-12-11",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1963/328",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1963/328/text/O/D19630328.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1963/328/text/I/D19630328.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1963/328/text/U/D19630328Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1963/328",
+  "publisher": "DU",
+  "year": 1963,
+  "volume": 59,
+  "pos": 328,
+  "address": "WDU19630590328",
+  "displayAddress": "Dz.U. 1963 nr 59 poz. 328",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 11 grudnia 1963 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 15 listopada 1956 r. o zmianie imion i nazwisk.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-12-11",
+  "expirationDate": "2005-11-30",
+  "changeDate": "2017-11-16T16:41:25",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "imiona i nazwiska",
+   "pomoc dla rodzin",
+   "rodzinne i opiekuńcze prawo",
+   "akta stanu cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1963/281"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1956/254"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19630328.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19630328.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19630328Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
