@@ -1,0 +1,127 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/463",
+ "source_sha256": "2961bc92f868484281763df3fcf18b691ee625628b2e869bebbbb8dfe5e23b20",
+ "in_force": "2005-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/463",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/463/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/463/text/O/D20040463.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/463/text/I/D20040463.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/463/text/T/D20040463L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2004/463/text/U/D20040463Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/463",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 49,
+  "pos": 463,
+  "address": "WDU20040490463",
+  "displayAddress": "Dz.U. 2004 nr 49 poz. 463",
+  "title": "Ustawa z dnia 19 lutego 2004 r. o systemie informacji oświatowej",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-02-19",
+  "promulgation": "2004-03-26",
+  "entryIntoForce": "2005-01-01",
+  "validFrom": "2005-01-01",
+  "repealDate": "2012-04-30",
+  "changeDate": "2024-03-15T09:55:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [
+   "MIN. WŁAŚCIWY DS OŚWIATY I WYCHOWANIA"
+  ],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS OŚWIATY I WYCHOWANIA"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1708.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1708",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1708",
+    "number": "1708",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/814",
+     "date": "2012-04-30"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2007/1141"
+    },
+    {
+     "id": "DU/2005/473"
+    },
+    {
+     "id": "DU/2004/2746"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2007/273",
+     "date": "2007-03-24"
+    },
+    {
+     "id": "DU/2005/565",
+     "date": "2005-07-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2001/1148"
+    },
+    {
+     "id": "DU/1997/776"
+    },
+    {
+     "id": "DU/1991/425"
+    },
+    {
+     "id": "DU/1982/19"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20040463.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20040463.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20040463L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20040463Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
