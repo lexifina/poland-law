@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1215",
+ "source_sha256": "f519248a9de966132baf549bbe63bbe208e7b685b4b070031ed2f5546ef6d779",
+ "in_force": "1999-12-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 543 words, parsed 107; at 107: 'Polskiej , a mianowicie : 1 ) art . 159'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1215",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1215/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1215/text/O/D19991215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1215/text/I/D19991215.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1215/text/T/D19991215L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1215",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 106,
+  "pos": 1215,
+  "address": "WDU19991061215",
+  "displayAddress": "Dz.U. 1999 nr 106 poz. 1215",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 grudnia 1999 r. sygn. akt K. 4/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-20",
+  "entryIntoForce": "1999-12-24",
+  "validFrom": "1999-12-24",
+  "changeDate": "2024-03-15T11:35:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "emerytury i renty",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Fundusz Ubezpieczeń Społecznych",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/1118",
+     "date": "1999-12-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991215.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991215L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
