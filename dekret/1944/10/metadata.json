@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/10",
+ "source_sha256": "3907f242a03247496f0783cbf6d1d5cd2e41d8a9254df249b3554955118f531f",
+ "in_force": "1944-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/10/text/O/D19440010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/10/text/I/D19440010.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/10",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 3,
+  "pos": 10,
+  "address": "WDU19440030010",
+  "displayAddress": "Dz.U. 1944 nr 3 poz. 10",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 22 sierpnia 1944 r. o wojennych świadczeniach rzeczowych - obowiązkowych dostawach mięsa, mleka i siana dla państwa.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-22",
+  "entryIntoForce": "1944-08-31",
+  "validFrom": "1944-08-31",
+  "repealDate": "1945-06-30",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1944/10",
+     "date": "1945-06-30"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1944/10",
+     "date": "1945-06-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
