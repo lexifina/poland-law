@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/45",
+ "source_sha256": "61ada2fdedb5ce312c41a8d9d7707ee8629df8eff744e7ff639ad607e6c744d6",
+ "in_force": "1936-02-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/45/text/O/M19360045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/45/text/I/M19360045.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/45",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 27,
+  "pos": 45,
+  "address": "WMP19360270045",
+  "displayAddress": "M.P. 1936 nr 27 poz. 45",
+  "title": "Okólnik T. 12 Ministerstwa Skarbu z dnia 22 stycznia 1936 r. L. D. IV. 997/2/36 w sprawie wyjaśnień do taryfy celnej przywozowej (dotyczy poz. poz. 488 i 1226 taryfy celnej)",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-01-22",
+  "promulgation": "1936-02-03",
+  "repealDate": "1939-01-13",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1938/675",
+     "date": "1939-01-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 13 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360045.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
