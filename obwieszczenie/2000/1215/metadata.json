@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1215",
+ "source_sha256": "cd467e1bc4dc2ce830a2272fcf719d1173a28b58dcbd2ca23c8ccbb8a20f7be7",
+ "in_force": "2000-12-08",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 157 words, parsed 141; at 141: '” powinny być wyrazy : „ Argentyną 21 września 1997'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1215",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1215/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1215/text/O/D20001215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1215/text/I/D20001215.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1215",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 115,
+  "pos": 1215,
+  "address": "WDU20001151215",
+  "displayAddress": "Dz.U. 2000 nr 115 poz. 1215",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 8 grudnia 2000 r. o sprostowaniu błędu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-12-08",
+  "changeDate": "2024-03-15T09:49:26",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cywilne prawo",
+   "porządkowanie prawa",
+   "sprostowanie",
+   "handlowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2000/583"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001215.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
