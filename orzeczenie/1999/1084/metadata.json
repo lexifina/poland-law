@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1084",
+ "source_sha256": "480349de63bd83dfe9d10d527a437a81dce87bb870e304cb6c0e21db9255c5e7",
+ "in_force": "1999-11-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 247 words, parsed 136; at 136: 'Konstytucji Rzeczypospolitej Polskiej orzeka : 1 . § 38 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1084",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1084/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1084/text/O/D19991084.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1084/text/I/D19991084.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1084/text/T/D19991084L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1084",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 93,
+  "pos": 1084,
+  "address": "WDU19990931084",
+  "displayAddress": "Dz.U. 1999 nr 93 poz. 1084",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 16 listopada 1999 r. sygn. akt SK. 11/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-16",
+  "entryIntoForce": "1999-11-20",
+  "validFrom": "1999-11-20",
+  "changeDate": "2024-03-15T11:34:53",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie"
+  ],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/1015",
+     "date": "2000-11-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/1015"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991084.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991084.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991084L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
