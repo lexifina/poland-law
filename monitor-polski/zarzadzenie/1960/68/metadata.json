@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1960/68",
+ "source_sha256": "f15747fb43cb22a0c3332f111073d2239633f07f5d32d40cd0c4d69d2a29e8ea",
+ "in_force": "1960-02-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1960/68",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1960/68/text/O/M19600068.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1960/68/text/I/M19600068.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1960/68",
+  "publisher": "MP",
+  "year": 1960,
+  "volume": 15,
+  "pos": 68,
+  "address": "WMP19600150068",
+  "displayAddress": "M.P. 1960 nr 15 poz. 68",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 16 stycznia 1960 r. w sprawie warunków dopuszczania do obrotu środków ochrony roślin.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-01-16",
+  "entryIntoForce": "1960-02-13",
+  "validFrom": "1960-02-13",
+  "repealDate": "1965-06-03",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/156",
+     "date": "1965-06-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1959/324"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1959/324",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19600068.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19600068.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
