@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/1021",
+ "source_sha256": "3e90132e8ee14db6027437b699f5bc0a60143ff7efcd54709edf2e91cf80796b",
+ "in_force": "1922-12-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/1021",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/1021/text/O/D19221021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/1021/text/I/D19221021.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/1021",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 112,
+  "pos": 1021,
+  "address": "WDU19221121021",
+  "displayAddress": "Dz.U. 1922 nr 112 poz. 1021",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 30 listopada 1922 r. celem wykonania ustawy z dnia 26 września 1922 r. o opłacie za nadzór nad zakładami ubezpieczeń.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-11-30",
+  "entryIntoForce": "1922-12-20",
+  "validFrom": "1922-12-20",
+  "repealDate": "1928-02-01",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1928/64",
+     "date": "1928-02-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1923/703"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1925/260",
+     "date": "1925-04-18"
+    },
+    {
+     "id": "DU/1924/108",
+     "date": "1924-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19221021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19221021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
