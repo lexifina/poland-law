@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/661",
+ "source_sha256": "87291008a0485bef314cb7dc3d39738b2297bbcf9dd3764018dabd9a5bafe727",
+ "in_force": "2003-09-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/661",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/661/text/O/M20030661.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/661/text/I/M20030661.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/661",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 44,
+  "pos": 661,
+  "address": "WMP20030440661",
+  "displayAddress": "M.P. 2003 nr 44 poz. 661",
+  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 10 września 2003 r. o wskazaniu wystawy publicznej dającej pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na niej wynalazku, wzoru użytkowego, wzoru przemysłowego lub towaru oznaczonego znakiem towarowym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-09-10",
+  "promulgation": "2003-09-19",
+  "changeDate": "2024-07-31T11:42:43",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "wzory użytkowe i zdobnicze",
+   "rejestry",
+   "targi i wystawy",
+   "wynalazczość",
+   "własność przemysłowa",
+   "znaki towarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/508"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/508",
+     "art": "art. 125 ust. 2"
+    },
+    {
+     "id": "DU/2001/508",
+     "art": "art. 15 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030661.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030661.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
