@@ -1,0 +1,125 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/931",
+ "source_sha256": "1dee0b14b7f3d6ed4a05bcb939dafee529990577ceafb3670960163a2e3d7b21",
+ "in_force": "1999-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 6283 words, parsed 5563; at 5563: 'lub łączonego . ” . Przepisy przejściowe i końcowe Art'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/931",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/931/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/931/text/O/D19980931.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/931/text/I/D19980931.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/931/text/T/D19980931L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/931",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 144,
+  "pos": 931,
+  "address": "WDU19981440931",
+  "displayAddress": "Dz.U. 1998 nr 144 poz. 931",
+  "title": "Ustawa z dnia 20 listopada 1998 r. o zmianie ustawy o podatku dochodowym od osób prawnych.",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-11-20",
+  "promulgation": "1998-11-27",
+  "entryIntoForce": "1999-01-01",
+  "validFrom": "1999-01-01",
+  "changeDate": "2024-03-15T11:30:33",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. FINANSÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "spółki",
+   "spółdzielczość",
+   "ulgi podatkowe",
+   "podatek dochodowy od osób prawnych",
+   "handel wewnętrzny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/393.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/393",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/393",
+    "number": "393",
+    "term": 3
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/442.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/442",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/442",
+    "number": "442",
+    "term": 3
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/624.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/624",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/624",
+    "number": "624",
+    "term": 3
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. z 2000 r. Nr 54 poz. 654 z dniem 14 czerwca 2000 r. z wyjątkiem art. 2.",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1999/639"
+    },
+    {
+     "id": "MP/1998/656"
+    },
+    {
+     "id": "DU/2000/654"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/86",
+     "date": "1999-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/926"
+    },
+    {
+     "id": "DU/1997/736"
+    },
+    {
+     "id": "DU/1934/502"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980931.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980931.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980931L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
