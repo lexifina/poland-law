@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1085",
+ "source_sha256": "11361d017f6d8fc1b7975f6264ee4e1b9cc91b1840a088687dac7fce0bc4182c",
+ "in_force": "1999-10-12",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 182 words, parsed 126; at 122: 'b ) zamiast wyrazów : „ istnieje poważne ryzyko ,'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1085",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1085/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1085/text/O/D19991085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1085/text/I/D19991085.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1085",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 93,
+  "pos": 1085,
+  "address": "WDU19990931085",
+  "displayAddress": "Dz.U. 1999 nr 93 poz. 1085",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 12 października 1999 r. o sprostowaniu błędu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-10-12",
+  "changeDate": "2024-03-15T11:34:53",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "dzieci",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1995/528"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991085.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
