@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/23",
+ "source_sha256": "e23302e5d84d702fe489b9e4e6d29c3a2758fa80c091a2f263976c3d84eae0d1",
+ "in_force": "1933-01-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/23",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/23/text/O/D19330023.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/23/text/I/D19330023.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/23",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 3,
+  "pos": 23,
+  "address": "WDU19330030023",
+  "displayAddress": "Dz.U. 1933 nr 3 poz. 23",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 2 grudnia 1932 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-02",
+  "promulgation": "1933-01-18",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "działalność ubezpieczeniowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/813"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/813",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/410"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330023.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330023.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
