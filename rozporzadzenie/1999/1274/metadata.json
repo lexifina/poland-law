@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1274",
+ "source_sha256": "6c0fc07b940448e265f67716d90de1c81603a5ed8b60f06609b64a2e1a95f4b2",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1274",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1274/text/O/D19991274.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1274/text/I/D19991274.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1274",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 110,
+  "pos": 1274,
+  "address": "WDU19991101274",
+  "displayAddress": "Dz.U. 1999 nr 110 poz. 1274",
+  "title": "Rozporządzenie Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie Polskiej Scalonej Nomenklatury Towarowej Handlu Zagranicznego (PCN)",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-21",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "repealDate": "2001-01-01",
+  "changeDate": "2015-07-30T13:23:23",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "handel zagraniczny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/1271",
+     "date": "2001-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1998/1137",
+     "date": "2000-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/439"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/439",
+     "art": "art. 40 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991274.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991274.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
