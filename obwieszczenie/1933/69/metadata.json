@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/69",
+ "source_sha256": "30c715d226499e79821145793a70ddabf5fbf4a8568831ae98eeae034ff2e5dd",
+ "in_force": "1933-02-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/69",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/69/text/O/D19330069.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/69/text/I/D19330069.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/69",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 10,
+  "pos": 69,
+  "address": "WDU19330100069",
+  "displayAddress": "Dz.U. 1933 nr 10 poz. 69",
+  "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 14 stycznia 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze państwowym nad buhajami.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-01-14",
+  "promulgation": "1933-02-20",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "zwierzęta hodowlane"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/622"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/622",
+     "art": "art. 34"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/868"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330069.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330069.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
