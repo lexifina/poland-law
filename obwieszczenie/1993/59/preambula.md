@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) w uchwale Trybunału Konstytucyjnego z dnia 9 grudnia 1992 r. w sprawie wykładni art. 5 ust. 1 ustawy z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 97, poz. 486) prostuje się następujący błąd:
+
+W ust. 1 sentencji uchwały zamiast wyrazów „użyty w art. 5 ust. 2” powinny być wyrazy „użyty w art. 5 ust. 1”.
