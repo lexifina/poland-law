@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/247",
+ "source_sha256": "a5b7f7ed49ce9221ee514dc7a1ff21549f23d1202bdbd8f48170e185aec8e312",
+ "in_force": "2004-03-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/247",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/247/text/O/M20040247.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/247/text/I/M20040247.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2004/247/text/T/M20040247TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/247",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 15,
+  "pos": 247,
+  "address": "WMP20040150247",
+  "displayAddress": "M.P. 2004 nr 15 poz. 247",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 marca 2004 r. sygn. akt K 37/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-24",
+  "promulgation": "2004-03-30",
+  "entryIntoForce": "2004-03-30",
+  "validFrom": "2004-03-30",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Wyrok dotyczy art. 2 i art. 9 ustawy z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw, w części dotyczącej zniesienia centralnego organu administracji rządowej - Głównego Geodety Kraju oraz urzędu go obsługującego - Głównego Urzędu Geodezji i Kartografii. Ustawa została ogłoszona po ogłoszeniu wyroku TK.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/1492",
+     "date": "2004-03-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/1492"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040247.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040247.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20040247TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
