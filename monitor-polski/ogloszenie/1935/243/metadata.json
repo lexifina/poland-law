@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/243",
+ "source_sha256": "63a993dc1f5280d523d8599399f33d87371764af29e377bb850f33a9b8c77cc0",
+ "in_force": "1935-09-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/243",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/243/text/O/M19350243.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/243/text/I/M19350243.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/243",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 216,
+  "pos": 243,
+  "address": "WMP19352160243",
+  "displayAddress": "M.P. 1935 nr 216 poz. 243",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego z dnia 20 września 1935 r. w sprawie wyboru posłów do Sejmu Śląskiego.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-09-20",
+  "promulgation": "1935-09-20",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/319"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/319",
+     "art": "art. 76"
+    },
+    {
+     "id": "DU/1935/319",
+     "art": "art. 95"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350243.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350243.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
