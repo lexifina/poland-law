@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/2",
+ "source_sha256": "0fbda8b74759c3a564e443ff017df1b80340d8cc82dad3e580da33679c1c3198",
+ "in_force": "1935-01-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/2/text/O/M19350002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/2/text/I/M19350002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/2",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 3,
+  "pos": 2,
+  "address": "WMP19350030002",
+  "displayAddress": "M.P. 1935 nr 3 poz. 2",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 21 grudnia 1934 r. w sprawie wywłaszczenia gruntów we wsi Powursk na cele wojskowe.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-12-21",
+  "promulgation": "1935-01-04",
+  "entryIntoForce": "1935-01-04",
+  "validFrom": "1935-01-04",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wywłaszczenia",
+   "grunty",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1934/776"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/681"
+    },
+    {
+     "id": "DU/1919/162"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/681",
+     "art": "art. 46 ust. 2"
+    },
+    {
+     "id": "DU/1919/162",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1919/162",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
