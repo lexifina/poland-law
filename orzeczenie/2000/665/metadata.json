@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/665",
+ "source_sha256": "cdacf0162acb1c6d7aeb70de40d90e00eabfb53c83bd3e6039ff8850ae5f4013",
+ "in_force": "2000-07-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1041 words, parsed 190; at 190: 'Konstytucji Rzeczypospolitej Polskiej orzeka : 1 . Art . 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/665",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/665/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/665/text/O/D20000665.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/665/text/I/D20000665.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/665/text/T/D20000665L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/665",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 55,
+  "pos": 665,
+  "address": "WDU20000550665",
+  "displayAddress": "Dz.U. 2000 nr 55 poz. 665",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2000 r. sygn. akt SK. 12/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-07-10",
+  "entryIntoForce": "2000-07-17",
+  "validFrom": "2000-07-17",
+  "changeDate": "2024-03-15T09:49:18",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "cywilne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1985/137"
+    },
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000665.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000665.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000665L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
