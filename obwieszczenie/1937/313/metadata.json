@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1937/313",
+ "source_sha256": "8cfce624ec38517ef172fdb63379e238c57766fe2c5f933a90a8f56598d75c42",
+ "in_force": "1937-05-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1937/313",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1937/313/text/O/D19370313.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1937/313/text/I/D19370313.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1937/313",
+  "publisher": "DU",
+  "year": 1937,
+  "volume": 39,
+  "pos": 313,
+  "address": "WDU19370390313",
+  "displayAddress": "Dz.U. 1937 nr 39 poz. 313",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 20 kwietnia 1937 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o komisjach rozjemczych do załatwienia zatargów zbiorowych pomiędzy pracodawcami a pracownikami w przemyśle i handlu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-04-20",
+  "promulgation": "1937-05-29",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca i ubezpieczenia społeczne",
+   "pracodawca",
+   "spory zbiorowe",
+   "komisje rozjemcze",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1937/226"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1937/226",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1933/604"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19370313.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19370313.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
