@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1143",
+ "source_sha256": "2fd36a417d5279ef982afc9e50dd31ca96b48550f8f9880e43211ca0e3079edf",
+ "in_force": "2003-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1143",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1143/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1143/text/O/D20021143.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1143/text/I/D20021143.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1143/text/T/D20021143L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1143",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 135,
+  "pos": 1143,
+  "address": "WDU20021351143",
+  "displayAddress": "Dz.U. 2002 nr 135 poz. 1143",
+  "title": "Ustawa z dnia 24 lipca 2002 r. o zmianie ustawy o opłacie skarbowej.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-07-24",
+  "promulgation": "2002-08-28",
+  "entryIntoForce": "2003-01-01",
+  "validFrom": "2003-01-01",
+  "repealDate": "2007-01-01",
+  "changeDate": "2024-03-15T10:05:29",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata skarbowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/412.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/412",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/412",
+    "number": "412",
+    "term": 4
+   }
+  ],
+  "comments": "Przep. zawarty w załączniku do niniejszej ustawy w części IV w ust. 40 w kol. 2 i 3 stosuje się z dniem 1 maja 2004 r. Objęte tekstem jednolitym (Dz. U. z 2004 r. Nr 253, poz. 2532), z dniem 19 listopada 2004 r. z wyjątkiem art. 2",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/1635",
+     "date": "2007-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/960",
+     "date": "2003-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021143.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021143.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021143L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
