@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/605",
+ "source_sha256": "8bd404ace74c5c04f0b276d8f5cc01d28681e7a618c8015a31c8d414f52b3b67",
+ "in_force": "1999-07-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/605",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/605/text/O/D19990605.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/605/text/I/D19990605.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/605/text/T/D19990605L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/605",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 57,
+  "pos": 605,
+  "address": "WDU19990570605",
+  "displayAddress": "Dz.U. 1999 nr 57 poz. 605",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 czerwca 1999 r. zmieniające rozporządzenie w sprawie rodzajów i wzorów legitymacji służbowych i innych dokumentów policjantów, organów właściwych do ich wydawania oraz zasad dokonywania wpisów w tych dokumentach.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-06-09",
+  "entryIntoForce": "1999-07-10",
+  "validFrom": "1999-07-10",
+  "repealDate": "2003-01-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "legitymacje służbowe"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/2091",
+     "date": "2003-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/463",
+     "date": "1999-07-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 28 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990605.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990605.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990605L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
