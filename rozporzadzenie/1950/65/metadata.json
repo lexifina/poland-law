@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/65",
+ "source_sha256": "b0b65ced13522d28596cb97fea946a0bf29e0514d80a4152b503d3c0f09e32f7",
+ "in_force": "1950-03-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/65",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/65/text/O/D19500065.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/65/text/I/D19500065.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/65",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 7,
+  "pos": 65,
+  "address": "WDU19500070065",
+  "displayAddress": "Dz.U. 1950 nr 7 poz. 65",
+  "title": "Rozporządzenie Rady Ministrów z dnia 3 marca 1950 r. w sprawie zniesienia Państwowego Instytutu Książki.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1950-03-03",
+  "entryIntoForce": "1950-03-15",
+  "validFrom": "1950-03-15",
+  "changeDate": "2021-11-10T14:45:14",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Polska Akademia Nauk"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1946/78",
+     "date": "1950-03-15"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1968/63",
+     "date": "1968-07-17"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1948/267"
+    },
+    {
+     "id": "DU/1946/78"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/415"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500065.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500065.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
