@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/358",
+ "source_sha256": "314d479f41bdeb8d81b64268ec21accc450e14427699d69145b6b261c7206a54",
+ "in_force": "2000-05-29",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/358",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/358/text/O/M20000358.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/358/text/I/M20000358.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/358",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 16,
+  "pos": 358,
+  "address": "WMP20000160358",
+  "displayAddress": "M.P. 2000 nr 16 poz. 358",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 29 maja 2000 r. w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w III kwartale 2000 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-29",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia wypadkowe",
+   "składki",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000358.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000358.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
