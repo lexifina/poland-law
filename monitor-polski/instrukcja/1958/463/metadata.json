@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/463",
+ "source_sha256": "6b2cbd67f5ddf06549ca6a05b84ed902c0f9480345c47a091ba174808e8fbbff",
+ "in_force": "1958-10-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/463",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/463/text/O/M19580463.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/463/text/I/M19580463.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/463",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 80,
+  "pos": 463,
+  "address": "WMP19580800463",
+  "displayAddress": "M.P. 1958 nr 80 poz. 463",
+  "title": "Instrukcja Ministra Finansów z dnia 4 października 1958 r. zmieniająca instrukcję z dnia 30 kwietnia 1958 r. w sprawie trybu inkasa podatków i innych należności finansowych przez sołtysów.",
+  "type": "Instrukcja",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-10-04",
+  "entryIntoForce": "1958-10-03",
+  "validFrom": "1958-10-03",
+  "repealDate": "1963-02-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1963/40",
+     "date": "1963-02-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/194",
+     "date": "1958-10-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1958/336"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/67"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/67",
+     "art": "par. 9 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580463.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580463.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
