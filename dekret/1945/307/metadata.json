@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/307",
+ "source_sha256": "09dc562aef4b3985b90929a1e28303a4d6d9b1ab0abba347892949e4f5771496",
+ "in_force": "1945-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/307",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/307/text/O/D19450307.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/307/text/I/D19450307.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/307",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 55,
+  "pos": 307,
+  "address": "WDU19450550307",
+  "displayAddress": "Dz.U. 1945 nr 55 poz. 307",
+  "title": "Dekret z dnia 30 października 1945 r. o zmianie ustawy z dnia 6 maja 1945 r. o wyłączeniu ze społeczeństwa polskiego wrogich elementów.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-10-30",
+  "entryIntoForce": "1945-12-15",
+  "validFrom": "1945-12-15",
+  "repealDate": "1946-11-17",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/324",
+     "date": "1946-11-17"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/96",
+     "date": "1945-12-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1944/17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1945/339"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450307.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450307.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
