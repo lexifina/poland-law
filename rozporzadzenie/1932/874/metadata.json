@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/874",
+ "source_sha256": "1c6210b94b0d3ce80d0ab3560d171eb1663823f67b84e4127ea6cea693bd7a5b",
+ "in_force": "1932-10-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/874",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/874/text/O/D19320874.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/874/text/I/D19320874.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/874",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 105,
+  "pos": 874,
+  "address": "WDU19321050874",
+  "displayAddress": "Dz.U. 1932 nr 105 poz. 874",
+  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 27 października 1932 r. o ochronie ryb i raków na wodach otwartych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-10-27",
+  "repealDate": "1947-10-16",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/375",
+     "date": "1947-10-16"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1936/530",
+     "date": "1936-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/357"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320874.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320874.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
