@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/504",
+ "source_sha256": "c31138c6b942a8c41f649b41aab952638b8d956d4f5d92a88f4e0426bd6292bc",
+ "in_force": "1930-09-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/504",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/504/text/O/D19300504.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/504/text/I/D19300504.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/504",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 63,
+  "pos": 504,
+  "address": "WDU19300630504",
+  "displayAddress": "Dz.U. 1930 nr 63 poz. 504",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 23 sierpnia 1930 r. w sprawie przyznania ulgowej opłaty pocztowej dla paczek z książkami.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-08-23",
+  "promulgation": "1930-09-09",
+  "entryIntoForce": "1930-09-10",
+  "validFrom": "1930-09-10",
+  "repealDate": "1931-03-21",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/392",
+     "date": "1931-03-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/26"
+    },
+    {
+     "id": "DU/1924/584"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/26",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1924/584",
+     "art": "art. 17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300504.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300504.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
