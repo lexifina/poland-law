@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/90",
+ "source_sha256": "8046a16141871cf3a4f66d6a660493962b87f1f5a611731cf2dac616ee5498cb",
+ "in_force": "1970-04-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/90",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/90/text/O/M19700090.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/90/text/I/M19700090.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/90",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 10,
+  "pos": 90,
+  "address": "WMP19700100090",
+  "displayAddress": "M.P. 1970 nr 10 poz. 90",
+  "title": "Zarządzenie Prezesa Centralnego Urzędu Jakości i Miar z dnia 2 marca 1970 r. zmieniające zarządzenie w sprawie upoważnienia niektórych przedsiębiorstw gospodarki komunalnej do legalizacji drogomierzy i szybkościomierzy pojazdów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-03-02",
+  "entryIntoForce": "1970-04-07",
+  "validFrom": "1970-04-07",
+  "repealDate": "1991-03-01",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. CENTRALNEGO URZĘDU JAKOŚCI I MIAR"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miary i narzędzia pomiarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1991/62",
+     "date": "1991-03-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1968/68",
+     "date": "1970-04-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1966/148"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1966/148",
+     "art": "art. 14 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700090.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700090.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
