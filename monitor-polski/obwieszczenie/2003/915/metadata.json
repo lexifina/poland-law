@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/915",
+ "source_sha256": "57c7dbe0aa9b3d2e0c717b7964d7780600a33e571593a4af34569aee91d66440",
+ "in_force": "2003-12-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/915",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/915/text/O/M20030915.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/915/text/I/M20030915.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/915",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 58,
+  "pos": 915,
+  "address": "WMP20030580915",
+  "displayAddress": "M.P. 2003 nr 58 poz. 915",
+  "title": "Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 12 grudnia 2003 r. w sprawie kwoty ograniczenia rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe w roku 2004",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-12-12",
+  "promulgation": "2003-12-24",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 19 ust. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030915.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030915.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
