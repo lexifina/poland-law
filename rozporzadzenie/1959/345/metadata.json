@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1959/345",
+ "source_sha256": "939105a31ddcee7ba16535c9d6bdafbe4df699c2ff141d96d3b17b0ffd82605b",
+ "in_force": "1959-10-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1959/345",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1959/345/text/O/D19590345.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1959/345/text/I/D19590345.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1959/345",
+  "publisher": "DU",
+  "year": 1959,
+  "volume": 57,
+  "pos": 345,
+  "address": "WDU19590570345",
+  "displayAddress": "Dz.U. 1959 nr 57 poz. 345",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 12 października 1959 r. o biegłych sądowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1959-10-12",
+  "entryIntoForce": "1959-10-26",
+  "validFrom": "1959-10-26",
+  "repealDate": "1987-06-23",
+  "changeDate": "2014-12-31T12:25:28",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "biegli",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1987/112",
+     "date": "1987-06-23"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1928/945",
+     "date": "1959-10-26"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1953/217",
+     "date": "1959-10-26"
+    },
+    {
+     "id": "MP/1952/308",
+     "date": "1959-10-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19590345.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19590345.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
