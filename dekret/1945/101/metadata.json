@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/101",
+ "source_sha256": "b25cf690b793f3ba88ef128ec99f47b3a6cb6a83c0cf4b805766e0fcec26df81",
+ "in_force": "1945-05-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/101/text/O/D19450101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/101/text/I/D19450101.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/101",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 18,
+  "pos": 101,
+  "address": "WDU19450180101",
+  "displayAddress": "Dz.U. 1945 nr 18 poz. 101",
+  "title": "Dekret z dnia 7 maja 1945 r. o częściowej zmianie dekretu Polskiego Komitetu Wyzwolenia Narodowego z dnia 7 października 1944 r. o utworzeniu Państwowego Urzędu Repatriacyjnego.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-05-07",
+  "entryIntoForce": "1945-05-12",
+  "validFrom": "1945-05-12",
+  "repealDate": "1951-03-31",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1945/145"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1944/32",
+     "date": "1945-05-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1951/141",
+     "date": "1951-03-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
