@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/489",
+ "source_sha256": "f10da46a9adf5399cc281501f532f7d84529fe7af0a35c9348b1303e63d6f472",
+ "in_force": "1929-03-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/489",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/489/text/O/D19290489.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/489/text/I/D19290489.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/489",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 63,
+  "pos": 489,
+  "address": "WDU19290630489",
+  "displayAddress": "Dz.U. 1929 nr 63 poz. 489",
+  "title": "Traktat Przeciwwojenny, podpisany w Paryżu dnia 27 sierpnia 1928 r. (ratyfikowany zgodnie z ustawą z dnia 13 lutego 1929 r.).",
+  "type": "Traktat",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1929-03-01",
+  "changeDate": "2014-12-31T12:25:20",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pokój międzynarodowy",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1931/591"
+    },
+    {
+     "id": "DU/1930/262"
+    },
+    {
+     "id": "DU/1930/12"
+    },
+    {
+     "id": "DU/1929/490"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1929/88"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290489.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290489.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
