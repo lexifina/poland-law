@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/879",
+ "source_sha256": "ad2f82b3282a1b275bf92e84ae4c8a7ae986f2818dc8bd52d171d93e20966c77",
+ "in_force": "1932-10-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/879",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/879/text/O/D19320879.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/879/text/I/D19320879.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/879",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 105,
+  "pos": 879,
+  "address": "WDU19321050879",
+  "displayAddress": "Dz.U. 1932 nr 105 poz. 879",
+  "title": "Obwieszczenie Ministra Poczt i Telegrafów z dnia 31 października 1932 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o utworzeniu państwowego przedsiębiorstwa \"Polska Poczta, Telegraf i Telefon\".",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-10-31",
+  "repealDate": "1961-02-14",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/48",
+     "date": "1961-02-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/781"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/379"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320879.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320879.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
