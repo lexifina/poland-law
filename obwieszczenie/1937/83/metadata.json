@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1937/83",
+ "source_sha256": "bf66aac5a4dd7946f42b4a870e6acc6c933b1643dcbfe61874f07ac4bb8b98a6",
+ "in_force": "1937-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1937/83",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1937/83/text/O/D19370083.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1937/83/text/I/D19370083.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1937/83",
+  "publisher": "DU",
+  "year": 1937,
+  "volume": 11,
+  "pos": 83,
+  "address": "WDU19370110083",
+  "displayAddress": "Dz.U. 1937 nr 11 poz. 83",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 22 stycznia 1937 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. o granicach Państwa.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-01-22",
+  "promulgation": "1937-02-19",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "granice państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/397"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/397",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/996"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19370083.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19370083.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
