@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/771",
+ "source_sha256": "81db832a2d340cbe780c4c3e17aeb4c4cfe063b6918550cefb0220e04a939819",
+ "in_force": "2003-05-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 322 words, parsed 67; at 67: 'okręgu wyborczym nr 2 . I . W dniu 27'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/771",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/771/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/771/text/O/D20030771.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/771/text/I/D20030771.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/771",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 83,
+  "pos": 771,
+  "address": "WDU20030830771",
+  "displayAddress": "Dz.U. 2003 nr 83 poz. 771",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 28 kwietnia 2003 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 27 kwietnia 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-04-28",
+  "promulgation": "2003-05-13",
+  "changeDate": "2025-03-21T10:37:04",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030771.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030771.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
