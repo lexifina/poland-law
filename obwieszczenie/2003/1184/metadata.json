@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1184",
+ "source_sha256": "8c1909d276366ae59b669cde23341f7ebe53133f59ba195c5bf9daf4eda7afc3",
+ "in_force": "2003-07-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 202 words, parsed 168; at 168: 'prostuje się następujące błędy : 1 ) w pkt 4'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1184",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1184/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1184/text/O/D20031184.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1184/text/I/D20031184.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1184",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 129,
+  "pos": 1184,
+  "address": "WDU20031291184",
+  "displayAddress": "Dz.U. 2003 nr 129 poz. 1184",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 2 lipca 2003 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-07-02",
+  "promulgation": "2003-07-22",
+  "repealDate": "2022-07-02",
+  "changeDate": "2024-03-15T09:53:01",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gazociągi i sieci gazowe",
+   "kwalifikacje",
+   "porządkowanie prawa",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2003/828"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2022/1392",
+     "date": "2022-07-02"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031184.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031184.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
