@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/245",
+ "source_sha256": "69df6982fb8e4cabfb88f387281b04d53602813249356e5090793d472a662a23",
+ "in_force": "1987-10-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/245",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/245/text/O/M19870245.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/245/text/I/M19870245.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/245",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 32,
+  "pos": 245,
+  "address": "WMP19870320245",
+  "displayAddress": "M.P. 1987 nr 32 poz. 245",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 23 października 1987 r. w sprawie szczegółowego określenia przedmiotu referendum.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-10-23",
+  "entryIntoForce": "1987-10-22",
+  "validFrom": "1987-10-22",
+  "repealDate": "1987-11-29",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1987/232"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1987/232",
+     "date": "1987-11-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870245.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870245.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
