@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/502",
+ "source_sha256": "832fc5494e3d31eab074c48df40d563999ae3886caf9248dbcde24df414ab493",
+ "in_force": "1936-09-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/502",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/502/text/O/D19360502.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/502/text/I/D19360502.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/502",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 70,
+  "pos": 502,
+  "address": "WDU19360700502",
+  "displayAddress": "Dz.U. 1936 nr 70 poz. 502",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 27 sierpnia 1936 r. o zmianie taryfy na wyroby tytoniowe.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-08-27",
+  "promulgation": "1936-09-18",
+  "entryIntoForce": "1936-09-18",
+  "validFrom": "1936-09-18",
+  "repealDate": "1939-08-26",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/518",
+     "date": "1939-08-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/978",
+     "date": "1936-09-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/240"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/240",
+     "art": "art. 17"
+    },
+    {
+     "id": "DU/1932/240",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360502.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360502.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
