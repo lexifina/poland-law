@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/31",
+ "source_sha256": "798afe32a0cdc82a4b87757a1919f0c485428b6900c072a2f07f4f2422fae636",
+ "in_force": "1944-10-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/31/text/O/D19440031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/31/text/I/D19440031.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/31",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 7,
+  "pos": 31,
+  "address": "WDU19440070031",
+  "displayAddress": "Dz.U. 1944 nr 7 poz. 31",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 7 października 1944 r. o mobilizacji sił mierniczych.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-10-07",
+  "entryIntoForce": "1944-10-12",
+  "validFrom": "1944-10-12",
+  "repealDate": "1952-05-17",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1952/162",
+     "date": "1952-05-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
