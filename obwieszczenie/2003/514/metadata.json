@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/514",
+ "source_sha256": "15ee1b0a80156a89cc8a4c5d5c231a4c41ed2e8a8b8ad6841e2142eccb93fd9a",
+ "in_force": "2003-04-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/514",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/514/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/514/text/O/D20030514.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/514/text/I/D20030514.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/514/text/T/D20030514L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/514/text/U/D20030514Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/514",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 58,
+  "pos": 514,
+  "address": "WDU20030580514",
+  "displayAddress": "Dz.U. 2003 nr 58 poz. 514",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 marca 2003 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-03-07",
+  "promulgation": "2003-04-04",
+  "repealDate": "2004-06-01",
+  "changeDate": "2024-03-15T09:53:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezrobocie",
+   "zatrudnianie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/1001",
+     "date": "2004-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030514.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030514.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030514L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20030514Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
