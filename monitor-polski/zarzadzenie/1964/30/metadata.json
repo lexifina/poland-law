@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1964/30",
+ "source_sha256": "2ac4bde7124be8fd082c4ec8be394fc9ac161c70ef7138f6b6af73a52b85ee07",
+ "in_force": "1964-01-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1964/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1964/30/text/O/M19640030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1964/30/text/I/M19640030.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1964/30",
+  "publisher": "MP",
+  "year": 1964,
+  "volume": 7,
+  "pos": 30,
+  "address": "WMP19640070030",
+  "displayAddress": "M.P. 1964 nr 7 poz. 30",
+  "title": "Zarządzenie Ministra Finansów z dnia 27 grudnia 1963 r. w sprawie nadania zakładom gospodarki komunalnej formy zakładów budżetowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-12-27",
+  "entryIntoForce": "1964-01-22",
+  "validFrom": "1964-01-01",
+  "repealDate": "1965-06-28",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/189",
+     "date": "1965-06-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/3",
+     "date": "1964-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1956/567"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/221",
+     "art": "art. 11 ust. 4"
+    },
+    {
+     "id": "DU/1958/221",
+     "art": "art. 51"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19640030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19640030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
