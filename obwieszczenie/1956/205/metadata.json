@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1956/205",
+ "source_sha256": "a325e99578c0719385ffca50ef05a257b86446be41b6fd0a6b09eac7123940c0",
+ "in_force": "1956-10-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1956/205",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1956/205/text/O/D19560205.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1956/205/text/I/D19560205.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1956/205",
+  "publisher": "DU",
+  "year": 1956,
+  "volume": 45,
+  "pos": 205,
+  "address": "WDU19560450205",
+  "displayAddress": "Dz.U. 1956 nr 45 poz. 205",
+  "title": "Obwieszczenie Ministra Szkolnictwa Wyższego z dnia 10 października 1956 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 15 grudnia 1951 r. o szkolnictwie wyższym i o pracownikach nauki.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-10-10",
+  "repealDate": "1965-04-09",
+  "changeDate": "2017-11-23T15:43:46",
+  "releasedBy": [
+   "MIN. SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1956/185"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1952/38"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1965/98",
+     "date": "1965-04-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19560205.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19560205.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
