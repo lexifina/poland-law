@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/805",
+ "source_sha256": "a622821a2d144928707ff6a2aa653c6cf1f0d75086f14ff1faeaeb1749f4d844",
+ "in_force": "1999-09-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/805",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/805/text/O/D19990805.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/805/text/I/D19990805.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/805",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 72,
+  "pos": 805,
+  "address": "WDU19990720805",
+  "displayAddress": "Dz.U. 1999 nr 72 poz. 805",
+  "title": "Rozporządzenie Rady Ministrów z dnia 26 sierpnia 1999 r. zmieniające rozporządzenie w sprawie ustanowienia Taryfy celnej.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-26",
+  "entryIntoForce": "1999-09-15",
+  "validFrom": "1999-09-15",
+  "repealDate": "1999-12-31",
+  "changeDate": "2015-07-30T13:15:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "ceny i stawki taryfowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/1036",
+     "date": "1999-09-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/117",
+     "art": "art. 13 par. 6"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1999/1217",
+     "date": "1999-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990805.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990805.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
