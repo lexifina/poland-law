@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/81",
+ "source_sha256": "fc7f0e849994434ac06bed7d33849c658a770155d44a09049ee41c2b0d264d5a",
+ "in_force": "1990-03-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/81",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/81/text/O/M19900081.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/81/text/I/M19900081.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/81",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 11,
+  "pos": 81,
+  "address": "WMP19900110081",
+  "displayAddress": "M.P. 1990 nr 11 poz. 81",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 16 marca 1990 r. w sprawie protestów wyborczych.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-03-16",
+  "entryIntoForce": "1990-03-30",
+  "validFrom": "1990-03-30",
+  "repealDate": "1991-10-26",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1990/81",
+     "date": "1991-10-26"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1989/103"
+    },
+    {
+     "id": "DU/1989/102"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1990/81",
+     "date": "1991-10-26"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900081.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900081.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
