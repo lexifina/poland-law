@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/323",
+ "source_sha256": "d0d4a1ea57c2bed5acdcd9c7913814ae19d1da874bdb3da6b712d7a27e486c51",
+ "in_force": "1952-03-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/323",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/323/text/O/M19520323.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/323/text/I/M19520323.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/323",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 25,
+  "pos": 323,
+  "address": "WMP19520250323",
+  "displayAddress": "M.P. 1952 nr 25 poz. 323",
+  "title": "Zarządzenie Ministra Górnictwa z dnia 23 lutego 1952 r. w sprawie przedłużenia mocy obowiązującej zarządzenia Ministra Górnictwa z dnia 12 czerwca 1950 r. w sprawie dopuszczenia niektórych osób do wykonywania czynności pomocnika (asystenta) mierniczego górniczego.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-02-23",
+  "entryIntoForce": "1952-03-27",
+  "validFrom": "1952-01-01",
+  "repealDate": "1952-09-30",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "MIN. GÓRNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1952/323",
+     "date": "1952-09-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1950/840",
+     "date": "1952-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/654"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1952/323",
+     "date": "1952-09-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520323.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520323.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
