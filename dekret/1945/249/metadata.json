@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/249",
+ "source_sha256": "75d7f382a2c48ae927ff3d3d2384ca287d0d9b67f274aaa92cc5fca6064892fb",
+ "in_force": "1945-10-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/249",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/249/text/O/D19450249.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/249/text/I/D19450249.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/249",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 44,
+  "pos": 249,
+  "address": "WDU19450440249",
+  "displayAddress": "Dz.U. 1945 nr 44 poz. 249",
+  "title": "Dekret z dnia 8 października 1945 r. o uposażeniu pieniężnym nadterminowych i podoficerów zawodowych.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-10-08",
+  "entryIntoForce": "1945-10-19",
+  "validFrom": "1945-10-19",
+  "repealDate": "1950-05-28",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/46",
+     "date": "1950-05-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450249.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450249.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
