@@ -1,0 +1,131 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1176",
+ "source_sha256": "48921ff9e62ae503c7ccb4363908c40c68daf1323ff35068de99bc9acfc93e56",
+ "in_force": "2003-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1176",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1176/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1176/text/O/D20021176.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1176/text/I/D20021176.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1176/text/T/D20021176L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/1176/text/U/D20021176Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1176",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 141,
+  "pos": 1176,
+  "address": "WDU20021411176",
+  "displayAddress": "Dz.U. 2002 nr 141 poz. 1176",
+  "title": "Ustawa z dnia 27 lipca 2002 r. o szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie Kodeksu cywilnego.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-07-27",
+  "promulgation": "2002-09-05",
+  "entryIntoForce": "2003-01-01",
+  "validFrom": "2003-01-01",
+  "repealDate": "2014-12-25",
+  "changeDate": "2024-03-15T10:06:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsumenci",
+   "gwarancja",
+   "sprzedaż"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31999L0044",
+    "date": "1999-05-25",
+    "title": "DYREKTYWA 1999/44/EC PARLAMENTU EUROPEJSKIEGO ORAZ RADY z dnia 25 maja 1999 roku w sprawie niektórych aspektów sprzedaży towarów konsumpcyjnych oraz związanych z tym gwarancji"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/465.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/465",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/465",
+    "number": "465",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2014/827",
+     "date": "2014-12-25"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2002/851",
+     "date": "2003-01-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2003/258"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2011/432",
+     "date": "2011-05-16"
+    },
+    {
+     "id": "DU/2011/169",
+     "date": "2011-03-03"
+    },
+    {
+     "id": "DU/2009/960",
+     "date": "2009-08-21"
+    },
+    {
+     "id": "DU/2004/959",
+     "date": "2004-05-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/93",
+     "date": "2003-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021176.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021176.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021176L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20021176Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
