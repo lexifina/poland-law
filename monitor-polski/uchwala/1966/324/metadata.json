@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1966/324",
+ "source_sha256": "2e136b63b09658dde063469c6c154c407584196ab36c28e569f074aea048a02f",
+ "in_force": "1967-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1966/324",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1966/324/text/O/M19660324.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1966/324/text/I/M19660324.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1966/324",
+  "publisher": "MP",
+  "year": 1966,
+  "volume": 68,
+  "pos": 324,
+  "address": "WMP19660680324",
+  "displayAddress": "M.P. 1966 nr 68 poz. 324",
+  "title": "Uchwała Rady Ministrów i Centralnej Rady Związków Zawodowych z dnia 25 listopada 1966 r. w sprawie społecznych przeglądów warunków pracy.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-11-25",
+  "entryIntoForce": "1967-01-01",
+  "validFrom": "1967-01-01",
+  "repealDate": "1989-08-31",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "CENTRALNA RADA ZWIĄZKÓW ZAWODOWYCH",
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bhp",
+   "związki zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/226",
+     "date": "1989-08-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/292",
+     "date": "1967-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/91"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1965/91",
+     "art": "art. 44 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19660324.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19660324.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
