@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/352",
+ "source_sha256": "d29cc4e6db0a0b928113682982545c8578e0904dd62685c12c4dffe14a8272ba",
+ "in_force": "2000-04-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 360 words, parsed 196; at 196: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/352",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/352/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/352/text/O/D20000352.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/352/text/I/D20000352.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/352/text/T/D20000352L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/352",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 28,
+  "pos": 352,
+  "address": "WDU20000280352",
+  "displayAddress": "Dz.U. 2000 nr 28 poz. 352",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2000 r. sygn. akt K. 8/98.",
+  "type": "Orzeczenie",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-04-12",
+  "entryIntoForce": "2000-04-14",
+  "validFrom": "2000-04-14",
+  "changeDate": "2024-03-15T09:49:49",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "użytkowanie wieczyste",
+   "własność"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Objęte tekstem jednolitym (Dz. U. z 2001 r. Nr 120 poz. 1299) z dniem 29 września 2001 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/781",
+     "date": "2000-04-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/781"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000352.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000352.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000352L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
