@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/943",
+ "source_sha256": "37691be510636a5e77d419d348e048adbe8c43d5991ff32740f45f08d694a67d",
+ "in_force": "1928-12-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/943",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/943/text/O/D19280943.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/943/text/I/D19280943.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/943",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 104,
+  "pos": 943,
+  "address": "WDU19281040943",
+  "displayAddress": "Dz.U. 1928 nr 104 poz. 943",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 grudnia 1928 r. o tłumaczach przysięgłych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-24",
+  "repealDate": "1953-12-31",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1953/256",
+     "date": "1953-12-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1932/21",
+     "date": "1932-01-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280943.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280943.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
