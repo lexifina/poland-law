@@ -1,0 +1,3 @@
+Na podstawie art. 6 ust. 2 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. Nr 58, poz. 524, z 1991 r. Nr 94, poz. 420 i z 1993 r. Nr 7, poz. 34) prostuje się następujący błąd:
+
+W polskim przekładzie Konwencji celnej dotyczącej międzynarodowego przewozu towarów z zastosowaniem karnetów TIR (Konwencji TIR), sporządzonej w Genewie dnia 14 listopada 1975 r. (załącznik do Dz. U. z 1984 r. Nr 17, poz. 76), w artykule 41 zamiast wyrazów „zaginęły lub zostały bezpowrotnie zagubione” powinny być wyrazy „zostały zniszczone lub bezpowrotnie utracone”.
