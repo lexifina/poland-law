@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/332",
+ "source_sha256": "4bbe4650a4707307b3ad3cbb2b503e1451d43a0a4a00f91ea468973c29be1c32",
+ "in_force": "1931-10-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/332",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/332/text/O/M19310332.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/332/text/I/M19310332.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/332",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 245,
+  "pos": 332,
+  "address": "WMP19312450332",
+  "displayAddress": "M.P. 1931 nr 245 poz. 332",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. ros. osób prawnych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-10-23",
+  "promulgation": "1931-10-23",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/839"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/839",
+     "art": "art. 10 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310332.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310332.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
