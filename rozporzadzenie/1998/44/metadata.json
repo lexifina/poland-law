@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/44",
+ "source_sha256": "20980f462eae30842e0d004ebba195c917f30af5bd38ee479d009baab129ed62",
+ "in_force": "1998-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/44/text/O/D19980044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/44/text/I/D19980044.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/44/text/T/D19980044L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/44",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 12,
+  "pos": 44,
+  "address": "WDU19980120044",
+  "displayAddress": "Dz.U. 1998 nr 12 poz. 44",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 21 stycznia 1998 r. w sprawie wprowadzenia i odwołania czasu letniego w latach 1998-2001.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-01-21",
+  "entryIntoForce": "1998-01-26",
+  "validFrom": "1998-01-26",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:25:47",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas letni i zimowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/128"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/128",
+     "art": "art. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/1613",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19980044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980044.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980044L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
