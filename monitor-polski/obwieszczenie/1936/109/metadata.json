@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/109",
+ "source_sha256": "1fc90f9b77208e5e13aeb91022c2a5ea314437eb328c822e8f1f6ec22e64271c",
+ "in_force": "1936-03-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/109",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/109/text/O/M19360109.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/109/text/I/M19360109.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/109",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 56,
+  "pos": 109,
+  "address": "WMP19360560109",
+  "displayAddress": "M.P. 1936 nr 56 poz. 109",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 2 marca 1936 r. w sprawie umorzenia 7% Pożyczki Kolejowej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-03-02",
+  "promulgation": "1936-03-07",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koleje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1932/679"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/426"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/426",
+     "art": "par. 22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360109.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360109.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
