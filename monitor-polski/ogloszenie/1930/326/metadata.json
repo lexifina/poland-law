@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/326",
+ "source_sha256": "0d1c77d0c82ab7994eedf41594061de2b1cc9049175299a2d35b106a1497dde1",
+ "in_force": "1930-10-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/326",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/326/text/O/M19300326.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/326/text/I/M19300326.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/326",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 241,
+  "pos": 326,
+  "address": "WMP19302410326",
+  "displayAddress": "M.P. 1930 nr 241 poz. 326",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-10-17",
+  "promulgation": "1930-10-17",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 60"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300326.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300326.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
