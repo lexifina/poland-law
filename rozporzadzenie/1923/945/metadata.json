@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/945",
+ "source_sha256": "39b212e7529a40dfada3520e1d37f5be7e3472092da017749e0f0d38db136017",
+ "in_force": "1923-11-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/945",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/945/text/O/D19230945.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/945/text/I/D19230945.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/945",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 118,
+  "pos": 945,
+  "address": "WDU19231180945",
+  "displayAddress": "Dz.U. 1923 nr 118 poz. 945",
+  "title": "Rozporządzenie Rady Ministrów z dnia 29 października 1923 r. o rozciągnięciu mocy obowiązującej ustawy z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu oraz ustawy z dnia 14 lutego 1922 r., zmieniającej ustawę z dnia 18 grudnia 1919 r., o czasie pracy w przemyśle i handlu na Ziemię Wileńską.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-10-29",
+  "entryIntoForce": "1923-11-22",
+  "validFrom": "1923-11-22",
+  "changeDate": "2020-09-23T13:40:22",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1923/1067"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1922/127",
+     "date": "1923-11-22"
+    },
+    {
+     "id": "DU/1920/7",
+     "date": "1923-11-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/213"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230945.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230945.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
