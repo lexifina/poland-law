@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/240",
+ "source_sha256": "f4131052fb9efbe284dfcfa405280c11dcb238b48e3950230d6225081cea5057",
+ "in_force": "2000-03-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/240",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/240/text/O/M20000240.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/240/text/I/M20000240.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/240",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 11,
+  "pos": 240,
+  "address": "WMP20000110240",
+  "displayAddress": "M.P. 2000 nr 11 poz. 240",
+  "title": "Obwieszczenie Przewodniczącego Centralnej Komisji do Spraw Tytułu Naukowego i Stopni Naukowych z dnia 24 marca 2000 r. w sprawie zmian w wykazie jednostek organizacyjnych uprawnionych do nadawania stopni naukowych, wraz z określeniem nazw nadawanych stopni naukowych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-03-24",
+  "repealDate": "2002-12-18",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PRZEW. CENTR. KOMISJI DS TYTUŁU NAUKOWEGO I STOPNI NAUKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "stopnie i tytuły naukowe",
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2003/19",
+     "date": "2002-12-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1998/524",
+     "date": "2000-03-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/386"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/386",
+     "art": "art. 5 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000240.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000240.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
