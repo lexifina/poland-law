@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/163",
+ "source_sha256": "44a578368b1a33390d61be8bd9cbbaba03bbd57f5a442944f57a311882327456",
+ "in_force": "1990-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/163",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/163/text/O/D19900163.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/163/text/I/D19900163.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/163",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 28,
+  "pos": 163,
+  "address": "WDU19900280163",
+  "displayAddress": "Dz.U. 1990 nr 28 poz. 163",
+  "title": "Rozporządzenie Rady Ministrów z dnia 18 kwietnia 1990 r. zmieniające rozporządzenie w sprawie kosztów postępowania w sprawach o wykroczenia.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-04-18",
+  "promulgation": "1990-04-28",
+  "entryIntoForce": "1990-05-01",
+  "validFrom": "1990-05-01",
+  "repealDate": "1993-02-10",
+  "changeDate": "2014-12-31T12:25:38",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne postępowanie w sprawach o wykroczenia",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1993/30",
+     "date": "1993-02-10"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1986/162",
+     "date": "1990-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1971/117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1971/117",
+     "art": "art. XIII"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900163.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900163.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
