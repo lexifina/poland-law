@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1963/200",
+ "source_sha256": "2efdbb8c3a8ddaa5576090d5f3c39cb51c67484294ebee833b31c621285f70a9",
+ "in_force": "1963-05-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1963/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1963/200/text/O/M19630200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1963/200/text/I/M19630200.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1963/200",
+  "publisher": "MP",
+  "year": 1963,
+  "volume": 41,
+  "pos": 200,
+  "address": "WMP19630410200",
+  "displayAddress": "M.P. 1963 nr 41 poz. 200",
+  "title": "Zarządzenie Ministra Finansów z dnia 18 kwietnia 1963 r. w sprawie zwolnienia od podatku gruntowego niektórych kategorii gruntów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1963-04-18",
+  "entryIntoForce": "1963-05-21",
+  "validFrom": "1963-05-21",
+  "repealDate": "1965-11-06",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/302",
+     "date": "1965-11-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/283"
+    },
+    {
+     "id": "DU/1950/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/283",
+     "art": "art. 12"
+    },
+    {
+     "id": "DU/1950/452",
+     "art": "art. 3"
+    },
+    {
+     "id": "DU/1950/452",
+     "art": "art. 35"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19630200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19630200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
