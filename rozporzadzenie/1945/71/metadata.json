@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/71",
+ "source_sha256": "3164c2dbbb5859bac794e822d5fabd779c2881fe203c47e016465fb66683bb59",
+ "in_force": "1945-04-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/71",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/71/text/O/D19450071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/71/text/I/D19450071.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/71",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 12,
+  "pos": 71,
+  "address": "WDU19450120071",
+  "displayAddress": "Dz.U. 1945 nr 12 poz. 71",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 14 kwietnia 1945 r. o cenach soli.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-04-14",
+  "entryIntoForce": "1945-04-16",
+  "validFrom": "1945-04-16",
+  "repealDate": "1945-08-31",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/191",
+     "date": "1945-08-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1939/244",
+     "date": "1945-04-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/497"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450071.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
