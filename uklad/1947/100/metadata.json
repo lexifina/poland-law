@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/100",
+ "source_sha256": "0eeb46600f820ad5c51e80cdf7481f92fba6c6d4b4af96359506b55c8657a5a8",
+ "in_force": "1946-05-20",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/100",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/100/text/O/D19470100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/100/text/I/D19470100.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/100",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 26,
+  "pos": 100,
+  "address": "WDU19470260100",
+  "displayAddress": "Dz.U. 1947 nr 26 poz. 100",
+  "title": "Układ o Przyjaźni i Pomocy Wzajemnej między Rzecząpospolitą Polską i Federacyjną Ludową Republiką Jugosławią.",
+  "type": "Układ",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-05-20",
+  "repealDate": "1966-05-20",
+  "changeDate": "2014-12-31T12:22:33",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1947/100",
+     "date": "1966-05-20"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1947/101"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1947/100",
+     "date": "1966-05-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
