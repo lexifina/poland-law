@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1997/10",
+ "source_sha256": "ad8c8bb31c1883563dc50acbdc76add54e624a076804ab8a0c51d516caaa19d9",
+ "in_force": "1997-01-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1997/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1997/10/text/O/M19970010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1997/10/text/I/M19970010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1997/10",
+  "publisher": "MP",
+  "year": 1997,
+  "volume": 2,
+  "pos": 10,
+  "address": "WMP19970020010",
+  "displayAddress": "M.P. 1997 nr 2 poz. 10",
+  "title": "Zarządzenie Ministra Edukacji Narodowej z dnia 31 grudnia 1996 r. w sprawie regulaminu konkursu na kandydata na stanowisko kuratora oświaty i trybu pracy komisji konkursowej.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1996-12-31",
+  "entryIntoForce": "1997-01-20",
+  "validFrom": "1997-01-01",
+  "repealDate": "2006-01-07",
+  "changeDate": "2014-12-31T12:26:34",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konkursy",
+   "kuratoria oświaty i wychowania",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2005/2129",
+     "date": "2006-01-07"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1997/259",
+     "date": "1997-05-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 30 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19970010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19970010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
