@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1849",
+ "source_sha256": "484c3651ee1d388c61a3b2db359220a799629f50f38a5479b9c63aafec6e40d4",
+ "in_force": "2002-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 850 words, parsed 58; at 58: 'Truszkowskiego o stwierdzenie niezgodności : 1 . art . 53'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1849",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1849/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1849/text/O/D20021849.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1849/text/I/D20021849.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1849/text/T/D20021849TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1849",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 219,
+  "pos": 1849,
+  "address": "WDU20022191849",
+  "displayAddress": "Dz.U. 2002 nr 219 poz. 1849",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2002 r. sygn. akt SK. 27/01.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-11",
+  "promulgation": "2002-12-18",
+  "entryIntoForce": "2002-12-18",
+  "validFrom": "2002-12-18",
+  "changeDate": "2024-03-15T10:05:54",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2002-12-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021849.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021849.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021849TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
