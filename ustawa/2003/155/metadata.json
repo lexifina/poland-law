@@ -1,0 +1,137 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/155",
+ "source_sha256": "fb3aecd79cb99c60fc8791b56acfd442a1c3c4875b343088dc12a07a70723399",
+ "in_force": "2003-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/155",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/155/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/155/text/O/D20030155.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/155/text/I/D20030155.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/155/text/T/D20030155L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/155/text/U/D20030155Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/155",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 17,
+  "pos": 155,
+  "address": "WDU20030170155",
+  "displayAddress": "Dz.U. 2003 nr 17 poz. 155",
+  "title": "Ustawa z dnia 10 stycznia 2003 r. o zmianie ustawy - kodeks postępowania karnego, ustawy - Przepisy wprowadzające Kodeks postępowania karnego, ustawy o świadku koronnym oraz ustawy o ochronie informacji niejawnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-01-10",
+  "promulgation": "2003-02-04",
+  "entryIntoForce": "2003-07-01",
+  "validFrom": "2003-07-01",
+  "changeDate": "2024-03-15T09:51:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "świadek koronny",
+   "informacje niejawne",
+   "kodeks postępowania karnego",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/182.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/182",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/182",
+    "number": "182",
+    "term": 4
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/388.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/388",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/388",
+    "number": "388",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1998/740",
+     "date": "2003-07-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2014/694",
+     "date": "2014-05-28"
+    },
+    {
+     "id": "DU/2003/1061",
+     "date": "2003-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/95",
+     "date": "2003-07-01"
+    },
+    {
+     "id": "DU/1997/738",
+     "date": "2003-07-01"
+    },
+    {
+     "id": "DU/1997/556",
+     "date": "2003-07-01"
+    },
+    {
+     "id": "DU/1997/555",
+     "date": "2003-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/555"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2014/694"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030155.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030155.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030155L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20030155Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
