@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1977/20",
+ "source_sha256": "a88e7de168646cb2ffbd2fec1fb192962710853d0e04fb9604ba4241cc050b71",
+ "in_force": "1977-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1977/20",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1977/20/text/O/D19770020.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1977/20/text/I/D19770020.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1977/20",
+  "publisher": "DU",
+  "year": 1977,
+  "volume": 4,
+  "pos": 20,
+  "address": "WDU19770040020",
+  "displayAddress": "Dz.U. 1977 nr 4 poz. 20",
+  "title": "Obwieszczenie Ministra Handlu Wewnętrznego i Usług z dnia 21 stycznia 1977 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 8 czerwca 1972 r. o wykonywaniu i organizacji rzemiosła.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1977-01-21",
+  "promulgation": "1977-02-12",
+  "expirationDate": "1983-02-16",
+  "changeDate": "2017-11-20T16:59:01",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO I USŁUG"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rzemiosło",
+   "cechy rzemieślnicze",
+   "samorząd zawodowy",
+   "spółdzielczość rzemieślnicza",
+   "izby rzemieślnicze"
+  ],
+  "keywordsNames": [
+   "Centralny Związek Rzemiosła"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1976/234"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1976/234",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1972/164"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19770020.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19770020.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
