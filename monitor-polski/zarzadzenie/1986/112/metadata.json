@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1986/112",
+ "source_sha256": "89d5b7f674f5addb6641909c0a6b656a56729a1d3582f751b57e3f67b413beba",
+ "in_force": "1986-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1986/112",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1986/112/text/O/M19860112.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1986/112/text/I/M19860112.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1986/112",
+  "publisher": "MP",
+  "year": 1986,
+  "volume": 17,
+  "pos": 112,
+  "address": "WMP19860170112",
+  "displayAddress": "M.P. 1986 nr 17 poz. 112",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 20 maja 1986 r. zmieniające zarządzenie w sprawie wysokości oprocentowania wkładów oszczędnościowych osób fizycznych na rachunkach bankowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1986-05-20",
+  "entryIntoForce": "1986-07-01",
+  "validFrom": "1986-07-01",
+  "repealDate": "1988-01-01",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1988/51",
+     "date": "1988-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1982/273",
+     "date": "1986-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/56"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/56",
+     "art": "art. 19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19860112.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19860112.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
