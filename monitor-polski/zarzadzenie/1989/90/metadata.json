@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1989/90",
+ "source_sha256": "00bd6e780f21e6ee5202b29f19edc053ac0b4fedc3e3144041b8f11d634fb5b5",
+ "in_force": "1989-04-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1989/90",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1989/90/text/O/M19890090.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1989/90/text/I/M19890090.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1989/90",
+  "publisher": "MP",
+  "year": 1989,
+  "volume": 11,
+  "pos": 90,
+  "address": "WMP19890110090",
+  "displayAddress": "M.P. 1989 nr 11 poz. 90",
+  "title": "Zarządzenie Ministra Kultury i Sztuki z dnia 21 marca 1989 r. w sprawie ustalenia wysokości stawki podstawowej dla obliczania wynagrodzeń za utwory sceniczne i muzyczne.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1989-03-21",
+  "entryIntoForce": "1989-04-20",
+  "validFrom": "1989-04-20",
+  "repealDate": "1989-10-20",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. KULTURY I SZTUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "twórcy",
+   "autorskie prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/276",
+     "date": "1989-10-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1988/50"
+    },
+    {
+     "id": "DU/1988/344"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1988/50",
+     "art": "par. 3 ust. 4"
+    },
+    {
+     "id": "DU/1988/344",
+     "art": "par. 5 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19890090.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19890090.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
