@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/290",
+ "source_sha256": "df250fe6adc3153fe52df26df376731a5898bc44ec9de9f45208809f121d21e6",
+ "in_force": "1965-10-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/290",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/290/text/O/M19650290.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/290/text/I/M19650290.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/290",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 55,
+  "pos": 290,
+  "address": "WMP19650550290",
+  "displayAddress": "M.P. 1965 nr 55 poz. 290",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 5 października 1965 r. w sprawie ogłoszenia unieważnionych Polskich Norm.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-10-05",
+  "entryIntoForce": "1965-10-04",
+  "validFrom": "1965-10-04",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/320",
+     "date": "1965-10-15"
+    },
+    {
+     "id": "MP/1960/27",
+     "date": "1965-11-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1965/289"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650290.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650290.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
