@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/23",
+ "source_sha256": "5683eec37cade8f8757dc8a09338bf3ab9c11c2296e5e4af1a7dd5695273b212",
+ "in_force": "2001-01-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/23",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/23/text/O/M20010023.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/23/text/I/M20010023.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/23",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 1,
+  "pos": 23,
+  "address": "WMP20010010023",
+  "displayAddress": "M.P. 2001 nr 1 poz. 23",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 9 stycznia 2001 r. w sprawie ogłoszenia sprawozdań wyborczych.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-01-09",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprawozdawczość",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 87g ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010023.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010023.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
