@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/324",
+ "source_sha256": "61cb4c5fb3712915e64f63ad3d9c00c88da9d1cd3c2d28cbe6b43e5f88ab41be",
+ "in_force": "2004-04-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/324",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/324/text/O/M20040324.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/324/text/I/M20040324.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/324",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 18,
+  "pos": 324,
+  "address": "WMP20040180324",
+  "displayAddress": "M.P. 2004 nr 18 poz. 324",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 14 kwietnia 2004 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w I kwartale 2004 r. w stosunku do IV kwartału 1995 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-04-14",
+  "promulgation": "2004-04-29",
+  "changeDate": "2020-10-20T09:38:41",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/164"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/164",
+     "art": "art. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040324.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040324.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
