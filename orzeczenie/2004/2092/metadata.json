@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2092",
+ "source_sha256": "e886a440d346a6fa6d39bb8312ba0c971d2eb74be3bcadb337408d1d6f435ccf",
+ "in_force": "2004-09-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 371 words, parsed 61; at 61: 'Obywatelskich o zbadanie zgodności : 1 ) art . 6'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2092",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/2092/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2092/text/O/D20042092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2092/text/I/D20042092.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/2092/text/T/D20042092TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2092",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 204,
+  "pos": 2092,
+  "address": "WDU20042042092",
+  "displayAddress": "Dz.U. 2004 nr 204 poz. 2092",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 9 września 2004 r. sygn. akt K 2/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-09",
+  "promulgation": "2004-09-17",
+  "changeDate": "2024-03-15T09:55:55",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "opłaty"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1996/383",
+     "date": "2005-09-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1993/34",
+     "date": "2005-09-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1993/34"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20042092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042092.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20042092TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
