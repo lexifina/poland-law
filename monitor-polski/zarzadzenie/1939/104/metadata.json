@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/104",
+ "source_sha256": "4d7b603bdc2e800bdcd817529513021ae81fb879e49c37640f79542d4c93545e",
+ "in_force": "1939-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/104",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/104/text/O/M19390104.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/104/text/I/M19390104.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/104",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 57,
+  "pos": 104,
+  "address": "WMP19390570104",
+  "displayAddress": "M.P. 1939 nr 57 poz. 104",
+  "title": "Zarządzenie Ministra Skarbu z dnia 28 lutego 1939 r. L. UU. 150/2/39 w porozumieniu z Ministrem Spraw Wewnętrznych w sprawie zmiany statutu Zakładu Ubezpieczeń Wzajemnych w Poznaniu.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-02-28",
+  "promulgation": "1939-03-10",
+  "entryIntoForce": "1939-03-10",
+  "validFrom": "1939-03-10",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia",
+   "statut"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1932/322",
+     "date": "1939-03-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/811"
+    },
+    {
+     "id": "DU/1928/64"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/811",
+     "art": "art. 8"
+    },
+    {
+     "id": "DU/1928/64",
+     "art": "art. 81 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390104.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390104.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
