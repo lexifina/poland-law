@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/18",
+ "source_sha256": "dae22b28157fec7de29d84cd477474be47fa2efa1bf6fb57b176d4a842e97f64",
+ "in_force": "1999-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/18",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/18/text/O/D19990018.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/18/text/I/D19990018.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/18/text/T/D19990018L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/18",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 3,
+  "pos": 18,
+  "address": "WDU19990030018",
+  "displayAddress": "Dz.U. 1999 nr 3 poz. 18",
+  "title": "Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 29 grudnia 1998 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-12-29",
+  "entryIntoForce": "1999-01-15",
+  "validFrom": "1999-01-15",
+  "repealDate": "2002-07-16",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. OCHRONY ŚRODOWISKA, ZASOBÓW NATURALNYCH I LEŚNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/865",
+     "date": "2002-07-16"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1995/58",
+     "date": "1999-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/6"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/6",
+     "art": "art. 88i ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990018.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990018.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990018L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
