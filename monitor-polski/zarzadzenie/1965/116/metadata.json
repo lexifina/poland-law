@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1965/116",
+ "source_sha256": "93b9315f5d63e752876599705673cb579da3d0cb926e7630ce7c995f6d40f89a",
+ "in_force": "1965-05-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1965/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1965/116/text/O/M19650116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1965/116/text/I/M19650116.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1965/116",
+  "publisher": "MP",
+  "year": 1965,
+  "volume": 24,
+  "pos": 116,
+  "address": "WMP19650240116",
+  "displayAddress": "M.P. 1965 nr 24 poz. 116",
+  "title": "Zarządzenie Ministra Handlu Wewnętrznego z dnia 5 maja 1965 r. w sprawie określenia wypadków, w których nie jest wymagane zezwolenie na prowadzenie niektórych rodzajów działalności handlowej przez rzemieślników oraz osoby wykonujące przemysł domowy i ludowy.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1965-05-05",
+  "entryIntoForce": "1965-05-20",
+  "validFrom": "1965-05-20",
+  "repealDate": "1975-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1974/265",
+     "date": "1975-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/120"
+    },
+    {
+     "id": "DU/1958/224"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/120",
+     "art": "par. 2 ust. 2"
+    },
+    {
+     "id": "DU/1958/224",
+     "art": "art. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19650116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19650116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
