@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/71",
+ "source_sha256": "9a3a78794a919dab8b3da866a34bc7516391b2228085d08068badcf1c40d8ec6",
+ "in_force": "1935-03-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/71",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/71/text/O/D19350071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/71/text/I/D19350071.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/71",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 13,
+  "pos": 71,
+  "address": "WDU19350130071",
+  "displayAddress": "Dz.U. 1935 nr 13 poz. 71",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 21 lutego 1935 r. o zmianie taryfy na wyroby tytoniowe.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-02-21",
+  "promulgation": "1935-02-23",
+  "entryIntoForce": "1935-03-15",
+  "validFrom": "1935-03-15",
+  "repealDate": "1939-08-26",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/518",
+     "date": "1939-08-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/978",
+     "date": "1935-03-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/240"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/240",
+     "art": "art. 17"
+    },
+    {
+     "id": "DU/1932/240",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350071.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
