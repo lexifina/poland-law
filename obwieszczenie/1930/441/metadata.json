@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/441",
+ "source_sha256": "6d4dd7ab1f80cfc9379d04ae4ea68ed730f989454be31f21c33c052cd2fb4a5e",
+ "in_force": "1930-07-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/441",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/441/text/O/D19300441.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/441/text/I/D19300441.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/441",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 52,
+  "pos": 441,
+  "address": "WDU19300520441",
+  "displayAddress": "Dz.U. 1930 nr 52 poz. 441",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 3 lipca 1930 r. o sprostowaniu błędów w załączniku do ustawy skarbowej z dnia 29 marca 1930 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1930-07-03",
+  "promulgation": "1930-07-29",
+  "changeDate": "2020-11-03T15:56:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. a"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1930/221"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300441.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300441.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
