@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1983/36",
+ "source_sha256": "c842d5b117257eaab5d4861da9dd164ba78fd824440433e3475bb6f0a1393fd7",
+ "in_force": "1983-02-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1983/36",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1983/36/text/O/M19830036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1983/36/text/I/M19830036.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1983/36",
+  "publisher": "MP",
+  "year": 1983,
+  "volume": 5,
+  "pos": 36,
+  "address": "WMP19830050036",
+  "displayAddress": "M.P. 1983 nr 5 poz. 36",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 28 stycznia 1983 r. w sprawie wymiany zużytych lub uszkodzonych znaków pieniężnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1983-01-28",
+  "entryIntoForce": "1983-02-08",
+  "validFrom": "1983-02-08",
+  "repealDate": "1989-09-27",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pieniężny system",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/254",
+     "date": "1989-09-27"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1979/65",
+     "date": "1982-02-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1983/37"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/57"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/57",
+     "art": "art. 6 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19830036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19830036.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
