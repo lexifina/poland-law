@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/77",
+ "source_sha256": "734c86c28d42282f3014b63822387371104f36f22bc15e3b6b0dacec8e2a5262",
+ "in_force": "1982-04-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/77",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/77/text/O/M19820077.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/77/text/I/M19820077.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/77",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 11,
+  "pos": 77,
+  "address": "WMP19820110077",
+  "displayAddress": "M.P. 1982 nr 11 poz. 77",
+  "title": "Uchwała nr 65 Rady Ministrów z dnia 1 kwietnia 1982 r. w sprawie powołania Konsultacyjnej Rady Gospodarczej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-04-01",
+  "entryIntoForce": "1982-04-27",
+  "validFrom": "1982-04-27",
+  "repealDate": "1989-11-30",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1989/306",
+     "date": "1989-11-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1985/281",
+     "date": "1985-12-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820077.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820077.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
