@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1949/418",
+ "source_sha256": "b40e02aa638611f27cae140907767dd6f160426057100a7b0cee6d234fbc156e",
+ "in_force": "1949-09-29",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1949/418",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1949/418/text/O/D19490418.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1949/418/text/I/D19490418.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1949/418",
+  "publisher": "DU",
+  "year": 1949,
+  "volume": 53,
+  "pos": 418,
+  "address": "WDU19490530418",
+  "displayAddress": "Dz.U. 1949 nr 53 poz. 418",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 29 września 1949 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-09-29",
+  "repealDate": "1976-01-01",
+  "changeDate": "2017-11-23T15:43:38",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/309"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1947/106"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1975/228",
+     "date": "1976-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19490418.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19490418.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
