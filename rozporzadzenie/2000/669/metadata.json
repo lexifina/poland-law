@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/669",
+ "source_sha256": "192240b1a2a08b2d56f32410e5acc6b0d382bd86a4d7a8840eab9f8fb8ff1196",
+ "in_force": "2000-07-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/669",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/669/text/O/D20000669.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/669/text/I/D20000669.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/669/text/T/D20000669L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/669",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 56,
+  "pos": 669,
+  "address": "WDU20000560669",
+  "displayAddress": "Dz.U. 2000 nr 56 poz. 669",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 11 lipca 2000 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Legnicy.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-07-11",
+  "entryIntoForce": "2000-07-27",
+  "validFrom": "2000-07-27",
+  "changeDate": "2026-09-01T16:01:13",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/498",
+     "date": "2000-07-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/590",
+     "art": "art. 10 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000669.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000669.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000669L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
