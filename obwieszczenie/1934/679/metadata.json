@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/679",
+ "source_sha256": "761f02a30b19caf8ea23ad3b09363c59016e36fae7ad203e7e1014310f7d5eef",
+ "in_force": "1934-08-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/679",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/679/text/O/D19340679.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/679/text/I/D19340679.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/679",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 70,
+  "pos": 679,
+  "address": "WDU19340700679",
+  "displayAddress": "Dz.U. 1934 nr 70 poz. 679",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 29 lipca 1934 r. w sprawie sprostowania błędów w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 28 października 1933 r. w sprawie zmiany ustawy o zaopatrzeniu inwalidzkiem.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-07-29",
+  "promulgation": "1934-08-04",
+  "changeDate": "2020-11-03T16:09:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwalidzi",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1933/669"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340679.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340679.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
