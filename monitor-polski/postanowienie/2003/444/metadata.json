@@ -1,0 +1,55 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/444",
+ "source_sha256": "2ce5a8d36f16e125b1e1f34a75479f379eabd131c0725ae1ae0abe934cfa3e41",
+ "in_force": "2003-06-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/444",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/444/text/O/M20030444.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/444/text/I/M20030444.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/444",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 34,
+  "pos": 444,
+  "address": "WMP20030340444",
+  "displayAddress": "M.P. 2003 nr 34 poz. 444",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 13 grudnia 2002 r. o nadaniu orderów i odznaczeń",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-13",
+  "promulgation": "2003-06-30",
+  "changeDate": "2017-03-21T12:34:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030444.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030444.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
