@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1103",
+ "source_sha256": "11b0f6e51833b92eb9e2e18f4ed9fc58a31860e0bc7ed7cbb522122a08194b88",
+ "in_force": "2000-12-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1103",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1103/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1103/text/O/D20001103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1103/text/I/D20001103.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1103/text/T/D20001103L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1103",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 104,
+  "pos": 1103,
+  "address": "WDU20001041103",
+  "displayAddress": "Dz.U. 2000 nr 104 poz. 1103",
+  "title": "Ustawa z dnia 12 października 2000 r. o zmianie ustawy o kontroli skarbowej i ustawy o Inspekcji Celnej w związku z dostosowaniem do prawa Unii Europejskiej.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-10-12",
+  "promulgation": "2000-11-29",
+  "entryIntoForce": "2000-12-14",
+  "validFrom": "2000-12-14",
+  "changeDate": "2024-03-15T09:49:16",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola skarbowa"
+  ],
+  "keywordsNames": [
+   "Inspekcja Celna",
+   "Unia Europejska"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2152.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2152",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2152",
+    "number": "2152",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/804",
+     "date": "2002-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/449",
+     "date": "2000-12-14"
+    },
+    {
+     "id": "DU/1991/442",
+     "date": "2000-12-14"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001103.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001103L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
