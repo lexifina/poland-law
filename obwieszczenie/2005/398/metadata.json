@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/398",
+ "source_sha256": "ab77b61b6d7cb6f5ad4b4bc13e4738838e41ca5a03a07d180952f29ed80d957a",
+ "in_force": "2005-03-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/398",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/398/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/398/text/O/D20050398.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/398/text/I/D20050398.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/398/text/T/D20050398L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/398/text/U/D20050398Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/398",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 41,
+  "pos": 398,
+  "address": "WDU20050410398",
+  "displayAddress": "Dz.U. 2005 nr 41 poz. 398",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 marca 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-03-01",
+  "promulgation": "2005-03-15",
+  "expirationDate": "2010-10-08",
+  "changeDate": "2024-03-15T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakwaterowanie sił zbrojnych"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/433"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050398.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050398.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050398L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050398Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
