@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/131",
+ "source_sha256": "4da18eb779bbf0705f0814d8d488a31df15538bae2393c4f1d3e42ec31eb9317",
+ "in_force": "1987-05-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/131",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/131/text/O/M19870131.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/131/text/I/M19870131.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/131",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 14,
+  "pos": 131,
+  "address": "WMP19870140131",
+  "displayAddress": "M.P. 1987 nr 14 poz. 131",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 16 kwietnia 1987 r. zmieniające zarządzenie w sprawie powołania Zarządu Ruchu Lotniczego i Lotnisk Komunikacyjnych oraz określenia jego organizacji jako państwowego organu ruchu lotniczego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-04-16",
+  "entryIntoForce": "1987-05-15",
+  "validFrom": "1987-05-15",
+  "repealDate": "1988-09-14",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1988/220",
+     "date": "1988-09-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1966/188",
+     "date": "1987-05-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1962/153"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1962/153",
+     "art": "art. 44 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870131.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870131.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
