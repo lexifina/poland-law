@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/617",
+ "source_sha256": "320ed46d04ff4a81bbf39f11d901758c6afeaa62bb7ef5ec6ed302cd8d96b880",
+ "in_force": "2004-08-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/617",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/617/text/O/M20040617.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/617/text/I/M20040617.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/617",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 35,
+  "pos": 617,
+  "address": "WMP20040350617",
+  "displayAddress": "M.P. 2004 nr 35 poz. 617",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 10 sierpnia 2004 r. w sprawie przeciętnego wynagrodzenia w drugim kwartale 2004 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-08-10",
+  "promulgation": "2004-08-20",
+  "changeDate": "2020-11-13T11:47:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040617.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040617.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
