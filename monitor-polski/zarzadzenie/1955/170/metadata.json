@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1955/170",
+ "source_sha256": "e115cdcc2730880abdf8345dafb77149110aa27896f1937985bb97dd86c39516",
+ "in_force": "1955-02-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1955/170",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1955/170/text/O/M19550170.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1955/170/text/I/M19550170.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1955/170",
+  "publisher": "MP",
+  "year": 1955,
+  "volume": 16,
+  "pos": 170,
+  "address": "WMP19550160170",
+  "displayAddress": "M.P. 1955 nr 16 poz. 170",
+  "title": "Zarządzenie Ministra Przemysłu Drobnego i Rzemiosła z dnia 12 lutego 1955 r. w sprawie rozdziału materiałów przeznaczonych na zaopatrzenie zakładów rzemieślniczych świadczących usługi.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-02-12",
+  "entryIntoForce": "1955-02-26",
+  "validFrom": "1955-02-26",
+  "repealDate": "1956-05-18",
+  "changeDate": "2014-12-31T12:24:30",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU DROBNEGO I RZEMIOSŁA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1956/450",
+     "date": "1956-05-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1955/113"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1955/113"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1955/113",
+     "art": "par. 5 ust. 2"
+    },
+    {
+     "id": "MP/1955/113",
+     "art": "par. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19550170.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19550170.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
