@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1992/190",
+ "source_sha256": "1391863a8b4d4c664a98d8b2b263a9aa490858a384e46d1973f019534b0f1c6a",
+ "in_force": "1992-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1992/190",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1992/190/text/O/M19920190.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1992/190/text/I/M19920190.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1992/190",
+  "publisher": "MP",
+  "year": 1992,
+  "volume": 27,
+  "pos": 190,
+  "address": "WMP19920270190",
+  "displayAddress": "M.P. 1992 nr 27 poz. 190",
+  "title": "Zarządzenie Ministra Finansów z dnia 31 lipca 1992 r. w sprawie zaniechania ustalania i poboru opłaty skarbowej od sprzedaży bonów pieniężnych Narodowego Banku Polskiego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-07-31",
+  "entryIntoForce": "1992-09-01",
+  "validFrom": "1992-09-01",
+  "repealDate": "1993-07-13",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "opłata skarbowa",
+   "bony oszczędnościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1993/261",
+     "date": "1993-07-13"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1990/290",
+     "date": "1992-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 8 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19920190.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19920190.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
