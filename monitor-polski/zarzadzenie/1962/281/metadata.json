@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/281",
+ "source_sha256": "474d362aefcb32b1e28c03c0e221b9fef9d1cffa41bbbe06d916b8920a1a8471",
+ "in_force": "1962-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/281",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/281/text/O/M19620281.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/281/text/I/M19620281.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/281",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 59,
+  "pos": 281,
+  "address": "WMP19620590281",
+  "displayAddress": "M.P. 1962 nr 59 poz. 281",
+  "title": "Zarządzenie nr 67 Prezesa Rady Ministrów z dnia 21 lipca 1962 r. w sprawie uzupełnienia wykazu organizacji, których przedstawiciele wchodzą w skład Komitetu Drobnej Wytwórczości.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-07-21",
+  "entryIntoForce": "1962-07-31",
+  "validFrom": "1962-07-31",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/420"
+    },
+    {
+     "id": "DU/1958/225"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/420",
+     "art": "par. 1 ust. 2"
+    },
+    {
+     "id": "DU/1958/225",
+     "art": "art. 4 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620281.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620281.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
