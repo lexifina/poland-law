@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/730",
+ "source_sha256": "105e80aeb9bc9a17632dae697437857f9992d6750ee3a056203ab26d9d07e1db",
+ "in_force": "2000-11-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/730",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/730/text/O/M20000730.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/730/text/I/M20000730.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/730",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 36,
+  "pos": 730,
+  "address": "WMP20000360730",
+  "displayAddress": "M.P. 2000 nr 36 poz. 730",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 10 listopada 2000 r. o podaniu do publicznej wiadomości prawomocnego orzeczenia Sądu stwierdzającego niezgodność z prawdą oświadczenia osoby lustrowanej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-11-10",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. SADU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lustracja",
+   "bezpieczeństwo państwa",
+   "funkcje publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000730.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000730.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
