@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/44",
+ "source_sha256": "1fc504272301ac53b9e2ea8d56c39133a94c9d5e253fc2038339a5d62e262acc",
+ "in_force": "1934-01-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/44/text/O/D19340044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/44/text/I/D19340044.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/44",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 6,
+  "pos": 44,
+  "address": "WDU19340060044",
+  "displayAddress": "Dz.U. 1934 nr 6 poz. 44",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 13 stycznia 1934 r. w porozumieniu z Ministrem Przemysłu i Handlu w sprawie poboru scalonego podatku przemysłowego od cukru.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-13",
+  "promulgation": "1934-01-24",
+  "entryIntoForce": "1934-01-24",
+  "validFrom": "1934-01-24",
+  "repealDate": "1936-02-24",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cukrownictwo",
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/125",
+     "date": "1936-02-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/703",
+     "date": "1934-01-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1925/550"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1925/550",
+     "art": "art. 76 ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340044.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
