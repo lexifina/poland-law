@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/171",
+ "source_sha256": "9bbc9b89765d96097f698c23ebb0dd1984896968a4c8962bab6c5c004d2bc90e",
+ "in_force": "1999-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/171",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/171/text/O/D19990171.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/171/text/I/D19990171.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/171/text/T/D19990171L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/171",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 20,
+  "pos": 171,
+  "address": "WDU19990200171",
+  "displayAddress": "Dz.U. 1999 nr 20 poz. 171",
+  "title": "Rozporządzenie Rady Ministrów z dnia 4 marca 1999 r. zmieniające rozporządzenie w sprawie określenia wykazu gmin zagrożonych szczególnie wysokim bezrobociem strukturalnym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-03-04",
+  "entryIntoForce": "1999-03-10",
+  "validFrom": "1999-01-01",
+  "repealDate": "1999-12-31",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezrobocie",
+   "zatrudnianie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1999/1264",
+     "date": "1999-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1996/338",
+     "date": "1999-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990171.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990171.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990171L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
