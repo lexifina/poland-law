@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/113",
+ "source_sha256": "af8460c1cf6762ef52e413c250486024108fdead43e1f58a573e78eadd6e1238",
+ "in_force": "1972-03-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/113",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/113/text/O/M19720113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/113/text/I/M19720113.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/113",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 18,
+  "pos": 113,
+  "address": "WMP19720180113",
+  "displayAddress": "M.P. 1972 nr 18 poz. 113",
+  "title": "Zarządzenie Ministra Przemysłu Spożywczego i Skupu z dnia 25 lutego 1972 r. w sprawie cen skupu oraz zasad klasyfikacji liści i nasion tytoniu krajowego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-02-25",
+  "entryIntoForce": "1972-03-25",
+  "validFrom": "1972-03-25",
+  "repealDate": "1973-05-26",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/145",
+     "date": "1973-05-26"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1970/176",
+     "date": "1972-03-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1972/3"
+    },
+    {
+     "id": "DU/1953/144"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1972/3",
+     "art": "par. 3 ust. 2"
+    },
+    {
+     "id": "DU/1953/144",
+     "art": "art. 1 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
