@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/417",
+ "source_sha256": "49e665bc0fcd8aab537770c8ba54620816a760a6a18add3197c4c4b394b8c417",
+ "in_force": "1999-05-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/417",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/417/text/O/D19990417.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/417/text/I/D19990417.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/417/text/T/D19990417L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/417",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 41,
+  "pos": 417,
+  "address": "WDU19990410417",
+  "displayAddress": "Dz.U. 1999 nr 41 poz. 417",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 27 kwietnia 1999 r. zmieniające rozporządzenie w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-27",
+  "entryIntoForce": "1999-05-10",
+  "validFrom": "1999-05-10",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "oświata i wychowanie",
+   "terytorialny zakres działania"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/134",
+     "date": "1999-05-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 9c ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990417.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990417.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990417L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
