@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1975/200",
+ "source_sha256": "aea89032c6fd32e39a43f01b39d70a2495d9cf709b44dfa1c221368ae310bf87",
+ "in_force": "1975-09-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1975/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1975/200/text/O/M19750200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1975/200/text/I/M19750200.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1975/200",
+  "publisher": "MP",
+  "year": 1975,
+  "volume": 32,
+  "pos": 200,
+  "address": "WMP19750320200",
+  "displayAddress": "M.P. 1975 nr 32 poz. 200",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 18 września 1975 r. w sprawie ogłoszenia jednolitego tekstu uchwały Komitetu Obrony Kraju z dnia 21 grudnia 1971 r. w sprawie formacji samoobrony.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-09-18",
+  "entryIntoForce": "1975-09-18",
+  "validFrom": "1975-09-18",
+  "repealDate": "1983-11-22",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona cywilna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1975/199"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1975/199",
+     "art": "par. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1972/28"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/278",
+     "date": "1983-11-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19750200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19750200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
