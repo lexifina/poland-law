@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/926",
+ "source_sha256": "5457ce0b73ed9c2410e361d5aff7da8fad7df9d592af2d1fbea59a08bb594cb1",
+ "in_force": "2001-08-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (5 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/926",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/926/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/926/text/O/D20010926.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/926/text/I/D20010926.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/926/text/T/D20010926L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/926",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 85,
+  "pos": 926,
+  "address": "WDU20010850926",
+  "displayAddress": "Dz.U. 2001 nr 85 poz. 926",
+  "title": "Ustawa z dnia 28 lipca 2001 r. o zmianie ustawy budżetowej na rok 2001.",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-07-28",
+  "promulgation": "2001-08-17",
+  "entryIntoForce": "2001-08-17",
+  "validFrom": "2001-08-17",
+  "expirationDate": "2001-12-31",
+  "changeDate": "2024-03-15T09:58:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/3178.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/3178",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/3178",
+    "number": "3178",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/246",
+     "date": "2001-08-17"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010926.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010926.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010926L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
