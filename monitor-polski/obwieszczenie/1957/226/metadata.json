@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/226",
+ "source_sha256": "0e7482c2113c95d4debc952db31afc0d0a9c084f15893bc4f562064c0b135569",
+ "in_force": "1957-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/226",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/226/text/O/M19570226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/226/text/I/M19570226.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/226",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 33,
+  "pos": 226,
+  "address": "WMP19570330226",
+  "displayAddress": "M.P. 1957 nr 33 poz. 226",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 maja 1957 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-05-01",
+  "entryIntoForce": "1957-05-01",
+  "validFrom": "1957-05-01",
+  "repealDate": "1957-06-15",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1957/301",
+     "date": "1957-06-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/222",
+     "date": "1957-05-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570226.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
