@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/33",
+ "source_sha256": "7dd4e460c6be9b29fa2394df40266a89bfeb42daeed17edd66af8e2a68dcf7cb",
+ "in_force": "1931-01-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/33",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/33/text/O/D19310033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/33/text/I/D19310033.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/33",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 7,
+  "pos": 33,
+  "address": "WDU19310070033",
+  "displayAddress": "Dz.U. 1931 nr 7 poz. 33",
+  "title": "Rozporządzenie Rady Ministrów z dnia 12 stycznia 1931 r. o zmianie rozporządzenia z dnia 22 kwietnia 1927 r. w sprawie wydzielenia z administracji państwowej przedsiębiorstwa państwowego pod nazwą: \"Państwowa Fabryka Związków Azotowych w Tarnowie\".",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-01-12",
+  "promulgation": "1931-01-28",
+  "entryIntoForce": "1931-01-28",
+  "validFrom": "1931-01-28",
+  "changeDate": "2020-09-23T13:38:30",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/348",
+     "date": "1931-01-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/195"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/195",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1927/195",
+     "art": "art. 33"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310033.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
