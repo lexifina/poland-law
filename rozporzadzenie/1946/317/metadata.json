@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/317",
+ "source_sha256": "f526bc5ff6e116ec6f0199ed0843e00d6d77f6035317344ed49fda6978c594dc",
+ "in_force": "1946-11-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/317",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/317/text/O/D19460317.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/317/text/I/D19460317.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/317",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 55,
+  "pos": 317,
+  "address": "WDU19460550317",
+  "displayAddress": "Dz.U. 1946 nr 55 poz. 317",
+  "title": "Rozporządzenie Ministra Żeglugi i Handlu Zagranicznego z dnia 21 października 1946 r. w sprawie ograniczeń połowu szprota.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-10-21",
+  "entryIntoForce": "1946-11-08",
+  "validFrom": "1946-11-08",
+  "repealDate": "1951-11-05",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. ŻEGLUGI I HANDLU ZAGRANICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "GENERALNY INSPEKTOR RYBOŁÓWSTWA MORSKIEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/389",
+     "date": "1951-11-05"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1946/186",
+     "date": "1946-11-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1936/586"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/13"
+    },
+    {
+     "id": "DU/1936/586"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460317.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460317.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
