@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/360",
+ "source_sha256": "bd58a3a1df48452dca8dc8279e8ec77cf6e9bc4bd778ca1d998d0560f3ea2303",
+ "in_force": "1932-04-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/360",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/360/text/O/D19320360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/360/text/I/D19320360.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/360",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 35,
+  "pos": 360,
+  "address": "WDU19320350360",
+  "displayAddress": "Dz.U. 1932 nr 35 poz. 360",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 26 lutego 1932 r. w sprawie zmiany tymczasowych przepisów o przestrzeganiu porządku na kolejach.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-02-26",
+  "promulgation": "1932-04-25",
+  "entryIntoForce": "1932-04-25",
+  "validFrom": "1932-04-25",
+  "repealDate": "1935-01-23",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1934/961",
+     "date": "1935-01-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/567"
+    },
+    {
+     "id": "DU/1924/580"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/567",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1924/580",
+     "art": "art. 4 pkt 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320360.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
