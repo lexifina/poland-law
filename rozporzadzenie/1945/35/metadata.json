@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/35",
+ "source_sha256": "92318438459655926385beed5e43ebb8502b7272bef89914d42650934719f306",
+ "in_force": "1945-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/35",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/35/text/O/D19450035.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/35/text/I/D19450035.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/35",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 7,
+  "pos": 35,
+  "address": "WDU19450070035",
+  "displayAddress": "Dz.U. 1945 nr 7 poz. 35",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 3 marca 1945 r. o tymczasowej siedzibie Sądu Najwyższego.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-03-03",
+  "entryIntoForce": "1945-03-10",
+  "validFrom": "1945-03-10",
+  "repealDate": "1950-08-19",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/58"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/347",
+     "date": "1950-08-19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450035.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450035.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
