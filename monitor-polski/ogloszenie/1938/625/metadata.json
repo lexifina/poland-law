@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/625",
+ "source_sha256": "882bd85a6d8962d5ca9b5c70d77703c25258c1deca547c81dc2b90a2df0fe186",
+ "in_force": "1938-11-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/625",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/625/text/O/M19380625.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/625/text/I/M19380625.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/625",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 268,
+  "pos": 625,
+  "address": "WMP19382680625",
+  "displayAddress": "M.P. 1938 nr 268 poz. 625",
+  "title": "Ogłoszenie Generalnego Komisarza Wyborczego z dnia 22 listopada 1938 r.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-11-22",
+  "promulgation": "1938-11-23",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "GENERALNY KOMISARZ WYBORCZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/320"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/320",
+     "art": "art. 40"
+    },
+    {
+     "id": "DU/1935/320",
+     "art": "art. 41"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380625.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380625.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
