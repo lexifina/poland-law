@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/222",
+ "source_sha256": "bbeebba8a21c5e2beb40b6b93ef6352da8d781449201eefc32d1831e5b949cbe",
+ "in_force": "1968-08-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/222/text/O/M19680222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/222/text/I/M19680222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/222",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 33,
+  "pos": 222,
+  "address": "WMP19680330222",
+  "displayAddress": "M.P. 1968 nr 33 poz. 222",
+  "title": "Zarządzenie Ministra Finansów z dnia 20 lipca 1968 r. zmieniające zarządzenie w sprawie gospodarki finansowej niektórych przedsiębiorstw zbytu i zaopatrzenia.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-07-20",
+  "entryIntoForce": "1968-08-01",
+  "validFrom": "1968-08-01",
+  "repealDate": "1971-01-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1970/348",
+     "date": "1971-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1965/366",
+     "date": "1968-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1965/316"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1965/316",
+     "art": "par. 55"
+    },
+    {
+     "id": "MP/1965/316",
+     "art": "par. 56"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
