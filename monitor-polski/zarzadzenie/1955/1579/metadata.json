@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1955/1579",
+ "source_sha256": "9210688dabe51e9503919b698265f9e3a579eea6f2f8973188b28da342557d6b",
+ "in_force": "1955-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1955/1579",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1955/1579/text/O/M19551579.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1955/1579/text/I/M19551579.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1955/1579",
+  "publisher": "MP",
+  "year": 1955,
+  "volume": 119,
+  "pos": 1579,
+  "address": "WMP19551191579",
+  "displayAddress": "M.P. 1955 nr 119 poz. 1579",
+  "title": "Zarządzenie Ministra Przemysłu Materiałów Budowlanych z dnia 31 października 1955 r. w sprawie trybu postępowania przy ustalaniu cen.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-10-31",
+  "entryIntoForce": "1955-12-15",
+  "validFrom": "1955-12-15",
+  "repealDate": "1959-03-02",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU MATERIAŁÓW BUDOWLANYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1959/86",
+     "date": "1959-03-02"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1955/88"
+    },
+    {
+     "id": "MP/1954/845"
+    },
+    {
+     "id": "MP/1954/823"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1954/845"
+    },
+    {
+     "id": "DU/1952/305"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1954/845",
+     "art": "par. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19551579.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19551579.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
