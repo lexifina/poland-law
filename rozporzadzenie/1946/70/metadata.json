@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/70",
+ "source_sha256": "182e0260e25cec1e2ebf0b23fadbcad8689e72bf48f131f308a3a2d2db8598c9",
+ "in_force": "1946-03-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/70",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/70/text/O/D19460070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/70/text/I/D19460070.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/70",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 9,
+  "pos": 70,
+  "address": "WDU19460090070",
+  "displayAddress": "Dz.U. 1946 nr 9 poz. 70",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 2 marca 1946 r. o rejestrze i statystyce osób skazanych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-03-02",
+  "entryIntoForce": "1946-03-29",
+  "validFrom": "1946-03-29",
+  "repealDate": "1952-09-27",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1952/273",
+     "date": "1952-09-27"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1936/663",
+     "date": "1946-03-29"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1947/425",
+     "date": "1947-11-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1932/571"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
