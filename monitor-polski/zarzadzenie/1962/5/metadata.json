@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/5",
+ "source_sha256": "478d2d4ac7be568ac96a9edfd7ea4d6b865e2b3c691d691b1a9e7d9474bd0b60",
+ "in_force": "1962-01-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/5",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/5/text/O/M19620005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/5/text/I/M19620005.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/5",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 2,
+  "pos": 5,
+  "address": "WMP19620020005",
+  "displayAddress": "M.P. 1962 nr 2 poz. 5",
+  "title": "Zarządzenie Ministra Finansów z dnia 22 grudnia 1961 r. w sprawie rozliczania udziałów budżetów terenowych w dochodach budżetu centralnego na rok 1962.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-12-22",
+  "entryIntoForce": "1962-01-08",
+  "validFrom": "1962-01-01",
+  "repealDate": "1971-01-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1963/8",
+     "date": "1963-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1961/87"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/221",
+     "art": "art. 51"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1970/244",
+     "date": "1971-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
