@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1956/11",
+ "source_sha256": "52e3d8b00185ebfa87fcbe2a8746850c2dee785daf1069c40c3519e3dda050ae",
+ "in_force": "1956-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1956/11",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1956/11/text/O/D19560011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1956/11/text/I/D19560011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1956/11",
+  "publisher": "DU",
+  "year": 1956,
+  "volume": 2,
+  "pos": 11,
+  "address": "WDU19560020011",
+  "displayAddress": "Dz.U. 1956 nr 2 poz. 11",
+  "title": "Dekret z dnia 18 stycznia 1956 r. o ograniczeniu dopuszczalności rozwiązywania umów o pracę bez wypowiedzenia oraz o zabezpieczeniu ciągłości pracy.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-01-18",
+  "entryIntoForce": "1956-01-25",
+  "validFrom": "1956-01-25",
+  "repealDate": "1975-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1974/142",
+     "date": "1975-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1959/170",
+     "date": "1959-07-01"
+    },
+    {
+     "id": "DU/1956/187",
+     "date": "1956-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1928/324",
+     "date": "1956-01-25"
+    },
+    {
+     "id": "DU/1928/323",
+     "date": "1956-01-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19560011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19560011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
