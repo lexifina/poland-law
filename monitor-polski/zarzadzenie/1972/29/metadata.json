@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/29",
+ "source_sha256": "4a03ead38caf5382856b09497aa950cc4665523d926fe9c9066eb937a16f2797",
+ "in_force": "1972-01-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/29",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/29/text/O/M19720029.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/29/text/I/M19720029.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/29",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 5,
+  "pos": 29,
+  "address": "WMP19720050029",
+  "displayAddress": "M.P. 1972 nr 5 poz. 29",
+  "title": "Zarządzenie Ministra Finansów z dnia 4 stycznia 1972 r. zmieniające zarządzenie w sprawie klasyfikacji dochodów i wydatków budżetu centralnego i budżetów terenowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-01-04",
+  "entryIntoForce": "1972-01-28",
+  "validFrom": "1972-01-28",
+  "repealDate": "1973-02-13",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/41",
+     "date": "1973-02-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1971/33",
+     "date": "1972-01-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1971/196"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1970/244"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1970/244",
+     "art": "art. 91 ust. 1 pkt 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720029.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720029.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
