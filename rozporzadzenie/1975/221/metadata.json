@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1975/221",
+ "source_sha256": "9b7e331f9f207088ddb702c7322f8a1b5a842258954b297585ee1e28637b2e6c",
+ "in_force": "1976-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1975/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1975/221/text/O/D19750221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1975/221/text/I/D19750221.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1975/221",
+  "publisher": "DU",
+  "year": 1975,
+  "volume": 43,
+  "pos": 221,
+  "address": "WDU19750430221",
+  "displayAddress": "Dz.U. 1975 nr 43 poz. 221",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 1975 r. w sprawie wynagrodzenia tłumaczy przysięgłych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-12-06",
+  "promulgation": "1975-12-19",
+  "entryIntoForce": "1976-01-01",
+  "validFrom": "1976-01-01",
+  "repealDate": "1982-08-19",
+  "changeDate": "2014-12-31T12:25:31",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tłumacze",
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1982/174",
+     "date": "1982-08-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1961/257",
+     "date": "1976-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/93",
+     "art": "art. 142 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19750221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19750221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
