@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/54",
+ "source_sha256": "081d97491c6ca492b3df7823f89b3459e3a6412d762be3fe680f5d6a687744d4",
+ "in_force": "1997-03-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/54",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/54/text/O/D19970054.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/54/text/I/D19970054.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/54",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 10,
+  "pos": 54,
+  "address": "WDU19970100054",
+  "displayAddress": "Dz.U. 1997 nr 10 poz. 54",
+  "title": "Rozporządzenie Ministra Łączności z dnia 9 stycznia 1997 r. w sprawie przeznaczeń częstotliwości i zakresów częstotliwości na obszarze Rzeczypospolitej Polskiej oraz warunków ich wykorzystania.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-01-09",
+  "entryIntoForce": "1997-03-09",
+  "validFrom": "1997-03-09",
+  "repealDate": "1999-12-30",
+  "changeDate": "2014-12-31T12:25:46",
+  "releasedBy": [
+   "MIN. ŁĄCZNOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiokomunikacja",
+   "łączność"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1999/1252",
+     "date": "1999-12-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1997/836",
+     "date": "1997-10-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/504"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/504",
+     "art": "art. 9 pkt 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19970054.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970054.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
