@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/96",
+ "source_sha256": "d9a8c9c6ab5408c587cbe50ca673d06da81c4660cfb7ee6bf346eef35382e8a9",
+ "in_force": "1935-03-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/96",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/96/text/O/M19350096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/96/text/I/M19350096.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/96",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 70,
+  "pos": 96,
+  "address": "WMP19350700096",
+  "displayAddress": "M.P. 1935 nr 70 poz. 96",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 16 marca 1935 r. Nr. 2577/35",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-03-16",
+  "promulgation": "1935-03-25",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/319"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/319",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1935/319",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1935/319",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350096.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
