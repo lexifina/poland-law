@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/104",
+ "source_sha256": "8dffef3402f2727d997f09577bde794f7b73ebb07e75c6c6a13340d2e656ed90",
+ "in_force": "1932-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/104",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/104/text/O/D19320104.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/104/text/I/D19320104.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/104",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 16,
+  "pos": 104,
+  "address": "WDU19320160104",
+  "displayAddress": "Dz.U. 1932 nr 16 poz. 104",
+  "title": "Obwieszczenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 15 stycznia 1932 r. o sprostowaniu błędu w rozporządzeniu z dnia 19 grudnia 1931 r. w sprawie częściowej zmiany taryfy celnej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-01-15",
+  "promulgation": "1932-03-03",
+  "changeDate": "2020-11-03T15:55:22",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. SKARBU",
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "sprostowanie",
+   "taryfy celne, wywóz i przywóz"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1931/885"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320104.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320104.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
