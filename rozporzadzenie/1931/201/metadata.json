@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/201",
+ "source_sha256": "8475f8ba44c7886016c4df9a0a79b291189cc70e04f6a862761762e48a18f9a7",
+ "in_force": "1931-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/201",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/201/text/O/D19310201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/201/text/I/D19310201.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/201",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 29,
+  "pos": 201,
+  "address": "WDU19310290201",
+  "displayAddress": "Dz.U. 1931 nr 29 poz. 201",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 26 marca 1931 r. w sprawie uzupełnienia taryfy pocztowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-03-26",
+  "promulgation": "1931-04-01",
+  "entryIntoForce": "1931-04-01",
+  "validFrom": "1931-04-01",
+  "repealDate": "1931-10-15",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1931/711",
+     "date": "1931-10-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1929/181",
+     "date": "1931-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/584"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/584",
+     "art": "art. 17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
