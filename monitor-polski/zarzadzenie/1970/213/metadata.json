@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1970/213",
+ "source_sha256": "a8c41ea32039c8bcefdb488af5341b5ba4a52b88da00c28f2ad707cc7a82c632",
+ "in_force": "1970-08-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1970/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1970/213/text/O/M19700213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1970/213/text/I/M19700213.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1970/213",
+  "publisher": "MP",
+  "year": 1970,
+  "volume": 25,
+  "pos": 213,
+  "address": "WMP19700250213",
+  "displayAddress": "M.P. 1970 nr 25 poz. 213",
+  "title": "Zarządzenie Przewodniczącego Komitetu Nauki i Techniki z dnia 30 lipca 1970 r. w sprawie wytycznych dotyczących zasad organizacji specjalistycznych laboratoriów środowiskowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-07-30",
+  "entryIntoForce": "1970-08-08",
+  "validFrom": "1970-08-08",
+  "repealDate": "1993-09-13",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PRZEW. KOMITETU NAUKI I TECHNIKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [
+   "Polska Akademia Nauk"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1993/428",
+     "date": "1993-09-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1961/60"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1970/201"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1970/201",
+     "art": "par. 5 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19700213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19700213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
