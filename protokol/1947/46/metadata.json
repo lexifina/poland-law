@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1947/46",
+ "source_sha256": "880cc8c33202e48dc0c38e73f091efcaa891b321b4e6099eabcfe1e97825c53e",
+ "in_force": "1947-02-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1947/46",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1947/46/text/O/D19470046.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1947/46/text/I/D19470046.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1947/46",
+  "publisher": "DU",
+  "year": 1947,
+  "volume": 11,
+  "pos": 46,
+  "address": "WDU19470110046",
+  "displayAddress": "Dz.U. 1947 nr 11 poz. 46",
+  "title": "Protokół objęcia władzy przez Prezydenta Rzeczypospolitej Bolesława Bieruta.",
+  "type": "Protokół",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1947-02-05",
+  "entryIntoForce": "1947-02-05",
+  "validFrom": "1947-02-05",
+  "repealDate": "1952-07-22",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1947/43"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/43"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1952/233",
+     "date": "1952-07-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19470046.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19470046.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
