@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/307",
+ "source_sha256": "95e8f2fbfb4d8ba8b55893184cf58fcaef9feacbdfc433b1ce30be279bc5845a",
+ "in_force": "2000-05-12",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/307",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/307/text/O/M20000307.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/307/text/I/M20000307.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/307",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 14,
+  "pos": 307,
+  "address": "WMP20000140307",
+  "displayAddress": "M.P. 2000 nr 14 poz. 307",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 12 maja 2000 r. w sprawie szacunku produktu krajowego brutto w 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-12",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1014",
+     "art": "art. 201 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000307.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000307.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
