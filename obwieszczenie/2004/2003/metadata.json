@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2003",
+ "source_sha256": "6efc35ad3762e2dce81d95be0f0fd64b98342e1eae3cf8e13e297e6f42f12641",
+ "in_force": "2004-09-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 171 words, parsed 48; at 48: 'prostuje się następujące błędy : 1 ) w rozporządzeniu Ministra'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2003",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/2003/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2003/text/O/D20042003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2003/text/I/D20042003.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2003",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 194,
+  "pos": 2003,
+  "address": "WDU20041942003",
+  "displayAddress": "Dz.U. 2004 nr 194 poz. 2003",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 1 września 2004 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-09-01",
+  "promulgation": "2004-09-06",
+  "changeDate": "2024-03-15T09:56:07",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "świadectwa i dyplomy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2004/1897"
+    },
+    {
+     "id": "DU/2004/1881"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20042003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
