@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/9",
+ "source_sha256": "2f80519ea6d60df8fe99b09cbffc596577641893920d4d061e67e98275882937",
+ "in_force": "1933-01-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/9",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/9/text/O/D19330009.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/9/text/I/D19330009.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/9",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 1,
+  "pos": 9,
+  "address": "WDU19330010009",
+  "displayAddress": "Dz.U. 1933 nr 1 poz. 9",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 9 stycznia 1933 r. w sprawie sprostowania błędu w rozporządzeniu Prezesa Rady Ministrów z dnia 23 grudnia 1932 r. - Regulamin Najwyższego Trybunału Administracyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-01-09",
+  "promulgation": "1933-01-10",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "porządkowanie prawa",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 lit. c)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1932/968"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330009.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330009.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
