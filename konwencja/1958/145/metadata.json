@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1958/145",
+ "source_sha256": "b64d968a9ebd99867c1dbdd3bd96e7f208a99e5f916439edeed6356790aabe3a",
+ "in_force": "1958-02-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1958/145",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1958/145/text/O/D19580145.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1958/145/text/I/D19580145.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1958/145",
+  "publisher": "DU",
+  "year": 1958,
+  "volume": 32,
+  "pos": 145,
+  "address": "WDU19580320145",
+  "displayAddress": "Dz.U. 1958 nr 32 poz. 145",
+  "title": "Konwencja konsularna między Polską Rzecząpospolitą Ludową a Związkiem Socjalistycznych Republik Radzieckich, podpisana w Warszawie dnia 21 stycznia 1958 r.",
+  "type": "Konwencja",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-02-18",
+  "repealDate": "1972-04-27",
+  "changeDate": "2014-12-31T12:25:28",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsularne prawo",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Związek Socjalistycznych Republik Radzieckich"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1972/107",
+     "date": "1972-04-27"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1958/146"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19580145.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19580145.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
