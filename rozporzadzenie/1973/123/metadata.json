@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1973/123",
+ "source_sha256": "26c5daf9e5b454804e269e20e3e1bfc99ee4ecbeecf3b33415d4a74064537616",
+ "in_force": "1973-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1973/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1973/123/text/O/D19730123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1973/123/text/I/D19730123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1973/123",
+  "publisher": "DU",
+  "year": 1973,
+  "volume": 21,
+  "pos": 123,
+  "address": "WDU19730210123",
+  "displayAddress": "Dz.U. 1973 nr 21 poz. 123",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 19 maja 1973 r. w sprawie wysokości opłat kancelaryjnych w sprawach cywilnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-05-19",
+  "promulgation": "1973-05-31",
+  "entryIntoForce": "1973-06-01",
+  "validFrom": "1973-06-01",
+  "repealDate": "1982-08-24",
+  "changeDate": "2014-12-31T12:25:31",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1982/167",
+     "date": "1982-08-24"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1967/242",
+     "date": "1973-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1971/125",
+     "date": "1973-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/110"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/110",
+     "art": "art. 40"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19730123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19730123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
