@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/76",
+ "source_sha256": "90914afdd0187ee4aaef2cf18ff7143f530e985eac18b56659db5417a8faffaa",
+ "in_force": "1972-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/76",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/76/text/O/M19720076.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/76/text/I/M19720076.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/76",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 10,
+  "pos": 76,
+  "address": "WMP19720100076",
+  "displayAddress": "M.P. 1972 nr 10 poz. 76",
+  "title": "Zarządzenie Ministra Przemysłu Chemicznego z dnia 28 stycznia 1972 r. w sprawie normatywów czasowych oddawania do montażu i eksploatacji maszyn, urządzeń i kompletnych obiektów.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-01-28",
+  "entryIntoForce": "1972-02-19",
+  "validFrom": "1972-02-19",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU CHEMICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1963/342",
+     "date": "1972-02-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1962/399"
+    },
+    {
+     "id": "MP/1962/249"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1962/249",
+     "art": "par. 10 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720076.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720076.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
