@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1976/1",
+ "source_sha256": "6f0fc7d8899176367c0bf173be2ab461789a200a79d015a61849e30257022c7c",
+ "in_force": "1976-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1976/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1976/1/text/O/M19760001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1976/1/text/I/M19760001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1976/1",
+  "publisher": "MP",
+  "year": 1976,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19760010001",
+  "displayAddress": "M.P. 1976 nr 1 poz. 1",
+  "title": "Uchwała nr 241 Rady Ministrów z dnia 30 grudnia 1975 r. zmieniająca uchwałę w sprawie pomocy kredytowej Państwa dla budownictwa mieszkaniowego osób fizycznych.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-12-30",
+  "entryIntoForce": "1976-01-13",
+  "validFrom": "1976-01-13",
+  "repealDate": "1981-08-20",
+  "changeDate": "2024-01-15T12:39:42",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo mieszkaniowe",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1981/70",
+     "date": "1981-08-20"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1971/399",
+     "date": "1976-01-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19760001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19760001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
