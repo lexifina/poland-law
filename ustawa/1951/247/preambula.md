@@ -1,0 +1,1 @@
+W celu usprawnienia i wzmożenia nadzoru państwowego nad drobną wytwórczością odpowiednio do wzrostu zadań tej gałęzi gospodarki w wykonaniu narodowych planów gospodarczych, dotyczących zaspokajania rosnących potrzeb ludności na artykuły masowego spożycia, oraz w celu podkreślenia roli spółdzielczości pracy i rzemiosła w dziedzinie świadczenia usług - stanowi się, co następuje:
