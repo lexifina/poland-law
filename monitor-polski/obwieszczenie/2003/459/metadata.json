@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/459",
+ "source_sha256": "673983452fe00f9aef33b15573fff54912e897ffebe9ebe0f7a1854e5f2069fd",
+ "in_force": "2003-06-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/459",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/459/text/O/M20030459.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/459/text/I/M20030459.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/459",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 34,
+  "pos": 459,
+  "address": "WMP20030340459",
+  "displayAddress": "M.P. 2003 nr 34 poz. 459",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 9 czerwca 2003 r. o zwolnieniu stanowiska sędziowskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-06-09",
+  "promulgation": "2003-06-30",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030459.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030459.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
