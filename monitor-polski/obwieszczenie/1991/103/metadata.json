@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/103",
+ "source_sha256": "55bb4e3fd84a8924b32aac4936d3e07a1fec3341a8f1a7f9ee3ed6fc8b80c211",
+ "in_force": "1991-04-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/103/text/O/M19910103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/103/text/I/M19910103.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/103",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 15,
+  "pos": 103,
+  "address": "WMP19910150103",
+  "displayAddress": "M.P. 1991 nr 15 poz. 103",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 8 kwietnia 1991 r. w sprawie zmian w wykazie obowiązków sprawozdawczych ustalonych przez Główny Urząd Statystyczny.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-04-08",
+  "entryIntoForce": "1991-04-26",
+  "validFrom": "1991-04-26",
+  "repealDate": "1993-03-13",
+  "changeDate": "2019-05-10T11:07:23",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1993/70",
+     "date": "1993-03-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1991/81",
+     "date": "1991-04-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/58",
+     "art": "art. 16 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
