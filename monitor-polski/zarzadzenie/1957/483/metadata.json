@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/483",
+ "source_sha256": "c065e9807f172763e9e619def424ab411f2ec853da34b632c42782d4f1cfd55b",
+ "in_force": "1957-10-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/483",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/483/text/O/M19570483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/483/text/I/M19570483.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/483",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 80,
+  "pos": 483,
+  "address": "WMP19570800483",
+  "displayAddress": "M.P. 1957 nr 80 poz. 483",
+  "title": "Zarządzenie Ministra Finansów z dnia 26 września 1957 r. w sprawie wykonywania szczególnego nadzoru podatkowego w przemyśle cukrowniczym.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-09-26",
+  "entryIntoForce": "1957-10-09",
+  "validFrom": "1957-09-30",
+  "repealDate": "1968-09-12",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/273",
+     "date": "1968-09-12"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1958/487",
+     "date": "1958-11-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1957/258"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/174"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1946/174",
+     "art": "art. 4 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570483.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
