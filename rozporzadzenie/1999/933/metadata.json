@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/933",
+ "source_sha256": "2c097251f40cea4ee38543a99b7f266c32befec910641d8058a31195ba4cbb87",
+ "in_force": "1999-10-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/933",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/933/text/O/D19990933.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/933/text/I/D19990933.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/933/text/T/D19990933L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/933",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 83,
+  "pos": 933,
+  "address": "WDU19990830933",
+  "displayAddress": "Dz.U. 1999 nr 83 poz. 933",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 30 września 1999 r. w sprawie ustanowienia kontyngentu na przywóz węgla pochodzącego z Federacji Rosyjskiej.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-09-30",
+  "entryIntoForce": "1999-10-30",
+  "validFrom": "1999-10-30",
+  "repealDate": "1999-12-31",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontyngenty celne",
+   "węgiel"
+  ],
+  "keywordsNames": [
+   "Rosja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1999/933",
+     "date": "1999-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/1026"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/1026",
+     "art": "art. 10 ust. 1 i 2"
+    },
+    {
+     "id": "DU/1997/1026",
+     "art": "art. 8 ust. 2 pkt 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1999/933",
+     "date": "1999-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990933.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990933.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990933L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
