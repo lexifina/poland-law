@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1955/1203",
+ "source_sha256": "69595ed6cd2de6ac58ca5612b24416c80f459033f5dec0cb1b7eb14b97cc311b",
+ "in_force": "1955-10-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1955/1203",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1955/1203/text/O/M19551203.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1955/1203/text/I/M19551203.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1955/1203",
+  "publisher": "MP",
+  "year": 1955,
+  "volume": 93,
+  "pos": 1203,
+  "address": "WMP19550931203",
+  "displayAddress": "M.P. 1955 nr 93 poz. 1203",
+  "title": "Zarządzenie Ministra Rolnictwa z dnia 12 października 1955 r. w sprawie zasad i trybu uznawania ferm drobiu za zarodowe i reprodukcyjne oraz uznawania materiału rozpłodowego kur.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-10-12",
+  "entryIntoForce": "1955-10-21",
+  "validFrom": "1955-10-21",
+  "repealDate": "1960-12-08",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. ROLNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1955/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1955/34",
+     "art": "art. 18"
+    },
+    {
+     "id": "DU/1955/34",
+     "art": "art. 4"
+    },
+    {
+     "id": "DU/1955/34",
+     "art": "art. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1960/310",
+     "date": "1960-12-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19551203.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19551203.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
