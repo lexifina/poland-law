@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/772",
+ "source_sha256": "a43d8c5201b2bd2cf43460a05634b8ea5230f9f0ceb0feb23d7b71a4fe3cbfd8",
+ "in_force": "1933-12-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/772",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/772/text/O/D19330772.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/772/text/I/D19330772.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/772",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 101,
+  "pos": 772,
+  "address": "WDU19331010772",
+  "displayAddress": "Dz.U. 1933 nr 101 poz. 772",
+  "title": "Oświadczenie rządowe z dnia 9 grudnia 1933 r. w sprawie wymiany dokumentów ratyfikacyjnych umowy między Polską a Niemcami o małym ruchu granicznym, podpisanej wraz z protokółem końcowym oraz załącznikami I i II w Warszawie dnia 22 grudnia 1931 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1933-12-09",
+  "promulgation": "1933-12-29",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mały ruch graniczny",
+   "umowy międzynarodowe",
+   "ratyfikacja"
+  ],
+  "keywordsNames": [
+   "Niemcy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/771"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/771",
+     "art": "art. 35"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330772.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330772.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
