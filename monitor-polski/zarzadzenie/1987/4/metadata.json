@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/4",
+ "source_sha256": "a78f06aa255949618c1b8bf3f681c9983ddf7d9cdbc3d3e718103a710b7cfba9",
+ "in_force": "1987-01-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/4/text/O/M19870004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/4/text/I/M19870004.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/4",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 1,
+  "pos": 4,
+  "address": "WMP19870010004",
+  "displayAddress": "M.P. 1987 nr 1 poz. 4",
+  "title": "Zarządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 17 grudnia 1986 r. zmieniające zarządzenie w sprawie wykazu jednostek (placówek) uprawnionych do nadawania stopni naukowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1986-12-17",
+  "entryIntoForce": "1987-01-22",
+  "validFrom": "1987-01-22",
+  "repealDate": "1987-08-12",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "MIN. NAUKI I SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1987/191",
+     "date": "1987-08-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1979/69",
+     "date": "1987-01-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/101"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1965/101",
+     "art": "art. 4 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
