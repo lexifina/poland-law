@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/134",
+ "source_sha256": "178c84177d42488abcd9760d79e799dc37dede75fe54b62c02bbba4e6e189957",
+ "in_force": "2004-02-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/134/text/O/M20040134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/134/text/I/M20040134.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/134",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 9,
+  "pos": 134,
+  "address": "WMP20040090134",
+  "displayAddress": "M.P. 2004 nr 9 poz. 134",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 11 lutego 2004 r. w sprawie przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w 2003 r. i w drugim półroczu 2003 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-02-11",
+  "promulgation": "2004-02-18",
+  "changeDate": "2020-11-13T11:47:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/163"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/163",
+     "art": "art. 5 ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040134.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
