@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/314",
+ "source_sha256": "1cdee7fc4ed39f00d2872d000794612b13d0333f4888c31367797863ba382151",
+ "in_force": "1946-11-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/314",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/314/text/O/D19460314.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/314/text/I/D19460314.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/314",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 55,
+  "pos": 314,
+  "address": "WDU19460550314",
+  "displayAddress": "Dz.U. 1946 nr 55 poz. 314",
+  "title": "Rozporządzenie Ministra Przemysłu z dnia 8 października 1946 r. o ustaleniu siedzib i właściwości terytorialnej Okręgowych Urzędów Górniczych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-10-08",
+  "entryIntoForce": "1946-11-08",
+  "validFrom": "1946-11-08",
+  "repealDate": "1952-02-04",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1952/36",
+     "date": "1952-02-04"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1938/687",
+     "date": "1946-11-08"
+    },
+    {
+     "id": "DU/1935/460",
+     "date": "1946-11-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1946/242"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/654"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460314.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460314.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
