@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1948/221",
+ "source_sha256": "1538cc91e399fee1d1e6e6c34d70ba18da370b49d0f8a864e43cf1acd87ec95f",
+ "in_force": "1948-02-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1948/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1948/221/text/O/M19480221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1948/221/text/I/M19480221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1948/221",
+  "publisher": "MP",
+  "year": 1948,
+  "volume": 44,
+  "pos": 221,
+  "address": "WMP19480440221",
+  "displayAddress": "M.P. 1948 nr 44 poz. 221",
+  "title": "Orzeczenie nr 21 Ministra Przemysłu i Handlu z dnia 12 lutego 1948 r. o przejściu przedsiębiorstw na własność Państwa.",
+  "type": "Orzeczenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1948-02-12",
+  "entryIntoForce": "1948-02-12",
+  "validFrom": "1948-02-12",
+  "changeDate": "2022-10-11T10:20:48",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1950/8",
+     "date": "1949-12-02"
+    },
+    {
+     "id": "MP/1950/307",
+     "date": "1950-01-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1947/62"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1947/62"
+    },
+    {
+     "id": "DU/1946/17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19480221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19480221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
