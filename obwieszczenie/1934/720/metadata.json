@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/720",
+ "source_sha256": "6a982b40ad649cea2410d896dbb71d67d180adf9e3e09e5bdcfa8e93b96dae2f",
+ "in_force": "1934-08-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/720",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/720/text/O/D19340720.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/720/text/I/D19340720.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/720",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 76,
+  "pos": 720,
+  "address": "WDU19340760720",
+  "displayAddress": "Dz.U. 1934 nr 76 poz. 720",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 9 sierpnia 1934 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 grudnia 1931 r. o państwowym podatku od energji elektrycznej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-08-09",
+  "promulgation": "1934-08-31",
+  "repealDate": "1944-11-13",
+  "changeDate": "2022-01-28T14:18:27",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa",
+   "energetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1944/60",
+     "date": "1944-11-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/346"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/346",
+     "art": "art. 211 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340720.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340720.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
