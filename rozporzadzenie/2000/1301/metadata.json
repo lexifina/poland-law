@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1301",
+ "source_sha256": "eb96590d8693c79193971d9bd74d3a5123de48cd80c6bd5d8be0dc4e0dc0affc",
+ "in_force": "2001-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1301",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1301/text/O/D20001301.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1301/text/I/D20001301.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1301",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 121,
+  "pos": 1301,
+  "address": "WDU20001211301",
+  "displayAddress": "Dz.U. 2000 nr 121 poz. 1301",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 20 grudnia 2000 r. w sprawie ustanowienia automatycznej rejestracji obrotu w przywozie niektórych olejów ropy naftowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-12-20",
+  "entryIntoForce": "2001-01-01",
+  "validFrom": "2001-01-01",
+  "repealDate": "2001-05-31",
+  "changeDate": "2019-04-04T13:37:14",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "rejestry",
+   "sektor naftowy",
+   "oleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/564",
+     "date": "2001-05-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/1026"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/1026",
+     "art": "art. 10 ust. 4"
+    },
+    {
+     "id": "DU/1997/1026",
+     "art": "art. 8 ust. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20001301.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001301.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
