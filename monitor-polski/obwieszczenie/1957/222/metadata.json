@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/222",
+ "source_sha256": "78add1f53663ac42b3f4311858f653ca44844a0b71299a10f39fe4aeb5de0b62",
+ "in_force": "1957-04-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/222/text/O/M19570222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/222/text/I/M19570222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/222",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 32,
+  "pos": 222,
+  "address": "WMP19570320222",
+  "displayAddress": "M.P. 1957 nr 32 poz. 222",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 25 kwietnia 1957 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-04-25",
+  "entryIntoForce": "1957-04-25",
+  "validFrom": "1957-04-25",
+  "repealDate": "1957-05-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1957/226",
+     "date": "1957-05-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/155",
+     "date": "1957-04-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
