@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/123",
+ "source_sha256": "e3756c10a25e24afdb51ce61c2b7e80c779a2797def02855765359abef580568",
+ "in_force": "1952-02-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/123/text/O/M19520123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/123/text/I/M19520123.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/123",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 12,
+  "pos": 123,
+  "address": "WMP19520120123",
+  "displayAddress": "M.P. 1952 nr 12 poz. 123",
+  "title": "Uchwała nr 770 Prezydium Rządu z dnia 12 listopada 1951 r. w sprawie budownictwa zimowego 1951/52 r.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-11-12",
+  "entryIntoForce": "1952-02-06",
+  "validFrom": "1951-11-12",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1952/125"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
