@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/121",
+ "source_sha256": "d0ac3c787f1faa097fd6bb7a0839489ecad2c0a71161f6d5e5d2d2e1d578f2af",
+ "in_force": "2000-02-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/121/text/O/M20000121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/121/text/I/M20000121.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/121/text/T/M20000121L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/121",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 5,
+  "pos": 121,
+  "address": "WMP20000050121",
+  "displayAddress": "M.P. 2000 nr 5 poz. 121",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 9 lutego 2000 r. w sprawie przeciętnego wynagrodzenia w czwartym kwartale 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-02-09",
+  "changeDate": "2020-11-13T11:47:32",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000121.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000121L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
