@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/85",
+ "source_sha256": "cdad4ef85efdbdc7fdfd256bbbf7d1f781b64e25e34376962ed4adff7b077c47",
+ "in_force": "1933-02-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/85",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/85/text/O/D19330085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/85/text/I/D19330085.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/85",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 12,
+  "pos": 85,
+  "address": "WDU19330120085",
+  "displayAddress": "Dz.U. 1933 nr 12 poz. 85",
+  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 28 stycznia 1933 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 marca 1928 r. o służbie wojskowej podoficerów i szeregowców marynarki wojennej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-01-28",
+  "promulgation": "1933-02-24",
+  "repealDate": "1952-04-29",
+  "changeDate": "2014-12-31T12:25:22",
+  "releasedBy": [
+   "MIN. SPRAW WOJSKOWYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1952/129",
+     "date": "1952-04-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/748"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/748",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1928/251"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330085.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
