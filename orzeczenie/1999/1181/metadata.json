@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1181",
+ "source_sha256": "ac999a7609f58ee39d07c184cbbb7ac504910a8715da198dd3cb66f64244b0cf",
+ "in_force": "1999-12-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 767 words, parsed 71; at 71: 'orzeczenia stwierdzającego , że : 1 ) art . 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1181",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1181/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1181/text/O/D19991181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1181/text/I/D19991181.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1181/text/T/D19991181L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1181",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 101,
+  "pos": 1181,
+  "address": "WDU19991011181",
+  "displayAddress": "Dz.U. 1999 nr 101 poz. 1181",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 1999 r. sygn. akt SK. 14/98.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-14",
+  "entryIntoForce": "1999-12-17",
+  "validFrom": "1999-12-17",
+  "changeDate": "2024-03-15T11:34:28",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "żołnierz zawodowy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/688"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1996/44"
+    },
+    {
+     "id": "DU/1970/134"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991181.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991181L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
