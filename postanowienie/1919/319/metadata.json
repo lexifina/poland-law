@@ -1,0 +1,56 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/319",
+ "source_sha256": "b5813a3a6c24722c89953387055f3e5b5196dd9ab3ceadaf38abab01fdd03c89",
+ "in_force": "1919-06-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/319",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/319/text/O/D19190319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/319/text/I/D19190319.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/319",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 45,
+  "pos": 319,
+  "address": "WDU19190450319",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 45 poz. 319",
+  "title": "Postanowienie Rady Ministrów w przedmiocie zatwierdzenia statutów normalnych zrzeszeń handlowo-przemysłowych o kapitale zmiennym.",
+  "type": "Postanowienie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-06-10",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/223"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190319.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
