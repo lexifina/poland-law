@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/524",
+ "source_sha256": "7ff3030f124d54061b6d1de69d36b4c6912e099a99fd7a1e2c967aa4b875f4e9",
+ "in_force": "2002-07-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/524",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/524/text/O/M20020524.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/524/text/I/M20020524.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/524",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 33,
+  "pos": 524,
+  "address": "WMP20020330524",
+  "displayAddress": "M.P. 2002 nr 33 poz. 524",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 12 lipca 2002 r. w sprawie przeciętnego wynagrodzenia miesięcznego w sektorze przedsiębiorstw w drugim kwartale 2002 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-07-12",
+  "promulgation": "2002-07-26",
+  "changeDate": "2020-11-13T11:47:32",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka",
+   "ubezpieczenia zdrowotne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/153"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/153",
+     "art": "art. 7 pkt 15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020524.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020524.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
