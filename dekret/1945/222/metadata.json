@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/222",
+ "source_sha256": "c7633a4d6ba6538ca08aad89cb548aef67c7ca825fff7a54781fe4bddcedd363",
+ "in_force": "1945-10-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/222/text/O/D19450222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/222/text/I/D19450222.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/222",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 40,
+  "pos": 222,
+  "address": "WDU19450400222",
+  "displayAddress": "Dz.U. 1945 nr 40 poz. 222",
+  "title": "Dekret z dnia 24 sierpnia 1945 r. o dalszym przedłużeniu moratorium lokalowego dla spółdzielni.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-08-24",
+  "entryIntoForce": "1945-10-06",
+  "validFrom": "1945-10-06",
+  "repealDate": "1948-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/21",
+     "date": "1945-10-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/1945/339"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1946/188",
+     "date": "1948-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
