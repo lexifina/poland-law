@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/966",
+ "source_sha256": "7ce8bce2a7102530cd7695c76ed3b146ebd1a6036bc837f2ee62440f1a3f7620",
+ "in_force": "1927-11-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/966",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/966/text/O/D19270966.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/966/text/I/D19270966.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/966",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 113,
+  "pos": 966,
+  "address": "WDU19271130966",
+  "displayAddress": "Dz.U. 1927 nr 113 poz. 966",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 28 listopada 1927 r. w sprawie ogłoszenia jednolitego tekstu statutu Banku Polskiego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-11-28",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut",
+   "banki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/856"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/856",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/75"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270966.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270966.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
