@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/237",
+ "source_sha256": "482bcf5ca03b064b122bf4e14ca46283e284cf5c7d3639db2f2b56f25f9b258d",
+ "in_force": "1999-05-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/237",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/237/text/O/M19990237.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/237/text/I/M19990237.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/237/text/T/M19990237L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/237",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 17,
+  "pos": 237,
+  "address": "WMP19990170237",
+  "displayAddress": "M.P. 1999 nr 17 poz. 237",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 17 maja 1999 r. o treści oświadczeń złożonych przez osoby pełniące funkcje publiczne.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-05-17",
+  "entryIntoForce": "1999-05-17",
+  "validFrom": "1999-05-17",
+  "repealDate": "2003-10-29",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZ. SADU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2003/808",
+     "date": "2003-10-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 40 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990237.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990237.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19990237L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
