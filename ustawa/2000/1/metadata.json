@@ -1,0 +1,116 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1",
+ "source_sha256": "021b130057a671a23dfe20046b363bebff43301c5243e8b10471d32bfadb7856",
+ "in_force": "2000-01-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1/text/O/D20000001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1/text/I/D20000001.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1/text/T/D20000001L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/1/text/U/D20000001Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU20000010001",
+  "displayAddress": "Dz.U. 2000 nr 1 poz. 1",
+  "title": "Ustawa z dnia 2 grudnia 1999 r. o narodowym spisie powszechnym ludności i mieszkań w 2001 r.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-02",
+  "promulgation": "2000-01-14",
+  "entryIntoForce": "2000-01-29",
+  "validFrom": "2000-01-29",
+  "changeDate": "2024-03-15T09:50:02",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [
+   "RADA MINISTRÓW"
+  ],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "powszechny spis ludności",
+   "ewidencja ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/758.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/758",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/758",
+    "number": "758",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2002/598"
+    },
+    {
+     "id": "DU/2000/276"
+    },
+    {
+     "id": "DU/2000/275"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2002/676",
+     "date": "2002-06-29"
+    },
+    {
+     "id": "DU/2000/1026",
+     "date": "2000-11-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1995/439"
+    },
+    {
+     "id": "DU/1975/105"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000001.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000001L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20000001Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
