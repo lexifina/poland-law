@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1954/267",
+ "source_sha256": "79f0043990cdc197a290e2061ca05a83f0493784ff1349ed08bfab75cc98116b",
+ "in_force": "1954-11-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1954/267",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1954/267/text/O/D19540267.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1954/267/text/I/D19540267.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1954/267",
+  "publisher": "DU",
+  "year": 1954,
+  "volume": 53,
+  "pos": 267,
+  "address": "WDU19540530267",
+  "displayAddress": "Dz.U. 1954 nr 53 poz. 267",
+  "title": "Rozporządzenie Ministra Żeglugi z dnia 17 listopada 1954 r. w sprawie ochrony rybołówstwa na Zalewie Szczecińskim.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1954-11-17",
+  "entryIntoForce": "1954-11-30",
+  "validFrom": "1955-01-01",
+  "repealDate": "1964-07-27",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1964/182",
+     "date": "1964-07-27"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1947/335",
+     "date": "1955-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1960/95",
+     "date": "1960-03-28"
+    },
+    {
+     "id": "DU/1958/327",
+     "date": "1958-11-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/586"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19540267.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19540267.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
