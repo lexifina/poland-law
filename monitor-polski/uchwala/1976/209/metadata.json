@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1976/209",
+ "source_sha256": "26e2487569aeb594f82fdc8d5b8a09bcbd9091ab96ee94501dcbaf03594b9a75",
+ "in_force": "1976-02-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1976/209",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1976/209/text/O/M19760209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1976/209/text/I/M19760209.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1976/209",
+  "publisher": "MP",
+  "year": 1976,
+  "volume": 43,
+  "pos": 209,
+  "address": "WMP19760430209",
+  "displayAddress": "M.P. 1976 nr 43 poz. 209",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 18 grudnia 1976 r. w sprawie wyboru członka Rady Państwa.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-12-18",
+  "entryIntoForce": "1976-02-18",
+  "validFrom": "1976-02-18",
+  "repealDate": "1980-04-02",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 29 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1980/46",
+     "date": "1980-04-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19760209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19760209.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
