@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/227",
+ "source_sha256": "2e19fcf9824891764497e2947961d1dc8f537f85c6dcdb829fc65513f6eca518",
+ "in_force": "1999-05-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/227",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/227/text/O/M19990227.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/227/text/I/M19990227.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/227/text/T/M19990227L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/227",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 16,
+  "pos": 227,
+  "address": "WMP19990160227",
+  "displayAddress": "M.P. 1999 nr 16 poz. 227",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 28 kwietnia 1999 r. sygn. akt K.3/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-28",
+  "entryIntoForce": "1999-05-06",
+  "validFrom": "1999-05-06",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna",
+   "porządkowanie prawa",
+   "orzeczenie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/483",
+     "date": "1999-05-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/483"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990227.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990227.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19990227L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
