@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/228",
+ "source_sha256": "2d79e47ef8386fb139cb83f058a4c6729eb2d1e4c5e1f40f298263f1de72d59d",
+ "in_force": "1923-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 3252 words, parsed 3203; at 3203: 'porucza się Ministrowi Skarbu . Art . 23 . Ustawa'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/228",
+  "html": "https://eli.gov.pl/api/acts/DU/1923/228/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/228/text/O/D19230228.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/228/text/I/D19230228.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/228",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 35,
+  "pos": 228,
+  "address": "WDU19230350228",
+  "displayAddress": "Dz.U. 1923 nr 35 poz. 228",
+  "title": "Ustawa z dnia 9 marca 1923 r. w przedmiocie zmiany w przepisach o państwowym podatku dochodowym, obowiązującym na zasadzie ustawy z dnia 4 kwietnia 1922 r. i ustawy z dnia 16 lipca 1920 r.",
+  "type": "Ustawa",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-03-09",
+  "entryIntoForce": "1923-01-01",
+  "validFrom": "1923-01-01",
+  "changeDate": "2024-03-14T13:23:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1923/607"
+    },
+    {
+     "id": "DU/1923/566"
+    },
+    {
+     "id": "DU/1923/482"
+    },
+    {
+     "id": "DU/1923/278"
+    },
+    {
+     "id": "DU/1923/263"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1922/232",
+     "date": "1923-01-01"
+    },
+    {
+     "id": "DU/1920/550",
+     "date": "1923-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19230228.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230228.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
