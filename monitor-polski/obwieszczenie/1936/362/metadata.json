@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/362",
+ "source_sha256": "0585c479293e332f91f60853eb41c750f1c80d7f1b1fa9cf85117f1345652fd8",
+ "in_force": "1936-08-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/362",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/362/text/O/M19360362.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/362/text/I/M19360362.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/362",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 198,
+  "pos": 362,
+  "address": "WMP19361980362",
+  "displayAddress": "M.P. 1936 nr 198 poz. 362",
+  "title": "Obwieszczenie Urzędu Długów Państwowych z dnia 19 sierpnia 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-08-19",
+  "promulgation": "1936-08-27",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360362.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360362.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
