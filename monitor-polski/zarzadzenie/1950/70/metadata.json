@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/70",
+ "source_sha256": "e4dd8c6df578778dd076f9a6481da05d686b872fcf4f494df3037d42a8606430",
+ "in_force": "1950-01-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/70",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/70/text/O/M19500070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/70/text/I/M19500070.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/70",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 7,
+  "pos": 70,
+  "address": "WMP19500070070",
+  "displayAddress": "M.P. 1950 nr 7 poz. 70",
+  "title": "Zarządzenie Prezesa Rady Ministrów z dnia 10 stycznia 1950 r. w sprawie ograniczenia objętości czasopism.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-01-10",
+  "entryIntoForce": "1950-01-21",
+  "validFrom": "1950-01-10",
+  "repealDate": "1950-06-30",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1950/70",
+     "date": "1950-06-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1950/70",
+     "date": "1950-06-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/163"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
