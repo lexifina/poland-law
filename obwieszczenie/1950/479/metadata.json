@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/479",
+ "source_sha256": "87700524b9489ef70383e945de2455735585cadb6a3afa574d43f2b21f0bd6d8",
+ "in_force": "1950-10-30",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/479",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/479/text/O/D19500479.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/479/text/I/D19500479.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/479",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 51,
+  "pos": 479,
+  "address": "WDU19500510479",
+  "displayAddress": "Dz.U. 1950 nr 51 poz. 479",
+  "title": "Obwieszczenie Ministra Gospodarki Komunalnej z dnia 30 października 1950 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 28 lipca 1948 r. o najmie lokali.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-10-30",
+  "expirationDate": "1953-07-17",
+  "changeDate": "2017-11-23T15:43:40",
+  "releasedBy": [
+   "MIN. GOSPODARKI KOMUNALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/442"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1948/259"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500479.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500479.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
