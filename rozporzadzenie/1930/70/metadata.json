@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1930/70",
+ "source_sha256": "7ad930c2a3da0ab2dd5f82f5dc16a8514f3cafa1b2b19b702a2cb3ff69cd1b31",
+ "in_force": "1930-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1930/70",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1930/70/text/O/D19300070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1930/70/text/I/D19300070.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1930/70",
+  "publisher": "DU",
+  "year": 1930,
+  "volume": 10,
+  "pos": 70,
+  "address": "WDU19300100070",
+  "displayAddress": "Dz.U. 1930 nr 10 poz. 70",
+  "title": "Rozporządzenie Ministrów Skarbu i Sprawiedliwości z dnia 11 lutego 1930 r. o lichwie pieniężnej.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-02-11",
+  "promulgation": "1930-02-19",
+  "entryIntoForce": "1930-02-19",
+  "validFrom": "1930-02-19",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1929/282",
+     "date": "1930-02-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1924/574"
+    },
+    {
+     "id": "DU/1920/733"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/372"
+    },
+    {
+     "id": "DU/1924/574"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/372",
+     "art": "art. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19300070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19300070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
