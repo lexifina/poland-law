@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/238",
+ "source_sha256": "77662ba57b09fee3079b8c33d10d633f0c0363ca2d257194ce8624f963da7ed0",
+ "in_force": "1935-09-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/238",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/238/text/O/M19350238.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/238/text/I/M19350238.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/238",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 210,
+  "pos": 238,
+  "address": "WMP19352100238",
+  "displayAddress": "M.P. 1935 nr 210 poz. 238",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 3 września 1935 r. o umorzeniu Bonów Funduszu Inwestycyjnego w drodze losowania.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-09-03",
+  "promulgation": "1935-09-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bony inwestycyjne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350238.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350238.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
