@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1956/3",
+ "source_sha256": "05bc79968563243392b25ba50f75ed1e9304c0786de80134b7507e61f87f0867",
+ "in_force": "1956-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1956/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1956/3/text/O/M19560003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1956/3/text/I/M19560003.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1956/3",
+  "publisher": "MP",
+  "year": 1956,
+  "volume": 1,
+  "pos": 3,
+  "address": "WMP19560010003",
+  "displayAddress": "M.P. 1956 nr 1 poz. 3",
+  "title": "Zarządzenie Ministra Finansów z dnia 23 grudnia 1955 r. w sprawie likwidacji Samorządowego Funduszu Wyrównawczego.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1955-12-23",
+  "entryIntoForce": "1956-01-13",
+  "validFrom": "1956-01-13",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1952/866"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1952/866",
+     "art": "par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19560003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19560003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
