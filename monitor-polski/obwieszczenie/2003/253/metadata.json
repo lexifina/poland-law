@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/253",
+ "source_sha256": "950d15b713d4187fd8796be152ac6eb791b0ee7ab1401a85d56c3bafb6c86197",
+ "in_force": "2003-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/253",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/253/text/O/M20030253.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/253/text/I/M20030253.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/253",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 16,
+  "pos": 253,
+  "address": "WMP20030160253",
+  "displayAddress": "M.P. 2003 nr 16 poz. 253",
+  "title": "Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 13 marca 2003 r. w sprawie wysokości kwot jednorazowych odszkodowań z tytułu wypadku przy pracy lub choroby zawodowej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-03-13",
+  "promulgation": "2003-03-31",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania",
+   "choroby zawodowe",
+   "wypadki przy pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1673"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1673",
+     "art": "art. 14 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030253.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030253.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
