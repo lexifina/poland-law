@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/170",
+ "source_sha256": "4ba0e153886c08d2a45165d5f62c8d6f0258b51e0094c09c026034b32722b830",
+ "in_force": "2000-03-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/170",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/170/text/O/M20000170.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/170/text/I/M20000170.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/170/text/T/M20000170L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/MP/2000/170/text/U/M20000170Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/170",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 8,
+  "pos": 170,
+  "address": "WMP20000080170",
+  "displayAddress": "M.P. 2000 nr 8 poz. 170",
+  "title": "Obwieszczenie Marszałka Senatu Rzeczypospolitej Polskiej z dnia 10 marca 2000 r. w sprawie ogłoszenia jednolitego tekstu uchwały Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. - Regulamin Senatu.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-03-10",
+  "expirationDate": "2002-11-15",
+  "changeDate": "2026-10-19T11:16:29",
+  "releasedBy": [
+   "MARSZAŁEK SENATU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Senat",
+   "Regulamin Senatu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/2000/58"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/2000/58",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1991/11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000170.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000170.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000170L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "M20000170Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
