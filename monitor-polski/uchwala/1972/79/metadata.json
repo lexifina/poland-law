@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/79",
+ "source_sha256": "21e8d48498cd6242c0f3191352a98a91bacb125c9daada77d27fcf71beebb5a4",
+ "in_force": "1972-02-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/79",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/79/text/O/M19720079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/79/text/I/M19720079.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/79",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 11,
+  "pos": 79,
+  "address": "WMP19720110079",
+  "displayAddress": "M.P. 1972 nr 11 poz. 79",
+  "title": "Uchwała Rady Państwa z dnia 12 lutego 1972 r. zmieniająca uchwałę Rady Państwa z dnia 1 lipca 1960 r. w sprawie nadawania orderów i odznaczeń za nieprzerwaną i wyróżniającą się pracę w górnictwie, hutnictwie i w stoczniach.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-02-12",
+  "entryIntoForce": "1972-02-25",
+  "validFrom": "1972-02-25",
+  "repealDate": "1977-01-31",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1977/12",
+     "date": "1977-01-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1960/261",
+     "date": "1972-02-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/66"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/66",
+     "art": "art. 8 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720079.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
