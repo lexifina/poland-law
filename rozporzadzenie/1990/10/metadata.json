@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/10",
+ "source_sha256": "cb107f07c7a3ac604102e8ef04793cbe490f4f9f2a9662a9cc713a4ace118669",
+ "in_force": "1990-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/10/text/O/D19900010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/10/text/I/D19900010.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/10",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 2,
+  "pos": 10,
+  "address": "WDU19900020010",
+  "displayAddress": "Dz.U. 1990 nr 2 poz. 10",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 19 grudnia 1989 r. zmieniające rozporządzenie w sprawie zasad i trybu dokonywania oceny pracy nauczyciela.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1989-12-19",
+  "promulgation": "1990-01-12",
+  "entryIntoForce": "1990-01-12",
+  "validFrom": "1990-01-12",
+  "repealDate": "1992-01-11",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "prawo pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1991/537",
+     "date": "1992-01-11"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/236",
+     "date": "1990-01-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/19",
+     "art": "art. 6 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
