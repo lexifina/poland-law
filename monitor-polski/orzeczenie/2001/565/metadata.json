@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/565",
+ "source_sha256": "e145ff5a99ca5c6a9244fc6ca2ab8f6093ba46ff6977544145e2ea2077b3ae05",
+ "in_force": "2001-10-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/565",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/565/text/O/M20010565.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/565/text/I/M20010565.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2001/565/text/T/M20010565L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/565",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 34,
+  "pos": 565,
+  "address": "WMP20010340565",
+  "displayAddress": "M.P. 2001 nr 34 poz. 565",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 października 2001 r. sygn. akt K. 28/2001.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-10-10",
+  "entryIntoForce": "2001-10-16",
+  "validFrom": "2001-10-16",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "działalność gospodarcza"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1643",
+     "date": "2001-10-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1643"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010565.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010565.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20010565L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
