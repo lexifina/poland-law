@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1920/4",
+ "source_sha256": "41dd501c926926fa5295bbe6bc7b68fa1d550ed33615815d6bef7183f8fd89dc",
+ "in_force": "1920-01-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1920/4",
+  "html": "https://eli.gov.pl/api/acts/DU/1920/4/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1920/4/text/O/D19200004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1920/4/text/I/D19200004.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1920/4",
+  "publisher": "DU",
+  "year": 1920,
+  "volume": 2,
+  "pos": 4,
+  "address": "WDU19200020004",
+  "displayAddress": "Dz.U. 1920 nr 2 poz. 4",
+  "title": "Ustawa z dnia 18 grudnia 1919 r. w przedmiocie rozszerzenia ustawy z dnia 2 sierpnia 1919 r. o stałej pensji dla weteranów z r. 1831 i 1863 także na weteranów z 1848 roku.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-12-18",
+  "entryIntoForce": "1920-01-09",
+  "validFrom": "1920-01-09",
+  "repealDate": "1922-02-01",
+  "changeDate": "2024-03-14T12:59:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kombatanci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1922/212",
+     "date": "1922-02-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1920/306",
+     "date": "1920-06-23"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1919/397",
+     "date": "1920-01-09"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19200004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19200004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
