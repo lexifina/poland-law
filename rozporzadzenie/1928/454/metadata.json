@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/454",
+ "source_sha256": "50b4babb67feda5c58e25624af8b5ef1d2ad6c1cd7eed95c459f716aaacffdc8",
+ "in_force": "1928-03-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/454",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/454/text/O/D19280454.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/454/text/I/D19280454.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/454",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 46,
+  "pos": 454,
+  "address": "WDU19280460454",
+  "displayAddress": "Dz.U. 1928 nr 46 poz. 454",
+  "title": "Rozporządzenie Ministra Robót Publicznych z dnia 28 marca 1928 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 15 lipca 1925 r. o mierniczych przysięgłych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-03-28",
+  "changeDate": "2020-09-23T13:40:49",
+  "releasedBy": [
+   "MIN. ROBÓT PUBLICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rzeczoznawcy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/207"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/207",
+     "art": "art. 3 ust. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1925/682"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280454.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280454.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
