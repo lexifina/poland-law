@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/111",
+ "source_sha256": "5e58b201f2799bb728eca94649e4e01538e810600899986292070a7420d3e258",
+ "in_force": "1936-03-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/111/text/O/M19360111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/111/text/I/M19360111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/111",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 58,
+  "pos": 111,
+  "address": "WMP19360580111",
+  "displayAddress": "M.P. 1936 nr 58 poz. 111",
+  "title": "Okólnik T. 37 Ministerstwa Skarbu z dnia 26 lutego 1936 r. L. D. IV. 1999/2/36 w sprawie wyjaśnień do taryfy celnej przywozowej (dotyczy poz. 1091 p. 4 t.c.).",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-02-26",
+  "promulgation": "1936-03-10",
+  "repealDate": "1939-01-13",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo",
+   "taryfy celne, wywóz i przywóz",
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1938/675",
+     "date": "1939-01-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1932/732"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 13 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
