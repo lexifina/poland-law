@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/673",
+ "source_sha256": "701d3c135cfbd86c22b1d6166ed39854ec0cc549d5910ca68a6b2438514e379b",
+ "in_force": "1999-07-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/673",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/673/text/O/D19990673.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/673/text/I/D19990673.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/673/text/T/D19990673L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/673",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 61,
+  "pos": 673,
+  "address": "WDU19990610673",
+  "displayAddress": "Dz.U. 1999 nr 61 poz. 673",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 21 czerwca 1999 r. w sprawie akcji przeciwlodowej na wodach morskich.",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-06-21",
+  "entryIntoForce": "1999-07-30",
+  "validFrom": "1999-07-30",
+  "repealDate": "2002-01-01",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. TRANSPORTU I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wody morskie",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/318"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/318",
+     "art": "art. 49 par. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2000/1156",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990673.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990673.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990673L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
