@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/190",
+ "source_sha256": "58d5b3adcb92f8784c7d37588b35f2f9bb5007b08d7ee7e181e996881e4ead84",
+ "in_force": "1936-05-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/190",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/190/text/O/M19360190.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/190/text/I/M19360190.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/190",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 103,
+  "pos": 190,
+  "address": "WMP19361030190",
+  "displayAddress": "M.P. 1936 nr 103 poz. 190",
+  "title": "Okólnik Ministerstwa Skarbu D. IV. 8495/2/36 w sprawie upoważnienia urzędów celnych do udzielania pozwoleń na czynny obrót uszlachetniający.",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-04-08",
+  "promulgation": "1936-05-02",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1935/274"
+    },
+    {
+     "id": "DU/1934/862"
+    },
+    {
+     "id": "DU/1934/820"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 49 ust. 5"
+    },
+    {
+     "id": "DU/1933/610",
+     "art": "art. 55 ust. 2"
+    },
+    {
+     "id": "DU/1933/610",
+     "art": "art. 6 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360190.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360190.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
