@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/13",
+ "source_sha256": "2c759a58fce4516081b204fc6466004324423417016c381333a175a7148a89fa",
+ "in_force": "1950-01-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/13",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/13/text/O/D19500013.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/13/text/I/D19500013.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/13",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 2,
+  "pos": 13,
+  "address": "WDU19500020013",
+  "displayAddress": "Dz.U. 1950 nr 2 poz. 13",
+  "title": "Rozporządzenie Ministra Handlu Wewnętrznego z dnia 4 stycznia 1950 r. w sprawie przemiału zbóż.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-01-04",
+  "entryIntoForce": "1950-01-27",
+  "validFrom": "1949-08-10",
+  "repealDate": "1951-01-16",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "obligated": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/16",
+     "date": "1951-01-16"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1948/377",
+     "date": "1949-08-10"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1949/446"
+    },
+    {
+     "id": "DU/1948/379"
+    },
+    {
+     "id": "DU/1947/418"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/341"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500013.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500013.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
