@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/216",
+ "source_sha256": "4743b9ee0fb7cdbb42fd1b08a4ef15fd6aef9c61a7a5263c8a1a914fe78d5671",
+ "in_force": "1968-07-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/216",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/216/text/O/M19680216.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/216/text/I/M19680216.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/216",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 32,
+  "pos": 216,
+  "address": "WMP19680320216",
+  "displayAddress": "M.P. 1968 nr 32 poz. 216",
+  "title": "Zarządzenie Przewodniczącego Głównego Komitetu Kultury Fizycznej i Turystyki z dnia 6 lipca 1968 r. w sprawie wytycznych dotyczących organizacji, składu i zakresu działania społecznych gromadzkich komitetów kultury fizycznej i turystyki.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-07-06",
+  "entryIntoForce": "1968-07-30",
+  "validFrom": "1968-07-30",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PRZEW. GKKFIT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1960/372"
+    },
+    {
+     "id": "DU/1960/65"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1960/372",
+     "art": "par. 20a ust. 3"
+    },
+    {
+     "id": "DU/1960/65",
+     "art": "art. 9 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680216.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680216.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
