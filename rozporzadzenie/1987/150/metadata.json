@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1987/150",
+ "source_sha256": "d749adf5e14ef6f23417f230f646045c2710325b5bd9770bbfe68765c92a7286",
+ "in_force": "1987-09-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1987/150",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1987/150/text/O/D19870150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1987/150/text/I/D19870150.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1987/150",
+  "publisher": "DU",
+  "year": 1987,
+  "volume": 26,
+  "pos": 150,
+  "address": "WDU19870260150",
+  "displayAddress": "Dz.U. 1987 nr 26 poz. 150",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 12 sierpnia 1987 r. w sprawie określenia wzoru stroju urzędowego sędziów na rozprawie.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-08-12",
+  "promulgation": "1987-09-10",
+  "entryIntoForce": "1987-09-10",
+  "validFrom": "1987-09-10",
+  "repealDate": "2007-10-06",
+  "changeDate": "2014-12-31T12:25:37",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne",
+   "strój urzędowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/1213",
+     "date": "2007-10-06"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1932/872",
+     "date": "1987-09-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/137"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/137",
+     "art": "art. 69"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19870150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19870150.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
