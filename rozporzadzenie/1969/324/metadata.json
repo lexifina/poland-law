@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1969/324",
+ "source_sha256": "8d2e5e539639353613c52699d3da2a1a70206f637bfe515f840f5a432f46d30e",
+ "in_force": "1970-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1969/324",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1969/324/text/O/D19690324.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1969/324/text/I/D19690324.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1969/324",
+  "publisher": "DU",
+  "year": 1969,
+  "volume": 37,
+  "pos": 324,
+  "address": "WDU19690370324",
+  "displayAddress": "Dz.U. 1969 nr 37 poz. 324",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 11 grudnia 1969 r. w sprawie utworzenia Wydziału dla Nieletnich (Sądu dla Nieletnich) w Sądzie Powiatowym w Puławach.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-12-11",
+  "entryIntoForce": "1970-01-01",
+  "validFrom": "1970-01-01",
+  "repealDate": "1973-07-01",
+  "changeDate": "2014-12-31T12:24:10",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/94",
+     "date": "1973-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1954/281",
+     "date": "1970-01-01"
+    },
+    {
+     "id": "DU/1950/496",
+     "date": "1970-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1969/98"
+    },
+    {
+     "id": "DU/1967/55"
+    },
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19690324.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19690324.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
