@@ -1,0 +1,123 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1202",
+ "source_sha256": "5493148f38f778ea715aa59bed40fd413c24db4a21c6599871bd65190b6e3cd6",
+ "in_force": "2005-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1202",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/1202/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1202/text/O/D20041202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1202/text/I/D20041202.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/1202/text/T/D20041202L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2004/1202/text/U/D20041202Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1202",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 116,
+  "pos": 1202,
+  "address": "WDU20041161202",
+  "displayAddress": "Dz.U. 2004 nr 116 poz. 1202",
+  "title": "Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-04",
+  "promulgation": "2004-05-24",
+  "entryIntoForce": "2005-01-01",
+  "validFrom": "2005-01-01",
+  "changeDate": "2024-03-15T09:56:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dodatki do wynagrodzeń",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/2410.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/2410",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/2410",
+    "number": "2410",
+    "term": 4
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/2498.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/2498",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/2498",
+    "number": "2498",
+    "term": 4
+   }
+  ],
+  "comments": "art. 4 wchodzi w życie z dniem 1 lipca 2004 r.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2006/243",
+     "date": "2006-03-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/1080",
+     "date": "2005-01-01"
+    },
+    {
+     "id": "DU/1996/350",
+     "date": "2005-01-01"
+    },
+    {
+     "id": "DU/1981/101",
+     "date": "2005-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1990/124"
+    },
+    {
+     "id": "DU/1982/214"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2006/243"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20041202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041202.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20041202L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20041202Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
