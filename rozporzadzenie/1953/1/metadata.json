@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/1",
+ "source_sha256": "7e98630776707f21015f9c793125d744aa107fe46ffa45c78480c09ec05c9e83",
+ "in_force": "1953-01-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/1/text/O/D19530001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/1/text/I/D19530001.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/1",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 1,
+  "pos": 1,
+  "address": "WDU19530010001",
+  "displayAddress": "Dz.U. 1953 nr 1 poz. 1",
+  "title": "Rozporządzenie Ministra Finansów z dnia 5 stycznia 1953 r. w sprawie obniżenia skal podatkowych w podatku od wynagrodzeń.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-01-05",
+  "entryIntoForce": "1953-01-08",
+  "validFrom": "1953-01-04",
+  "repealDate": "1988-05-31",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od wynagrodzeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1988/118",
+     "date": "1988-05-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1950/3",
+     "date": "1953-01-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1950/3"
+    },
+    {
+     "id": "DU/1949/98"
+    },
+    {
+     "id": "DU/1949/41"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/41"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
