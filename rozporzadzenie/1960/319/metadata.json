@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1960/319",
+ "source_sha256": "d8ae675a017a97a738a13981860f282a1ab3342b66bfcf33935ddb1586804972",
+ "in_force": "1960-12-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1960/319",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1960/319/text/O/D19600319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1960/319/text/I/D19600319.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1960/319",
+  "publisher": "DU",
+  "year": 1960,
+  "volume": 55,
+  "pos": 319,
+  "address": "WDU19600550319",
+  "displayAddress": "Dz.U. 1960 nr 55 poz. 319",
+  "title": "Rozporządzenie Ministrów Komunikacji, Spraw Wewnętrznych i Obrony Narodowej z dnia 2 grudnia 1960 r. w sprawie zmiany rozporządzenia z dnia 27 października 1937 r. o ruchu pojazdów mechanicznych na drogach publicznych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1960-12-02",
+  "entryIntoForce": "1960-12-13",
+  "validFrom": "1960-12-13",
+  "repealDate": "1963-04-01",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI",
+   "MIN. OBRONY NARODOWEJ",
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1937/616",
+     "date": "1960-12-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1946/58"
+    },
+    {
+     "id": "DU/1921/656"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1962/295",
+     "date": "1963-04-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19600319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19600319.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
