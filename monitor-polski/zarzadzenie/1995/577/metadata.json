@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/577",
+ "source_sha256": "c714de126e635dd047f861cb44399903342932e199adbe4d4419027dc44f1d75",
+ "in_force": "1995-11-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/577",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/577/text/O/M19950577.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/577/text/I/M19950577.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/577",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 53,
+  "pos": 577,
+  "address": "WMP19950530577",
+  "displayAddress": "M.P. 1995 nr 53 poz. 577",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 18 października 1995 r. w sprawie uzupełnienia składu Państwowej Komisji Wyborczej.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-10-18",
+  "entryIntoForce": "1995-11-09",
+  "validFrom": "1995-11-09",
+  "repealDate": "2001-05-31",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja wyborcza",
+   "komisje",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Państwowa Komisja Wyborcza"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/205"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/205",
+     "art": "art. 62 ust. 2"
+    },
+    {
+     "id": "DU/1993/205",
+     "art": "art. 63 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/499",
+     "date": "2001-05-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950577.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950577.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
