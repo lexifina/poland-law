@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1286",
+ "source_sha256": "5a6cd2558dbf54ea16c06cc3d5dc2f23175eb550eaf635de8c6de91fbf1378c1",
+ "in_force": "2002-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1286",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1286/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1286/text/O/D20021286.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1286/text/I/D20021286.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/1286/text/T/D20021286L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1286",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 155,
+  "pos": 1286,
+  "address": "WDU20021551286",
+  "displayAddress": "Dz.U. 2002 nr 155 poz. 1286",
+  "title": "Ustawa z dnia 29 sierpnia 2002 r. o zmianie ustawy o czasie pracy kierowców oraz ustawy - Prawo o miarach.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-08-29",
+  "promulgation": "2002-09-23",
+  "entryIntoForce": "2002-09-30",
+  "validFrom": "2002-09-30",
+  "changeDate": "2024-03-15T10:05:50",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "kierowcy",
+   "miary i narzędzia pomiarowe",
+   "transport drogowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/776.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/776",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/776",
+    "number": "776",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/879",
+     "date": "2004-05-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/636",
+     "date": "2002-09-30"
+    },
+    {
+     "id": "DU/2001/1354",
+     "date": "2002-09-30"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021286.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021286.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20021286L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
