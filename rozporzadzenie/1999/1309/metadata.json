@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1309",
+ "source_sha256": "171214c49be3fc1b2aa9c25d868fa461b2fcd632dcfccfefdaf32c7de4635a19",
+ "in_force": "2000-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1309",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1309/text/O/D19991309.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1309/text/I/D19991309.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1309",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 111,
+  "pos": 1309,
+  "address": "WDU19991111309",
+  "displayAddress": "Dz.U. 1999 nr 111 poz. 1309",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 20 grudnia 1999 r. w sprawie zasad organizacji obsługi bibliotecznej w zakładach karnych, poprawczych i schroniskach dla nieletnich oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-20",
+  "entryIntoForce": "2000-01-15",
+  "validFrom": "2000-01-15",
+  "repealDate": "2012-07-02",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakłady karne",
+   "biblioteki",
+   "zakłady poprawcze",
+   "schroniska dla nieletnich"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/539"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/539",
+     "art": "art. 26 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2011/1230",
+     "date": "2012-07-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991309.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991309.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
