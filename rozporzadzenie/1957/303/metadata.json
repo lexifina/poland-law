@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/303",
+ "source_sha256": "90075e4c842f3470032462ba8c42dcdc55ac43528e1edb65535f0af8223ee131",
+ "in_force": "1957-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/303",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/303/text/O/D19570303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/303/text/I/D19570303.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/303",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 58,
+  "pos": 303,
+  "address": "WDU19570580303",
+  "displayAddress": "Dz.U. 1957 nr 58 poz. 303",
+  "title": "Rozporządzenie Ministra Żeglugi i Gospodarki Wodnej z dnia 31 sierpnia 1957 r. w sprawie ustalenia pasa nadbrzeżnego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-08-31",
+  "entryIntoForce": "1957-12-04",
+  "validFrom": "1957-12-04",
+  "repealDate": "1971-02-18",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. ŻEGLUGI I GOSPODARKI WODNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1971/36",
+     "date": "1971-02-18"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1949/303",
+     "date": "1957-12-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1955/35"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570303.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
