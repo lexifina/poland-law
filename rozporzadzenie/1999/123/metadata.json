@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/123",
+ "source_sha256": "91ca10dc853f4b1650a12daded494511163dd71de66a223792b78fb99272f390",
+ "in_force": "1999-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/123/text/O/D19990123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/123/text/I/D19990123.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/123/text/T/D19990123L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/123",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 13,
+  "pos": 123,
+  "address": "WDU19990130123",
+  "displayAddress": "Dz.U. 1999 nr 13 poz. 123",
+  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 10 lutego 1999 r. zmieniające rozporządzenie w sprawie zasad i warunków sprowadzania z zagranicy środków farmaceutycznych i materiałów medycznych dla użytkowników indywidualnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-02-10",
+  "entryIntoForce": "1999-02-19",
+  "validFrom": "1999-02-19",
+  "repealDate": "2000-12-31",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "import",
+   "apteki",
+   "dokumenty",
+   "ubezpieczenia zdrowotne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/1056",
+     "date": "2000-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/220",
+     "date": "1999-02-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/153"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/452",
+     "art": "art. 28 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990123.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990123L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
