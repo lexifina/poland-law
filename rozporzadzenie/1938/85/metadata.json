@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/85",
+ "source_sha256": "7d340ec118381f70a57d7173d5fdd548e180ecaac43ee14b854076ad11d0a979",
+ "in_force": "1938-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/85",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/85/text/O/D19380085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/85/text/I/D19380085.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/85",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 12,
+  "pos": 85,
+  "address": "WDU19380120085",
+  "displayAddress": "Dz.U. 1938 nr 12 poz. 85",
+  "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 8 lutego 1938 r. w sprawie zmiany rozporządzenia z dnia 14 lipca 1933 r. o podziale okręgów szkolnych na obwody szkolne.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-02-08",
+  "promulgation": "1938-02-25",
+  "entryIntoForce": "1938-04-01",
+  "validFrom": "1938-04-01",
+  "changeDate": "2020-09-23T13:39:09",
+  "releasedBy": [
+   "MIN. WYZNAŃ RELIGIJNYCH I OŚWIECENIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1933/459",
+     "date": "1938-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/389"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/389",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1933/389",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380085.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
