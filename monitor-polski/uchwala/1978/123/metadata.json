@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1978/123",
+ "source_sha256": "d29d943edbc7ec2429e0a507e0f6ab6a5e4f269cbed6c4faae75fd4e349976b0",
+ "in_force": "1978-10-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1978/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1978/123/text/O/M19780123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1978/123/text/I/M19780123.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1978/123",
+  "publisher": "MP",
+  "year": 1978,
+  "volume": 33,
+  "pos": 123,
+  "address": "WMP19780330123",
+  "displayAddress": "M.P. 1978 nr 33 poz. 123",
+  "title": "Uchwała Rady Państwa z dnia 5 października 1978 r. w sprawie ustalenia wykładni przepisów ustawowych o zaopatrzeniu emerytalnym pracowników i ich rodzin.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-10-05",
+  "entryIntoForce": "1978-10-04",
+  "validFrom": "1978-10-04",
+  "repealDate": "1983-01-01",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia pieniężne w razie choroby i macierzyństwa",
+   "wykładnia prawa",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1968/6"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/232"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/232",
+     "art": "art. 30 ust. 1 pkt 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1982/267",
+     "date": "1983-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19780123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19780123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
