@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/679",
+ "source_sha256": "5a19004bcf27d31d097dffb4ba9b2cfe6fdd837e53be750e063047d7a2986890",
+ "in_force": "2000-06-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/679",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/679/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/679/text/O/D20000679.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/679/text/I/D20000679.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/679/text/T/D20000679L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/679/text/U/D20000679Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/679",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 56,
+  "pos": 679,
+  "address": "WDU20000560679",
+  "displayAddress": "Dz.U. 2000 nr 56 poz. 679",
+  "title": "Obwieszczenie Ministra Środowiska z dnia 27 czerwca 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy o lasach.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-06-27",
+  "expirationDate": "2005-03-15",
+  "changeDate": "2024-03-15T09:49:09",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "ochrona środowiska",
+   "lasy",
+   "podatek leśny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Jednolity tekst ustawy nie obejmuje art. 67 -73.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/444"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000679.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000679.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000679L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20000679Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
