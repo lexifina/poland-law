@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1987/28",
+ "source_sha256": "28718de4e47eb0b7be6ac6d447eeb80ccbeef27f05f244fda7e3c17cc8e9fbd2",
+ "in_force": "1987-02-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1987/28",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1987/28/text/O/M19870028.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1987/28/text/I/M19870028.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1987/28",
+  "publisher": "MP",
+  "year": 1987,
+  "volume": 3,
+  "pos": 28,
+  "address": "WMP19870030028",
+  "displayAddress": "M.P. 1987 nr 3 poz. 28",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 23 stycznia 1987 r. zmieniające zarządzenie w sprawie wysokości oprocentowania wkładów oszczędnościowych osób fizycznych na rachunkach bankowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1987-01-23",
+  "entryIntoForce": "1987-02-12",
+  "validFrom": "1987-01-01",
+  "repealDate": "1988-01-01",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1988/51",
+     "date": "1988-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1982/273",
+     "date": "1987-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1983/318"
+    },
+    {
+     "id": "DU/1982/56"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/56",
+     "art": "art. 19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19870028.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19870028.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
