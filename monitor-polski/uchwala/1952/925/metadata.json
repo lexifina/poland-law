@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/925",
+ "source_sha256": "e78960c8a603db97fa8d5a9c4db1cc1edbcb91bc4f94fa5792ca2a41436e46be",
+ "in_force": "1952-07-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/925",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/925/text/O/M19520925.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/925/text/I/M19520925.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/925",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 61,
+  "pos": 925,
+  "address": "WMP19520610925",
+  "displayAddress": "M.P. 1952 nr 61 poz. 925",
+  "title": "Uchwała nr 438 Prezydium Rządu z dnia 24 maja 1952 r. w przedmiocie ilości członków prezydiów wojewódzkich rad narodowych oraz rad narodowych m. st. Warszawy i m. Łodzi.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-05-24",
+  "entryIntoForce": "1952-07-18",
+  "validFrom": "1952-07-18",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1950/674",
+     "date": "1952-07-18"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1954/894",
+     "date": "1954-09-01"
+    },
+    {
+     "id": "MP/1954/467",
+     "date": "1954-04-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1950/654"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520925.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520925.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
