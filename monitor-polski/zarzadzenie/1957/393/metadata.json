@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/393",
+ "source_sha256": "d634745afacc2b7b5847f0e8095ffa4a4919965a01e6443532b3b7e50a96a57f",
+ "in_force": "1957-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/393",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/393/text/O/M19570393.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/393/text/I/M19570393.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/393",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 63,
+  "pos": 393,
+  "address": "WMP19570630393",
+  "displayAddress": "M.P. 1957 nr 63 poz. 393",
+  "title": "Zarządzenie Ministra Zdrowia z dnia 11 lipca 1957 r. w sprawie dopuszczenia niektórych środków farmaceutycznych do obrotu w kioskach Państwowego Przedsiębiorstwa Kolportażu \"Ruch\".",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-07-11",
+  "entryIntoForce": "1957-09-01",
+  "validFrom": "1957-09-01",
+  "repealDate": "1961-12-09",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/390",
+     "date": "1961-12-09"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1956/530",
+     "date": "1957-09-01"
+    },
+    {
+     "id": "MP/1955/858",
+     "date": "1957-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/4"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/4",
+     "art": "art. 14 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570393.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570393.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
