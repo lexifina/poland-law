@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/66",
+ "source_sha256": "89bc4905e5ef7ad58714a0feb53fe56c6ee716286090bbbd81a0257445a25b97",
+ "in_force": "1932-03-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/66",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/66/text/O/M19320066.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/66/text/I/M19320066.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/66",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 57,
+  "pos": 66,
+  "address": "WMP19320570066",
+  "displayAddress": "M.P. 1932 nr 57 poz. 66",
+  "title": "Ogłoszenie Głównego Urzędu Statystycznego z dnia 25 lutego 1932 r. w sprawie zmian w klasyfikacji krajów obowiązującej w statystyce celnej",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-02-25",
+  "promulgation": "1932-03-10",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1930/356",
+     "date": "1932-02-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/350",
+     "art": "par. 43"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320066.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320066.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
