@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/71",
+ "source_sha256": "d7dc8c5c3b4f67a6b64d67415c41218667afb100fd0a0bd3d1095d589928999e",
+ "in_force": "1946-03-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/71",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/71/text/O/D19460071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/71/text/I/D19460071.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/71",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 10,
+  "pos": 71,
+  "address": "WDU19460100071",
+  "displayAddress": "Dz.U. 1946 nr 10 poz. 71",
+  "title": "Dekret z dnia 1 marca 1946 r. o Straży Obywatelskiej na obszarze Ziem Odzyskanych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-03-01",
+  "entryIntoForce": "1946-03-30",
+  "validFrom": "1946-03-30",
+  "repealDate": "1967-06-19",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. ZIEM ODZYSKANYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1967/108",
+     "date": "1967-06-19"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1946/152"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460071.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
