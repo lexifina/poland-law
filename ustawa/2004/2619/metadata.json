@@ -1,0 +1,136 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/2619",
+ "source_sha256": "963afb52477946fd4acee965d0e39faa6b3559122661fc6180d288f5050b608e",
+ "in_force": "2005-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/2619",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/2619/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/2619/text/O/D20042619.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/2619/text/I/D20042619.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2004/2619/text/T/D20042619L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2004/2619/text/U/D20042619Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/2619",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 263,
+  "pos": 2619,
+  "address": "WDU20042632619",
+  "displayAddress": "Dz.U. 2004 nr 263 poz. 2619",
+  "title": "Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-11-18",
+  "promulgation": "2004-12-13",
+  "entryIntoForce": "2005-01-01",
+  "validFrom": "2005-01-01",
+  "changeDate": "2024-03-15T09:56:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt podatkowy",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3222.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3222",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3222",
+    "number": "3222",
+    "term": 4
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3246.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3246",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3246",
+    "number": "3246",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/262",
+     "date": "2005-02-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/894",
+     "date": "2004-12-31"
+    },
+    {
+     "id": "DU/2003/1958",
+     "date": "2004-12-31"
+    },
+    {
+     "id": "DU/2003/1956",
+     "date": "2004-12-31"
+    },
+    {
+     "id": "DU/1998/930",
+     "date": "2005-01-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2005-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2004/535"
+    },
+    {
+     "id": "DU/2003/873"
+    },
+    {
+     "id": "DU/1998/887"
+    },
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2005/262"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20042619.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20042619.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20042619L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20042619Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
