@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/610",
+ "source_sha256": "b7f351b99e5635b425dacc269d902b8127e92f902117f37a019e7a6fd7b33f7d",
+ "in_force": "1998-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/610",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/610/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/610/text/O/D19980610.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/610/text/I/D19980610.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/610/text/T/D19980610L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/610",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 98,
+  "pos": 610,
+  "address": "WDU19980980610",
+  "displayAddress": "Dz.U. 1998 nr 98 poz. 610",
+  "title": "Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy o pracowniczych programach emerytalnych oraz o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-07-24",
+  "promulgation": "1998-07-31",
+  "entryIntoForce": "1998-07-31",
+  "validFrom": "1998-07-31",
+  "changeDate": "2024-03-15T11:30:24",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze emerytalne",
+   "pracownicze programy emerytalne",
+   "emerytalne programy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/532.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/532",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/532",
+    "number": "532",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/1207",
+     "date": "2004-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/934",
+     "date": "1998-07-31"
+    },
+    {
+     "id": "DU/1997/932",
+     "date": "1998-07-31"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980610.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980610.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980610L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
