@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1958/13",
+ "source_sha256": "973eda0c1f76226f01dbef22d7169b7652e83c46a9f1efd07b0e834424f4845a",
+ "in_force": "1958-01-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1958/13",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1958/13/text/O/D19580013.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1958/13/text/I/D19580013.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1958/13",
+  "publisher": "DU",
+  "year": 1958,
+  "volume": 4,
+  "pos": 13,
+  "address": "WDU19580040013",
+  "displayAddress": "Dz.U. 1958 nr 4 poz. 13",
+  "title": "Rozporządzenie Ministra Finansów z dnia 31 grudnia 1957 r. w sprawie zmiany stawek podatku obrotowego od obrotów ze sprzedaży napojów winnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-12-31",
+  "entryIntoForce": "1958-01-27",
+  "validFrom": "1957-08-11",
+  "repealDate": "1968-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1968/1",
+     "date": "1968-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1951/459",
+     "date": "1957-08-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/449"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19580013.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19580013.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
