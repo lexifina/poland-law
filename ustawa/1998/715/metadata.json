@@ -1,0 +1,117 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/715",
+ "source_sha256": "09e888aefaf23e21ba4a81679580d6d50dec8b1a7e7b02aacd8723c7e6fd83dc",
+ "in_force": "1998-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/715",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/715/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/715/text/O/D19980715.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/715/text/I/D19980715.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/715/text/T/D19980715L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/715",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 113,
+  "pos": 715,
+  "address": "WDU19981130715",
+  "displayAddress": "Dz.U. 1998 nr 113 poz. 715",
+  "title": "Ustawa z dnia 24 lipca 1998 r. zmieniająca ustawę - Przepisy wprowadzające Kodeks karny.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-07-24",
+  "promulgation": "1998-08-31",
+  "entryIntoForce": "1998-09-01",
+  "validFrom": "1998-09-01",
+  "changeDate": "2024-03-15T11:30:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "grzywny",
+   "kodeks karny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/455.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/455",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/455",
+    "number": "455",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1485",
+     "date": "2005-10-04"
+    },
+    {
+     "id": "DU/2001/1085",
+     "date": "2001-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/754",
+     "date": "1998-09-01"
+    },
+    {
+     "id": "DU/1997/724",
+     "date": "1998-09-01"
+    },
+    {
+     "id": "DU/1997/679",
+     "date": "1998-09-01"
+    },
+    {
+     "id": "DU/1997/592",
+     "date": "1998-09-01"
+    },
+    {
+     "id": "DU/1997/554",
+     "date": "1998-09-01"
+    },
+    {
+     "id": "DU/1997/468",
+     "date": "1998-09-01"
+    },
+    {
+     "id": "DU/1997/443",
+     "date": "1998-09-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980715.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980715.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980715L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
