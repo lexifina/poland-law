@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/123",
+ "source_sha256": "c001c003107573039961e498a88d9a0f3c0461dc898d9422e5ae57a2ef9c02ba",
+ "in_force": "2000-02-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/123/text/O/D20000123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/123/text/I/D20000123.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/123/text/T/D20000123L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/123",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 9,
+  "pos": 123,
+  "address": "WDU20000090123",
+  "displayAddress": "Dz.U. 2000 nr 9 poz. 123",
+  "title": "Rozporządzenie Ministra Finansów z dnia 31 stycznia 2000 r. w sprawie zwolnienia niektórych grup płatników z obowiązku pobierania zaliczek na podatek dochodowy od osób fizycznych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-01-31",
+  "entryIntoForce": "2000-02-26",
+  "validFrom": "2000-01-01",
+  "repealDate": "2001-01-01",
+  "changeDate": "2022-01-28T14:17:17",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa",
+   "ulgi podatkowe",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2000/123",
+     "date": "2001-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 22 par. 1 pkt 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2000/123",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20000123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000123.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000123L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
