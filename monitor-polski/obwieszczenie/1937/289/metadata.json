@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/289",
+ "source_sha256": "667b3c142c659e88eff18b4af4b8f56b70380b90273f27a715822b75f01a31d8",
+ "in_force": "1937-08-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/289",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/289/text/O/M19370289.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/289/text/I/M19370289.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/289",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 174,
+  "pos": 289,
+  "address": "WMP19371740289",
+  "displayAddress": "M.P. 1937 nr 174 poz. 289",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 30 lipca 1937 r. w sprawie kwoty emisji monet srebrnych, niklowych i brązowych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-07-30",
+  "promulgation": "1937-08-02",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "monety",
+   "pieniężny system"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/790"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/790",
+     "art": "art. 6"
+    },
+    {
+     "id": "DU/1927/790",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370289.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370289.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
