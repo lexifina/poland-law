@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1931/213",
+ "source_sha256": "2e1e7cf2c31c4c6c7846cab9a4bcd378456e2f123d0b41c7cdfe2fc8c7b6af4b",
+ "in_force": "1931-04-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1931/213",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1931/213/text/O/D19310213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1931/213/text/I/D19310213.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1931/213",
+  "publisher": "DU",
+  "year": 1931,
+  "volume": 30,
+  "pos": 213,
+  "address": "WDU19310300213",
+  "displayAddress": "Dz.U. 1931 nr 30 poz. 213",
+  "title": "Rozporządzenie Ministrów: Robót Publicznych i Skarbu z dnia 17 marca 1931 r. wydane w porozumieniu z Ministrami: Spraw Wojskowych oraz Przemysłu i Handlu w sprawie wykonania art. 7 ustawy o Państwowym Funduszu Drogowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-03-17",
+  "promulgation": "1931-04-03",
+  "entryIntoForce": "1931-04-03",
+  "validFrom": "1931-04-01",
+  "repealDate": "1933-08-14",
+  "changeDate": "2014-12-31T12:25:21",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. ROBÓT PUBLICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "drogi publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1933/464",
+     "date": "1933-08-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1931/81"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1931/81",
+     "art": "art. 23"
+    },
+    {
+     "id": "DU/1931/81",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19310213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19310213.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
