@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1949/456",
+ "source_sha256": "825768c156b343a21416b4f2aae30b522c3d328aed9e7f4fb4f95d6996acffd2",
+ "in_force": "1949-05-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1949/456",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1949/456/text/O/M19490456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1949/456/text/I/M19490456.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1949/456",
+  "publisher": "MP",
+  "year": 1949,
+  "volume": 31,
+  "pos": 456,
+  "address": "WMP19490310456",
+  "displayAddress": "M.P. 1949 nr 31 poz. 456",
+  "title": "Zarządzenie Ministra Zdrowia z dnia 19 marca 1949 r. w sprawie wykazu dozwolonych do obrotu specyfików farmaceutycznych.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-03-19",
+  "entryIntoForce": "1949-05-21",
+  "validFrom": "1949-05-21",
+  "repealDate": "1951-12-15",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1937/454",
+     "date": "1949-05-21"
+    },
+    {
+     "id": "MP/1937/222",
+     "date": "1949-05-21"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1949/731",
+     "date": "1949-08-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/406"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1951/435",
+     "date": "1951-12-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19490456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19490456.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
