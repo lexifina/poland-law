@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/248",
+ "source_sha256": "e170d419c61f706a2083f8c87cb6a09f474720b7869e69ae37bf008c744ae5c1",
+ "in_force": "1948-08-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/248",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/248/text/O/D19480248.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/248/text/I/D19480248.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/248",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 36,
+  "pos": 248,
+  "address": "WDU19480360248",
+  "displayAddress": "Dz.U. 1948 nr 36 poz. 248",
+  "title": "Dekret z dnia 28 lipca 1948 r. o zmianie dekretu z dnia 16 maja 1946 r. o zobowiązaniach podatkowych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-07-28",
+  "entryIntoForce": "1948-08-03",
+  "validFrom": "1948-08-03",
+  "repealDate": "1950-11-12",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1950/452",
+     "date": "1950-11-12"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1950/452",
+     "date": "1950-11-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1946/173",
+     "date": "1948-08-03"
+    },
+    {
+     "id": "DU/1933/294",
+     "date": "1948-08-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1948/223"
+    },
+    {
+     "id": "DU/1947/71"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480248.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480248.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
