@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/663",
+ "source_sha256": "267bac5cc1278d079689266ecfc76b288b07bfcbe20259cf7764ba47aed7bd11",
+ "in_force": "1937-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/663",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/663/text/O/D19360663.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/663/text/I/D19360663.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/663",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 94,
+  "pos": 663,
+  "address": "WDU19360940663",
+  "displayAddress": "Dz.U. 1936 nr 94 poz. 663",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 grudnia 1936 r. o rejestrze skazanych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-12-16",
+  "promulgation": "1936-12-31",
+  "entryIntoForce": "1937-01-01",
+  "validFrom": "1937-01-01",
+  "repealDate": "1946-03-29",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestr skazanych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1946/70",
+     "date": "1946-03-29"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1934/478",
+     "date": "1937-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1932/571"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/93",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360663.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360663.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
