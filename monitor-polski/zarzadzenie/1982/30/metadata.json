@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/30",
+ "source_sha256": "52c64289dee85259a51ab07a67d331354d5926f7b0bda6798366c759e30140a5",
+ "in_force": "1982-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/30/text/O/M19820030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/30/text/I/M19820030.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/30",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 5,
+  "pos": 30,
+  "address": "WMP19820050030",
+  "displayAddress": "M.P. 1982 nr 5 poz. 30",
+  "title": "Zarządzenie Ministra Finansów i Prezesa Narodowego Banku Polskiego z dnia 29 stycznia 1982 r. w sprawie uchylenia ograniczeń w zakresie obrotu oszczędnościowego i czekowego.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-01-29",
+  "entryIntoForce": "1982-02-01",
+  "validFrom": "1982-02-01",
+  "repealDate": "1983-07-22",
+  "changeDate": "2014-12-31T12:26:28",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO",
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót oszczędnościowy",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1981/162"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/8"
+    },
+    {
+     "id": "DU/1981/162"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1981/162",
+     "art": "par. 7"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/178",
+     "date": "1983-07-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
