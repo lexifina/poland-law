@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/88",
+ "source_sha256": "17f9cfe59372f9d4faf7d7e7af816722e126ffcae32f8bfb0464808a806a7269",
+ "in_force": "1990-03-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/88",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/88/text/O/M19900088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/88/text/I/M19900088.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/88",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 11,
+  "pos": 88,
+  "address": "WMP19900110088",
+  "displayAddress": "M.P. 1990 nr 11 poz. 88",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 10 marca 1990 r. zmieniające zarządzenie w sprawie zatrzymywania fałszywych znaków pieniężnych.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-03-10",
+  "entryIntoForce": "1990-03-03",
+  "validFrom": "1990-03-30",
+  "repealDate": "2022-04-06",
+  "changeDate": "2026-05-18T15:37:48",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pieniężny system"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1989/255",
+     "date": "1990-03-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/439"
+    },
+    {
+     "id": "DU/1989/22"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/22",
+     "art": "art. 11 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2022/776",
+     "date": "2022-04-06"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900088.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
