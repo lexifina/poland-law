@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/40",
+ "source_sha256": "e1abc80bfb985ab74902f63cf3754fc62c9e5a10971c8a4e3ff3684f49b42563",
+ "in_force": "1934-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/40",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/40/text/O/M19340040.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/40/text/I/M19340040.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/40",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 26,
+  "pos": 40,
+  "address": "WMP19340260040",
+  "displayAddress": "M.P. 1934 nr 26 poz. 40",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b.ros.osób prawnych w Warszawie",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-02-01",
+  "promulgation": "1934-02-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/350"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/350",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340040.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340040.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
