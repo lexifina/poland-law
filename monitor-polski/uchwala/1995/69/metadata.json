@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/69",
+ "source_sha256": "b4a66464e204b4da5ff8483361eafb7969dfaf99c2c3493fccb986135ca9922d",
+ "in_force": "1995-02-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/69",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/69/text/O/M19950069.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/69/text/I/M19950069.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/69",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 5,
+  "pos": 69,
+  "address": "WMP19950050069",
+  "displayAddress": "M.P. 1995 nr 5 poz. 69",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 3 lutego 1995 r. w sprawie uchwalenia ustawy budżetowej na rok 1995.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-02-03",
+  "entryIntoForce": "1995-02-18",
+  "validFrom": "1995-02-18",
+  "repealDate": "1997-10-20",
+  "changeDate": "2016-04-12T14:56:50",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1992/426"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1997/654",
+     "date": "1997-10-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950069.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950069.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
