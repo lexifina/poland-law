@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/772",
+ "source_sha256": "0d9e59c5e82d5a8307bb1d5169154df2d1635d03c5595647bd41e8efa859dba6",
+ "in_force": "2000-11-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/772",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/772/text/O/M20000772.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/772/text/I/M20000772.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/772",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 39,
+  "pos": 772,
+  "address": "WMP20000390772",
+  "displayAddress": "M.P. 2000 nr 39 poz. 772",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 listopada 2000 r. w sprawie kwoty zasiłku pogrzebowego.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-11-16",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek pogrzebowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 80 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000772.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000772.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
