@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/312",
+ "source_sha256": "20fea270cafe0a4894ac9d30c06b73ba4d6638ef04273241219c69d8b5f45a37",
+ "in_force": "1931-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/312/text/O/M19310312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/312/text/I/M19310312.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/312",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 228,
+  "pos": 312,
+  "address": "WMP19312280312",
+  "displayAddress": "M.P. 1931 nr 228 poz. 312",
+  "title": "Obwieszczenie Komitetu Likwidacyjnego do spraw b. rosyjskich osób prawnych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-10-03",
+  "promulgation": "1931-10-03",
+  "entryIntoForce": "1931-10-01",
+  "validFrom": "1931-10-01",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/636"
+    },
+    {
+     "id": "DU/1928/377"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/636",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1928/377",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310312.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
