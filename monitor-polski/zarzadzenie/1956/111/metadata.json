@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1956/111",
+ "source_sha256": "c468077adc8f795d835e9eeba224c782b396cd5178c0d422bc1420b0c358abb0",
+ "in_force": "1956-01-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1956/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1956/111/text/O/M19560111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1956/111/text/I/M19560111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1956/111",
+  "publisher": "MP",
+  "year": 1956,
+  "volume": 8,
+  "pos": 111,
+  "address": "WMP19560080111",
+  "displayAddress": "M.P. 1956 nr 8 poz. 111",
+  "title": "Zarządzenie Ministra Finansów z dnia 12 stycznia 1956 r. w sprawie ustalenia wysokości obowiązkowego ubezpieczenia budynków w miastach.",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-01-12",
+  "entryIntoForce": "1956-01-30",
+  "validFrom": "1956-01-01",
+  "changeDate": "2020-09-28T14:06:05",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1957/66",
+     "date": "1957-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1951/168"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/168"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1951/168",
+     "art": "par. 11 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19560111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19560111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
