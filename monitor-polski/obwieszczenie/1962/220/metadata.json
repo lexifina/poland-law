@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/220",
+ "source_sha256": "e8ad2933edc68538932093c1b737f81f52117501c3c80fe7499adc0043105e38",
+ "in_force": "1962-06-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/220",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/220/text/O/M19620220.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/220/text/I/M19620220.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/220",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 46,
+  "pos": 220,
+  "address": "WMP19620460220",
+  "displayAddress": "M.P. 1962 nr 46 poz. 220",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 czerwca 1962 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-06-01",
+  "entryIntoForce": "1962-06-01",
+  "validFrom": "1962-06-01",
+  "repealDate": "1962-07-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1962/259",
+     "date": "1962-07-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1962/184",
+     "date": "1962-06-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/178",
+     "date": "1962-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620220.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620220.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
