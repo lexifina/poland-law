@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1099",
+ "source_sha256": "65768933fbebe2510c913b6001adda75678bbf90adc2515d2743b6593a86d822",
+ "in_force": "1999-11-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 370 words, parsed 152; at 152: '668 ) , orzeka : 1 . § 6 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1099",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1099/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1099/text/O/D19991099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1099/text/I/D19991099.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1099/text/T/D19991099L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1099",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 94,
+  "pos": 1099,
+  "address": "WDU19990941099",
+  "displayAddress": "Dz.U. 1999 nr 94 poz. 1099",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 listopada 1999 r. sygn. akt U. 6/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-22",
+  "entryIntoForce": "1999-11-24",
+  "validFrom": "1999-11-24",
+  "changeDate": "2024-03-15T11:34:22",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "uwłaszczenie",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/120",
+     "date": "1999-11-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/741"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/120"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991099.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991099L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
