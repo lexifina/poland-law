@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/427",
+ "source_sha256": "0b012186bc96e57e83eb29ce5f5db6e3d7a17d74a349075ff16e48e70a7679d0",
+ "in_force": "1958-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/427",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/427/text/O/M19580427.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/427/text/I/M19580427.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/427",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 73,
+  "pos": 427,
+  "address": "WMP19580730427",
+  "displayAddress": "M.P. 1958 nr 73 poz. 427",
+  "title": "Zarządzenie Ministra Przemysłu Ciężkiego z dnia 30 czerwca 1958 r. w sprawie trybu ustalania cen w resorcie przemysłu ciężkiego.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-06-30",
+  "entryIntoForce": "1958-09-30",
+  "validFrom": "1958-06-30",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU CIĘŻKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1957/537",
+     "date": "1958-06-30"
+    },
+    {
+     "id": "MP/1957/416",
+     "date": "1958-06-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1956/1234"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1956/1234"
+    },
+    {
+     "id": "MP/1953/1311"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580427.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580427.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
