@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/498",
+ "source_sha256": "d8e930350aeb79769d17c281d3bd51d5a7a212c07f8122c6a8587eb753ce08ec",
+ "in_force": "1999-10-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/498",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/498/text/O/M19990498.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/498/text/I/M19990498.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/498",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 32,
+  "pos": 498,
+  "address": "WMP19990320498",
+  "displayAddress": "M.P. 1999 nr 32 poz. 498",
+  "title": "Uchwała Nr 82 Rady Ministrów z dnia 12 października 1999 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-10-12",
+  "entryIntoForce": "1999-10-18",
+  "validFrom": "1999-10-18",
+  "repealDate": "2002-04-20",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin pracy"
+  ],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2002/221",
+     "date": "2002-04-20"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1997/144",
+     "date": "1999-10-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 16"
+    },
+    {
+     "id": "DU/1996/492",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990498.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990498.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
