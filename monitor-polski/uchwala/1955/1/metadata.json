@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1955/1",
+ "source_sha256": "9d5688f72e173d5011e354daf0181c88b3d9595486867e631abe6214ffeebb92",
+ "in_force": "1955-01-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1955/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1955/1/text/O/M19550001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1955/1/text/I/M19550001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1955/1",
+  "publisher": "MP",
+  "year": 1955,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP19550010001",
+  "displayAddress": "M.P. 1955 nr 1 poz. 1",
+  "title": "Uchwała nr 886 Rady Ministrów z dnia 18 grudnia 1954 r. w sprawie określenia zasad i trybu ogłaszania cen, opłat i stawek taryfowych.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1954-12-18",
+  "entryIntoForce": "1955-01-10",
+  "validFrom": "1955-01-10",
+  "repealDate": "1973-10-01",
+  "changeDate": "2014-12-31T12:24:30",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/209",
+     "date": "1973-10-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1949/216",
+     "date": "1955-01-10"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1953/122"
+    },
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1953/122"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1953/122",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19550001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19550001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
