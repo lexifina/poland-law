@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/55",
+ "source_sha256": "bc3f50b5436c2882fa72b8739f06b084cc91905348e09f1d933f53d1af5f53eb",
+ "in_force": "1996-12-31",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/55",
+  "html": "https://eli.gov.pl/api/acts/DU/1997/55/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/55/text/O/D19970055.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/55/text/I/D19970055.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/1997/55/text/U/D19970055Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/55",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 10,
+  "pos": 55,
+  "address": "WDU19970100055",
+  "displayAddress": "Dz.U. 1997 nr 10 poz. 55",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 31 grudnia 1996 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie wojskowej żołnierzy zawodowych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1996-12-31",
+  "repealDate": "2004-07-01",
+  "changeDate": "2024-03-15T11:35:58",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba wojskowa żołnierzy",
+   "żołnierz zawodowy",
+   "stopnie wojskowe",
+   "urlopy"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/1750",
+     "date": "2004-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/44"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/44",
+     "art": "art. 8"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1970/134"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19970055.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970055.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19970055Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
