@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/844",
+ "source_sha256": "15cfc08c144e74360f44d6c609b486c8204761ab57483d3ed0335e0bfab058da",
+ "in_force": "2001-08-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/844",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/844/text/O/D20010844.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/844/text/I/D20010844.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/844",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 79,
+  "pos": 844,
+  "address": "WDU20010790844",
+  "displayAddress": "Dz.U. 2001 nr 79 poz. 844",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 20 lipca 2001 r. w sprawie organizacji roku szkolnego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-07-20",
+  "promulgation": "2001-07-31",
+  "entryIntoForce": "2001-08-15",
+  "validFrom": "2001-08-15",
+  "repealDate": "2002-04-30",
+  "changeDate": "2014-12-31T12:25:54",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2002/432",
+     "date": "2002-04-30"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1997/1118",
+     "date": "2001-08-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/425"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/425",
+     "art": "art. 22 ust. 2 pkt 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20010844.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010844.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
