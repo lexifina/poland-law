@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/876",
+ "source_sha256": "6827bdd21a4c9286544187f0c041be13c2f8742cc18623b19c4ee36180221f3d",
+ "in_force": "1932-11-19",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/876",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/876/text/O/D19320876.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/876/text/I/D19320876.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/876",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 105,
+  "pos": 876,
+  "address": "WDU19321050876",
+  "displayAddress": "Dz.U. 1932 nr 105 poz. 876",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 19 listopada 1932 r. w sprawie częściowej zmiany i uzupełnienia taryfy telefonicznej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-19",
+  "repealDate": "1933-06-01",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1933/317",
+     "date": "1933-06-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/584"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320876.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320876.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
