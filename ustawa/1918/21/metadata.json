@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1918/21",
+ "source_sha256": "a2f2b25af2fb5e4e50e35fc97becbeaca9b1acccd31b8b64f0a24c4b42f59de9",
+ "in_force": "1918-09-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 779 words, parsed 769; at 769: 'kraju przed powyższym terminem . Dan w Warszawie , dnia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1918/21",
+  "html": "https://eli.gov.pl/api/acts/DU/1918/21/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1918/21/text/O/D19180021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1918/21/text/I/D19180021.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1918/21",
+  "publisher": "DU",
+  "year": 1918,
+  "volume": 10,
+  "pos": 21,
+  "address": "WDU19180100021",
+  "displayAddress": "Dz.U. 1918 nr 10 poz. 21",
+  "title": "Ustawa tymczasowa o ochronie lokatorów",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1918-09-04",
+  "promulgation": "1918-09-10",
+  "entryIntoForce": "1918-09-10",
+  "validFrom": "1918-09-10",
+  "repealDate": "1919-01-25",
+  "changeDate": "2024-03-14T21:22:56",
+  "releasedBy": [
+   "RADA REGENCYJNA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokalowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1919/116",
+     "date": "1919-01-25"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19180021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19180021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
