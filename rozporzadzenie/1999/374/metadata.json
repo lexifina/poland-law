@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/374",
+ "source_sha256": "874ab1f63533a09a800b0a1263582419fa5c9b17b2d95e6b3a5e0e86453ebc14",
+ "in_force": "1999-05-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/374",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/374/text/O/D19990374.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/374/text/I/D19990374.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/374/text/T/D19990374L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/374",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 38,
+  "pos": 374,
+  "address": "WDU19990380374",
+  "displayAddress": "Dz.U. 1999 nr 38 poz. 374",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 1999 r. w sprawie rejestru kościołów i innych związków wyznaniowych.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-03-31",
+  "entryIntoForce": "1999-05-13",
+  "validFrom": "1999-05-13",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania",
+   "rejestry",
+   "kościoły"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1989/249",
+     "date": "1999-05-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/155"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/155",
+     "art": "art. 37"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990374.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990374.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990374L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
