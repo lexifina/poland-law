@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/469",
+ "source_sha256": "2717abb5573828d764c6231fe49b75a57d26dc0c2060b995263472c69aa6aa0d",
+ "in_force": "2004-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/469",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/469/text/O/M20040469.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/469/text/I/M20040469.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/469",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 27,
+  "pos": 469,
+  "address": "WMP20040270469",
+  "displayAddress": "M.P. 2004 nr 27 poz. 469",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 9 czerwca 2004 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazanych w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-06-09",
+  "promulgation": "2004-06-15",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [
+   "Zakład Ubezpieczeń Społecznych"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040469.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040469.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
