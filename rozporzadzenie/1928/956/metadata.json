@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/956",
+ "source_sha256": "af51f364121df5d2a3f0f2946474863a35e6c26ac28c97e23d43a69d61f56d77",
+ "in_force": "1928-12-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/956",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/956/text/O/D19280956.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/956/text/I/D19280956.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/956",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 105,
+  "pos": 956,
+  "address": "WDU19281050956",
+  "displayAddress": "Dz.U. 1928 nr 105 poz. 956",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 24 grudnia 1928 r. o uldze celnej na kwas siarkowy.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-24",
+  "repealDate": "1930-01-01",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. ROLNICTWA",
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1929/683",
+     "date": "1930-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280956.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280956.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
