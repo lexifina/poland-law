@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1953/123",
+ "source_sha256": "36b43cecbe95b52aa1b70999d2d24aafc0d507216ef633d3260e5d103cdbb6e9",
+ "in_force": "1953-06-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1953/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1953/123/text/O/D19530123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1953/123/text/I/D19530123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1953/123",
+  "publisher": "DU",
+  "year": 1953,
+  "volume": 31,
+  "pos": 123,
+  "address": "WDU19530310123",
+  "displayAddress": "Dz.U. 1953 nr 31 poz. 123",
+  "title": "Dekret z dnia 3 czerwca 1953 r. zmieniający dekret z dnia 30 czerwca 1951 r. o obowiązku świadczeń w naturze na niektóre cele publiczne.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1953-06-03",
+  "entryIntoForce": "1953-06-13",
+  "validFrom": "1953-01-01",
+  "repealDate": "1958-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1958/73",
+     "date": "1958-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1951/284",
+     "date": "1953-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19530123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19530123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
