@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/1568",
+ "source_sha256": "1f0574b3ac7338d2667cefa0d1ce3a9d656161339e2eef119b198a30c3083d7b",
+ "in_force": "2002-11-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1655 words, parsed 160; at 160: '27 października 2002 r . I . Dane ogólne dotyczące'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/1568",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/1568/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/1568/text/O/D20021568.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/1568/text/I/D20021568.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/1568",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 187,
+  "pos": 1568,
+  "address": "WDU20021871568",
+  "displayAddress": "Dz.U. 2002 nr 187 poz. 1568",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 8 listopada 2002 r. w sprawie zbiorczych wyników wyborów do rad na obszarze kraju, przeprowadzonych w dniu 27 października 2002 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-11-08",
+  "promulgation": "2002-11-12",
+  "changeDate": "2024-03-15T10:06:27",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "powiaty",
+   "województwa",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Warszawa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/361"
+    },
+    {
+     "id": "DU/1998/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/361",
+     "art": "art. 7 ust. 2"
+    },
+    {
+     "id": "DU/1998/602",
+     "art": "art. 184 ust. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20021568.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20021568.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
