@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/191",
+ "source_sha256": "78c499850119a09626689e9004d211c048d849a7d467d71f4c6b4f68c4c2118f",
+ "in_force": "1968-06-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/191",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/191/text/O/M19680191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/191/text/I/M19680191.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/191",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 28,
+  "pos": 191,
+  "address": "WMP19680280191",
+  "displayAddress": "M.P. 1968 nr 28 poz. 191",
+  "title": "Obwieszczenie Polskiego Komitetu Normalizacyjnego z dnia 26 czerwca 1968 r. w sprawie ogłoszenia ustanowionych Polskich Norm.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-06-26",
+  "entryIntoForce": "1968-06-26",
+  "validFrom": "1968-06-26",
+  "repealDate": "1972-03-29",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "POLSKI KOMITET NORMALIZACYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1961/90",
+     "date": "1968-06-26"
+    },
+    {
+     "id": "MP/1961/292",
+     "date": "1968-06-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/298"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/298",
+     "art": "art. 9 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1972/83",
+     "date": "1972-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680191.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
