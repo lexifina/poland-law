@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/410",
+ "source_sha256": "28722bdb766c2dd948d07e2a019fd052ad4a057423612ec24550beaab46c6dd2",
+ "in_force": "2000-06-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/410",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/410/text/O/M20000410.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/410/text/I/M20000410.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/410",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 20,
+  "pos": 410,
+  "address": "WMP20000200410",
+  "displayAddress": "M.P. 2000 nr 20 poz. 410",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 28 czerwca 2000 r. w sprawie wyrażenia zgody na powołanie Rzecznika Praw Obywatelskich.",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-28",
+  "changeDate": "2016-04-13T13:42:17",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Rzecznik Praw Obywatelskich"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 209. ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000410.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000410.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
