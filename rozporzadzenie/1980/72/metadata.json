@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1980/72",
+ "source_sha256": "5c4401aaf17eb1a5916e5f4af210c375b7654e126ca66d6e1130a82cc552d42f",
+ "in_force": "1980-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1980/72",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1980/72/text/O/D19800072.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1980/72/text/I/D19800072.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1980/72",
+  "publisher": "DU",
+  "year": 1980,
+  "volume": 19,
+  "pos": 72,
+  "address": "WDU19800190072",
+  "displayAddress": "Dz.U. 1980 nr 19 poz. 72",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 30 sierpnia 1980 r. zmieniające rozporządzenie w sprawie opłat za czynności zespołów adwokackich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1980-08-30",
+  "promulgation": "1980-09-01",
+  "entryIntoForce": "1980-09-01",
+  "validFrom": "1980-09-01",
+  "repealDate": "1980-12-31",
+  "changeDate": "2023-06-14T13:37:31",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura",
+   "opłaty adwokackie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1980/132",
+     "date": "1980-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1967/241",
+     "date": "1980-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1963/309"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1963/309",
+     "art": "art. 108 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19800072.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19800072.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
