@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1997/852",
+ "source_sha256": "20b074055182a9a6de5c1ba2777ac264774e91214aa91a00bf55514ab217ceae",
+ "in_force": "1997-12-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1997/852",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1997/852/text/O/M19970852.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1997/852/text/I/M19970852.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1997/852",
+  "publisher": "MP",
+  "year": 1997,
+  "volume": 85,
+  "pos": 852,
+  "address": "WMP19970850852",
+  "displayAddress": "M.P. 1997 nr 85 poz. 852",
+  "title": "Uchwała Sądu Najwyższego z dnia 11 grudnia 1997 r. o ważności wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 21 września 1997 r.",
+  "type": "Uchwała",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-12-11",
+  "entryIntoForce": "1997-12-11",
+  "validFrom": "1997-12-11",
+  "repealDate": "2001-05-31",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "SĄD NAJWYŻSZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/205"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 101 ust. 1"
+    },
+    {
+     "id": "DU/1993/205",
+     "art": "art. 128 ust. 1 i 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/499",
+     "date": "2001-05-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19970852.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19970852.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
