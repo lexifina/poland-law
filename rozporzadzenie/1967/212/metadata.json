@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1967/212",
+ "source_sha256": "5b8f121193d9994971104b1b39589f6566533f3aea57529843243257aac78d79",
+ "in_force": "1967-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1967/212",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1967/212/text/O/D19670212.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1967/212/text/I/D19670212.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1967/212",
+  "publisher": "DU",
+  "year": 1967,
+  "volume": 42,
+  "pos": 212,
+  "address": "WDU19670420212",
+  "displayAddress": "Dz.U. 1967 nr 42 poz. 212",
+  "title": "Rozporządzenie Ministra Finansów z dnia 3 listopada 1967 r. w sprawie przedpłat na podatki obrotowy i dochodowy.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-11-03",
+  "entryIntoForce": "1967-12-01",
+  "validFrom": "1967-12-01",
+  "repealDate": "1980-01-01",
+  "changeDate": "2014-12-31T12:24:09",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1979/172",
+     "date": "1980-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1961/133",
+     "date": "1967-12-01"
+    },
+    {
+     "id": "DU/1955/317",
+     "date": "1967-12-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1950/452"
+    },
+    {
+     "id": "DU/1950/450"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    },
+    {
+     "id": "DU/1946/174"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19670212.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19670212.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
