@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/184",
+ "source_sha256": "690d04eb710c0b703f2b918e68e8aa39e31d5a412087a110eb872b5371fb8f7f",
+ "in_force": "2004-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/184",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/184/text/O/M20040184.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/184/text/I/M20040184.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/184",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 12,
+  "pos": 184,
+  "address": "WMP20040120184",
+  "displayAddress": "M.P. 2004 nr 12 poz. 184",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 4 marca 2004 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Jana Rokity",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-03-04",
+  "promulgation": "2004-03-12",
+  "changeDate": "2026-10-06T14:30:56",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 1"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 6a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040184.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040184.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
