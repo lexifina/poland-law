@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/165",
+ "source_sha256": "d4e132bf5a04e210e00b7fa2f8a7cda230338ddcdc74fe3d6eccadf686f07cc4",
+ "in_force": "1936-04-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/165",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/165/text/O/M19360165.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/165/text/I/M19360165.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/165",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 85,
+  "pos": 165,
+  "address": "WMP19360850165",
+  "displayAddress": "M.P. 1936 nr 85 poz. 165",
+  "title": "Okólnik T. 57 Ministerstwa Skarbu z dnia 26 marca 1936 r. L. D. IV. 7074/2/36 w sprawie wyjaśnień do taryfy celnej przywozowej (dotyczy poz. poz. 221, 222, 437, 1273).",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-03-26",
+  "promulgation": "1936-04-10",
+  "repealDate": "1939-01-13",
+  "changeDate": "2014-12-31T12:26:24",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "celne prawo",
+   "taryfy celne, wywóz i przywóz",
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1938/675",
+     "date": "1939-01-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1932/732"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/610"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/610",
+     "art": "art. 13 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360165.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360165.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
