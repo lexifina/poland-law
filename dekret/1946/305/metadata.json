@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/305",
+ "source_sha256": "c294484470d64f695d4b31184013f3c5017d19f0cbd0a12441114eb3d1e1d311",
+ "in_force": "1946-10-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/305",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/305/text/O/D19460305.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/305/text/I/D19460305.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1946/305/text/T/D19460305L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/305",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 54,
+  "pos": 305,
+  "address": "WDU19460540305",
+  "displayAddress": "Dz.U. 1946 nr 54 poz. 305",
+  "title": "Dekret z dnia 8 października 1946 r. o zmianie dekretu z dnia 7 lipca 1945 r. o odtworzeniu dyplomów i świadectw z ukończenia nauki.",
+  "type": "Dekret",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1946-10-08",
+  "entryIntoForce": "1946-10-31",
+  "validFrom": "1946-10-31",
+  "changeDate": "2026-10-14T14:10:16",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "oświata i wychowanie",
+   "świadectwa i dyplomy",
+   "cywilne postępowanie",
+   "absolwenci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/164",
+     "date": "1946-10-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460305.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460305.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19460305L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
