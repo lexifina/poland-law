@@ -1,0 +1,124 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/154",
+ "source_sha256": "147a25a8a141170be8a208ed5248f6d7f5bc6b26883fa281f21fa10a934d6289",
+ "in_force": "2004-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/154",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/154/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/154/text/O/D20030154.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/154/text/I/D20030154.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/154/text/T/D20030154L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/154/text/U/D20030154Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/154",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 17,
+  "pos": 154,
+  "address": "WDU20030170154",
+  "displayAddress": "Dz.U. 2003 nr 17 poz. 154",
+  "title": "Ustawa z dnia 10 stycznia 2003 r. o systemie monitorowania i kontrolowania jakości paliw ciekłych.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-01-10",
+  "promulgation": "2003-02-04",
+  "entryIntoForce": "2004-01-01",
+  "validFrom": "2004-01-01",
+  "repealDate": "2004-03-19",
+  "changeDate": "2024-03-15T09:51:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS GOSPODARKI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "jakość wyrobów",
+   "kontrola",
+   "paliwa i smary",
+   "monitoring"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1010.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1010",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1010",
+    "number": "1010",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/293",
+     "date": "2004-03-19"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2004/122"
+    },
+    {
+     "id": "DU/2003/2298"
+    },
+    {
+     "id": "DU/2003/2297"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/1934",
+     "date": "2004-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2001/25"
+    },
+    {
+     "id": "DU/1999/1178"
+    },
+    {
+     "id": "DU/1997/602"
+    },
+    {
+     "id": "DU/1989/163"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030154.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030154.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030154L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20030154Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
