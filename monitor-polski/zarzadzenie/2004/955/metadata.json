@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/955",
+ "source_sha256": "042ab8b4692657155e1c8ebb896a3759c0d87fcb47ada08dcc9ed3acade42706",
+ "in_force": "2005-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/955",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/955/text/O/M20040955.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/955/text/I/M20040955.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/955",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 56,
+  "pos": 955,
+  "address": "WMP20040560955",
+  "displayAddress": "M.P. 2004 nr 56 poz. 955",
+  "title": "Zarządzenie Nr 136 Prezesa Rady Ministrów z dnia 28 grudnia 2004 r. w sprawie nadania statutu Ministerstwu Finansów",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2004-12-28",
+  "promulgation": "2004-12-31",
+  "entryIntoForce": "2005-01-15",
+  "validFrom": "2005-01-15",
+  "repealDate": "2005-12-22",
+  "changeDate": "2014-12-31T12:26:39",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Finansów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2005/1136",
+     "date": "2005-12-22"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2002/150",
+     "date": "2005-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040955.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040955.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
