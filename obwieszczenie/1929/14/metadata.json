@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/14",
+ "source_sha256": "e8afce44ea8909f9385ba4afd4c06ad81518f398145643d3f02db2dc8b12618a",
+ "in_force": "1928-12-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/14",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/14/text/O/D19290014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/14/text/I/D19290014.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/14",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 1,
+  "pos": 14,
+  "address": "WDU19290010014",
+  "displayAddress": "Dz.U. 1929 nr 1 poz. 14",
+  "title": "Obwieszczenie Ministra Przemysłu i Handlu z dnia 14 grudnia 1928 r. w sprawie sprostowania błędu w rozporządzeniu Ministra Przemysłu i Handlu z dnia 3 sierpnia 1928 r. o opłatach za czynności urzędów miar.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-12-14",
+  "repealDate": "1932-09-01",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "urzędy jakości i miar",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/629",
+     "date": "1932-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/677"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290014.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
