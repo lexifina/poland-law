@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1990/45",
+ "source_sha256": "794e640899b42cab3d88f456074f4fa26f2c84f8e26c38d5e616df9add463350",
+ "in_force": "1990-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1990/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1990/45/text/O/D19900045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1990/45/text/I/D19900045.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1990/45",
+  "publisher": "DU",
+  "year": 1990,
+  "volume": 8,
+  "pos": 45,
+  "address": "WDU19900080045",
+  "displayAddress": "Dz.U. 1990 nr 8 poz. 45",
+  "title": "Oświadczenie rządowe z dnia 11 grudnia 1989 r. w sprawie przystąpienia Polskiej Rzeczypospolitej Ludowej do Europejskiej konwencji kulturalnej, sporządzonej w Paryżu dnia 19 grudnia 1954 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1989-12-11",
+  "promulgation": "1990-02-12",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "oświata, nauka i kultura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/44"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/44",
+     "art": "art. 9 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19900045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19900045.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
