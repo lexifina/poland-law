@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/119",
+ "source_sha256": "11065433ef84fdd79b070587b24721e2a7ecf3094ab09683937a88a3e7b7a7bb",
+ "in_force": "1936-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/119",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/119/text/O/M19360119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/119/text/I/M19360119.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/119",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 60,
+  "pos": 119,
+  "address": "WMP19360600119",
+  "displayAddress": "M.P. 1936 nr 60 poz. 119",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 2 marca 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-03-02",
+  "promulgation": "1936-03-12",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360119.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
