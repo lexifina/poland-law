@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/967",
+ "source_sha256": "0c9da646042dfc03c0b876013922d4d4550f9c19144ee2848441307a1734aedc",
+ "in_force": "1999-10-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 395 words, parsed 298; at 298: 'wspólnie z innym adwokatem : 1 . w części stanowiącej'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/967",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/967/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/967/text/O/D19990967.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/967/text/I/D19990967.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/967/text/T/D19990967L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/967",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 86,
+  "pos": 967,
+  "address": "WDU19990860967",
+  "displayAddress": "Dz.U. 1999 nr 86 poz. 967",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 października 1999 r. sygn. akt SK. 4/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-10-19",
+  "entryIntoForce": "1999-10-22",
+  "validFrom": "1999-10-22",
+  "changeDate": "2024-03-15T11:34:29",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "adwokatura",
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1990/41"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990967.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990967.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990967L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
