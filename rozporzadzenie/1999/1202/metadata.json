@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1202",
+ "source_sha256": "ea5e225a31e4de7fa5126cd5aeaa35fa4dba0273176a72877c35f60652eb789f",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1202",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1202/text/O/D19991202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1202/text/I/D19991202.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1202/text/T/D19991202L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1202",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 105,
+  "pos": 1202,
+  "address": "WDU19991051202",
+  "displayAddress": "Dz.U. 1999 nr 105 poz. 1202",
+  "title": "Rozporządzenie Ministra Finansów z dnia 21 grudnia 1999 r. w sprawie przedłużenia terminu wpłaty opłaty skarbowej od weksli.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-12-21",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "repealDate": "2001-01-01",
+  "changeDate": "2022-01-28T14:17:17",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa",
+   "opłata skarbowa",
+   "terminy",
+   "weksle"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 50"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2000/960",
+     "date": "2001-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991202.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991202L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
