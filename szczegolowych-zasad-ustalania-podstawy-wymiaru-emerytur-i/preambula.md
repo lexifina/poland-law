@@ -1,0 +1,1 @@
+Na podstawie art. 22 ust. 1 pkt 1-3 i 5 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270 oraz z 1986 r. Nr 1, poz. 1) zarządza się, co następuje:
