@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/76",
+ "source_sha256": "8d078b08608210cbe6f65d9c4cfbe2c74b80a468dc64a87176c91ec9efacf014",
+ "in_force": "2002-01-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/76",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/76/text/O/M20020076.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/76/text/I/M20020076.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/76",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 3,
+  "pos": 76,
+  "address": "WMP20020030076",
+  "displayAddress": "M.P. 2002 nr 3 poz. 76",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 stycznia 2002 r. w sprawie przeciętnej średniorocznej ceny detalicznej 1000 kg węgla kamiennego w 2001 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-01-15",
+  "promulgation": "2002-01-25",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "węgiel",
+   "ceny detaliczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/948"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/948",
+     "art": "art. 74 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020076.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020076.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
