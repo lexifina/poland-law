@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/614",
+ "source_sha256": "978783587e4a1989a94346c7d45a2dc98b181dd29ae24013d671677af1d91df7",
+ "in_force": "2004-08-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/614",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/614/text/O/M20040614.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/614/text/I/M20040614.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/614",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 35,
+  "pos": 614,
+  "address": "WMP20040350614",
+  "displayAddress": "M.P. 2004 nr 35 poz. 614",
+  "title": "Obwieszczenie Ministra Finansów z dnia 13 sierpnia 2004 r. w sprawie wysokości kwoty wymienionej w art. 262 par. 1 ustawy - Ordynacja podatkowa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-08-13",
+  "promulgation": "2004-08-20",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 262a par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040614.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040614.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
