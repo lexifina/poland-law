@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/21",
+ "source_sha256": "5a64c7f61a93ae8b4d5c70cf62fb6421b5166955a6c476814b84495f5fba0c7b",
+ "in_force": "1934-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/21/text/O/M19340021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/21/text/I/M19340021.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/21",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 16,
+  "pos": 21,
+  "address": "WMP19340160021",
+  "displayAddress": "M.P. 1934 nr 16 poz. 21",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-20",
+  "promulgation": "1934-01-20",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/267"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1921/267",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1921/267",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1921/267",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
