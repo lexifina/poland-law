@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/37",
+ "source_sha256": "74e0f7dfa1f94713fa328cf43db56053b20094c6c839a42e93d5230bb3c7fd7d",
+ "in_force": "1991-02-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/37",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/37/text/O/M19910037.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/37/text/I/M19910037.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/37",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 6,
+  "pos": 37,
+  "address": "WMP19910060037",
+  "displayAddress": "M.P. 1991 nr 6 poz. 37",
+  "title": "Zarządzenie Ministra Finansów z dnia 12 lutego 1991 r. w sprawie przedłużenia terminu płatności podatku od środków transportowych w 1991 r.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-02-12",
+  "entryIntoForce": "1991-02-15",
+  "validFrom": "1991-02-15",
+  "repealDate": "1991-12-31",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "podatki i opłaty terenowe",
+   "podatek od środków transportowych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1991/37",
+     "date": "1991-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 13 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1991/37",
+     "date": "1991-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910037.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910037.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
