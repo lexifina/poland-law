@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1966/21",
+ "source_sha256": "80295aeb00cb4d9791f47e14ecb5379d39adf31f34c489078a69a1a93d6f3ad9",
+ "in_force": "1966-01-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1966/21",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1966/21/text/O/M19660021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1966/21/text/I/M19660021.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1966/21",
+  "publisher": "MP",
+  "year": 1966,
+  "volume": 2,
+  "pos": 21,
+  "address": "WMP19660020021",
+  "displayAddress": "M.P. 1966 nr 2 poz. 21",
+  "title": "Obwieszczenie Ministra Zdrowia i Opieki Społecznej z dnia 3 stycznia 1966 r. o wprowadzeniu zmian do urzędowego spisu leków.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-01-03",
+  "entryIntoForce": "1966-01-03",
+  "validFrom": "1966-01-03",
+  "repealDate": "1969-08-29",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "MIN. ZDROWIA I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1969/309",
+     "date": "1969-08-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1962/423",
+     "date": "1966-01-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1963/99"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1963/99",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19660021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19660021.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
