@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/143",
+ "source_sha256": "7e59d0fd9dad1746c2739b8c107a7322aecc2750f5917a98813d59c543b75620",
+ "in_force": "2001-02-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 365 words, parsed 174; at 174: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 17'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/143",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/143/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/143/text/O/D20010143.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/143/text/I/D20010143.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/143/text/T/D20010143TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/143",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 14,
+  "pos": 143,
+  "address": "WDU20010140143",
+  "displayAddress": "Dz.U. 2001 nr 14 poz. 143",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 lutego 2001 r. sygn. akt K. 19/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-02-13",
+  "promulgation": "2001-02-28",
+  "entryIntoForce": "2001-02-28",
+  "validFrom": "2001-02-28",
+  "changeDate": "2024-03-15T10:00:26",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola skarbowa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/442",
+     "date": "2001-02-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/442"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010143.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010143.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010143TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
