@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1994/111",
+ "source_sha256": "ca9bb15dffcff79b610101836f6531cd51438011f798220b58b9215c8282703e",
+ "in_force": "1994-03-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1994/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1994/111/text/O/M19940111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1994/111/text/I/M19940111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1994/111",
+  "publisher": "MP",
+  "year": 1994,
+  "volume": 15,
+  "pos": 111,
+  "address": "WMP19940150111",
+  "displayAddress": "M.P. 1994 nr 15 poz. 111",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 11 lutego 1994 r. w sprawie ogłoszenia wykazu zarejestrowanych kancelarii notarialnych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1994-02-11",
+  "entryIntoForce": "1994-03-07",
+  "validFrom": "1994-03-07",
+  "repealDate": "1995-03-16",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1995/137",
+     "date": "1995-03-16"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1993/62",
+     "date": "1994-03-07"
+    },
+    {
+     "id": "MP/1993/388",
+     "date": "1994-03-07"
+    },
+    {
+     "id": "MP/1992/66",
+     "date": "1994-03-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/91"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/91",
+     "art": "art. 9 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19940111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19940111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
