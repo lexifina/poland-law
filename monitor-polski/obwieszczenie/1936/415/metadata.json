@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/415",
+ "source_sha256": "4f3bc5bdb44214f87589136a96652d6d8d25c20b910b4f3ae2d12cd02f76997d",
+ "in_force": "1936-10-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/415",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/415/text/O/M19360415.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/415/text/I/M19360415.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/415",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 239,
+  "pos": 415,
+  "address": "WMP19362390415",
+  "displayAddress": "M.P. 1936 nr 239 poz. 415",
+  "title": "Obwieszczenie Urzędu Długów Państwowych z dnia 6 października 1936 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-10-06",
+  "promulgation": "1936-10-14",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny",
+   "inwestycje",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360415.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360415.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
