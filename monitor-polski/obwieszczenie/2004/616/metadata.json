@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2004/616",
+ "source_sha256": "9b2313d07fb13ea58ab684a3a57f55ecb2e750c5d0d6da7fd6d137aa63008898",
+ "in_force": "2004-08-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2004/616",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2004/616/text/O/M20040616.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2004/616/text/I/M20040616.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2004/616",
+  "publisher": "MP",
+  "year": 2004,
+  "volume": 35,
+  "pos": 616,
+  "address": "WMP20040350616",
+  "displayAddress": "M.P. 2004 nr 35 poz. 616",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 12 sierpnia 2004 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego w IV kwartale 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-08-12",
+  "promulgation": "2004-08-20",
+  "changeDate": "2019-03-22T14:26:50",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 44 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20040616.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20040616.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
