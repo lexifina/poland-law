@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/365",
+ "source_sha256": "3cd4b80d52b762fbca8f19f0024d27efa7bae452e4a3a058cec0fa342ed68e74",
+ "in_force": "1970-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/365/text/O/M19690365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/365/text/I/M19690365.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/365",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 46,
+  "pos": 365,
+  "address": "WMP19690460365",
+  "displayAddress": "M.P. 1969 nr 46 poz. 365",
+  "title": "Zarządzenie Prezesa Centralnego Urzędu Jakości i Miar z dnia 15 października 1969 r. w sprawie upoważnienia Instytutu Obróbki Skrawaniem do przyznawania prawa do oznaczania znakami jakości narzędzi powszechnego użytku.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1969-10-15",
+  "entryIntoForce": "1970-01-01",
+  "validFrom": "1970-01-01",
+  "repealDate": "1980-01-31",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "PREZ. CENTRALNEGO URZĘDU JAKOŚCI I MIAR"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "znak jakości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/11",
+     "date": "1980-01-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1967/74"
+    },
+    {
+     "id": "MP/1967/286"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1966/147"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1966/147",
+     "art": "art. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
