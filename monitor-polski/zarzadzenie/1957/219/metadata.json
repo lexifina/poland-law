@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/219",
+ "source_sha256": "70ec19de7fe2b3d9523326c9f59b795058453073ce570e90b14578bc7624b6cd",
+ "in_force": "1957-04-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/219",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/219/text/O/M19570219.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/219/text/I/M19570219.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/219",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 32,
+  "pos": 219,
+  "address": "WMP19570320219",
+  "displayAddress": "M.P. 1957 nr 32 poz. 219",
+  "title": "Zarządzenie Ministra Przemysłu Spożywczego i Skupu z dnia 6 kwietnia 1957 r. w sprawie ustanowienia jednostkowych cen odmian i klas tytoniu oraz ogłoszenia jednolitego tekstu taryfy wykupu tytoniu krajowego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-04-06",
+  "entryIntoForce": "1957-04-29",
+  "validFrom": "1957-04-29",
+  "repealDate": "1958-02-19",
+  "changeDate": "2014-12-31T12:24:33",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1958/148",
+     "date": "1958-02-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1957/215"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1957/215",
+     "art": "par. 2"
+    },
+    {
+     "id": "MP/1957/215",
+     "art": "par. 6"
+    },
+    {
+     "id": "MP/1957/215",
+     "art": "par. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570219.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570219.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
