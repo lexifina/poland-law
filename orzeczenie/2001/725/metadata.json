@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/725",
+ "source_sha256": "84f0475a3ea55435118e2c501101feb6960a22243a5394ddb9e03b4c10ff3a44",
+ "in_force": "2001-07-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 359 words, parsed 178; at 178: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/725",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/725/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/725/text/O/D20010725.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/725/text/I/D20010725.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/725/text/T/D20010725L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/725",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 69,
+  "pos": 725,
+  "address": "WDU20010690725",
+  "displayAddress": "Dz.U. 2001 nr 69 poz. 725",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2001 r. sygn. akt K. 3/2001.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-07-03",
+  "promulgation": "2001-07-06",
+  "entryIntoForce": "2001-07-09",
+  "validFrom": "2002-07-02",
+  "changeDate": "2024-03-15T09:59:35",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1949/138",
+     "date": "2002-07-02"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1951/341",
+     "date": "2002-07-02"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1951/341"
+    },
+    {
+     "id": "DU/1949/138"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010725.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010725.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010725L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
