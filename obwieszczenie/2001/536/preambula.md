@@ -1,0 +1,3 @@
+Na podstawie art. 17 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. Nr 62, poz. 718 i z 2001 r. Nr 46, poz. 499) prostuje się następujące błędy:
+
+w tytule oraz w art. 1 ustawy z dnia 18 listopada 1999 r. o wypowiedzeniu, w stosunkach między Rzecząpospolitą Polską a Republiką Białorusi, Konwencji między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Związku Socjalistycznych Republik Radzieckich w sprawie zapobiegania powstawaniu przypadków podwójnego obywatelstwa, podpisanej w Warszawie dnia 31 marca 1965 r. (Dz. U. Nr 109, poz. 1231), zamiast wyrazu „Białorusi” powinien być wyraz „Białoruś”.
