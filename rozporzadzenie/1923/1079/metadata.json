@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/1079",
+ "source_sha256": "7454c22876441bc6b73666a930aac86ac169f66314f66a61a051a25a5b092ee9",
+ "in_force": "1924-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/1079",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/1079/text/O/D19231079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/1079/text/I/D19231079.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/1079",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 132,
+  "pos": 1079,
+  "address": "WDU19231321079",
+  "displayAddress": "Dz.U. 1923 nr 132 poz. 1079",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 13 grudnia 1923 r. w sprawie opłaty za składowe od towarów przyjętych do składów urzędowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-12-13",
+  "entryIntoForce": "1924-01-01",
+  "validFrom": "1924-01-01",
+  "repealDate": "1930-06-01",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/276",
+     "date": "1930-06-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1923/373",
+     "date": "1924-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1921/64",
+     "date": "1924-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1923/1044"
+    },
+    {
+     "id": "DU/1920/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19231079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19231079.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
