@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/892",
+ "source_sha256": "a75f8d571fcc6ab579c9ab875afa177644a4d8a4ca62a07083db8c16d13d6a64",
+ "in_force": "1932-11-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/892",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/892/text/O/D19320892.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/892/text/I/D19320892.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/892",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 108,
+  "pos": 892,
+  "address": "WDU19321080892",
+  "displayAddress": "Dz.U. 1932 nr 108 poz. 892",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 4 listopada 1932 r. o ulgach w spłacie daniny lasowej.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-04",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1933/6",
+     "date": "1933-01-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/479"
+    },
+    {
+     "id": "DU/1932/291"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320892.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320892.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
