@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1998/2",
+ "source_sha256": "ad3a1bedb2e1ae274edf5ceed7ad010e6c71db5ad9a277f8771794d9023b9897",
+ "in_force": "1998-01-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1998/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1998/2/text/O/M19980002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1998/2/text/I/M19980002.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1998/2/text/T/M19980002L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1998/2",
+  "publisher": "MP",
+  "year": 1998,
+  "volume": 1,
+  "pos": 2,
+  "address": "WMP19980010002",
+  "displayAddress": "M.P. 1998 nr 1 poz. 2",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 6 stycznia 1998 r. o powołaniu Prezesa Trybunału Konstytucyjnego.",
+  "type": "Postanowienie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-01-06",
+  "entryIntoForce": "1998-01-06",
+  "validFrom": "1998-01-06",
+  "expirationDate": "2006-11-06",
+  "repealDate": "2006-11-06",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Prezes Trybunału Konstytucyjnego",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 194 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2006/804",
+     "date": "2006-11-06"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19980002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19980002.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19980002L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
