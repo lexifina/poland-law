@@ -1,0 +1,55 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/409",
+ "source_sha256": "5cc0c36530a205eb53ae76e35a6f5b7c6a27c853a02144d34ab4330d9d692dda",
+ "in_force": "2000-06-30",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/409",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/409/text/O/M20000409.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/409/text/I/M20000409.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/409",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 20,
+  "pos": 409,
+  "address": "WMP20000200409",
+  "displayAddress": "M.P. 2000 nr 20 poz. 409",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 30 czerwca 2000 r. w sprawie sprawozdania Krajowej Rady Radiofonii i Telewizji z rocznej działalności.",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-30",
+  "changeDate": "2020-10-16T09:48:56",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "sprawozdawczość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000409.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000409.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
