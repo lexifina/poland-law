@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1934/912",
+ "source_sha256": "7f4f5fa83a8f041529cf3fd95f4edb7f746d910b689905d1c4fadf0327394d6a",
+ "in_force": "1934-11-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1934/912",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1934/912/text/O/D19340912.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1934/912/text/I/D19340912.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1934/912",
+  "publisher": "DU",
+  "year": 1934,
+  "volume": 100,
+  "pos": 912,
+  "address": "WDU19341000912",
+  "displayAddress": "Dz.U. 1934 nr 100 poz. 912",
+  "title": "Oświadczenie rządowe z dnia 6 października 1934 r. w sprawie złożenia przez Polskę za W. M. Gdańsk dokumentu ratyfikacyjnego oraz przystąpienia Szwecji do międzynarodowej konwencji sanitarnej z dnia 21 czerwca 1926 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1934-10-06",
+  "promulgation": "1934-11-12",
+  "changeDate": "2019-03-26T10:33:16",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Międzynarodowa Konwencja Sanitarna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/115"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/115",
+     "art": "art. 170"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19340912.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19340912.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
