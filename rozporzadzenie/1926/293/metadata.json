@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/293",
+ "source_sha256": "ef112acc992fc5cd5f5a8d3dd22c5506852824752004bd5a58926782f8c8879e",
+ "in_force": "1926-05-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/293",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/293/text/O/D19260293.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/293/text/I/D19260293.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/293",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 49,
+  "pos": 293,
+  "address": "WDU19260490293",
+  "displayAddress": "Dz.U. 1926 nr 49 poz. 293",
+  "title": "Rozporządzenie Rady Ministrów z dnia 16 maja 1926 r. o uchyleniu rozporządzenia z dnia 12 maja 1926 r. o zawieszeniu praw obywatelskich.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1926-05-16",
+  "changeDate": "2020-09-23T13:40:49",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konstytucja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1926/281",
+     "date": "1926-05-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1921/267"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260293.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260293.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
