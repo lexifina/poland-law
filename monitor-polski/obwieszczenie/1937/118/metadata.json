@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/118",
+ "source_sha256": "79dbb92f358c6b6043302a0441f3bdc6169e559f5693916bf1d2e4381e709e32",
+ "in_force": "1937-04-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/118",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/118/text/O/M19370118.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/118/text/I/M19370118.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/118",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 81,
+  "pos": 118,
+  "address": "WMP19370810118",
+  "displayAddress": "M.P. 1937 nr 81 poz. 118",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 5 kwietnia 1937 r. w sprawie wylosowanych Bonów Funduszu Inwestycyjnego.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-04-05",
+  "promulgation": "1937-04-09",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 2"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370118.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370118.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
