@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1283",
+ "source_sha256": "e1c0c5b3d512efb9a54b2a7d178cebe9681b7aa87bd28315b0b5b964847709f3",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1283",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1283/text/O/D19991283.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1283/text/I/D19991283.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1283",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 111,
+  "pos": 1283,
+  "address": "WDU19991111283",
+  "displayAddress": "Dz.U. 1999 nr 111 poz. 1283",
+  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 30 grudnia 1999 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Środowiska.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-30",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "changeDate": "2022-04-20T10:00:42",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/1035",
+     "date": "2000-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1996/492",
+     "date": "2001-10-19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991283.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991283.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
