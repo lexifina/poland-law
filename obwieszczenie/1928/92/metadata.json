@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1928/92",
+ "source_sha256": "505e27fb9184abf1c44c73a0128a2313d41464b2ceac97cf6b6d42c608c04b09",
+ "in_force": "1928-02-04",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1928/92",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1928/92/text/O/D19280092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1928/92/text/I/D19280092.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1928/92",
+  "publisher": "DU",
+  "year": 1928,
+  "volume": 11,
+  "pos": 92,
+  "address": "WDU19280110092",
+  "displayAddress": "Dz.U. 1928 nr 11 poz. 92",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 4 lutego 1928 r. w sprawie sprostowania błędu w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 26 stycznia 1928 r. o kontroli ubezpieczeń.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1928-02-04",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola",
+   "porządkowanie prawa",
+   "sprostowanie",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. c"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/64"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19280092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19280092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
