@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1994/123",
+ "source_sha256": "1928f00148d4743426d711ebb5ad4472fb2df994479fe02579827b461632b5b9",
+ "in_force": "1994-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1994/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1994/123/text/O/D19940123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1994/123/text/I/D19940123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1994/123",
+  "publisher": "DU",
+  "year": 1994,
+  "volume": 33,
+  "pos": 123,
+  "address": "WDU19940330123",
+  "displayAddress": "Dz.U. 1994 nr 33 poz. 123",
+  "title": "Rozporządzenie Ministra Finansów z dnia 4 marca 1994 r. zmieniające rozporządzenie w sprawie określenia siedzib i terytorialnego zasięgu działania urzędów kontroli skarbowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1994-03-04",
+  "entryIntoForce": "1994-03-16",
+  "validFrom": "1994-03-16",
+  "repealDate": "1999-01-01",
+  "changeDate": "2014-12-31T12:25:41",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "terenowe organy administracji rządowej",
+   "urzędy i izby skarbowe",
+   "kontrola skarbowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1998/995",
+     "date": "1999-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/49",
+     "date": "1994-03-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/442"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/442",
+     "art": "art. 9 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19940123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19940123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
