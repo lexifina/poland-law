@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1224",
+ "source_sha256": "346edf178ac6456e8685736042481d5b9f0e17cdf1816f8586ae34be98d6a389",
+ "in_force": "2000-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1224",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1224/text/O/D20001224.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1224/text/I/D20001224.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1224",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 116,
+  "pos": 1224,
+  "address": "WDU20001161224",
+  "displayAddress": "Dz.U. 2000 nr 116 poz. 1224",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 14 grudnia 2000 r. zmieniające rozporządzenie w sprawie ustanowienia automatycznej rejestracji obrotu żelatyną.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-12-14",
+  "entryIntoForce": "2000-12-31",
+  "validFrom": "2000-12-31",
+  "changeDate": "2014-12-31T12:25:51",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą",
+   "obrót specjalny",
+   "żelatyna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/527",
+     "date": "2000-12-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/1026"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/1026",
+     "art": "art. 10 ust. 4"
+    },
+    {
+     "id": "DU/1997/1026",
+     "art": "art. 8 ust. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20001224.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001224.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
