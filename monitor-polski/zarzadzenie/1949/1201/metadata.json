@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1949/1201",
+ "source_sha256": "3698149bdb41aa17131a9f5ee3f0296b212b5946c3e23470b583af0d90d58b36",
+ "in_force": "1949-12-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1949/1201",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1949/1201/text/O/M19491201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1949/1201/text/I/M19491201.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1949/1201",
+  "publisher": "MP",
+  "year": 1949,
+  "volume": 102,
+  "pos": 1201,
+  "address": "WMP19491021201",
+  "displayAddress": "M.P. 1949 nr 102 poz. 1201",
+  "title": "Zarządzenie Ministra Skarbu z dnia 12 grudnia 1949 r. w sprawie ulg w podatku od wynagrodzeń dla przodujących w pracy najemnych członków załóg na statkach rybołówstwa morskiego oraz w sprawie uznania najemnych członków załóg na statkach rybołówstwa dalekomorskiego za pracowników sezonowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-12",
+  "entryIntoForce": "1949-12-24",
+  "validFrom": "1949-12-24",
+  "repealDate": "1961-01-01",
+  "changeDate": "2014-12-31T12:26:25",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "podatki",
+   "ulgi podatkowe",
+   "załoga statków morskich",
+   "rybołówstwo morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/118",
+     "date": "1961-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1949/98"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/41"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19491201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19491201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
