@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1133",
+ "source_sha256": "7a2b3ca1416127fc3609d7884400513d528eb86a72ba61dd874405e714a88209",
+ "in_force": "1999-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 211 words, parsed 70; at 70: 'prostuje się następujące błędy : 1 ) w rozporządzeniu Ministra'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1133",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1133/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1133/text/O/D19991133.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1133/text/I/D19991133.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1133",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 96,
+  "pos": 1133,
+  "address": "WDU19990961133",
+  "displayAddress": "Dz.U. 1999 nr 96 poz. 1133",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 1 grudnia 1999 r. o sprostowaniu błędów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-12-01",
+  "changeDate": "2024-03-15T11:34:33",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "fundusz inwestycyjny",
+   "pojazdy uprzywilejowane",
+   "porządkowanie prawa",
+   "sprostowanie",
+   "rachunkowość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 1"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1999/868"
+    },
+    {
+     "id": "DU/1999/593"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991133.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991133.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
