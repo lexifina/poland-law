@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1977/17",
+ "source_sha256": "d8aac24ddbb91abfc1b79fdd3634c07fc9eddfbdeb897328342f53989f54576e",
+ "in_force": "1977-01-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1977/17",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1977/17/text/O/D19770017.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1977/17/text/I/D19770017.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1977/17",
+  "publisher": "DU",
+  "year": 1977,
+  "volume": 3,
+  "pos": 17,
+  "address": "WDU19770030017",
+  "displayAddress": "Dz.U. 1977 nr 3 poz. 17",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 22 stycznia 1977 r. o sprostowaniu błędu w ustawie z dnia 18 grudnia 1976 r. zmieniającej ustawę o podatku wyrównawczym.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1977-01-22",
+  "promulgation": "1977-02-01",
+  "entryIntoForce": "1977-01-22",
+  "validFrom": "1977-01-22",
+  "repealDate": "1983-08-01",
+  "changeDate": "2020-11-03T15:55:20",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek wyrównawczy",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1983/188",
+     "date": "1983-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 1 i 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1976/233"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19770017.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19770017.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
