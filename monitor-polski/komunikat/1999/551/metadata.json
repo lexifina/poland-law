@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/551",
+ "source_sha256": "ef7066a9fb9ff1bff9793e5f58697ba0031a1dd98755444989ea1cef10484099",
+ "in_force": "1999-11-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/551",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/551/text/O/M19990551.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/551/text/I/M19990551.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/551/text/T/M9990551.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/551",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 36,
+  "pos": 551,
+  "address": "WMP19990360551",
+  "displayAddress": "M.P. 1999 nr 36 poz. 551",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 listopada 1999 r. w sprawie przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w okresie trzech kwartałów 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-15",
+  "changeDate": "2020-11-13T11:47:32",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/350",
+     "art": "art. 27 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990551.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990551.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990551.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
