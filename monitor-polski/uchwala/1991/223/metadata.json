@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/223",
+ "source_sha256": "de3501c34c512c8c558b8b31ce776ff4ccb988e6cdb2dc15b669b85fc7b3949a",
+ "in_force": "1991-09-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/223/text/O/M19910223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/223/text/I/M19910223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/223",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 30,
+  "pos": 223,
+  "address": "WMP19910300223",
+  "displayAddress": "M.P. 1991 nr 30 poz. 223",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 5 września 1991 r. w sprawie ustalenia wzorów kart do głosowania w wyborach do Sejmu i Senatu Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-09-05",
+  "entryIntoForce": "1991-09-05",
+  "validFrom": "1991-09-05",
+  "repealDate": "1993-08-30",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/252"
+    },
+    {
+     "id": "DU/1991/246"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/252",
+     "art": "art. 84 ust. 3"
+    },
+    {
+     "id": "DU/1991/246",
+     "art": "art. 1 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1993/444",
+     "date": "1993-08-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
