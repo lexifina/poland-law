@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/362",
+ "source_sha256": "54a8b4f22986ef6f630e4adbac150113fda2114a9cf20b57d0e4f15aaf238182",
+ "in_force": "2001-06-18",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/362",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/362/text/O/M20010362.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/362/text/I/M20010362.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/362",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 22,
+  "pos": 362,
+  "address": "WMP20010220362",
+  "displayAddress": "M.P. 2001 nr 22 poz. 362",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 18 czerwca 2001 r. nr 115-10-01 o nadaniu tytułu naukowego profesora.",
+  "type": "Postanowienie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-06-18",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/386"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/386",
+     "art": "art. 24 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010362.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010362.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
