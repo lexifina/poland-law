@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/177",
+ "source_sha256": "46417b499a21e7e2a11d90eeae14607e9eb0bf11c6363e947585814d9eb0c410",
+ "in_force": "1999-03-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/177",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/177/text/O/D19990177.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/177/text/I/D19990177.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/177/text/T/D19990177L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/177",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 20,
+  "pos": 177,
+  "address": "WDU19990200177",
+  "displayAddress": "Dz.U. 1999 nr 20 poz. 177",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 lutego 1999 r. w sprawie nadania osobowości prawnej Centrum Służby Rodzinie, z siedzibą w Łodzi.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-02-05",
+  "entryIntoForce": "1999-03-25",
+  "validFrom": "1999-03-25",
+  "changeDate": "2021-08-18T09:57:04",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osobowość prawna"
+  ],
+  "keywordsNames": [
+   "Centrum Służby Rodzinie"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/318"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1989/154"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/154",
+     "art": "art. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990177.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990177.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990177L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
