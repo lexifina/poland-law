@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1267",
+ "source_sha256": "0374fba46eebc41154e8e90d17d2f1a827f2a2c3ce2e2b00210f8685024c03f4",
+ "in_force": "2003-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 369 words, parsed 216; at 216: 'Konstytucji RP , orzeka : I Art . 37 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1267",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1267/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1267/text/O/D20031267.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1267/text/I/D20031267.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1267/text/T/D20031267L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1267",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 134,
+  "pos": 1267,
+  "address": "WDU20031341267",
+  "displayAddress": "Dz.U. 2003 nr 134 poz. 1267",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 lipca 2003 r. sygn. akt K 35/01",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-07-14",
+  "promulgation": "2003-07-31",
+  "entryIntoForce": "2003-07-31",
+  "validFrom": "2003-07-31",
+  "changeDate": "2024-03-15T09:52:09",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakwaterowanie sił zbrojnych"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/433",
+     "date": "2003-07-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1995/433"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031267.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031267.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031267L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
