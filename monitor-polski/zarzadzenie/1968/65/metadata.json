@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/65",
+ "source_sha256": "af997a6974e7af4d03dca04a93245e1b6fbafb1c03eb1afa670cc8334d26fd9b",
+ "in_force": "1968-03-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/65",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/65/text/O/M19680065.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/65/text/I/M19680065.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/65",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 10,
+  "pos": 65,
+  "address": "WMP19680100065",
+  "displayAddress": "M.P. 1968 nr 10 poz. 65",
+  "title": "Zarządzenie Ministra Przemysłu Spożywczego i Skupu z dnia 1 marca 1968 r. w sprawie organizacji skupu owoców, warzyw i ziemniaków wczesnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-03-01",
+  "entryIntoForce": "1968-03-08",
+  "validFrom": "1968-03-08",
+  "repealDate": "1974-08-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU SPOŻYWCZEGO I SKUPU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1974/158",
+     "date": "1974-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1968/60"
+    },
+    {
+     "id": "DU/1952/301"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1968/60",
+     "art": "par. 1"
+    },
+    {
+     "id": "DU/1952/301",
+     "art": "art. 3 ust. 1 i 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680065.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680065.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
