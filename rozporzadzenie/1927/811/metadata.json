@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1927/811",
+ "source_sha256": "4bc441db4a2656e1d4360286056e9646e6d05b3db4dade84f781c93baae8b3d4",
+ "in_force": "1927-10-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1927/811",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1927/811/text/O/D19270811.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1927/811/text/I/D19270811.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1927/811",
+  "publisher": "DU",
+  "year": 1927,
+  "volume": 90,
+  "pos": 811,
+  "address": "WDU19270900811",
+  "displayAddress": "Dz.U. 1927 nr 90 poz. 811",
+  "title": "Rozporządzenie Ministra Komunikacji z dnia 14 października 1927 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa o zmianach i uzupełnieniach taryfy towarowej polskich kolei normalnotorowych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1927-10-14",
+  "entryIntoForce": "1927-10-18",
+  "validFrom": "1927-10-15",
+  "changeDate": "2020-09-23T13:40:49",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny i stawki taryfowe",
+   "koleje",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1926/778",
+     "date": "1927-10-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/567"
+    },
+    {
+     "id": "DU/1924/580"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/567",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1924/580",
+     "art": "art. 4 p. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19270811.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19270811.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
