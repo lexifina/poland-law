@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1966/66",
+ "source_sha256": "bd2ccc5b00d1f44078bb2a04f70233aa2ca7cd1830b9c651a7187351ced368cb",
+ "in_force": "1966-03-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1966/66",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1966/66/text/O/D19660066.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1966/66/text/I/D19660066.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1966/66",
+  "publisher": "DU",
+  "year": 1966,
+  "volume": 10,
+  "pos": 66,
+  "address": "WDU19660100066",
+  "displayAddress": "Dz.U. 1966 nr 10 poz. 66",
+  "title": "Obwieszczenie Ministra Finansów z dnia 3 marca 1966 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 grudnia 1959 r. o ulgach podatkowych dla rzemieślników z tytułu inwestycji.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1966-03-03",
+  "repealDate": "1970-11-30",
+  "changeDate": "2017-11-23T15:44:06",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1965/319"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1959/435"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1970/246",
+     "date": "1970-11-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19660066.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19660066.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
