@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1979/51",
+ "source_sha256": "eda9b7e81381f7aad521062b3ca3c51e836829b401d240a47bc96d2afddc508c",
+ "in_force": "1979-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1979/51",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1979/51/text/O/M19790051.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1979/51/text/I/M19790051.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1979/51",
+  "publisher": "MP",
+  "year": 1979,
+  "volume": 7,
+  "pos": 51,
+  "address": "WMP19790070051",
+  "displayAddress": "M.P. 1979 nr 7 poz. 51",
+  "title": "Zarządzenie Ministra Obrony Narodowej z dnia 22 lutego 1979 r. zmieniające zarządzenie w sprawie terytorialnego zasięgu działania wojewódzkich sztabów wojskowych i wojskowych komend uzupełnień.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1979-02-22",
+  "entryIntoForce": "1979-03-16",
+  "validFrom": "1979-03-16",
+  "repealDate": "1983-01-21",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/10",
+     "date": "1983-01-21"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1977/73",
+     "date": "1979-03-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1975/91"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 16 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19790051.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19790051.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
