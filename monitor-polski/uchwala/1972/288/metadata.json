@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/288",
+ "source_sha256": "f321db81ab6253f70ec77b1abb989232748c3d22b7f5934d9bc6717921440da4",
+ "in_force": "1972-12-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/288",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/288/text/O/M19720288.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/288/text/I/M19720288.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/288",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 54,
+  "pos": 288,
+  "address": "WMP19720540288",
+  "displayAddress": "M.P. 1972 nr 54 poz. 288",
+  "title": "Uchwała nr 281 Rady Ministrów z dnia 3 listopada 1972 r. w sprawie cykli realizacji inwestycji.",
+  "type": "Uchwała",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-11-03",
+  "entryIntoForce": "1972-12-13",
+  "validFrom": "1972-12-13",
+  "repealDate": "1982-10-15",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. BUDOWNICTWA I PRZEMYSŁU MATERIAŁÓW BUDOWLANYCH",
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO",
+   "MIN. PRZEMYSŁU CIĘŻKIEGO",
+   "MIN. PRZEMYSŁU MASZYNOWEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1982/209",
+     "date": "1982-10-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1971/368",
+     "date": "1972-12-13"
+    },
+    {
+     "id": "MP/1969/243",
+     "date": "1972-12-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1971/247",
+     "date": "1972-12-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720288.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720288.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
