@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1955/6",
+ "source_sha256": "def79a96416cfd6c203034d45268eb0fd806f431163f824c37503e49d01a5dd8",
+ "in_force": "1955-01-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1955/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1955/6/text/O/M19550006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1955/6/text/I/M19550006.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1955/6",
+  "publisher": "MP",
+  "year": 1955,
+  "volume": 1,
+  "pos": 6,
+  "address": "WMP19550010006",
+  "displayAddress": "M.P. 1955 nr 1 poz. 6",
+  "title": "Zarządzenie Ministra Żeglugi z dnia 29 grudnia 1954 r. zmieniające zarządzenie z dnia 8 lipca 1952 r. w sprawie określenia przełożonej władzy służbowej uprawnionej do wydawania imiennych upoważnień do nakładania i ściągania grzywien w drodze mandatu karnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1954-12-29",
+  "entryIntoForce": "1955-01-10",
+  "validFrom": "1954-09-01",
+  "repealDate": "1964-10-21",
+  "changeDate": "2014-12-31T12:26:25",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty karne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1964/329",
+     "date": "1964-10-21"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1952/966",
+     "date": "1954-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1952/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1952/84",
+     "art": "par. 2 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19550006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19550006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
