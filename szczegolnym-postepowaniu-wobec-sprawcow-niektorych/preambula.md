@@ -1,0 +1,1 @@
+Sejm Polskiej Rzeczypospolitej Ludowej mając na uwadze postępującą normalizację życia społecznego i umacnianie się państwa socjalistycznego oraz umożliwienie wcześniejszego zwolnienia od odbycia kary ze względu na warunki osobiste sprawców niektórych przestępstw, jak również kierując się zasadami humanizmu socjalistycznego, stanowi, co następuje:
