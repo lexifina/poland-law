@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/88",
+ "source_sha256": "4753779aa7368531c629ad1283d040abd2b9b445b63e752f7dbd8f4f6475c252",
+ "in_force": "2005-01-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 666 words, parsed 208; at 208: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 549'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/88",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/88/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/88/text/O/D20050088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/88/text/I/D20050088.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/88/text/T/D20050088TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/88",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 11,
+  "pos": 88,
+  "address": "WDU20050110088",
+  "displayAddress": "Dz.U. 2005 nr 11 poz. 88",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 stycznia 2005 r. sygn. akt SK 60/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-01-11",
+  "promulgation": "2005-01-18",
+  "entryIntoForce": "2005-01-18",
+  "validFrom": "2005-01-18",
+  "changeDate": "2024-03-15T10:01:23",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/556"
+    },
+    {
+     "id": "DU/1969/96"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050088.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050088TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050088TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
