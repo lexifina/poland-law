@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/96",
+ "source_sha256": "4b1ed03f655a574937c888a5bc4761cb50901bc8ee7ee24fb11e551fb4dd8f66",
+ "in_force": "1919-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/96",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/96/text/O/D19190096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/96/text/I/D19190096.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/96",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 5,
+  "pos": 96,
+  "address": "WDU19190050096",
+  "displayAddress": "Dz.Pr.P.P. 1919 nr 5 poz. 96",
+  "title": "Dekret o postanowieniach karnych za przeciwdziałanie wyborom do Sejmu i wykonywaniu obowiązków poselskich.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-01-08",
+  "entryIntoForce": "1919-01-13",
+  "validFrom": "1919-01-13",
+  "repealDate": "1932-09-01",
+  "changeDate": "2014-12-31T12:25:15",
+  "releasedBy": [
+   "NACZELNIK PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1932/573",
+     "date": "1932-09-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1930/509",
+     "date": "1930-09-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190096.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
