@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/769",
+ "source_sha256": "3141ba67e5cce46109408e74bc71d8965e5a20378f51c6be86c8a9075d6d054d",
+ "in_force": "1999-09-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/769",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/769/text/O/D19990769.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/769/text/I/D19990769.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/769/text/T/D19990769L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/769",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 69,
+  "pos": 769,
+  "address": "WDU19990690769",
+  "displayAddress": "Dz.U. 1999 nr 69 poz. 769",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 3 sierpnia 1999 r. w sprawie sposobu powoływania i zakresu działalności wojskowych kuratorów społecznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-03",
+  "entryIntoForce": "1999-09-04",
+  "validFrom": "1999-09-04",
+  "repealDate": "2003-08-15",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy wojskowe",
+   "kuratorzy",
+   "wojsko"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/1260",
+     "date": "2003-08-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/555"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/555",
+     "art": "art. 662 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990769.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990769.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990769L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
