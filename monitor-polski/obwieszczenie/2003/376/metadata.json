@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/376",
+ "source_sha256": "50c0417cd97c9619afe7a83aa0c1f8386bf5eb1e439006e3ea6b2ec3286be184",
+ "in_force": "2003-05-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/376",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/376/text/O/M20030376.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/376/text/I/M20030376.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/376",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 26,
+  "pos": 376,
+  "address": "WMP20030260376",
+  "displayAddress": "M.P. 2003 nr 26 poz. 376",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 maja 2003 r. w sprawie wykazu towarów podlegających weterynaryjnej kontroli granicznej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-05-16",
+  "promulgation": "2003-05-22",
+  "changeDate": "2019-03-25T12:08:24",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "badanie zwierząt rzeźnych",
+   "kontrola",
+   "choroby zakaźne",
+   "granice państwa",
+   "choroby zwierząt"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/369"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/369",
+     "art": "art. 14 ust. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030376.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030376.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
