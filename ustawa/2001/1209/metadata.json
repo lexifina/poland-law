@@ -1,0 +1,126 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1209",
+ "source_sha256": "b49e6fa2d2684cb78787aeeec78ad41712a6f5ea167d16f2bd313d924faea9ea",
+ "in_force": "2001-10-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1209",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1209/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1209/text/O/D20011209.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1209/text/I/D20011209.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1209/text/T/D20011209L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1209/text/U/D20011209Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1209",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 113,
+  "pos": 1209,
+  "address": "WDU20011131209",
+  "displayAddress": "Dz.U. 2001 nr 113 poz. 1209",
+  "title": "Ustawa z dnia 26 lipca 2001 r. o nabywaniu przez użytkowników wieczystych prawa własności nieruchomości.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-07-26",
+  "promulgation": "2001-10-09",
+  "entryIntoForce": "2001-10-24",
+  "validFrom": "2001-10-24",
+  "repealDate": "2005-10-13",
+  "changeDate": "2024-03-15T09:59:06",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "użytkowanie wieczyste",
+   "własność",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/3087.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/3087",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/3087",
+    "number": "3087",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2005/1459",
+     "date": "2005-10-13"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2004/1178"
+    },
+    {
+     "id": "DU/2003/1991"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/592",
+     "date": "2003-07-16"
+    },
+    {
+     "id": "DU/2003/24",
+     "date": "2002-10-24"
+    },
+    {
+     "id": "DU/2002/984",
+     "date": "2002-10-27"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/781"
+    },
+    {
+     "id": "DU/1996/561"
+    },
+    {
+     "id": "DU/1974/141"
+    },
+    {
+     "id": "DU/1951/340"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011209.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011209.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011209L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20011209Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
