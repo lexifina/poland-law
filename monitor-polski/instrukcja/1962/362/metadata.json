@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/362",
+ "source_sha256": "08697d84fc8e82ce8d5a63022265dd2e2c5dfa3e64ba0ceb3e79c536e76a73d0",
+ "in_force": "1962-10-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/362",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/362/text/O/M19620362.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/362/text/I/M19620362.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/362",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 77,
+  "pos": 362,
+  "address": "WMP19620770362",
+  "displayAddress": "M.P. 1962 nr 77 poz. 362",
+  "title": "Instrukcja Ministra Finansów z dnia 27 września 1962 r. zmieniająca instrukcję w sprawie trybu przeprowadzania rewizji finansowo-księgowej w jednostkach i zakładach budżetowych oraz organach finansowych prezydiów rad narodowych.",
+  "type": "Instrukcja",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-09-27",
+  "entryIntoForce": "1962-10-29",
+  "validFrom": "1962-10-29",
+  "repealDate": "1971-12-02",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1971/362",
+     "date": "1971-12-02"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1961/86",
+     "date": "1962-10-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1960/247"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1959/278"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1959/278",
+     "art": "par. 20a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620362.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620362.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
