@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/121",
+ "source_sha256": "1d4cfb7d0f96269b0141660b5ba2b1d50db626c9c7378e7d7d5bb7a8b3b48ef1",
+ "in_force": "1990-04-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/121",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/121/text/O/M19900121.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/121/text/I/M19900121.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/121",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 16,
+  "pos": 121,
+  "address": "WMP19900160121",
+  "displayAddress": "M.P. 1990 nr 16 poz. 121",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 18 kwietnia 1990 r. zmieniająca Regulamin Sejmu Rzeczypospolitej Polskiej.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-04-18",
+  "entryIntoForce": "1990-04-18",
+  "validFrom": "1990-04-18",
+  "repealDate": "1992-08-28",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Kancelaria Sejmu",
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1992/185",
+     "date": "1992-08-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1986/151",
+     "date": "1990-04-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900121.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900121.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
