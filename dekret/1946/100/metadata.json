@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/100",
+ "source_sha256": "38708f83849de2bf8cfe9587a24691549f1196ba7fc76b5caaef6cc5cb7f2d96",
+ "in_force": "1946-05-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/100",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/100/text/O/D19460100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/100/text/I/D19460100.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/100",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 14,
+  "pos": 100,
+  "address": "WDU19460140100",
+  "displayAddress": "Dz.U. 1946 nr 14 poz. 100",
+  "title": "Dekret z dnia 20 marca 1946 r. o zmianie ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych.",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-03-20",
+  "entryIntoForce": "1946-05-04",
+  "validFrom": "1946-05-04",
+  "repealDate": "1960-06-30",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [
+   "MIN. SKARBU"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/310",
+     "date": "1946-05-04"
+    },
+    {
+     "id": "DU/1926/570",
+     "date": "1946-05-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1920/178"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1960/123",
+     "date": "1960-06-30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
