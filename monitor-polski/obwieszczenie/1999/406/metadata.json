@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/406",
+ "source_sha256": "653f3e659da28080eac7825ed4e2e910bf8a38e29622e42a9694e7fc0245e09d",
+ "in_force": "1999-07-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/406",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/406/text/O/M19990406.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/406/text/I/M19990406.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/406/text/T/M9990406.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/406",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 26,
+  "pos": 406,
+  "address": "WMP19990260406",
+  "displayAddress": "M.P. 1999 nr 26 poz. 406",
+  "title": "Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 28 lipca 1999 r. w sprawie wysokości zasiłku dla bezrobotnych.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-07-28",
+  "validFrom": "1999-09-01",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek dla bezrobotnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Obowiązuje do dnia 30 listopada 1999 r.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990406.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990406.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M9990406.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
