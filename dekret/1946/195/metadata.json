@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/195",
+ "source_sha256": "310eefa27380f7e40ecd17385436ec3ac9cd6f5522a951c8f27c3ded5ecb2bf2",
+ "in_force": "1946-07-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/195",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/195/text/O/D19460195.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/195/text/I/D19460195.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/195",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 31,
+  "pos": 195,
+  "address": "WDU19460310195",
+  "displayAddress": "Dz.U. 1946 nr 31 poz. 195",
+  "title": "Dekret z dnia 16 stycznia 1946 r. o powszechnym obowiązku wychowania fizycznego i przysposobienia wojskowego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-01-16",
+  "entryIntoForce": "1946-07-17",
+  "validFrom": "1946-07-17",
+  "repealDate": "1948-03-12",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OBRONY NARODOWEJ",
+   "MIN. OŚWIATY"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1948/90",
+     "date": "1948-03-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460195.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460195.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
