@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/17",
+ "source_sha256": "674768c7638a0216ece37659c361b8b5a195333d068fcb8711702007fbde4f62",
+ "in_force": "1950-01-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/17",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/17/text/O/M19500017.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/17/text/I/M19500017.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/17",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 2,
+  "pos": 17,
+  "address": "WMP19500020017",
+  "displayAddress": "M.P. 1950 nr 2 poz. 17",
+  "title": "Zarządzenie Ministra Żeglugi z dnia 17 grudnia 1949 r. o instytucjach (towarzystwach) klasyfikacyjnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-12-17",
+  "entryIntoForce": "1950-01-08",
+  "validFrom": "1950-01-08",
+  "repealDate": "1968-06-18",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. ŻEGLUGI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1968/164",
+     "date": "1968-06-18"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1934/123",
+     "date": "1950-01-08"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1961/305",
+     "date": "1961-09-22"
+    },
+    {
+     "id": "MP/1957/362",
+     "date": "1957-07-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/739"
+    },
+    {
+     "id": "DU/1930/632"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19500017.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19500017.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
