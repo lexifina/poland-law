@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1976/106",
+ "source_sha256": "db864c7abcd2384d408222d3e1908a824e1e23fba38d95c88e4fdb09450da4df",
+ "in_force": "1977-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1976/106",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1976/106/text/O/D19760106.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1976/106/text/I/D19760106.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1976/106",
+  "publisher": "DU",
+  "year": 1976,
+  "volume": 17,
+  "pos": 106,
+  "address": "WDU19760170106",
+  "displayAddress": "Dz.U. 1976 nr 17 poz. 106",
+  "title": "Rozporządzenie Rady Ministrów z dnia 23 kwietnia 1976 r. zmieniające rozporządzenie w sprawie opłaty paszportowej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1976-04-23",
+  "promulgation": "1976-05-10",
+  "entryIntoForce": "1977-01-01",
+  "validFrom": "1977-01-01",
+  "repealDate": "1989-01-01",
+  "changeDate": "2014-12-31T12:25:32",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata paszportowa",
+   "paszporty",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1988/317",
+     "date": "1989-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1973/106",
+     "date": "1977-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1959/224"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1959/224",
+     "art": "art. 27 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19760106.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19760106.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
