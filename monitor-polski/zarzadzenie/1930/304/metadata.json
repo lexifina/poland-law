@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/304",
+ "source_sha256": "b7e42fa652b0fc685f813d3189b785d138f8d50169a24ff691fc03ec4b83c535",
+ "in_force": "1930-09-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/304",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/304/text/O/M19300304.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/304/text/I/M19300304.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/304",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 223,
+  "pos": 304,
+  "address": "WMP19302230304",
+  "displayAddress": "M.P. 1930 nr 223 poz. 304",
+  "title": "Zarządzenie Prezydenta Rzeczypospolitej w sprawie rozwiązania Sejmu Śląskiego",
+  "type": "Zarządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-09-25",
+  "promulgation": "1930-09-26",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/497"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1920/497",
+     "art": "art. 22 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300304.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300304.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
