@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1967/101",
+ "source_sha256": "7c424a5c9a81d5c1e979d4fd25a7df5ad10d6f005d34d827531cdc2aa2169b06",
+ "in_force": "1967-04-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1967/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1967/101/text/O/M19670101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1967/101/text/I/M19670101.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1967/101",
+  "publisher": "MP",
+  "year": 1967,
+  "volume": 22,
+  "pos": 101,
+  "address": "WMP19670220101",
+  "displayAddress": "M.P. 1967 nr 22 poz. 101",
+  "title": "Zarządzenie nr 22 Prezesa Rady Ministrów z dnia 1 kwietnia 1967 r. w sprawie uzupełnienia wykazu organizacji, których przedstawiciele wchodzą w skład Komitetu Drobnej Wytwórczości.",
+  "type": "Zarządzenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1967-04-01",
+  "entryIntoForce": "1967-04-18",
+  "validFrom": "1967-04-18",
+  "repealDate": "1972-12-30",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/311",
+     "date": "1972-12-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1958/420"
+    },
+    {
+     "id": "DU/1958/225"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1958/420",
+     "art": "par. 1 ust. 2"
+    },
+    {
+     "id": "DU/1958/225",
+     "art": "art. 4 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19670101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19670101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
