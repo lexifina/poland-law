@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/531",
+ "source_sha256": "1127077c93f1fb2a63241d9e014931448e3cbaf4be91db134221f278ab4279b7",
+ "in_force": "2000-06-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 611 words, parsed 76; at 76: 'stwierdzenie , że przepisy : 1 ) art . 22'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/531",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/531/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/531/text/O/D20000531.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/531/text/I/D20000531.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/531/text/T/D20000531L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/531",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 45,
+  "pos": 531,
+  "address": "WDU20000450531",
+  "displayAddress": "Dz.U. 2000 nr 45 poz. 531",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 30 maja 2000 r. sygn. akt K. 37/98.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-05-30",
+  "entryIntoForce": "2000-06-02",
+  "validFrom": "2000-06-02",
+  "changeDate": "2024-03-15T09:49:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolnicy",
+   "kombatanci",
+   "służba wojskowa",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1991/75"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/24"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000531.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000531.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000531L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
