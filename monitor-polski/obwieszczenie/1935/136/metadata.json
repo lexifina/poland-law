@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/136",
+ "source_sha256": "ea69499619f856f1969dc5cd1d1be30629a63602558d7022f6008f6404322fe8",
+ "in_force": "1935-05-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/136",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/136/text/O/M19350136.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/136/text/I/M19350136.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/136",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 103,
+  "pos": 136,
+  "address": "WMP19351030136",
+  "displayAddress": "M.P. 1935 nr 103 poz. 136",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 23 kwietnia 1935 r. w sprawie podania o nadanie mocy powszechnie obowiązującej dla wszystkich robót budowlanych na obszarze m.st. Warszawy orzeczeniu nadzwyczajnej Komisji Rozjemczej z dn. 17 kwietnia 1935 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-04-23",
+  "promulgation": "1935-05-04",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo",
+   "spory zbiorowe",
+   "komisje",
+   "komisje rozjemcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1935/135"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/104"
+    },
+    {
+     "id": "DU/1933/604"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/104",
+     "art": "par. 49"
+    },
+    {
+     "id": "DU/1933/604",
+     "art": "art. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350136.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350136.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
