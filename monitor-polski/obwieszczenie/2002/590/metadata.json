@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/590",
+ "source_sha256": "eb62882f32be76d38116f582f97b858a17d5384bafcd38ba42e2108e05b3c528",
+ "in_force": "2002-09-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/590",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/590/text/O/M20020590.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/590/text/I/M20020590.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/590",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 37,
+  "pos": 590,
+  "address": "WMP20020370590",
+  "displayAddress": "M.P. 2002 nr 37 poz. 590",
+  "title": "Obwieszczenie Ministra Finansów z dnia 26 sierpnia 2002 r. w sprawie wysokości kwot wymienionych w art. 41 par. 1 pkt 2 oraz w art. 112 par. 2 ustawy - Ordynacja podatkowa.",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-08-26",
+  "promulgation": "2002-09-02",
+  "repealDate": "2003-01-01",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 119 par. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2002/1387",
+     "date": "2003-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020590.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020590.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
