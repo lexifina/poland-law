@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1962/99",
+ "source_sha256": "338231f3479b51ebe94c0068f820f4eb98d5dd92e0e3b86953acdc71c10d98b9",
+ "in_force": "1962-04-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1962/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1962/99/text/O/D19620099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1962/99/text/I/D19620099.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1962/99",
+  "publisher": "DU",
+  "year": 1962,
+  "volume": 22,
+  "pos": 99,
+  "address": "WDU19620220099",
+  "displayAddress": "Dz.U. 1962 nr 22 poz. 99",
+  "title": "Rozporządzenie Ministra Finansów z dnia 16 marca 1962 r. w sprawie zmiany rozporządzenia z dnia 13 czerwca 1949 r. o poborze podatku dochodowego w formie ryczałtu od rybaków morskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-03-16",
+  "entryIntoForce": "1962-04-16",
+  "validFrom": "1962-04-16",
+  "repealDate": "1976-01-01",
+  "changeDate": "2014-12-31T12:25:28",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rybacy morscy",
+   "podatki",
+   "ryczałt podatkowy",
+   "podatek dochodowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1976/25",
+     "date": "1976-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1949/280",
+     "date": "1962-04-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    },
+    {
+     "id": "DU/1946/174"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19620099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19620099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
