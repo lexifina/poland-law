@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/34",
+ "source_sha256": "9e3a9376ecbe69bb1fe2e45eee0b36390bb5d026b99574cc9860fef81ac58c86",
+ "in_force": "1982-02-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/34",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/34/text/O/M19820034.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/34/text/I/M19820034.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/34",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 6,
+  "pos": 34,
+  "address": "WMP19820060034",
+  "displayAddress": "M.P. 1982 nr 6 poz. 34",
+  "title": "Zarządzenie nr 3 Prezesa Rady Ministrów z dnia 1 lutego 1982 r. zmieniające zarządzenie w sprawie zawieszenia działalności związków zawodowych i niektórych organizacji społecznych na czas obowiązywania stanu wojennego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-02-01",
+  "entryIntoForce": "1982-02-12",
+  "validFrom": "1982-02-12",
+  "repealDate": "1983-01-27",
+  "changeDate": "2023-10-23T15:24:05",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny",
+   "związki zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/20",
+     "date": "1983-01-27"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1981/273",
+     "date": "1982-02-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1981/154"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1981/154",
+     "art": "art. 15 ust. 1 pkt 1 i ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820034.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820034.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
