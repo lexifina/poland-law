@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1939/345",
+ "source_sha256": "807fcc617f3dc8b924d65209936237313697a21a3a62a940aa4aae962c7b0e16",
+ "in_force": "1939-06-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1939/345",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1939/345/text/O/M19390345.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1939/345/text/I/M19390345.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1939/345",
+  "publisher": "MP",
+  "year": 1939,
+  "volume": 147,
+  "pos": 345,
+  "address": "WMP19391470345",
+  "displayAddress": "M.P. 1939 nr 147 poz. 345",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 23 czerwca 1939 r. o wartości jednego grama czystego złota",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1939-06-23",
+  "promulgation": "1939-06-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto",
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/694"
+    },
+    {
+     "id": "DU/1934/509"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/509",
+     "art": "art. 36"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19390345.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19390345.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
