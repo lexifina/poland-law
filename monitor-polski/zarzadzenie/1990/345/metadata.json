@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/345",
+ "source_sha256": "eec8f8d302852f5fd394a61860e80f1152330cd14b2e54f7326674cd540b3185",
+ "in_force": "1990-11-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/345",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/345/text/O/M19900345.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/345/text/I/M19900345.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/345",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 44,
+  "pos": 345,
+  "address": "WMP19900440345",
+  "displayAddress": "M.P. 1990 nr 44 poz. 345",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 28 listopada 1990 r. zmieniające zarządzenie w sprawie spisów wyborców dla wyboru Prezydenta Rzeczypospolitej Polskiej oraz prowadzenia i udostępniania rejestrów wyborców.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-11-28",
+  "entryIntoForce": "1990-11-30",
+  "validFrom": "1990-11-30",
+  "repealDate": "1993-06-17",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1990/301",
+     "date": "1990-11-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 29"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1993/205",
+     "date": "1993-06-17"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900345.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900345.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
