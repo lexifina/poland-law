@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/37",
+ "source_sha256": "145fc6fe10f06b4266440df92318a4032abbf11b2060aeee67f19fb4fed8d2da",
+ "in_force": "1934-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/37",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/37/text/O/M19340037.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/37/text/I/M19340037.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/37",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 25,
+  "pos": 37,
+  "address": "WMP19340250037",
+  "displayAddress": "M.P. 1934 nr 25 poz. 37",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 26 stycznia 1934 o wartości jednego grama czystego złota",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-01-26",
+  "promulgation": "1934-01-31",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/932"
+    },
+    {
+     "id": "DU/1927/855"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/855",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340037.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340037.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
