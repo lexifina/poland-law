@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1992/116",
+ "source_sha256": "de2601503530f739b7e912294bcb0bc6c552ce70eaa7546a2c666e50984130da",
+ "in_force": "1992-06-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1992/116",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1992/116/text/O/M19920116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1992/116/text/I/M19920116.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1992/116",
+  "publisher": "MP",
+  "year": 1992,
+  "volume": 16,
+  "pos": 116,
+  "address": "WMP19920160116",
+  "displayAddress": "M.P. 1992 nr 16 poz. 116",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 28 maja 1992 r.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1992-05-28",
+  "entryIntoForce": "1992-06-11",
+  "validFrom": "1992-06-11",
+  "repealDate": "1992-10-20",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "pracownicy urzędów państwowych"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1992/245",
+     "date": "1992-10-20"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "MP/1992/245"
+    },
+    {
+     "id": "MP/1992/157"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19920116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19920116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
