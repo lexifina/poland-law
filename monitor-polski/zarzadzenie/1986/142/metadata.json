@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1986/142",
+ "source_sha256": "fb5e25e20bba520b564844b9ef77aa4e9b249fdfb464af922bcdb8950c322352",
+ "in_force": "1986-07-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1986/142",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1986/142/text/O/M19860142.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1986/142/text/I/M19860142.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1986/142",
+  "publisher": "MP",
+  "year": 1986,
+  "volume": 19,
+  "pos": 142,
+  "address": "WMP19860190142",
+  "displayAddress": "M.P. 1986 nr 19 poz. 142",
+  "title": "Zarządzenie Ministra Łączności z dnia 23 czerwca 1986 r. w sprawie taryfy pocztowej za usługi w obrocie zagranicznym.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1986-06-23",
+  "entryIntoForce": "1986-07-15",
+  "validFrom": "1986-07-15",
+  "repealDate": "1987-10-01",
+  "changeDate": "2014-12-31T12:26:30",
+  "releasedBy": [
+   "MIN. ŁĄCZNOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "łączność"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1987/202",
+     "date": "1987-10-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1986/4",
+     "date": "1986-07-15"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1987/3",
+     "date": "1987-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/275"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/275",
+     "art": "art. 48 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19860142.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19860142.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
