@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/1001",
+ "source_sha256": "2de5d0ed66eebda7119ba1f498fe7a38a77c63c0bac0ddb4d075699084e2acbc",
+ "in_force": "1952-08-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/1001",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/1001/text/O/M19521001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/1001/text/I/M19521001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/1001",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 65,
+  "pos": 1001,
+  "address": "WMP19520651001",
+  "displayAddress": "M.P. 1952 nr 65 poz. 1001",
+  "title": "Zarządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 14 lipca 1952 r. w sprawie wyznaczania przedstawicieli technicznych do klubów techniki i racjonalizacji oraz udzielania pomocy tym klubom.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-07-14",
+  "entryIntoForce": "1952-08-05",
+  "validFrom": "1952-08-05",
+  "repealDate": "1963-03-08",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/473",
+     "date": "1953-01-03"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1951/911"
+    },
+    {
+     "id": "DU/1950/428"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/190"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1963/100",
+     "date": "1963-03-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19521001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19521001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
