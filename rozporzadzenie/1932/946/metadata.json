@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/946",
+ "source_sha256": "b9824feea90f875d14a28e1c679c601c4dbb9dc9d9c6aade45539ac1b02dc082",
+ "in_force": "1932-12-15",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/946",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/946/text/O/D19320946.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/946/text/I/D19320946.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/946",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 114,
+  "pos": 946,
+  "address": "WDU19321140946",
+  "displayAddress": "Dz.U. 1932 nr 114 poz. 946",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 grudnia 1932 r. - Instrukcja dla komorników.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-15",
+  "repealDate": "1962-11-29",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1962/284",
+     "date": "1962-11-29"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1958/185",
+     "date": "1958-07-03"
+    },
+    {
+     "id": "DU/1951/274",
+     "date": "1951-06-30"
+    },
+    {
+     "id": "DU/1948/40",
+     "date": "1948-02-06"
+    },
+    {
+     "id": "DU/1934/179",
+     "date": "1934-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320946.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320946.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
