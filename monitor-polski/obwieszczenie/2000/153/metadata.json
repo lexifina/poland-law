@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/153",
+ "source_sha256": "95eef76a47aaed1f8248c0319be17cab74b0a03a0039a27d7e35060d36eac437",
+ "in_force": "2000-02-24",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/153",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/153/text/O/M20000153.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/153/text/I/M20000153.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/153/text/T/M20000153L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/153",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 6,
+  "pos": 153,
+  "address": "WMP20000060153",
+  "displayAddress": "M.P. 2000 nr 6 poz. 153",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 24 lutego 2000 r. o podaniu do publicznej wiadomości prawomocnych orzeczeń Sądu stwierdzających niezgodność z prawdą oświadczeń osób lustrowanych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-02-24",
+  "repealDate": "2003-06-10",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "PREZ. SADU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2003/431",
+     "date": "2003-06-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000153.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000153.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000153L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
