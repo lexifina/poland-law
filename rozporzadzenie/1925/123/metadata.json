@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/123",
+ "source_sha256": "ced18d132f08b0b1a80722c5145213b3dceb344da5a6cce9926bfa47d48c827e",
+ "in_force": "1925-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/123/text/O/D19250123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/123/text/I/D19250123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/123",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 17,
+  "pos": 123,
+  "address": "WDU19250170123",
+  "displayAddress": "Dz.U. 1925 nr 17 poz. 123",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 12 lutego 1925 r. o sprzedaży wyrobów tytoniowych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-02-12",
+  "entryIntoForce": "1925-02-19",
+  "validFrom": "1925-02-19",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1924/1063",
+     "date": "1925-02-19"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1925/476"
+    },
+    {
+     "id": "DU/1925/343"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1924/934",
+     "date": "1925-02-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/409"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
