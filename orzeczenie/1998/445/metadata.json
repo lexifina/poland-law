@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/445",
+ "source_sha256": "4154217bbde18e01599d4f839f6d8a5807d90050bc83c0b76b4ab3b97d62bfad",
+ "in_force": "1998-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 728 words, parsed 53; at 53: 'Ministrów i Prokuratora Generalnego : 1 ) wniosku Rzecznika Praw'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/445",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/445/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/445/text/O/D19980445.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/445/text/I/D19980445.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/445/text/T/D19980445L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/445",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 67,
+  "pos": 445,
+  "address": "WDU19980670445",
+  "displayAddress": "Dz.U. 1998 nr 67 poz. 445",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 25 maja 1998 r. - sygn. akt U. 19/97.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-05-25",
+  "entryIntoForce": "1998-12-31",
+  "validFrom": "1998-12-31",
+  "changeDate": "2024-03-15T11:30:39",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "najem",
+   "orzeczenie",
+   "dodatki mieszkaniowe"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/487",
+     "date": "1998-12-31"
+    },
+    {
+     "id": "DU/1994/570",
+     "date": "1998-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1994/509"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/487"
+    },
+    {
+     "id": "DU/1994/570"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 190 ust. 3"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980445.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980445.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19980445L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
