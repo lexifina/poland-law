@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1105",
+ "source_sha256": "ee7845e6120886c2b9797c86e21bd2922db925a0165440c03d856e100821775e",
+ "in_force": "2000-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1105",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1105/text/O/D19991105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1105/text/I/D19991105.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1105/text/T/D19991105L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1105",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 95,
+  "pos": 1105,
+  "address": "WDU19990951105",
+  "displayAddress": "Dz.U. 1999 nr 95 poz. 1105",
+  "title": "Rozporządzenie Ministra Finansów z dnia 29 listopada 1999 r. w sprawie skali podatku dochodowego oraz wysokości kwoty przychodu podlegającego opodatkowaniu zryczałtowanemu.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-29",
+  "entryIntoForce": "2000-01-01",
+  "validFrom": "2000-01-01",
+  "changeDate": "2021-11-24T14:18:08",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt podatkowy",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/350",
+     "art": "art. 27 ust. 4"
+    },
+    {
+     "id": "DU/1991/350",
+     "art": "art. 30 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991105.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991105L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
