@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/40",
+ "source_sha256": "48f1c76d1c447adaffb6d332137e4eb452714840ed92039bd944e4da847022ad",
+ "in_force": "1972-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/40",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/40/text/O/M19720040.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/40/text/I/M19720040.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/40",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 6,
+  "pos": 40,
+  "address": "WMP19720060040",
+  "displayAddress": "M.P. 1972 nr 6 poz. 40",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 4 stycznia 1972 r. w sprawie zakresu stosowania przepisów ustawy o kolejach do kolei rozrywkowych i linowych.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-01-04",
+  "entryIntoForce": "1972-03-01",
+  "validFrom": "1972-03-01",
+  "repealDate": "1998-08-14",
+  "changeDate": "2014-12-31T12:26:27",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1961/397"
+    },
+    {
+     "id": "DU/1964/213"
+    },
+    {
+     "id": "DU/1960/311"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1960/311"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1960/311",
+     "art": "art. 35 pkt 1 i 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1997/591",
+     "date": "1998-08-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720040.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720040.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
