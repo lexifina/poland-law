@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1298",
+ "source_sha256": "ad6e83a044fb6c5ade925dabeae8fee5d3f49285328bb53bb497c30a2f195e34",
+ "in_force": "2001-10-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1298",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1298/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1298/text/O/D20011298.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1298/text/I/D20011298.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1298/text/T/D20011298L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1298/text/U/D20011298Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1298",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 120,
+  "pos": 1298,
+  "address": "WDU20011201298",
+  "displayAddress": "Dz.U. 2001 nr 120 poz. 1298",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 września 2001 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-09-29",
+  "promulgation": "2001-10-17",
+  "expirationDate": "2005-06-02",
+  "changeDate": "2024-03-15T09:59:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "imprezy artystyczne",
+   "imprezy rozrywkowe",
+   "imprezy sportowe",
+   "imprezy masowe",
+   "administracja państwowa",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 24-27 ustawy z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz. U. Nr 106, poz. 680).",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/680"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011298.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011298.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011298L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20011298Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
