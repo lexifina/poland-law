@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1310",
+ "source_sha256": "8688da2d6b6e8078d98338c2208d8020f542dc826962fe1ae8412c3698d7a1eb",
+ "in_force": "1950-09-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1310",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1310/text/O/M19501310.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1310/text/I/M19501310.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1310",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 104,
+  "pos": 1310,
+  "address": "WMP19501041310",
+  "displayAddress": "M.P. 1950 nr 104 poz. 1310",
+  "title": "Zarządzenie Ministra Obrony Narodowej z dnia 28 września 1950 r. w sprawie wojskowego szkolenia studentów szkół wyższych w roku szkolnym 1950/51 i w latach następnych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-09-28",
+  "entryIntoForce": "1950-09-30",
+  "validFrom": "1950-09-30",
+  "repealDate": "1959-08-05",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1959/350",
+     "date": "1959-08-05"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1949/853",
+     "date": "1950-09-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1954/510",
+     "date": "1954-04-28"
+    },
+    {
+     "id": "MP/1951/157",
+     "date": "1951-02-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1949/173"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/173"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19501310.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19501310.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
