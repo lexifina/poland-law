@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1982/245",
+ "source_sha256": "a2c6fbb35fdeab20c3dd89e25255195e938bbc4eccf26042c9bdcc106355cda1",
+ "in_force": "1982-11-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1982/245",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1982/245/text/O/M19820245.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1982/245/text/I/M19820245.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1982/245",
+  "publisher": "MP",
+  "year": 1982,
+  "volume": 27,
+  "pos": 245,
+  "address": "WMP19820270245",
+  "displayAddress": "M.P. 1982 nr 27 poz. 245",
+  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 11 listopada 1982 r. zmieniające zarządzenie w sprawie odsetek bankowych od kredytów udzielanych jednostkom gospodarki nie uspołecznionej i osobom fizycznym.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1982-11-11",
+  "entryIntoForce": "1982-11-19",
+  "validFrom": "1982-11-19",
+  "repealDate": "1984-01-01",
+  "changeDate": "2023-06-22T15:13:47",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki",
+   "banki",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1983/265",
+     "date": "1984-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1982/106",
+     "date": "1982-11-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/56"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/56",
+     "art": "art. 25 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19820245.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19820245.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
