@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/971",
+ "source_sha256": "f8fc809ff66d6b566bd13b4b39e3509f8b273e47d22234ac7dd0ca61399862c3",
+ "in_force": "1932-12-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/971",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/971/text/O/D19320971.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/971/text/I/D19320971.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/971",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 118,
+  "pos": 971,
+  "address": "WDU19321180971",
+  "displayAddress": "Dz.U. 1932 nr 118 poz. 971",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 grudnia 1932 r. w sprawie umundurowania niższych funkcjonarjuszów sądowych i prokuratorskich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-10",
+  "repealDate": "1936-01-31",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1936/81",
+     "date": "1936-01-31"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1935/100",
+     "date": "1935-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320971.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320971.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
