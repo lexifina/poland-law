@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1961/27",
+ "source_sha256": "1833775505f25afdb0f72130260356e111eab5b460a1043e428e9778dbf5c4c6",
+ "in_force": "1961-01-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1961/27",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1961/27/text/O/M19610027.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1961/27/text/I/M19610027.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1961/27",
+  "publisher": "MP",
+  "year": 1961,
+  "volume": 4,
+  "pos": 27,
+  "address": "WMP19610040027",
+  "displayAddress": "M.P. 1961 nr 4 poz. 27",
+  "title": "Obwieszczenie Ministra Finansów z dnia 5 stycznia 1961 r. o zatwierdzeniu norm szacunkowych do ustalania w obowiązkowym ubezpieczeniu sum ubezpieczenia mienia ruchomego i ziemiopłodów dla indywidualnych gospodarstw rolnych, członków rolniczych spółdzielni produkcyjnych oraz rolniczych spółdzielni produkcyjnych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony wykazem",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-01-05",
+  "entryIntoForce": "1961-01-05",
+  "validFrom": "1961-01-05",
+  "repealDate": "1976-11-19",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1976/179",
+     "date": "1976-11-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/59"
+    },
+    {
+     "id": "DU/1956/262"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/59",
+     "art": "par. 17"
+    },
+    {
+     "id": "DU/1956/262",
+     "art": "par. 15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19610027.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19610027.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
