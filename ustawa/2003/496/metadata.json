@@ -1,0 +1,112 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/496",
+ "source_sha256": "f2933555649f438e2695ae632c91bd54d840820920096da2f78a20136c25bdda",
+ "in_force": "2003-04-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/496",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/496/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/496/text/O/D20030496.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/496/text/I/D20030496.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/496/text/T/D20030496L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/496/text/U/D20030496Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/496",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 56,
+  "pos": 496,
+  "address": "WDU20030560496",
+  "displayAddress": "Dz.U. 2003 nr 56 poz. 496",
+  "title": "Ustawa z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2003-02-27",
+  "promulgation": "2003-04-01",
+  "entryIntoForce": "2003-04-15",
+  "validFrom": "2003-04-15",
+  "repealDate": "2016-09-30",
+  "changeDate": "2024-03-15T09:52:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "obrona narodowa",
+   "szkolnictwo wyższe",
+   "żołnierz zawodowy",
+   "szkolnictwo wojskowe"
+  ],
+  "keywordsNames": [
+   "Akademia Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/970.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/970",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/970",
+    "number": "970",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2016/906",
+     "date": "2016-09-30"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2005/1365",
+     "date": "2005-09-01"
+    },
+    {
+     "id": "DU/2004/1598",
+     "date": "2004-07-17"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1990/385"
+    },
+    {
+     "id": "DU/1965/102"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030496.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030496.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030496L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20030496Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
