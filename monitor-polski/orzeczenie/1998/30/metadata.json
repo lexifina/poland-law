@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1998/30",
+ "source_sha256": "7ea47af9a863949bd663788a42c2c7a39d715d42f43df24dbe988249deed5309",
+ "in_force": "1998-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1998/30",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1998/30/text/O/M19980030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1998/30/text/I/M19980030.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1998/30/text/T/M19980030L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1998/30",
+  "publisher": "MP",
+  "year": 1998,
+  "volume": 1,
+  "pos": 30,
+  "address": "WMP19980010030",
+  "displayAddress": "M.P. 1998 nr 1 poz. 30",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 6 stycznia 1998 r. - sygn. akt U. 15/97",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-01-06",
+  "entryIntoForce": "1998-01-15",
+  "validFrom": "1998-01-15",
+  "changeDate": "2016-04-12T14:56:59",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "orzeczenie",
+   "oświata i wychowanie",
+   "dodatki mieszkaniowe"
+  ],
+  "keywordsNames": [
+   "Karta Nauczyciela",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1997/154"
+    },
+    {
+     "id": "DU/1993/600"
+    },
+    {
+     "id": "DU/1991/425"
+    },
+    {
+     "id": "DU/1982/19"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "MP/1997/154"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19980030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19980030.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19980030L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
