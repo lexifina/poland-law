@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1938/6",
+ "source_sha256": "c3ff36aa96eb0460e587582c5d5b6d6851202c936dcfd78070f0e5921ccf923f",
+ "in_force": "1938-01-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1938/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1938/6/text/O/D19380006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1938/6/text/I/D19380006.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1938/6",
+  "publisher": "DU",
+  "year": 1938,
+  "volume": 1,
+  "pos": 6,
+  "address": "WDU19380010006",
+  "displayAddress": "Dz.U. 1938 nr 1 poz. 6",
+  "title": "Obwieszczenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 8 listopada 1937 r. w sprawie ogłoszenia tekstu ustawy z dnia 15 marca 1933 r. o szkołach akademickich.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-11-08",
+  "promulgation": "1938-01-07",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. WYZNAŃ RELIGIJNYCH I OŚWIECENIA PUBLICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1937/406"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1937/406",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1933/247"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19380006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19380006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
