@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/122",
+ "source_sha256": "ccd98065025155b33024fee81232cacbbfa643107679c6c04c02c88cfc1bd43c",
+ "in_force": "2000-02-09",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/122",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/122/text/O/M20000122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/122/text/I/M20000122.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/122/text/T/M20000122L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/122",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 5,
+  "pos": 122,
+  "address": "WMP20000050122",
+  "displayAddress": "M.P. 2000 nr 5 poz. 122",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 9 lutego 2000 r. w sprawie wskaźnika realnej przeciętnej emerytury i renty brutto w 1999 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-02-09",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wskaźnik",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 93 ust. 3 pkt 1 lit. c)"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000122.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000122L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
