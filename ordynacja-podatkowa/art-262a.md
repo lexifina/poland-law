@@ -1,0 +1,5 @@
+# Art. 262a.
+
+§ 1. Kwota, o której mowa w art. 262 § 1, podlega w każdym roku podwyższeniu w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w pierwszych dwóch kwartałach danego roku w stosunku do analogicznego okresu poprzedniego roku, a jeżeli wskaźnik ten ma wartość ujemną, kwota nie ulega zmianie.
+
+§ 2. Minister właściwy do spraw finansów publicznych, w porozumieniu z Prezesem Głównego Urzędu Statystycznego, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, do dnia 15 sierpnia danego roku, kwotę, o której mowa w § 1, zaokrąglając ją do pełnych setek złotych (z pominięciem dziesiątek złotych).

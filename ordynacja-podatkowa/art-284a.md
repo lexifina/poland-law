@@ -1,0 +1,7 @@
+§ 3. Dokumenty z czynności kontrolnych dokonanych z naruszeniem obowiązku, o którym mowa w § 2, nie stanowią dowodu w postępowaniu podatkowym, z zastrzeżeniem § 4.
+
+§ 4. Przepisu § 2 nie stosuje się, jeżeli nie można ustalić danych identyfikujących kontrolowanego. Upoważnienie doręczane jest po ustaleniu tych danych.
+
+§ 5. Organ podatkowy może umorzyć kontrolę podatkową, jeżeli w okresie 30 dni od jej wszczęcia nie zostaną ustalone dane identyfikujące kontrolowanego. Kontrola może być wznowiona w każdym czasie, gdy ustalony zostanie podmiot, w stosunku do którego może być prowadzona.
+
+§ 6. W sprawach, o których mowa w § 5, organ podatkowy wydaje postanowienie.
