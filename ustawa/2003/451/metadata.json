@@ -1,0 +1,106 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/451",
+ "source_sha256": "b83158ea6778825b505d92aa3df52c499ef244baded40062e5b67af586bf1328",
+ "in_force": "2004-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/451",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/451/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/451/text/O/D20030451.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/451/text/I/D20030451.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/451/text/U/D20030451Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/451",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 52,
+  "pos": 451,
+  "address": "WDU20030520451",
+  "displayAddress": "Dz.U. 2003 nr 52 poz. 451",
+  "title": "Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o broni i amunicji oraz o zmianie ustawy o Biurze Ochrony Rządu",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-02-14",
+  "promulgation": "2003-03-28",
+  "entryIntoForce": "2004-01-01",
+  "validFrom": "2004-01-01",
+  "changeDate": "2024-03-15T09:53:12",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "dokumenty",
+   "broń palna",
+   "broń, amunicja i materiały wybuchowe",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Policja",
+   "Biuro Ochrony Rządu"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/1048.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/1048",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/1048",
+    "number": "1048",
+    "term": 4
+   }
+  ],
+  "comments": "Przepisy art. 1 pkt 2, 3, 5, 9 w zakresie dotyczącym art. 9 ust. 8, pkt 10, 12 lit. c, pkt 16 lit. b-d, pkt 22, 23, 24, 26 lit. b, pkt 27, 30 lit. c, pkt 31, 33 oraz art. 2, weszły w życie z dniem 12 kwietnia 2004 r. Przepisy art. 1 pkt 4, 7, 9 w zakresie dotyczącym art. 9 ust. 2, pkt 11, 21 lit. b i pkt 29 stosuje się od dnia 1 maja 2004 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2000/223",
+     "date": "2003-04-12"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/2036",
+     "date": "2004-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/298",
+     "date": "2004-01-01"
+    },
+    {
+     "id": "DU/1999/549",
+     "date": "2004-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030451.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030451.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030451Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
