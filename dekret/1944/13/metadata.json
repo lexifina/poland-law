@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/13",
+ "source_sha256": "c497ed113274ba19bbf2cd17fe49b6df1bb8211b7bdf1c644b90e8a1ef2cc484",
+ "in_force": "1944-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/13",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/13/text/O/D19440013.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/13/text/I/D19440013.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/13",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 3,
+  "pos": 13,
+  "address": "WDU19440030013",
+  "displayAddress": "Dz.U. 1944 nr 3 poz. 13",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 31 sierpnia 1944 r. o ustanowieniu przysięgi dla Wojska Polskiego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-08-31",
+  "entryIntoForce": "1944-08-31",
+  "validFrom": "1944-08-31",
+  "repealDate": "1947-08-08",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/267",
+     "date": "1947-08-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440013.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440013.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
