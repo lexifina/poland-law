@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1923/80",
+ "source_sha256": "f0a424a0c8efe6863a0009c6da36533198c88ff94a6d3192251aa1fb6c7877a8",
+ "in_force": "1923-02-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1923/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1923/80/text/O/D19230080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1923/80/text/I/D19230080.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1923/80",
+  "publisher": "DU",
+  "year": 1923,
+  "volume": 12,
+  "pos": 80,
+  "address": "WDU19230120080",
+  "displayAddress": "Dz.U. 1923 nr 12 poz. 80",
+  "title": "Rozporządzenie Ministra Skarbu i Ministra Przemysłu i Handlu z dnia 25 stycznia 1923 r. w sprawie uzupełnienia wykazu towarów, zawartego w § 1 rozporządzenia z dnia 26 lipca 1922 r. w przedmiocie mnożnika celnego normalnego i ulgowego.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1923-01-25",
+  "entryIntoForce": "1923-02-07",
+  "validFrom": "1923-02-07",
+  "repealDate": "1923-07-19",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. SKARBU",
+   "MIN. PRZEMYSŁU I HANDLU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/532",
+     "date": "1923-07-19"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1923/89",
+     "date": "1923-02-12"
+    },
+    {
+     "id": "DU/1923/202",
+     "date": "1923-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1920/314"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19230080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19230080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
