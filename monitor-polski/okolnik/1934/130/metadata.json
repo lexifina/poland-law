@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/130",
+ "source_sha256": "e77727427bf8295eba4e219c8f33d90ab0aad7ad488791ffc5f685e535307f7a",
+ "in_force": "1934-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/130",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/130/text/O/M19340130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/130/text/I/M19340130.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/130",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 88,
+  "pos": 130,
+  "address": "WMP19340880130",
+  "displayAddress": "M.P. 1934 nr 88 poz. 130",
+  "title": "Okólnik Ministerstwa Skarbu T.16 z dnia 10 kwietnia 1934 r. w sprawie clenia sieczki i paciorków szklanych.",
+  "type": "Okólnik",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-04-10",
+  "promulgation": "1934-04-17",
+  "repealDate": "1936-11-25",
+  "changeDate": "2024-11-25T11:50:06",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cło",
+   "urzędy celne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1936/459",
+     "date": "1936-11-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340130.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
