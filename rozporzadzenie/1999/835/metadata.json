@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/835",
+ "source_sha256": "656f1e54c8dfccf4c12c4e2b71a80f1c95d82f95677d0214cb8a8344ee2946dd",
+ "in_force": "1999-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/835",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/835/text/O/D19990835.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/835/text/I/D19990835.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/835/text/T/D19990835L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/835",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 74,
+  "pos": 835,
+  "address": "WDU19990740835",
+  "displayAddress": "Dz.U. 1999 nr 74 poz. 835",
+  "title": "Rozporządzenie Ministra Łączności z dnia 31 sierpnia 1999 r. zmieniające rozporządzenie w sprawie planu emisji znaczków pocztowych na 1999 r.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-08-31",
+  "entryIntoForce": "1999-09-24",
+  "validFrom": "1999-09-24",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. ŁĄCZNOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "łączność",
+   "znaczki pocztowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/674",
+     "date": "1999-09-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/504"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/504",
+     "art": "art. 44 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990835.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990835.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990835L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
