@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/483",
+ "source_sha256": "3e11d65d2ed9b60102a435201d98da0cb8894f4cf3139a552152db5a0452128d",
+ "in_force": "2000-06-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/483",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/483/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/483/text/O/D20000483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/483/text/I/D20000483.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/483/text/T/D20000483L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/483",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 43,
+  "pos": 483,
+  "address": "WDU20000430483",
+  "displayAddress": "Dz.U. 2000 nr 43 poz. 483",
+  "title": "Ustawa z dnia 31 marca 2000 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o działalności ubezpieczeniowej.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-03-31",
+  "promulgation": "2000-05-25",
+  "entryIntoForce": "2000-06-09",
+  "validFrom": "2000-06-09",
+  "changeDate": "2024-03-15T09:49:59",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo o ruchu drogowym",
+   "ruch drogowy",
+   "działalność ubezpieczeniowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/1433.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/1433",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/1433",
+    "number": "1433",
+    "term": 3
+   }
+  ],
+  "comments": "Art. 3 ust. 1 wchodzi w życie z dniem 25 maja 2000 r. z mocą od dnia 1 lipca 1999 r.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/1151",
+     "date": "2004-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/602",
+     "date": "2000-06-09"
+    },
+    {
+     "id": "DU/1990/344",
+     "date": "2000-06-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1983/35"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20000483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20000483.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20000483L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
