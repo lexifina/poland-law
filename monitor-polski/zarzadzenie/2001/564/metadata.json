@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/564",
+ "source_sha256": "586b158b858e0133c0006fd55c8e5e7e36dbf650f970d74b0f3733a611ef115b",
+ "in_force": "2001-10-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/564",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/564/text/O/M20010564.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/564/text/I/M20010564.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/564",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 34,
+  "pos": 564,
+  "address": "WMP20010340564",
+  "displayAddress": "M.P. 2001 nr 34 poz. 564",
+  "title": "Zarządzenie Nr 100 Prezesa Rady Ministrów z dnia 10 października 2001 r. w sprawie utraty mocy niektórych zarządzeń Prezesa Rady Ministrów, ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej \"Monitor Polski\".",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-10-10",
+  "entryIntoForce": "2001-10-16",
+  "validFrom": "2001-10-16",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/2000/506",
+     "date": "2001-10-16"
+    },
+    {
+     "id": "MP/1997/692",
+     "date": "2001-10-16"
+    },
+    {
+     "id": "MP/1997/345",
+     "date": "2001-10-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010564.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010564.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
