@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/3",
+ "source_sha256": "beadec3dcd7ca666aa42977cf734a7a0ef0560134f9cc74818ba6d637fccc89d",
+ "in_force": "1935-01-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/3/text/O/M19350003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/3/text/I/M19350003.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/3",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 4,
+  "pos": 3,
+  "address": "WMP19350040003",
+  "displayAddress": "M.P. 1935 nr 4 poz. 3",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 22 grudnia 1934 r. Nr. 2573/34.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-12-22",
+  "promulgation": "1935-01-05",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "mandaty poselskie i senatorskie",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/591"
+    },
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/591",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
