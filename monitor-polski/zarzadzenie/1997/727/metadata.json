@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1997/727",
+ "source_sha256": "28b4fcba5fdcc929afd59fbd554b61e619184a900b5ee7f8bc96706ac67a6480",
+ "in_force": "1997-10-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1997/727",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1997/727/text/O/M19970727.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1997/727/text/I/M19970727.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1997/727",
+  "publisher": "MP",
+  "year": 1997,
+  "volume": 77,
+  "pos": 727,
+  "address": "WMP19970770727",
+  "displayAddress": "M.P. 1997 nr 77 poz. 727",
+  "title": "Zarządzenie Ministra Finansów z dnia 10 października 1997 r. zmieniające zarządzenie w sprawie zaniechania i poboru podatku dochodowego od osób fizycznych.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-10-09",
+  "entryIntoForce": "1997-10-15",
+  "validFrom": "1997-01-01",
+  "repealDate": "1999-01-01",
+  "changeDate": "2014-12-31T12:26:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zobowiązania podatkowe",
+   "podatki",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1997/449",
+     "date": "1997-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1980/111"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1980/111",
+     "art": "art. 8 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1997/926",
+     "date": "1999-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19970727.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19970727.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
