@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/14",
+ "source_sha256": "24ba132eb8bfbde03cb62675e2c621a2f42a0cf65ef933c99b29a9fc602a5a85",
+ "in_force": "1950-01-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/14",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/14/text/O/D19500014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/14/text/I/D19500014.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/14",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 2,
+  "pos": 14,
+  "address": "WDU19500020014",
+  "displayAddress": "Dz.U. 1950 nr 2 poz. 14",
+  "title": "Rozporządzenie Ministra Handlu Wewnętrznego z dnia 4 stycznia 1950 r. w sprawie normalizacji wypieku pieczywa.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-01-04",
+  "entryIntoForce": "1950-01-27",
+  "validFrom": "1949-08-10",
+  "repealDate": "1951-06-18",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1951/252",
+     "date": "1951-06-18"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1948/378",
+     "date": "1949-08-10"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1948/364",
+     "date": "1949-08-10"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1949/445"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1949/341"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500014.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
