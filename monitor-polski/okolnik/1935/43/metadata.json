@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/43",
+ "source_sha256": "3b928b1c874728fe7b7cdff9fcd8d34729677b1bb69537ca90f23b1b9a2620f2",
+ "in_force": "1935-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/43/text/O/M19350043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/43/text/I/M19350043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/43",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 27,
+  "pos": 43,
+  "address": "WMP19350270043",
+  "displayAddress": "M.P. 1935 nr 27 poz. 43",
+  "title": "Okólnik Ministerstwa Skarbu z dnia 22 stycznia 1935 r. w sprawie pochodzenia towarów, zakazanych do przywozu",
+  "type": "Okólnik",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-01-22",
+  "promulgation": "1935-02-01",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrót towarowy z zagranicą"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/893"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1934/893",
+     "art": "par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
