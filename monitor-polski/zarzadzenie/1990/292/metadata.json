@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1990/292",
+ "source_sha256": "1b4bc5c075a3e1ffdc8e62226978ba6e91bffc953621ede91247c62b18cef2a7",
+ "in_force": "1990-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1990/292",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1990/292/text/O/M19900292.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1990/292/text/I/M19900292.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1990/292",
+  "publisher": "MP",
+  "year": 1990,
+  "volume": 36,
+  "pos": 292,
+  "address": "WMP19900360292",
+  "displayAddress": "M.P. 1990 nr 36 poz. 292",
+  "title": "Zarządzenie Ministra Pracy i Polityki Socjalnej z dnia 27 września 1990 r. zmieniające zarządzenie w sprawie najniższego wynagrodzenia pracowników.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1990-09-27",
+  "entryIntoForce": "1990-10-01",
+  "validFrom": "1990-10-01",
+  "repealDate": "1996-07-01",
+  "changeDate": "2014-12-31T12:26:31",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "wynagrodzenia najniższe",
+   "prawo pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1996/388",
+     "date": "1996-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1990/256",
+     "date": "1990-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/141",
+     "art": "art. 79"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19900292.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19900292.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
