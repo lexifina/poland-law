@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1952/302",
+ "source_sha256": "27b510d19e0af403702f6967dc1816adb9750def8138cfefbffeb0524b246e5e",
+ "in_force": "1952-11-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1952/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1952/302/text/O/D19520302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1952/302/text/I/D19520302.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1952/302",
+  "publisher": "DU",
+  "year": 1952,
+  "volume": 44,
+  "pos": 302,
+  "address": "WDU19520440302",
+  "displayAddress": "Dz.U. 1952 nr 44 poz. 302",
+  "title": "Dekret z dnia 29 października 1952 r. o zmianie niektórych przepisów postępowania karnego.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-10-29",
+  "entryIntoForce": "1952-11-12",
+  "validFrom": "1952-11-12",
+  "repealDate": "1970-01-01",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1969/97",
+     "date": "1970-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1928/313",
+     "date": "1952-11-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1946/45"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19520302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19520302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
