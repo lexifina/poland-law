@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/45",
+ "source_sha256": "a874e69a4eceb57a9d44dfb387a29c2417681de07221f0e2380f3e0aa3d7490a",
+ "in_force": "2001-01-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/45",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/45/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/45/text/O/D20010045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/45/text/I/D20010045.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/45/text/T/D20010045L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/45",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 5,
+  "pos": 45,
+  "address": "WDU20010050045",
+  "displayAddress": "Dz.U. 2001 nr 5 poz. 45",
+  "title": "Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw i ustawy o zakładach opieki zdrowotnej.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-12-22",
+  "promulgation": "2001-01-24",
+  "entryIntoForce": "2001-01-24",
+  "validFrom": "2001-01-01",
+  "changeDate": "2024-03-15T10:00:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "zakłady opieki zdrowotnej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2482.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2482",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2482",
+    "number": "2482",
+    "term": 3
+   }
+  ],
+  "comments": "Art. 1 pkt 1 i 3 obowiązują od dnia 1 stycznia 2001 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/2",
+     "date": "2001-01-24"
+    },
+    {
+     "id": "DU/1991/408",
+     "date": "2001-01-24"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2003/14"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010045.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20010045L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
