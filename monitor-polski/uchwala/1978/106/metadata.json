@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1978/106",
+ "source_sha256": "a5f7037d759cae6470614db640b9e36ad27e37b54d0f2e4f1b73925922e14b7e",
+ "in_force": "1978-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1978/106",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1978/106/text/O/M19780106.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1978/106/text/I/M19780106.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1978/106",
+  "publisher": "MP",
+  "year": 1978,
+  "volume": 29,
+  "pos": 106,
+  "address": "WMP19780290106",
+  "displayAddress": "M.P. 1978 nr 29 poz. 106",
+  "title": "Uchwała nr 128 Rady Ministrów z dnia 31 sierpnia 1978 r. w sprawie podwyższenia cen skupu mleka.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1978-08-31",
+  "entryIntoForce": "1978-09-01",
+  "validFrom": "1978-09-01",
+  "repealDate": "1980-02-15",
+  "changeDate": "2024-01-15T13:10:31",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mleczarstwo",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1980/1",
+     "date": "1980-02-15"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1976/131",
+     "date": "1978-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1953/122"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1953/122",
+     "art": "art. 1 ust. 1"
+    },
+    {
+     "id": "DU/1953/122",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19780106.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19780106.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
