@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/847",
+ "source_sha256": "cb911a7610d5bf4e730d361e5e34d845df58165e9b0f0d478e2a70937fde6be4",
+ "in_force": "2002-12-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/847",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/847/text/O/M20020847.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/847/text/I/M20020847.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/847",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 60,
+  "pos": 847,
+  "address": "WMP20020600847",
+  "displayAddress": "M.P. 2002 nr 60 poz. 847",
+  "title": "Obwieszczenie Ministra Środowiska z dnia 10 grudnia 2002 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Środowiska.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-10",
+  "promulgation": "2002-12-20",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór"
+  ],
+  "keywordsNames": [
+   "Min. Środowiska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2002/442",
+     "date": "2002-12-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020847.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020847.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
