@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/468",
+ "source_sha256": "687aa7cc9954ae24de2b48ada022f02fc0a48caab929d943346d737d489c1496",
+ "in_force": "2003-03-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1052 words, parsed 59; at 59: 'Grędy o zbadanie zgodności : a ) art . 382'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/468",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/468/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/468/text/O/D20030468.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/468/text/I/D20030468.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/468/text/T/D20030468L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/468",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 52,
+  "pos": 468,
+  "address": "WDU20030520468",
+  "displayAddress": "Dz.U. 2003 nr 52 poz. 468",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 marca 2003 r. sygn. akt SK 8/02",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-03-11",
+  "promulgation": "2003-03-28",
+  "entryIntoForce": "2003-03-28",
+  "validFrom": "2003-03-28",
+  "changeDate": "2024-03-15T09:53:11",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cywilne postępowanie",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030468.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030468.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030468L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
