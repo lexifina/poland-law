@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/448",
+ "source_sha256": "36cef936d8c26aea2b4d85a11ec06bd900144b4e1ad6fb1aaf9e1a89ea173e57",
+ "in_force": "2002-05-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/448",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/448/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/448/text/O/D20020448.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/448/text/I/D20020448.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/448/text/T/D20020448L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2002/448/text/U/D20020448Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/448",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 49,
+  "pos": 448,
+  "address": "WDU20020490448",
+  "displayAddress": "Dz.U. 2002 nr 49 poz. 448",
+  "title": "Obwieszczenie Ministra Finansów z dnia 21 marca 2002 r. w sprawie ogłoszenia jednolitego tekstu ustawy o funduszach inwestycyjnych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-03-21",
+  "promulgation": "2002-05-07",
+  "repealDate": "2004-07-01",
+  "changeDate": "2024-03-15T10:06:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny",
+   "rejestry",
+   "zezwolenia",
+   "depozyty",
+   "sprawozdanie finansowe",
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 151 i 158-160 ustawy z dnia 28 sierpnia 1997 r. o funduszach inwestycyjnych.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/1546",
+     "date": "2004-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1192"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1192",
+     "art": "art. 7"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/933"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020448.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020448.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020448L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20020448Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
