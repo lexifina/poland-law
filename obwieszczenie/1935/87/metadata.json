@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1935/87",
+ "source_sha256": "a34b21dcbba825fc26314967debc3558410170a93ac140384f9ae5e6c862deb0",
+ "in_force": "1935-03-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1935/87",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1935/87/text/O/D19350087.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1935/87/text/I/D19350087.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1935/87",
+  "publisher": "DU",
+  "year": 1935,
+  "volume": 15,
+  "pos": 87,
+  "address": "WDU19350150087",
+  "displayAddress": "Dz.U. 1935 nr 15 poz. 87",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 17 października 1934 r. o sprostowaniu błędów w rozporządzeniu Ministra Opieki Społecznej z dnia 29 marca 1934 r. o określaniu cen aptecznych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1934-10-17",
+  "promulgation": "1935-03-07",
+  "changeDate": "2020-11-03T15:56:32",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "sprostowanie",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1934/522"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19350087.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19350087.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
