@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/282",
+ "source_sha256": "f70f77e2bf2d11e9c524041ed6deaa633b0a969350d8d857e400bdc53a59b239",
+ "in_force": "1973-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/282",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/282/text/O/M19720282.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/282/text/I/M19720282.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/282",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 53,
+  "pos": 282,
+  "address": "WMP19720530282",
+  "displayAddress": "M.P. 1972 nr 53 poz. 282",
+  "title": "Zarządzenie Ministra Finansów z dnia 20 listopada 1972 r. w sprawie ustalenia wzorów znaczków opłaty paszportowej.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1972-11-20",
+  "entryIntoForce": "1973-01-01",
+  "validFrom": "1973-01-01",
+  "repealDate": "1981-01-01",
+  "changeDate": "2020-03-11T10:23:19",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty administracyjne",
+   "opłata paszportowa",
+   "paszporty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1973/320",
+     "date": "1974-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/452"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/452",
+     "art": "art. 29 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1980/111",
+     "date": "1981-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720282.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720282.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
