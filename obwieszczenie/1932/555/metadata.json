@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/555",
+ "source_sha256": "2cb730afeda0976aa974f83cd2a904bd2e4a7a5bf72059a9abda0bf678ed41fb",
+ "in_force": "1932-07-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/555",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/555/text/O/D19320555.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/555/text/I/D19320555.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/555",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 58,
+  "pos": 555,
+  "address": "WDU19320580555",
+  "displayAddress": "Dz.U. 1932 nr 58 poz. 555",
+  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 24 czerwca 1932 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zabezpieczeniu na wypadek bezrobocia.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-06-24",
+  "promulgation": "1932-07-11",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. PRACY I OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezrobocie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/399"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/399",
+     "art": "art. 2"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1924/650"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320555.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320555.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
