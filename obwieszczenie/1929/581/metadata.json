@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/581",
+ "source_sha256": "bb6f4228de16ee18901f5b5b6af943fdfb9beb67b3aa3dafea827aaf2074283a",
+ "in_force": "1929-11-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/581",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/581/text/O/D19290581.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/581/text/I/D19290581.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/581",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 77,
+  "pos": 581,
+  "address": "WDU19290770581",
+  "displayAddress": "Dz.U. 1929 nr 77 poz. 581",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 13 listopada 1929 r. w sprawie sprostowania błędu w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o Straży Granicznej.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-11-13",
+  "promulgation": "1929-11-20",
+  "changeDate": "2020-11-03T16:09:34",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 5 lit. c"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1928/349"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290581.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290581.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
