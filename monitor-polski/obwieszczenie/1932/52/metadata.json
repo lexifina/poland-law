@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/52",
+ "source_sha256": "aa4d4b43cbe8bcbad27e76c537be3ebbb0ac8f370a3a2d8a8739aaf550c17f03",
+ "in_force": "1932-02-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/52",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/52/text/O/M19320052.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/52/text/I/M19320052.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/52",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 48,
+  "pos": 52,
+  "address": "WMP19320480052",
+  "displayAddress": "M.P. 1932 nr 48 poz. 52",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 25 lutego 1932 r. o wartości jednego grama czystego złota.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-02-25",
+  "promulgation": "1932-02-29",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "złoto"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/932"
+    },
+    {
+     "id": "DU/1927/855"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/855",
+     "art": "art. 16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320052.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320052.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
