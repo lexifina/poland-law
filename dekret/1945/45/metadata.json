@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/45",
+ "source_sha256": "74f2eaee516e4a7ef40cdf69d535834e48079a038def0774bcc3628e1e0c7f8e",
+ "in_force": "1945-03-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/45/text/O/D19450045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/45/text/I/D19450045.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/45",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 9,
+  "pos": 45,
+  "address": "WDU19450090045",
+  "displayAddress": "Dz.U. 1945 nr 9 poz. 45",
+  "title": "Dekret z dnia 2 marca 1945 r. o majątkach opuszczonych i porzuconych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-03-02",
+  "entryIntoForce": "1945-03-22",
+  "validFrom": "1945-03-22",
+  "repealDate": "1945-05-07",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SKARBU"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1945/95",
+     "date": "1945-05-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1944/82"
+    },
+    {
+     "id": "DU/1944/17"
+    },
+    {
+     "id": "DU/1930/651"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450045.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
