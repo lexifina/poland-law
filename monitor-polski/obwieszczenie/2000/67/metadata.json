@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/67",
+ "source_sha256": "f1bcfe7a09bfd0e0136dcbf56f89eb2a54c5ce075baaeb7443ecabbb8b494694",
+ "in_force": "2000-01-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/67",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/67/text/O/M20000067.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/67/text/I/M20000067.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2000/67/text/T/M20000067L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/67",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 4,
+  "pos": 67,
+  "address": "WMP20000040067",
+  "displayAddress": "M.P. 2000 nr 4 poz. 67",
+  "title": "Obwieszczenie Ministra Gospodarki z dnia 28 stycznia 2000 r. w sprawie przeciętnej średniorocznej ceny zbytu 1 Mg węgla kamiennego w asortymencie Orzech II z 1999 r., skorygowanej o przewidywany wskaźnik wzrostu cen towarów i usług konsumpcyjnych na 2000 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-01-28",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "węgiel",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1112",
+     "art": "art. 55 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000067.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000067.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20000067L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
