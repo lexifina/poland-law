@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1972/10",
+ "source_sha256": "9c50559c04872906828d510d24e8999d015062a372f1ec5c3b2b9949deccf6f4",
+ "in_force": "1972-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1972/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1972/10/text/O/M19720010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1972/10/text/I/M19720010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1972/10",
+  "publisher": "MP",
+  "year": 1972,
+  "volume": 1,
+  "pos": 10,
+  "address": "WMP19720010010",
+  "displayAddress": "M.P. 1972 nr 1 poz. 10",
+  "title": "Zarządzenie Przewodniczącego Komitetu Drobnej Wytwórczości z dnia 21 grudnia 1971 r. w sprawie książek skarg i wniosków w uspołecznionych przedsiębiorstwach i spółdzielniach usługowych oraz ich placówkach i zakładach.",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-12-21",
+  "entryIntoForce": "1972-01-15",
+  "validFrom": "1972-01-15",
+  "repealDate": "1981-01-01",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "PRZEW. KOMITETU DROBNEJ WYTWÓRCZOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1960/423",
+     "date": "1972-01-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1971/260"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1971/260",
+     "art": "par. 38 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1980/162",
+     "date": "1981-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19720010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19720010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
