@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1944/64",
+ "source_sha256": "c07e67abcaee2d4bbc2de79835f7f6ccf55c6b6a7edacb5f46967e4ceb2af702",
+ "in_force": "1944-11-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1944/64",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1944/64/text/O/D19440064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1944/64/text/I/D19440064.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1944/64",
+  "publisher": "DU",
+  "year": 1944,
+  "volume": 12,
+  "pos": 64,
+  "address": "WDU19440120064",
+  "displayAddress": "Dz.U. 1944 nr 12 poz. 64",
+  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 20 listopada 1944 r. o zmianie ustawy o opodatkowaniu cukru.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1944-11-20",
+  "entryIntoForce": "1944-11-24",
+  "validFrom": "1944-10-22",
+  "repealDate": "1947-03-27",
+  "changeDate": "2014-12-31T12:24:06",
+  "releasedBy": [
+   "POLSKI KOMITET WYZWOLENIA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "KIER. RESORTU GOSPODARKI NARODOWEJ I FINANSÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1947/122",
+     "date": "1947-03-27"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1946/41"
+    },
+    {
+     "id": "DU/1944/68"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1927/700",
+     "date": "1944-10-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1944/3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19440064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19440064.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
