@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/324",
+ "source_sha256": "217388b8f6fd9f763b1483033b2efc729e409a2440ddd9d471b229e5bca4a76a",
+ "in_force": "1945-12-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/324",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/324/text/O/D19450324.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/324/text/I/D19450324.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1945/324/text/T/D19450324L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/324",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 57,
+  "pos": 324,
+  "address": "WDU19450570324",
+  "displayAddress": "Dz.U. 1945 nr 57 poz. 324",
+  "title": "Dekret z dnia 30 listopada 1945 r. o języku państwowym i języku urzędowania rządowych i samorządowych władz administracyjnych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-11-30",
+  "entryIntoForce": "1945-12-17",
+  "validFrom": "1945-12-17",
+  "repealDate": "2000-05-09",
+  "changeDate": "2014-12-31T12:25:25",
+  "releasedBy": [
+   "PREZ. KRAJOWEJ RADY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "administracyjne postępowanie",
+   "język państwowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1999/999",
+     "date": "2000-05-09"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1924/724",
+     "date": "1945-12-17"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/1997/346"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450324.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450324.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19450324L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
