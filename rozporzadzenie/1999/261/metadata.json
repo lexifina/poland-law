@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/261",
+ "source_sha256": "7c610fe604a3a603c76d523a5354211b02688d46948778ee207559a7900e0689",
+ "in_force": "1999-04-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/261",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/261/text/O/D19990261.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/261/text/I/D19990261.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/261/text/T/D19990261L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/261",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 28,
+  "pos": 261,
+  "address": "WDU19990280261",
+  "displayAddress": "Dz.U. 1999 nr 28 poz. 261",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 29 marca 1999 r. w sprawie stawek uposażenia zasadniczego żołnierzy zawodowych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-03-29",
+  "entryIntoForce": "1999-04-02",
+  "validFrom": "1999-01-01",
+  "repealDate": "2000-01-01",
+  "changeDate": "2022-04-19T12:10:16",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "żołnierz zawodowy",
+   "uposażenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2000/246",
+     "date": "2000-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/282"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/282",
+     "art": "art. 11 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990261.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990261.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990261L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
