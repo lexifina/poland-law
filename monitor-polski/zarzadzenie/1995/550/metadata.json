@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1995/550",
+ "source_sha256": "5e8717c09534f2c59e6a12249c39353f1cb078fd6566d5485b0815791dcd0c87",
+ "in_force": "1995-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1995/550",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1995/550/text/O/M19950550.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1995/550/text/I/M19950550.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1995/550",
+  "publisher": "MP",
+  "year": 1995,
+  "volume": 48,
+  "pos": 550,
+  "address": "WMP19950480550",
+  "displayAddress": "M.P. 1995 nr 48 poz. 550",
+  "title": "Zarządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 września 1995 r. zmieniające zarządzenie w sprawie najniższego wynagrodzenia pracowników.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1995-09-26",
+  "entryIntoForce": "1995-10-01",
+  "validFrom": "1995-10-01",
+  "repealDate": "1996-07-01",
+  "changeDate": "2014-12-31T12:26:33",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SOCJALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "wynagrodzenia najniższe",
+   "prawo pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1996/388",
+     "date": "1996-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1990/256",
+     "date": "1995-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/141",
+     "art": "art. 79"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19950550.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19950550.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
