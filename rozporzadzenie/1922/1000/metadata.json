@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1922/1000",
+ "source_sha256": "b3c4298c3e88e5934312941087809d1fc3e20f5193b6c9bd05d14bdd0d3f3f7c",
+ "in_force": "1922-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1922/1000",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1922/1000/text/O/D19221000.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1922/1000/text/I/D19221000.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1922/1000",
+  "publisher": "DU",
+  "year": 1922,
+  "volume": 107,
+  "pos": 1000,
+  "address": "WDU19221071000",
+  "displayAddress": "Dz.U. 1922 nr 107 poz. 1000",
+  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 29 listopada 1922 r. w sprawie podwyższenia opłat pocztowych, telegraficznych i telefonicznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1922-11-29",
+  "entryIntoForce": "1922-12-15",
+  "validFrom": "1922-12-15",
+  "repealDate": "1923-02-01",
+  "changeDate": "2014-12-31T12:25:16",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stawki taryfowe",
+   "poczta",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Opłaty abonentowe obowiązywały od 1 stycznia 1923 r.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1923/73",
+     "date": "1923-02-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1922/721",
+     "date": "1922-12-15"
+    },
+    {
+     "id": "DU/1922/655",
+     "date": "1922-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1919/310"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19221000.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19221000.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
