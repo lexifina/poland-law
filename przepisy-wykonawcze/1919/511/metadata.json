@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1919/511",
+ "source_sha256": "30c6fd56bd03036283898b892c54f307f8e934458ad575b6364c81bb3f08af15",
+ "in_force": "1920-01-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1919/511",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1919/511/text/O/D19190511.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1919/511/text/I/D19190511.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1919/511",
+  "publisher": "DU",
+  "year": 1919,
+  "volume": 95,
+  "pos": 511,
+  "address": "WDU19190950511",
+  "displayAddress": "Dz.U. 1919 nr 95 poz. 511",
+  "title": "Przepis wykonawczy do rozporządzenia o taryfie celnej z dnia 4 listopada 1919 r.",
+  "type": "Przepisy wykonawcze",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1919-11-04",
+  "entryIntoForce": "1920-01-10",
+  "validFrom": "1920-01-10",
+  "repealDate": "1921-01-29",
+  "changeDate": "2017-08-11T15:31:54",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "chemiczne wyroby",
+   "żywność i żywienie",
+   "papier"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1921/64",
+     "date": "1921-01-29"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1920/263",
+     "date": "1920-05-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19190511.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19190511.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
