@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/20",
+ "source_sha256": "b9ea2eb2be081f666b48553f6369db8c3dfe3d5180e8436371a61a2d714a35b0",
+ "in_force": "1930-01-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/20",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/20/text/O/M19300020.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/20/text/I/M19300020.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/20",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 12,
+  "pos": 20,
+  "address": "WMP19300120020",
+  "displayAddress": "M.P. 1930 nr 12 poz. 20",
+  "title": "Obwieszczenie Ministra Skarbu, wydane w porozumieniu z Ministrem Przemysłu i Handlu, Ministrem Rolnictwa oraz Ministrem Spraw Wewnętrznych z dnia 8 stycznia 1930 r. o zmianie wykazu rafineryj, uprawnionych do sprowadzania olejów roślinnych w stanie nieskażonym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-01-08",
+  "promulgation": "1930-01-16",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "oleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1927/872"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1927/872",
+     "art": "pkt 7 poz. 117"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300020.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300020.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
