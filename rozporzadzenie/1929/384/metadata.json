@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1929/384",
+ "source_sha256": "e146b977e7ecca104833374db162ee75db87e62ebf4b99d958671a4fd367da4c",
+ "in_force": "1929-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1929/384",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1929/384/text/O/D19290384.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1929/384/text/I/D19290384.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1929/384",
+  "publisher": "DU",
+  "year": 1929,
+  "volume": 47,
+  "pos": 384,
+  "address": "WDU19290470384",
+  "displayAddress": "Dz.U. 1929 nr 47 poz. 384",
+  "title": "Rozporządzenie Ministra Sprawiedliwości i Ministra Poczt i Telegrafów z dnia 25 czerwca 1929 r. o doręczaniu pism sądowych przez pocztę w sprawach karnych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1929-06-25",
+  "promulgation": "1929-06-28",
+  "entryIntoForce": "1929-07-01",
+  "validFrom": "1929-07-01",
+  "changeDate": "2020-09-23T10:51:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI",
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "doręczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1930/351",
+     "date": "1930-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/313"
+    },
+    {
+     "id": "DU/1924/584"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/313",
+     "art": "art. 651"
+    },
+    {
+     "id": "DU/1924/584",
+     "art": "art. 23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19290384.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19290384.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
