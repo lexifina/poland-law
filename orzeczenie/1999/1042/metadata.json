@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1042",
+ "source_sha256": "3a22d2d7595a08fe752c8f3a96bc6eb294570115d47a4dbe475b3449ee88289f",
+ "in_force": "1999-11-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 358 words, parsed 178; at 178: 'Konstytucji Rzeczypospolitej Polskiej orzeka : I . Art . 46'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1042",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1042/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1042/text/O/D19991042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1042/text/I/D19991042.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1042/text/T/D19991042L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1042",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 91,
+  "pos": 1042,
+  "address": "WDU19990911042",
+  "displayAddress": "Dz.U. 1999 nr 91 poz. 1042",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 października 1999 r. sygn. akt K. 12/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-10-26",
+  "entryIntoForce": "1999-11-10",
+  "validFrom": "1999-11-10",
+  "changeDate": "2024-03-15T11:35:02",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "energetyka",
+   "energetyczne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/348",
+     "date": "2000-07-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/348"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991042.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991042L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
