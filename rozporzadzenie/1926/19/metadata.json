@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1926/19",
+ "source_sha256": "6acf91e660291b5d5d7e2389278e67af3cdf2d92137b666e4357adc55c90358e",
+ "in_force": "1925-12-16",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1926/19",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1926/19/text/O/D19260019.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1926/19/text/I/D19260019.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1926/19",
+  "publisher": "DU",
+  "year": 1926,
+  "volume": 3,
+  "pos": 19,
+  "address": "WDU19260030019",
+  "displayAddress": "Dz.U. 1926 nr 3 poz. 19",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 16 grudnia 1925 r. w sprawie taksy aptekarskiej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-12-16",
+  "repealDate": "1926-04-28",
+  "changeDate": "2014-12-31T12:22:27",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1926/240",
+     "date": "1926-04-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/86"
+    },
+    {
+     "id": "DU/1923/1060"
+    },
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19260019.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19260019.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
