@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1096",
+ "source_sha256": "a7faa7c43b7fb3b797c776307437072e841d2c175f60af37200ac995423ea79e",
+ "in_force": "1999-12-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1096",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1096/text/O/D19991096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1096/text/I/D19991096.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1096/text/T/D19991096L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1096",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 94,
+  "pos": 1096,
+  "address": "WDU19990941096",
+  "displayAddress": "Dz.U. 1999 nr 94 poz. 1096",
+  "title": "Rozporządzenie Ministra Środowiska z dnia 18 listopada 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych.",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-11-18",
+  "entryIntoForce": "1999-12-09",
+  "validFrom": "1999-12-09",
+  "changeDate": "2014-12-31T12:25:50",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lasy",
+   "ochrona roślin"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/42",
+     "date": "1999-12-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/444"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/444",
+     "art": "art. 27 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19991096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991096.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991096L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
