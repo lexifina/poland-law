@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/196",
+ "source_sha256": "6b2929f52c051e2a65cfe898bd7937fdb1f8f1338ac84b97a7bde076ae394a56",
+ "in_force": "1999-04-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/196",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/196/text/O/M19990196.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/196/text/I/M19990196.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/196/text/T/M19990196L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/196",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 15,
+  "pos": 196,
+  "address": "WMP19990150196",
+  "displayAddress": "M.P. 1999 nr 15 poz. 196",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia 1999 r. w sprawie powołania członków Krajowej Rady Radiofonii i Telewizji.",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-21",
+  "entryIntoForce": "1999-04-21",
+  "validFrom": "1999-04-21",
+  "changeDate": "2018-02-02T12:25:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm",
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 25 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 214 ust. 1"
+    },
+    {
+     "id": "DU/1993/34",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990196.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990196.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19990196L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
