@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/107",
+ "source_sha256": "7bc31ebd09681bbe1047ff6b32bb682572fec1d0fd38af1e66eda86b18b8c186",
+ "in_force": "1936-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/107",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/107/text/O/D19360107.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/107/text/I/D19360107.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/107",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 10,
+  "pos": 107,
+  "address": "WDU19360100107",
+  "displayAddress": "Dz.U. 1936 nr 10 poz. 107",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 22 stycznia 1936 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 kwietnia 1927 r. o rozbudowie miast.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-01-22",
+  "promulgation": "1936-02-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miasta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/9"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/9",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1927/372"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360107.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360107.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
