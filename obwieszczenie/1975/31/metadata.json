@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1975/31",
+ "source_sha256": "f5036d104595b4f31b46d12f6bba02a33139fa361d6ec01e8eb6fe3a0303ee40",
+ "in_force": "1975-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1975/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1975/31/text/O/D19750031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1975/31/text/I/D19750031.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1975/31",
+  "publisher": "DU",
+  "year": 1975,
+  "volume": 5,
+  "pos": 31,
+  "address": "WDU19750050031",
+  "displayAddress": "Dz.U. 1975 nr 5 poz. 31",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 17 lutego 1975 r. w sprawie sprostowania błędu w ustawie z dnia 8 czerwca 1972 r. o ubezpieczeniu społecznym rzemieślników.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-02-17",
+  "promulgation": "1975-02-19",
+  "repealDate": "1977-03-01",
+  "changeDate": "2020-11-03T16:09:33",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rzemiosło",
+   "rzemieślnicy",
+   "sprostowanie",
+   "ubezpieczenia",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1976/235",
+     "date": "1977-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/524"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1950/524",
+     "art": "art. 6 ust. 1 i 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1972/165"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19750031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19750031.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
