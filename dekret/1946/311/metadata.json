@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/311",
+ "source_sha256": "847a6cf09df8986f117fa247f71aa333edbcd9e9c8b66c8b87cd10c971fe0c80",
+ "in_force": "1946-11-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/311",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/311/text/O/D19460311.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/311/text/I/D19460311.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/311",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 55,
+  "pos": 311,
+  "address": "WDU19460550311",
+  "displayAddress": "Dz.U. 1946 nr 55 poz. 311",
+  "title": "Dekret z dnia 8 października 1946 r. o ustanowieniu \"Śląskiego Krzyża Powstańczego\".",
+  "type": "Dekret",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-10-08",
+  "entryIntoForce": "1946-11-08",
+  "validFrom": "1946-11-08",
+  "repealDate": "1960-02-29",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1960/66",
+     "date": "1960-02-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460311.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460311.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
