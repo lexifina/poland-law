@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1354",
+ "source_sha256": "c3dc9505340732813fb61eb74da250aaef8312eb4a1316e635ec4d9d14de5875",
+ "in_force": "2002-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1354",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1354/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1354/text/O/D20011354.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1354/text/I/D20011354.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1354/text/T/D20011354L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2001/1354/text/U/D20011354Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1354",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 123,
+  "pos": 1354,
+  "address": "WDU20011231354",
+  "displayAddress": "Dz.U. 2001 nr 123 poz. 1354",
+  "title": "Ustawa z dnia 24 sierpnia 2001 r. o czasie pracy kierowców.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2001-08-24",
+  "promulgation": "2001-10-25",
+  "entryIntoForce": "2002-10-01",
+  "validFrom": "2002-10-01",
+  "repealDate": "2004-05-01",
+  "changeDate": "2024-03-15T09:58:54",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS TRANSPORTU"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "kierowcy",
+   "transport drogowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2965.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2965",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2965",
+    "number": "2965",
+    "term": 3
+   }
+  ],
+  "comments": "Rozdział czwarty oraz art. 37  wchodzą w życie z dniem 1 stycznia 2003 r. (zm. Dz.U. 2002 nr 155, poz. 1286).\nPrzep. art. 34 ust. 1 pkt 2 stosuje się od dnia 1 maja 2004 r.\nObowiązuje zmiana do ustawy Kodeks pracy Dz. U. 1974 nr 24, poz. 141",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2004/879",
+     "date": "2004-05-01"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2002/1291"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/1452",
+     "date": "2003-09-28"
+    },
+    {
+     "id": "DU/2002/1286",
+     "date": "2002-09-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1974/141",
+     "date": "2003-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011354.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011354.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011354L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20011354Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
