@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1965/7",
+ "source_sha256": "ad73e3805576e94a4130b7085d05de322517c4c74ba1e4aa0551b11e410f38ca",
+ "in_force": "1965-01-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1965/7",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1965/7/text/O/D19650007.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1965/7/text/I/D19650007.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1965/7",
+  "publisher": "DU",
+  "year": 1965,
+  "volume": 2,
+  "pos": 7,
+  "address": "WDU19650020007",
+  "displayAddress": "Dz.U. 1965 nr 2 poz. 7",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 1964 r. w sprawie postępowania dyscyplinarnego przeciwko adwokatom i aplikantom adwokackim.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1964-12-22",
+  "entryIntoForce": "1965-01-08",
+  "validFrom": "1965-01-08",
+  "repealDate": "1983-10-21",
+  "changeDate": "2014-12-31T12:25:29",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura",
+   "dyscyplinarne postępowanie",
+   "aplikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1959/134",
+     "date": "1965-01-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1963/309"
+    },
+    {
+     "id": "DU/1928/313"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1963/309"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1983/307",
+     "date": "1983-10-21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19650007.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19650007.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
