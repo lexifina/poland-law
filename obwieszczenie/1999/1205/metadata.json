@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/1205",
+ "source_sha256": "3e9405fd7c4b6d3776cc193e5e5d957f67ba46a370724900a113153fdc42b497",
+ "in_force": "1999-11-10",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/1205",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/1205/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/1205/text/O/D19991205.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/1205/text/I/D19991205.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/1205/text/T/D19991205L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/1205",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 105,
+  "pos": 1205,
+  "address": "WDU19991051205",
+  "displayAddress": "Dz.U. 1999 nr 105 poz. 1205",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 10 listopada 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Inspekcji Handlowej.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-11-10",
+  "repealDate": "2001-04-01",
+  "changeDate": "2024-03-15T11:34:58",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inspekcja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/25",
+     "date": "2001-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/668",
+     "art": "art. 149"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1958/39"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19991205.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19991205.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19991205L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
