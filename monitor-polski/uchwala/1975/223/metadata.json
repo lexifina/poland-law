@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1975/223",
+ "source_sha256": "588a0a952c73253df356be272bfb20cb9abdfe4d8c10dc6322fcc01e1007d4bd",
+ "in_force": "1975-12-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1975/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1975/223/text/O/M19750223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1975/223/text/I/M19750223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1975/223",
+  "publisher": "MP",
+  "year": 1975,
+  "volume": 38,
+  "pos": 223,
+  "address": "WMP19750380223",
+  "displayAddress": "M.P. 1975 nr 38 poz. 223",
+  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 19 grudnia 1975 r. o narodowym planie społeczno-gospodarczego rozwoju w 1976 roku.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1975-12-19",
+  "entryIntoForce": "1975-12-19",
+  "validFrom": "1975-12-19",
+  "repealDate": "1976-12-31",
+  "changeDate": "2014-12-31T12:24:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1975/223",
+     "date": "1976-12-31"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1975/223",
+     "date": "1976-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19750223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19750223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
