@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/467",
+ "source_sha256": "6a22fc5b520373eecc415d70f4120f7c77fe4c35f63d27483222d7100f59131a",
+ "in_force": "2000-07-17",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/467",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/467/text/O/M20000467.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/467/text/I/M20000467.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/467",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 22,
+  "pos": 467,
+  "address": "WMP20000220467",
+  "displayAddress": "M.P. 2000 nr 22 poz. 467",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 17 lipca 2000 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w II kwartale 2000 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-07-17",
+  "changeDate": "2020-10-20T09:38:43",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000467.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000467.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
