@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1970/262",
+ "source_sha256": "5c5bce343943e80f593101ffe909bad6e9a9d1f077f4f5b0148c327c13f2a046",
+ "in_force": "1971-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1970/262",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1970/262/text/O/D19700262.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1970/262/text/I/D19700262.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1970/262",
+  "publisher": "DU",
+  "year": 1970,
+  "volume": 31,
+  "pos": 262,
+  "address": "WDU19700310262",
+  "displayAddress": "Dz.U. 1970 nr 31 poz. 262",
+  "title": "Rozporządzenie Ministra Finansów z dnia 16 grudnia 1970 r. w sprawie zwolnienia od podatków przychodów osiąganych z nowo założonych drobnych zakładów rzemieślniczych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1970-12-16",
+  "entryIntoForce": "1971-01-01",
+  "validFrom": "1971-01-01",
+  "repealDate": "1973-06-15",
+  "changeDate": "2014-12-31T12:24:10",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1973/141",
+     "date": "1973-06-15"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1972/16",
+     "date": "1972-01-26"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1968/1"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1950/450"
+    },
+    {
+     "id": "DU/1950/449"
+    },
+    {
+     "id": "DU/1946/174"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19700262.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19700262.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
