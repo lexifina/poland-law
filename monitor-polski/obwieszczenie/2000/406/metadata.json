@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/406",
+ "source_sha256": "ccb801d3e782327d4c7ae4e8c79aa8ac5587804ededaaefd2e62b6e3ce1984e3",
+ "in_force": "2000-06-14",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/406",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/406/text/O/M20000406.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/406/text/I/M20000406.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/406",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 19,
+  "pos": 406,
+  "address": "WMP20000190406",
+  "displayAddress": "M.P. 2000 nr 19 poz. 406",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2000 r. w sprawie wysokości stawek opłat za badania oraz inne czynności wykonywane przez Inspekcję Weterynaryjną.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-06-14",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "badanie zwierząt rzeźnych",
+   "opłaty"
+  ],
+  "keywordsNames": [
+   "Inspekcja Weterynaryjna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/597"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/597",
+     "art": "par. 3 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000406.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000406.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
