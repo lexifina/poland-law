@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2002/241",
+ "source_sha256": "287e756656c7c9ba1bcce0cf6c003fe8b299c01aa4107d4092d2ac728599888a",
+ "in_force": "2002-03-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 243 words, parsed 136; at 136: 'Rzeczypospolitej Polskiej , orzeka : 1 ) art . 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2002/241",
+  "html": "https://eli.gov.pl/api/acts/DU/2002/241/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2002/241/text/O/D20020241.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2002/241/text/I/D20020241.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2002/241/text/T/D20020241TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2002/241",
+  "publisher": "DU",
+  "year": 2002,
+  "volume": 23,
+  "pos": 241,
+  "address": "WDU20020230241",
+  "displayAddress": "Dz.U. 2002 nr 23 poz. 241",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 marca 2002 r. sygn. akt SK. 22/00.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-03-05",
+  "promulgation": "2002-03-16",
+  "entryIntoForce": "2002-03-16",
+  "validFrom": "2002-03-16",
+  "changeDate": "2024-03-15T10:06:45",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokal",
+   "lokalowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1994/388"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20020241.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20020241.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20020241TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
