@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1971/225",
+ "source_sha256": "c06d207da5b74669e428fe1656eb031272247987ac0f027b171c28fb432b2cdf",
+ "in_force": "1971-06-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1971/225",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1971/225/text/O/M19710225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1971/225/text/I/M19710225.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1971/225",
+  "publisher": "MP",
+  "year": 1971,
+  "volume": 34,
+  "pos": 225,
+  "address": "WMP19710340225",
+  "displayAddress": "M.P. 1971 nr 34 poz. 225",
+  "title": "Zarządzenie Ministra Finansów z dnia 12 czerwca 1971 r. w sprawie zezwolenia na niektóre darowizny i pożyczki wartości dewizowych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1971-06-12",
+  "entryIntoForce": "1971-06-30",
+  "validFrom": "1971-06-30",
+  "repealDate": "1973-08-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1973/184",
+     "date": "1973-08-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1968/393",
+     "date": "1971-06-30"
+    },
+    {
+     "id": "MP/1965/216",
+     "date": "1971-06-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 10 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19710225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19710225.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
