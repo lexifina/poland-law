@@ -1,0 +1,115 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2000/1317",
+ "source_sha256": "bba0d9e5c1c0efd3223466eaf8c04f96a44cc68951e381dba935efc85e19fa57",
+ "in_force": "2000-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2000/1317",
+  "html": "https://eli.gov.pl/api/acts/DU/2000/1317/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2000/1317/text/O/D20001317.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2000/1317/text/I/D20001317.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2000/1317/text/T/D20001317L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2000/1317/text/U/D20001317Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2000/1317",
+  "publisher": "DU",
+  "year": 2000,
+  "volume": 122,
+  "pos": 1317,
+  "address": "WDU20001221317",
+  "displayAddress": "Dz.U. 2000 nr 122 poz. 1317",
+  "title": "Ustawa z dnia 15 grudnia 2000 r. o zmianie ustawy o najmie lokali mieszkalnych i dodatkach mieszkaniowych.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2000-12-15",
+  "promulgation": "2000-12-31",
+  "entryIntoForce": "2000-12-31",
+  "validFrom": "2000-12-31",
+  "repealDate": "2001-07-10",
+  "changeDate": "2024-03-15T09:50:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "najem",
+   "lokal",
+   "dodatki mieszkaniowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/2219.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/2219",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/2219",
+    "number": "2219",
+    "term": 3
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/733",
+     "date": "2001-07-10"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2001/386",
+     "date": "2001-04-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/509",
+     "date": "2000-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1990/506"
+    },
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2001/386"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20001317.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20001317.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20001317L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20001317Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
