@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/912",
+ "source_sha256": "7d0a85f9bc7e6daca90d81372424f6bf738971ee63fb6360976de1aa588f6f45",
+ "in_force": "2000-04-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/912",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/912/text/O/D19990912.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/912/text/I/D19990912.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/912/text/T/D19990912L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/912",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 80,
+  "pos": 912,
+  "address": "WDU19990800912",
+  "displayAddress": "Dz.U. 1999 nr 80 poz. 912",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 17 września 1999 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach i instalacjach energetycznych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-09-17",
+  "promulgation": "1999-10-08",
+  "entryIntoForce": "2000-04-09",
+  "validFrom": "2000-04-09",
+  "repealDate": "2013-10-24",
+  "changeDate": "2026-10-14T13:58:21",
+  "releasedBy": [
+   "MIN. GOSPODARKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo pracy",
+   "energetyka",
+   "urządzenia energetyczne",
+   "bhp",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2013/492",
+     "date": "2013-10-24"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1974/72",
+     "date": "2000-04-09"
+    },
+    {
+     "id": "DU/1970/125",
+     "date": "2000-04-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1974/141"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1974/141",
+     "art": "art. 237(15) par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990912.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990912.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990912L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
