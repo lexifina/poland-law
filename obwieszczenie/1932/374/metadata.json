@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/374",
+ "source_sha256": "e96343e9fc44de2a179445a983da2fce55e69d8df9e19aa602e75c3c31029465",
+ "in_force": "1932-04-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/374",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/374/text/O/D19320374.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/374/text/I/D19320374.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/374",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 36,
+  "pos": 374,
+  "address": "WDU19320360374",
+  "displayAddress": "Dz.U. 1932 nr 36 poz. 374",
+  "title": "Obwieszczenie Ministra Poczt i Telegrafów z dnia 31 marca 1932 r. o sprostowaniu błędu w ordynacji pocztowej ogłoszonej w załączniku do rozporządzenia z dnia 21 marca 1931 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-03-31",
+  "promulgation": "1932-04-28",
+  "changeDate": "2020-11-03T15:55:22",
+  "releasedBy": [
+   "MIN. POCZT I TELEGRAFÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1928/18",
+     "art": "art. 6 pkt b)"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1931/392"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320374.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320374.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
