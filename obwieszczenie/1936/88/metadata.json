@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/88",
+ "source_sha256": "9d5838074d12d84ac0991b9276803a1f4c6b2ee87f4f0d3dea0f2862d6978318",
+ "in_force": "1936-02-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/88",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/88/text/O/D19360088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/88/text/I/D19360088.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/88",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 8,
+  "pos": 88,
+  "address": "WDU19360080088",
+  "displayAddress": "Dz.U. 1936 nr 8 poz. 88",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 10 stycznia 1936 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 18 marca 1935 r. o pobieraniu odsetek od zaległości w podatkach państwowych i innych daninach publicznych.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-01-10",
+  "promulgation": "1936-02-04",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "odsetki ustawowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1935/519"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1935/519",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1935/129"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360088.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
