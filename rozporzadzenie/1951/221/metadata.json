@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1951/221",
+ "source_sha256": "dfeb8fba90e0787465e4e56d96f77360e761a6348f847b32d11f3f688369d371",
+ "in_force": "1951-05-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1951/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1951/221/text/O/D19510221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1951/221/text/I/D19510221.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1951/221",
+  "publisher": "DU",
+  "year": 1951,
+  "volume": 28,
+  "pos": 221,
+  "address": "WDU19510280221",
+  "displayAddress": "Dz.U. 1951 nr 28 poz. 221",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 14 maja 1951 r. w sprawie zaliczenia niektórych substancji do środków odurzających.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-05-14",
+  "entryIntoForce": "1951-05-29",
+  "validFrom": "1951-05-29",
+  "repealDate": "1985-11-21",
+  "changeDate": "2014-12-31T12:25:27",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1985/275",
+     "date": "1985-11-21"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1976/24",
+     "date": "1976-02-13"
+    },
+    {
+     "id": "DU/1970/89",
+     "date": "1970-04-30"
+    },
+    {
+     "id": "DU/1961/91",
+     "date": "1961-03-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1951/4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19510221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19510221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
