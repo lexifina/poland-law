@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1999/193",
+ "source_sha256": "4a7bb5977cfe551cc904ffa7bfd4de2a6ba5a7bdbdbc2e118b693ea33ed16094",
+ "in_force": "1999-04-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1999/193",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1999/193/text/O/M19990193.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1999/193/text/I/M19990193.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/1999/193/text/T/M19990193L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1999/193",
+  "publisher": "MP",
+  "year": 1999,
+  "volume": 14,
+  "pos": 193,
+  "address": "WMP19990140193",
+  "displayAddress": "M.P. 1999 nr 14 poz. 193",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 kwietnia 1999 r. sygn. akt K 8/99.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1999-04-14",
+  "entryIntoForce": "1999-04-20",
+  "validFrom": "1999-04-20",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "orzeczenie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/321"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19990193.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19990193.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M19990193L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
