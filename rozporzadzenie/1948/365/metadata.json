@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1948/365",
+ "source_sha256": "e519d1167e45de324b8006dd8189b6ee1eeb9313550925e687abdfa95c576068",
+ "in_force": "1948-10-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1948/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1948/365/text/O/D19480365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1948/365/text/I/D19480365.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1948/365",
+  "publisher": "DU",
+  "year": 1948,
+  "volume": 48,
+  "pos": 365,
+  "address": "WDU19480480365",
+  "displayAddress": "Dz.U. 1948 nr 48 poz. 365",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 6 października 1948 r. o taksie za czynności komorników.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1948-10-06",
+  "entryIntoForce": "1948-10-18",
+  "validFrom": "1948-10-18",
+  "repealDate": "1958-07-03",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1958/186",
+     "date": "1958-07-03"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1947/114",
+     "date": "1948-10-18"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1955/293",
+     "date": "1955-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/804"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19480365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19480365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
