@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/9",
+ "source_sha256": "6a2ae0765d4b36434fc1ac1dd37962e2f27a8a29b53911ee9cce191399161e75",
+ "in_force": "1946-01-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/9",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/9/text/O/D19460009.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/9/text/I/D19460009.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/9",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 2,
+  "pos": 9,
+  "address": "WDU19460020009",
+  "displayAddress": "Dz.U. 1946 nr 2 poz. 9",
+  "title": "Dekret z dnia 23 listopada 1945 r. o organizacji szkolnictwa w okresie przejściowym.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-11-23",
+  "entryIntoForce": "1946-01-29",
+  "validFrom": "1946-01-29",
+  "repealDate": "1961-07-21",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OŚWIATY"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/160",
+     "date": "1961-07-21"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1952/787"
+    },
+    {
+     "id": "DU/1947/431"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/389",
+     "date": "1946-01-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1932/389"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460009.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460009.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
