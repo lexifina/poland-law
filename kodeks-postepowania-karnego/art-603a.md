@@ -10,4 +10,4 @@
 
 § 5. Sąd niezwłocznie przekazuje prawomocne postanowienie wraz z aktami sprawy Ministrowi Sprawiedliwości, który rozstrzyga o wydaniu osoby.
 
-§ 6. Jeżeli oświadczenie, o którym mowa w § 3, nie zostało złożone lub sąd stwierdził, że zachodzi okoliczność określona w art. 604 § 1, albo jeżeli posiedzenie zostało odroczone na czas przekraczający 7 dni, stosuje się przepisy art. 602, 603 i 605.
+§ 6. Jeżeli oświadczenie, o którym mowa w § 3, nie zostało złożone lub sąd stwierdził, że zachodzi okoliczność określona w art. 604 § 1, albo jeżeli posiedzenie zostało odroczone na czas przekraczający 7 dni, stosuje się przepisy art. 602 § 2, art. 603 i 605.
