@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1932/304",
+ "source_sha256": "047bbad95f5f405a6aa9404925bf4ea894837eeef47d2e7c9a900d486859b58c",
+ "in_force": "1932-11-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1932/304",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1932/304/text/O/M19320304.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1932/304/text/I/M19320304.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1932/304",
+  "publisher": "MP",
+  "year": 1932,
+  "volume": 265,
+  "pos": 304,
+  "address": "WMP19322650304",
+  "displayAddress": "M.P. 1932 nr 265 poz. 304",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 9 listopada 1932 r. Nr 2518/32.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-09",
+  "promulgation": "1932-11-18",
+  "changeDate": "2026-10-30T10:49:19",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 99"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19320304.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19320304.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
