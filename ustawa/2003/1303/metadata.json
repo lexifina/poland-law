@@ -1,0 +1,128 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/1303",
+ "source_sha256": "4e43c276db0531eb8776b677740b29fcf1536b14755dd1dcf97b4dfa8ab0b639",
+ "in_force": "2003-09-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/1303",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/1303/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/1303/text/O/D20031303.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/1303/text/I/D20031303.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/1303/text/T/D20031303L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2003/1303/text/U/D20031303Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/1303",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 137,
+  "pos": 1303,
+  "address": "WDU20031371303",
+  "displayAddress": "Dz.U. 2003 nr 137 poz. 1303",
+  "title": "Ustawa z dnia 27 czerwca 2003 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz ustawy o Narodowym Banku Polskim",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-06-27",
+  "promulgation": "2003-08-06",
+  "entryIntoForce": "2003-09-06",
+  "validFrom": "2003-09-06",
+  "changeDate": "2024-03-15T09:52:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość",
+   "banki",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [
+   "Narodowy Bank Polski"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/784.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/784",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/784",
+    "number": "784",
+    "term": 4
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/988.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/988",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/988",
+    "number": "988",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2002/76",
+     "date": "2003-09-06"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/870",
+     "date": "2004-05-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/1252",
+     "date": "2003-09-06"
+    },
+    {
+     "id": "DU/1997/938",
+     "date": "2003-08-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/939"
+    },
+    {
+     "id": "DU/1994/369"
+    },
+    {
+     "id": "DU/1990/19"
+    },
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20031303.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20031303.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20031303L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20031303Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
