@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/222",
+ "source_sha256": "f2fd0c4cf80e20a65ea7ba6f4fd22ec0ca5b3f76fce4e9337dc4050a77eca378",
+ "in_force": "2002-04-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/222/text/O/M20020222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/222/text/I/M20020222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/222",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 13,
+  "pos": 222,
+  "address": "WMP20020130222",
+  "displayAddress": "M.P. 2002 nr 13 poz. 222",
+  "title": "Zarządzenie Nr 44 Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie nadania statutu Ministerstwu Kultury.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2002-03-29",
+  "promulgation": "2002-04-05",
+  "entryIntoForce": "2002-04-05",
+  "validFrom": "2002-04-05",
+  "repealDate": "2003-09-05",
+  "changeDate": "2014-12-31T12:26:36",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Kultury"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2003/630",
+     "date": "2003-09-05"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2001/1454",
+     "date": "2002-04-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
