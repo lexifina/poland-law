@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1991/498",
+ "source_sha256": "970d3bebeeb8c955ed24a12748d15971793f77b0f777f886919bbaf83de1e02b",
+ "in_force": "1991-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1991/498",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1991/498/text/O/D19910498.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1991/498/text/I/D19910498.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1991/498",
+  "publisher": "DU",
+  "year": 1991,
+  "volume": 115,
+  "pos": 498,
+  "address": "WDU19911150498",
+  "displayAddress": "Dz.U. 1991 nr 115 poz. 498",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 5 grudnia 1991 r. w sprawie określenia urzędu prowadzącego rejestr skazanych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-12-05",
+  "promulgation": "1991-12-14",
+  "entryIntoForce": "1991-12-15",
+  "validFrom": "1991-12-15",
+  "repealDate": "1993-09-08",
+  "changeDate": "2014-12-31T12:25:39",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "karne postępowanie",
+   "rejestr skazanych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1993/388",
+     "date": "1993-09-08"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1988/62",
+     "date": "1991-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/137"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/137",
+     "art": "art. 27 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19910498.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19910498.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
