@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/411",
+ "source_sha256": "139e2a0bfa75a54912e607e391c58f68108284ab3b75b6da66f5fe7d5571f6d5",
+ "in_force": "2005-03-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/411",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/411/text/O/D20050411.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/411/text/I/D20050411.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/411",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 42,
+  "pos": 411,
+  "address": "WDU20050420411",
+  "displayAddress": "Dz.U. 2005 nr 42 poz. 411",
+  "title": "Rozporządzenie Ministra Środowiska z dnia 28 lutego 2005 r. zmieniające rozporządzenie w sprawie stwierdzania kwalifikacji w zakresie gospodarowania odpadami",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-02-28",
+  "promulgation": "2005-03-16",
+  "entryIntoForce": "2005-03-31",
+  "validFrom": "2005-03-31",
+  "repealDate": "2008-01-01",
+  "changeDate": "2014-12-31T12:26:04",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kwalifikacje",
+   "odpady"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/1841",
+     "date": "2008-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1584",
+     "date": "2005-03-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/628"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/628",
+     "art": "art. 49 ust. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050411.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050411.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
