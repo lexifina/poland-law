@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1968/35",
+ "source_sha256": "850e45c6a02a85b7bb4cf347d39687c7f6aa06bfb6986129bfef157f1eb855aa",
+ "in_force": "1968-02-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1968/35",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1968/35/text/O/M19680035.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1968/35/text/I/M19680035.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1968/35",
+  "publisher": "MP",
+  "year": 1968,
+  "volume": 6,
+  "pos": 35,
+  "address": "WMP19680060035",
+  "displayAddress": "M.P. 1968 nr 6 poz. 35",
+  "title": "Zarządzenie nr 20 Prezesa Rady Ministrów z dnia 8 lutego 1968 r. zmieniające zarządzenie w sprawie przenoszenia kredytów między paragrafami budżetu centralnego.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-02-08",
+  "entryIntoForce": "1968-02-14",
+  "validFrom": "1968-02-14",
+  "repealDate": "1971-01-28",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1971/31",
+     "date": "1971-01-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1966/205",
+     "date": "1968-02-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1966/350"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/221",
+     "art": "art. 34 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19680035.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19680035.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
