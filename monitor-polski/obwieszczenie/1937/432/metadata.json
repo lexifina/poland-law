@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1937/432",
+ "source_sha256": "7295b3d0e8bd52d4312a8c125ebf75095bb8522dfd62b80df06a7f6935e7d0fd",
+ "in_force": "1937-12-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1937/432",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1937/432/text/O/M19370432.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1937/432/text/I/M19370432.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1937/432",
+  "publisher": "MP",
+  "year": 1937,
+  "volume": 279,
+  "pos": 432,
+  "address": "WMP19372790432",
+  "displayAddress": "M.P. 1937 nr 279 poz. 432",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 20 listopada 1937 r. ustalające dalszą listę agentów dewizowych, uprawnionych do handlu zagranicznymi środkami płatniczymi.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1937-11-20",
+  "promulgation": "1937-12-03",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1936/419"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/249"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/249",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19370432.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19370432.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
