@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/351",
+ "source_sha256": "b52e7c83b64acaa03fcb5d5580f7481b9cefab4411ea179a0dbd47ed7daa44d1",
+ "in_force": "1962-10-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/351",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/351/text/O/M19620351.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/351/text/I/M19620351.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/351",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 75,
+  "pos": 351,
+  "address": "WMP19620750351",
+  "displayAddress": "M.P. 1962 nr 75 poz. 351",
+  "title": "Zarządzenie Ministra Handlu Zagranicznego z dnia 12 września 1962 r. zmieniające zarządzenie w sprawie zaliczenia urzędów celnych do klas.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-09-12",
+  "entryIntoForce": "1962-10-19",
+  "validFrom": "1962-09-01",
+  "repealDate": "1965-06-24",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. HANDLU ZAGRANICZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1965/167",
+     "date": "1965-06-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1958/519",
+     "date": "1962-09-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1958/294"
+    },
+    {
+     "id": "DU/1949/39"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1958/294",
+     "art": "par. 11"
+    },
+    {
+     "id": "DU/1949/39",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620351.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620351.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
