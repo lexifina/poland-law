@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1991/307",
+ "source_sha256": "5fd35863233f66e6591863b5cf561b5a6bfeff2d2969073bca9f9d4694a1c944",
+ "in_force": "1991-12-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1991/307",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1991/307/text/O/M19910307.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1991/307/text/I/M19910307.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1991/307",
+  "publisher": "MP",
+  "year": 1991,
+  "volume": 43,
+  "pos": 307,
+  "address": "WMP19910430307",
+  "displayAddress": "M.P. 1991 nr 43 poz. 307",
+  "title": "Zarządzenie Ministra Współpracy Gospodarczej z Zagranicą z dnia 18 listopada 1991 r. w sprawie określenia sposobu odgraniczenia wolnych obszarów celnych od pozostałego polskiego obszaru celnego.",
+  "type": "Zarządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1991-11-18",
+  "entryIntoForce": "1991-12-23",
+  "validFrom": "1991-12-23",
+  "repealDate": "1998-01-01",
+  "changeDate": "2014-12-31T12:26:32",
+  "releasedBy": [
+   "MIN. WSPÓŁPRACY GOSPODARCZEJ Z ZAGRANICĄ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "administracja celna",
+   "kontrola celna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/320"
+    },
+    {
+     "id": "DU/1989/445"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1989/445",
+     "art": "art. 32 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1997/117",
+     "date": "1998-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19910307.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19910307.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
