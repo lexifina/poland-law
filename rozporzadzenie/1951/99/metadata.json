@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1951/99",
+ "source_sha256": "06a5ce78a3fcfee276e28d93d1139f1f2d466c63d2834961de88e239f88d467e",
+ "in_force": "1951-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1951/99",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1951/99/text/O/D19510099.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1951/99/text/I/D19510099.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1951/99",
+  "publisher": "DU",
+  "year": 1951,
+  "volume": 12,
+  "pos": 99,
+  "address": "WDU19510120099",
+  "displayAddress": "Dz.U. 1951 nr 12 poz. 99",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 19 lutego 1951 r. w sprawie zmiany rozporządzenia o opłatach w postępowaniu przed sądem rejestrowym.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-02-19",
+  "entryIntoForce": "1951-03-01",
+  "validFrom": "1951-01-01",
+  "repealDate": "1982-09-29",
+  "changeDate": "2014-12-31T12:24:08",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1982/198",
+     "date": "1982-09-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1946/245",
+     "date": "1951-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1934/503"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19510099.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19510099.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
