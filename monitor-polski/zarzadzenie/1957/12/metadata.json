@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1957/12",
+ "source_sha256": "1d745554d80db44c3910eb7058f632599c6eb1203cb9d2d1ebe54cd3f54388c0",
+ "in_force": "1957-01-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1957/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1957/12/text/O/M19570012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1957/12/text/I/M19570012.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1957/12",
+  "publisher": "MP",
+  "year": 1957,
+  "volume": 2,
+  "pos": 12,
+  "address": "WMP19570020012",
+  "displayAddress": "M.P. 1957 nr 2 poz. 12",
+  "title": "Zarządzenie Ministra Energetyki z dnia 7 stycznia 1957 r. w sprawie rozszerzenia uprawnień przedsiębiorstw przemysłowych resortu energetyki.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1957-01-07",
+  "entryIntoForce": "1957-01-15",
+  "validFrom": "1957-01-01",
+  "repealDate": "1957-08-15",
+  "changeDate": "2018-05-16T14:52:04",
+  "releasedBy": [
+   "MIN. ENERGETYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1957/426",
+     "date": "1957-08-15"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/1954/433",
+     "date": "1957-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1957/85",
+     "date": "1957-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1956/1047"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1956/1047",
+     "art": "par. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19570012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19570012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
