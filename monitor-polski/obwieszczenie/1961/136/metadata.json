@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1961/136",
+ "source_sha256": "fdf2082db09e5af1940518964d025f070e2143add0de5754ab75a70878a49211",
+ "in_force": "1961-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1961/136",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1961/136/text/O/M19610136.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1961/136/text/I/M19610136.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1961/136",
+  "publisher": "MP",
+  "year": 1961,
+  "volume": 28,
+  "pos": 136,
+  "address": "WMP19610280136",
+  "displayAddress": "M.P. 1961 nr 28 poz. 136",
+  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 1 kwietnia 1961 r. w sprawie kursów dewiz i pieniędzy zagranicznych.",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1961-04-01",
+  "entryIntoForce": "1961-04-01",
+  "validFrom": "1964-04-01",
+  "repealDate": "1961-05-01",
+  "changeDate": "2014-12-31T12:26:26",
+  "releasedBy": [
+   "PREZ. NARODOWEGO BANKU POLSKIEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "waluta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1961/160",
+     "date": "1961-05-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1961/92",
+     "date": "1961-04-01"
+    },
+    {
+     "id": "MP/1961/110",
+     "date": "1961-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1952/133"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1952/133",
+     "art": "art. 12 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19610136.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19610136.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
