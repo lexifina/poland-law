@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/923",
+ "source_sha256": "db676229363dc00da6774606c854744aec3098022b5c009a748b3fe0f9c9bed6",
+ "in_force": "1932-11-08",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/923",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/923/text/O/D19320923.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/923/text/I/D19320923.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/923",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 111,
+  "pos": 923,
+  "address": "WDU19321110923",
+  "displayAddress": "Dz.U. 1932 nr 111 poz. 923",
+  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 8 listopada 1932 r. o ustaleniu siedzib i właściwości terytorjalnej powiatowych urzędów ziemskich.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-11-08",
+  "changeDate": "2023-03-03T15:48:20",
+  "releasedBy": [
+   "MIN. ROLNICTWA I REFORM ROLNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/1933/496",
+     "date": "1933-09-01"
+    },
+    {
+     "id": "DU/1933/329",
+     "date": "1933-07-01"
+    },
+    {
+     "id": "DU/1933/124",
+     "date": "1933-04-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1923/706"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320923.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320923.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
