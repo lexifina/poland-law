@@ -1,0 +1,65 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/903",
+ "source_sha256": "55511f3911eb7921c9d89ce87a360b614dfd90e0acdee1f4a99d48bd71204c06",
+ "in_force": "1932-12-03",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/903",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/903/text/O/D19320903.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/903/text/I/D19320903.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/903",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 109,
+  "pos": 903,
+  "address": "WDU19321090903",
+  "displayAddress": "Dz.U. 1932 nr 109 poz. 903",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 3 grudnia 1932 r. w sprawie umundurowania i uzbrojenia Straży Więziennej.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-03",
+  "repealDate": "1935-12-12",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1935/577",
+     "date": "1935-12-12"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/667"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320903.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320903.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
