@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1932/886",
+ "source_sha256": "5bf564b62593ba8794e3653087696fabf6f2f0f2f0b5cded4a806bc8ae17f1e8",
+ "in_force": "1932-12-01",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1932/886",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1932/886/text/O/D19320886.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1932/886/text/I/D19320886.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1932/886",
+  "publisher": "DU",
+  "year": 1932,
+  "volume": 107,
+  "pos": 886,
+  "address": "WDU19321070886",
+  "displayAddress": "Dz.U. 1932 nr 107 poz. 886",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 1 grudnia 1932 r. o komornikach.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1932-12-01",
+  "repealDate": "1961-03-07",
+  "changeDate": "2014-12-31T12:24:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1961/66",
+     "date": "1961-03-07"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1939/77",
+     "date": "1939-02-20"
+    },
+    {
+     "id": "DU/1936/93",
+     "date": "1936-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1928/93"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19320886.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19320886.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
