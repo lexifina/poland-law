@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1962/314",
+ "source_sha256": "5fd2888e2cd5caf8ed9357d0b892715a96dcf8e35cfa30f319835b42a8993a1f",
+ "in_force": "1962-09-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1962/314",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1962/314/text/O/M19620314.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1962/314/text/I/M19620314.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1962/314",
+  "publisher": "MP",
+  "year": 1962,
+  "volume": 68,
+  "pos": 314,
+  "address": "WMP19620680314",
+  "displayAddress": "M.P. 1962 nr 68 poz. 314",
+  "title": "Zarządzenie Ministra Spraw Wewnętrznych z dnia 22 sierpnia 1962 r. w sprawie kontroli ruchu na drogach publicznych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1962-08-22",
+  "entryIntoForce": "1962-09-07",
+  "validFrom": "1962-09-07",
+  "repealDate": "1972-08-26",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1972/224",
+     "date": "1972-08-26"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1955/308",
+     "date": "1962-09-07"
+    },
+    {
+     "id": "MP/1952/121",
+     "date": "1962-09-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1961/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1961/295",
+     "art": "art. 23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19620314.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19620314.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
