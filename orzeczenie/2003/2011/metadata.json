@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/2011",
+ "source_sha256": "c5cf88b2e5db4a636cd18d8c06c5162361c8613434275ed17d9d2e3bb9a66ba1",
+ "in_force": "2003-12-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 313 words, parsed 120; at 120: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 8'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/2011",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/2011/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/2011/text/O/D20032011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/2011/text/I/D20032011.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/2011/text/T/D20032011TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/2011",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 206,
+  "pos": 2011,
+  "address": "WDU20032062011",
+  "displayAddress": "Dz.U. 2003 nr 206 poz. 2011",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 listopada 2003 r. sygn. akt P 6/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-11-18",
+  "promulgation": "2003-12-04",
+  "entryIntoForce": "2003-12-04",
+  "validFrom": "2003-12-04",
+  "changeDate": "2024-03-15T09:52:58",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa",
+   "porządkowanie prawa",
+   "sądy powszechne",
+   "sądy wojskowe"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/149"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20032011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20032011.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20032011TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
