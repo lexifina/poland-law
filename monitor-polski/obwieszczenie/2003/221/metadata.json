@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/221",
+ "source_sha256": "61815e30b9e7605f1b4d8ae37a06a9b09266f3b00ea4b5367b4e12d83e14982c",
+ "in_force": "2003-03-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/221/text/O/M20030221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/221/text/I/M20030221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/221",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 15,
+  "pos": 221,
+  "address": "WMP20030150221",
+  "displayAddress": "M.P. 2003 nr 15 poz. 221",
+  "title": "Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 12 marca 2003 r. w sprawie wielkości średniej dziennej wewnętrznej konsumpcji paliw ciekłych w 2002 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-03-12",
+  "promulgation": "2003-03-21",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa i smary"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/404"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/404",
+     "art": "art. 15 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
