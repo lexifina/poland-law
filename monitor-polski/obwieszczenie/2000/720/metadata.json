@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2000/720",
+ "source_sha256": "65ec24b47ee586053e9ce1e3a8576c817ddcbac05b0dea83c4ad80b8feaa390c",
+ "in_force": "2000-10-25",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2000/720",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2000/720/text/O/M20000720.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2000/720/text/I/M20000720.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2000/720",
+  "publisher": "MP",
+  "year": 2000,
+  "volume": 35,
+  "pos": 720,
+  "address": "WMP20000350720",
+  "displayAddress": "M.P. 2000 nr 35 poz. 720",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 25 października 2000 r. w sprawie wysokości przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego w 1999 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2000-10-25",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarstwa rolne",
+   "podatek rolny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/268"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/268",
+     "art": "art. 18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20000720.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20000720.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
