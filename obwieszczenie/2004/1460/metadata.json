@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2004/1460",
+ "source_sha256": "2fe7b854861691b2e1992e5ee3192d047cab6a429e6b5b8005757ae08e95f695",
+ "in_force": "2004-06-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 27381 words, parsed 59; at 59: '13 czerwca 2004 r . A . ZBIORCZE WYNIKI GŁOSOWANIA'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2004/1460",
+  "html": "https://eli.gov.pl/api/acts/DU/2004/1460/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2004/1460/text/O/D20041460.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2004/1460/text/I/D20041460.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2004/1460",
+  "publisher": "DU",
+  "year": 2004,
+  "volume": 137,
+  "pos": 1460,
+  "address": "WDU20041371460",
+  "displayAddress": "Dz.U. 2004 nr 137 poz. 1460",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 15 czerwca 2004 r. o wynikach wyborów posłów do Parlamentu Europejskiego przeprowadzonych w dniu 13 czerwca 2004 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2004-06-15",
+  "promulgation": "2004-06-16",
+  "changeDate": "2025-03-21T10:37:44",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Państwowa Komisja Wyborcza"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/219"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/219",
+     "art": "art. 132"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20041460.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20041460.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
