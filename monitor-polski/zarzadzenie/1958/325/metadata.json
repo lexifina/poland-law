@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1958/325",
+ "source_sha256": "11b17b12c24ed42340f02403f3e5dff7986018c6c380261fbc6fd5f0b5f42895",
+ "in_force": "1958-08-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1958/325",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1958/325/text/O/M19580325.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1958/325/text/I/M19580325.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1958/325",
+  "publisher": "MP",
+  "year": 1958,
+  "volume": 56,
+  "pos": 325,
+  "address": "WMP19580560325",
+  "displayAddress": "M.P. 1958 nr 56 poz. 325",
+  "title": "Zarządzenie Ministra Komunikacji z dnia 5 lipca 1958 r. o zmianie zarządzenia z dnia 19 czerwca 1956 r. w sprawie wymiarów i wyglądu tablic rejestracyjnych oraz tablic ze znakami próbnymi dla pojazdów mechanicznych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1958-07-05",
+  "entryIntoForce": "1958-08-03",
+  "validFrom": "1958-08-03",
+  "repealDate": "1964-07-01",
+  "changeDate": "2014-12-31T12:24:34",
+  "releasedBy": [
+   "MIN. KOMUNIKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1964/189",
+     "date": "1964-07-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1956/858",
+     "date": "1958-08-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1937/616"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1937/616",
+     "art": "par. 32 ust. 2"
+    },
+    {
+     "id": "DU/1937/616",
+     "art": "par. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19580325.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19580325.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
