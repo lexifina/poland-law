@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/861",
+ "source_sha256": "8b7502051494d30c7d07ca7cbaa4c43b96b1bef434ba4df0903dce5664328846",
+ "in_force": "1998-11-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1643 words, parsed 123; at 123: 'Wyniki wyborów na obszarze kraju I . Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/861",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/861/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/861/text/O/D19980861.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/861/text/I/D19980861.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/861",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 131,
+  "pos": 861,
+  "address": "WDU19981310861",
+  "displayAddress": "Dz.U. 1998 nr 131 poz. 861",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 października 1998 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1998-10-23",
+  "entryIntoForce": "1998-11-11",
+  "validFrom": "1998-11-11",
+  "changeDate": "2024-03-15T11:30:10",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja wyborcza",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Państwowa Komisja Wyborcza"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1994/195"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/602",
+     "art": "art. 184 ust. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19980861.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19980861.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
