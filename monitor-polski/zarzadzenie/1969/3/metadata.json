@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1969/3",
+ "source_sha256": "98697b920a3bfbc15a296f06e52ec3d0cc05f61fa35636006b4248fd588d11dd",
+ "in_force": "1969-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1969/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1969/3/text/O/M19690003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1969/3/text/I/M19690003.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1969/3",
+  "publisher": "MP",
+  "year": 1969,
+  "volume": 1,
+  "pos": 3,
+  "address": "WMP19690010003",
+  "displayAddress": "M.P. 1969 nr 1 poz. 3",
+  "title": "Zarządzenie Ministra Finansów z dnia 31 grudnia 1968 r. w sprawie podatku obrotowego od nadmiernych ubytków produktów.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1968-12-31",
+  "entryIntoForce": "1969-01-14",
+  "validFrom": "1969-01-01",
+  "repealDate": "1982-07-01",
+  "changeDate": "2014-12-31T12:24:35",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1982/173",
+     "date": "1982-07-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1972/20",
+     "date": "1972-01-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1969/2"
+    },
+    {
+     "id": "MP/1968/244"
+    },
+    {
+     "id": "DU/1959/169"
+    },
+    {
+     "id": "DU/1948/462"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1968/244"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1968/244",
+     "art": "par. 10"
+    },
+    {
+     "id": "MP/1968/244",
+     "art": "par. 24 ust. 2 pkt 4, 6 i 7"
+    },
+    {
+     "id": "MP/1968/244",
+     "art": "par. 5 ust. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19690003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19690003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
