@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1936/164",
+ "source_sha256": "bd5c843dd48dec07e6968ef4acf806464209240f9d068045d6eda087aa1bdb98",
+ "in_force": "1936-03-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1936/164",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1936/164/text/O/D19360164.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1936/164/text/I/D19360164.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1936/164",
+  "publisher": "DU",
+  "year": 1936,
+  "volume": 19,
+  "pos": 164,
+  "address": "WDU19360190164",
+  "displayAddress": "Dz.U. 1936 nr 19 poz. 164",
+  "title": "Rozporządzenie Ministra Skarbu z dnia 3 marca 1936 r. o zmianie taryfy na wyroby tytoniowe.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-03-03",
+  "promulgation": "1936-03-14",
+  "entryIntoForce": "1936-03-14",
+  "validFrom": "1936-03-14",
+  "repealDate": "1939-08-26",
+  "changeDate": "2014-12-31T12:25:23",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1939/518",
+     "date": "1939-08-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1932/978",
+     "date": "1936-03-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1932/240"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1932/240",
+     "art": "art. 17"
+    },
+    {
+     "id": "DU/1932/240",
+     "art": "art. 8"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19360164.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19360164.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
