@@ -1,0 +1,55 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/360",
+ "source_sha256": "45897149bc1a6197725b7e5591d08a0fc84b10714b8e1e593c15b9dcd523d033",
+ "in_force": "2003-05-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/360",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/360/text/O/M20030360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/360/text/I/M20030360.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/360",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 25,
+  "pos": 360,
+  "address": "WMP20030250360",
+  "displayAddress": "M.P. 2003 nr 25 poz. 360",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 grudnia 2002 r. o nadaniu orderów i odznaczeń",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-12-17",
+  "promulgation": "2003-05-20",
+  "changeDate": "2017-03-21T12:34:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030360.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
