@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/319",
+ "source_sha256": "6b1b03ee7d5295a08e0c20dcc1359bb966eeb5bb131152012c8a23924c0004cf",
+ "in_force": "2001-04-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 109 words, parsed 65; at 65: '483 ) następujące błędy : 1 ) w art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/319",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/319/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/319/text/O/D20010319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/319/text/I/D20010319.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/319",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 28,
+  "pos": 319,
+  "address": "WDU20010280319",
+  "displayAddress": "Dz.U. 2001 nr 28 poz. 319",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 26 marca 2001 r. o sprostowaniu błędów.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-03-26",
+  "promulgation": "2001-04-04",
+  "changeDate": "2024-03-15T09:59:54",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "ustrój państwa",
+   "konstytucja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1997/483"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20010319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20010319.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
