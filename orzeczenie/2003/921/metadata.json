@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2003/921",
+ "source_sha256": "11b4e76662da718d86186e6deb1396e762392ffd98530d03aff194d387964c16",
+ "in_force": "2003-06-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 517 words, parsed 91; at 91: 'maja 2003 r . : 1 ) wniosku grupy posłów'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2003/921",
+  "html": "https://eli.gov.pl/api/acts/DU/2003/921/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2003/921/text/O/D20030921.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2003/921/text/I/D20030921.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2003/921/text/T/D20030921L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2003/921",
+  "publisher": "DU",
+  "year": 2003,
+  "volume": 99,
+  "pos": 921,
+  "address": "WDU20030990921",
+  "displayAddress": "Dz.U. 2003 nr 99 poz. 921",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 28 maja 2003 r. sygn. akt K 44/02",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-05-28",
+  "promulgation": "2003-06-04",
+  "entryIntoForce": "2003-06-04",
+  "validFrom": "2003-06-04",
+  "changeDate": "2024-03-15T09:51:55",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "lustracja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/1434",
+     "date": "2003-06-04"
+    },
+    {
+     "id": "DU/1997/443",
+     "date": "2003-06-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2002/1434"
+    },
+    {
+     "id": "DU/1997/443"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20030921.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20030921.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20030921L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
