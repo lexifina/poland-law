@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/128",
+ "source_sha256": "ee6e4766c0a5a533ce33428ad9fd891e704bde80e695b5729b1ee66978e71909",
+ "in_force": "1930-04-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/128",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/128/text/O/M19300128.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/128/text/I/M19300128.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/128",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 85,
+  "pos": 128,
+  "address": "WMP19300850128",
+  "displayAddress": "M.P. 1930 nr 85 poz. 128",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 7 kwietnia 1930 r.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-04-07",
+  "promulgation": "1930-04-11",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300128.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300128.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
