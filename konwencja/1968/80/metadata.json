@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1968/80",
+ "source_sha256": "666cca6b813e96f18c6797c1fb71367518ef3715f09671ee54e73bf82d391d48",
+ "in_force": "1966-09-28",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1968/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1968/80/text/O/D19680080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1968/80/text/I/D19680080.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1968/80",
+  "publisher": "DU",
+  "year": 1968,
+  "volume": 14,
+  "pos": 80,
+  "address": "WDU19680140080",
+  "displayAddress": "Dz.U. 1968 nr 14 poz. 80",
+  "title": "Konwencja Międzynarodowej Rady Badań Morza, sporządzona w Kopenhadze dnia 12 września 1964 r.",
+  "type": "Konwencja",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "1966-09-28",
+  "changeDate": "2014-12-31T12:25:29",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "organizacje międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Międzynarodowa Rada Badań Morza"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1974/240"
+    },
+    {
+     "id": "DU/1973/203"
+    },
+    {
+     "id": "DU/1968/81"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2003/1198",
+     "date": "1975-11-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19680080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19680080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
