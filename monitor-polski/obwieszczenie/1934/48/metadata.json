@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1934/48",
+ "source_sha256": "ef9a597bb8cd0093f689d2a72034493277ed8b3f0c9f44f5c620f9233b55c73a",
+ "in_force": "1934-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1934/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1934/48/text/O/M19340048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1934/48/text/I/M19340048.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1934/48",
+  "publisher": "MP",
+  "year": 1934,
+  "volume": 35,
+  "pos": 48,
+  "address": "WMP19340350048",
+  "displayAddress": "M.P. 1934 nr 35 poz. 48",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 5 lutego 1934 r. w sprawie umorzenia Bonów Funduszu Inwestycyjnego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1934-02-05",
+  "promulgation": "1934-02-13",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/694"
+    },
+    {
+     "id": "DU/1933/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/694",
+     "art": "par. 6"
+    },
+    {
+     "id": "DU/1933/636",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19340048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19340048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
