@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1974/4",
+ "source_sha256": "c2e0db2fe1099a4efd068f413975e3d1afb1b8f28de78611e4c1ffe8e7eee5a1",
+ "in_force": "1974-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1974/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1974/4/text/O/D19740004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1974/4/text/I/D19740004.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1974/4",
+  "publisher": "DU",
+  "year": 1974,
+  "volume": 1,
+  "pos": 4,
+  "address": "WDU19740010004",
+  "displayAddress": "Dz.U. 1974 nr 1 poz. 4",
+  "title": "Rozporządzenie Ministra Spraw Zagranicznych z dnia 14 grudnia 1973 r. zmieniające rozporządzenie o opłatach konsularnych.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1973-12-14",
+  "promulgation": "1974-01-15",
+  "entryIntoForce": "1974-02-01",
+  "validFrom": "1974-02-01",
+  "repealDate": "1984-01-01",
+  "changeDate": "2014-12-31T12:25:31",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata konsularna",
+   "paszporty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1983/329",
+     "date": "1984-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1967/7",
+     "date": "1974-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/944"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1924/944",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19740004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19740004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
