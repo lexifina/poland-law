@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1950/114",
+ "source_sha256": "9f93e5b34fd9101ac060798a9deda8ed884497aef89e9cbc52b28d11bdd15448",
+ "in_force": "1949-03-22",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1950/114",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1950/114/text/O/D19500114.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1950/114/text/I/D19500114.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1950/114",
+  "publisher": "DU",
+  "year": 1950,
+  "volume": 11,
+  "pos": 114,
+  "address": "WDU19500110114",
+  "displayAddress": "Dz.U. 1950 nr 11 poz. 114",
+  "title": "Układ o przyjaźni, współpracy i wzajemnej pomocy między Rzecząpospolitą Polską a Rumuńską Republiką Ludową, podpisany w Bukareszcie dnia 26 stycznia 1949 r.",
+  "type": "Układ",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1949-03-22",
+  "repealDate": "1971-01-25",
+  "changeDate": "2014-12-31T12:22:34",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/1950/115"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1949/66"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1971/86",
+     "date": "1971-01-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19500114.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19500114.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
