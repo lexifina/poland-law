@@ -1,0 +1,113 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1998/1119",
+ "source_sha256": "28fd66f038da5ee9b77061ee792932361d68e612bde21949a0323971b5c82f02",
+ "in_force": "1999-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1998/1119",
+  "html": "https://eli.gov.pl/api/acts/DU/1998/1119/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1998/1119/text/O/D19981119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1998/1119/text/I/D19981119.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1998/1119/text/T/D19981119L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1998/1119",
+  "publisher": "DU",
+  "year": 1998,
+  "volume": 162,
+  "pos": 1119,
+  "address": "WDU19981621119",
+  "displayAddress": "Dz.U. 1998 nr 162 poz. 1119",
+  "title": "Ustawa z dnia 17 grudnia 1998 r. o zmianie ustawy o najmie lokali mieszkalnych i dodatkach mieszkaniowych oraz ustawy o dochodach jednostek samorządu terytorialnego w latach 1999 i 2000.",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1998-12-17",
+  "promulgation": "1998-12-30",
+  "entryIntoForce": "1999-01-01",
+  "validFrom": "1999-01-01",
+  "repealDate": "2002-01-01",
+  "changeDate": "2024-03-15T11:30:17",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "najem",
+   "dodatki mieszkaniowe",
+   "samorząd terytorialny",
+   "dochód",
+   "dotacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc3.nsf/opisy/752.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term3/prints/752",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term3/processes/752",
+    "number": "752",
+    "term": 3
+   }
+  ],
+  "comments": "art. 2 wchodzi w życie z dniem 31 grudnia 1998 r.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2001/734",
+     "date": "2002-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2001/733",
+     "date": "2001-07-10"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/983",
+     "date": "1998-12-31"
+    },
+    {
+     "id": "DU/1994/509",
+     "date": "1999-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1993/600"
+    },
+    {
+     "id": "DU/1984/268"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19981119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19981119.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19981119L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
