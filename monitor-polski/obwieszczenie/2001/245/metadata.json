@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2001/245",
+ "source_sha256": "f7ade316298df36095ea2ceb681207c1d866416ddb3a3dabb91f5e24018d5c04",
+ "in_force": "2001-05-12",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2001/245",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2001/245/text/O/M20010245.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2001/245/text/I/M20010245.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2001/245",
+  "publisher": "MP",
+  "year": 2001,
+  "volume": 15,
+  "pos": 245,
+  "address": "WMP20010150245",
+  "displayAddress": "M.P. 2001 nr 15 poz. 245",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 12 maja 2001 r. w sprawie pierwszego szacunku wartości produktu krajowego brutto w 2000 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-05-12",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "produkcja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1188",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20010245.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20010245.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
