@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1924/900",
+ "source_sha256": "50a874eaa9bc6f82b3f0f9c0230c40395a64fde5087965e01a470df69fa2c9f6",
+ "in_force": "1924-11-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1924/900",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1924/900/text/O/D19240900.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1924/900/text/I/D19240900.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1924/900",
+  "publisher": "DU",
+  "year": 1924,
+  "volume": 97,
+  "pos": 900,
+  "address": "WDU19240970900",
+  "displayAddress": "Dz.U. 1924 nr 97 poz. 900",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 10 października 1924 r. w sprawie taksy aptekarskiej dla ubogich.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1924-10-10",
+  "entryIntoForce": "1924-11-10",
+  "validFrom": "1924-11-10",
+  "repealDate": "1930-11-19",
+  "changeDate": "2014-12-31T12:25:18",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "apteki",
+   "ceny urzędowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1930/604",
+     "date": "1930-11-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1920/194",
+     "date": "1924-11-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/86"
+    },
+    {
+     "id": "DU/1923/1060"
+    },
+    {
+     "id": "DU/1919/371"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19240900.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19240900.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
