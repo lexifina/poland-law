@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2003/135",
+ "source_sha256": "c78d9e9a9c5d6d7d20e228b8e1a13bb422a80203b20d0729a2b2c3b0c54341b0",
+ "in_force": "2003-02-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2003/135",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2003/135/text/O/M20030135.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2003/135/text/I/M20030135.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2003/135",
+  "publisher": "MP",
+  "year": 2003,
+  "volume": 9,
+  "pos": 135,
+  "address": "WMP20030090135",
+  "displayAddress": "M.P. 2003 nr 9 poz. 135",
+  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 10 lutego 2003 r. o wskazaniu wystaw publicznych dających pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na nich wynalazku, wzoru użytkowego, wzoru przemysłowego lub towaru oznaczonego znakiem towarowym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2003-02-10",
+  "promulgation": "2003-02-20",
+  "changeDate": "2024-07-31T11:42:43",
+  "releasedBy": [
+   "PREZ. URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "wzory użytkowe i zdobnicze",
+   "rejestry",
+   "targi i wystawy",
+   "wynalazczość",
+   "własność przemysłowa",
+   "znaki towarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/508"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/508",
+     "art": "art. 125 ust. 2"
+    },
+    {
+     "id": "DU/2001/508",
+     "art": "art. 15 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20030135.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20030135.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
