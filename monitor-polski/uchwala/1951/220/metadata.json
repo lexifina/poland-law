@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1951/220",
+ "source_sha256": "b4b935397e83ad3d97a37c62af3b1d9f508b520d2661629e6bd4769f5e82f2db",
+ "in_force": "1951-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1951/220",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1951/220/text/O/M19510220.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1951/220/text/I/M19510220.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1951/220",
+  "publisher": "MP",
+  "year": 1951,
+  "volume": 16,
+  "pos": 220,
+  "address": "WMP19510160220",
+  "displayAddress": "M.P. 1951 nr 16 poz. 220",
+  "title": "Uchwała nr 109 Prezydium Rządu z dnia 21 lutego 1951 r. w sprawie oszczędności w budownictwie.",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1951-02-21",
+  "entryIntoForce": "1951-03-01",
+  "validFrom": "1951-03-01",
+  "repealDate": "1956-08-24",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1956/849",
+     "date": "1956-08-24"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1954/1218"
+    },
+    {
+     "id": "MP/1952/606"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1951/1098",
+     "date": "1951-09-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1951/6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19510220.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19510220.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
