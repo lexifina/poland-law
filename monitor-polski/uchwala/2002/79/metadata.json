@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2002/79",
+ "source_sha256": "07728891bacfd3acaab62ccd1cff93a9ab5a1f607801e82f9dc162ae820facfd",
+ "in_force": "2002-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2002/79",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2002/79/text/O/M20020079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2002/79/text/I/M20020079.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2002/79",
+  "publisher": "MP",
+  "year": 2002,
+  "volume": 5,
+  "pos": 79,
+  "address": "WMP20020050079",
+  "displayAddress": "M.P. 2002 nr 5 poz. 79",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 25 stycznia 2002 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej Posła Andrzeja Zbigniewa Leppera.",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2002-01-25",
+  "promulgation": "2002-02-01",
+  "changeDate": "2026-10-06T14:32:19",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 1 zd. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20020079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20020079.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
