@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1179",
+ "source_sha256": "0c7ebd1d88818da4dccfa3906dbe9769f637316b21ed8dc8b86f1db5e0188000",
+ "in_force": "1950-08-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1179",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1179/text/O/M19501179.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1179/text/I/M19501179.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1179",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 93,
+  "pos": 1179,
+  "address": "WMP19500931179",
+  "displayAddress": "M.P. 1950 nr 93 poz. 1179",
+  "title": "Zarządzenie Ministra Handlu Wewnętrznego z dnia 18 lipca 1950 r. w sprawie zwrotu opakowań szklanych.",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-07-18",
+  "entryIntoForce": "1950-08-30",
+  "validFrom": "1950-07-31",
+  "repealDate": "1953-09-10",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "MIN. HANDLU WEWNĘTRZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/1953/966",
+     "date": "1953-09-10"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/954",
+     "date": "1953-09-07"
+    },
+    {
+     "id": "MP/1953/934",
+     "date": "1953-08-29"
+    },
+    {
+     "id": "MP/1953/933",
+     "date": "1953-08-29"
+    },
+    {
+     "id": "MP/1953/230",
+     "date": "1953-02-23"
+    },
+    {
+     "id": "MP/1951/1327",
+     "date": "1951-11-22"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19501179.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19501179.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
