@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1950/1529",
+ "source_sha256": "4fe197f1de9fa064dd55fe1dea051738c5a5182943f94e7a3c033874b80dc2cb",
+ "in_force": "1950-11-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1950/1529",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1950/1529/text/O/M19501529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1950/1529/text/I/M19501529.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1950/1529",
+  "publisher": "MP",
+  "year": 1950,
+  "volume": 123,
+  "pos": 1529,
+  "address": "WMP19501231529",
+  "displayAddress": "M.P. 1950 nr 123 poz. 1529",
+  "title": "Uchwała Prezydium Rządu z dnia 8 listopada 1950 r. w sprawie zwiększenia produkcji artykułów masowego spożycia, wytwarzanych przez uspołecznione zakłady drobnej wytwórczości.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1950-11-08",
+  "entryIntoForce": "1950-11-17",
+  "validFrom": "1950-11-17",
+  "repealDate": "1952-11-06",
+  "changeDate": "2014-12-31T12:24:28",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. FINANSÓW",
+   "PREZ. CENTRALNEGO URZĘDU DROBNEJ WYTWÓRCZOŚCI",
+   "MIN. PRZEMYSŁU LEKKIEGO",
+   "MIN. PRZEMYSŁU CIĘŻKIEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/1953/452",
+     "date": "1953-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1950/285"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1952/301",
+     "date": "1952-11-06"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19501529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19501529.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
