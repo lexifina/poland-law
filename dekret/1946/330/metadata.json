@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/330",
+ "source_sha256": "522dd66296fb057dbad2df85e6021aa509bfa15017d5007a0af920071cd1102c",
+ "in_force": "1946-11-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/330",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/330/text/O/D19460330.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/330/text/I/D19460330.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/330",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 60,
+  "pos": 330,
+  "address": "WDU19460600330",
+  "displayAddress": "Dz.U. 1946 nr 60 poz. 330",
+  "title": "Dekret z dnia 31 października 1946 r. o dodatku naukowym do uposażenia.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-10-31",
+  "entryIntoForce": "1946-11-20",
+  "validFrom": "1946-09-01",
+  "repealDate": "1949-01-01",
+  "changeDate": "2022-04-19T12:10:27",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OŚWIATY"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "uposażenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1949/39",
+     "date": "1949-01-01"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1946/22",
+     "date": "1946-09-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1948/137",
+     "date": "1948-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460330.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460330.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
