@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/204",
+ "source_sha256": "5a8189e441f589ceb81492d7e31c0965c2641e4d1367296d82698c9ac302cbe8",
+ "in_force": "1935-07-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/204",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/204/text/O/M19350204.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/204/text/I/M19350204.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/204",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 172,
+  "pos": 204,
+  "address": "WMP19351720204",
+  "displayAddress": "M.P. 1935 nr 172 poz. 204",
+  "title": "Obwieszczenie Urzędu Długów Państwa z dnia 1 lipca 1935 r. w sprawie umorzenia w drodze wykupu obligacyj 5% pożyczki konwersyjnej z 1924 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-07-01",
+  "promulgation": "1935-07-30",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pożyczki państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1934/338"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/561",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350204.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350204.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
