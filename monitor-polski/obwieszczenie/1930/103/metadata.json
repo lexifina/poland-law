@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/103",
+ "source_sha256": "5d91f365043c6b7ec6beb58555ab92c3e4600fe6d3bb62f88c49c893e92f3bcd",
+ "in_force": "1930-03-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/103",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/103/text/O/M19300103.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/103/text/I/M19300103.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/103",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 67,
+  "pos": 103,
+  "address": "WMP19300670103",
+  "displayAddress": "M.P. 1930 nr 67 poz. 103",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 28 lutego 1930 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-02-28",
+  "promulgation": "1930-03-21",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1929/324"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1926/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1926/561",
+     "art": "art. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300103.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300103.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
