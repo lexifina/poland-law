@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1938/392",
+ "source_sha256": "34546e356845a4b9add61ae0704c95afedd4fe2c4f16304c5f767fbc3526123e",
+ "in_force": "1938-09-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1938/392",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1938/392/text/O/M19380392.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1938/392/text/I/M19380392.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1938/392",
+  "publisher": "MP",
+  "year": 1938,
+  "volume": 199,
+  "pos": 392,
+  "address": "WMP19381990392",
+  "displayAddress": "M.P. 1938 nr 199 poz. 392",
+  "title": "Instrukcja Komisarza Rządowego Izb Lekarsko-Dentystycznych z dnia 29 sierpnia 1938 r. o sposobie głosowania do rad okręgowych izb lekarsko-dentystycznych.",
+  "type": "Instrukcja",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1938-08-29",
+  "promulgation": "1938-09-01",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "lekarze dentyści",
+   "izby lekarskie",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1938/269"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1938/295"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1938/295",
+     "art": "par. 21 ust. 2"
+    },
+    {
+     "id": "DU/1938/295",
+     "art": "par. 44"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19380392.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19380392.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
