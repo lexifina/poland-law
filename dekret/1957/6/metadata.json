@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1957/6",
+ "source_sha256": "82bcbbdd61cb11d06e1abd7ed8b63cc6b69d8041703cc689181f1ce904331f62",
+ "in_force": "1957-01-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1957/6",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1957/6/text/O/D19570006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1957/6/text/I/D19570006.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1957/6",
+  "publisher": "DU",
+  "year": 1957,
+  "volume": 1,
+  "pos": 6,
+  "address": "WDU19570010006",
+  "displayAddress": "Dz.U. 1957 nr 1 poz. 6",
+  "title": "Dekret z dnia 31 grudnia 1956 r. o organizowaniu i obsadzaniu stanowisk kościelnych.",
+  "type": "Dekret",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1956-12-31",
+  "entryIntoForce": "1957-01-12",
+  "validFrom": "1957-01-12",
+  "repealDate": "1989-05-23",
+  "changeDate": "2014-12-31T12:25:28",
+  "releasedBy": [
+   "RADA PAŃSTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1989/154",
+     "date": "1989-05-23"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1953/32",
+     "date": "1957-01-12"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1953/522",
+     "date": "1957-01-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19570006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19570006.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
