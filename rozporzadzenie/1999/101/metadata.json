@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/101",
+ "source_sha256": "98b517e7c4d565be91782cd2bad5a9473f672b14cf49d16d78909d18a18cd79b",
+ "in_force": "1999-02-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/101/text/O/D19990101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/101/text/I/D19990101.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/101/text/T/D19990101L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/101",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 12,
+  "pos": 101,
+  "address": "WDU19990120101",
+  "displayAddress": "Dz.U. 1999 nr 12 poz. 101",
+  "title": "Rozporządzenie Ministra Finansów z dnia 3 lutego 1999 r. w sprawie sposobu i trybu wyłaniania delegatów na Pierwszy Krajowy Zjazd Doradców Podatkowych.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-02-03",
+  "entryIntoForce": "1999-02-27",
+  "validFrom": "1999-02-27",
+  "repealDate": "2001-06-11",
+  "changeDate": "2014-12-31T12:25:49",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje",
+   "doradztwo podatkowe",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/475"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/475",
+     "art": "art. 91"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2001/474",
+     "date": "2001-06-11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19990101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990101.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990101L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
