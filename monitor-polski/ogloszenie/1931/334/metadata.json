@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1931/334",
+ "source_sha256": "2b86e2c7e3fea5b8a0ea4b6cdf7d29571892ccee99d9d8cd3ab4900b37ae6720",
+ "in_force": "1931-10-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1931/334",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1931/334/text/O/M19310334.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1931/334/text/I/M19310334.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1931/334",
+  "publisher": "MP",
+  "year": 1931,
+  "volume": 250,
+  "pos": 334,
+  "address": "WMP19312500334",
+  "displayAddress": "M.P. 1931 nr 250 poz. 334",
+  "title": "Ogłoszenie Państwowej Komisji Wyborczej z dnia 26 października 1931 r.",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1931-10-26",
+  "promulgation": "1931-10-29",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "komisje wyborcze",
+   "komisje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1922/590"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1922/590",
+     "art": "art. 115"
+    },
+    {
+     "id": "DU/1922/590",
+     "art": "art. 96"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19310334.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19310334.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
