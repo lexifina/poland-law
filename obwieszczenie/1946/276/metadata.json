@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1946/276",
+ "source_sha256": "70366aed49d9fd8b9be9718122ae9b677b237f5c666f4548f5784eeec25b1873",
+ "in_force": "1946-10-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1946/276",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1946/276/text/O/D19460276.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1946/276/text/I/D19460276.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1946/276",
+  "publisher": "DU",
+  "year": 1946,
+  "volume": 49,
+  "pos": 276,
+  "address": "WDU19460490276",
+  "displayAddress": "Dz.U. 1946 nr 49 poz. 276",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 8 października 1946 r. o utracie mocy obowiązującej dekretów: o nadawaniu stopni oficerskich w Wojsku Polskim i o utworzeniu Rady Szkół Wyższych.",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1946-10-08",
+  "entryIntoForce": "1946-10-08",
+  "validFrom": "1946-10-08",
+  "repealDate": "1951-01-01",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1946/164",
+     "date": "1946-10-08"
+    },
+    {
+     "id": "DU/1946/130",
+     "date": "1946-10-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/305"
+    },
+    {
+     "id": "DU/1944/3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1950/524",
+     "date": "1951-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19460276.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19460276.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
