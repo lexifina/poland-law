@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1945/192",
+ "source_sha256": "5cc5d7450eba5bdc6e2eb0d67f162551b9fd2524fc315e4cc7098327d7e90f9e",
+ "in_force": "1945-08-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1945/192",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1945/192/text/O/D19450192.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1945/192/text/I/D19450192.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1945/192",
+  "publisher": "DU",
+  "year": 1945,
+  "volume": 31,
+  "pos": 192,
+  "address": "WDU19450310192",
+  "displayAddress": "Dz.U. 1945 nr 31 poz. 192",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 25 sierpnia 1945 r. w sprawie przesunięcia terminu składania wniosków o rehabilitację osób wpisanych do drugiej, trzeciej i czwartej grupy niemieckiej listy narodowej lub zaliczonych do jednej z grup uprzywilejowanych przez okupanta.",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1945-08-25",
+  "entryIntoForce": "1945-08-31",
+  "validFrom": "1945-08-31",
+  "repealDate": "1945-10-31",
+  "changeDate": "2014-12-31T12:24:07",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1945/192",
+     "date": "1945-10-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1945/130",
+     "date": "1945-08-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1945/96"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/1945/192",
+     "date": "1945-10-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19450192.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19450192.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
