@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1952/297",
+ "source_sha256": "fef0f791fc088f447a3015fede5e8f781701d58962ee37cd1e3157ec3fe212a4",
+ "in_force": "1952-03-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1952/297",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1952/297/text/O/M19520297.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1952/297/text/I/M19520297.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1952/297",
+  "publisher": "MP",
+  "year": 1952,
+  "volume": 23,
+  "pos": 297,
+  "address": "WMP19520230297",
+  "displayAddress": "M.P. 1952 nr 23 poz. 297",
+  "title": "Uchwała nr 104 Prezydium Rządu z dnia 1 marca 1952 r. w sprawie trybu rozdzielnictwa pojazdów samochodowych.",
+  "type": "Uchwała",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1952-03-01",
+  "entryIntoForce": "1952-03-19",
+  "validFrom": "1952-02-19",
+  "repealDate": "1962-01-01",
+  "changeDate": "2014-12-31T12:24:29",
+  "releasedBy": [
+   "PREZYDIUM RZĄDU"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. TRANSPORTU DROGOWEGO I LOTNICZEGO",
+   "PREZ. PAŃSTWOWEJ KOMISJI ETATÓW",
+   "PRZEW. PAŃSTWOWEJ KOMISJI PLANOWANIA GOSPODARCZEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1949/887",
+     "date": "1952-03-19"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "MP/1954/1010"
+    },
+    {
+     "id": "MP/1953/1388"
+    },
+    {
+     "id": "MP/1952/1050"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/1961/392",
+     "date": "1962-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19520297.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19520297.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
