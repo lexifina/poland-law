@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1936/181",
+ "source_sha256": "62ff412e3ca741f6354b302a912660e3ad57fe1a12f88ff9933ded094003b22d",
+ "in_force": "1936-04-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1936/181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1936/181/text/O/M19360181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1936/181/text/I/M19360181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1936/181",
+  "publisher": "MP",
+  "year": 1936,
+  "volume": 98,
+  "pos": 181,
+  "address": "WMP19360980181",
+  "displayAddress": "M.P. 1936 nr 98 poz. 181",
+  "title": "Obwieszczenie Ministra Skarbu z dnia 27 kwietnia 1936 r. ustalające listę przedsiębiorstw bankowych, uprawnionych do handlu zagranicznemi środkami płatniczemi.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1936-04-27",
+  "promulgation": "1936-04-27",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "banki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1936/250"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1936/249"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1936/249",
+     "art": "art. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19360181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19360181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
