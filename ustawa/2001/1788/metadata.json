@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1788",
+ "source_sha256": "0b2ee795c330ae000a664a63b74bf81482dd466cd07078b9f48a0808d02f020f",
+ "in_force": "2002-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1788",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1788/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1788/text/O/D20011788.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1788/text/I/D20011788.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1788/text/T/D20011788L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1788",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 154,
+  "pos": 1788,
+  "address": "WDU20011541788",
+  "displayAddress": "Dz.U. 2001 nr 154 poz. 1788",
+  "title": "Ustawa z dnia 14 grudnia 2001 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji i okresu powojennego, ustawy o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej, przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych oraz ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III rzeszę i Związek Socjalistycznych Republik Radzieckich.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-12-14",
+  "promulgation": "2001-12-29",
+  "entryIntoForce": "2002-01-01",
+  "validFrom": "2002-01-01",
+  "changeDate": "2024-03-15T10:00:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca przymusowa",
+   "świadczenia pieniężne",
+   "kombatanci",
+   "służba wojskowa",
+   "kopalnie",
+   "deportowani"
+  ],
+  "keywordsNames": [
+   "Związek Socjalistycznych Republik Radzieckich"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/69.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/69",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/69",
+    "number": "69",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2004/444",
+     "date": "2004-03-22"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1996/395",
+     "date": "2002-01-01"
+    },
+    {
+     "id": "DU/1994/537",
+     "date": "2002-01-01"
+    },
+    {
+     "id": "DU/1991/75",
+     "date": "2002-01-01"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2004/444"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011788.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011788.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011788L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
