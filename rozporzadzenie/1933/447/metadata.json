@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1933/447",
+ "source_sha256": "afa8e6321dea4eb6148386b12465efbe78bbc5ca5c97991e1bfad890a663b62f",
+ "in_force": "1933-07-27",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1933/447",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1933/447/text/O/D19330447.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1933/447/text/I/D19330447.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1933/447",
+  "publisher": "DU",
+  "year": 1933,
+  "volume": 59,
+  "pos": 447,
+  "address": "WDU19330590447",
+  "displayAddress": "Dz.U. 1933 nr 59 poz. 447",
+  "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych z dnia 27 lipca 1933 r. w sprawie zwrotu ceł przy wywozie gotowych wyrobów włókienniczych.",
+  "type": "Rozporządzenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1933-07-27",
+  "changeDate": "2020-09-23T10:49:39",
+  "releasedBy": [
+   "MIN. PRZEMYSŁU I HANDLU",
+   "MIN. ROLNICTWA I REFORM ROLNYCH",
+   "MIN. SKARBU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1933/4",
+     "date": "1933-10-31"
+    },
+    {
+     "id": "DU/1931/870",
+     "date": "1933-10-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19330447.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19330447.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
