@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1935/138",
+ "source_sha256": "ff52346a963720b6881fafc192c6ba382be50190029983029b4771967654637a",
+ "in_force": "1935-05-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1935/138",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1935/138/text/O/M19350138.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1935/138/text/I/M19350138.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1935/138",
+  "publisher": "MP",
+  "year": 1935,
+  "volume": 105,
+  "pos": 138,
+  "address": "WMP19351050138",
+  "displayAddress": "M.P. 1935 nr 105 poz. 138",
+  "title": "Obwieszczenie Ministra Opieki Społecznej z dnia 18 kwietnia 1935 r. zawierające wykaz preparatów organoterapeutycznych, dopuszczonych do obrotu.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1935-04-18",
+  "promulgation": "1935-05-07",
+  "changeDate": "2020-09-28T09:42:51",
+  "releasedBy": [
+   "MIN. OPIEKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne środki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "MP/1932/346"
+    },
+    {
+     "id": "MP/1931/36"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1933/344"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1933/344",
+     "art": "par. 15"
+    },
+    {
+     "id": "DU/1933/344",
+     "art": "par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19350138.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19350138.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
