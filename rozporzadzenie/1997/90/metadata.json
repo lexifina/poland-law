@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1997/90",
+ "source_sha256": "8ee01d9694965b0153e8c84a4e6ec4ecafdca613220f2ac60db747db5444116c",
+ "in_force": "1997-03-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1997/90",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1997/90/text/O/D19970090.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1997/90/text/I/D19970090.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1997/90",
+  "publisher": "DU",
+  "year": 1997,
+  "volume": 17,
+  "pos": 90,
+  "address": "WDU19970170090",
+  "displayAddress": "Dz.U. 1997 nr 17 poz. 90",
+  "title": "Rozporządzenie Rady Ministrów z dnia 18 lutego 1997 r. w sprawie szczegółowych zasad i trybu przeprowadzania kontroli przez Kancelarię Prezesa Rady Ministrów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1997-02-18",
+  "entryIntoForce": "1997-03-11",
+  "validFrom": "1997-03-11",
+  "repealDate": "2003-09-06",
+  "changeDate": "2014-12-31T12:25:46",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola"
+  ],
+  "keywordsNames": [
+   "Kancelaria Prezesa Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2003/1414",
+     "date": "2003-09-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1996/796"
+    },
+    {
+     "id": "DU/1982/271"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 30"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19970090.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19970090.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
