@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1925/486",
+ "source_sha256": "d85abc4ffed2dde2244ae6a6361fc5231db5a13d72d4c6d469e5e10aa7dbc8f7",
+ "in_force": "1925-07-11",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1925/486",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1925/486/text/O/D19250486.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1925/486/text/I/D19250486.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1925/486",
+  "publisher": "DU",
+  "year": 1925,
+  "volume": 69,
+  "pos": 486,
+  "address": "WDU19250690486",
+  "displayAddress": "Dz.U. 1925 nr 69 poz. 486",
+  "title": "Rozporządzenie Rady Ministrów z dnia 11 lipca 1925 r. w sprawie zakazu przywozu niektórych towarów.",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1925-07-11",
+  "repealDate": "1933-10-11",
+  "changeDate": "2014-12-31T12:22:27",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/1933/561",
+     "date": "1933-10-11"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/1928/113",
+     "date": "1928-03-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1924/777"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D19250486.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19250486.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
