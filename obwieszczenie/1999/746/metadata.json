@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/1999/746",
+ "source_sha256": "5832aa26249283445cfcba4069aa79adaed700d69cf47c84eb0fe2b866b2d7e0",
+ "in_force": "1999-07-23",
+ "in_force_basis": "announcement (signature) day of the official ELI metadata (the API gives no entry-into-force or promulgation day)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/1999/746",
+  "html": "https://eli.gov.pl/api/acts/DU/1999/746/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/1999/746/text/O/D19990746.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/1999/746/text/I/D19990746.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/1999/746/text/T/D19990746L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/1999/746",
+  "publisher": "DU",
+  "year": 1999,
+  "volume": 65,
+  "pos": 746,
+  "address": "WDU19990650746",
+  "displayAddress": "Dz.U. 1999 nr 65 poz. 746",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 23 lipca 1999 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego przysługującego osobom fizycznym w prawo własności.",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1999-07-23",
+  "expirationDate": "2001-09-29",
+  "changeDate": "2024-03-15T11:34:56",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "użytkowanie wieczyste",
+   "własność"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1020"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1020",
+     "art": "art. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/781"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D19990746.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D19990746.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D19990746L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
