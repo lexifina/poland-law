@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2001/1129",
+ "source_sha256": "6fd1fe99e338008494c968d9481f8bc7d4dd36f8c4ad76a05a25b0a275317b65",
+ "in_force": "2001-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 832 words, parsed 244; at 244: '2 Konstytucji , orzeka : 1 . Art . 126'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2001/1129",
+  "html": "https://eli.gov.pl/api/acts/DU/2001/1129/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2001/1129/text/O/D20011129.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2001/1129/text/I/D20011129.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2001/1129/text/T/D20011129L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2001/1129",
+  "publisher": "DU",
+  "year": 2001,
+  "volume": 103,
+  "pos": 1129,
+  "address": "WDU20011031129",
+  "displayAddress": "Dz.U. 2001 nr 103 poz. 1129",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 września 2001 r. sygn. akt SK. 17/2000.",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2001-09-11",
+  "promulgation": "2001-09-24",
+  "entryIntoForce": "2001-09-24",
+  "validFrom": "2001-09-24",
+  "changeDate": "2024-03-15T09:59:36",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "szkolnictwo wyższe",
+   "nauczyciele akademiccy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/385",
+     "date": "2001-09-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2001/924"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/440"
+    },
+    {
+     "id": "DU/1990/385"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20011129.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20011129.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20011129L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
