@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/1930/422",
+ "source_sha256": "71ecee1f5201fc9fece4cdf8955105c5cf918d5ce1ba0d74663fcdb4d8a5dd5c",
+ "in_force": "1930-12-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/1930/422",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/1930/422/text/O/M19300422.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/1930/422/text/I/M19300422.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/1930/422",
+  "publisher": "MP",
+  "year": 1930,
+  "volume": 299,
+  "pos": 422,
+  "address": "WMP19302990422",
+  "displayAddress": "M.P. 1930 nr 299 poz. 422",
+  "title": "Ogłoszenie Głównego Urzędu Statystycznego z dnia 22 grudnia 1930 r. w sprawie wykazu statystycznego towarów służącego za podstawę zgłoszeń statystycznych",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "1930-12-22",
+  "promulgation": "1930-12-30",
+  "changeDate": "2020-09-28T09:43:36",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [
+   "Główny Urząd Statystyczny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1930/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1930/350",
+     "art": "par. 33"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M19300422.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M19300422.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
