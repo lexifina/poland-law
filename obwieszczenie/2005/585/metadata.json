@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/585",
+ "source_sha256": "c4146752653d5f5f34da250a210a806429a545e8c55ee273000ee56baa801100",
+ "in_force": "2005-04-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/585",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/585/text/O/D20050585.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/585/text/I/D20050585.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/585",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 67,
+  "pos": 585,
+  "address": "WDU20050670585",
+  "displayAddress": "Dz.U. 2005 nr 67 poz. 585",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 19 kwietnia 2005 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-04-19",
+  "promulgation": "2005-04-25",
+  "changeDate": "2020-11-03T15:56:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "świadectwa i dyplomy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/504"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050585.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050585.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
