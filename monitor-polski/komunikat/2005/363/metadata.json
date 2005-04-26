@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/363",
+ "source_sha256": "4bb21bcd67977d6164c569888d1f38ab8899de7ec7be07f5f5a76b4143d02f3a",
+ "in_force": "2005-04-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/363",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/363/text/O/M20050363.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/363/text/I/M20050363.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/363",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 25,
+  "pos": 363,
+  "address": "WMP20050250363",
+  "displayAddress": "M.P. 2005 nr 25 poz. 363",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 14 kwietnia 2005 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem za okres od grudnia 1999 r. do marca 2005 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-04-14",
+  "promulgation": "2005-04-26",
+  "changeDate": "2020-10-20T09:37:42",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "towar",
+   "wskaźnik",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/1651"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/1651",
+     "art": "art. 8 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050363.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050363.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
