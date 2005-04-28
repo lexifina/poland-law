@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/643",
+ "source_sha256": "20c4f99cb8e21502dff40259873ffb2fc39dbacb46e357e7935026a3e173afdb",
+ "in_force": "2005-04-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 2333 words, parsed 84; at 84: 'kwietnia 2005 r . : 1 ) wniosku grupy posłów'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/643",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/643/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/643/text/O/D20050643.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/643/text/I/D20050643.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/643/text/T/D20050643TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/643",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 72,
+  "pos": 643,
+  "address": "WDU20050720643",
+  "displayAddress": "Dz.U. 2005 nr 72 poz. 643",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 kwietnia 2005 r. sygn. akt K 42/02",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-04-20",
+  "promulgation": "2005-04-28",
+  "entryIntoForce": "2005-04-28",
+  "validFrom": "2005-04-28",
+  "changeDate": "2024-03-15T10:01:21",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość mieszkaniowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/2058",
+     "date": "2005-04-28"
+    },
+    {
+     "id": "DU/2001/27",
+     "date": "2005-04-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2002/2058"
+    },
+    {
+     "id": "DU/2001/27"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050643.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050643.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050643TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050643TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
