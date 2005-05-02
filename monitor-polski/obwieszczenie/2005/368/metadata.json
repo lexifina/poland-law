@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/368",
+ "source_sha256": "02244df7294f3fdadb59de8ba78a71b7d78592767a0b5cd58bd33c6bdd1fba59",
+ "in_force": "2005-05-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/368",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/368/text/O/M20050368.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/368/text/I/M20050368.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/368",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 26,
+  "pos": 368,
+  "address": "WMP20050260368",
+  "displayAddress": "M.P. 2005 nr 26 poz. 368",
+  "title": "Obwieszczenie Pierwszego Prezesa Sądu Najwyższego z dnia 21 kwietnia 2005 r. o liczbie, przewidzianych do objęcia, stanowisk sędziego Sądu Najwyższego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-04-21",
+  "promulgation": "2005-05-02",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PIERWSZY PREZES SĄDU NAJWYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 24 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050368.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050368.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
