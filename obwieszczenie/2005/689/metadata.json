@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/689",
+ "source_sha256": "721616362e1d4a94e061e083baa0f9c1619cde34fc0c97b220414f40dc2e904e",
+ "in_force": "2005-05-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/689",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/689/text/O/D20050689.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/689/text/I/D20050689.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/689",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 78,
+  "pos": 689,
+  "address": "WDU20050780689",
+  "displayAddress": "Dz.U. 2005 nr 78 poz. 689",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 kwietnia 2005 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-04-29",
+  "promulgation": "2005-05-06",
+  "changeDate": "2020-11-03T15:56:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/234"
+    },
+    {
+     "id": "DU/2005/216"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050689.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050689.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
