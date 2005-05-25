@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/703",
+ "source_sha256": "19067dd8a4f8ddb738c769233f2309a4dcc416049e22b47eab6079a64d4e556c",
+ "in_force": "2005-05-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/703",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/703/text/O/D20050703.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/703/text/I/D20050703.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/703",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 80,
+  "pos": 703,
+  "address": "WDU20050800703",
+  "displayAddress": "Dz.U. 2005 nr 80 poz. 703",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 26 kwietnia 2005 r. w sprawie wynagrodzenia asystentów sędziów",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-04-26",
+  "promulgation": "2005-05-10",
+  "entryIntoForce": "2005-05-25",
+  "validFrom": "2005-05-25",
+  "repealDate": "2006-07-28",
+  "changeDate": "2014-12-31T12:26:04",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/872",
+     "date": "2006-07-28"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2004/1332",
+     "date": "2005-05-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 155 par. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050703.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050703.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
