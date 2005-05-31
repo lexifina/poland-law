@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/437",
+ "source_sha256": "b1c0a5c5f8b4ee799472f243b50d06a0cdeb3b2ece1016d74e448959f70b05e3",
+ "in_force": "2005-05-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/437",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/437/text/O/M20050437.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/437/text/I/M20050437.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/437",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 30,
+  "pos": 437,
+  "address": "WMP20050300437",
+  "displayAddress": "M.P. 2005 nr 30 poz. 437",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 maja 2005 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za I kwartał 2005 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-05-16",
+  "promulgation": "2005-05-31",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050437.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050437.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
