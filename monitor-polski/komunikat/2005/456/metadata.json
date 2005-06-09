@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/456",
+ "source_sha256": "ae51870e9afc88788cf39c137fb0f3ed8a7ca887211ac7813e5c561064c3c39b",
+ "in_force": "2005-06-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/456",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/456/text/O/M20050456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/456/text/I/M20050456.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/456",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 32,
+  "pos": 456,
+  "address": "WMP20050320456",
+  "displayAddress": "M.P. 2005 nr 32 poz. 456",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 23 maja 2005 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2004 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-05-23",
+  "promulgation": "2005-06-09",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "partie polityczne",
+   "sprawozdanie finansowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/604"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/604",
+     "art": "art. 38 ust. 4"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/2005/545"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050456.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
