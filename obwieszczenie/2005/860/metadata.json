@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/860",
+ "source_sha256": "a39bf7283ab2782ee58eaef834a39f2f6afcdc04a0559c278707a940b84533ee",
+ "in_force": "2005-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/860",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/860/text/O/D20050860.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/860/text/I/D20050860.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/860",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 102,
+  "pos": 860,
+  "address": "WDU20051020860",
+  "displayAddress": "Dz.U. 2005 nr 102 poz. 860",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 9 czerwca 2005 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-06-09",
+  "promulgation": "2005-06-10",
+  "repealDate": "2008-12-01",
+  "changeDate": "2020-11-03T15:55:18",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "podatek od towarów i usług",
+   "ulgi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/798"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2008/1337",
+     "date": "2008-12-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050860.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050860.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
