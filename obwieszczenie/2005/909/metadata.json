@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/909",
+ "source_sha256": "17e62fd43226d79638b884e558b1d3a7ad29f62b03b775b99fb6ec80a94f7198",
+ "in_force": "2005-06-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/909",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/909/text/O/D20050909.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/909/text/I/D20050909.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/909/text/T/D20050909L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/909/text/U/D20050909Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/909",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 108,
+  "pos": 909,
+  "address": "WDU20051080909",
+  "displayAddress": "Dz.U. 2005 nr 108 poz. 909",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 czerwca 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-06-02",
+  "promulgation": "2005-06-20",
+  "repealDate": "2009-08-01",
+  "changeDate": "2020-03-04T14:46:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "imprezy artystyczne",
+   "imprezy rozrywkowe",
+   "imprezy sportowe",
+   "imprezy masowe",
+   "administracja państwowa",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32002D0348",
+    "date": "2002-04-25",
+    "title": "DECYZJA RADY z dnia 25 kwietnia 2002 r. dotycząca bezpieczeństwa w związku z meczami piłki nożnej o charakterze międzynarodowym (2002/348/WSiSW)"
+   }
+  ],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 24-27 ustawy z dnia 22 sierpnia 1997 o bezpieczeństwie imprez masowych",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/504",
+     "date": "2009-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/680"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050909.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050909.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050909L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20050909Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
