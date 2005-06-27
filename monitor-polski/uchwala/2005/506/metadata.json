@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/506",
+ "source_sha256": "8da55729b0b05c769d5518c2ee941f51cae1ed00ba131a3d2a250306d1e6de81",
+ "in_force": "2005-06-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/506",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/506/text/O/M20050506.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/506/text/I/M20050506.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/506",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 37,
+  "pos": 506,
+  "address": "WMP20050370506",
+  "displayAddress": "M.P. 2005 nr 37 poz. 506",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 17 czerwca 2005 r. w sprawie wyrażenia przez Sejm zgody na pociągnięcie do odpowiedzialności karnej posła Piotra Smolany",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-06-17",
+  "promulgation": "2005-06-27",
+  "changeDate": "2026-10-06T13:43:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050506.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050506.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
