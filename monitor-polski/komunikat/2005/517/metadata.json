@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/517",
+ "source_sha256": "d7abffed5708357ca098ce4acfacc327587dbea6de65426300353d4e0fbc70f5",
+ "in_force": "2005-06-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/517",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/517/text/O/M20050517.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/517/text/I/M20050517.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/517",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 38,
+  "pos": 517,
+  "address": "WMP20050380517",
+  "displayAddress": "M.P. 2005 nr 38 poz. 517",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 23 czerwca 2005 r. o zarejestrowaniu Komitetu Wyborczego Kandydata na Prezydenta Rzeczypospolitej Polskiej Stanisława Tymińskiego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-06-23",
+  "promulgation": "2005-06-30",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 40d ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050517.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050517.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
