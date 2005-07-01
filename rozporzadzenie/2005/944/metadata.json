@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/944",
+ "source_sha256": "55e06751416ee4f6276d4f391817c218de9fe3568b92cfab44b52e2ee360c267",
+ "in_force": "2005-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/944",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/944/text/O/D20050944.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/944/text/I/D20050944.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/944",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 112,
+  "pos": 944,
+  "address": "WDU20051120944",
+  "displayAddress": "Dz.U. 2005 nr 112 poz. 944",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 17 czerwca 2005 r. w sprawie zniesienia i utworzenia niektórych sądów grodzkich oraz zmiany rozporządzenia w sprawie utworzenia sądów grodzkich",
+  "type": "Rozporządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-06-17",
+  "promulgation": "2005-06-24",
+  "entryIntoForce": "2005-07-01",
+  "validFrom": "2005-07-01",
+  "changeDate": "2023-03-02T12:42:54",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy grodzkie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/1745",
+     "date": "2010-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1160",
+     "date": "2005-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 13 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20050944.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050944.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
