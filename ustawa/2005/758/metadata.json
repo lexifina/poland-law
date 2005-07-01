@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/758",
+ "source_sha256": "69a6e11da5574b254d6011659ee31acc67e74c68ceb24780c96e7e86a670c666",
+ "in_force": "2005-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: no articles found; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/758",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/758/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/758/text/O/D20050758.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/758/text/I/D20050758.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/758/text/T/D20050758L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/758",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 90,
+  "pos": 758,
+  "address": "WDU20050900758",
+  "displayAddress": "Dz.U. 2005 nr 90 poz. 758",
+  "title": "Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz ustawy o odpadach",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-04-22",
+  "promulgation": "2005-05-23",
+  "entryIntoForce": "2005-07-01",
+  "validFrom": "2005-07-01",
+  "changeDate": "2024-03-15T10:01:12",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "górnicze prawo",
+   "koncesje",
+   "geologiczne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31999L0031",
+    "date": "1999-04-26",
+    "title": "Dyrektywa Rady 1999/31/WE z dnia 26 kwietnia 1999 r. w sprawie składowania odpadów"
+   },
+   {
+    "address": "32003L0033",
+    "date": "2003-05-26",
+    "title": "DYREKTYWA 2003/33/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 26 maja 2003 r. w sprawie dostosowania przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich związanych z reklamą i sponsorowaniem produktów tytoniowych"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3497.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3497",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3497",
+    "number": "3497",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2005/1947"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/628",
+     "date": "2005-07-01"
+    },
+    {
+     "id": "DU/1994/96",
+     "date": "2005-07-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20050758.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20050758.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20050758L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
