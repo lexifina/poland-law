@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1019",
+ "source_sha256": "6c623318a7f84744485270d666e9239e41a8b0a6de9189661594fd9da4afeb7d",
+ "in_force": "2005-07-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1019",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1019/text/O/D20051019.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1019/text/I/D20051019.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1019/text/T/D20051019L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1019/text/U/D20051019Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1019",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 121,
+  "pos": 1019,
+  "address": "WDU20051211019",
+  "displayAddress": "Dz.U. 2005 nr 121 poz. 1019",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 czerwca 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o giełdach towarowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-06-21",
+  "promulgation": "2005-07-06",
+  "expirationDate": "2010-03-19",
+  "changeDate": "2017-12-29T10:49:58",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "maklerzy",
+   "zezwolenia",
+   "giełdy",
+   "opłaty",
+   "papiery wartościowe"
+  ],
+  "keywordsNames": [
+   "Komisja Papierów Wartościowych i Giełd"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 62-66 ustawy z dnia 26 października 2000 r. o giełdach towarowych.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1099"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051019.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051019.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051019L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051019Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
