@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/546",
+ "source_sha256": "279b1a26457f6a799c7f1ffd0aa661043ca01f048508b2a1f6d2c694e72a2b11",
+ "in_force": "2005-07-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/546",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/546/text/O/M20050546.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/546/text/I/M20050546.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/546",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 40,
+  "pos": 546,
+  "address": "WMP20050400546",
+  "displayAddress": "M.P. 2005 nr 40 poz. 546",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 7 lipca 2005 r. o zarejestrowaniu Komitetu Wyborczego Kandydata na Prezydenta Rzeczypospolitej Polskiej Liwiusza IIasza",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-07",
+  "promulgation": "2005-07-13",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komitety",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 40d ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050546.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050546.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
