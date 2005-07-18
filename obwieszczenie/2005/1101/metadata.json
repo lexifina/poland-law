@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1101",
+ "source_sha256": "a0cddfdaff175cdcd6856ca5ac888d0a1eab000b81f08e9bbdec248a2a6cc278",
+ "in_force": "2005-07-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1101",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1101/text/O/D20051101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1101/text/I/D20051101.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1101",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 131,
+  "pos": 1101,
+  "address": "WDU20051311101",
+  "displayAddress": "Dz.U. 2005 nr 131 poz. 1101",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 13 lipca 2005 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-07-13",
+  "promulgation": "2005-07-18",
+  "repealDate": "2011-03-08",
+  "changeDate": "2020-11-03T15:55:18",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "zakłady pracy",
+   "sprostowanie",
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/869"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2011/202",
+     "date": "2011-03-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
