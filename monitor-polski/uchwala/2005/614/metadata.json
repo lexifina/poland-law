@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/614",
+ "source_sha256": "253d2755ca5a4521bf51d6e3d924d792a6512ed8f8e3eda05bdbb9bea8d51804",
+ "in_force": "2005-07-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/614",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/614/text/O/M20050614.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/614/text/I/M20050614.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/614",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 45,
+  "pos": 614,
+  "address": "WMP20050450614",
+  "displayAddress": "M.P. 2005 nr 45 poz. 614",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 18 lipca 2005 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-07-18",
+  "promulgation": "2005-08-01",
+  "entryIntoForce": "2005-07-18",
+  "validFrom": "2005-07-18",
+  "repealDate": "2010-04-19",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2010/404",
+     "date": "2010-04-19"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2000/541",
+     "date": "2005-07-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 18 pkt 2 i 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050614.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050614.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
