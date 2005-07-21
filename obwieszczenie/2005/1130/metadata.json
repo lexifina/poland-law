@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1130",
+ "source_sha256": "fc52834bc971b2b7c721e5097fa8e8cb0f85ec6b765a286220ec47038a5f1f04",
+ "in_force": "2005-07-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1130",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1130/text/O/D20051130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1130/text/I/D20051130.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1130",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 134,
+  "pos": 1130,
+  "address": "WDU20051341130",
+  "displayAddress": "Dz.U. 2005 nr 134 poz. 1130",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 18 lipca 2005 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-18",
+  "promulgation": "2005-07-21",
+  "changeDate": "2020-11-03T15:56:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sprostowanie",
+   "dokumenty",
+   "farmaceuci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/1034"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051130.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
