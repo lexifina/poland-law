@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1172",
+ "source_sha256": "ec1467deb5d5661f656f179110ce7e4400f2417342f65c5524446e6a08fcbbf2",
+ "in_force": "2005-07-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 464 words, parsed 194; at 194: 'poz . 806 ) : a ) jest zgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1172",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/1172/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1172/text/O/D20051172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1172/text/I/D20051172.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1172/text/T/D20051172TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1172",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 139,
+  "pos": 1172,
+  "address": "WDU20051391172",
+  "displayAddress": "Dz.U. 2005 nr 139 poz. 1172",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 lipca 2005 r. sygn. akt P 11/03",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-12",
+  "promulgation": "2005-07-27",
+  "entryIntoForce": "2005-07-27",
+  "validFrom": "2005-07-27",
+  "changeDate": "2024-03-15T10:01:21",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kasy rejestrujące",
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1992/426"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1996/806"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20051172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051172.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051172TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051172TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
