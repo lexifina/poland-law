@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/601",
+ "source_sha256": "d1db0f5c18e29e65db326063345faede728e6b830bbf3d5aaea23ed86db5b071",
+ "in_force": "2005-07-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/601",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/601/text/O/M20050601.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/601/text/I/M20050601.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/601",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 43,
+  "pos": 601,
+  "address": "WMP20050430601",
+  "displayAddress": "M.P. 2005 nr 43 poz. 601",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2005 r. w sprawie wykazu jednostek organizacyjnych upoważnionych do przeprowadzania badań skuteczności działania środka ochrony roślin",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-07-07",
+  "promulgation": "2005-07-27",
+  "repealDate": "2006-03-13",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona roślin"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/94"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/94",
+     "art": "art. 40 ust. 8"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2006/245",
+     "date": "2006-03-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050601.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050601.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
