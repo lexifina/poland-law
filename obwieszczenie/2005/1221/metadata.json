@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1221",
+ "source_sha256": "97836ab873a3f99702f71856b091bac4fd7349bca1a38b54e98edf8668ef7cb9",
+ "in_force": "2005-08-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1221",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1221/text/O/D20051221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1221/text/I/D20051221.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1221/text/T/D20051221L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1221/text/U/D20051221Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1221",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 145,
+  "pos": 1221,
+  "address": "WDU20051451221",
+  "displayAddress": "Dz.U. 2005 nr 145 poz. 1221",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lipca 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-07-26",
+  "promulgation": "2005-08-04",
+  "expirationDate": "2014-08-20",
+  "changeDate": "2014-12-31T12:26:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "licencje",
+   "kwalifikacje",
+   "ochrona osób i mienia",
+   "działalność gospodarcza",
+   "broń, amunicja i materiały wybuchowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 51-54 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/740"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051221.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051221L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051221Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
