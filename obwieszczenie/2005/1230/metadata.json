@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1230",
+ "source_sha256": "df95e9cbe0927c1b367d2ee9e2021f88b4b0fb1921653050b61af0232acbae01",
+ "in_force": "2005-08-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1230",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1230/text/O/D20051230.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1230/text/I/D20051230.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1230",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 147,
+  "pos": 1230,
+  "address": "WDU20051471230",
+  "displayAddress": "Dz.U. 2005 nr 147 poz. 1230",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 28 lipca 2005 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-28",
+  "promulgation": "2005-08-05",
+  "changeDate": "2020-11-03T15:56:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "górnictwo",
+   "porządkowanie prawa",
+   "sprostowanie",
+   "pomoc finansowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2006/1651",
+     "date": "2006-12-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/978"
+    },
+    {
+     "id": "DU/2005/1064"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051230.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051230.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
