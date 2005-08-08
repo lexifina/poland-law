@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/622",
+ "source_sha256": "780f018610ab5cb8715c099dbf10142bf1307664cbb37a2d5609af9b703e0bc5",
+ "in_force": "2005-08-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/622",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/622/text/O/M20050622.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/622/text/I/M20050622.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/622",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 46,
+  "pos": 622,
+  "address": "WMP20050460622",
+  "displayAddress": "M.P. 2005 nr 46 poz. 622",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 27 lipca 2005 r. w sprawie wyboru oskarżycieli przed Trybunałem Stanu",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-27",
+  "promulgation": "2005-08-08",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/84",
+     "art": "art. 11 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050622.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050622.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
