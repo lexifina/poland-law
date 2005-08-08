@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/625",
+ "source_sha256": "e670f75b7374831dfef780ee8a939bd755d55fc34a8d675860e1ff6ee99eebc4",
+ "in_force": "2005-08-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/625",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/625/text/O/M20050625.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/625/text/I/M20050625.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/625",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 46,
+  "pos": 625,
+  "address": "WMP20050460625",
+  "displayAddress": "M.P. 2005 nr 46 poz. 625",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 29 lipca 2005 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej polskiej zgody na pociągnięcie do cywilnej odpowiedzialności sądowej posła Ryszarda Zbrzyznego",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-29",
+  "promulgation": "2005-08-08",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "odpowiedzialność cywilna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/350",
+     "art": "art. 105 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050625.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050625.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
