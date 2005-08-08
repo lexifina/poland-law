@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/626",
+ "source_sha256": "9ac62861e9afdf03ea591ebaf3fb27fa8296440602a6fe6b517a58f6b505ded2",
+ "in_force": "2005-08-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/626",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/626/text/O/M20050626.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/626/text/I/M20050626.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/626",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 46,
+  "pos": 626,
+  "address": "WMP20050460626",
+  "displayAddress": "M.P. 2005 nr 46 poz. 626",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 29 lipca 2005 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na zastosowanie wobec posła Ryszarda Bondy środka zapobiegawczego w postaci tymczasowego aresztowania",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-29",
+  "promulgation": "2005-08-08",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050626.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050626.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
