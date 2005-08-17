@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1200",
+ "source_sha256": "afd84a27f7fec138038e3b7aaaafc4c3c70750005d569ac2964578cd40f698b4",
+ "in_force": "2005-08-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1200",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/1200/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1200/text/O/D20051200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1200/text/I/D20051200.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1200/text/T/D20051200L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1200/text/U/D20051200Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1200",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 143,
+  "pos": 1200,
+  "address": "WDU20051431200",
+  "displayAddress": "Dz.U. 2005 nr 143 poz. 1200",
+  "title": "Ustawa z dnia 1 lipca 2005 r. o ustanowieniu programu wieloletniego \"Narodowy program zwalczania chorób nowotworowych\"",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-01",
+  "promulgation": "2005-08-02",
+  "entryIntoForce": "2005-08-17",
+  "validFrom": "2005-08-17",
+  "changeDate": "2024-03-15T10:01:56",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "programy wieloletnie",
+   "wskaźnik",
+   "choroby",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3857.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3857",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3857",
+    "number": "3857",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2008/325",
+     "date": "2008-04-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1998/1014"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20051200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051200.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051200L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051200Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
