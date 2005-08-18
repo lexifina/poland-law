@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/664",
+ "source_sha256": "2e72b67ed8a052d05fa88a4a29b6a451f6894f062d830dd9019e75b29313121e",
+ "in_force": "2005-08-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/664",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/664/text/O/M20050664.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/664/text/I/M20050664.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/664",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 48,
+  "pos": 664,
+  "address": "WMP20050480664",
+  "displayAddress": "M.P. 2005 nr 48 poz. 664",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 8 sierpnia 2005 r. o zarejestrowaniu Komitetu Wyborczego Kandydata na Prezydenta Rzeczypospolitej Polskiej Bolesława Tejkowskiego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-08-08",
+  "promulgation": "2005-08-18",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komitety",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 40d ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050664.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050664.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
