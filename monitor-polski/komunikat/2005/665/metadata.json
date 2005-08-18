@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/665",
+ "source_sha256": "8547f42a9bfca225a9da3aa7d137d34857c5c10c3d3c217f984076786ac4a37c",
+ "in_force": "2005-08-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/665",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/665/text/O/M20050665.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/665/text/I/M20050665.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/665",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 48,
+  "pos": 665,
+  "address": "WMP20050480665",
+  "displayAddress": "M.P. 2005 nr 48 poz. 665",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 9 sierpnia 2005 r. w sprawie przeciętnego wynagrodzenia w drugim kwartale 2005 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-08-09",
+  "promulgation": "2005-08-18",
+  "changeDate": "2020-11-13T11:47:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050665.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050665.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
