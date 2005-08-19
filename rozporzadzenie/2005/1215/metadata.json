@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1215",
+ "source_sha256": "70aa330cf287d3b2f64870f8b695ccea9f2d9ac2cd41b9ae8db225e8efce2bb8",
+ "in_force": "2005-08-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1215",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1215/text/O/D20051215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1215/text/I/D20051215.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1215",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 145,
+  "pos": 1215,
+  "address": "WDU20051451215",
+  "displayAddress": "Dz.U. 2005 nr 145 poz. 1215",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 14 lipca 2005 r. w sprawie planu numeracji krajowej dla publicznych sieci telefonicznych",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-07-14",
+  "promulgation": "2005-08-04",
+  "entryIntoForce": "2005-08-19",
+  "validFrom": "2005-08-19",
+  "repealDate": "2008-04-11",
+  "changeDate": "2014-12-31T12:26:05",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2008/307",
+     "date": "2008-04-11"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/735",
+     "date": "2005-08-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/1800"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/1800",
+     "art": "art. 126 ust. 12 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051215.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
