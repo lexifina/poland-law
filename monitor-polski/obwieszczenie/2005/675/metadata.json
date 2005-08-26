@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/675",
+ "source_sha256": "0e2a3877c82cb6c54b7964cfbf74b4ae74c80870ae11a875a4464fe13e05275f",
+ "in_force": "2005-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/675",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/675/text/O/M20050675.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/675/text/I/M20050675.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/675",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 49,
+  "pos": 675,
+  "address": "WMP20050490675",
+  "displayAddress": "M.P. 2005 nr 49 poz. 675",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 18 sierpnia 2005 r. o zwolnieniu stanowiska sędziowskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-08-18",
+  "promulgation": "2005-08-26",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050675.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050675.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
