@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/678",
+ "source_sha256": "acab372c20b4c32856b75d4a9b3f3d165ec5b4e053ad3ca38164a333f6aacef9",
+ "in_force": "2005-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/678",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/678/text/O/M20050678.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/678/text/I/M20050678.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/678",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 49,
+  "pos": 678,
+  "address": "WMP20050490678",
+  "displayAddress": "M.P. 2005 nr 49 poz. 678",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 12 sierpnia 2005 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego przyjmowanej do obliczenia świadczenia rehabilitacyjnego w IV kwartale 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-08-12",
+  "promulgation": "2005-08-26",
+  "changeDate": "2019-03-22T14:26:50",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "waloryzacja świadczeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 19 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050678.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050678.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
