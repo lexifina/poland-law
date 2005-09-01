@@ -1,0 +1,1 @@
+Składając hołd największemu autorytetowi XX wieku, człowiekowi, który sięgając do źródeł chrześcijaństwa, uczył nas solidarności, odwagi i pokory, stanowczości i wyrozumiałości, mądrości, uchwala się, co następuje:
