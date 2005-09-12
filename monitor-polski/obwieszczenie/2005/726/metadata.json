@@ -1,0 +1,64 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/726",
+ "source_sha256": "6afcb85f5cd41f967d3f72f6851f40e676361c9d6a55c11d4d2c71e1ce79ddbd",
+ "in_force": "2005-09-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/726",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/726/text/O/M20050726.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/726/text/I/M20050726.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/726",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 52,
+  "pos": 726,
+  "address": "WMP20050520726",
+  "displayAddress": "M.P. 2005 nr 52 poz. 726",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 25 sierpnia 2005 r. w sprawie wskaźnika cen dóbr inwestycyjnych za II kwartał 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-08-25",
+  "promulgation": "2005-09-12",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "inwestycje",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1996/561"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050726.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050726.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
