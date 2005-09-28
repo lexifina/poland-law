@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1567",
+ "source_sha256": "688a8a8838ddc72200519fc7e5c34e4b63882bf7ede35bd02379049bf0436730",
+ "in_force": "2005-09-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 364 words, parsed 149; at 149: '83 Konstytucji , orzeka : I 1 . Art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1567",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/1567/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1567/text/O/D20051567.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1567/text/I/D20051567.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1567/text/T/D20051567TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1567",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 186,
+  "pos": 1567,
+  "address": "WDU20051861567",
+  "displayAddress": "Dz.U. 2005 nr 186 poz. 1567",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 września 2005 r. sygn. akt K 38/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-09-13",
+  "promulgation": "2005-09-28",
+  "entryIntoForce": "2005-09-28",
+  "validFrom": "2005-09-28",
+  "changeDate": "2024-03-15T10:01:29",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "język państwowy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/878",
+     "date": "2006-06-30"
+    },
+    {
+     "id": "DU/1999/999",
+     "date": "2006-06-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/878"
+    },
+    {
+     "id": "DU/1999/999"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20051567.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051567.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051567TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051567TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
