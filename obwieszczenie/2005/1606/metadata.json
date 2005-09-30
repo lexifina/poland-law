@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1606",
+ "source_sha256": "4ab5cc7345c09d9ff8257cfc0f2cb5c933cd5c1f9c07632aca5a0a7f3adafced",
+ "in_force": "2005-09-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1606",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1606/text/O/D20051606.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1606/text/I/D20051606.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1606/text/T/D20051606L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1606/text/U/D20051606Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1606",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 190,
+  "pos": 1606,
+  "address": "WDU20051901606",
+  "displayAddress": "Dz.U. 2005 nr 190 poz. 1606",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 września 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-09-22",
+  "promulgation": "2005-09-30",
+  "expirationDate": "2007-03-28",
+  "changeDate": "2022-08-17T10:34:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzienniki urzędowe",
+   "wydawnictwa i publikacje",
+   "administracja rządowa",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych nie obejmuje art. 30-40.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/718"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051606.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051606.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051606L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051606Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
