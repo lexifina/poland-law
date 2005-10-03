@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/786",
+ "source_sha256": "87a82d2c2e2d655410547de3087f0d8f5317ffafe3fc66fd63c629d99ba19b13",
+ "in_force": "2005-10-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/786",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/786/text/O/M20050786.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/786/text/I/M20050786.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/786",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 58,
+  "pos": 786,
+  "address": "WMP20050580786",
+  "displayAddress": "M.P. 2005 nr 58 poz. 786",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 3 października 2005 r. zmieniająca uchwałę w sprawie wzoru karty do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-10-03",
+  "promulgation": "2005-10-07",
+  "entryIntoForce": "2005-10-03",
+  "validFrom": "2005-10-03",
+  "repealDate": "2010-05-24",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2010/592",
+     "date": "2010-05-24"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2000/550",
+     "date": "2005-10-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 18 pkt 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050786.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050786.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
