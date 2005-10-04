@@ -1,0 +1,103 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1486",
+ "source_sha256": "cbc72ac1faef1d05432cea099e564b06f2c98fc76de774f959d03eeabf3dd7f0",
+ "in_force": "2005-10-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (2 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1486",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/1486/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1486/text/O/D20051486.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1486/text/I/D20051486.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1486/text/T/D20051486L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1486",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 179,
+  "pos": 1486,
+  "address": "WDU20051791486",
+  "displayAddress": "Dz.U. 2005 nr 179 poz. 1486",
+  "title": "Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-29",
+  "promulgation": "2005-09-19",
+  "entryIntoForce": "2005-10-04",
+  "validFrom": "2005-10-04",
+  "changeDate": "2024-03-15T10:02:23",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS TRANSPORTU"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "drogi publiczne",
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/3921.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/3921",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/3921",
+    "number": "3921",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/787",
+     "date": "2005-10-04"
+    },
+    {
+     "id": "DU/2004/760",
+     "date": "2005-10-04"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1953",
+     "date": "2005-10-04"
+    },
+    {
+     "id": "DU/1997/602",
+     "date": "2005-10-04"
+    },
+    {
+     "id": "DU/1985/60",
+     "date": "2005-10-04"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20051486.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051486.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051486L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
