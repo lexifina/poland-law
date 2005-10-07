@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/787",
+ "source_sha256": "ce383df54189c17091893d197ed3fd80b93d45c1cdf463a4a9c766a575810871",
+ "in_force": "2005-10-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/787",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/787/text/O/M20050787.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/787/text/I/M20050787.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/787",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 58,
+  "pos": 787,
+  "address": "WMP20050580787",
+  "displayAddress": "M.P. 2005 nr 58 poz. 787",
+  "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 23 września 2005 r. zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-09-23",
+  "promulgation": "2005-10-07",
+  "entryIntoForce": "2005-10-07",
+  "validFrom": "2005-10-07",
+  "repealDate": "2013-10-01",
+  "changeDate": "2022-04-05T11:28:22",
+  "releasedBy": [
+   "ZARZ. NBP"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Zarząd Narodowego Banku Polskiego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2013/783",
+     "date": "2013-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1998/203",
+     "date": "2005-10-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/938"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/938",
+     "art": "art. 20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050787.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050787.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
