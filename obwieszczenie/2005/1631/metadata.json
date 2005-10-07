@@ -1,0 +1,104 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1631",
+ "source_sha256": "1f42f0477251c68cc38607475abe45de7707b3cc4e5f2b4df0dc437a4c053318",
+ "in_force": "2005-10-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1631",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1631/text/O/D20051631.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1631/text/I/D20051631.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1631/text/T/D20051631L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1631/text/U/D20051631Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1631",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 196,
+  "pos": 1631,
+  "address": "WDU20051961631",
+  "displayAddress": "Dz.U. 2005 nr 196 poz. 1631",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 września 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-09-22",
+  "promulgation": "2005-10-07",
+  "repealDate": "2011-01-02",
+  "changeDate": "2014-12-31T12:26:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadek koronny",
+   "informacje niejawne",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [
+   "Agencja Bezpieczeństwa Wewnętrznego",
+   "Żandarmeria Wojskowa",
+   "Agencja Wywiadu",
+   "Biuro Ochrony Rządu"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 77-85, 87 i 89 ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. Nr 11, poz. 95)",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2010/1228",
+     "date": "2011-01-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2005/727"
+    },
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2005/727",
+     "art": "art. 11"
+    },
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1999/95"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051631.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051631.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051631L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051631Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
