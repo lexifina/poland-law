@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1626",
+ "source_sha256": "a2749fce2dc98d130fe58ae4c82185c99ff8cd77412bd28638eea93629560374",
+ "in_force": "2005-10-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1626",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1626/text/O/D20051626.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1626/text/I/D20051626.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1626",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 195,
+  "pos": 1626,
+  "address": "WDU20051951626",
+  "displayAddress": "Dz.U. 2005 nr 195 poz. 1626",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 września 2005 r. o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 września 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-09-27",
+  "promulgation": "2005-10-07",
+  "changeDate": "2025-03-21T10:45:29",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 173"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051626.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051626.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
