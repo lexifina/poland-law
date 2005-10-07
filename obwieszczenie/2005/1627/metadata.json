@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1627",
+ "source_sha256": "ae5670ed7d1062f16524fd88a91adc6bbcaa8e31d3049aa58395c633741f5611",
+ "in_force": "2005-10-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1627",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1627/text/O/D20051627.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1627/text/I/D20051627.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1627",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 195,
+  "pos": 1627,
+  "address": "WDU20051951627",
+  "displayAddress": "Dz.U. 2005 nr 195 poz. 1627",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 września 2005 r. o wynikach wyborów do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 września 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-09-27",
+  "promulgation": "2005-10-07",
+  "changeDate": "2025-03-21T10:45:19",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051627.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051627.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
