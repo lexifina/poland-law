@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1647",
+ "source_sha256": "c5a78cf3eb7303bec5672e21c3cc1840c5f58362e5bc5c6cf484b76c637b5a05",
+ "in_force": "2005-10-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1647",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1647/text/O/D20051647.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1647/text/I/D20051647.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1647",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 200,
+  "pos": 1647,
+  "address": "WDU20052001647",
+  "displayAddress": "Dz.U. 2005 nr 200 poz. 1647",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 10 października 2005 r. o wynikach głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-10-10",
+  "promulgation": "2005-10-13",
+  "changeDate": "2014-12-31T12:26:05",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Państwowa Komisja Wyborcza",
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 69 ust. 1 i 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051647.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051647.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
