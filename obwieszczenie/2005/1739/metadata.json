@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1739",
+ "source_sha256": "1c421abd17ea9ac4586fd5e7fe4b8ade578df6ae361ae5a2cf969ec9fde4351c",
+ "in_force": "2005-10-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1739",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1739/text/O/D20051739.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1739/text/I/D20051739.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1739",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 208,
+  "pos": 1739,
+  "address": "WDU20052081739",
+  "displayAddress": "Dz.U. 2005 nr 208 poz. 1739",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 24 października 2005 r. o wynikach ponownego głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-10-24",
+  "promulgation": "2005-10-25",
+  "changeDate": "2014-12-31T12:26:05",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/398",
+     "art": "art. 69 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051739.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051739.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
