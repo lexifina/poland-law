@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/865",
+ "source_sha256": "590aff0608a8d756a27b60d5153e862139c38945b02a0ea158d7b785326ae15e",
+ "in_force": "2005-10-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/865",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/865/text/O/M20050865.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/865/text/I/M20050865.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/865",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 62,
+  "pos": 865,
+  "address": "WMP20050620865",
+  "displayAddress": "M.P. 2005 nr 62 poz. 865",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 14 października 2005 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w III kwartale 2005 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-10-14",
+  "promulgation": "2005-10-26",
+  "changeDate": "2020-10-20T09:37:42",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "towar",
+   "wskaźnik",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050865.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050865.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
