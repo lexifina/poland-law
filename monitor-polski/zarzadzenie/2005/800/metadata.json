@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/800",
+ "source_sha256": "8f1d25091d961ab05ab928a6d3a1d958e55d480524601b9393ab4f1ed93a26a9",
+ "in_force": "2005-10-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/800",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/800/text/O/M20050800.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/800/text/I/M20050800.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/800",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 60,
+  "pos": 800,
+  "address": "WMP20050600800",
+  "displayAddress": "M.P. 2005 nr 60 poz. 800",
+  "title": "Zarządzenie Nr 95 Prezesa Rady Ministrów z dnia 7 października 2005 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Obrony Narodowej",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-10-07",
+  "promulgation": "2005-10-14",
+  "entryIntoForce": "2005-10-29",
+  "validFrom": "2005-10-29",
+  "repealDate": "2007-01-01",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2006/768",
+     "date": "2007-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2002/29",
+     "date": "2005-10-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/56"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/56",
+     "art": "art. 10 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050800.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050800.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
