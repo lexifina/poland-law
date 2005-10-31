@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/888",
+ "source_sha256": "e786803d0938a8fc974bc2f1b6f60a210615e9a1b1e6665dfe415db0c7fd3c05",
+ "in_force": "2005-10-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/888",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/888/text/O/M20050888.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/888/text/I/M20050888.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/888",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 64,
+  "pos": 888,
+  "address": "WMP20050640888",
+  "displayAddress": "M.P. 2005 nr 64 poz. 888",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 21 października 2005 r. o treści oświadczenia złożonego przez osobę ubiegającą się o wpis na listę adwokatów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-10-21",
+  "promulgation": "2005-10-31",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura",
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 11 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050888.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050888.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
