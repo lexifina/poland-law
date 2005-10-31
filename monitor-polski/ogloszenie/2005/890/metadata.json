@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/890",
+ "source_sha256": "ba5fac7dea626e0ca2c05c4aa79f4bc8fbb3b79799e8e8650d9fc72be7a0a39a",
+ "in_force": "2005-10-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/890",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/890/text/O/M20050890.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/890/text/I/M20050890.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/890",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 64,
+  "pos": 890,
+  "address": "WMP20050640890",
+  "displayAddress": "M.P. 2005 nr 64 poz. 890",
+  "title": "Ogłoszenie Prezesa Rady Ministrów z dnia 28 października 2005 r. w sprawie sposobu przytaczania miejsca ogłoszenia wspólnotowych aktów prawnych, do których odsyła się w krajowych aktach prawnych",
+  "type": "Ogłoszenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-10-28",
+  "promulgation": "2005-10-31",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzienniki urzędowe",
+   "wydawnictwa i publikacje"
+  ],
+  "keywordsNames": [
+   "Unia Europejska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 10 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050890.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050890.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
