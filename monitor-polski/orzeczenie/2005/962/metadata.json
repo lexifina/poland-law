@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/962",
+ "source_sha256": "ee7a5048619337fd385be3ed93ce3058093ea6235ca03c42837a5a860036bcdf",
+ "in_force": "2005-11-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/962",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/962/text/O/M20050962.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/962/text/I/M20050962.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2005/962/text/T/M20050962TK.doc"
+ },
+ "metadata": {
+  "ELI": "MP/2005/962",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 69,
+  "pos": 962,
+  "address": "WMP20050690962",
+  "displayAddress": "M.P. 2005 nr 69 poz. 962",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 9 listopada 2005 r. sygn. akt Kp 2/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-11-09",
+  "promulgation": "2005-11-16",
+  "entryIntoForce": "2005-11-16",
+  "validFrom": "2005-11-16",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "sądy powszechne",
+   "finanse publiczne"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/2104",
+     "date": "2005-11-16"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/2104"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20050962.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20050962.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20050962TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "M20050962TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
