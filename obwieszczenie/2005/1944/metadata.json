@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1944",
+ "source_sha256": "3ac4bf0d6d040e9d7ecdf6f8756c08b4a954ea30dadea14eeacb314839ba3fbe",
+ "in_force": "2005-11-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1944",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1944/text/O/D20051944.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1944/text/I/D20051944.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1944/text/T/D20051944L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1944/text/U/D20051944Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1944",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 226,
+  "pos": 1944,
+  "address": "WDU20052261944",
+  "displayAddress": "Dz.U. 2005 nr 226 poz. 1944",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 listopada 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie granicy państwowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-11-03",
+  "promulgation": "2005-11-17",
+  "expirationDate": "2009-01-14",
+  "changeDate": "2017-12-29T10:53:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "lotnicze prawo",
+   "ewidencja ludności",
+   "granice państwa"
+  ],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/461"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051944.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051944.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051944L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051944Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
