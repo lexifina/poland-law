@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/1003",
+ "source_sha256": "aea6d32237079f470c8496dc6c5c0b7530a6c01caa67506f2fdf5a10e51613dd",
+ "in_force": "2005-11-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/1003",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/1003/text/O/M20051003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/1003/text/I/M20051003.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/1003",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 73,
+  "pos": 1003,
+  "address": "WMP20050731003",
+  "displayAddress": "M.P. 2005 nr 73 poz. 1003",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 14 listopada 2005 r. o wolnym stanowisku komornika sądowego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-11-14",
+  "promulgation": "2005-11-24",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komornicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/882"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/882",
+     "art": "art. 11 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20051003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20051003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
