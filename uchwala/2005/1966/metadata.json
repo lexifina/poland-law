@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1966",
+ "source_sha256": "e4772fcc558e4a213d7f2997993da7b2619d94d0652f5548b92b27b2667cbfd3",
+ "in_force": "2005-11-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1966",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1966/text/O/D20051966.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1966/text/I/D20051966.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1966",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 232,
+  "pos": 1966,
+  "address": "WDU20052321966",
+  "displayAddress": "Dz.U. 2005 nr 232 poz. 1966",
+  "title": "Uchwała Sądu Najwyższego z dnia 23 listopada 2005 r. w sprawie ważności wyborów Prezydenta Rzeczypospolitej Polskiej przeprowadzonych w dniach 9 i 23 października 2005 r.",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-11-23",
+  "promulgation": "2005-11-29",
+  "changeDate": "2019-03-08T14:21:32",
+  "releasedBy": [
+   "SĄD NAJWYŻSZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2005/1739"
+    },
+    {
+     "id": "DU/1990/398"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 129 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051966.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051966.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
