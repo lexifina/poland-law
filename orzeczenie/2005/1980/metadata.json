@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1980",
+ "source_sha256": "8c960a931a722a66a9d40ad928e0925006c6c9eee6a31fea917603e43555eb72",
+ "in_force": "2005-11-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 579 words, parsed 59; at 59: 'Krawiel o zbadanie zgodności : 1 ) art . 367'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1980",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/1980/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1980/text/O/D20051980.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1980/text/I/D20051980.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1980/text/T/D20051980TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1980",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 232,
+  "pos": 1980,
+  "address": "WDU20052321980",
+  "displayAddress": "Dz.U. 2005 nr 232 poz. 1980",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 listopada 2005 r. sygn. akt SK 8/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-11-22",
+  "promulgation": "2005-11-29",
+  "entryIntoForce": "2005-11-29",
+  "validFrom": "2005-11-29",
+  "changeDate": "2024-03-15T10:01:09",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks cywilny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/93"
+    },
+    {
+     "id": "DU/1964/296"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 39 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20051980.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051980.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051980TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051980TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
