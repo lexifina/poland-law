@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1978",
+ "source_sha256": "c20567ca9ccc3cc11f5daf33cf626f383267d5cd5f39f7037be2c23e86c2d1c6",
+ "in_force": "2005-11-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1978",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1978/text/O/D20051978.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1978/text/I/D20051978.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1978",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 232,
+  "pos": 1978,
+  "address": "WDU20052321978",
+  "displayAddress": "Dz.U. 2005 nr 232 poz. 1978",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 22 listopada 2005 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-11-22",
+  "promulgation": "2005-11-29",
+  "changeDate": "2020-11-03T15:55:18",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Belgia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 2b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2004/329"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051978.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051978.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
