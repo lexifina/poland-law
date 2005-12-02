@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2005/1080",
+ "source_sha256": "e9fbb0d92d77f5e089eda8344191d579ff041de681e2a9a4d0d87f0431534e3b",
+ "in_force": "2005-12-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2005/1080",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2005/1080/text/O/M20051080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2005/1080/text/I/M20051080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2005/1080",
+  "publisher": "MP",
+  "year": 2005,
+  "volume": 77,
+  "pos": 1080,
+  "address": "WMP20050771080",
+  "displayAddress": "M.P. 2005 nr 77 poz. 1080",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 25 listopada 2005 r. w sprawie wskaźnika cen dóbr inwestycyjnych za III kwartał 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-11-25",
+  "promulgation": "2005-12-02",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20051080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20051080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
