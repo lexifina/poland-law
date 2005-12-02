@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2000",
+ "source_sha256": "20c84cc31a1970e29b80ac9e0c3e4d50f8c55605d55123cad9ac7d05678befea",
+ "in_force": "2005-12-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2000",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2000/text/O/D20052000.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2000/text/I/D20052000.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/2000/text/U/D20052000Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2000",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 235,
+  "pos": 2000,
+  "address": "WDU20052352000",
+  "displayAddress": "Dz.U. 2005 nr 235 poz. 2000",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 listopada 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-11-02",
+  "promulgation": "2005-12-02",
+  "expirationDate": "2016-05-05",
+  "changeDate": "2017-10-25T16:57:24",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "hymn",
+   "pieczęcie urzędowe",
+   "godło i barwy państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1980/18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20052000.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20052000.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20052000Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
