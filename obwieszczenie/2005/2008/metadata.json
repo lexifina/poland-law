@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2008",
+ "source_sha256": "9435817a18ee4b87720a73ae17389cbb88459f0b63c5dd3113e29a9336fdc64c",
+ "in_force": "2005-12-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2008",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2008/text/O/D20052008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2008/text/I/D20052008.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/2008/text/T/D20052008L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/2008/text/U/D20052008Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2008",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 236,
+  "pos": 2008,
+  "address": "WDU20052362008",
+  "displayAddress": "Dz.U. 2005 nr 236 poz. 2008",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 listopada 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utrzymaniu czystości i porządku w gminach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-11-28",
+  "promulgation": "2005-12-05",
+  "expirationDate": "2012-04-11",
+  "changeDate": "2014-12-31T12:27:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "czystość i porządek"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31975L0442",
+    "date": "1975-07-15",
+    "title": "Dyrektywa Rady 75/442/EWG z dnia 15 lipca 1975 r. w sprawie odpadów"
+   },
+   {
+    "address": "31991L0271",
+    "date": "1991-05-21",
+    "title": "Dyrektywa Rady 91/271/EWG z dnia 21 maja 1991 r. dotycząca oczyszczania ścieków komunalnych"
+   }
+  ],
+  "prints": [],
+  "comments": "tekst  jednolity nie obejmuje art. 11-13 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. Nr 132, poz. 622)",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1996/622"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20052008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20052008.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20052008L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20052008Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
