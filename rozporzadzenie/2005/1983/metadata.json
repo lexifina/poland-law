@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1983",
+ "source_sha256": "db0db03e8bc4b2f3cd9ac43ec6ee848c98fba56ca125b3598377498c5759fc67",
+ "in_force": "2005-12-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1983",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1983/text/O/D20051983.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1983/text/I/D20051983.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1983",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 233,
+  "pos": 1983,
+  "address": "WDU20052331983",
+  "displayAddress": "Dz.U. 2005 nr 233 poz. 1983",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 27 października 2005 r. zmieniające rozporządzenie w sprawie opłaty lotniczej",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-10-27",
+  "promulgation": "2005-11-30",
+  "entryIntoForce": "2005-12-08",
+  "validFrom": "2005-12-08",
+  "repealDate": "2012-01-01",
+  "changeDate": "2014-12-31T12:26:05",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1718",
+     "date": "2005-12-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1112",
+     "art": "art. 25 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2011/1015",
+     "date": "2012-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20051983.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051983.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
