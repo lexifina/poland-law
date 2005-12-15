@@ -1,0 +1,113 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2080",
+ "source_sha256": "8b1bc13ef040956aa156dc22864ab54b412e82ad4ad87fe1b713b6d098bbb154",
+ "in_force": "2005-12-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2080",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2080/text/O/D20052080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2080/text/I/D20052080.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/2080/text/T/D20052080L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/2080/text/U/D20052080Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2080",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 244,
+  "pos": 2080,
+  "address": "WDU20052442080",
+  "displayAddress": "Dz.U. 2005 nr 244 poz. 2080",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie konkurencji i konsumentów",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-12-02",
+  "promulgation": "2005-12-15",
+  "repealDate": "2007-04-21",
+  "changeDate": "2014-12-31T12:27:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsumenci",
+   "ochrona",
+   "konkurencja"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31998L0027",
+    "date": "1998-05-19",
+    "title": "DYREKTYWA 98/27/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 19 maja 1998 roku dotycząca nakazów sądowych w sprawach ochrony interesów konsumentów"
+   },
+   {
+    "address": "32003R0001",
+    "date": "2002-12-16",
+    "title": "Rozporządzenie Rady (WE) nr 1/2003 z dnia 16 grudnia 2002 r. w sprawie wprowadzenia w życie przepisów o konkurencji ustanowionych w art. 81 i 82 Traktatu"
+   },
+   {
+    "address": "32004R0139",
+    "date": "2004-01-20",
+    "title": "ROZPORZĄDZENIE RADY (WE) Nr 139/2004 z dnia 20 stycznia 2004 r. w sprawie kontroli koncentracji przedsiębiorstw ( rozporządzenie WE w sprawie kontroli łączenia przedsiębiorstw)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2007/331",
+     "date": "2007-04-21"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2003/804",
+     "date": "2005-12-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1319"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20052080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20052080.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20052080L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20052080Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
