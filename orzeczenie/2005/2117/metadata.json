@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2117",
+ "source_sha256": "599ffba2b522e3c0c738f315f5eab05db863e9f43ebd30b7af469a68c97a722c",
+ "in_force": "2005-12-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 856 words, parsed 53; at 53: 'grudnia 2005 r . : 1 ) skargi konstytucyjnej Zdzisława'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2117",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/2117/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2117/text/O/D20052117.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2117/text/I/D20052117.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/2117/text/T/D20052117TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2117",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 250,
+  "pos": 2117,
+  "address": "WDU20052502117",
+  "displayAddress": "Dz.U. 2005 nr 250 poz. 2117",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2005 r. sygn. akt SK 20/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-12-12",
+  "promulgation": "2005-12-21",
+  "entryIntoForce": "2005-12-21",
+  "validFrom": "2005-12-21",
+  "changeDate": "2024-03-15T10:01:19",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "górnictwo",
+   "kopalnie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1802",
+     "date": "2005-12-21"
+    },
+    {
+     "id": "DU/1998/1112",
+     "date": "2005-12-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/2020"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1802"
+    },
+    {
+     "id": "DU/1998/1112"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20052117.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20052117.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20052117TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20052117TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
