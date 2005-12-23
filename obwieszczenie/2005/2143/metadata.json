@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2143",
+ "source_sha256": "292cc54106f74daef14a9586bd04efc5e3f20c109dcab847ba611e7be3038fa6",
+ "in_force": "2005-12-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2143",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2143/text/O/D20052143.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2143/text/I/D20052143.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/2143/text/T/D20052143L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2143",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 255,
+  "pos": 2143,
+  "address": "WDU20052552143",
+  "displayAddress": "Dz.U. 2005 nr 255 poz. 2143",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 grudnia 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o środkach żywienia zwierząt",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2005-12-15",
+  "promulgation": "2005-12-23",
+  "repealDate": "2006-08-26",
+  "changeDate": "2014-12-31T12:27:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pasze",
+   "weterynaryjna służba",
+   "zezwolenia",
+   "działalność gospodarcza",
+   "lekarze weterynarii",
+   "zwierzęta hodowlane"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32003R1831",
+    "date": "2003-08-22",
+    "title": "rozporządzenie (WE) nr 1831/2003 Parlamentu Europejskiego i Rady z dnia 22 sierpnia 2003 r. w sprawie dodatków stosowanych w żywieniu zwierząt"
+   }
+  ],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 47-50 ustawy z dnia 23 sierpnia 2001 r. o środkach żywienia zwierząt.",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2006/1045",
+     "date": "2006-08-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1350"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20052143.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20052143.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20052143L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
