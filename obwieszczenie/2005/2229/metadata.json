@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/2229",
+ "source_sha256": "25a76730caca0f988f0b79575a2c8c279fe962f25daa8717e988c97feebf47bf",
+ "in_force": "2005-12-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/2229",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/2229/text/O/D20052229.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/2229/text/I/D20052229.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/2229",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 265,
+  "pos": 2229,
+  "address": "WDU20052652229",
+  "displayAddress": "Dz.U. 2005 nr 265 poz. 2229",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 28 grudnia 2005 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-12-28",
+  "promulgation": "2005-12-30",
+  "changeDate": "2020-11-03T15:56:29",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "budownictwo",
+   "sprostowanie",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2005/2082"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20052229.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20052229.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
