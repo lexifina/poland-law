@@ -1,6 +1,6 @@
 # Art. 286a.
 
-§ 1. Kontrolujący może w razie uzasadnionej potrzeby wezwać, w pilnych przypadkach także ustnie, pomocy organu Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej lub Straży Miejskiej, jeżeli trafi na opór uniemożliwiający lub utrudniający przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz czynnej służby wojskowej, kontrolujący wzywa do pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.
+§ 1. Kontrolujący może w razie uzasadnionej potrzeby wezwać, w pilnych przypadkach także ustnie, pomocy organu Policji, Straży Granicznej lub straży miejskiej (gminnej), jeżeli trafi na opór uniemożliwiający lub utrudniający przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz czynnej służby wojskowej, kontrolujący wzywa do pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.
 
 § 2. Organy wymienione w § 1 nie mogą odmówić udzielenia pomocy lub asysty.
 

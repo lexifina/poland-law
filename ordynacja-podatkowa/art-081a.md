@@ -1,5 +1,7 @@
 # Art. 81a.
 
+(uchylony).
+
 § 1. Jeżeli odrębne przepisy nie stanowią inaczej, podatnicy, których zobowiązanie podatkowe powstaje w sposób przewidziany w art. 21 § 1 pkt 1, mogą skorygować uprzednio złożone zeznanie (deklarację), jeżeli:
 
 - 1) w zeznaniach (deklaracjach), o których mowa w art. 73 § 2, wykazali zobowiązanie podatkowe nienależne lub w wysokości większej od należnej i wpłacili zadeklarowany podatek albo wykazali kwotę nadpłaty w wysokości mniejszej od należnej;

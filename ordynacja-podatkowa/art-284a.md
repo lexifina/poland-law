@@ -8,6 +8,10 @@
 
 § 4. Przepisu § 2 nie stosuje się, jeżeli nie można ustalić danych identyfikujących kontrolowanego. Upoważnienie doręczane jest po ustaleniu tych danych.
 
-§ 5. Organ podatkowy może umorzyć kontrolę podatkową, jeżeli w okresie 30 dni od jej wszczęcia nie zostaną ustalone dane identyfikujące kontrolowanego. Kontrola może być wznowiona w każdym czasie, gdy ustalony zostanie podmiot, w stosunku do którego może być prowadzona.
+§ 5. Organ podatkowy może zawiesić kontrolę podatkową, jeżeli w okresie 30 dni od dnia jej wszczęcia nie zostaną ustalone dane identyfikujące kontrolowanego.
 
-§ 6. W sprawach, o których mowa w § 5, organ podatkowy wydaje postanowienie.
+§ 5a. Zawieszona kontrola podatkowa może być podjęta w każdym czasie, gdy zostaną ustalone dane identyfikujące kontrolowanego.
+
+§ 5b. Zawieszona kontrola podatkowa podlega umorzeniu, jeżeli w ciągu 5 lat od dnia wydania postanowienia o zawieszeniu nie zostaną ustalone dane identyfikujące kontrolowanego.
+
+§ 6. Postanowienie o zawieszeniu kontroli oraz postanowienie o umorzeniu kontroli pozostawia się w aktach sprawy.
