@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/32",
+ "source_sha256": "04d419d6b50639275346fb490c61078a0329a11e94355788379d1e6884e753a6",
+ "in_force": "2006-01-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/32",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/32/text/O/M20060032.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/32/text/I/M20060032.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/32",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 2,
+  "pos": 32,
+  "address": "WMP20060020032",
+  "displayAddress": "M.P. 2006 nr 2 poz. 32",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2005 r. w sprawie wykazu jednostek organizacyjnych upoważnionych do przeprowadzania badań opryskiwaczy",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-12-29",
+  "promulgation": "2006-01-09",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona roślin"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2004/912",
+     "date": "2005-12-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/94"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/94",
+     "art": "art. 76 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060032.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060032.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
