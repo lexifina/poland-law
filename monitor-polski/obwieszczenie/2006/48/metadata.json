@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/48",
+ "source_sha256": "9faaa3396198fbc2a78cf07e62587b7032e845cc8f9a6a82e6926666194892e0",
+ "in_force": "2006-01-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/48",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/48/text/O/M20060048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/48/text/I/M20060048.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/48",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 3,
+  "pos": 48,
+  "address": "WMP20060030048",
+  "displayAddress": "M.P. 2006 nr 3 poz. 48",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 3 stycznia 2006 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-01-03",
+  "promulgation": "2006-01-13",
+  "repealDate": "2006-05-16",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "obrona narodowa"
+  ],
+  "keywordsNames": [
+   "Min. Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2004/830",
+     "date": "2006-01-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2006/382",
+     "date": "2006-05-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060048.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
