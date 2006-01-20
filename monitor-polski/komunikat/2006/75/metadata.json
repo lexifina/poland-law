@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/75",
+ "source_sha256": "f60dd4f255d68b74ee69dbe29a3ef5dd31f7e43cd5c9e286404f4d3b06b2b73c",
+ "in_force": "2006-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/75",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/75/text/O/M20060075.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/75/text/I/M20060075.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/75",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 4,
+  "pos": 75,
+  "address": "WMP20060040075",
+  "displayAddress": "M.P. 2006 nr 4 poz. 75",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 16 stycznia 2006 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w IV kwartale 2005 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-16",
+  "promulgation": "2006-01-20",
+  "changeDate": "2020-10-20T09:38:41",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060075.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060075.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
