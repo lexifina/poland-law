@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/77",
+ "source_sha256": "c372c6d26df668a5b8eed80b08a8c6e63730467de7de94503c24349d25d138be",
+ "in_force": "2006-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/77",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/77/text/O/M20060077.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/77/text/I/M20060077.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/77",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 4,
+  "pos": 77,
+  "address": "WMP20060040077",
+  "displayAddress": "M.P. 2006 nr 4 poz. 77",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 16 stycznia 2006 r. w sprawie średniorocznego wskaźnika cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów w 2005 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-16",
+  "promulgation": "2006-01-20",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060077.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060077.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
