@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/104",
+ "source_sha256": "6d8c3bd52ceafb6ca302ee28e22f11819fd5dddfc25657d0b9a9eb8110368dd8",
+ "in_force": "2006-01-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/104",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/104/text/O/M20060104.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/104/text/I/M20060104.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/104",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 6,
+  "pos": 104,
+  "address": "WMP20060060104",
+  "displayAddress": "M.P. 2006 nr 6 poz. 104",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 17 stycznia 2006 r. w sprawie średniej krajowej ceny skupu pszenicy w II półroczu 2005 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-17",
+  "promulgation": "2006-01-26",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "zboża",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060104.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060104.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
