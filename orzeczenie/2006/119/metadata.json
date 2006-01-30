@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/119",
+ "source_sha256": "10a0391325b490c7eeae87d060936def1b185470696031778df0b2b052cdd882",
+ "in_force": "2006-01-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 291 words, parsed 151; at 151: '217 Konstytucji , orzeka : I § 1 ust .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/119",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/119/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/119/text/O/D20060119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/119/text/I/D20060119.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/119/text/T/D20060119TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/119",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 15,
+  "pos": 119,
+  "address": "WDU20060150119",
+  "displayAddress": "Dz.U. 2006 nr 15 poz. 119",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 17 stycznia 2006 r. sygn. akt U 6/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-17",
+  "promulgation": "2006-01-30",
+  "entryIntoForce": "2006-01-30",
+  "validFrom": "2006-01-30",
+  "changeDate": "2024-03-15T09:58:36",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo o ruchu drogowym",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1310",
+     "date": "2006-01-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/602"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/1310"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060119.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060119TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060119TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
