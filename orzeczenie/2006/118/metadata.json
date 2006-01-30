@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/118",
+ "source_sha256": "1e8390709dd107cc74a41a8df4bda0e4160704f669aa154a29fd5517a1f0eb23",
+ "in_force": "2006-01-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 256 words, parsed 120; at 120: 'Rzeczypospolitej Polskiej , orzeka : I Art . 535 §'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/118",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/118/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/118/text/O/D20060118.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/118/text/I/D20060118.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/118/text/T/D20060118TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/118",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 15,
+  "pos": 118,
+  "address": "WDU20060150118",
+  "displayAddress": "Dz.U. 2006 nr 15 poz. 118",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 16 stycznia 2006 r. sygn. akt SK 30/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-16",
+  "promulgation": "2006-01-30",
+  "entryIntoForce": "2006-01-30",
+  "validFrom": "2006-01-30",
+  "changeDate": "2024-03-15T09:58:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2007-01-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060118.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060118.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060118TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060118TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
