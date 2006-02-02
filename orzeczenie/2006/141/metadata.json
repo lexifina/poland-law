@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/141",
+ "source_sha256": "51d10d4ed695bc148454e8587d1dfad3669bc07ba32865d73905c4252dfcf35d",
+ "in_force": "2006-02-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 335 words, parsed 61; at 61: 'Obywatelskich o zbadanie zgodności : 1 ) art . 65'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/141",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/141/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/141/text/O/D20060141.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/141/text/I/D20060141.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/141/text/T/D20060141TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/141",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 17,
+  "pos": 141,
+  "address": "WDU20060170141",
+  "displayAddress": "Dz.U. 2006 nr 17 poz. 141",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 stycznia 2006 r. sygn. akt K 21/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-18",
+  "promulgation": "2006-02-02",
+  "entryIntoForce": "2006-02-02",
+  "validFrom": "2006-02-02",
+  "changeDate": "2024-03-15T09:58:04",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/602",
+     "date": "2006-02-02"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/602"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060141.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060141.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060141TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060141TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
