@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/113",
+ "source_sha256": "a3348767b8fd15c7f9b118cab74cd144f5f1beaeee47f03ef507ad7d98d0188a",
+ "in_force": "2006-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/113",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/113/text/O/M20060113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/113/text/I/M20060113.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/113",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 9,
+  "pos": 113,
+  "address": "WMP20060090113",
+  "displayAddress": "M.P. 2006 nr 9 poz. 113",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia 2006 r. w sprawie wyboru posłów członków Krajowej Rady Sądownictwa",
+  "type": "Uchwała",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-01-27",
+  "promulgation": "2006-02-07",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1082"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1082",
+     "art": "art. 6 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 187 ust. 1 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
