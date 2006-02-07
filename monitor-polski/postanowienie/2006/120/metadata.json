@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/120",
+ "source_sha256": "58e6482c4f9fde3d7c39ec7978e53c28ce89492aaa550cf9f3b80cc0514c4fe3",
+ "in_force": "2006-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/120",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/120/text/O/M20060120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/120/text/I/M20060120.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/120",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 9,
+  "pos": 120,
+  "address": "WMP20060090120",
+  "displayAddress": "M.P. 2006 nr 9 poz. 120",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 stycznia 2006 r. nr 111-1-06 o nadaniu stopnia generała dywizji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-24",
+  "promulgation": "2006-02-07",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żołnierz zawodowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
