@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/117",
+ "source_sha256": "5fb85548d854d76f6cb6b671eff8331dd19cae850b09ec7e661bff242342a6eb",
+ "in_force": "2006-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/117",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/117/text/O/M20060117.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/117/text/I/M20060117.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/117",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 9,
+  "pos": 117,
+  "address": "WMP20060090117",
+  "displayAddress": "M.P. 2006 nr 9 poz. 117",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 30 stycznia 2006 r. w sprawie powołania członka Krajowej Rady Radiofonii i Telewizji",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-30",
+  "promulgation": "2006-02-07",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2005/2258"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2005/2258",
+     "art": "art. 21 ust. 2"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 214 ust. 1"
+    },
+    {
+     "id": "DU/1993/34",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060117.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060117.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
