@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/164",
+ "source_sha256": "0605fcbba3139bd320df67365dd87ed9853580e0d0839218736a002c7f1aa3c8",
+ "in_force": "2006-02-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 574 words, parsed 57; at 57: 'stycznia 2006 r . : 1 ) skargi konstytucyjnej Regionalnej'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/164",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/164/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/164/text/O/D20060164.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/164/text/I/D20060164.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/164/text/T/D20060164TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/164",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 21,
+  "pos": 164,
+  "address": "WDU20060210164",
+  "displayAddress": "Dz.U. 2006 nr 21 poz. 164",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 stycznia 2006 r. sygn. akt SK 40/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-01-24",
+  "promulgation": "2006-02-09",
+  "entryIntoForce": "2006-02-09",
+  "validFrom": "2006-02-09",
+  "changeDate": "2024-03-15T09:57:35",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "autorskie prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/83",
+     "date": "2006-09-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1994/83"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060164.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060164.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060164TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060164TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
