@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/122",
+ "source_sha256": "56cb6aa68f04ebb76b9d31979549f82245e2587bf1114bce2db6e58a4eefdf58",
+ "in_force": "2006-02-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/122",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/122/text/O/M20060122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/122/text/I/M20060122.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/122",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 9,
+  "pos": 122,
+  "address": "WMP20060090122",
+  "displayAddress": "M.P. 2006 nr 9 poz. 122",
+  "title": "Zarządzenie Nr 22 Prezesa Rady Ministrów z dnia 3 lutego 2006 r. w sprawie nadania statutu Ministerstwu Gospodarki",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-02-03",
+  "promulgation": "2006-02-07",
+  "entryIntoForce": "2006-02-22",
+  "validFrom": "2006-02-22",
+  "repealDate": "2006-07-14",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Gospodarki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2006/513",
+     "date": "2006-07-14"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2005/1121",
+     "date": "2006-02-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060122.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
