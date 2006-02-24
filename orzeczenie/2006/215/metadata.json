@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/215",
+ "source_sha256": "56bb14a85344b8e1e950ed92d405469b9487bef92716aae3eabed88bd0f8fd0d",
+ "in_force": "2006-02-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 605 words, parsed 64; at 64: 'Warszawie o zbadanie czy : 1 ) art . 46'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/215",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/215/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/215/text/O/D20060215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/215/text/I/D20060215.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/215/text/T/D20060215TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/215",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 30,
+  "pos": 215,
+  "address": "WDU20060300215",
+  "displayAddress": "Dz.U. 2006 nr 30 poz. 215",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 lutego 2006 r. sygn. akt P 22/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-02-14",
+  "promulgation": "2006-02-24",
+  "entryIntoForce": "2006-02-24",
+  "validFrom": "2006-02-24",
+  "changeDate": "2024-03-15T09:57:22",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "energetyczne prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/1114"
+    },
+    {
+     "id": "DU/1997/348"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060215.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060215TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060215TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
