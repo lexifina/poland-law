@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/242",
+ "source_sha256": "b6e0b6368208372fd97c5e9945829f87de37ca022d2dd2a356ffe06a42bb1abf",
+ "in_force": "2006-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 527 words, parsed 240; at 240: '1 Konstytucji , orzeka : 1 . Art . 6'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/242",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/242/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/242/text/O/D20060242.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/242/text/I/D20060242.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/242/text/T/D20060242TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/242",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 34,
+  "pos": 242,
+  "address": "WDU20060340242",
+  "displayAddress": "Dz.U. 2006 nr 34 poz. 242",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 lutego 2006 r. sygn. akt K. 9/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-02-20",
+  "promulgation": "2006-03-01",
+  "entryIntoForce": "2006-03-01",
+  "validFrom": "2006-03-01",
+  "changeDate": "2024-03-15T09:58:36",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja wyborcza"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/602",
+     "date": "2006-03-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1998/602"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060242.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060242.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060242TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060242TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
