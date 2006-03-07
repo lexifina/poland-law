@@ -1,0 +1,175 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2005/1414",
+ "source_sha256": "202a0c3c4df179a51bb7f028e5b5cf79bc76a1c6a4587509d3ea24213d4d0fda",
+ "in_force": "2006-03-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2005/1414",
+  "html": "https://eli.gov.pl/api/acts/DU/2005/1414/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2005/1414/text/O/D20051414.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2005/1414/text/I/D20051414.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2005/1414/text/T/D20051414L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2005/1414/text/U/D20051414Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2005/1414",
+  "publisher": "DU",
+  "year": 2005,
+  "volume": 169,
+  "pos": 1414,
+  "address": "WDU20051691414",
+  "displayAddress": "Dz.U. 2005 nr 169 poz. 1414",
+  "title": "Ustawa z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2005-07-07",
+  "promulgation": "2005-09-06",
+  "entryIntoForce": "2006-03-07",
+  "validFrom": "2006-03-07",
+  "changeDate": "2026-10-23T00:00:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "RADA MINISTRÓW",
+   "MIN. WŁAŚCIWY DS ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "senatorowie",
+   "lobbing",
+   "kontrola zawodowa",
+   "rejestry",
+   "administracja rządowa"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Rada Ministrów",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/2188.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/2188",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/2188",
+    "number": "2188",
+    "term": 4
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/1392"
+    },
+    {
+     "id": "DU/2011/803"
+    },
+    {
+     "id": "DU/2011/1080"
+    },
+    {
+     "id": "DU/2006/240"
+    },
+    {
+     "id": "DU/2006/236"
+    },
+    {
+     "id": "DU/2006/207"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/160",
+     "date": "2026-02-27"
+    },
+    {
+     "id": "DU/2024/1535",
+     "date": "2024-10-31"
+    },
+    {
+     "id": "DU/2015/1893",
+     "date": "2016-05-19"
+    },
+    {
+     "id": "DU/2011/966",
+     "date": "2011-09-01"
+    },
+    {
+     "id": "DU/2011/622",
+     "date": "2011-07-01"
+    },
+    {
+     "id": "DU/2009/337",
+     "date": "2009-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/943",
+     "date": "2006-03-07"
+    },
+    {
+     "id": "DU/1996/492",
+     "date": "2006-03-07"
+    },
+    {
+     "id": "DU/1996/350",
+     "date": "2006-03-07"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2026/936"
+    },
+    {
+     "id": "DU/2025/677"
+    },
+    {
+     "id": "DU/2017/248"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2005/565"
+    },
+    {
+     "id": "DU/2002/1661"
+    },
+    {
+     "id": "DU/1997/553"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20051414.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20051414.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20051414L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20051414Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
