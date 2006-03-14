@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/214",
+ "source_sha256": "03a70335d7f3f1d65c17bc777f703c00d278a4d602404dc4701e416e47c49df0",
+ "in_force": "2006-03-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/214",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/214/text/O/M20060214.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/214/text/I/M20060214.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/214",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 19,
+  "pos": 214,
+  "address": "WMP20060190214",
+  "displayAddress": "M.P. 2006 nr 19 poz. 214",
+  "title": "Obwieszczenie Ministra Środowiska z dnia 20 lutego 2006 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Środowiska",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-02-20",
+  "promulgation": "2006-03-14",
+  "repealDate": "2006-09-08",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Min. Środowiska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2004/393",
+     "date": "2006-02-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2006/658",
+     "date": "2006-09-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060214.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060214.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
