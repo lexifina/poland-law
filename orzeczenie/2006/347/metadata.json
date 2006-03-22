@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/347",
+ "source_sha256": "399da3032b41589fe69bd0f136b265b1571f625787ef3ef15c0b1cda6d44f2c6",
+ "in_force": "2006-03-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 338 words, parsed 152; at 152: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 109'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/347",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/347/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/347/text/O/D20060347.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/347/text/I/D20060347.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/347/text/T/D20060347TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/347",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 47,
+  "pos": 347,
+  "address": "WDU20060470347",
+  "displayAddress": "Dz.U. 2006 nr 47 poz. 347",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 marca 2006 r. sygn. akt SK 4/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-03-14",
+  "promulgation": "2006-03-22",
+  "entryIntoForce": "2006-03-22",
+  "validFrom": "2006-03-22",
+  "changeDate": "2024-03-15T09:58:44",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "upadłościowe prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/535",
+     "date": "2006-03-22"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/535"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060347.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060347.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060347TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060347TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
