@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/245",
+ "source_sha256": "e83eda462aaf7a36dd4be45e9989b1bf1a833982a1f73cec6f5b1b62559270fd",
+ "in_force": "2006-03-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/245",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/245/text/O/M20060245.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/245/text/I/M20060245.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/245",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 22,
+  "pos": 245,
+  "address": "WMP20060220245",
+  "displayAddress": "M.P. 2006 nr 22 poz. 245",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2006 r. w sprawie wykazu jednostek organizacyjnych upoważnionych do przeprowadzania badań skuteczności działania środka ochrony roślin",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-03-13",
+  "promulgation": "2006-03-24",
+  "repealDate": "2006-10-16",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "chemiczne wyroby",
+   "ochrona roślin"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2005/601",
+     "date": "2006-03-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/94"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/94",
+     "art": "art. 40 ust. 8"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2006/769",
+     "date": "2006-10-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060245.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060245.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
