@@ -1,0 +1,23 @@
+Trybunał Konstytucyjny w składzie:
+
+Ewa Łętowska - przewodniczący,
+
+Marian Grzybowski,
+
+Janusz Niemcewicz,
+
+Marian Zdyb,
+
+Bohdan Zdziennicki - sprawozdawca,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem skarżących oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 3 kwietnia 2006 r., skargi konstytucyjnej Ryszarda Chachonia i Mariusza Chachonia o zbadanie zgodności art. 97 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, ze zm.) w związku z art. 59 ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368, ze zm.) i z art. 102 § 2 ustawy - Ordynacja podatkowa z art. 2, art. 7, art. 21 ust. 1, art. 32, art. 45 ust. 1 i art. 64 Konstytucji,
+
+orzeka:
+
+Art. 97 w związku z art. 102 § 2 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199) jest zgodny z art. 21 ust. 1, art. 32, art. 45 ust. 1 i art. 64 Konstytucji Rzeczypospolitej Polskiej.
+
+Ponadto postanawia:
+
+na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na niedopuszczalność wydania orzeczenia.
