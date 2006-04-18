@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/456",
+ "source_sha256": "ffafd0f7fea5c998bebc786bc82afe4f18a9b39f5c474cbdd792df5671e02a11",
+ "in_force": "2006-04-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 455 words, parsed 64; at 64: 'Warszawie o zbadanie zgodności : 1 ) art . 207'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/456",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/456/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/456/text/O/D20060456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/456/text/I/D20060456.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/456/text/T/D20060456TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/456",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 64,
+  "pos": 456,
+  "address": "WDU20060640456",
+  "displayAddress": "Dz.U. 2006 nr 64 poz. 456",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 kwietnia 2006 r. sygn. akt SK 30/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-04-10",
+  "promulgation": "2006-04-18",
+  "entryIntoForce": "2006-04-18",
+  "validFrom": "2006-04-18",
+  "changeDate": "2024-03-15T09:57:59",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2000/70",
+     "date": "2006-04-18"
+    },
+    {
+     "id": "DU/1997/741",
+     "date": "2006-04-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2000/70"
+    },
+    {
+     "id": "DU/1997/741"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060456.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060456TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060456TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
