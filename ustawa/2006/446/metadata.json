@@ -1,0 +1,110 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/446",
+ "source_sha256": "174651fafe1f602d4bce47ea6425ce246edd624585138231b1e3e0d675abeadc",
+ "in_force": "2006-04-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/446",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/446/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/446/text/O/D20060446.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/446/text/I/D20060446.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/446/text/T/D20060446L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2006/446/text/U/D20060446Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/446",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 64,
+  "pos": 446,
+  "address": "WDU20060640446",
+  "displayAddress": "Dz.U. 2006 nr 64 poz. 446",
+  "title": "Ustawa z dnia 17 lutego 2006 r. o dotacji przeznaczonej dla niektórych podmiotów",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-02-17",
+  "promulgation": "2006-04-18",
+  "entryIntoForce": "2006-04-18",
+  "validFrom": "2006-04-18",
+  "repealDate": "2014-01-01",
+  "changeDate": "2024-03-15T09:57:59",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "przedsiębiorstwa",
+   "górnictwo",
+   "węgiel",
+   "kopalnie",
+   "sprawozdanie finansowe",
+   "dotacje",
+   "hutnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/277.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/277",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/277",
+    "number": "277",
+    "term": 5
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2013/1160",
+     "date": "2014-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2011/981",
+     "date": "2012-01-01"
+    },
+    {
+     "id": "DU/2009/339",
+     "date": "2009-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1994/96"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060446.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060446.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060446L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060446Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
