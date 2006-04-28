@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/333",
+ "source_sha256": "f10a7beec1db7ba23627b22740f13da7c0762f55ec77c79c863bd6fe2da599c9",
+ "in_force": "2006-04-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/333",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/333/text/O/M20060333.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/333/text/I/M20060333.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2006/333/text/T/M20060333TK.doc"
+ },
+ "metadata": {
+  "ELI": "MP/2006/333",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 30,
+  "pos": 333,
+  "address": "WMP20060300333",
+  "displayAddress": "M.P. 2006 nr 30 poz. 333",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2006 r. sygn. akt Kp 2/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-04-12",
+  "promulgation": "2006-04-28",
+  "entryIntoForce": "2006-04-28",
+  "validFrom": "2006-04-28",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakłady opieki zdrowotnej",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2006/334",
+     "date": "2006-04-28"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/408"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060333.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060333.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20060333TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "M20060333TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
