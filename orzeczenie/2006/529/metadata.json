@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/529",
+ "source_sha256": "8ffe81684879a27d024410642222933f22656113f7447401cc69381fc6dd5e2f",
+ "in_force": "2006-05-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1439 words, parsed 93; at 93: 'Adwokackiej o zbadanie zgodności : 1 ) ustawy z dnia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/529",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/529/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/529/text/O/D20060529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/529/text/I/D20060529.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/529/text/T/D20060529TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/529",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 75,
+  "pos": 529,
+  "address": "WDU20060750529",
+  "displayAddress": "Dz.U. 2006 nr 75 poz. 529",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 kwietnia 2006 r. sygn. akt K 6/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-04-19",
+  "promulgation": "2006-05-04",
+  "entryIntoForce": "2006-05-04",
+  "validFrom": "2006-05-04",
+  "changeDate": "2024-03-15T09:58:11",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1361",
+     "date": "2006-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/1361"
+    },
+    {
+     "id": "DU/1982/124"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060529.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060529TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20060529TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
