@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/356",
+ "source_sha256": "442edf5ae1014995f4ecdec0a4f9599336026a469556ed4daf3ff1ca5db92e32",
+ "in_force": "2006-05-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/356",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/356/text/O/M20060356.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/356/text/I/M20060356.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2006/356/text/T/M20060356L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/356",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 33,
+  "pos": 356,
+  "address": "WMP20060330356",
+  "displayAddress": "M.P. 2006 nr 33 poz. 356",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2006 r. w sprawie wyboru wicemarszałka Sejmu Rzeczypospolitej Polskiej",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-05-09",
+  "promulgation": "2006-05-17",
+  "changeDate": "2019-07-08T10:58:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060356.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060356.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20060356L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
