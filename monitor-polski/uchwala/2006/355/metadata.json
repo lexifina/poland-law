@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/355",
+ "source_sha256": "9952f0e0dbb2b056feea35dba68a191d2571e5f982e5420e007364a249d3244a",
+ "in_force": "2006-05-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/355",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/355/text/O/M20060355.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/355/text/I/M20060355.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2006/355/text/T/M20060355L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/355",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 33,
+  "pos": 355,
+  "address": "WMP20060330355",
+  "displayAddress": "M.P. 2006 nr 33 poz. 355",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2006 r. w sprawie odwołania wicemarszałka Sejmu Rzeczypospolitej Polskiej",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-05-09",
+  "promulgation": "2006-05-17",
+  "changeDate": "2020-06-09T11:43:38",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060355.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060355.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20060355L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
