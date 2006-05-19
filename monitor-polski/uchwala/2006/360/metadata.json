@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/360",
+ "source_sha256": "3f979a8fae53b7f988861de4ef41772e892c50bf52ea51f4dddee091689f6c54",
+ "in_force": "2006-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/360",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/360/text/O/M20060360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/360/text/I/M20060360.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2006/360/text/T/M20060360L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/360",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 34,
+  "pos": 360,
+  "address": "WMP20060340360",
+  "displayAddress": "M.P. 2006 nr 34 poz. 360",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 12 maja 2006 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Jana Rokity",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-05-12",
+  "promulgation": "2006-05-19",
+  "changeDate": "2026-10-06T14:29:07",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 1"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 6a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060360.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20060360L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
