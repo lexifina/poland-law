@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/351",
+ "source_sha256": "3dc894c51b336d100bd12d7945fcf43b68c799ea6560b36d1e5a98bd7fa91e14",
+ "in_force": "2006-05-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/351",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/351/text/O/M20060351.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/351/text/I/M20060351.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/351",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 32,
+  "pos": 351,
+  "address": "WMP20060320351",
+  "displayAddress": "M.P. 2006 nr 32 poz. 351",
+  "title": "Zarządzenie Nr 62 Prezesa Rady Ministrów z dnia 28 kwietnia 2006 r. w sprawie nadania statutu Ministerstwu Finansów",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-04-28",
+  "promulgation": "2006-05-12",
+  "entryIntoForce": "2006-05-20",
+  "validFrom": "2006-05-20",
+  "repealDate": "2006-09-14",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Finansów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2006/621",
+     "date": "2006-09-14"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2005/1136",
+     "date": "2006-05-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060351.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060351.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
