@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/401",
+ "source_sha256": "d7f1ebdff0d485a39b081569316f671a728069da857d50a8d0f7f966d62d1ecf",
+ "in_force": "2006-05-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/401",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/401/text/O/M20060401.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/401/text/I/M20060401.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/401",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 36,
+  "pos": 401,
+  "address": "WMP20060360401",
+  "displayAddress": "M.P. 2006 nr 36 poz. 401",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 19 maja 2006 o zwolnieniu stanowiska sędziowskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-05-19",
+  "promulgation": "2006-05-30",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060401.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060401.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
