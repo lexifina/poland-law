@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/658",
+ "source_sha256": "cb6410993d0ee7894e5ad165d78f998360b82cd00d80e8db439b1284bbef2269",
+ "in_force": "2006-06-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 301 words, parsed 121; at 121: '2 Konstytucji , orzeka : I Art . 70 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/658",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/658/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/658/text/O/D20060658.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/658/text/I/D20060658.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/658/text/T/D20060658L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/658",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 94,
+  "pos": 658,
+  "address": "WDU20060940658",
+  "displayAddress": "Dz.U. 2006 nr 94 poz. 658",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 maja 2006 r. sygn. akt K 5/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-05-24",
+  "promulgation": "2006-06-05",
+  "entryIntoForce": "2006-06-05",
+  "validFrom": "2006-06-05",
+  "changeDate": "2024-03-15T09:57:29",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "autorskie prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/83",
+     "date": "2007-06-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1994/83"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060658.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060658.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060658L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
