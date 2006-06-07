@@ -1,0 +1,60 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/408",
+ "source_sha256": "a538a7543d60bdb12cd142ab5ab5ea04a8a2cb3d2f1e04509970acacc92f4b1c",
+ "in_force": "2006-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/408",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/408/text/O/M20060408.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/408/text/I/M20060408.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2006/408/text/T/M20060408L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/408",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 37,
+  "pos": 408,
+  "address": "WMP20060370408",
+  "displayAddress": "M.P. 2006 nr 37 poz. 408",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 24 maja 2006 r. z okazji pielgrzymki Jego Świątobliwości Benedykta XVI do Polski",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-05-24",
+  "promulgation": "2006-06-07",
+  "changeDate": "2014-12-31T12:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060408.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060408.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20060408L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
