@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/479",
+ "source_sha256": "17b5a11cbe39f20f0ca7a1f3cd645151d9bba76b7f6a1fec12b156eded8ab78f",
+ "in_force": "2006-07-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/479",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/479/text/O/M20060479.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/479/text/I/M20060479.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/479",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 45,
+  "pos": 479,
+  "address": "WMP20060450479",
+  "displayAddress": "M.P. 2006 nr 45 poz. 479",
+  "title": "Obwieszczenie Pierwszego Prezesa Sądu Najwyższego z dnia 23 czerwca 2006 r. o liczbie, przewidzianych do objęcia, stanowisk sędziego Sądu Najwyższego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-06-23",
+  "promulgation": "2006-07-03",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PIERWSZY PREZES SĄDU NAJWYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 24 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060479.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060479.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
