@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/853",
+ "source_sha256": "3b75a47bd67d6326acd722136a790075195d62b8460acf2d68de45358b34c038",
+ "in_force": "2006-07-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 324 words, parsed 159; at 159: '1 Konstytucji , orzeka : I § 4 ust .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/853",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/853/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/853/text/O/D20060853.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/853/text/I/D20060853.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/853/text/T/D20060853L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/853",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 122,
+  "pos": 853,
+  "address": "WDU20061220853",
+  "displayAddress": "Dz.U. 2006 nr 122 poz. 853",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 29 czerwca 2006 r. sygn. akt U 3/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-06-29",
+  "promulgation": "2006-07-10",
+  "entryIntoForce": "2006-07-10",
+  "validFrom": "2006-07-10",
+  "changeDate": "2024-03-15T09:57:23",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokal",
+   "opłaty",
+   "zakwaterowanie sił zbrojnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/118",
+     "date": "2006-09-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2005/290"
+    },
+    {
+     "id": "DU/1995/433"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/118"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060853.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060853.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060853L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
