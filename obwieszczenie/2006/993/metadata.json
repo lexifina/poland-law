@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/993",
+ "source_sha256": "f5f01d6928ed76edf085337f593efa7c3e53b0d85b60fcc49da13428058af8ba",
+ "in_force": "2006-08-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/993",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/993/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/993/text/O/D20060993.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/993/text/I/D20060993.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2006/993/text/U/D20060993Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/993",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 139,
+  "pos": 993,
+  "address": "WDU20061390993",
+  "displayAddress": "Dz.U. 2006 nr 139 poz. 993",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 lipca 2006 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ewidencji ludności i dowodach osobistych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-07-25",
+  "promulgation": "2006-08-04",
+  "repealDate": "2015-03-01",
+  "changeDate": "2024-03-15T09:57:18",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dowody osobiste",
+   "ewidencja ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 60, art. 61 pkt 2 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych ( Dz. U. Nr 14, poz. 85)",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2010/1131",
+     "date": "2015-03-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1974/85"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20060993.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20060993.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20060993Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
