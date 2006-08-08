@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1013",
+ "source_sha256": "d8f74536db9e7c218a77be6bef0b6c9c676190f42952a4ca83b480463ad80096",
+ "in_force": "2006-08-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 344 words, parsed 87; at 87: ', połączonych skarg konstytucyjnych : 1 ) Jolanty Wasilewskiej o'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1013",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1013/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1013/text/O/D20061013.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1013/text/I/D20061013.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1013/text/T/D20061013L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1013",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 141,
+  "pos": 1013,
+  "address": "WDU20061411013",
+  "displayAddress": "Dz.U. 2006 nr 141 poz. 1013",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 lipca 2006 r. sygn. akt SK 21/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-07-26",
+  "promulgation": "2006-08-08",
+  "entryIntoForce": "2006-08-08",
+  "validFrom": "2006-08-08",
+  "changeDate": "2024-03-15T09:57:26",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2006-08-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061013.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061013.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061013L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
