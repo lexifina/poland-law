@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/633",
+ "source_sha256": "1ed939ae4a1718529853836f82ee713ee31a036047306b48b098287b10e2c300",
+ "in_force": "2006-08-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/633",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/633/text/O/M20060633.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/633/text/I/M20060633.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/633",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 59,
+  "pos": 633,
+  "address": "WMP20060590633",
+  "displayAddress": "M.P. 2006 nr 59 poz. 633",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 17 sierpnia 2006 r. w sprawie kwoty przychodu odpowiadającej 30% przeciętnego miesięcznego wynagrodzenia za II kwartał 2006 r. ogłoszonego do celów emerytalnych",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-08-17",
+  "promulgation": "2006-08-31",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/1268"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/1268",
+     "art": "art. 10 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060633.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060633.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
