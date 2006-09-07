@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/640",
+ "source_sha256": "dc793b2b46e694ce4a686b01e07f292aa053f1181bc4885126a0c6c8d1ec327e",
+ "in_force": "2006-09-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/640",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/640/text/O/M20060640.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/640/text/I/M20060640.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/640",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 60,
+  "pos": 640,
+  "address": "WMP20060600640",
+  "displayAddress": "M.P. 2006 nr 60 poz. 640",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 1 września 2006 r. o podaniu do publicznej wiadomości prawomocnego orzeczenia Sądu, stwierdzającego niezgodność z prawdą oświadczenia osoby lustrowanej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-09-01",
+  "promulgation": "2006-09-07",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. SĄDU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "orzeczenie",
+   "lustracja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/443",
+     "art": "art. 28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060640.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060640.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
