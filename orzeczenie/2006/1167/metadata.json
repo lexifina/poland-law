@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1167",
+ "source_sha256": "1618d0d5e771397609f1e69ffdb9286874d47492936ffedcb5628f88e19d9f59",
+ "in_force": "2006-09-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 749 words, parsed 59; at 59: 'Obywatelskich o zbadanie zgodności : 1 ) § 18 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1167",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1167/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1167/text/O/D20061167.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1167/text/I/D20061167.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1167/text/T/D20061167L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1167",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 164,
+  "pos": 1167,
+  "address": "WDU20061641167",
+  "displayAddress": "Dz.U. 2006 nr 164 poz. 1167",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 4 września 2006 r. sygn. akt U 7/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-09-04",
+  "promulgation": "2006-09-14",
+  "changeDate": "2024-03-15T09:58:30",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "budżet",
+   "porządkowanie prawa",
+   "finanse publiczne",
+   "jednostki budżetowe",
+   "gospodarstwa pomocnicze"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/876",
+     "date": "2006-09-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2001/1070"
+    },
+    {
+     "id": "DU/1998/1014"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/190"
+    },
+    {
+     "id": "DU/2002/876"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061167.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061167.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061167L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
