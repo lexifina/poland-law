@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1166",
+ "source_sha256": "f7edeea55cecff0147a8491610b182370fca317a8e4e731f410713942d2aa55f",
+ "in_force": "2006-09-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 293 words, parsed 117; at 117: 'Konstytucji , orzeka : I 1 . Art . 442'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1166",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1166/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1166/text/O/D20061166.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1166/text/I/D20061166.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1166/text/T/D20061166TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1166",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 164,
+  "pos": 1166,
+  "address": "WDU20061641166",
+  "displayAddress": "Dz.U. 2006 nr 164 poz. 1166",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 1 września 2006 r. sygn. akt SK 14/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-09-01",
+  "promulgation": "2006-09-14",
+  "entryIntoForce": "2006-09-14",
+  "validFrom": "2006-09-14",
+  "changeDate": "2024-03-15T09:58:30",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks cywilny"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/93",
+     "date": "2007-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/93"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061166.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061166.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061166TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20061166TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
