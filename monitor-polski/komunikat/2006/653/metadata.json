@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/653",
+ "source_sha256": "86c6dda0e2f0e72e84a811f7668b5c4bb1c14cd386cf37e66e9734e2aec8080a",
+ "in_force": "2006-09-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/653",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/653/text/O/M20060653.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/653/text/I/M20060653.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/653",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 62,
+  "pos": 653,
+  "address": "WMP20060620653",
+  "displayAddress": "M.P. 2006 nr 62 poz. 653",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 4 września 2006 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-09-04",
+  "promulgation": "2006-09-15",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060653.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060653.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
