@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1223",
+ "source_sha256": "fd8f9193ffa1898419a34fb7a2e43d9e96252c47126df68b02b3d706d9e8aba9",
+ "in_force": "2006-09-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 463 words, parsed 225; at 225: '1 Konstytucji , orzeka : 1 . Art . 86'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1223",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1223/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1223/text/O/D20061223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1223/text/I/D20061223.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1223/text/T/D20061223L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1223",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 170,
+  "pos": 1223,
+  "address": "WDU20061701223",
+  "displayAddress": "Dz.U. 2006 nr 170 poz. 1223",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 września 2006 r. sygn. akt K 7/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-09-19",
+  "promulgation": "2006-09-26",
+  "entryIntoForce": "2006-09-26",
+  "validFrom": "2006-09-26",
+  "changeDate": "2024-03-15T09:57:31",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2005/756"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/535"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061223.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061223L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
