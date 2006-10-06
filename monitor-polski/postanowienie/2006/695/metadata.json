@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/695",
+ "source_sha256": "0f50729cc1c319d1c756aca14608618b1c5cb1680a62fa18665775a88bb75a20",
+ "in_force": "2006-10-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/695",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/695/text/O/M20060695.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/695/text/I/M20060695.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/695",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 68,
+  "pos": 695,
+  "address": "WMP20060680695",
+  "displayAddress": "M.P. 2006 nr 68 poz. 695",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 września 2006 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 31 z siedzibą Okręgowej Komisji Wyborczej w Katowicach",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-09-29",
+  "promulgation": "2006-10-06",
+  "changeDate": "2018-05-25T12:28:47",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 179 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060695.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060695.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
