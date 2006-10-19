@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1409",
+ "source_sha256": "94d3e333bdc22773eb742931129b1dcabcdec1454e430cfa8824c9f016dbb061",
+ "in_force": "2006-10-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 261 words, parsed 150; at 150: '2 Konstytucji , orzeka : 1 . Art . 226'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1409",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1409/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1409/text/O/D20061409.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1409/text/I/D20061409.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1409/text/T/D20061409L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1409",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 190,
+  "pos": 1409,
+  "address": "WDU20061901409",
+  "displayAddress": "Dz.U. 2006 nr 190 poz. 1409",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 października 2006 r. sygn. akt P 3/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-10-11",
+  "promulgation": "2006-10-19",
+  "entryIntoForce": "2006-10-19",
+  "validFrom": "2006-10-19",
+  "changeDate": "2024-03-15T09:58:01",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "karne postępowanie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/553",
+     "date": "2006-10-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/553"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061409.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061409.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061409L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
