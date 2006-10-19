@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/724",
+ "source_sha256": "5aca5960c22cd4a237f7c35c61a592ed9ab4d5220901c05743951b6274eb6def",
+ "in_force": "2006-10-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/724",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/724/text/O/M20060724.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/724/text/I/M20060724.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/724",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 72,
+  "pos": 724,
+  "address": "WMP20060720724",
+  "displayAddress": "M.P. 2006 nr 72 poz. 724",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 13 października 2006 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów 2006 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-10-13",
+  "promulgation": "2006-10-19",
+  "changeDate": "2020-10-20T09:38:40",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/31"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/31",
+     "art": "art. 20 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060724.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060724.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
