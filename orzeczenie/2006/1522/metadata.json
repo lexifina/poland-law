@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1522",
+ "source_sha256": "bd61c16a6fa797e38f1a7f7bb70fbc493e44fd57ed5c71fa04818cab4f25b3a2",
+ "in_force": "2006-11-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1167 words, parsed 77; at 77: 'Prawnych o zbadanie zgodności : 1 ) ustawy z dnia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1522",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1522/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1522/text/O/D20061522.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1522/text/I/D20061522.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1522/text/T/D20061522TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1522",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 206,
+  "pos": 1522,
+  "address": "WDU20062061522",
+  "displayAddress": "Dz.U. 2006 nr 206 poz. 1522",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2006 r. sygn. akt K 30/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-11-08",
+  "promulgation": "2006-11-17",
+  "entryIntoForce": "2006-11-17",
+  "validFrom": "2006-11-17",
+  "changeDate": "2024-03-15T09:57:13",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura",
+   "porządkowanie prawa",
+   "radcy prawni"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1361",
+     "date": "2006-12-31"
+    },
+    {
+     "id": "DU/1982/145",
+     "date": "2006-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/1417"
+    },
+    {
+     "id": "DU/2005/1361"
+    },
+    {
+     "id": "DU/1982/145"
+    },
+    {
+     "id": "DU/1982/124"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061522.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061522.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061522TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20061522TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
