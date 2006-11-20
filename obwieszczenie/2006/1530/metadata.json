@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1530",
+ "source_sha256": "84b96ebc839479cc964d2c9f99d3eaa5d3c27e8f43452e30469491680d01cfa4",
+ "in_force": "2006-11-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1740 words, parsed 113; at 113: '12 listopada 2006 r . I . Dane ogólne dotyczące'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1530",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1530/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1530/text/O/D20061530.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1530/text/I/D20061530.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1530",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 207,
+  "pos": 1530,
+  "address": "WDU20062071530",
+  "displayAddress": "Dz.U. 2006 nr 207 poz. 1530",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 15 listopada 2006 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 12 listopada 2006 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-11-15",
+  "promulgation": "2006-11-20",
+  "changeDate": "2024-03-15T09:57:35",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samorząd terytorialny",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/361"
+    },
+    {
+     "id": "DU/1998/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/361",
+     "art": "art. 7 ust. 2"
+    },
+    {
+     "id": "DU/1998/602",
+     "art": "art. 184 ust. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061530.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061530.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
