@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/831",
+ "source_sha256": "7c00836b61ec83d7e6edb38df88b9a3aed8f02f0825e89dfbdba47eb69959e7f",
+ "in_force": "2006-11-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/831",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/831/text/O/M20060831.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/831/text/I/M20060831.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/831",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 83,
+  "pos": 831,
+  "address": "WMP20060830831",
+  "displayAddress": "M.P. 2006 nr 83 poz. 831",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 16 listopada 2006 r. w sprawie wyboru wicemarszałka Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-11-16",
+  "promulgation": "2006-11-22",
+  "changeDate": "2019-07-08T10:58:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060831.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060831.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
