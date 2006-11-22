@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Jerzy Stępień - przewodniczący,
+
+Marian Grzybowski,
+
+Adam Jamróz,
+
+Marek Kotlinowski,
+
+Mirosław Wyrzykowski - sprawozdawca,
+
+protokolant: Krzysztof Załęcki,
+
+po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 15 listopada 2006 r., pytania prawnego Wojewódzkiego Sądu Administracyjnego w Gdańsku, czy art. 27 ust. 1, 2 i 3 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, ze zm.) w zakresie, w jakim uniemożliwia on nabycie prawa do zasiłku stałego osobie zdolnej do pracy, niepozostającej w zatrudnieniu ze względu na konieczność sprawowania opieki nad innym niż jej dziecko niepełnosprawnym, pełnoletnim członkiem rodziny, wobec którego obciąża ją obowiązek alimentacyjny, jest zgodny z art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+
+orzeka:
+
+Art. 27 ust. 1, 2 i 3 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001, z 2000 r. Nr 12, poz. 136 i Nr 19, poz. 238, z 2001 r. Nr 72, poz. 748, Nr 88, poz. 961, Nr 89, poz. 973, Nr 111, poz. 1194, Nr 122, poz. 1349 i Nr 154, poz. 1792, z 2003 r. Nr 7, poz. 79, Nr 44, poz. 389, Nr 122, poz. 1143, Nr 128, poz. 1176, Nr 135, poz. 1268, Nr 137, poz. 1304, Nr 203, poz. 1966 i Nr 228, poz. 2255 oraz z 2004 r. Nr 64, poz. 593) w zakresie, w jakim uniemożliwia nabycie prawa do zasiłku stałego obciążonej obowiązkiem alimentacyjnym osobie zdolnej do pracy, niezatrudnionej ze względu na konieczność sprawowania opieki nad innym niż jej dziecko niepełnosprawnym członkiem rodziny, jest niezgodny z art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
