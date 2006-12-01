@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1613",
+ "source_sha256": "e9bb35b6c4eb9ba3fa8c5d6c69af2b84766b42965c0c3afef96d580581e3469c",
+ "in_force": "2006-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 281 words, parsed 107; at 107: 'Rzeczypospolitej Polskiej , orzeka : I 1 . Art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1613",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1613/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1613/text/O/D20061613.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1613/text/I/D20061613.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1613/text/T/D20061613TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1613",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 220,
+  "pos": 1613,
+  "address": "WDU20062201613",
+  "displayAddress": "Dz.U. 2006 nr 220 poz. 1613",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 listopada 2006 r. sygn. akt K 47/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-11-27",
+  "promulgation": "2006-12-01",
+  "entryIntoForce": "2006-12-01",
+  "validFrom": "2006-12-01",
+  "changeDate": "2024-03-15T09:58:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "roboty budowlane"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1758",
+     "date": "2007-06-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/1758"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061613.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061613.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061613TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20061613TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
