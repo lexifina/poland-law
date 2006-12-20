@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/927",
+ "source_sha256": "63cf01ef3c990b85950490651cd488494cca5e8f0611f9d0abd5061e5c0e9612",
+ "in_force": "2006-12-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/927",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/927/text/O/M20060927.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/927/text/I/M20060927.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/927",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 89,
+  "pos": 927,
+  "address": "WMP20060890927",
+  "displayAddress": "M.P. 2006 nr 89 poz. 927",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 grudnia 2006 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Rolnictwa i Rozwoju Wsi",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-12-04",
+  "promulgation": "2006-12-20",
+  "repealDate": "2007-08-09",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór"
+  ],
+  "keywordsNames": [
+   "Min. Rolnictwa i Rozwoju Wsi"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2005/732",
+     "date": "2006-12-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2007/616",
+     "date": "2007-08-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060927.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060927.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
