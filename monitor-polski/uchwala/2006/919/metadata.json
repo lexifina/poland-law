@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/919",
+ "source_sha256": "6cde692cde70294b0091b8910b92ddf577d8fd75bfcbaae68a1e37c0edcaaf28",
+ "in_force": "2006-12-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/919",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/919/text/O/M20060919.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/919/text/I/M20060919.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/919",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 89,
+  "pos": 919,
+  "address": "WMP20060890919",
+  "displayAddress": "M.P. 2006 nr 89 poz. 919",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 8 grudnia 2006 r. w sprawie wyboru sędziego Trybunału Konstytucyjnego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-12-08",
+  "promulgation": "2006-12-20",
+  "changeDate": "2018-06-06T10:35:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 5 ust. 2"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 194 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060919.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060919.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
