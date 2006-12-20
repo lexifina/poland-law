@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2006/928",
+ "source_sha256": "c76b602e7bc38c12893888407f1ae6c62aaf0f1b4c0751b7f59d56c30b2a24a7",
+ "in_force": "2006-12-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2006/928",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2006/928/text/O/M20060928.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2006/928/text/I/M20060928.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2006/928",
+  "publisher": "MP",
+  "year": 2006,
+  "volume": 89,
+  "pos": 928,
+  "address": "WMP20060890928",
+  "displayAddress": "M.P. 2006 nr 89 poz. 928",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 5 grudnia 2006 r. w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w I kwartale 2007 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-12-05",
+  "promulgation": "2006-12-20",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia wypadkowe",
+   "składki",
+   "zasiłek chorobowy",
+   "zasiłek macierzyński"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20060928.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20060928.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
