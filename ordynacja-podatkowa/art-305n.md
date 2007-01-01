@@ -6,9 +6,9 @@
 
 § 1. Minister właściwy do spraw finansów publicznych przekazuje z urzędu informacje dotyczące przychodów (dochodów) z oszczędności osób fizycznych, których wypłacanie wymaga, zgodnie z przepisami o podatku dochodowym od osób fizycznych, składania imiennej informacji o przychodach (dochodach), uzyskanych przez osoby, które ze względu na miejsce zamieszkania podlegają obowiązkowi podatkowemu od wszystkich swoich dochodów:
 
-- 1) w państwie członkowskim Unii Europejskiej, Księstwie Andory, Księstwie Liechtensteinu, Księstwie Monako, Republice San Marino i Konfederacji Szwajcarskiej lub
+- 1) w państwie członkowskim Unii Europejskiej, lub
 
-- 2) na terytoriach zależnych lub terytoriach stowarzyszonych Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Królestwa Niderlandów, z którymi Rzeczpospolita Polska zawarła umowę w sprawie opodatkowania przychodów (dochodów) z oszczędności osób fizycznych
+- 2) na terytoriach zależnych lub terytoriach stowarzyszonych Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Królestwa Niderlandów, z zastrzeżeniem postanowień umów w sprawie opodatkowania przychodów (dochodów) z oszczędności osób fizycznych zawartych przez Rzeczpospolitą Polską z tymi terytoriami
 
 - właściwym władzom tych państw i terytoriów.
 

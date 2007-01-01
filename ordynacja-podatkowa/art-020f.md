@@ -10,6 +10,10 @@
 
 - 3) okoliczności mogących mieć wpływ na prawidłowe ustalenie ceny transakcyjnej, a w szczególności:
 
+  - a) rodzaju, przedmiotu i wartości transakcji, która ma być przedmiotem porozumienia,
+
+  - b) opisu przebiegu transakcji, w tym analizy aktywów, funkcji i ryzyk stron transakcji, a także opisu przewidywanych przez strony transakcji kosztów związanych z transakcją oraz opisu strategii gospodarczej stron transakcji i innych okoliczności, jeżeli ta strategia lub okoliczności mają wpływ na cenę przedmiotu transakcji,
+
   - c) danych dotyczących sytuacji gospodarczej w branży, w której prowadzi działalność wnioskodawca, w tym danych dotyczących operacji gospodarczych zawieranych przez podmioty niepowiązane, które wykorzystano do sporządzenia kalkulacji ceny transakcyjnej,
 
   - d) struktury organizacyjnej i kapitałowej wnioskodawcy oraz podmiotów z nim powiązanych, które są stroną transakcji, oraz opisu stosowanych przez podmioty powiązane zasad rachunkowości finansowej;

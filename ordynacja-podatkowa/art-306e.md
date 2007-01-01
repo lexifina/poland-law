@@ -23,3 +23,5 @@
   - b) podatków, których termin płatności został odroczony lub których płatność została rozłożona na raty.
 
 § 5. Jeżeli zapłata zaległości podatkowej wraz z odsetkami za zwłokę została odroczona lub rozłożona na raty, uznaje się, że podatnik, płatnik lub inkasent, do dnia upływu terminów, o których mowa w art. 49 § 1, nie posiada zaległości podatkowych.
+
+§ 6. W zakresie, o którym mowa w art. 224c, uznaje się, że do czasu wydania ostatecznej decyzji, nie istnieje zaległość podatkowa.
