@@ -1,0 +1,5 @@
+# Art. 35c.
+
+1. Publiczny zakład opieki zdrowotnej, utworzony przez organ określony w art. 8 ust. 1 pkt 1-3, może być prowadzony w formie jednostki budżetowej lub zakładu budżetowego, jeżeli prowadzenie tego zakładu w formie samodzielnego publicznego zakładu opieki zdrowotnej byłoby niecelowe lub przedwczesne. Decyzję w tej sprawie podejmuje organ, który utworzył zakład, po dokonaniu analizy zakresu i charakteru działalności zakładu opieki zdrowotnej w odniesieniu do potrzeb zdrowotnych określonego obszaru lub określonej grupy ludności oraz oceny możliwości pozyskiwania przez zakład opieki zdrowotnej dodatkowych środków finansowych przy nieograniczeniu praw ludności do bezpłatnych świadczeń zdrowotnych określonych w przepisach odrębnych, z zastrzeżeniem art. 35d.
+
+2. Publiczny zakład opieki zdrowotnej, o którym mowa w ust. 1, prowadzi gospodarkę finansową na zasadach określonych w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.), z zastrzeżeniem art. 50.
