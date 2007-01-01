@@ -1,0 +1,5 @@
+# Art. 74a.
+
+1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy w Zakładzie jest otwarty i konkurencyjny.
+
+2. Ogłoszenie o naborze zamieszcza się w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), oraz w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której jest prowadzony nabór.
