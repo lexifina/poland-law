@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/10",
+ "source_sha256": "2a22d3342ebc3cb131991f4e89aae7a8a70635a84bab69d474ec1008b401de28",
+ "in_force": "2007-01-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/10/text/O/M20070010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/10/text/I/M20070010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/10",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 1,
+  "pos": 10,
+  "address": "WMP20070010010",
+  "displayAddress": "M.P. 2007 nr 1 poz. 10",
+  "title": "Obwieszczenie Ministra Transportu z dnia 29 grudnia 2006 r. w sprawie wysokości maksymalnych stawek opłat za przejazd 1 km autostrady na rok 2007",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2006-12-29",
+  "promulgation": "2007-01-05",
+  "changeDate": "2019-03-25T12:07:07",
+  "releasedBy": [
+   "MIN. TRANSPORTU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty",
+   "autostrady"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/627"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/627",
+     "art": "art. 37e ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
