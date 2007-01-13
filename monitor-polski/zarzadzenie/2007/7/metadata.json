@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/7",
+ "source_sha256": "7ab95ee52feaf6facb2b3d12ceed3cd3e81077fab84739a0ea62dca813189c7a",
+ "in_force": "2007-01-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/7",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/7/text/O/M20070007.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/7/text/I/M20070007.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/7",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 1,
+  "pos": 7,
+  "address": "WMP20070010007",
+  "displayAddress": "M.P. 2007 nr 1 poz. 7",
+  "title": "Zarządzenie Nr 1 Prezesa Rady Ministrów z dnia 2 stycznia 2007 r. w sprawie nadania statutu Ministerstwu Rozwoju Regionalnego",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-01-02",
+  "promulgation": "2007-01-05",
+  "entryIntoForce": "2007-01-13",
+  "validFrom": "2007-01-13",
+  "repealDate": "2007-07-31",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Rozwoju Regionalnego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2007/545",
+     "date": "2007-07-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2006/431",
+     "date": "2007-01-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070007.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070007.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
