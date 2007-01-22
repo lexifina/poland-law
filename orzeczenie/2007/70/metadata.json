@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/70",
+ "source_sha256": "b152cc5df5a09db19a8de45f15fb88d4fa41f9a6bdeed79e4ef74428cec828c5",
+ "in_force": "2007-01-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 795 words, parsed 55; at 55: 'Obywatelskich o zbadanie zgodności : 1 ) § 2 rozporządzenia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/70",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/70/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/70/text/O/D20070070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/70/text/I/D20070070.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/70/text/T/D20070070TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/70",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 10,
+  "pos": 70,
+  "address": "WDU20070100070",
+  "displayAddress": "Dz.U. 2007 nr 10 poz. 70",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 16 stycznia 2007 r. sygn. akt U 5/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-01-16",
+  "promulgation": "2007-01-22",
+  "entryIntoForce": "2007-01-22",
+  "validFrom": "2007-01-22",
+  "changeDate": "2024-03-15T09:51:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "egzaminy",
+   "oświata i wychowanie",
+   "oświata, nauka i kultura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/1154",
+     "date": "2008-01-23"
+    },
+    {
+     "id": "DU/2004/2046",
+     "date": "2008-01-23"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2006/1154"
+    },
+    {
+     "id": "DU/2004/2046"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070070.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070070TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070070TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
