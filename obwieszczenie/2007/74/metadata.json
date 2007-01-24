@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/74",
+ "source_sha256": "11e31400647ac4e1f9916604945a83e5b0b6eef1ecd047a7b6ac8ae5b3a94eaa",
+ "in_force": "2007-01-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/74",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/74/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/74/text/O/D20070074.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/74/text/I/D20070074.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/74/text/T/D20070074L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/74/text/U/D20070074Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/74",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 11,
+  "pos": 74,
+  "address": "WDU20070110074",
+  "displayAddress": "Dz.U. 2007 nr 11 poz. 74",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 stycznia 2007 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie ubezpieczeń społecznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-01-08",
+  "promulgation": "2007-01-24",
+  "expirationDate": "2009-11-10",
+  "changeDate": "2024-03-15T09:51:29",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia wypadkowe",
+   "składki",
+   "ubezpieczenia rodzinne",
+   "dokumenty",
+   "ubezpieczenia zdrowotne",
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    },
+    {
+     "id": "DU/1999/1256"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    },
+    {
+     "id": "DU/1999/1256",
+     "art": "art. 15"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1998/887"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070074.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070074.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070074L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070074Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
