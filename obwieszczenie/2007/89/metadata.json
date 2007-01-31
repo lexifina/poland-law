@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/89",
+ "source_sha256": "8fc43192d170dd7ac92a036b7eb9fa43aa43b41bb6dcdb6d008f8cdf77bf6e09",
+ "in_force": "2007-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/89",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/89/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/89/text/O/D20070089.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/89/text/I/D20070089.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/89/text/T/D20070089L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/89/text/U/D20070089Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/89",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 14,
+  "pos": 89,
+  "address": "WDU20070140089",
+  "displayAddress": "Dz.U. 2007 nr 14 poz. 89",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 stycznia 2007 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakładach opieki zdrowotnej",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-01-08",
+  "promulgation": "2007-01-31",
+  "repealDate": "2011-07-01",
+  "changeDate": "2024-03-15T09:51:10",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakłady opieki zdrowotnej"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/654",
+     "date": "2011-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    },
+    {
+     "id": "DU/1997/661"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    },
+    {
+     "id": "DU/1997/661",
+     "art": "art. 24"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/408"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070089.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070089.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070089L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070089Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
