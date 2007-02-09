@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/101",
+ "source_sha256": "79ae6a4a50a775d2a86ea360e88debcfbf36b8d71af528680f646a05edd43df4",
+ "in_force": "2007-02-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/101/text/O/M20070101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/101/text/I/M20070101.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/101",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 9,
+  "pos": 101,
+  "address": "WMP20070090101",
+  "displayAddress": "M.P. 2007 nr 9 poz. 101",
+  "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 27 listopada 2006 r. w sprawie wzorów sprawozdań dla beneficjentów w ramach Sektorowego Programu Operacyjnego Rozwój Zasobów Ludzkich 2004-2006",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-11-27",
+  "promulgation": "2007-02-09",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "MIN. ROZWOJU REGIONALNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprawozdawczość",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/1206"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/1206",
+     "art": "art. 47 ust. 3b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
