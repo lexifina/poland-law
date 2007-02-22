@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/111",
+ "source_sha256": "b2d5369583bac8466a31c79a72ed5397fe4db2939d738a7811e055f0cc6ed570",
+ "in_force": "2007-02-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/111/text/O/D20070111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/111/text/I/D20070111.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/111",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 18,
+  "pos": 111,
+  "address": "WDU20070180111",
+  "displayAddress": "Dz.U. 2007 nr 18 poz. 111",
+  "title": "Rozporządzenie Ministra Transportu z dnia 16 stycznia 2007 r. zmieniające rozporządzenie w sprawie kontroli przestrzegania przepisów oraz decyzji z zakresu lotnictwa cywilnego",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-01-16",
+  "promulgation": "2007-02-07",
+  "entryIntoForce": "2007-02-22",
+  "validFrom": "2007-02-22",
+  "repealDate": "2020-10-02",
+  "changeDate": "2020-10-02T13:31:52",
+  "releasedBy": [
+   "MIN. TRANSPORTU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnictwo cywilne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1640",
+     "date": "2007-02-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1112",
+     "art": "art. 30"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2019/235",
+     "date": "2020-10-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20070111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
