@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2006/1537",
+ "source_sha256": "f70744f4cabcbf6796b99820eef0e21ca363fae36812c4a23efe8be3c507ecaa",
+ "in_force": "2007-02-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2006/1537",
+  "html": "https://eli.gov.pl/api/acts/DU/2006/1537/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2006/1537/text/O/D20061537.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2006/1537/text/I/D20061537.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2006/1537/text/T/D20061537L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2006/1537/text/U/D20061537Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2006/1537",
+  "publisher": "DU",
+  "year": 2006,
+  "volume": 208,
+  "pos": 1537,
+  "address": "WDU20062081537",
+  "displayAddress": "Dz.U. 2006 nr 208 poz. 1537",
+  "title": "Ustawa z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2006-10-18",
+  "promulgation": "2006-11-21",
+  "entryIntoForce": "2007-02-22",
+  "validFrom": "2007-02-22",
+  "changeDate": "2024-03-15T09:58:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "likwidacja",
+   "depozyty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/524.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/524",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/524",
+    "number": "524",
+    "term": 5
+   }
+  ],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/1954/184",
+     "date": "2007-02-22"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/1241",
+     "date": "2010-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2007-02-22"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2005/2104"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20061537.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20061537.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20061537L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20061537Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
