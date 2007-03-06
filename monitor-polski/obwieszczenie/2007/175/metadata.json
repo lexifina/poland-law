@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/175",
+ "source_sha256": "f2ff7d2d02c3753504749cec208aa6eaabc601d03c03e9085e6747045fa7282c",
+ "in_force": "2007-03-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/175",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/175/text/O/M20070175.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/175/text/I/M20070175.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/175",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 15,
+  "pos": 175,
+  "address": "WMP20070150175",
+  "displayAddress": "M.P. 2007 nr 15 poz. 175",
+  "title": "Obwieszczenie Ministra Transportu z dnia 4 stycznia 2007 r. w sprawie ogłoszenia zmian w statucie państwowego przedsiębiorstwa użyteczności publicznej \"Poczta Polska\"",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-01-04",
+  "promulgation": "2007-03-06",
+  "repealDate": "2008-11-10",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "MIN. TRANSPORTU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta",
+   "statut"
+  ],
+  "keywordsNames": [
+   "Poczta Polska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1998/221",
+     "date": "2008-01-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/675"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/675",
+     "art": "art. 19 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2008/1109",
+     "date": "2008-11-10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070175.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070175.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
