@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/218",
+ "source_sha256": "ca5df49b8e78c475510d9f23bcd5061d4a9a88924ee48ceeb007779713b50766",
+ "in_force": "2007-03-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/218",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/218/text/O/M20070218.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/218/text/I/M20070218.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/218",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 18,
+  "pos": 218,
+  "address": "WMP20070180218",
+  "displayAddress": "M.P. 2007 nr 18 poz. 218",
+  "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 7 marca 2007 r. w sprawie wysokości kwot jednorazowych odszkodowań z tytułu wypadku przy pracy lub choroby zawodowej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-07",
+  "promulgation": "2007-03-19",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania",
+   "choroby zawodowe",
+   "wypadki przy pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1673"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1673",
+     "art": "art. 14 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070218.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070218.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
