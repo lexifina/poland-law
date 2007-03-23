@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/223",
+ "source_sha256": "b105df7e79d2bc4391121493eb7174850a45c3aef297a62f3094598b73b105e8",
+ "in_force": "2007-03-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/223/text/O/M20070223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/223/text/I/M20070223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/223",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 19,
+  "pos": 223,
+  "address": "WMP20070190223",
+  "displayAddress": "M.P. 2007 nr 19 poz. 223",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 15 marca 2007 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Wojciecha Wierzejskiego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-15",
+  "promulgation": "2007-03-23",
+  "changeDate": "2026-10-06T14:21:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
