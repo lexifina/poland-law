@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/222",
+ "source_sha256": "86ec9566fff7bcfbb39ea9b3d77620010b8b9c33d5c1b06afdb08fbcb4e289ce",
+ "in_force": "2007-03-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/222/text/O/M20070222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/222/text/I/M20070222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/222",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 19,
+  "pos": 222,
+  "address": "WMP20070190222",
+  "displayAddress": "M.P. 2007 nr 19 poz. 222",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 15 marca 2007 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Jacka Kurskiego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-15",
+  "promulgation": "2007-03-23",
+  "changeDate": "2026-10-06T14:21:54",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
