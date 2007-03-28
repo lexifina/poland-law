@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/359",
+ "source_sha256": "243a30b03688f70db2228fe3402856e7f6584e347f56df584d557aa814386dc3",
+ "in_force": "2007-03-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 363 words, parsed 240; at 240: '2310 ) jest niezgodny : a ) z art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/359",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/359/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/359/text/O/D20070359.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/359/text/I/D20070359.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/359/text/T/D20070359TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/359",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 53,
+  "pos": 359,
+  "address": "WDU20070530359",
+  "displayAddress": "Dz.U. 2007 nr 53 poz. 359",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 marca 2007 r. sygn. akt U 1/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-22",
+  "promulgation": "2007-03-28",
+  "entryIntoForce": "2007-03-28",
+  "validFrom": "2007-03-28",
+  "changeDate": "2024-03-15T09:51:23",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/144",
+     "date": "2007-03-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/602"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/144"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070359.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070359.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070359TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070359TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
