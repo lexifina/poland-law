@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/358",
+ "source_sha256": "fc31d1f0e0f3f5c96f004b47c19d8fe866de7d251e1c1af7b48f4de12b5d91df",
+ "in_force": "2007-03-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 567 words, parsed 51; at 51: 'marca 2007 r . : 1 ) wniosku Rady Miejskiej'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/358",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/358/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/358/text/O/D20070358.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/358/text/I/D20070358.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/358/text/T/D20070358TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/358",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 53,
+  "pos": 358,
+  "address": "WDU20070530358",
+  "displayAddress": "Dz.U. 2007 nr 53 poz. 358",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 marca 2007 r. sygn. akt K 35/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-20",
+  "promulgation": "2007-03-28",
+  "entryIntoForce": "2007-03-28",
+  "validFrom": "2007-03-28",
+  "changeDate": "2024-03-15T09:51:23",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/607"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/2781"
+    },
+    {
+     "id": "DU/1991/425"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070358.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070358.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070358TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070358TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
