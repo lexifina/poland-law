@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/272",
+ "source_sha256": "9eaea42aac48ae4c816fbf71e23f12cfa725ba7cf950ebe450593c3ed1dc20fd",
+ "in_force": "2007-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: no articles found; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/272",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/272/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/272/text/O/D20070272.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/272/text/I/D20070272.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/272/text/T/D20070272L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/272",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 42,
+  "pos": 272,
+  "address": "WDU20070420272",
+  "displayAddress": "Dz.U. 2007 nr 42 poz. 272",
+  "title": "Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy - Prawo bankowe",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-01-26",
+  "promulgation": "2007-03-09",
+  "entryIntoForce": "2007-04-01",
+  "validFrom": "2007-04-01",
+  "changeDate": "2024-03-15T09:51:17",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS INSTYTUCJI FINANSOWYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola",
+   "nadzór",
+   "bankowe prawo",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32006L0048",
+    "date": "2006-06-14",
+    "title": "Dyrektywa 2006/48/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie podejmowania i prowadzenia działalności przez instytucje kredytowe (wersja przeredagowana) Tekst mający znaczenie dla EOG."
+   },
+   {
+    "address": "32006L0049",
+    "date": "2006-06-14",
+    "title": "Dyrektywa 2006/49/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie adekwatności kapitałowej firm inwestycyjnych i instytucji kredytowych (wersja przeredagowana)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1240.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1240",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1240",
+    "number": "1240",
+    "term": 5
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym (Dz. U. z 2012 r., poz. 1376) z dniem 10 grudnia 2012 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2005/1596",
+     "date": "2007-04-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/1119",
+     "date": "2008-01-01"
+    },
+    {
+     "id": "DU/1997/939",
+     "date": "2007-04-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1960/168"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070272.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070272.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070272L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
