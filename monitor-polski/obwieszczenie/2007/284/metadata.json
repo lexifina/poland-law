@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/284",
+ "source_sha256": "ab15db5feeb02bd0af7ba873ae8f72988c424516f23c50a9c89a3ae5e71f9901",
+ "in_force": "2007-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/284",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/284/text/O/M20070284.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/284/text/I/M20070284.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/284",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 26,
+  "pos": 284,
+  "address": "WMP20070260284",
+  "displayAddress": "M.P. 2007 nr 26 poz. 284",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 29 marca 2007 r. o zwolnieniu stanowiska sędziowskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-29",
+  "promulgation": "2007-04-17",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070284.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070284.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
