@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/285",
+ "source_sha256": "66cb396c250ab10437200b332fafa257bf211b118d75b328bd9caac7871abe90",
+ "in_force": "2007-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/285",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/285/text/O/M20070285.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/285/text/I/M20070285.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/285",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 26,
+  "pos": 285,
+  "address": "WMP20070260285",
+  "displayAddress": "M.P. 2007 nr 26 poz. 285",
+  "title": "Obwieszczenie Ministra Transportu z dnia 2 kwietnia 2007 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Transportu lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-04-02",
+  "promulgation": "2007-04-17",
+  "changeDate": "2019-03-25T12:08:24",
+  "releasedBy": [
+   "MIN. TRANSPORTU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Min. Transportu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2006/432",
+     "date": "2007-04-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070285.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070285.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
