@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/449",
+ "source_sha256": "04838a6ada7c751ae00a7e59e831a7bb024195a38bc9659df45616c3728cdfc9",
+ "in_force": "2007-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/449",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/449/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/449/text/O/D20070449.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/449/text/I/D20070449.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/449/text/T/D20070449L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/449/text/U/D20070449Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/449",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 68,
+  "pos": 449,
+  "address": "WDU20070680449",
+  "displayAddress": "Dz.U. 2007 nr 68 poz. 449",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 marca 2007 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-03-28",
+  "promulgation": "2007-04-17",
+  "expirationDate": "2010-01-19",
+  "changeDate": "2024-03-15T09:51:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzienniki urzędowe",
+   "wydawnictwa i publikacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/718"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070449.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070449.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070449L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070449Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
