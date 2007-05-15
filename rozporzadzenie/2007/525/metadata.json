@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/525",
+ "source_sha256": "e4cb8e7d70353298c5701d12244218d9396bbf46039731052379d5dbeb4298bf",
+ "in_force": "2007-05-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/525",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/525/text/O/D20070525.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/525/text/I/D20070525.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/525",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 77,
+  "pos": 525,
+  "address": "WDU20070770525",
+  "displayAddress": "Dz.U. 2007 nr 77 poz. 525",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 16 kwietnia 2007 r. w sprawie doskonalenia zawodowego dyspozytorów medycznych",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-04-16",
+  "promulgation": "2007-04-30",
+  "entryIntoForce": "2007-05-15",
+  "validFrom": "2007-05-15",
+  "repealDate": "2017-09-01",
+  "changeDate": "2017-09-15T17:08:48",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "szkolenie zawodowe",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2002/558"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1410"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1410",
+     "art": "art. 26 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2017/1620",
+     "date": "2017-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20070525.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070525.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
