@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/361",
+ "source_sha256": "c4fdecaf0b67afcc746c3e8d8613f0f20523f7bf42084f82fd6c93a4819f2a76",
+ "in_force": "2007-05-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/361",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/361/text/O/M20070361.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/361/text/I/M20070361.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/361",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 31,
+  "pos": 361,
+  "address": "WMP20070310361",
+  "displayAddress": "M.P. 2007 nr 31 poz. 361",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 20 kwietnia 2007 r. o zwolnieniu stanowiska sędziowskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-04-20",
+  "promulgation": "2007-05-21",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2007/437",
+     "date": "2007-06-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070361.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070361.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
