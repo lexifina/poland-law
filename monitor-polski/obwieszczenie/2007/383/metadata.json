@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/383",
+ "source_sha256": "a856ffc633039ec89045a4c4c1bd775be9149208516bdb24faa5b0ac427a8061",
+ "in_force": "2007-05-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/383",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/383/text/O/M20070383.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/383/text/I/M20070383.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/383",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 33,
+  "pos": 383,
+  "address": "WMP20070330383",
+  "displayAddress": "M.P. 2007 nr 33 poz. 383",
+  "title": "Obwieszczenie Ministra Finansów z dnia 23 maja 2007 r. w sprawie ogłoszenia kwot, o których mowa w art. 15 ust. 1 pkt 1 i 2 ustawy o finansach publicznych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-05-23",
+  "promulgation": "2007-05-30",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2005/2104"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2005/2104",
+     "art": "art. 15 ust. 1 pkt 1 i 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070383.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070383.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
