@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/400",
+ "source_sha256": "c044c93efce0c1535f69e3468a547c7d95c3aaa951304d9c4b94c34d5ea91e6e",
+ "in_force": "2007-05-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/400",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/400/text/O/M20070400.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/400/text/I/M20070400.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/400",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 34,
+  "pos": 400,
+  "address": "WMP20070340400",
+  "displayAddress": "M.P. 2007 nr 34 poz. 400",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 25 maja 2007 r. w sprawie wskaźnika cen towarowej produkcji rolniczej w 2006 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-05-25",
+  "promulgation": "2007-05-31",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "rolnictwo",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/350",
+     "art": "art. 24 ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070400.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070400.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
