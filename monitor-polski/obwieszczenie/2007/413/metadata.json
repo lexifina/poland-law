@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/413",
+ "source_sha256": "0c994804a5e62e576982bf77a328c48aecb89aeb4886e4a8cba935aaf7533c64",
+ "in_force": "2007-06-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/413",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/413/text/O/M20070413.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/413/text/I/M20070413.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/413",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 35,
+  "pos": 413,
+  "address": "WMP20070350413",
+  "displayAddress": "M.P. 2007 nr 35 poz. 413",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 31 maja 2007 r. w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w III kwartale 2007 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-05-31",
+  "promulgation": "2007-06-08",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZES KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "rolnicy",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070413.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070413.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
