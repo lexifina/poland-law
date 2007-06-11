@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/710",
+ "source_sha256": "7c6d425c94db48d7bee4f553cb00f1287b7eb76802b96707650ae5b1ac36fb20",
+ "in_force": "2007-06-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/710",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/710/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/710/text/O/D20070710.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/710/text/I/D20070710.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/710/text/T/D20070710L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/710/text/U/D20070710Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/710",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 102,
+  "pos": 710,
+  "address": "WDU20071020710",
+  "displayAddress": "Dz.U. 2007 nr 102 poz. 710",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 maja 2007 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowych instytucjach filmowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-05-30",
+  "promulgation": "2007-06-11",
+  "expirationDate": "2015-08-24",
+  "changeDate": "2024-03-15T09:51:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kinematografia"
+  ],
+  "keywordsNames": [
+   "Filmoteka Narodowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1987/127"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070710.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070710.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070710L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070710Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
