@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/765",
+ "source_sha256": "1596ed19c26274fb545fb8a1bf5562aef149da359d6261cbb450cf0dfa71774c",
+ "in_force": "2007-06-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/765",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/765/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/765/text/O/D20070765.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/765/text/I/D20070765.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/765/text/T/D20070765L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/765/text/U/D20070765Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/765",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 111,
+  "pos": 765,
+  "address": "WDU20071110765",
+  "displayAddress": "Dz.U. 2007 nr 111 poz. 765",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 czerwca 2007 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny skarbowy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-06-04",
+  "promulgation": "2007-06-26",
+  "expirationDate": "2013-02-11",
+  "changeDate": "2024-04-25T10:10:03",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny skarbowy",
+   "karne skarbowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1999/930"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070765.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070765.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070765L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070765Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
