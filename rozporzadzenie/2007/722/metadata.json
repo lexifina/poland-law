@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/722",
+ "source_sha256": "1b55a81438e828a8b1165a64956f83aa1433cfa9f2eb579d35fb5c23fd38f522",
+ "in_force": "2007-06-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/722",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/722/text/O/D20070722.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/722/text/I/D20070722.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/722",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 106,
+  "pos": 722,
+  "address": "WDU20071060722",
+  "displayAddress": "Dz.U. 2007 nr 106 poz. 722",
+  "title": "Rozporządzenie Rady Ministrów z dnia 6 czerwca 2007 r. zmieniające rozporządzenie w sprawie szkolenia obronnego",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-06-06",
+  "promulgation": "2007-06-15",
+  "entryIntoForce": "2007-06-30",
+  "validFrom": "2007-06-30",
+  "repealDate": "2016-01-01",
+  "changeDate": "2016-01-08T09:07:30",
+  "releasedBy": [
+   "RADA MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "powszechny obowiązek obrony"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2015/1829",
+     "date": "2016-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/150",
+     "date": "2007-06-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 6 ust. 2 pkt 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20070722.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070722.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
