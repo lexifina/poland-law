@@ -1,0 +1,103 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/666",
+ "source_sha256": "a3f04c50cdfc845050f9877d2a6f749980bb4bc977b8107ddb043f5d0293aeb3",
+ "in_force": "2007-07-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/666",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/666/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/666/text/O/D20070666.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/666/text/I/D20070666.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/666/text/T/D20070666L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/666",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 99,
+  "pos": 666,
+  "address": "WDU20070990666",
+  "displayAddress": "Dz.U. 2007 nr 99 poz. 666",
+  "title": "Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o podatku akcyzowym oraz o zmianie niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-05-11",
+  "promulgation": "2007-06-05",
+  "entryIntoForce": "2007-07-06",
+  "validFrom": "2007-07-06",
+  "changeDate": "2024-03-15T09:50:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "biopaliwa",
+   "podatek akcyzowy",
+   "autostrady"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1502.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1502",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1502",
+    "number": "1502",
+    "term": 5
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1503.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1503",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1503",
+    "number": "1503",
+    "term": 5
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2007/217",
+     "date": "2007-07-06"
+    },
+    {
+     "id": "DU/2006/1199",
+     "date": "2007-07-06"
+    },
+    {
+     "id": "DU/2004/257",
+     "date": "2007-07-06"
+    },
+    {
+     "id": "DU/1994/627",
+     "date": "2007-07-06"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070666.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070666.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070666L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
