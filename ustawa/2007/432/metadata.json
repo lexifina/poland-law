@@ -1,0 +1,119 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/432",
+ "source_sha256": "20f97342bae3cb4064469b4ef0c909c363ca5ff26c2733af6d862ca860782a89",
+ "in_force": "2007-07-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/432",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/432/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/432/text/O/D20070432.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/432/text/I/D20070432.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/432/text/T/D20070432L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/432/text/U/D20070432Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/432",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 64,
+  "pos": 432,
+  "address": "WDU20070640432",
+  "displayAddress": "Dz.U. 2007 nr 64 poz. 432",
+  "title": "Ustawa z dnia 29 marca 2007 r. o zmianie ustawy o prokuraturze, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-03-29",
+  "promulgation": "2007-04-11",
+  "entryIntoForce": "2007-07-12",
+  "validFrom": "2007-07-12",
+  "changeDate": "2024-04-25T09:57:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny skarbowy",
+   "kodeks postępowania karnego",
+   "karne skarbowe prawo",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1113.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1113",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1113",
+    "number": "1113",
+    "term": 5
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2007/1250",
+     "date": "2007-09-27"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/930",
+     "date": "2007-07-12"
+    },
+    {
+     "id": "DU/1998/1125",
+     "date": "2007-07-12"
+    },
+    {
+     "id": "DU/1998/1016",
+     "date": "2007-07-12"
+    },
+    {
+     "id": "DU/1997/555",
+     "date": "2007-07-12"
+    },
+    {
+     "id": "DU/1985/138",
+     "date": "2007-07-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070432.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070432.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070432L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070432Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
