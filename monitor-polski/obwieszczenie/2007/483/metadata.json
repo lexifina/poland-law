@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/483",
+ "source_sha256": "bc355756a24a3fd4e55a72a9886bc1810f468434712a23136d92cfd50b03aefb",
+ "in_force": "2007-07-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/483",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/483/text/O/M20070483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/483/text/I/M20070483.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/483",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 42,
+  "pos": 483,
+  "address": "WMP20070420483",
+  "displayAddress": "M.P. 2007 nr 42 poz. 483",
+  "title": "Obwieszczenie Ministra Finansów z dnia 29 czerwca 2007 r. w sprawie stawki odsetek za zwłokę od zaległości podatkowych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-06-29",
+  "promulgation": "2007-07-13",
+  "changeDate": "2022-01-28T14:17:19",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa",
+   "odsetki za zwłokę",
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070483.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
