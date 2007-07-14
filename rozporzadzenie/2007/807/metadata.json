@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/807",
+ "source_sha256": "f4194027a20498b6ae94f592a540eeb2d4251ae9bd82aaed83ee1408441c97c5",
+ "in_force": "2007-07-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/807",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/807/text/O/D20070807.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/807/text/I/D20070807.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/807",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 116,
+  "pos": 807,
+  "address": "WDU20071160807",
+  "displayAddress": "Dz.U. 2007 nr 116 poz. 807",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2007 r. w sprawie limitów przyjęć na studia medyczne",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-06-25",
+  "promulgation": "2007-06-29",
+  "entryIntoForce": "2007-07-14",
+  "validFrom": "2007-07-14",
+  "repealDate": "2008-07-03",
+  "changeDate": "2014-12-31T12:26:08",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "szkolnictwo medyczne",
+   "studia w szkołach wyższych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2008/744",
+     "date": "2008-07-03"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2006/779",
+     "date": "2007-07-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2005/1365"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2005/1365",
+     "art": "art. 6 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20070807.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070807.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
