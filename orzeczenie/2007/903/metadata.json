@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/903",
+ "source_sha256": "88774a06800fb7ee105da7753e6d9ab00a8f515d019ed73748fc0f307a11e3c2",
+ "in_force": "2007-07-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 527 words, parsed 139; at 139: 'Konstytucji , orzeka : I 1 . Art . 203'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/903",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/903/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/903/text/O/D20070903.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/903/text/I/D20070903.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/903/text/T/D20070903TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/903",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 128,
+  "pos": 903,
+  "address": "WDU20071280903",
+  "displayAddress": "Dz.U. 2007 nr 128 poz. 903",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2007 r. sygn. akt SK 50/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-07-10",
+  "promulgation": "2007-07-18",
+  "entryIntoForce": "2007-07-18",
+  "validFrom": "2007-07-18",
+  "changeDate": "2024-03-15T09:51:13",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2008-10-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070903.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070903.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070903TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070903TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
