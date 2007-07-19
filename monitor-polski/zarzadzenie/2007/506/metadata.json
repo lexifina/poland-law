@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/506",
+ "source_sha256": "8a0bf00f48108b80c0186c6e61ee4c603ed263dd6b1bfc578ea7bd0297993d16",
+ "in_force": "2007-07-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/506",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/506/text/O/M20070506.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/506/text/I/M20070506.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/506",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 43,
+  "pos": 506,
+  "address": "WMP20070430506",
+  "displayAddress": "M.P. 2007 nr 43 poz. 506",
+  "title": "Zarządzenie Ministra Obrony Narodowej z dnia 10 lipca 2007 r. zmieniające zarządzenie w sprawie nadania statutu Służbie Wywiadu Wojskowego",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-07-10",
+  "promulgation": "2007-07-19",
+  "entryIntoForce": "2007-07-19",
+  "validFrom": "2007-07-19",
+  "repealDate": "2008-06-13",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Służba Wywiadu Wojskowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2008/385",
+     "date": "2008-06-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2006/757",
+     "date": "2007-07-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/709"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/709",
+     "art": "art. 21 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070506.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070506.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
