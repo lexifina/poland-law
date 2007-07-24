@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/933",
+ "source_sha256": "1eec577d46a81a6e2c1696f3a201737e51b74e29597b70624e8319f6f576e3fb",
+ "in_force": "2007-07-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 618 words, parsed 252; at 252: '1821 ) jest niezgodny : a ) z art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/933",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/933/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/933/text/O/D20070933.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/933/text/I/D20070933.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/933/text/T/D20070933TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/933",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 133,
+  "pos": 933,
+  "address": "WDU20071330933",
+  "displayAddress": "Dz.U. 2007 nr 133 poz. 933",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 lipca 2007 r. sygn. akt U 7/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-07-12",
+  "promulgation": "2007-07-24",
+  "entryIntoForce": "2007-07-24",
+  "validFrom": "2007-07-24",
+  "changeDate": "2024-03-15T09:51:31",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "niepełnosprawni"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1161",
+     "date": "2007-07-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/776"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/1161"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070933.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070933.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070933TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070933TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
