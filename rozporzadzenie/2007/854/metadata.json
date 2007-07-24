@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/854",
+ "source_sha256": "6f792b1b9abc560bf691ce159b05a0440095a174cf94602803d6461f4f37458d",
+ "in_force": "2007-07-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/854",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/854/text/O/D20070854.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/854/text/I/D20070854.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/854",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 123,
+  "pos": 854,
+  "address": "WDU20071230854",
+  "displayAddress": "Dz.U. 2007 nr 123 poz. 854",
+  "title": "Rozporządzenie Ministra Finansów z dnia 20 czerwca 2007 r. zmieniające rozporządzenie w sprawie zaświadczeń wydawanych przez organy podatkowe",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-06-20",
+  "promulgation": "2007-07-09",
+  "entryIntoForce": "2007-07-24",
+  "validFrom": "2007-07-24",
+  "repealDate": "2012-01-01",
+  "changeDate": "2022-01-28T14:17:13",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa",
+   "zaświadczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/1726",
+     "date": "2012-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1374",
+     "date": "2007-07-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 306j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20070854.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070854.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
