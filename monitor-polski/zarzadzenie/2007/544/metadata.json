@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/544",
+ "source_sha256": "59946ed09aaf98211c38ceef7e9f7791e40974fde12562de97a70456b79d22ed",
+ "in_force": "2007-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/544",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/544/text/O/M20070544.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/544/text/I/M20070544.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/544",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 46,
+  "pos": 544,
+  "address": "WMP20070460544",
+  "displayAddress": "M.P. 2007 nr 46 poz. 544",
+  "title": "Zarządzenie Nr 75 Prezesa Rady Ministrów z dnia 26 lipca 2007 r. w sprawie nadania statutu Ministerstwu Pracy i Polityki Społecznej",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-07-26",
+  "promulgation": "2007-07-31",
+  "entryIntoForce": "2007-07-31",
+  "validFrom": "2007-07-31",
+  "repealDate": "2007-10-25",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Pracy i Polityki Społecznej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2007/838",
+     "date": "2007-10-25"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2006/670",
+     "date": "2007-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070544.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070544.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
