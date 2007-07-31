@@ -1,0 +1,154 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/873",
+ "source_sha256": "d951801f7ffc04f6aa00b1282a8748f68581ff13438501b613bbd9d8a8e8cca0",
+ "in_force": "2007-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/873",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/873/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/873/text/O/D20070873.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/873/text/I/D20070873.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/873/text/T/D20070873L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/873/text/U/D20070873Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/873",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 125,
+  "pos": 873,
+  "address": "WDU20071250873",
+  "displayAddress": "Dz.U. 2007 nr 125 poz. 873",
+  "title": "Ustawa z dnia 14 czerwca 2007 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-06-14",
+  "promulgation": "2007-07-13",
+  "entryIntoForce": "2007-07-31",
+  "validFrom": "2007-07-31",
+  "changeDate": "2024-03-15T09:50:45",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość",
+   "lokal",
+   "spółdzielczość mieszkaniowa",
+   "opłaty",
+   "remonty",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/339.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/339",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/339",
+    "number": "339",
+    "term": 5
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/766.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/766",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/766",
+    "number": "766",
+    "term": 5
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/767.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/767",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/767",
+    "number": "767",
+    "term": 5
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/768.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/768",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/768",
+    "number": "768",
+    "term": 5
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/988",
+     "date": "2009-07-27"
+    },
+    {
+     "id": "DU/2009/1779",
+     "date": "2009-12-30"
+    },
+    {
+     "id": "DU/2008/1617",
+     "date": "2008-12-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1398",
+     "date": "2007-07-31"
+    },
+    {
+     "id": "DU/2001/27",
+     "date": "2007-07-31"
+    },
+    {
+     "id": "DU/1982/210",
+     "date": "2007-07-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/1679"
+    },
+    {
+     "id": "DU/1961/61"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2012/888"
+    },
+    {
+     "id": "DU/2009/988"
+    },
+    {
+     "id": "DU/2008/1617"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070873.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070873.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070873L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070873Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
