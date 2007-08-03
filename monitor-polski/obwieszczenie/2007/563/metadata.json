@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/563",
+ "source_sha256": "c76c2706b46cfc84e56eb9b072e2e5d02368594a3b46762fdd0195ed72070b8c",
+ "in_force": "2007-08-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/563",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/563/text/O/M20070563.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/563/text/I/M20070563.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/563",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 47,
+  "pos": 563,
+  "address": "WMP20070470563",
+  "displayAddress": "M.P. 2007 nr 47 poz. 563",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 27 lipca 2007 r. o podaniu do publicznej wiadomości prawomocnego orzeczenia Sądu, stwierdzającego niezgodność z prawdą oświadczenia osoby lustrowanej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-07-27",
+  "promulgation": "2007-08-03",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. SĄDU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lustracja",
+   "oświadczenie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1592"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1592",
+     "art": "art. 63a ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070563.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070563.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
