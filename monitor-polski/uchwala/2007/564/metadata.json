@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/564",
+ "source_sha256": "e7e7abf68412db271a051195008de60ae55a835d7cdbf0b90c320de99bd41a90",
+ "in_force": "2007-08-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/564",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/564/text/O/M20070564.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/564/text/I/M20070564.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/564",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 48,
+  "pos": 564,
+  "address": "WMP20070480564",
+  "displayAddress": "M.P. 2007 nr 48 poz. 564",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 26 lipca 2007 r. w sprawie wyrażenia zgody na powołanie Prezesa Najwyższej Izby Kontroli",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-07-26",
+  "promulgation": "2007-08-09",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1995/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 205 ust. 1"
+    },
+    {
+     "id": "DU/1995/59",
+     "art": "art. 14 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070564.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070564.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
