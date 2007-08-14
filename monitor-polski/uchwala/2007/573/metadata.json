@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/573",
+ "source_sha256": "b49ab0b77249f61f78524e7f3d9daaa0054c7e800cc8754be6f5300b0f97a517",
+ "in_force": "2007-08-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/573",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/573/text/O/M20070573.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/573/text/I/M20070573.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/573",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 50,
+  "pos": 573,
+  "address": "WMP20070500573",
+  "displayAddress": "M.P. 2007 nr 50 poz. 573",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 lipca 2007 r. w sprawie powołania Prezesa Najwyższej Izby Kontroli",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-07-06",
+  "promulgation": "2007-08-14",
+  "changeDate": "2023-07-03T14:07:59",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1995/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 205 ust. 1"
+    },
+    {
+     "id": "DU/1995/59",
+     "art": "art. 14 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070573.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070573.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
