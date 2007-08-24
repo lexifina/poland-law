@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/566",
+ "source_sha256": "665b500ef120f3021abeb1772e2e7b3bfe399ad7129bdd0cef1f96affbcd68fe",
+ "in_force": "2007-08-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/566",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/566/text/O/M20070566.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/566/text/I/M20070566.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/566",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 48,
+  "pos": 566,
+  "address": "WMP20070480566",
+  "displayAddress": "M.P. 2007 nr 48 poz. 566",
+  "title": "Zarządzenie Nr 81 Prezesa Rady Ministrów z dnia 1 sierpnia 2007 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-08-01",
+  "promulgation": "2007-08-09",
+  "entryIntoForce": "2007-08-24",
+  "validFrom": "2007-08-24",
+  "repealDate": "2011-02-03",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2008/163",
+     "date": "2008-02-27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1218"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1218",
+     "art": "art. 54 ust. 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2011/61",
+     "date": "2011-02-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070566.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070566.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
