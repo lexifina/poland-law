@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/613",
+ "source_sha256": "fa0664833f407e0bc39c5d247f256be4c110f38a6e53fc6b4213e8b6112cb823",
+ "in_force": "2007-08-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/613",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/613/text/O/M20070613.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/613/text/I/M20070613.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/613",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 54,
+  "pos": 613,
+  "address": "WMP20070540613",
+  "displayAddress": "M.P. 2007 nr 54 poz. 613",
+  "title": "Zarządzenie Nr 85 Prezesa Rady Ministrów z dnia 24 sierpnia 2007 r. w sprawie nadania statutu Ministerstwu Gospodarki",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-08-24",
+  "promulgation": "2007-08-29",
+  "entryIntoForce": "2007-08-29",
+  "validFrom": "2007-08-29",
+  "repealDate": "2007-11-24",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Gospodarki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2007/873",
+     "date": "2007-11-24"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2007/259",
+     "date": "2007-08-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070613.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070613.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
