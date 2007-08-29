@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/618",
+ "source_sha256": "3bf0feb4ce3e5f3ccecfd78fb5623d6efb91f842a1fda47e754d4e7b3e8b3a59",
+ "in_force": "2007-08-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/618",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/618/text/O/M20070618.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/618/text/I/M20070618.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/618",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 54,
+  "pos": 618,
+  "address": "WMP20070540618",
+  "displayAddress": "M.P. 2007 nr 54 poz. 618",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2007 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych i Administracji lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-07-31",
+  "promulgation": "2007-08-29",
+  "repealDate": "2008-09-16",
+  "changeDate": "2014-12-31T12:26:41",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Ministerstwo Spraw Wewnętrznych i Administracji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/2002/234",
+     "date": "2007-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2008/691",
+     "date": "2008-09-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070618.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070618.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
