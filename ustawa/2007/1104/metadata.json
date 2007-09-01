@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1104",
+ "source_sha256": "7b42dd1444a3c670fd7b5fc5382af7e49240ba86a5d27f0bd4084bb7490a6978",
+ "in_force": "2007-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1104",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1104/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1104/text/O/D20071104.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1104/text/I/D20071104.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1104/text/T/D20071104L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1104",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 158,
+  "pos": 1104,
+  "address": "WDU20071581104",
+  "displayAddress": "Dz.U. 2007 nr 158 poz. 1104",
+  "title": "Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-08-24",
+  "promulgation": "2007-08-31",
+  "entryIntoForce": "2007-09-01",
+  "validFrom": "2007-09-01",
+  "changeDate": "2024-03-15T09:51:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc publiczna",
+   "zakłady opieki zdrowotnej",
+   "pomoc finansowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1869.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1869",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1869",
+    "number": "1869",
+    "term": 5
+   }
+  ],
+  "comments": "art. 1 pkt 1 lit. b wchodzi w życie z dniem 31 sierpnia 2007 r. Objęte tekstem jednolitym Dz. U. 2018 poz. 164 z wyj. art. 2",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/684",
+     "date": "2007-09-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/1679"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071104.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071104.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071104L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
