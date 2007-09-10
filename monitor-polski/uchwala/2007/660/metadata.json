@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/660",
+ "source_sha256": "94f613e1e3d14d061556fad1a43f3768a958d3b61d815df4f35299777075088e",
+ "in_force": "2007-09-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/660",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/660/text/O/M20070660.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/660/text/I/M20070660.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/660",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 58,
+  "pos": 660,
+  "address": "WMP20070580660",
+  "displayAddress": "M.P. 2007 nr 58 poz. 660",
+  "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 23 sierpnia 2007 r. zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+  "type": "Uchwała",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-08-23",
+  "promulgation": "2007-09-10",
+  "entryIntoForce": "2007-09-10",
+  "validFrom": "2007-09-10",
+  "repealDate": "2013-10-01",
+  "changeDate": "2022-04-05T11:28:22",
+  "releasedBy": [
+   "ZARZ. NBP"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "banki"
+  ],
+  "keywordsNames": [
+   "Zarząd Narodowego Banku Polskiego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2013/783",
+     "date": "2013-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/1998/203",
+     "date": "2007-09-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/938"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/938",
+     "art": "art. 20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070660.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070660.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
