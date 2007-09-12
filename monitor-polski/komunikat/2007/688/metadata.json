@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/688",
+ "source_sha256": "89323da50a8f5e9845dc910922e6f718b57943127f477bd739041565d0c36b29",
+ "in_force": "2007-09-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/688",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/688/text/O/M20070688.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/688/text/I/M20070688.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/688",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 59,
+  "pos": 688,
+  "address": "WMP20070590688",
+  "displayAddress": "M.P. 2007 nr 59 poz. 688",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 7 września 2007 r. o liczbie wyborców ujętych w rejestrach wyborców",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-09-07",
+  "promulgation": "2007-09-12",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 114 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070688.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070688.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
