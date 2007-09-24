@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1234",
+ "source_sha256": "d064bb2ad6e8a5568d27a7b780918f92be017d0d34543597031f77eabdb00161",
+ "in_force": "2007-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1234/text/O/D20071234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1234/text/I/D20071234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1234",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 175,
+  "pos": 1234,
+  "address": "WDU20071751234",
+  "displayAddress": "Dz.U. 2007 nr 175 poz. 1234",
+  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 18 września 2007 r. zmieniające rozporządzenie w sprawie przygotowania i rozpowszechniania audycji wyborczych w wyborach do Sejmu i do Senatu",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-09-18",
+  "promulgation": "2007-09-24",
+  "entryIntoForce": "2007-09-24",
+  "validFrom": "2007-09-24",
+  "repealDate": "2011-08-01",
+  "changeDate": "2014-12-31T12:26:08",
+  "releasedBy": [
+   "KRAJOWA RADA RADIOFONII I TELEWIZJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/991",
+     "date": "2007-09-24"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 182 ust. 3"
+    },
+    {
+     "id": "DU/2001/499",
+     "art": "art. 216 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2011/915",
+     "date": "2011-08-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20071234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
