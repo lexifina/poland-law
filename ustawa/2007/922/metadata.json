@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/922",
+ "source_sha256": "24510d086f2ad1196d27e7df747bbe291baca53182906cc0910a35de53395da3",
+ "in_force": "2007-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/922",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/922/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/922/text/O/D20070922.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/922/text/I/D20070922.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/922/text/T/D20070922L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/922/text/U/D20070922Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/922",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 133,
+  "pos": 922,
+  "address": "WDU20071330922",
+  "displayAddress": "Dz.U. 2007 nr 133 poz. 922",
+  "title": "Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-06-29",
+  "promulgation": "2007-07-24",
+  "entryIntoForce": "2007-10-01",
+  "validFrom": "2007-10-01",
+  "changeDate": "2024-03-15T09:51:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne",
+   "ubezpieczenia",
+   "finansowanie",
+   "ubezpieczenia zdrowotne",
+   "opieka zdrowotna",
+   "ubezpieczenia komunikacyjne"
+  ],
+  "keywordsNames": [
+   "Polskie Biuro Ubezpieczycieli Komunikacyjnych",
+   "Ubezpieczeniowy Fundusz Gwarancyjny"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1285.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1285",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1285",
+    "number": "1285",
+    "term": 5
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2008/1486",
+     "date": "2009-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/2135",
+     "date": "2007-10-01"
+    },
+    {
+     "id": "DU/2003/1152",
+     "date": "2007-10-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070922.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070922.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070922L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070922Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
