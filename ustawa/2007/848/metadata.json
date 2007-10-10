@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/848",
+ "source_sha256": "4264c36d829306c34ca828cde0f89a7563d6893e8b7598c315676d6e79a108f4",
+ "in_force": "2007-10-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/848",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/848/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/848/text/O/D20070848.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/848/text/I/D20070848.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/848/text/T/D20070848L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/848/text/U/D20070848Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/848",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 123,
+  "pos": 848,
+  "address": "WDU20071230848",
+  "displayAddress": "Dz.U. 2007 nr 123 poz. 848",
+  "title": "Ustawa z dnia 14 czerwca 2007 r. o zmianie ustawy o orderach i odznaczeniach",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-06-14",
+  "promulgation": "2007-07-09",
+  "entryIntoForce": "2007-10-10",
+  "validFrom": "2007-10-10",
+  "changeDate": "2024-03-15T09:51:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc5.nsf/opisy/1595.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term5/prints/1595",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term5/processes/1595",
+    "number": "1595",
+    "term": 5
+   }
+  ],
+  "comments": " objęte tekstem jednolitym Dz. U. z 2015 r. poz. 475 z wyj. art. 2",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2011/1207",
+     "date": "2011-10-14"
+    },
+    {
+     "id": "DU/2010/1701",
+     "date": "2011-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/450",
+     "date": "2007-10-10"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20070848.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20070848.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20070848L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20070848Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
