@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1360",
+ "source_sha256": "1b87d16f0fce50e5114a045a387275137dc57eb37459744098f3bf3444477177",
+ "in_force": "2007-10-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1360",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1360/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1360/text/O/D20071360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1360/text/I/D20071360.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1360/text/T/D20071360L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2007/1360/text/U/D20071360Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1360",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 190,
+  "pos": 1360,
+  "address": "WDU20071901360",
+  "displayAddress": "Dz.U. 2007 nr 190 poz. 1360",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 października 2007 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2007-10-03",
+  "promulgation": "2007-10-17",
+  "repealDate": "2011-08-01",
+  "changeDate": "2024-03-15T09:50:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/113",
+     "date": "2011-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/499"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071360.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071360L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071360Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
