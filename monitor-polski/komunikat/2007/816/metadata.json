@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/816",
+ "source_sha256": "5c3180e5331d5aaf8e22387641347cb90cdf25a27af29d1197812b6026021d60",
+ "in_force": "2007-10-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/816",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/816/text/O/M20070816.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/816/text/I/M20070816.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/816",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 76,
+  "pos": 816,
+  "address": "WMP20070760816",
+  "displayAddress": "M.P. 2007 nr 76 poz. 816",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 października 2007 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów 2007 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-15",
+  "promulgation": "2007-10-19",
+  "changeDate": "2020-10-20T09:38:40",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/32"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/32",
+     "art": "art. 7 ust. 2d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070816.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070816.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
