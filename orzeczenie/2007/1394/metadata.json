@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1394",
+ "source_sha256": "ecbaec1f3b1c58099255e091a4c03cdef669cd41e6a186f97be241ab03e4e705",
+ "in_force": "2007-10-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 254 words, parsed 122; at 122: '73 Konstytucji , orzeka : I . Art . 31'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1394",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1394/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1394/text/O/D20071394.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1394/text/I/D20071394.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1394/text/T/D20071394TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1394",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 192,
+  "pos": 1394,
+  "address": "WDU20071921394",
+  "displayAddress": "Dz.U. 2007 nr 192 poz. 1394",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 października 2007 r. sygn. akt K 20/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-08",
+  "promulgation": "2007-10-19",
+  "entryIntoForce": "2007-10-19",
+  "validFrom": "2007-10-19",
+  "changeDate": "2024-03-15T09:51:03",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "ochrona",
+   "zabytki"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1568",
+     "date": "2009-04-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/1568"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071394.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071394.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071394TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071394TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
