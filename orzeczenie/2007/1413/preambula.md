@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Marian Grzybowski - przewodniczący,
+
+Zbigniew Cieślak,
+
+Marek Kotlinowski - sprawozdawca,
+
+Teresa Liszcz,
+
+Jerzy Stępień,
+
+protokolant: Grażyna Szałygo,
+
+po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 16 października 2007 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 185 ustawy z dnia 18 lipca 2001 r. - Prawo wodne (Dz. U. Nr 115, poz. 1229, ze zm.) w zakresie, w jakim wyłącza stosowanie przepisów o odpowiedzialności za szkody w sytuacji, o której mowa w przepisie art. 85 ust. 1 pkt 4 ustawy - Prawo wodne, z art. 21 ust. 2 w związku z art. 64 ust. 1 i 2 Konstytucji,
+
+orzeka:
+
+Art. 185 ust. 1 ustawy z dnia 18 lipca 2001 r. - Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019 i Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 176, poz. 1238 i Nr 181, poz. 1286) w zakresie, w jakim wyłącza stosowanie przepisów o odpowiedzialności za szkody w sytuacji, o której mowa w art. 85 ust. 1 pkt 4 ustawy - Prawo wodne, jest zgodny z art. 64 ust. 1 i 2 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 21 ust. 2 Konstytucji.
