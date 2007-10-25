@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/839",
+ "source_sha256": "15c5aead833708e143518082c0b8a57c290f5b72f5733d79912a73ffb527d613",
+ "in_force": "2007-10-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/839",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/839/text/O/M20070839.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/839/text/I/M20070839.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/839",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 78,
+  "pos": 839,
+  "address": "WMP20070780839",
+  "displayAddress": "M.P. 2007 nr 78 poz. 839",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 16 października 2007 r. o zwolnieniu stanowiska sędziowskiego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-16",
+  "promulgation": "2007-10-25",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070839.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070839.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
