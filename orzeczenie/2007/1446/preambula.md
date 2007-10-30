@@ -1,0 +1,21 @@
+Trybunał Konstytucyjny w składzie:
+
+Mirosław Granat - przewodniczący,
+
+Marian Grzybowski,
+
+Wojciech Hermeliński,
+
+Adam Jamróz,
+
+Ewa Łętowska - sprawozdawca,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem Prokuratora Generalnego, na rozprawie w dniu 23 października 2007 r., pytania prawnego Wojewódzkiego Sądu Administracyjnego w Gdańsku, czy art. 24 ust. 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, ze zm.) w zakresie, w jakim stanowi, iż również w przypadku wniosku o przyznanie zasiłku pielęgnacyjnego osobie niepełnosprawnej w wieku powyżej 16 lat, legitymującej się orzeczeniem o znacznym stopniu niepełnosprawności uzyskanym w wyniku rozpoznania przez wojewódzki zespół do spraw orzekania o niepełnosprawności jej odwołania od orzeczenia powiatowego zespołu do spraw orzekania o niepełnosprawności, prawo do świadczeń rodzinnych ustala się począwszy od miesiąca, w którym wpłynął wniosek, jest zgodny z art. 2 w związku z art. 69 Konstytucji Rzeczypospolitej Polskiej,
+
+orzeka:
+
+Art. 24 ust. 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992 i Nr 222, poz. 1630 oraz z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720 i Nr 109, poz. 747) w zakresie, w jakim stanowi, że w wypadku wniosku o przyznanie zasiłku pielęgnacyjnego osobie niepełnosprawnej w wieku powyżej 16 lat, legitymującej się
+
+orzeczeniem o znacznym stopniu niepełnosprawności uzyskanym w wyniku rozpoznania przez wojewódzki zespół do spraw orzekania o niepełnosprawności jej odwołania od orzeczenia powiatowego zespołu do spraw orzekania o niepełnosprawności, prawo do świadczeń rodzinnych ustala się, począwszy od miesiąca, w którym wpłynął wniosek, jest niezgodny z art. 2 w związku z art. 69 Konstytucji Rzeczypospolitej Polskiej.
