@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/848",
+ "source_sha256": "bd08954760d13a00f89e75167463fb567af360f900a5b116f28eb1bd4743def1",
+ "in_force": "2007-10-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/848",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/848/text/O/M20070848.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/848/text/I/M20070848.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/848",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 80,
+  "pos": 848,
+  "address": "WMP20070800848",
+  "displayAddress": "M.P. 2007 nr 80 poz. 848",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 października 2007 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 13 z siedzibą Okręgowej Komisji Wyborczej w Krakowie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-29",
+  "promulgation": "2007-10-31",
+  "changeDate": "2018-05-25T12:28:47",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 179 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070848.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070848.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
