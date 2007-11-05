@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1482",
+ "source_sha256": "768d0b6a3d5659cd89fafb47f3522bdb6dc4f5be1a306a508499714c88178089",
+ "in_force": "2007-11-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 909 words, parsed 89; at 89: ', połączonych skarg konstytucyjnych : 1 ) Józefa Wiśniewskiego o'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1482",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1482/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1482/text/O/D20071482.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1482/text/I/D20071482.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1482/text/T/D20071482TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1482",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 204,
+  "pos": 1482,
+  "address": "WDU20072041482",
+  "displayAddress": "Dz.U. 2007 nr 204 poz. 1482",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 października 2007 r. sygn. akt SK 7/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-24",
+  "promulgation": "2007-11-05",
+  "entryIntoForce": "2007-11-05",
+  "validFrom": "2007-11-05",
+  "changeDate": "2024-03-15T09:51:39",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1070",
+     "date": "2009-05-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1070"
+    },
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071482.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071482.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071482TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071482TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
