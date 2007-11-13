@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1519",
+ "source_sha256": "9a816cb4e8be0af31144a2b2619e77cfae0d4a2e36696b16832e3c8a0212f627",
+ "in_force": "2007-11-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 679 words, parsed 560; at 560: 'maja 2004 r . : a ) jest niezgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1519",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1519/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1519/text/O/D20071519.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1519/text/I/D20071519.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1519/text/T/D20071519TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1519",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 209,
+  "pos": 1519,
+  "address": "WDU20072091519",
+  "displayAddress": "Dz.U. 2007 nr 209 poz. 1519",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 30 października 2007 r. sygn. akt P 28/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-30",
+  "promulgation": "2007-11-13",
+  "entryIntoForce": "2007-11-13",
+  "validFrom": "2007-11-13",
+  "changeDate": "2024-03-15T09:51:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "pomoc społeczna"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/593",
+     "date": "2007-11-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1990/506"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/593"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071519.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071519.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071519TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071519TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
