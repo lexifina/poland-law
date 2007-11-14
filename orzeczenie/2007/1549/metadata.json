@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1549",
+ "source_sha256": "ebd12646bc3fb1d075e600788105e97a2c8962cea6832d3d82f617e8d9393355",
+ "in_force": "2007-11-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1113 words, parsed 59; at 59: 'Obywatelskich o zbadanie zgodności : 1 ) art . 26'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1549",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1549/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1549/text/O/D20071549.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1549/text/I/D20071549.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1549/text/T/D20071549TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1549",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 211,
+  "pos": 1549,
+  "address": "WDU20072111549",
+  "displayAddress": "Dz.U. 2007 nr 211 poz. 1549",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 7 listopada 2007 r. sygn. akt K 18/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-11-07",
+  "promulgation": "2007-11-14",
+  "entryIntoForce": "2007-11-14",
+  "validFrom": "2007-11-14",
+  "changeDate": "2024-03-15T09:50:33",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/350",
+     "date": "2008-11-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/350"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071549.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071549.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071549TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071549TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
