@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/885",
+ "source_sha256": "10656125ce66007ecffe11f42eac883687dec697e9e308e53009ca8b43760d53",
+ "in_force": "2007-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/885",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/885/text/O/M20070885.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/885/text/I/M20070885.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/885",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 85,
+  "pos": 885,
+  "address": "WMP20070850885",
+  "displayAddress": "M.P. 2007 nr 85 poz. 885",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 5 października 2007 r. nr 112-48-07 o nadaniu stopni generalskich",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-05",
+  "promulgation": "2007-11-16",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070885.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070885.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
