@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/894",
+ "source_sha256": "b5721d497b2445b4102dec1ae072541a8417357f16579e672c3c2e1293f221fa",
+ "in_force": "2007-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/894",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/894/text/O/M20070894.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/894/text/I/M20070894.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/894",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 85,
+  "pos": 894,
+  "address": "WMP20070850894",
+  "displayAddress": "M.P. 2007 nr 85 poz. 894",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 8 listopada 2007 r. nr 112-74-07 o nadaniu stopnia generała dywizji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-11-08",
+  "promulgation": "2007-11-16",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070894.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070894.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
