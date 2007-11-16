@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/899",
+ "source_sha256": "0205804bfa7ba23cd6629968f4e663ba65e02e8d93362080c71193400c94b6e1",
+ "in_force": "2007-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/899",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/899/text/O/M20070899.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/899/text/I/M20070899.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/899",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 85,
+  "pos": 899,
+  "address": "WMP20070850899",
+  "displayAddress": "M.P. 2007 nr 85 poz. 899",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 8 listopada 2007 r. nr 112-77-07 o nadaniu stopnia wiceadmirała",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-11-08",
+  "promulgation": "2007-11-16",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070899.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070899.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
