@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/890",
+ "source_sha256": "ccce3be7242c1c37d9d13aa84e0158e2ff48af684c329bcc0954c77940027ada",
+ "in_force": "2007-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/890",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/890/text/O/M20070890.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/890/text/I/M20070890.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/890",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 85,
+  "pos": 890,
+  "address": "WMP20070850890",
+  "displayAddress": "M.P. 2007 nr 85 poz. 890",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 31 października 2007 r. o nadaniu stopnia generała brygady",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-31",
+  "promulgation": "2007-11-16",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070890.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070890.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
