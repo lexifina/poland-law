@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/942",
+ "source_sha256": "c6bf9b66055593368c152659b69844d3a54f3be8ef37581f70b7f4828a65e813",
+ "in_force": "2007-11-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/942",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/942/text/O/M20070942.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/942/text/I/M20070942.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2007/942/text/T/M20070942L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/942",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 87,
+  "pos": 942,
+  "address": "WMP20070870942",
+  "displayAddress": "M.P. 2007 nr 87 poz. 942",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 14 listopada 2007 r. w sprawie wyboru sekretarzy Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-11-14",
+  "promulgation": "2007-11-20",
+  "changeDate": "2019-05-07T15:52:22",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20070942.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20070942.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20070942L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
