@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1680",
+ "source_sha256": "f9a741799df8cd12432e302361a5b06f894de4287470dbe9286638089ee32ef4",
+ "in_force": "2007-12-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 399 words, parsed 122; at 122: '60 Konstytucji , orzeka : 1 . Art . 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1680",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1680/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1680/text/O/D20071680.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1680/text/I/D20071680.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1680/text/T/D20071680TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1680",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 227,
+  "pos": 1680,
+  "address": "WDU20072271680",
+  "displayAddress": "Dz.U. 2007 nr 227 poz. 1680",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 29 listopada 2007 r. sygn. akt SK 43/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-11-29",
+  "promulgation": "2007-12-05",
+  "entryIntoForce": "2007-12-05",
+  "validFrom": "2007-12-05",
+  "changeDate": "2024-03-15T09:51:31",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny",
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1082",
+     "date": "2007-12-05"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1082"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071680.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071680.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071680TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071680TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
