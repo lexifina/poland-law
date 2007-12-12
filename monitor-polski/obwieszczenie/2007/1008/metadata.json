@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/1008",
+ "source_sha256": "42146b5a6a60f6e94b1a4614ea200814d8993f311fc5bf55db847937014f8e7c",
+ "in_force": "2007-12-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/1008",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/1008/text/O/M20071008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/1008/text/I/M20071008.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/1008",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 92,
+  "pos": 1008,
+  "address": "WMP20070921008",
+  "displayAddress": "M.P. 2007 nr 92 poz. 1008",
+  "title": "Obwieszczenie Ministra Finansów z dnia 4 grudnia 2007 r. w sprawie wysokości ogólnej kwoty odliczeń wydatków na cele mieszkaniowe",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-12-04",
+  "promulgation": "2007-12-12",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo mieszkaniowe",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1588"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1588",
+     "art": "art. 9 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20071008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20071008.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
