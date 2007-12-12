@@ -1,0 +1,104 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1704",
+ "source_sha256": "6723966fb03c85500f8d6e10a8896d074c15479778b02c5b3923aa6978b524ee",
+ "in_force": "2007-12-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 499 words, parsed 66; at 66: 'Melioracyjnych o zbadanie zgodności : 1 ) art . 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1704",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1704/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1704/text/O/D20071704.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1704/text/I/D20071704.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1704/text/T/D20071704TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1704",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 231,
+  "pos": 1704,
+  "address": "WDU20072311704",
+  "displayAddress": "Dz.U. 2007 nr 231 poz. 1704",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2007 r. sygn. akt K 36/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-12-05",
+  "promulgation": "2007-12-12",
+  "entryIntoForce": "2007-12-12",
+  "validFrom": "2007-12-12",
+  "changeDate": "2024-03-15T09:50:50",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "wodne prawo",
+   "hydrologia i hydrografia"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/406",
+     "date": "2007-12-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1229",
+     "date": "2007-12-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/406"
+    },
+    {
+     "id": "DU/2001/1229"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071704.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071704.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071704TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071704TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
