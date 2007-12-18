@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2007/1735",
+ "source_sha256": "2b2b7301aedb93dae817a80a1905a5cd7a7bf591744dc0934d8ffa0a2d7be536",
+ "in_force": "2007-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 510 words, parsed 172; at 172: '217 Konstytucji , orzeka : I . § 16 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2007/1735",
+  "html": "https://eli.gov.pl/api/acts/DU/2007/1735/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2007/1735/text/O/D20071735.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2007/1735/text/I/D20071735.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2007/1735/text/T/D20071735TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2007/1735",
+  "publisher": "DU",
+  "year": 2007,
+  "volume": 235,
+  "pos": 1735,
+  "address": "WDU20072351735",
+  "displayAddress": "Dz.U. 2007 nr 235 poz. 1735",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2007 r. sygn. akt U 6/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-12-11",
+  "promulgation": "2007-12-18",
+  "entryIntoForce": "2007-12-18",
+  "validFrom": "2007-12-18",
+  "changeDate": "2024-03-15T09:51:41",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/798",
+     "date": "2008-12-19"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2004/535"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/798"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20071735.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20071735.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20071735TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20071735TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
