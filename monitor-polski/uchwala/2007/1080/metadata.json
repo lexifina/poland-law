@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/1080",
+ "source_sha256": "15421dd8ff403349ef2b4388be375e2463ccd526b43da96ce9e2dd442bb4a7b5",
+ "in_force": "2007-12-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/1080",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/1080/text/O/M20071080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/1080/text/I/M20071080.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2007/1080/text/T/M20071080L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/1080",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 100,
+  "pos": 1080,
+  "address": "WMP20071001080",
+  "displayAddress": "M.P. 2007 nr 100 poz. 1080",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2007 r. w sprawie powołania Komisji Śledczej do zbadania okoliczności tragicznej śmierci byłej posłanki Barbary Blidy",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-12-19",
+  "promulgation": "2007-12-31",
+  "entryIntoForce": "2007-12-19",
+  "validFrom": "2007-12-19",
+  "changeDate": "2020-07-17T14:01:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje śledcze",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/321"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/321",
+     "art": "art. 1"
+    },
+    {
+     "id": "DU/1999/321",
+     "art": "art. 2"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 111 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20071080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20071080.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20071080L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
