@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2007/1041",
+ "source_sha256": "e8237fbb7814abd3391a2f0c4cdf3816e47fff1912ff29f6d48f61ffc0b59f87",
+ "in_force": "2007-12-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2007/1041",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2007/1041/text/O/M20071041.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2007/1041/text/I/M20071041.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2007/1041",
+  "publisher": "MP",
+  "year": 2007,
+  "volume": 95,
+  "pos": 1041,
+  "address": "WMP20070951041",
+  "displayAddress": "M.P. 2007 nr 95 poz. 1041",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 11 grudnia 2007 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-12-11",
+  "promulgation": "2007-12-19",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20071041.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20071041.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
