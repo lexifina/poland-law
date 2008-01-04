@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/1",
+ "source_sha256": "26b77edb87140f1326131fa2fed326e04d9e727f27925f4cc05b18cc8430cf56",
+ "in_force": "2008-01-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/1/text/O/M20080001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/1/text/I/M20080001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/1",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 1,
+  "pos": 1,
+  "address": "WMP20080010001",
+  "displayAddress": "M.P. 2008 nr 1 poz. 1",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 14 listopada 2007 r. nr 110-71-2007 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-11-14",
+  "promulgation": "2008-01-04",
+  "changeDate": "2017-06-26T09:56:04",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
