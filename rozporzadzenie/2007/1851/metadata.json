@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2007/1851",
- "source_sha256": "663cdee4054ccf93bc3b17e1d26b090e640a538e0e891493e5108903e855ce29",
+ "source_sha256": "a277b45d7d800dfeec86734e75f61531edbe9e0cda2751f163c28ad165cf56b0",
  "in_force": "2008-01-15",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
  "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
@@ -28,7 +28,7 @@
   "entryIntoForce": "2008-01-15",
   "validFrom": "2008-01-15",
   "repealDate": "2027-01-01",
-  "changeDate": "2026-10-20T09:26:17",
+  "changeDate": "2026-11-25T09:43:59",
   "releasedBy": [
    "RADA MINISTRÓW"
   ],
@@ -44,6 +44,12 @@
   "directives": [],
   "prints": [],
   "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2026/1354",
+     "date": "2027-01-01"
+    }
+   ],
    "Odesłania": [
     {
      "id": "DU/2001/627"
@@ -58,12 +64,6 @@
     {
      "id": "DU/1991/31",
      "art": "art. 17 ust. 3 i 4"
-    }
-   ],
-   "Uchylenia wynikające z": [
-    {
-     "id": "DU/2026/1354",
-     "date": "2027-01-01"
     }
    ]
   },
