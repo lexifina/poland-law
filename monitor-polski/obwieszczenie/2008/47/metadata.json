@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/47",
+ "source_sha256": "db198c85be1a307c1d0d5e6ddc9a3a5e82664257b6c2e8e129e9d2f9f60cd72b",
+ "in_force": "2008-01-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/47",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/47/text/O/M20080047.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/47/text/I/M20080047.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/47",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 4,
+  "pos": 47,
+  "address": "WMP20080040047",
+  "displayAddress": "M.P. 2008 nr 4 poz. 47",
+  "title": "Obwieszczenie Ministra Finansów z dnia 4 stycznia 2008 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Finansów lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-01-04",
+  "promulgation": "2008-01-16",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Min. Finansów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080047.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080047.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
