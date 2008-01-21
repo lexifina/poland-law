@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/63",
+ "source_sha256": "e04dd7f7c98e233906c2285cb513822103064d70ec4ba4418d2e31ed1097bf8a",
+ "in_force": "2008-01-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/63",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/63/text/O/M20080063.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/63/text/I/M20080063.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/63",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 5,
+  "pos": 63,
+  "address": "WMP20080050063",
+  "displayAddress": "M.P. 2008 nr 5 poz. 63",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 11 stycznia 2008 r. o wolnym stanowisku komornika sądowego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-01-11",
+  "promulgation": "2008-01-21",
+  "changeDate": "2026-10-09T09:29:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komornicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/882"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/882",
+     "art": "art. 138"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080063.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080063.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
