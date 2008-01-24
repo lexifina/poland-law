@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/86",
+ "source_sha256": "ea7961b5e5943caad0cb607d8f0d9974b87fea89f9f95ac3cba1a8085568d6f3",
+ "in_force": "2008-01-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/86",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/86/text/O/M20080086.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/86/text/I/M20080086.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/86",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 7,
+  "pos": 86,
+  "address": "WMP20080070086",
+  "displayAddress": "M.P. 2008 nr 7 poz. 86",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 stycznia 2008 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w IV kwartale 2007 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-01-15",
+  "promulgation": "2008-01-24",
+  "changeDate": "2020-10-20T09:38:40",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "towar",
+   "wskaźnik",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080086.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080086.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
