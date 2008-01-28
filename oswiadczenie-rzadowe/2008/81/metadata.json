@@ -1,0 +1,66 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/81",
+ "source_sha256": "afea205f91aa77272c0a3dcf78a61391497920021bc4c3ec461f911fe98d33e3",
+ "in_force": "2008-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/81",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/81/text/O/D20080081.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/81/text/I/D20080081.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/81",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 13,
+  "pos": 81,
+  "address": "WDU20080130081",
+  "displayAddress": "Dz.U. 2008 nr 13 poz. 81",
+  "title": "Oświadczenie rządowe z dnia 19 października 2007 r. w sprawie mocy obowiązującej Protokołu w sprawie przywilejów i immunitetów Międzynarodowej Organizacji Dna Morskiego przyjęty w Kingston dnia 27 marca 1998 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-10-19",
+  "promulgation": "2008-01-28",
+  "changeDate": "2019-03-26T10:36:58",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2007/512"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2007/512",
+     "art": "art. 18 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20080081.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080081.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
