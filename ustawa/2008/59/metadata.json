@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/59",
+ "source_sha256": "c30955ef3ef0414f8ea939bf22a32e5881444ab2b5037296ce368f2c69b45278",
+ "in_force": "2008-02-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: parse error: Document is empty; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/59",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/59/text/O/D20080059.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/59/text/I/D20080059.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/59/text/T/D20080059L.pdf",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/59/text.html"
+ },
+ "metadata": {
+  "ELI": "DU/2008/59",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 11,
+  "pos": 59,
+  "address": "WDU20080110059",
+  "displayAddress": "Dz.U. 2008 nr 11 poz. 59",
+  "title": "Ustawa z dnia 20 grudnia 2007 r. o zmianie ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2007-12-20",
+  "promulgation": "2008-01-23",
+  "entryIntoForce": "2008-02-07",
+  "validFrom": "2008-02-07",
+  "changeDate": "2024-03-15T10:03:05",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Agencja Bezpieczeństwa Wewnętrznego",
+   "Agencja Wywiadu"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/87.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/87",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/87",
+    "number": "87",
+    "term": 6
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. 2010 nr 29, poz. 154",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/676",
+     "date": "2008-02-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/679"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20080059.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080059.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080059L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "text.html",
+    "type": "H"
+   }
+  ]
+ }
+}
