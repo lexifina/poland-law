@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/139",
+ "source_sha256": "9b5ea41178a1f492bf318d44578138e13c85868e457369b459909f4f7a476760",
+ "in_force": "2008-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/139",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/139/text/O/M20080139.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/139/text/I/M20080139.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/139",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 13,
+  "pos": 139,
+  "address": "WMP20080130139",
+  "displayAddress": "M.P. 2008 nr 13 poz. 139",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 lutego 2008 r. w sprawie przeciętnego wynagrodzenia w gospodarce narodowej w 2007 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-02-11",
+  "promulgation": "2008-02-13",
+  "changeDate": "2020-11-13T11:47:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 1 lit. a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080139.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080139.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
