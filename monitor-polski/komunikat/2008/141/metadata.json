@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/141",
+ "source_sha256": "d2d02b600659e4b75fc1e67aa506ba4e742dcf536082dcbd3839b6874a9717f1",
+ "in_force": "2008-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/141",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/141/text/O/M20080141.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/141/text/I/M20080141.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/141",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 13,
+  "pos": 141,
+  "address": "WMP20080130141",
+  "displayAddress": "M.P. 2008 nr 13 poz. 141",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 lutego 2008 r. w sprawie przeciętnego wynagrodzenia w czwartym kwartale 2007 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-02-11",
+  "promulgation": "2008-02-13",
+  "changeDate": "2020-11-13T11:47:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080141.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080141.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
