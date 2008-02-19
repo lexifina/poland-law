@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/162",
+ "source_sha256": "48fff52b4127a9564cbc27a25a65311ae842160b4403aae0edcd15711ea6c50d",
+ "in_force": "2008-02-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 203 words, parsed 113; at 113: 'Rzeczypospolitej Polskiej , orzeka : I . Art . 247'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/162",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/162/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/162/text/O/D20080162.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/162/text/I/D20080162.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/162/text/T/D20080162TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/162",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 27,
+  "pos": 162,
+  "address": "WDU20080270162",
+  "displayAddress": "Dz.U. 2008 nr 27 poz. 162",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 lutego 2008 r. sygn. akt K 34/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-02-05",
+  "promulgation": "2008-02-19",
+  "entryIntoForce": "2008-02-19",
+  "validFrom": "2008-02-19",
+  "changeDate": "2024-03-15T10:05:22",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2009-02-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080162.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080162.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080162TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080162TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
