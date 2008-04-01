@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/342",
+ "source_sha256": "e221a74c7501a823c1510b057895b0b1ff2c52d8a3594f4c26957b97ac251a7c",
+ "in_force": "2008-04-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 266 words, parsed 122; at 118: 'lp . 4 jest : „ 4 Naczelnik : -'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/342",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/342/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/342/text/O/D20080342.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/342/text/I/D20080342.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/342",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 56,
+  "pos": 342,
+  "address": "WDU20080560342",
+  "displayAddress": "Dz.U. 2008 nr 56 poz. 342",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 27 marca 2008 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-03-27",
+  "promulgation": "2008-04-01",
+  "repealDate": "2009-12-05",
+  "changeDate": "2024-03-15T10:04:45",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kwalifikacje",
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/1499",
+     "date": "2009-12-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2008/186"
+    },
+    {
+     "id": "DU/2002/965"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080342.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080342.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
