@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/283",
+ "source_sha256": "69f90eab34b15ef26ad287e55910ed465acfe4176e9a6442d9c5b2b7f26ddf9d",
+ "in_force": "2008-04-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/283",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/283/text/O/D20080283.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/283/text/I/D20080283.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/283",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 48,
+  "pos": 283,
+  "address": "WDU20080480283",
+  "displayAddress": "Dz.U. 2008 nr 48 poz. 283",
+  "title": "Rozporządzenie Ministra Finansów z dnia 7 marca 2008 r. w sprawie minimalnej stawki akcyzy na papierosy",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-03-07",
+  "promulgation": "2008-03-21",
+  "entryIntoForce": "2008-04-05",
+  "validFrom": "2008-04-05",
+  "repealDate": "2009-02-26",
+  "changeDate": "2014-12-31T12:26:09",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek akcyzowy",
+   "akcyza",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/123",
+     "date": "2009-02-26"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2007/888",
+     "date": "2008-04-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/257"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/257",
+     "art": "art. 73 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20080283.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080283.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
