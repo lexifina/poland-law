@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/357",
+ "source_sha256": "992af900c3c864c1892e370528e5923bc1025fe3e250254ddfe12215eaaa72a5",
+ "in_force": "2008-04-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 782 words, parsed 94; at 94: 'ustawy powinien mieć brzmienie : „ Załącznik 3 Kwota kosztów'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/357",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/357/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/357/text/O/D20080357.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/357/text/I/D20080357.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/357",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 58,
+  "pos": 357,
+  "address": "WDU20080580357",
+  "displayAddress": "Dz.U. 2008 nr 58 poz. 357",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2008 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-03-26",
+  "promulgation": "2008-04-08",
+  "changeDate": "2024-03-15T10:04:36",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "energetyczna gospodarka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 2a"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2007/905"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080357.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080357.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
