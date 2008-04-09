@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/369",
+ "source_sha256": "b25a97d07f046991450e7478a916d7cb334696166fc2104b81d73e96bdf7cc70",
+ "in_force": "2008-04-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1072 words, parsed 53; at 53: 'kwietnia 2008 r . : 1 ) wniosku Prezesa Naczelnego'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/369",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/369/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/369/text/O/D20080369.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/369/text/I/D20080369.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/369/text/T/D20080369TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/369",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 59,
+  "pos": 369,
+  "address": "WDU20080590369",
+  "displayAddress": "Dz.U. 2008 nr 59 poz. 369",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 kwietnia 2008 r. sygn. akt K 6/05",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-04-03",
+  "promulgation": "2008-04-09",
+  "entryIntoForce": "2008-04-09",
+  "validFrom": "2008-04-09",
+  "changeDate": "2024-03-15T10:03:01",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/1492",
+     "date": "2008-04-09"
+    },
+    {
+     "id": "DU/1997/741",
+     "date": "2008-04-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/1492"
+    },
+    {
+     "id": "DU/1997/741"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080369.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080369.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080369TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080369TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
