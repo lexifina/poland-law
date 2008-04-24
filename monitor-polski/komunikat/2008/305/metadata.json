@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/305",
+ "source_sha256": "9c7e175efccd8dbf69c0dd26f710e159928bfb41acf922e0b0aedb205c7616ae",
+ "in_force": "2008-04-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/305",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/305/text/O/M20080305.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/305/text/I/M20080305.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/305",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 34,
+  "pos": 305,
+  "address": "WMP20080340305",
+  "displayAddress": "M.P. 2008 nr 34 poz. 305",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 21 kwietnia 2008 r. o liczbie wyborców ujętych w rejestrach wyborców",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-04-21",
+  "promulgation": "2008-04-24",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 114 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080305.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080305.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
