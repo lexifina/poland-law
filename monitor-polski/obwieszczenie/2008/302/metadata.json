@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/302",
+ "source_sha256": "1b76b4319ef686eb64d1144c88dd47f7a73ffedec29bc86fdd42b809fe3a9f81",
+ "in_force": "2008-04-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/302/text/O/M20080302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/302/text/I/M20080302.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/302",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 34,
+  "pos": 302,
+  "address": "WMP20080340302",
+  "displayAddress": "M.P. 2008 nr 34 poz. 302",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 16 kwietnia 2008 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-04-16",
+  "promulgation": "2008-04-24",
+  "changeDate": "2023-06-15T11:07:12",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
