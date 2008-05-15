@@ -1,0 +1,21 @@
+Trybunał Konstytucyjny w składzie:
+
+Maria Gintowt-Jankowicz - przewodniczący,
+
+Adam Jamróz,
+
+Teresa Liszcz - sprawozdawca,
+
+Mirosław Wyrzykowski,
+
+Bohdan Zdziennicki,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne, Sejmu i Prokuratora Generalnego, na rozprawie w dniu 29 kwietnia 2008 r., pytania prawnego Sądu Apelacyjnego w Warszawie, czy art. 10 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, ze zm.), w zakresie stwierdzającym, iż prawo do zaopatrzenia emerytalnego nie przysługuje funkcjonariuszowi, który został skazany prawomocnym wyrokiem sądu na karę dodatkową pozbawienia praw publicznych za przestępstwo, które zostało popełnione przed zwolnieniem ze służby, jest
+
+zgodny z określonym w art. 67 Konstytucji Rzeczypospolitej Polskiej prawem do zabezpieczenia społecznego i art. 31 ust. 3 Konstytucji stwierdzającym, że ograniczenia w zakresie korzystania z konstytucyjnych praw nie mogą naruszać ich istoty,
+
+orzeka:
+
+Art. 10 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558 oraz z 2008 r. Nr 66, poz. 409), w brzmieniu obowiązującym do dnia 10 czerwca 2007 r., jest zgodny z art. 67 ust. 1 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
