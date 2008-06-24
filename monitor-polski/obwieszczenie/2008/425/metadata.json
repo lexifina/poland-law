@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/425",
+ "source_sha256": "4eb0bc93b953eb36030ca2e3f9cca675097baec1c723d5b4c8aee6418dd8cbbf",
+ "in_force": "2008-06-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/425",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/425/text/O/M20080425.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/425/text/I/M20080425.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/425",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 47,
+  "pos": 425,
+  "address": "WMP20080470425",
+  "displayAddress": "M.P. 2008 nr 47 poz. 425",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 18 czerwca 2008 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-06-18",
+  "promulgation": "2008-06-24",
+  "changeDate": "2023-06-15T11:07:12",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080425.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080425.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
