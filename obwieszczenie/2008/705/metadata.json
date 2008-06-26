@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/705",
+ "source_sha256": "90e08d6034125ef5d713dbf772f86c838c0788a6b100151f545221b1f1f0c682",
+ "in_force": "2008-06-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 426 words, parsed 65; at 65: 'okręgu wyborczym nr 21 . I W dniu 22 czerwca'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/705",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/705/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/705/text/O/D20080705.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/705/text/I/D20080705.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/705",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 110,
+  "pos": 705,
+  "address": "WDU20081100705",
+  "displayAddress": "Dz.U. 2008 nr 110 poz. 705",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 czerwca 2008 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 22 czerwca 2008 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-06-23",
+  "promulgation": "2008-06-26",
+  "changeDate": "2025-03-21T10:44:08",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080705.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080705.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
