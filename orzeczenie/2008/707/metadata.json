@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/707",
+ "source_sha256": "4f4a5fb211a90981d4525ee1bc0328861c47e0d50766f6bc5a92c7210c2ca0e8",
+ "in_force": "2008-06-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 286 words, parsed 116; at 116: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 7b'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/707",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/707/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/707/text/O/D20080707.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/707/text/I/D20080707.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/707/text/T/D20080707TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/707",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 110,
+  "pos": 707,
+  "address": "WDU20081100707",
+  "displayAddress": "Dz.U. 2008 nr 110 poz. 707",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 17 czerwca 2008 r. sygn. akt K 8/04",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-06-17",
+  "promulgation": "2008-06-26",
+  "entryIntoForce": "2008-06-26",
+  "validFrom": "2008-06-26",
+  "changeDate": "2024-03-15T10:02:49",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kontrola skarbowa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/442",
+     "date": "2008-06-26"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/442"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080707.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080707.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080707TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080707TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
