@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/740",
+ "source_sha256": "87ff47fe02c49faea2f57f26668ba7a8aebbf39ac9940edaa169e155f9f28b56",
+ "in_force": "2008-07-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 314 words, parsed 167; at 167: '1 Konstytucji , orzeka : I . 1 ) art'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/740",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/740/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/740/text/O/D20080740.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/740/text/I/D20080740.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/740/text/T/D20080740TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/740",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 116,
+  "pos": 740,
+  "address": "WDU20081160740",
+  "displayAddress": "Dz.U. 2008 nr 116 poz. 740",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 czerwca 2008 r. sygn. akt P 23/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-06-19",
+  "promulgation": "2008-07-02",
+  "entryIntoForce": "2008-07-02",
+  "validFrom": "2008-07-02",
+  "changeDate": "2024-03-15T10:05:01",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby zawodowe",
+   "porządkowanie prawa",
+   "kodeks pracy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2002/1115",
+     "date": "2009-07-03"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1974/141",
+     "date": "2009-07-03"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2002/1115"
+    },
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080740.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080740.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080740TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080740TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
