@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/802",
+ "source_sha256": "1e6c4586dc7a62f7f4b1fa913faa93d0c824f5043babb3c718b910949be6c827",
+ "in_force": "2008-07-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 194 words, parsed 111; at 111: '2 Konstytucji , orzeka : I . Art . 236'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/802",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/802/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/802/text/O/D20080802.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/802/text/I/D20080802.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/802/text/T/D20080802TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/802",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 123,
+  "pos": 802,
+  "address": "WDU20081230802",
+  "displayAddress": "Dz.U. 2008 nr 123 poz. 802",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2008 r. sygn. akt K 38/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-07-03",
+  "promulgation": "2008-07-11",
+  "entryIntoForce": "2008-07-11",
+  "validFrom": "2008-07-11",
+  "changeDate": "2024-03-15T10:04:19",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania karnego",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2009-01-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080802.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080802.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080802TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080802TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
