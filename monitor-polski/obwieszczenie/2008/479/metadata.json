@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/479",
+ "source_sha256": "bd4a6b26922604fa6f4696f452b541a897ea6d0fe22f59a0e5a0f6b886e4d1ad",
+ "in_force": "2008-07-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/479",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/479/text/O/M20080479.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/479/text/I/M20080479.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/479",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 54,
+  "pos": 479,
+  "address": "WMP20080540479",
+  "displayAddress": "M.P. 2008 nr 54 poz. 479",
+  "title": "Obwieszczenie Ministra Infrastruktury z dnia 7 lipca 2008 r. w sprawie ogłoszenia zmian w statucie państwowego przedsiębiorstwa użyteczności publicznej \"Poczta Polska\"",
+  "type": "Obwieszczenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-07-07",
+  "promulgation": "2008-07-23",
+  "repealDate": "2008-11-10",
+  "changeDate": "2014-12-31T12:26:42",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta",
+   "przedsiębiorstwa państwowe"
+  ],
+  "keywordsNames": [
+   "Poczta Polska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1998/221",
+     "date": "2008-06-16"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/675"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/675",
+     "art": "art. 19 ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2008/1109",
+     "date": "2008-11-10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080479.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080479.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
