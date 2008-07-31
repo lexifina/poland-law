@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/874",
+ "source_sha256": "d69beaacaf7c8fea7dfe6d00eef20e3a8ba128c9248f61f9445bf67272024ff0",
+ "in_force": "2008-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 462 words, parsed 62; at 62: 'Obywatelskich o zbadanie zgodności : 1 ) art . 259'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/874",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/874/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/874/text/O/D20080874.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/874/text/I/D20080874.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/874/text/T/D20080874TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/874",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 138,
+  "pos": 874,
+  "address": "WDU20081380874",
+  "displayAddress": "Dz.U. 2008 nr 138 poz. 874",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2008 r. sygn. akt K 24/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-07-22",
+  "promulgation": "2008-07-31",
+  "entryIntoForce": "2008-07-31",
+  "validFrom": "2008-07-31",
+  "changeDate": "2024-03-15T10:04:30",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego",
+   "areszt tymczasowy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/557"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/142"
+    },
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080874.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080874.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080874TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080874TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
