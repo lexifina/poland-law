@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/875",
+ "source_sha256": "8284c305896e816e531c0e5ee4abad115e80de77b093d2194cd0c66621fac1f7",
+ "in_force": "2008-07-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 660 words, parsed 59; at 59: 'w Gdańsku , czy : 1 ) art . 17'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/875",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/875/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/875/text/O/D20080875.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/875/text/I/D20080875.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/875/text/T/D20080875TK.doc"
+ },
+ "metadata": {
+  "ELI": "DU/2008/875",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 138,
+  "pos": 875,
+  "address": "WDU20081380875",
+  "displayAddress": "Dz.U. 2008 nr 138 poz. 875",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2008 r. sygn. akt P 41/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-07-22",
+  "promulgation": "2008-07-31",
+  "entryIntoForce": "2008-07-31",
+  "validFrom": "2008-07-31",
+  "changeDate": "2024-03-15T10:04:30",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/2255",
+     "date": "2008-07-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/2255"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080875.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080875.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080875TK.doc",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080875TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
