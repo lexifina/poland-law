@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/101",
+ "source_sha256": "782d201061d3429da879670de5712b69d944a32bc49e4599f7925391bfa6064e",
+ "in_force": "2008-08-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/101",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/101/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/101/text/O/D20080101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/101/text/I/D20080101.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/101/text/T/D20080101L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2008/101/text/U/D20080101Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/101",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 17,
+  "pos": 101,
+  "address": "WDU20080170101",
+  "displayAddress": "Dz.U. 2008 nr 17 poz. 101",
+  "title": "Ustawa z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-01-11",
+  "promulgation": "2008-01-31",
+  "entryIntoForce": "2008-08-01",
+  "validFrom": "2008-08-01",
+  "changeDate": "2024-03-15T10:05:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "telekomunikacja",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32002L0022",
+    "date": "2002-03-07",
+    "title": "DYREKTYWA 2002/22/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 7 marca 2002 r. w sprawie usługi powszechnej i praw użytkowników odnoszących się do sieci i usług łączności elektronicznej (dyrektywa o usłudze powszechnej)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/56.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/56",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/56",
+    "number": "56",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/59",
+     "date": "2009-02-10"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/1410",
+     "date": "2008-08-01"
+    },
+    {
+     "id": "DU/2004/1800",
+     "date": "2008-08-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080101.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080101L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080101Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
