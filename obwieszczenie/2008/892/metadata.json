@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/892",
+ "source_sha256": "7e27f2f85a42e2197984857041638a7f65dbfe883095a539bc60d79203ef5d5f",
+ "in_force": "2008-08-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/892",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/892/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/892/text/O/D20080892.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/892/text/I/D20080892.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/892/text/T/D20080892L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2008/892/text/U/D20080892Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/892",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 141,
+  "pos": 892,
+  "address": "WDU20081410892",
+  "displayAddress": "Dz.U. 2008 nr 141 poz. 892",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej z dnia 21 lipca 2008 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie wojskowej żołnierzy zawodowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-07-21",
+  "promulgation": "2008-08-05",
+  "expirationDate": "2010-04-27",
+  "changeDate": "2024-03-15T10:04:33",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba wojskowa żołnierzy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1750"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080892.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080892.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080892L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080892Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
