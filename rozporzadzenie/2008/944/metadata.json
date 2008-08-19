@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/944",
+ "source_sha256": "ca6719d696279ed3da91e3da0c6d2ad5d57af71aaf0212bd5a56ccf6d0593a91",
+ "in_force": "2008-08-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/944",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/944/text/O/D20080944.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/944/text/I/D20080944.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/944",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 149,
+  "pos": 944,
+  "address": "WDU20081490944",
+  "displayAddress": "Dz.U. 2008 nr 149 poz. 944",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 8 sierpnia 2008 r. zmieniające rozporządzenie w sprawie recept lekarskich",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-08-08",
+  "promulgation": "2008-08-19",
+  "entryIntoForce": "2008-08-19",
+  "validFrom": "2008-08-19",
+  "repealDate": "2012-01-01",
+  "changeDate": "2014-12-31T12:26:09",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "dokumentacja medyczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2007/646",
+     "date": "2008-08-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/152"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/152",
+     "art": "art. 45 ust. 3"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2011/1739",
+     "date": "2012-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20080944.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080944.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
