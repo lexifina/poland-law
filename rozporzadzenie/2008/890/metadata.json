@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/890",
+ "source_sha256": "13afe1d98509088010395336979897dfd60920f66b4cdd1279dcc20f75d98865",
+ "in_force": "2008-08-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/890",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/890/text/O/D20080890.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/890/text/I/D20080890.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/890",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 141,
+  "pos": 890,
+  "address": "WDU20081410890",
+  "displayAddress": "Dz.U. 2008 nr 141 poz. 890",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 23 lipca 2008 r. w sprawie wynagrodzenia asystentów prokuratorów",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-07-23",
+  "promulgation": "2008-08-05",
+  "entryIntoForce": "2008-08-20",
+  "validFrom": "2008-08-20",
+  "repealDate": "2009-07-08",
+  "changeDate": "2014-12-31T12:26:09",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/813",
+     "date": "2009-07-08"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2008/88",
+     "date": "2008-08-20"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 100a ust. 10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20080890.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080890.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
