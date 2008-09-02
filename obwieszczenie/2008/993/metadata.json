@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/993",
+ "source_sha256": "0cc315e899fe528810850995522f9ceb120c456e65b7736f4cef5a87d1588a95",
+ "in_force": "2008-09-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/993",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/993/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/993/text/O/D20080993.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/993/text/I/D20080993.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/993/text/T/D20080993L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2008/993/text/U/D20080993Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/993",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 159,
+  "pos": 993,
+  "address": "WDU20081590993",
+  "displayAddress": "Dz.U. 2008 nr 159 poz. 993",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 sierpnia 2008 r. w sprawie ogłoszenia jednolitego tekstu ustawy o jednostkach badawczo-rozwojowych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-08-25",
+  "promulgation": "2008-09-02",
+  "repealDate": "2010-10-01",
+  "changeDate": "2024-03-15T10:02:35",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "badawczo-rozwojowe jednostki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2010/620",
+     "date": "2010-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1985/170"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20080993.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20080993.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20080993L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20080993Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
