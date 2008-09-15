@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/610",
+ "source_sha256": "1e6dab9dc8f928568c44fd4de5dd31ec261c42054d17f8cc0842dd5b546cd00c",
+ "in_force": "2008-09-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/610",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/610/text/O/M20080610.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/610/text/I/M20080610.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/610",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 68,
+  "pos": 610,
+  "address": "WMP20080680610",
+  "displayAddress": "M.P. 2008 nr 68 poz. 610",
+  "title": "Zarządzenie Nr 100 Prezesa Rady Ministrów z dnia 9 września 2008 r. w sprawie nadania statutu Ministerstwu Gospodarki",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-09-09",
+  "promulgation": "2008-09-15",
+  "entryIntoForce": "2008-09-15",
+  "validFrom": "2008-09-15",
+  "repealDate": "2009-03-20",
+  "changeDate": "2014-12-31T12:26:42",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Min. Gospodarki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2009/197",
+     "date": "2009-03-20"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2007/873",
+     "date": "2008-09-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080610.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080610.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
