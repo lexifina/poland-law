@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/616",
+ "source_sha256": "04b508973f83a7a4df3330670b6fca2ca2776034f7c531fe6c9831e4c039ae0b",
+ "in_force": "2008-09-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/616",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/616/text/O/M20080616.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/616/text/I/M20080616.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/616",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 68,
+  "pos": 616,
+  "address": "WMP20080680616",
+  "displayAddress": "M.P. 2008 nr 68 poz. 616",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 4 września 2008 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-09-04",
+  "promulgation": "2008-09-15",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze emerytalne",
+   "odsetki",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080616.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080616.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
