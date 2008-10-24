@@ -1,0 +1,102 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1058",
+ "source_sha256": "f4650ee92bd8e6bf84f801f479f569adab239d8ede8583fb9c37d904e64f55c1",
+ "in_force": "2008-10-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: no articles found; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1058",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1058/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1058/text/O/D20081058.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1058/text/I/D20081058.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/1058/text/T/D20081058L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1058",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 171,
+  "pos": 1058,
+  "address": "WDU20081711058",
+  "displayAddress": "Dz.U. 2008 nr 171 poz. 1058",
+  "title": "Ustawa z dnia 4 września 2008 r. o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-09-04",
+  "promulgation": "2008-09-23",
+  "entryIntoForce": "2008-10-24",
+  "validFrom": "2008-10-24",
+  "changeDate": "2024-03-15T10:02:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sport",
+   "zamówienia publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32004L0017",
+    "date": "2004-03-31",
+    "title": "DYREKTYWA 2004/17/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 31 marca 2004 r. koordynująca procedury udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych"
+   },
+   {
+    "address": "32004L0018",
+    "date": "2004-03-31",
+    "title": "DYREKTYWA 2004/18/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 31 marca 2004 r. w sprawie koordynacji procedur udzielania zamówień publicznych na roboty budowlane, dostawy i usługi"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/471.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/471",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/471",
+    "number": "471",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2007/1219",
+     "date": "2008-10-24"
+    },
+    {
+     "id": "DU/2005/1420",
+     "date": "2008-10-24"
+    },
+    {
+     "id": "DU/2004/177",
+     "date": "2008-10-24"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081058.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081058.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20081058L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
