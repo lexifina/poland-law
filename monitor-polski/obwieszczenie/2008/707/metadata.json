@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/707",
+ "source_sha256": "fe3d662bb39f524d20d177c62478d7354e6250f1191f6a343da5645e246ea54b",
+ "in_force": "2008-10-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/707",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/707/text/O/M20080707.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/707/text/I/M20080707.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/707",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 80,
+  "pos": 707,
+  "address": "WMP20080800707",
+  "displayAddress": "M.P. 2008 nr 80 poz. 707",
+  "title": "Obwieszczenie Ministra Środowiska z dnia 15 października 2008 r. w sprawie wysokości stawek kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi oraz za przekroczenie dopuszczalnego poziomu hałasu, na rok 2009",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-10-15",
+  "promulgation": "2008-10-24",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska",
+   "hałas i wibracje",
+   "ścieki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/627"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/627",
+     "art": "art. 291 ust. 2"
+    },
+    {
+     "id": "DU/2001/627",
+     "art": "art. 312"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080707.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080707.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
