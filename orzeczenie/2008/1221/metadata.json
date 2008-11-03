@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1221",
+ "source_sha256": "9367246b78e215c73ff0e45a509284c577eeea8939f346e2652b31976f106354",
+ "in_force": "2008-11-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 549 words, parsed 300; at 300: '633 ) jest zgodny : a ) z art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1221",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1221/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1221/text/O/D20081221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1221/text/I/D20081221.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/1221/text/T/D20081221TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1221",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 196,
+  "pos": 1221,
+  "address": "WDU20081961221",
+  "displayAddress": "Dz.U. 2008 nr 196 poz. 1221",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 października 2008 r. sygn. akt U 4/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-10-27",
+  "promulgation": "2008-11-03",
+  "entryIntoForce": "2008-11-03",
+  "validFrom": "2008-11-03",
+  "changeDate": "2024-03-15T10:04:26",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "lokal",
+   "ekwiwalent pieniężny"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/214"
+    },
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/633"
+    },
+    {
+     "id": "DU/2002/918"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081221.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20081221TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
