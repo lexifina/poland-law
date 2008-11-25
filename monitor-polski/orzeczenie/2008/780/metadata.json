@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/780",
+ "source_sha256": "b46db85fe118a0ab05ab6fbb4d0ec0ffc11f52f0b3e6ca3be3be96bd4a5068eb",
+ "in_force": "2008-11-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/780",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/780/text/O/M20080780.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/780/text/I/M20080780.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2008/780/text/T/M20080780TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/780",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 89,
+  "pos": 780,
+  "address": "WMP20080890780",
+  "displayAddress": "M.P. 2008 nr 89 poz. 780",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 listopada 2008 r. sygn. akt Kp 2/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-11-19",
+  "promulgation": "2008-11-25",
+  "entryIntoForce": "2008-11-25",
+  "validFrom": "2008-11-25",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "żołnierz zawodowy"
+  ],
+  "keywordsNames": [
+   "Służba Kontrwywiadu Wojskowego",
+   "Służba Wywiadu Wojskowego",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2006/711"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2008/1389"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080780.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080780.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20080780TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
