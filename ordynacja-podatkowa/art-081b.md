@@ -12,4 +12,4 @@
 
 § 2. Korekta złożona w przypadku, o którym mowa w § 1 pkt 1, nie wywołuje skutków prawnych.
 
-§ 3. Przepisu § 1 pkt 2 lit. a nie stosuje się w zakresie podatku od towarów i usług.
+§ 3. (uchylony).
