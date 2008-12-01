@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/788",
+ "source_sha256": "32ae52ef14db3a258d263b30f1c2019381d497a9b320e5af59354443958e2de3",
+ "in_force": "2008-12-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/788",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/788/text/O/M20080788.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/788/text/I/M20080788.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2008/788/text/T/M20080788TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/788",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 91,
+  "pos": 788,
+  "address": "WMP20080910788",
+  "displayAddress": "M.P. 2008 nr 91 poz. 788",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 listopada 2008 r. sygn. akt U 1/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-11-26",
+  "promulgation": "2008-12-01",
+  "entryIntoForce": "2008-12-01",
+  "validFrom": "2008-12-01",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "korupcja",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2008/51",
+     "date": "2008-12-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "MP/2008/51"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080788.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080788.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20080788TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
