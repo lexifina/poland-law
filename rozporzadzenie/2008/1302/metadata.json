@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1302",
+ "source_sha256": "06930063c9dd93acb2500ec3ea57c393d7f9db6376d638a965fa87cb1e801f88",
+ "in_force": "2008-12-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1302",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1302/text/O/D20081302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1302/text/I/D20081302.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1302",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 207,
+  "pos": 1302,
+  "address": "WDU20082071302",
+  "displayAddress": "Dz.U. 2008 nr 207 poz. 1302",
+  "title": "Rozporządzenie Ministra Finansów z dnia 12 listopada 2008 r. w sprawie wzorów deklaracji podatkowych dla podatku od gier",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-11-12",
+  "promulgation": "2008-11-26",
+  "entryIntoForce": "2008-12-11",
+  "validFrom": "2008-12-11",
+  "repealDate": "2009-10-31",
+  "changeDate": "2014-12-31T12:26:10",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gry losowe i zakłady wzajemne",
+   "deklaracja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2009/1411",
+     "date": "2009-10-31"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/2006/197",
+     "date": "2008-12-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1992/341"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1992/341",
+     "art": "art. 43 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20081302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
