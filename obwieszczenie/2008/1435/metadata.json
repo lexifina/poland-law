@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1435",
+ "source_sha256": "6cccf173b650b5f29788a244e24c57902aff8f0f8bd615452bebfc0ad983fee7",
+ "in_force": "2008-12-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 117 words, parsed 116; at 116: 'załączniku do niniejszego obwieszczenia . null'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1435",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1435/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1435/text/O/D20081435.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1435/text/I/D20081435.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1435",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 220,
+  "pos": 1435,
+  "address": "WDU20082201435",
+  "displayAddress": "Dz.U. 2008 nr 220 poz. 1435",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 10 grudnia 2008 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-12-10",
+  "promulgation": "2008-12-12",
+  "repealDate": "2016-01-01",
+  "changeDate": "2024-03-15T10:05:22",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Polska Klasyfikacja Wyrobów i Usług"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2015/1676",
+     "date": "2016-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2008/1293"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081435.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081435.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
