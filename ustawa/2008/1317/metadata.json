@@ -1,0 +1,111 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1317",
+ "source_sha256": "e6324d4e3f5a903eb9ea3b9027636bb859decfddf59d9117fb84d93f73e8467c",
+ "in_force": "2008-12-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1317",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1317/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1317/text/O/D20081317.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1317/text/I/D20081317.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/1317/text/T/D20081317L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2008/1317/text/U/D20081317Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1317",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 209,
+  "pos": 1317,
+  "address": "WDU20082091317",
+  "displayAddress": "Dz.U. 2008 nr 209 poz. 1317",
+  "title": "Ustawa z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2008-11-07",
+  "promulgation": "2008-11-28",
+  "entryIntoForce": "2008-12-13",
+  "validFrom": "2008-12-13",
+  "repealDate": "2015-11-01",
+  "changeDate": "2024-03-15T10:04:50",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "finanse publiczne",
+   "komitety",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/1071.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/1071",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/1071",
+    "number": "1071",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2015/1513",
+     "date": "2015-11-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2013/1012",
+     "date": "2013-10-04"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/1119",
+     "date": "2008-12-13"
+    },
+    {
+     "id": "DU/2005/2104",
+     "date": "2008-12-13"
+    },
+    {
+     "id": "DU/1997/938",
+     "date": "2008-12-13"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081317.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081317.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20081317L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20081317Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
