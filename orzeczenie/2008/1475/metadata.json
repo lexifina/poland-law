@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1475",
+ "source_sha256": "dd53733fa951cbd305ff176d25925a39f82f6e549d10b490e95099fec78d6848",
+ "in_force": "2008-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 348 words, parsed 61; at 61: 'Wrocławia o zbadanie zgodności : 1 ) art . 10'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1475",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1475/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1475/text/O/D20081475.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1475/text/I/D20081475.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/1475/text/T/D20081475TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1475",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 223,
+  "pos": 1475,
+  "address": "WDU20082231475",
+  "displayAddress": "Dz.U. 2008 nr 223 poz. 1475",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 9 grudnia 2008 r. sygn. akt K 61/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-12-09",
+  "promulgation": "2008-12-18",
+  "entryIntoForce": "2008-12-18",
+  "validFrom": "2008-12-18",
+  "changeDate": "2024-03-15T10:04:59",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ogrody działkowe",
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1419",
+     "date": "2008-12-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2005/1419"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081475.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081475.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20081475TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
