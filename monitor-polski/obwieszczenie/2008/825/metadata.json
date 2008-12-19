@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2008/825",
+ "source_sha256": "3e770943a108e58c1630b55d6653a0f11d99e085c231e425ff72455d588f0b64",
+ "in_force": "2008-12-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2008/825",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2008/825/text/O/M20080825.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2008/825/text/I/M20080825.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2008/825",
+  "publisher": "MP",
+  "year": 2008,
+  "volume": 95,
+  "pos": 825,
+  "address": "WMP20080950825",
+  "displayAddress": "M.P. 2008 nr 95 poz. 825",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 5 grudnia 2008 r. w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w I kwartale 2009 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-12-05",
+  "promulgation": "2008-12-19",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia wypadkowe",
+   "rolnicy",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20080825.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20080825.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
