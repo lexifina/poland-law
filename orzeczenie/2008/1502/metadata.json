@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1502",
+ "source_sha256": "b5397699d14f803851af5f671fd56f1e7f7127d6c54767dd0562d2bf66284913",
+ "in_force": "2008-12-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 321 words, parsed 59; at 59: 'Obywatelskich o zbadanie zgodności : 1 ) art . 89'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1502",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1502/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1502/text/O/D20081502.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1502/text/I/D20081502.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/1502/text/T/D20081502TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1502",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 225,
+  "pos": 1502,
+  "address": "WDU20082251502",
+  "displayAddress": "Dz.U. 2008 nr 225 poz. 1502",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2008 r. sygn. akt K 33/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-12-11",
+  "promulgation": "2008-12-22",
+  "entryIntoForce": "2008-12-22",
+  "validFrom": "2008-12-22",
+  "changeDate": "2024-03-15T10:02:48",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "pracownicy"
+  ],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/59",
+     "date": "2008-12-22"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1995/59"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081502.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081502.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20081502TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
