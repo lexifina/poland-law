@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2008/1551",
- "source_sha256": "051eefa041cb30c4839455d6ceca043eeef4596209f2fa635d0e6f16056b5f30",
+ "source_sha256": "a50bfaa87694a2b5d9b066e6610044a2e0cac2e261bdb9485fdb8bad2a32b707",
  "in_force": "2008-12-30",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
  "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
@@ -28,7 +28,8 @@
   "entryIntoForce": "2008-12-30",
   "validFrom": "2008-12-30",
   "expirationDate": "2027-01-01",
-  "changeDate": "2020-02-03T00:00:00",
+  "repealDate": "2027-12-31",
+  "changeDate": "2026-11-24T11:47:55",
   "releasedBy": [
    "RADA MINISTRÓW"
   ],
@@ -146,6 +147,12 @@
     {
      "id": "DU/1994/600",
      "art": "art. 4 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2026/1542",
+     "date": "2027-12-31"
     }
    ]
   },
