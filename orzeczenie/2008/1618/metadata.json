@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2008/1618",
+ "source_sha256": "625af869896fddfe27e057fbf7ef47170b39aa9e83e9c9217b4d98b1f8fa7430",
+ "in_force": "2008-12-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 619 words, parsed 51; at 51: 'grudnia 2008 r . : 1 ) wniosku Rady Gminy'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2008/1618",
+  "html": "https://eli.gov.pl/api/acts/DU/2008/1618/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2008/1618/text/O/D20081618.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2008/1618/text/I/D20081618.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2008/1618/text/T/D20081618TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2008/1618",
+  "publisher": "DU",
+  "year": 2008,
+  "volume": 235,
+  "pos": 1618,
+  "address": "WDU20082351618",
+  "displayAddress": "Dz.U. 2008 nr 235 poz. 1618",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 grudnia 2008 r. sygn. akt K 19/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-12-18",
+  "promulgation": "2008-12-30",
+  "entryIntoForce": "2008-12-30",
+  "validFrom": "2008-12-30",
+  "changeDate": "2024-03-15T10:02:47",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "porządkowanie prawa",
+   "oświata i wychowanie",
+   "przedszkola"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/425",
+     "date": "2009-12-31"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/607"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/425"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20081618.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20081618.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20081618TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
