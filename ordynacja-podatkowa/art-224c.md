@@ -1,1 +1,3 @@
-Wykonanie decyzji ustalającej lub określającej wysokość zobowiązania podatkowego, wysokość zwrotu podatku lub wysokość odsetek za zwłokę albo orzekającej o odpowiedzialności podatkowej płatnika lub inkasenta, osoby trzeciej albo spadkobiercy, podlega wstrzymaniu w zakresie, w jakim w złożonym wniosku zostanie uprawdopodobnione zwolnienie z obowiązku zapłaty podatku na podstawie art. 14m § 3, do czasu wydania ostatecznej decyzji.
+# Art. 224c.
+
+(uchylony).

@@ -4,4 +4,6 @@
 
 § 2. W przypadku wystąpienia w jednym wniosku o wydanie interpretacji indywidualnej odrębnych stanów faktycznych lub zdarzeń przyszłych pobiera się opłatę od każdego przedstawionego we wniosku odrębnego stanu faktycznego lub zdarzenia przyszłego.
 
+§ 2a. Zwrot nienależnej opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania interpretacji.
+
 § 3. Opłata, o której mowa w § 1 i 2, stanowi dochód budżetu państwa.
