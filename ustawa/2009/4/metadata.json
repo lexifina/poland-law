@@ -1,0 +1,116 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/4",
+ "source_sha256": "12a099b26b4f8a0869cf25e1c4be74abe65f1491300a91fca5225eaf83d43336",
+ "in_force": "2009-01-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/4",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/4/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/4/text/O/D20090004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/4/text/I/D20090004.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/4/text/T/D20090004L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2009/4/text/U/D20090004Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/4",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 1,
+  "pos": 4,
+  "address": "WDU20090010004",
+  "displayAddress": "Dz.U. 2009 nr 1 poz. 4",
+  "title": "Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2008-12-19",
+  "promulgation": "2009-01-07",
+  "entryIntoForce": "2009-01-22",
+  "validFrom": "2009-01-22",
+  "changeDate": "2024-03-15T09:54:01",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "wynagrodzenia",
+   "sądy powszechne",
+   "prokuratura"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/851.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/851",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/851",
+    "number": "851",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2012/562",
+     "date": "2012-05-22"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1082",
+     "date": "2009-01-22"
+    },
+    {
+     "id": "DU/2001/1070",
+     "date": "2009-01-22"
+    },
+    {
+     "id": "DU/1985/138",
+     "date": "2009-01-22"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2007/959"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2012/562"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090004.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090004L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20090004Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
