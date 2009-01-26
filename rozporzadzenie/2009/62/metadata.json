@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/62",
+ "source_sha256": "d1e4fda243da43ce35ae5f4cebf3bf0b3159a2b2e62ae71c9c176aa54b262d63",
+ "in_force": "2009-01-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/62",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/62/text/O/D20090062.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/62/text/I/D20090062.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/62",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 11,
+  "pos": 62,
+  "address": "WDU20090110062",
+  "displayAddress": "Dz.U. 2009 nr 11 poz. 62",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 19 stycznia 2009 r. w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania poborowych do odbycia tej służby w 2009 r.",
+  "type": "Rozporządzenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-01-19",
+  "promulgation": "2009-01-26",
+  "entryIntoForce": "2009-01-26",
+  "validFrom": "2009-01-26",
+  "changeDate": "2022-03-28T11:55:03",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "powszechny obowiązek obrony",
+   "służba wojskowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2009/697",
+     "date": "2009-06-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 73"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 82 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20090062.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090062.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
