@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/52",
+ "source_sha256": "e70d752c17bdaf7d859b2bc106713d056606dccca2d235eb4478511b1e45efda",
+ "in_force": "2009-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/52",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/52/text/O/M20090052.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/52/text/I/M20090052.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/52",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 5,
+  "pos": 52,
+  "address": "WMP20090050052",
+  "displayAddress": "M.P. 2009 nr 5 poz. 52",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 19 stycznia 2009 r. w sprawie wskaźnika zmian cen skupu podstawowych produktów rolnych w II półroczu 2008 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-01-19",
+  "promulgation": "2009-01-28",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty rolne",
+   "statystyka",
+   "rolnictwo",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 29a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090052.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090052.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
