@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/115",
+ "source_sha256": "70dc765b02789191755d88bab10ea310581dfd21e9155d1d572dc2089af5881e",
+ "in_force": "2009-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/115",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/115/text/O/M20090115.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/115/text/I/M20090115.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/115",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 9,
+  "pos": 115,
+  "address": "WMP20090090115",
+  "displayAddress": "M.P. 2009 nr 9 poz. 115",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 10 lutego 2009 r. w sprawie realnego wzrostu przeciętnego wynagrodzenia w 2008 r. w stosunku do 2007 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-02-10",
+  "promulgation": "2009-02-13",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "wynagrodzenia",
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090115.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090115.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
