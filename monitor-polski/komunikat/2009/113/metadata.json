@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/113",
+ "source_sha256": "09532eb999482df9a8ce42c8d5dab6a9da159377e73f213df33d169eb14debd4",
+ "in_force": "2009-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/113",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/113/text/O/M20090113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/113/text/I/M20090113.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/113",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 9,
+  "pos": 113,
+  "address": "WMP20090090113",
+  "displayAddress": "M.P. 2009 nr 9 poz. 113",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 10 lutego 2009 w sprawie kwoty bazowej w 2008 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-02-10",
+  "promulgation": "2009-02-13",
+  "changeDate": "2021-02-10T13:38:57",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kwota bazowa",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 1 lit. b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
