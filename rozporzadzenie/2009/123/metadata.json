@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/123",
+ "source_sha256": "e9f6366f8319d99906e535419747a708790b7c3cc27f213c397054f0dd7a6804",
+ "in_force": "2009-02-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/123/text/O/D20090123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/123/text/I/D20090123.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/123",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 22,
+  "pos": 123,
+  "address": "WDU20090220123",
+  "displayAddress": "Dz.U. 2009 nr 22 poz. 123",
+  "title": "Rozporządzenie Ministra Finansów z dnia 9 lutego 2009 r. w sprawie minimalnej stawki akcyzy na papierosy",
+  "type": "Rozporządzenie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2009-02-09",
+  "promulgation": "2009-02-11",
+  "entryIntoForce": "2009-02-26",
+  "validFrom": "2009-02-26",
+  "repealDate": "2009-03-01",
+  "changeDate": "2014-12-31T12:26:10",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek akcyzowy",
+   "akcyza",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2008/283",
+     "date": "2009-02-26"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/257"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/257",
+     "art": "art. 73 ust. 5"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2009/11",
+     "date": "2009-03-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20090123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
