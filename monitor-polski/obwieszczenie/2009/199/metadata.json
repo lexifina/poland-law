@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/199",
+ "source_sha256": "8248abb98e720993dba0ed8ce153b6c54d8f2bcceff285feca554e2f642ece61",
+ "in_force": "2009-03-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/199",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/199/text/O/M20090199.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/199/text/I/M20090199.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/199",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 16,
+  "pos": 199,
+  "address": "WMP20090160199",
+  "displayAddress": "M.P. 2009 nr 16 poz. 199",
+  "title": "Obwieszczenie Ministra Finansów z dnia 6 marca 2009 r. w sprawie stawki odsetek za zwłokę od zaległości podatkowych oraz obniżonej stawki odsetek za zwłokę od zaległości podatkowych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-03-06",
+  "promulgation": "2009-03-20",
+  "changeDate": "2022-01-28T14:17:18",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa",
+   "odsetki",
+   "odsetki za zwłokę",
+   "stawki",
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090199.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090199.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
