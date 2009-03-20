@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/202",
+ "source_sha256": "5bf7408d6efa4899659f596646b8dc76669aec941d601974ad44df004b2e3ae5",
+ "in_force": "2009-03-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/202",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/202/text/O/M20090202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/202/text/I/M20090202.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/202",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 16,
+  "pos": 202,
+  "address": "WMP20090160202",
+  "displayAddress": "M.P. 2009 nr 16 poz. 202",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 11 marca 2009 r. w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w II kwartale 2009 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-03-11",
+  "promulgation": "2009-03-20",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia wypadkowe",
+   "składki",
+   "rolnicy",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090202.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
