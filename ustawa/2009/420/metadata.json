@@ -1,0 +1,138 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/420",
+ "source_sha256": "7e1f9eb95c4e97858b9dfc03679639c2e2ecf5b4dd5891926b0e2f7bbbdfb1be",
+ "in_force": "2009-04-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/420",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/420/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/420/text/O/D20090420.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/420/text/I/D20090420.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/420/text/T/D20090420L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2009/420/text/U/D20090420Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/420",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 52,
+  "pos": 420,
+  "address": "WDU20090520420",
+  "displayAddress": "Dz.U. 2009 nr 52 poz. 420",
+  "title": "Ustawa z dnia 20 lutego 2009 r. o funduszu sołeckim",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2009-02-20",
+  "promulgation": "2009-03-31",
+  "entryIntoForce": "2009-04-01",
+  "validFrom": "2009-04-01",
+  "repealDate": "2014-03-20",
+  "changeDate": "2024-03-15T09:54:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "gminy",
+   "klęski żywiołowe",
+   "budżet",
+   "finanse publiczne",
+   "sołtysi",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/1278.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/1278",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/1278",
+    "number": "1278",
+    "term": 6
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/1341.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/1341",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/1341",
+    "number": "1341",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2014/301",
+     "date": "2014-03-20"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2010/106"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2010/1427",
+     "date": "2015-01-01"
+    },
+    {
+     "id": "DU/2009/1241",
+     "date": "2010-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/95",
+     "date": "2009-04-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2005/2104"
+    },
+    {
+     "id": "DU/2002/558"
+    },
+    {
+     "id": "DU/1995/439"
+    },
+    {
+     "id": "DU/1974/85"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090420.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090420.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090420L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20090420Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
