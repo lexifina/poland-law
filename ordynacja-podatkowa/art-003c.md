@@ -1,1 +1,3 @@
-Składanie deklaracji za pomocą środków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroście, marszałkowi województwa regulują odrębne przepisy.
+# Art. 3c.
+
+(uchylony).
