@@ -2,10 +2,10 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2009/505",
- "source_sha256": "9065efb98dda420f858ae50d4814a05ee3932edac7397ce4ad74f9e4bdc24093",
+ "source_sha256": "a29d48d01cfef599ff5150bb4ff8fd9911007d2430fb62e6aafab6c5ac834986",
  "in_force": "2009-04-22",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
- "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
  "links": {
   "metadata": "https://eli.gov.pl/api/acts/DU/2009/505",
   "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/505/text/O/D20090505.pdf",
@@ -27,7 +27,8 @@
   "promulgation": "2009-04-21",
   "entryIntoForce": "2009-04-22",
   "validFrom": "2009-04-22",
-  "changeDate": "2014-12-31T12:26:12",
+  "repealDate": "2027-12-31",
+  "changeDate": "2026-11-24T12:02:14",
   "releasedBy": [
    "RADA MINISTRÓW"
   ],
@@ -72,6 +73,12 @@
     {
      "id": "DU/1994/600",
      "art": "art. 5a ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2026/1542",
+     "date": "2027-12-31"
     }
    ]
   },
