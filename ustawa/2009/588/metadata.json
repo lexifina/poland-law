@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/588",
+ "source_sha256": "e9681ce8f269d8ed1fbf40379308705e33395a9207386e6678e827ca145e6e92",
+ "in_force": "2009-05-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (2 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/588",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/588/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/588/text/O/D20090588.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/588/text/I/D20090588.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/588/text/T/D20090588L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/588",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 69,
+  "pos": 588,
+  "address": "WDU20090690588",
+  "displayAddress": "Dz.U. 2009 nr 69 poz. 588",
+  "title": "Ustawa z dnia 5 marca 2009 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-03-05",
+  "promulgation": "2009-05-07",
+  "entryIntoForce": "2009-05-22",
+  "validFrom": "2009-05-22",
+  "changeDate": "2024-03-15T09:54:19",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "znaki Sił Zbrojnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/1664.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/1664",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/1664",
+    "number": "1664",
+    "term": 6
+   }
+  ],
+  "comments": "Objęte tekstem jednolitym Dz. U. z 2015 r. poz. 1863",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1993/154",
+     "date": "2009-05-22"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090588.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090588.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090588L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
