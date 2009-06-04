@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/711",
+ "source_sha256": "2fa6abbb6bbe27c3c36d2c7cdbd76e9a8a41864598414694f82e48409241c905",
+ "in_force": "2009-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/711",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/711/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/711/text/O/D20090711.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/711/text/I/D20090711.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2009/711/text/U/D20090711Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/711",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 84,
+  "pos": 711,
+  "address": "WDU20090840711",
+  "displayAddress": "Dz.U. 2009 nr 84 poz. 711",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 maja 2009 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Bankowym Funduszu Gwarancyjnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2009-05-15",
+  "promulgation": "2009-06-04",
+  "expirationDate": "2014-12-23",
+  "repealDate": "2016-10-09",
+  "changeDate": "2024-03-15T09:54:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Bankowy Fundusz Gwarancyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2016/996",
+     "date": "2016-10-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/18"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090711.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090711.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090711Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
