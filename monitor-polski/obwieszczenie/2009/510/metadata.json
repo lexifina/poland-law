@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/510",
+ "source_sha256": "3f80e270144075714a9f7181871c9cabe1f5e7705b4a51f374cd2ed373359663",
+ "in_force": "2009-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/510",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/510/text/O/M20090510.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/510/text/I/M20090510.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/510",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 34,
+  "pos": 510,
+  "address": "WMP20090340510",
+  "displayAddress": "M.P. 2009 nr 34 poz. 510",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 maja 2009 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego przyjętej do obliczenia świadczenia rehabilitacyjnego w III kwartale 2009 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-05-20",
+  "promulgation": "2009-06-04",
+  "changeDate": "2019-03-22T14:26:50",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "świadczenia rehabilitacyjne",
+   "waloryzacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 19 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090510.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090510.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
