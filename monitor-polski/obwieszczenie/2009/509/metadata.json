@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/509",
+ "source_sha256": "44bc464a0f403beb64f01f382a4e13f591662befe9d14da5686ae5ce6c2bde00",
+ "in_force": "2009-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/509",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/509/text/O/M20090509.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/509/text/I/M20090509.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/509",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 34,
+  "pos": 509,
+  "address": "WMP20090340509",
+  "displayAddress": "M.P. 2009 nr 34 poz. 509",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 25 maja 2009 r. w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w III kwartale 2009 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-05-25",
+  "promulgation": "2009-06-04",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia wypadkowe",
+   "składki",
+   "ubezpieczenia zdrowotne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090509.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090509.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
