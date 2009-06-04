@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/710",
+ "source_sha256": "26330655cf5c0d9b808b1ae96fc6035dadc023091b27e4f65d73f1f9dd160604",
+ "in_force": "2009-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/710",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/710/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/710/text/O/D20090710.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/710/text/I/D20090710.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2009/710/text/U/D20090710Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/710",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 84,
+  "pos": 710,
+  "address": "WDU20090840710",
+  "displayAddress": "Dz.U. 2009 nr 84 poz. 710",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 maja 2009 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach gospodarczych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2009-05-15",
+  "promulgation": "2009-06-04",
+  "expirationDate": "2017-06-07",
+  "changeDate": "2024-03-15T09:54:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1989/195"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090710.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090710.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090710Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
