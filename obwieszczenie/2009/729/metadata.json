@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/729",
+ "source_sha256": "9a67bc75db3e375683ae9b082bb005e281722808e5d1971be97e7f164ede8722",
+ "in_force": "2009-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 22451 words, parsed 83; at 83: '7 czerwca 2009 r . Dział I . Zbiorcze wyniki'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/729",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/729/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/729/text/O/D20090729.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/729/text/I/D20090729.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/729",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 88,
+  "pos": 729,
+  "address": "WDU20090880729",
+  "displayAddress": "Dz.U. 2009 nr 88 poz. 729",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 8 czerwca 2009 r. o wynikach wyborów posłów do Parlamentu Europejskiego przeprowadzonych w dniu 7 czerwca 2009 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-06-08",
+  "promulgation": "2009-06-10",
+  "changeDate": "2025-03-21T10:43:58",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Parlament Europejski"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/219"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/219",
+     "art": "art. 132"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090729.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090729.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
