@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/554",
+ "source_sha256": "bb1e40176a6ddfb777889ff7a10b83ffd5f20e62feabe869b8c6832801e2e955",
+ "in_force": "2009-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/554",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/554/text/O/M20090554.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/554/text/I/M20090554.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/554",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 36,
+  "pos": 554,
+  "address": "WMP20090360554",
+  "displayAddress": "M.P. 2009 nr 36 poz. 554",
+  "title": "Obwieszczenie Prezesa Sądu Apelacyjnego w Warszawie z dnia 25 maja 2009 r. o podaniu do publicznej wiadomości prawomocnego orzeczenia Sądu, stwierdzającego niezgodność z prawda oświadczenia osoby lustrowanej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-05-25",
+  "promulgation": "2009-06-15",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. SĄDU APELACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "orzeczenie",
+   "lustracja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/443"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1592"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1592",
+     "art": "art. 63a ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090554.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090554.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
