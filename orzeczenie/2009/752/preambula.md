@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Marek Mazurkiewicz - przewodniczący,
+
+Zbigniew Cieślak,
+
+Maria Gintowt-Jankowicz,
+
+Marian Grzybowski,
+
+Ewa Łętowska - sprawozdawca,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem skarżących oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 2 czerwca 2009 r., połączonych skarg konstytucyjnych Sławomira Pakulskiego, Roberta Nowaka, Marka Szczerbiaka i Andrzeja Kruga o zbadanie zgodności art. 422 § 2 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, ze zm.) w zakresie, w jakim pozbawia odwołanego członka zarządu spółki akcyjnej prawa do zaskarżenia uchwały walnego zgromadzenia odmawiającej udzielenia absolutorium, z art. 32, art. 45 ust. 1, art. 47 i art. 77 ust. 2 Konstytucji,
+
+orzeka:
+
+Art. 422 § 2 pkt 1 w związku z art. 422 § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, ze zm.), w zakresie pozbawiającym odwołanego członka zarządu spółki akcyjnej legitymacji do wytoczenia powództwa o uchylenie uchwały walnego zgromadzenia o nieudzieleniu mu absolutorium z wykonania przez niego obowiązków, jest zgodny z art. 32, art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 47 Konstytucji.
