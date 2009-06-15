@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/750",
+ "source_sha256": "fa1297e3191b5d473fbd95fb1dc37f06b52d1242352df0a46c32a044619a7ad2",
+ "in_force": "2009-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1232 words, parsed 1119; at 1080: 'ust . 3 w brzmieniu „ Majątek , który stanowią'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/750",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/750/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/750/text/O/D20090750.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/750/text/I/D20090750.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/750",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 91,
+  "pos": 750,
+  "address": "WDU20090910750",
+  "displayAddress": "Dz.U. 2009 nr 91 poz. 750",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 10 marca 2009 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-03-10",
+  "promulgation": "2009-06-15",
+  "changeDate": "2024-03-15T09:54:57",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Łotwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 2b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1995/285"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090750.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090750.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
