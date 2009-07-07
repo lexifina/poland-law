@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/654",
+ "source_sha256": "b59566ea3600369b19bce17a291074ae07680c966a3e5de1d3eb24f56e95ca65",
+ "in_force": "2009-07-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/654",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/654/text/O/M20090654.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/654/text/I/M20090654.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/654",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 41,
+  "pos": 654,
+  "address": "WMP20090410654",
+  "displayAddress": "M.P. 2009 nr 41 poz. 654",
+  "title": "Obwieszczenie Ministra Finansów z dnia 29 czerwca 2009 r. w sprawie stawki odsetek za zwłokę od zaległości podatkowych oraz obniżonej stawki odsetek za zwłokę od zaległości podatkowych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-06-29",
+  "promulgation": "2009-07-07",
+  "changeDate": "2022-01-28T14:17:18",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa",
+   "odsetki",
+   "odsetki za zwłokę",
+   "stawki",
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090654.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090654.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
