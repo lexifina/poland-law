@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/911",
+ "source_sha256": "9d68bb86bac38d636fcfc006215a7e5be8c3d0fd9641107119f414cdb90769a2",
+ "in_force": "2009-07-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 526 words, parsed 207; at 207: '. ) , orzeka : 1 . Art . 217'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/911",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/911/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/911/text/O/D20090911.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/911/text/I/D20090911.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/911/text/T/D20090911TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/911",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 108,
+  "pos": 911,
+  "address": "WDU20091080911",
+  "displayAddress": "Dz.U. 2009 nr 108 poz. 911",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 2 lipca 2009 r. sygn. akt K 1/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-07-02",
+  "promulgation": "2009-07-08",
+  "entryIntoForce": "2009-07-08",
+  "validFrom": "2009-07-08",
+  "changeDate": "2024-03-15T09:54:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "dzieci"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/557",
+     "date": "2009-07-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    },
+    {
+     "id": "DU/1991/526"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/557"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090911.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090911.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090911TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
