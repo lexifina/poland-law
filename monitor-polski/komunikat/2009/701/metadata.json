@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/701",
+ "source_sha256": "0cd2d102beb86415c265c9bee483ff26276219a8f431d46a8634b4bbec25f253",
+ "in_force": "2009-07-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/701",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/701/text/O/M20090701.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/701/text/I/M20090701.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/701",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 47,
+  "pos": 701,
+  "address": "WMP20090470701",
+  "displayAddress": "M.P. 2009 nr 47 poz. 701",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 14 lipca 2009 r. w sprawie wskaźnika cen towarów nieżywnościowych trwałego użytku w II kwartale 2009 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-07-14",
+  "promulgation": "2009-07-28",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "towar",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1983/207"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1983/207",
+     "art": "art. 17 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090701.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090701.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
