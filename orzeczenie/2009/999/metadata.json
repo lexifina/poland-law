@@ -1,0 +1,104 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/999",
+ "source_sha256": "173045dd2cb94d57171ec70244da5396ac98d06c0777e8d1a70223f3aeca4388",
+ "in_force": "2009-07-30",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 606 words, parsed 59; at 59: 'Obywatelskich o zbadanie zgodności : 1 ) art . 91'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/999",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/999/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/999/text/O/D20090999.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/999/text/I/D20090999.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/999/text/T/D20090999TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/999",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 119,
+  "pos": 999,
+  "address": "WDU20091190999",
+  "displayAddress": "Dz.U. 2009 nr 119 poz. 999",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 21 lipca 2009 r. sygn. akt K 7/09",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-07-21",
+  "promulgation": "2009-07-30",
+  "entryIntoForce": "2009-07-30",
+  "validFrom": "2009-07-30",
+  "changeDate": "2024-03-15T09:54:27",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Parlament Europejski",
+   "Trybunał Konstytucyjny",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/219",
+     "date": "2009-07-30"
+    },
+    {
+     "id": "DU/2001/499",
+     "date": "2009-07-30"
+    },
+    {
+     "id": "DU/1990/398",
+     "date": "2009-07-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/219"
+    },
+    {
+     "id": "DU/2001/499"
+    },
+    {
+     "id": "DU/1990/398"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20090999.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20090999.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20090999TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
