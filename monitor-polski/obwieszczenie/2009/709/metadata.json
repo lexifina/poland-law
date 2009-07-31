@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/709",
+ "source_sha256": "955af23ba7ac59bff52b59d87ec8b04c03d8cd5ffc1ba9198634f7dcbb02e0c1",
+ "in_force": "2009-07-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/709",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/709/text/O/M20090709.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/709/text/I/M20090709.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/709",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 48,
+  "pos": 709,
+  "address": "WMP20090480709",
+  "displayAddress": "M.P. 2009 nr 48 poz. 709",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 24 lipca 2009 r. w sprawie wysokości minimalnego wynagrodzenia za pracę w 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2009-07-24",
+  "promulgation": "2009-07-31",
+  "changeDate": "2019-03-25T12:09:24",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca i ubezpieczenia społeczne",
+   "wynagrodzenia minimalne",
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1679"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1679",
+     "art": "art. 2 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090709.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090709.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
