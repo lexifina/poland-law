@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/752",
+ "source_sha256": "1c2e1834c90defdf3d9f87ecf6877cddb5498ccfe53f40565f30c969305a2f28",
+ "in_force": "2009-08-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/752",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/752/text/O/M20090752.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/752/text/I/M20090752.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/752",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 53,
+  "pos": 752,
+  "address": "WMP20090530752",
+  "displayAddress": "M.P. 2009 nr 53 poz. 752",
+  "title": "Komunikat Ministra Rolnictwa i Rozwoju Wsi z dnia 7 sierpnia 2009 r. w sprawie podjęcia przez Radę Ministrów uchwały o zmianie programu wieloletniego \"Ochrona zdrowia zwierząt i zdrowia publicznego\"",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-08-07",
+  "promulgation": "2009-08-21",
+  "changeDate": "2020-09-15T11:03:51",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "programy wieloletnie",
+   "ochrona zwierząt",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1658"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1658",
+     "art": "art. 19 ust. 7 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090752.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090752.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
