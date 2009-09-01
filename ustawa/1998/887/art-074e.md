@@ -4,7 +4,7 @@
 
 2. Protokół zawiera w szczególności:
 
-- 1) określenie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
+- 1) określenie stanowiska pracy, na które byt prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
 
 - 2) informację o zastosowanych metodach i technikach naboru;
 
