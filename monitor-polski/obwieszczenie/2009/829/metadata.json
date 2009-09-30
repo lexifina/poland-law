@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/829",
+ "source_sha256": "73fec5738347e02d288c8c9bea44158af5783b7299afd376b1e14a7dcff01428",
+ "in_force": "2009-09-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/829",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/829/text/O/M20090829.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/829/text/I/M20090829.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/829",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 62,
+  "pos": 829,
+  "address": "WMP20090620829",
+  "displayAddress": "M.P. 2009 nr 62 poz. 829",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 23 września 2009 r. w sprawie wysokości przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego w 2008 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-09-23",
+  "promulgation": "2009-09-30",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarstwa rolne",
+   "statystyka",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/268"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/268",
+     "art": "art. 18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090829.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090829.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
