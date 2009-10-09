@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2009/1248",
- "source_sha256": "a07a07eda95cf328f20510137be1bf706b2e8922492ec153a8dd734ecc2a11c2",
+ "source_sha256": "de1163bb5c1d50e3ac9e01bf28d84a72a5aa2fc6170d6b3252a1e445e361a51f",
  "in_force": "2009-10-09",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
  "text_status": "metadata only: words differ (table, formula or annex?): official 86 words, parsed 85; at 85: 'dni od dnia ogłoszenia . null'; the official text is linked (links), not transcribed here yet",
@@ -27,7 +27,8 @@
   "promulgation": "2009-09-24",
   "entryIntoForce": "2009-10-09",
   "validFrom": "2009-10-09",
-  "changeDate": "2018-12-10T08:48:10",
+  "repealDate": "2027-12-31",
+  "changeDate": "2026-11-24T12:09:39",
   "releasedBy": [
    "MIN. GOSPODARKI"
   ],
@@ -65,6 +66,12 @@
     {
      "id": "DU/1994/600",
      "art": "art. 9 ust. 1"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2026/1542",
+     "date": "2027-12-31"
     }
    ]
   },
