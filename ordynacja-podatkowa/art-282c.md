@@ -12,7 +12,7 @@
 
   - d) dotyczy niezgłoszonej do opodatkowania działalności gospodarczej,
 
-  - e) ma być podjęta w oparciu o informacje uzyskane na podstawie przepisów o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu,
+  - e) ma być podjęta w oparciu o informacje uzyskane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
 
   - f) zostaje wszczęta w trybie, o którym mowa w art. 284a § 1,
 
