@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/880",
+ "source_sha256": "88ca85b5d50698b0aa40aba73288c55d91f8e52f3c6efec60d444e40d2b2378a",
+ "in_force": "2009-10-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/880",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/880/text/O/M20090880.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/880/text/I/M20090880.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/880",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 68,
+  "pos": 880,
+  "address": "WMP20090680880",
+  "displayAddress": "M.P. 2009 nr 68 poz. 880",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 16 października 2009 r. w sprawie szacunków wartości produktu krajowego brutto na jednego mieszkańca w latach 2005-2007",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-10-16",
+  "promulgation": "2009-10-26",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "produkcja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1188",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090880.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090880.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
