@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Stanisław Biernat - przewodniczący,
+
+Marek Kotlinowski - I sprawozdawca,
+
+Teresa Liszcz,
+
+Ewa Łętowska,
+
+Marek Mazurkiewicz - II sprawozdawca,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem sądu przedstawiającego pytanie prawne oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniach 12 maja i 10 listopada 2009 r., połączonych pytań prawnych Sądu Okręgowego Warszawa-Praga w Warszawie, czy art. 28 ust. 1 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, ze zm.) jest zgodny z art. 32 ust. 1 i art. 45 ust. 1 Konstytucji,
+
+orzeka:
+
+Art. 28 ust. 1 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361), w zakresie odnoszącym się do dłużnika niekorzystającego z pomocy adwokata lub radcy prawnego, jest niezgodny z art. 45 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 32 ust. 1 Konstytucji.
