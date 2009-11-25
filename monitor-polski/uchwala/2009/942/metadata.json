@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/942",
+ "source_sha256": "e189840600eda7d5089e1529321e49fdadf05f55807a3fc19d0af22431f240f3",
+ "in_force": "2009-11-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/942",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/942/text/O/M20090942.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/942/text/I/M20090942.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/942",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 76,
+  "pos": 942,
+  "address": "WMP20090760942",
+  "displayAddress": "M.P. 2009 nr 76 poz. 942",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 19 listopada 2009 r. w sprawie wyboru członka Krajowej Rady Sądownictwa",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-11-19",
+  "promulgation": "2009-11-25",
+  "changeDate": "2014-12-31T12:26:42",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Senat",
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1082"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1082",
+     "art": "art. 9"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 187 ust. 1 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090942.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090942.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
