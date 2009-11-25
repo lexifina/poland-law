@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2009/941",
+ "source_sha256": "b9c6061dd7005113d8e99a3ad0468bd9c93e3b2e3ddfb58474fae53ff6bf6e58",
+ "in_force": "2009-11-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2009/941",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2009/941/text/O/M20090941.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2009/941/text/I/M20090941.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2009/941",
+  "publisher": "MP",
+  "year": 2009,
+  "volume": 76,
+  "pos": 941,
+  "address": "WMP20090760941",
+  "displayAddress": "M.P. 2009 nr 76 poz. 941",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 19 listopada 2009 r. w sprawie niewyrażenia zgody na pociągnięcie do odpowiedzialności karnej senatora Norberta Krajczego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-11-19",
+  "promulgation": "2009-11-25",
+  "changeDate": "2026-10-06T13:44:23",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7c ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20090941.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20090941.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
