@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Ewa Łętowska - przewodniczący,
+
+Marian Grzybowski,
+
+Wojciech Hermeliński - sprawozdawca,
+
+protokolant: Grażyna Szałygo,
+
+po rozpoznaniu, z udziałem Ministra Spraw Wewnętrznych i Administracji oraz Prokuratora Generalnego, na rozprawie w dniu 23 listopada 2009 r., pytania prawnego Wojewódzkiego Sądu Administracyjnego w Gdańsku, czy § 57 pkt 4 załącznika nr 2 do rozporządzenia Ministra Spraw Wewnętrznych z dnia 9 lipca 1991 r. w sprawie właściwości i trybu postępowania komisji lekarskich podległych Ministrowi Spraw Wewnętrznych (Dz. U. Nr 79, poz. 349, ze zm.) w zakresie, w jakim przewiduje, że stwierdzenie u policjanta nosicielstwa wirusa HIV powoduje uznanie go za całkowicie niezdolnego do pełnienia służby, jest zgodny z art. 32 i art. 60 w związku z art. 31 ust. 3 Konstytucji i art. 25 lit. c Międzynarodowego Paktu Praw Obywatelskich i Politycznych, otwartego do podpisu w Nowym Jorku dnia 19 grudnia 1966 r. (Dz. U. z 1977 r. Nr 38, poz. 167),
+
+orzeka:
+
+§ 57 pkt 4 załącznika nr 2 do rozporządzenia Ministra Spraw Wewnętrznych z dnia 9 lipca 1991 r. w sprawie właściwości i trybu postępowania komisji lekarskich podległych Ministrowi Spraw Wewnętrznych (Dz. U. Nr 79, poz. 349, z 1992 r. Nr 83, poz. 425 oraz z 1995 r. Nr 146, poz. 712) w zakresie, w jakim powoduje uznanie policjanta za całkowicie niezdolnego do pełnienia służby z powodu nosicielstwa wirusa HIV bez względu na stan zdrowia, jest niezgodny z art. 60 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
+
+Ponadto postanawia:
+
+na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459) umorzyć postępowanie w pozostałym zakresie ze względu na zbędność wydania wyroku.
