@@ -1,0 +1,1 @@
+W hołdzie bohaterom Powstania Warszawskiego - tym, którzy w obronie bytu państwowego, z bronią w ręku walczyli o wyzwolenie Stolicy, dążyli do odtworzenia instytucji niepodległego Państwa Polskiego, sprzeciwili się okupacji niemieckiej i widmu sowieckiej niewoli zagrażającej następnym pokoleniom Polaków - stanowi się, co następuje:
