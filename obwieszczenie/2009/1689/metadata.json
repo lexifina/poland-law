@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/1689",
+ "source_sha256": "28c855d7ac5b116bb3ed697153418d1f090402c941d323ba9551ac0b95d48c32",
+ "in_force": "2009-12-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/1689",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/1689/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/1689/text/O/D20091689.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/1689/text/I/D20091689.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/1689/text/T/D20091689L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2009/1689/text/U/D20091689Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/1689",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 217,
+  "pos": 1689,
+  "address": "WDU20092171689",
+  "displayAddress": "Dz.U. 2009 nr 217 poz. 1689",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2009 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks morski",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2009-12-02",
+  "promulgation": "2009-12-21",
+  "expirationDate": "2013-07-01",
+  "changeDate": "2024-03-15T09:54:21",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1545"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20091689.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20091689.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20091689L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20091689Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
