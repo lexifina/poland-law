@@ -1,0 +1,3 @@
+# Art. 88ib.
+
+Kto udziela pełnomocnictwa do głosowania w zamian za jakąkolwiek korzyść majątkową lub osobistą podlega karze aresztu albo grzywny.

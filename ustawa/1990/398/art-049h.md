@@ -1,0 +1,3 @@
+# Art. 49h.
+
+Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawie sporządzenia aktu pełnomocnictwa do głosowania, wzory: wniosku o sporządzenie aktu pełnomocnictwa do głosowania, zgody na przyjęcie pełnomocnictwa do głosowania i aktu pełnomocnictwa do głosowania, a także wzór i sposób prowadzenia oraz aktualizacji wykazu sporządzonych aktów pełnomocnictwa do głosowania, tak aby zapewnić sprawność i rzetelność postępowania oraz wiarygodność aktu pełnomocnictwa.
