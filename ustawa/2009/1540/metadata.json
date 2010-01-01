@@ -1,0 +1,742 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2009/1540",
+ "source_sha256": "1f8449c4aebe90db97fbdb62370d2114ca7f99f9bec341ef1250b0e8438a4107",
+ "in_force": "2010-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2009/1540",
+  "html": "https://eli.gov.pl/api/acts/DU/2009/1540/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2009/1540/text/O/D20091540.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2009/1540/text/I/D20091540.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2009/1540/text/T/D20091540L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2009/1540/text/U/D20091540Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2009/1540",
+  "publisher": "DU",
+  "year": 2009,
+  "volume": 201,
+  "pos": 1540,
+  "address": "WDU20092011540",
+  "displayAddress": "Dz.U. 2009 nr 201 poz. 1540",
+  "title": "Ustawa z dnia 19 listopada 2009 r. o grach hazardowych",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-11-19",
+  "promulgation": "2009-11-30",
+  "entryIntoForce": "2010-01-01",
+  "validFrom": "2010-01-01",
+  "changeDate": "2026-10-08T16:21:24",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ZDROWIA",
+   "MIN. WŁAŚCIWY DS KULTURY I OCHRONY DZIEDZICTWA NARODOWEGO",
+   "MIN. WŁAŚCIWY DS KULTURY FIZYCZNEJ I SPORTU",
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH",
+   "PRZEW. KOMITETU DO SPRAW POŻYTKU PUBLICZNEGO"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny skarbowy",
+   "gry losowe i zakłady wzajemne",
+   "podatki",
+   "sprawozdawczość",
+   "zezwolenia",
+   "kary pieniężne i porządkowe",
+   "świadectwa i dyplomy",
+   "koncesje",
+   "karne skarbowe prawo",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2481.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2481",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2481",
+    "number": "2481",
+    "term": 6
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2482.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2482",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2482",
+    "number": "2482",
+    "term": 6
+   }
+  ],
+  "comments": "art. 95 w zakresie art. 21 ust. 1 pkt 6, art. 106 pkt 1 i pkt 4 lit. a oraz art. 116 pkt 4 wchodzą w życie z dniem 2 stycznia 2016 r.",
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2007/1380",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2004/27",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2001/908",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1998/1061",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1997/503",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1994/472",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1992/341",
+     "date": "2010-01-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2009/1459",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2009/1414",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2009/1027",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2008/880",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2008/1592",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2008/1123",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2007/1833",
+     "date": "2010-07-22"
+    },
+    {
+     "id": "DU/2007/1827",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2006/944",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2006/1801",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2006/1620",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2006/1318",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2005/2233",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2005/200",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2004/2691",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2003/948",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2003/2133",
+     "date": "2010-07-02"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/678"
+    },
+    {
+     "id": "DU/2025/1892"
+    },
+    {
+     "id": "DU/2025/1634"
+    },
+    {
+     "id": "DU/2025/1240"
+    },
+    {
+     "id": "DU/2024/1753"
+    },
+    {
+     "id": "DU/2024/1269"
+    },
+    {
+     "id": "DU/2024/1253"
+    },
+    {
+     "id": "DU/2023/538"
+    },
+    {
+     "id": "DU/2023/2791"
+    },
+    {
+     "id": "DU/2022/718"
+    },
+    {
+     "id": "DU/2022/1212"
+    },
+    {
+     "id": "DU/2021/1506"
+    },
+    {
+     "id": "DU/2020/1652"
+    },
+    {
+     "id": "DU/2019/26"
+    },
+    {
+     "id": "DU/2019/20"
+    },
+    {
+     "id": "DU/2019/1944"
+    },
+    {
+     "id": "DU/2019/1638"
+    },
+    {
+     "id": "DU/2018/2325"
+    },
+    {
+     "id": "DU/2018/2149"
+    },
+    {
+     "id": "DU/2018/2143"
+    },
+    {
+     "id": "DU/2018/1157"
+    },
+    {
+     "id": "DU/2017/866"
+    },
+    {
+     "id": "DU/2017/853"
+    },
+    {
+     "id": "DU/2017/792"
+    },
+    {
+     "id": "DU/2017/705"
+    },
+    {
+     "id": "DU/2017/702"
+    },
+    {
+     "id": "DU/2017/701"
+    },
+    {
+     "id": "DU/2017/698"
+    },
+    {
+     "id": "DU/2017/439"
+    },
+    {
+     "id": "DU/2017/421"
+    },
+    {
+     "id": "DU/2017/398"
+    },
+    {
+     "id": "DU/2017/389"
+    },
+    {
+     "id": "DU/2017/382"
+    },
+    {
+     "id": "DU/2017/370"
+    },
+    {
+     "id": "DU/2017/362"
+    },
+    {
+     "id": "DU/2017/2029"
+    },
+    {
+     "id": "DU/2017/1833"
+    },
+    {
+     "id": "DU/2017/1808"
+    },
+    {
+     "id": "DU/2017/1801"
+    },
+    {
+     "id": "DU/2017/1441"
+    },
+    {
+     "id": "DU/2017/1304"
+    },
+    {
+     "id": "DU/2017/1171"
+    },
+    {
+     "id": "DU/2017/1096"
+    },
+    {
+     "id": "DU/2017/1018"
+    },
+    {
+     "id": "DU/2016/24"
+    },
+    {
+     "id": "DU/2016/2156"
+    },
+    {
+     "id": "DU/2015/662"
+    },
+    {
+     "id": "DU/2015/637"
+    },
+    {
+     "id": "DU/2015/635"
+    },
+    {
+     "id": "DU/2015/62"
+    },
+    {
+     "id": "DU/2015/435"
+    },
+    {
+     "id": "DU/2015/2252"
+    },
+    {
+     "id": "DU/2015/1500"
+    },
+    {
+     "id": "DU/2015/1288"
+    },
+    {
+     "id": "DU/2014/1391"
+    },
+    {
+     "id": "DU/2013/738"
+    },
+    {
+     "id": "DU/2012/833"
+    },
+    {
+     "id": "DU/2012/522"
+    },
+    {
+     "id": "DU/2012/416"
+    },
+    {
+     "id": "DU/2012/312"
+    },
+    {
+     "id": "DU/2012/162"
+    },
+    {
+     "id": "DU/2012/142"
+    },
+    {
+     "id": "DU/2011/27"
+    },
+    {
+     "id": "DU/2011/1638"
+    },
+    {
+     "id": "DU/2011/1314"
+    },
+    {
+     "id": "DU/2011/1285"
+    },
+    {
+     "id": "DU/2011/1277"
+    },
+    {
+     "id": "DU/2011/1008"
+    },
+    {
+     "id": "DU/2010/797"
+    },
+    {
+     "id": "DU/2010/795"
+    },
+    {
+     "id": "DU/2010/794"
+    },
+    {
+     "id": "DU/2010/793"
+    },
+    {
+     "id": "DU/2010/771"
+    },
+    {
+     "id": "DU/2010/770"
+    },
+    {
+     "id": "DU/2010/767"
+    },
+    {
+     "id": "DU/2010/751"
+    },
+    {
+     "id": "DU/2010/750"
+    },
+    {
+     "id": "DU/2010/71"
+    },
+    {
+     "id": "DU/2010/57"
+    },
+    {
+     "id": "DU/2010/313"
+    },
+    {
+     "id": "DU/2010/1631"
+    },
+    {
+     "id": "DU/2010/1085"
+    },
+    {
+     "id": "DU/2010/1051"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/176",
+     "date": "2027-02-18"
+    },
+    {
+     "id": "DU/2026/1206",
+     "date": "2027-01-11"
+    },
+    {
+     "id": "DU/2026/1040",
+     "date": "2027-01-01"
+    },
+    {
+     "id": "DU/2024/1473",
+     "date": "2024-10-05"
+    },
+    {
+     "id": "DU/2022/1751",
+     "date": "2022-08-20"
+    },
+    {
+     "id": "DU/2022/1301",
+     "date": "2022-07-07"
+    },
+    {
+     "id": "DU/2021/815",
+     "date": "2021-11-01"
+    },
+    {
+     "id": "DU/2021/802",
+     "date": "2021-06-01"
+    },
+    {
+     "id": "DU/2020/284",
+     "date": "2020-02-29"
+    },
+    {
+     "id": "DU/2020/1492",
+     "date": "2021-01-01"
+    },
+    {
+     "id": "DU/2019/375",
+     "date": "2019-03-14"
+    },
+    {
+     "id": "DU/2019/1495",
+     "date": "2020-01-01"
+    },
+    {
+     "id": "DU/2018/723",
+     "date": "2018-07-13"
+    },
+    {
+     "id": "DU/2018/650",
+     "date": "2018-04-30"
+    },
+    {
+     "id": "DU/2018/2354",
+     "date": "2019-01-02"
+    },
+    {
+     "id": "DU/2018/1629",
+     "date": "2018-11-25"
+    },
+    {
+     "id": "DU/2017/88",
+     "date": "2017-04-01"
+    },
+    {
+     "id": "DU/2017/1909",
+     "date": "2017-10-28"
+    },
+    {
+     "id": "DU/2017/1089",
+     "date": "2017-06-21"
+    },
+    {
+     "id": "DU/2016/2260",
+     "date": "2017-01-01"
+    },
+    {
+     "id": "DU/2016/1948",
+     "date": "2017-03-01"
+    },
+    {
+     "id": "DU/2015/211",
+     "date": "2015-04-01"
+    },
+    {
+     "id": "DU/2015/1916",
+     "date": "2015-12-03"
+    },
+    {
+     "id": "DU/2015/1830",
+     "date": "2016-01-01"
+    },
+    {
+     "id": "DU/2015/1639",
+     "date": "2015-11-20"
+    },
+    {
+     "id": "DU/2015/1201",
+     "date": "2015-09-03"
+    },
+    {
+     "id": "DU/2014/768",
+     "date": "2014-08-10"
+    },
+    {
+     "id": "DU/2014/1717",
+     "date": "2014-12-19"
+    },
+    {
+     "id": "DU/2013/1036",
+     "date": "2013-10-07"
+    },
+    {
+     "id": "DU/2011/779",
+     "date": "2011-07-14"
+    },
+    {
+     "id": "DU/2011/622",
+     "date": "2011-07-01"
+    },
+    {
+     "id": "DU/2010/857",
+     "date": "2010-10-16"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2009/1323",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2005/1538",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2005/1111",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2004/535",
+     "date": "2016-01-02"
+    },
+    {
+     "id": "DU/2004/1807",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2004/1546",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2003/946",
+     "date": "2010-07-02"
+    },
+    {
+     "id": "DU/2002/1661",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2002/1204",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2001/86",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2001/1189",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2000/271",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2000/1216",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/2000/1099",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1999/930",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1997/943",
+     "date": "2016-01-02"
+    },
+    {
+     "id": "DU/1997/939",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1997/557",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1997/553",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1993/34",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1993/211",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1991/442",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1990/462",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1990/179",
+     "date": "2010-01-01"
+    },
+    {
+     "id": "DU/1966/151",
+     "date": "2010-01-01"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2025/595"
+    },
+    {
+     "id": "DU/2023/227"
+    },
+    {
+     "id": "DU/2022/888"
+    },
+    {
+     "id": "DU/2020/2094"
+    },
+    {
+     "id": "DU/2019/847"
+    },
+    {
+     "id": "DU/2018/165"
+    },
+    {
+     "id": "DU/2016/471"
+    },
+    {
+     "id": "DU/2015/612"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/1679"
+    },
+    {
+     "id": "DU/1997/926"
+    },
+    {
+     "id": "DU/1994/627"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2018/2275"
+    },
+    {
+     "id": "DU/2015/369"
+    },
+    {
+     "id": "DU/2015/1742"
+    },
+    {
+     "id": "DU/2013/1002"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20091540.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20091540.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20091540L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20091540Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
