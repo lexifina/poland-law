@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/11",
+ "source_sha256": "1d0d30ff7ed1599a07ec3455dfb8c1a25e6021158c6ff80495fb8a79b80bca7d",
+ "in_force": "2010-01-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1616 words, parsed 382; at 382: 'ten nie może przekroczyć : a ) 5 % kwoty'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/11",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/11/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/11/text/O/D20100011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/11/text/I/D20100011.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/11",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 2,
+  "pos": 11,
+  "address": "WDU20100020011",
+  "displayAddress": "Dz.U. 2010 nr 2 poz. 11",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 3 września 2009 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-09-03",
+  "promulgation": "2010-01-08",
+  "changeDate": "2024-03-14T20:25:43",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "sprostowanie",
+   "dywidendy",
+   "transport międzynarodowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 2b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1994/492"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
