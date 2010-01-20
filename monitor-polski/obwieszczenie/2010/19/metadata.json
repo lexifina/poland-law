@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/19",
+ "source_sha256": "829f94f9e693c279f9b4fe0b2a9e754c7149b505f45f6cad4319c80003c6e973",
+ "in_force": "2010-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/19",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/19/text/O/M20100019.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/19/text/I/M20100019.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/19",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 3,
+  "pos": 19,
+  "address": "WMP20100030019",
+  "displayAddress": "M.P. 2010 nr 3 poz. 19",
+  "title": "Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2009 r. w sprawie ogłoszenia decyzji Ministra Kultury i Dziedzictwa Narodowego o udzieleniu zezwolenia na zbiorowe zarządzanie prawami autorskimi",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-12-28",
+  "promulgation": "2010-01-20",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. KULTURY I DZIEDZICTWA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zezwolenia",
+   "autorskie prawo"
+  ],
+  "keywordsNames": [
+   "Min. Kultury i Dziedzictwa Narodowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/83"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/83",
+     "art": "art. 104 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100019.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100019.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
