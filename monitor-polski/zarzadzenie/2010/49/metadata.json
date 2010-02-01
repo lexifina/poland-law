@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/49",
+ "source_sha256": "3730cfd51306b018e8a4fcc8c550da873b92a021c74c819381a8559e39f899c6",
+ "in_force": "2010-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/49",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/49/text/O/M20100049.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/49/text/I/M20100049.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/49",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 5,
+  "pos": 49,
+  "address": "WMP20100050049",
+  "displayAddress": "M.P. 2010 nr 5 poz. 49",
+  "title": "Zarządzenie Nr 10 Prezesa Rady Ministrów z dnia 29 stycznia 2010 r. zmieniające zarządzenie w sprawie stałego komitetu Rady Ministrów",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-01-29",
+  "promulgation": "2010-02-01",
+  "entryIntoForce": "2010-02-01",
+  "validFrom": "2010-02-01",
+  "repealDate": "2011-01-01",
+  "changeDate": "2026-10-09T09:23:14",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komitety",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2010/1171",
+     "date": "2011-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2002/447",
+     "date": "2010-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 12 ust. 1 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100049.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100049.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
