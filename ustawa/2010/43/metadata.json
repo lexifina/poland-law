@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/43",
+ "source_sha256": "96c16cadee336231e5c4801573c90c8ea995cec49d96dd3a78aa5cb92a778340",
+ "in_force": "2010-02-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/43",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/43/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/43/text/O/D20100043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/43/text/I/D20100043.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/43/text/T/D20100043L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/43",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 7,
+  "pos": 43,
+  "address": "WDU20100070043",
+  "displayAddress": "Dz.U. 2010 nr 7 poz. 43",
+  "title": "Ustawa z dnia 17 grudnia 2009 r. o uregulowaniu stanu prawnego niektórych nieruchomości pozostających we władaniu Polskiego Autokefalicznego Kościoła Prawosławnego",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2009-12-17",
+  "promulgation": "2010-01-18",
+  "entryIntoForce": "2010-02-02",
+  "validFrom": "2010-02-02",
+  "changeDate": "2024-03-14T20:26:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania",
+   "kościoły",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2060.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2060",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2060",
+    "number": "2060",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/741"
+    },
+    {
+     "id": "DU/1947/318"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100043.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100043L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
