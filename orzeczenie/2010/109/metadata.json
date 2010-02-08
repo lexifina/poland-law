@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/109",
+ "source_sha256": "06c97a8f05ae11f6c2d11d98ca127fee265d7f32c4eb75246aaaa015e424ae40",
+ "in_force": "2010-02-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 339 words, parsed 176; at 176: 'Konstytucji , orzeka : I 1 . Art . 4'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/109",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/109/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/109/text/O/D20100109.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/109/text/I/D20100109.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/109/text/T/D20100109TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/109",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 21,
+  "pos": 109,
+  "address": "WDU20100210109",
+  "displayAddress": "Dz.U. 2010 nr 21 poz. 109",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 26 stycznia 2010 r. sygn. akt K 9/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-01-26",
+  "promulgation": "2010-02-08",
+  "entryIntoForce": "2010-02-08",
+  "validFrom": "2010-02-08",
+  "changeDate": "2024-03-14T20:26:01",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "użytkowanie wieczyste",
+   "porządkowanie prawa",
+   "własność"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2007/1371",
+     "date": "2011-08-09"
+    },
+    {
+     "id": "DU/2005/1459",
+     "date": "2011-08-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2007/1371"
+    },
+    {
+     "id": "DU/2005/1459"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100109.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100109.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100109TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
