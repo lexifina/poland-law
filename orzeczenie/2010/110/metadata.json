@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/110",
+ "source_sha256": "5f908ea3faa577f74fcb9a7acae31de6a06071654310eb81340a628679176058",
+ "in_force": "2010-02-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 475 words, parsed 54; at 54: ', połączonych skarg konstytucyjnych : 1 ) Zdzisława Przybyły o'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/110",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/110/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/110/text/O/D20100110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/110/text/I/D20100110.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/110/text/T/D20100110TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/110",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 21,
+  "pos": 110,
+  "address": "WDU20100210110",
+  "displayAddress": "Dz.U. 2010 nr 21 poz. 110",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 stycznia 2010 r. sygn. akt SK 41/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-01-27",
+  "promulgation": "2010-02-08",
+  "entryIntoForce": "2010-02-08",
+  "validFrom": "2010-02-08",
+  "changeDate": "2024-03-14T20:26:01",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "służba wojskowa żołnierzy",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [
+   "Fundusz Ubezpieczeń Społecznych",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/1609"
+    },
+    {
+     "id": "DU/1998/1118"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100110.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100110TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
