@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/56",
+ "source_sha256": "2f0ebe35c3cd98b7c71eab82e0c841ed39eab614d5165986f5d8257f7adf5153",
+ "in_force": "2010-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/56",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/56/text/O/M20100056.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/56/text/I/M20100056.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/56",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 7,
+  "pos": 56,
+  "address": "WMP20100070056",
+  "displayAddress": "M.P. 2010 nr 7 poz. 56",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 3 lutego 2010 r. w sprawie niewyrażenia zgody na pociągnięcie do odpowiedzialności karnej senatora Krzysztofa Piesiewicza",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-02-03",
+  "promulgation": "2010-02-12",
+  "changeDate": "2026-10-06T14:20:32",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7c ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100056.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100056.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
