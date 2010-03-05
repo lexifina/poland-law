@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/126",
+ "source_sha256": "88d932ccf020428875c7c3111ceb40230b4d83c06112b4bc0cde93f9b974a2a2",
+ "in_force": "2010-03-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/126",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/126/text/O/M20100126.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/126/text/I/M20100126.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/126",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 12,
+  "pos": 126,
+  "address": "WMP20100120126",
+  "displayAddress": "M.P. 2010 nr 12 poz. 126",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie zmiany Krajowego Programu Restrukturyzacji",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-02-15",
+  "promulgation": "2010-03-05",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwestycje",
+   "rolnictwo",
+   "restrukturyzacja"
+  ],
+  "keywordsNames": [
+   "Agencja Rynku Rolnego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/386"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/386",
+     "art": "art. 34a ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100126.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100126.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
