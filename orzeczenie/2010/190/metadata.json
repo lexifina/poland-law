@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/190",
+ "source_sha256": "f0830f2900ef82b8b834d2b1adaf587b1b67ada8ebc91a1d605e89aef3ed79e3",
+ "in_force": "2010-03-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1468 words, parsed 65; at 65: 'Policjantów o zbadanie zgodności : 1 ) art . 6b'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/190",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/190/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/190/text/O/D20100190.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/190/text/I/D20100190.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/190/text/T/D20100190TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/190",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 34,
+  "pos": 190,
+  "address": "WDU20100340190",
+  "displayAddress": "Dz.U. 2010 nr 34 poz. 190",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 23 lutego 2010 r. sygn. akt K 1/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-02-23",
+  "promulgation": "2010-03-08",
+  "entryIntoForce": "2010-03-08",
+  "validFrom": "2010-03-08",
+  "changeDate": "2024-03-14T20:26:23",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Policja",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/179",
+     "date": "2010-03-08"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1990/179"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100190.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100190.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100190TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
