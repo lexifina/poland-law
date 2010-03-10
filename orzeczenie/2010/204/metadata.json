@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/204",
+ "source_sha256": "1d4671d919e16e65ef467490c025023da86cce343897e9a180de536707ff6ac2",
+ "in_force": "2010-03-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1164 words, parsed 93; at 93: 'posłów o zbadanie zgodności : 1 ) preambuły ustawy z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/204",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/204/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/204/text/O/D20100204.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/204/text/I/D20100204.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/204/text/T/D20100204TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/204",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 36,
+  "pos": 204,
+  "address": "WDU20100360204",
+  "displayAddress": "Dz.U. 2010 nr 36 poz. 204",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 lutego 2010 r. sygn. akt K 6/09",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-02-24",
+  "promulgation": "2010-03-10",
+  "entryIntoForce": "2010-03-10",
+  "validFrom": "2010-03-10",
+  "changeDate": "2024-03-14T20:27:00",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żołnierz zawodowy",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2009/145",
+     "date": "2010-03-10"
+    },
+    {
+     "id": "DU/1994/36",
+     "date": "2010-03-10"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2009/145"
+    },
+    {
+     "id": "DU/1994/36"
+    },
+    {
+     "id": "DU/1994/214"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100204.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100204.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100204TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
