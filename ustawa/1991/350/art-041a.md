@@ -1,3 +1,3 @@
 # Art. 41a.
 
-Płatnicy, o których mowa w art. 41 ust. 1, na wniosek podatnika, obliczają i pobierają w ciągu roku wyższe zaliczki na podatek dochodowy niż obliczone w wysokości określonej w tym przepisie.
+Płatnicy, o których mowa w art. 31, art. 33-35 i art. 41 ust. 1, na wniosek podatnika obliczają i pobierają w ciągu roku zaliczki na podatek dochodowy, stosując zamiast najniższej stawki określonej w skali, o której mowa w art. 27 ust. 1, wyższą stawkę podatkową określoną w tej skali.

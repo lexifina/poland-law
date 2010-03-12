@@ -1,3 +1,3 @@
 # Art. 45a.
 
-Minister właściwy do spraw finansów publicznych ze względu na ochronę tajemnicy państwowej może uregulować odrębnie tryb poboru podatku dochodowego oraz tryb składania informacji i zeznań podatkowych niż określony w art. 38, 39, 41, 42 i 45.
+Prezes Rady Ministrów określi, ze względu na ochronę tajemnicy państwowej, w drodze zarządzenia, odrębny tryb poboru podatku dochodowego, tryb składania informacji i zeznań podatkowych, a także dodatkowe zadania płatników związane z obowiązkiem rozliczania rocznego podatków, z uwzględnieniem wszystkich dodatkowych dochodów, wydatków, ulg, zwolnień i wyłączeń, mających wpływ na podstawę opodatkowania i wysokość podatku podatnika, niż określone w art. 6, 37, 38, 41, 42 i 45, ustalając jednocześnie dodatkowy zakres obowiązków płatnika, w szczególności prowadzenia postępowań i wydawania decyzji w sprawach podatkowych, w których właściwe są organy podatkowe.
