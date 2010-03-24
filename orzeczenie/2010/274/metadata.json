@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/274",
+ "source_sha256": "7ba3f25bf3dcfa2ae6255158b7879d7c34302e3183e3e914e054b368b1ba80e0",
+ "in_force": "2010-03-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 442 words, parsed 231; at 231: '1575 ) jest niezgodny : a ) z art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/274",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/274/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/274/text/O/D20100274.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/274/text/I/D20100274.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/274/text/T/D20100274TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/274",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 45,
+  "pos": 274,
+  "address": "WDU20100450274",
+  "displayAddress": "Dz.U. 2010 nr 45 poz. 274",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 marca 2010 r. sygn. akt U 5/07",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-03-10",
+  "promulgation": "2010-03-24",
+  "entryIntoForce": "2010-03-24",
+  "validFrom": "2010-03-24",
+  "changeDate": "2024-03-14T20:26:56",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przymus bezpośredni"
+  ],
+  "keywordsNames": [
+   "Centralne Biuro Antykorupcyjne",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/1575",
+     "date": "2010-03-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2006/708"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2006/1575"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100274.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100274.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100274TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
