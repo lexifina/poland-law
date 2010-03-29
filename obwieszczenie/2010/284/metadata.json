@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/284",
+ "source_sha256": "83c225739718e0b5b57925a1a4bbd37524ca545a6a52f4bf27e88730134ef896",
+ "in_force": "2010-03-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/284",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/284/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/284/text/O/D20100284.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/284/text/I/D20100284.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/284/text/U/D20100284Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/284",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 48,
+  "pos": 284,
+  "address": "WDU20100480284",
+  "displayAddress": "Dz.U. 2010 nr 48 poz. 284",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 marca 2010 r. w sprawie ogłoszenia jednolitego tekstu ustawy o giełdach towarowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-03-19",
+  "promulgation": "2010-03-29",
+  "expirationDate": "2014-02-12",
+  "changeDate": "2024-03-14T20:25:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "giełdy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 62-69 ustawy o giełdach towarowych",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1099"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100284.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100284.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100284Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
