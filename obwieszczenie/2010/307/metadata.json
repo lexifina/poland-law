@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/307",
+ "source_sha256": "45d6803afab5ce5badc9794e8892f6f5c5e1ab82f90cd64703c407e968a3316b",
+ "in_force": "2010-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/307",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/307/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/307/text/O/D20100307.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/307/text/I/D20100307.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/307/text/U/D20100307Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/307",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 51,
+  "pos": 307,
+  "address": "WDU20100510307",
+  "displayAddress": "Dz.U. 2010 nr 51 poz. 307",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 marca 2010 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób fizycznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-03-25",
+  "promulgation": "2010-03-31",
+  "expirationDate": "2012-04-03",
+  "changeDate": "2024-03-14T20:25:21",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek dochodowy",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/350"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100307.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100307.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100307Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
