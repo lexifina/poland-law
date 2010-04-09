@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/194",
+ "source_sha256": "74b1828f9f15076bb4cb94addad83e03288dc9be4e7188811264bf6359b304b1",
+ "in_force": "2010-04-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/194",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/194/text/O/M20100194.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/194/text/I/M20100194.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/194",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 19,
+  "pos": 194,
+  "address": "WMP20100190194",
+  "displayAddress": "M.P. 2010 nr 19 poz. 194",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 25 marca 2010 r. w sprawie tablicy średniego dalszego trwania życia kobiet i mężczyzn",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-03-25",
+  "promulgation": "2010-04-09",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "kobiety",
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 26 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100194.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100194.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
