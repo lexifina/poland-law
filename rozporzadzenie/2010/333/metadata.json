@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/333",
+ "source_sha256": "a6754ef57a6492fb5b49fc933cdce1717f97e289439a979f9f9c6f26200d5f4a",
+ "in_force": "2010-04-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/333",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/333/text/O/D20100333.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/333/text/I/D20100333.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/333",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 55,
+  "pos": 333,
+  "address": "WDU20100550333",
+  "displayAddress": "Dz.U. 2010 nr 55 poz. 333",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 24 marca 2010 r. w sprawie ustalenia granicy portu morskiego w Wolinie od strony lądu",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-03-24",
+  "promulgation": "2010-04-07",
+  "entryIntoForce": "2010-04-22",
+  "validFrom": "2010-04-22",
+  "repealDate": "2018-09-01",
+  "changeDate": "2018-09-03T10:43:00",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porty morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2018/1585",
+     "date": "2018-09-01"
+    }
+   ],
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/1963/318",
+     "date": "2010-04-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/131"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/131",
+     "art": "art. 45 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20100333.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100333.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
