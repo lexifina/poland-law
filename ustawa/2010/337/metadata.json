@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/337",
+ "source_sha256": "61dcac622c5dfa786ac75eeaa904d9f320209abea0e86c67f9d3b38c3d045a08",
+ "in_force": "2010-04-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/337",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/337/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/337/text/O/D20100337.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/337/text/I/D20100337.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/337/text/T/D20100337L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/337/text/U/D20100337Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/337",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 56,
+  "pos": 337,
+  "address": "WDU20100560337",
+  "displayAddress": "Dz.U. 2010 nr 56 poz. 337",
+  "title": "Ustawa z dnia 4 marca 2010 r. o zasadach obsadzenia w kadencji trwającej w latach 2009-2014 dodatkowego mandatu posła do Parlamentu Europejskiego",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-03-04",
+  "promulgation": "2010-04-08",
+  "entryIntoForce": "2010-04-23",
+  "validFrom": "2010-04-23",
+  "changeDate": "2024-03-14T20:26:43",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [
+   "Parlament Europejski"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2574.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2574",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2574",
+    "number": "2574",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2011/1617"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2011/113",
+     "date": "2011-08-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2004/219"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100337.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100337.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100337L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20100337Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
