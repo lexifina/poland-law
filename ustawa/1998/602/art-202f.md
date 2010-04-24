@@ -1,0 +1,5 @@
+# Art. 202f.
+
+1. Pełnomocnik finansowy komitetu wyborczego, który w związku z wyborami do rad gmin, rad powiatów lub sejmików województw nie dopełnia obowiązku gromadzenia środków finansowych na rachunku bankowym - podlega karze grzywny.
+
+2. Tej samej karze podlega, kto nie wprowadza zastrzeżenia do umowy rachunku bankowego zawartej przez niego w imieniu komitetu wyborczego o wymaganym ustawą sposobie dokonywania wpłat na rzecz komitetu wyborczego oraz o dopuszczalnym źródle pozyskiwania środków finansowych przez komitet wyborczy, a także o dopuszczalnym terminie dokonywania wpłat.

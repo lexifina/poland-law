@@ -1,0 +1,13 @@
+## Rozdział 10b
+
+## Nadawanie numerów zarejestrowanym listom kandydatów
+
+# Art. 64m.
+
+Listy kandydatów zarejestrowane w wyborach do organów stanowiących jednostek samorządu terytorialnego otrzymują numery ustalane w drodze losowania przez:
+
+- 1) Państwową Komisję Wyborczą;
+
+- 2) komisarzy wyborczych;
+
+- 3) gminne komisje wyborcze.

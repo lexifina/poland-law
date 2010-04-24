@@ -1,0 +1,3 @@
+# Art. 83g.
+
+Komitety wyborcze prowadzą rachunkowość na zasadach określonych, w drodze rozporządzenia, przez ministra właściwego do spraw finansów publicznych, wydanego po zasięgnięciu opinii Państwowej Komisji Wyborczej, z tym że w stosunku do komitetu, który utworzony został wyłącznie w celu zgłoszenia kandydatów na radnych w gminie liczącej do 20 000 mieszkańców, minister właściwy do spraw finansów publicznych określi uproszczone zasady rachunkowości. W rozporządzeniu określa się w szczególności zasady dokumentowania i ewidencji przychodów, wydatków i zobowiązań finansowych komitetu wyborczego.

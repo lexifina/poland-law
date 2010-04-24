@@ -1,0 +1,5 @@
+# Art. 83b.
+
+1. Zabronione jest przekazywanie środków finansowych i wartości niepieniężnych przez jeden komitet wyborczy na rzecz innego komitetu wyborczego.
+
+2. Zabronione jest przeprowadzanie przez komitet wyborczy zbiórek publicznych.

@@ -1,0 +1,5 @@
+# Art. 202k.
+
+1. Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, nie dopuszcza do wykonywania lub utrudnia dopełnienie przez biegłego rewidenta obowiązków przy sporządzaniu opinii lub raportu dotyczącego sprawozdania finansowego - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. Jeżeli osoba, o której mowa w ust. 1, działa nieumyślnie - podlega grzywnie.
