@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/531",
+ "source_sha256": "62599440ea661337cc9494fc72b7bf0735d66ff211669f96ed639ce555008747",
+ "in_force": "2010-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/531",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/531/text/O/M20100531.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/531/text/I/M20100531.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/531",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 38,
+  "pos": 531,
+  "address": "WMP20100380531",
+  "displayAddress": "M.P. 2010 nr 38 poz. 531",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 23 kwietnia 2010 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-04-23",
+  "promulgation": "2010-05-19",
+  "changeDate": "2023-06-15T11:07:10",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100531.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100531.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
