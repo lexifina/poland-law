@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/583",
+ "source_sha256": "17a25d1b241ecd14791cc88a90dac30f084b080732d2d1fd182fe6c18702c3b4",
+ "in_force": "2010-05-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 460 words, parsed 292; at 292: 'orzeczenia o przepadku przedmiotów : a ) jest niezgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/583",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/583/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/583/text/O/D20100583.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/583/text/I/D20100583.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/583/text/T/D20100583TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/583",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 88,
+  "pos": 583,
+  "address": "WDU20100880583",
+  "displayAddress": "Dz.U. 2010 nr 88 poz. 583",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 maja 2010 r. sygn. akt SK 50/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-05-11",
+  "promulgation": "2010-05-25",
+  "entryIntoForce": "2010-05-25",
+  "validFrom": "2010-05-25",
+  "changeDate": "2024-04-25T09:58:27",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny skarbowy",
+   "porządkowanie prawa",
+   "karne skarbowe prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/930",
+     "date": "2010-05-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1999/930"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100583.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100583.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100583TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
