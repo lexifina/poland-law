@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/594",
+ "source_sha256": "6d1dbef6a07ec7518ef2e5397fedb85e0cb5434c0325429af5ab926263daec37",
+ "in_force": "2010-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/594",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/594/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/594/text/O/D20100594.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/594/text/I/D20100594.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/594/text/U/D20100594Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/594",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 90,
+  "pos": 594,
+  "address": "WDU20100900594",
+  "displayAddress": "Dz.U. 2010 nr 90 poz. 594",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 kwietnia 2010 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kosztach sądowych w sprawach cywilnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-04-27",
+  "promulgation": "2010-05-27",
+  "expirationDate": "2014-08-01",
+  "changeDate": "2024-03-14T20:26:35",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koszty sądowe w sprawach cywilnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1398"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100594.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100594.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100594Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
