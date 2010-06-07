@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/607",
+ "source_sha256": "6584169df78cb7bbfe0c3f02b5fbd2c34db3a0aef9578737724e58ca2c5b4151",
+ "in_force": "2010-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/607",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/607/text/O/M20100607.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/607/text/I/M20100607.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/607",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 42,
+  "pos": 607,
+  "address": "WMP20100420607",
+  "displayAddress": "M.P. 2010 nr 42 poz. 607",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 26 maja 2010 r. w sprawie wskaźnika cen dóbr inwestycyjnych za I kwartał 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-05-26",
+  "promulgation": "2010-06-07",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "prywatyzacja",
+   "inwestycje",
+   "komercjalizacja",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100607.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100607.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
