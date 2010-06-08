@@ -1,0 +1,1 @@
+§ 3. Na postanowienie sądu w przedmiocie przekazania przysługuje zażalenie. Zażalenie wnosi się w terminie 3 dni od dnia ogłoszenia postanowienia, a jeżeli osoba ścigana pozbawiona jest wolności i nie została sprowadzona na posiedzenie sądu - od dnia jego doręczenia. Art. 252 stosuje się odpowiednio.
