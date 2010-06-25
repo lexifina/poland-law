@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/747",
+ "source_sha256": "3dc036674f724a1f834f26c60125e4d72b107e328c84c6d8cff714fc8d107eb9",
+ "in_force": "2010-06-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 842 words, parsed 112; at 112: 'okręgu wyborczym nr 30 . Rozdział 1 Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/747",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/747/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/747/text/O/D20100747.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/747/text/I/D20100747.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/747",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 113,
+  "pos": 747,
+  "address": "WDU20101130747",
+  "displayAddress": "Dz.U. 2010 nr 113 poz. 747",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 21 czerwca 2010 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 20 czerwca 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-06-21",
+  "promulgation": "2010-06-25",
+  "changeDate": "2025-03-21T10:43:48",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/499"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/499",
+     "art": "art. 209"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100747.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100747.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
