@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/686",
+ "source_sha256": "064ab1172eea728fb0bfb23930c43b9c70212ccd738a149df3cd2320840ad392",
+ "in_force": "2010-07-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/686",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/686/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/686/text/O/D20100686.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/686/text/I/D20100686.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/686/text/T/D20100686L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/686/text/U/D20100686Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/686",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 108,
+  "pos": 686,
+  "address": "WDU20101080686",
+  "displayAddress": "Dz.U. 2010 nr 108 poz. 686",
+  "title": "Ustawa z dnia 20 maja 2010 r. o zmianie ustawy o Funduszu Kolejowym oraz ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego \"Polskie Koleje Państwowe\"",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-05-20",
+  "promulgation": "2010-06-18",
+  "entryIntoForce": "2010-07-03",
+  "validFrom": "2010-07-03",
+  "changeDate": "2024-03-14T20:26:06",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS TRANSPORTU"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "prywatyzacja",
+   "komercjalizacja"
+  ],
+  "keywordsNames": [
+   "Polskie Koleje Państwowe"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2967.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2967",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2967",
+    "number": "2967",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2009/134",
+     "date": "2011-01-04"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2010/1651",
+     "date": "2011-01-11"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/61",
+     "date": "2010-07-03"
+    },
+    {
+     "id": "DU/2000/948",
+     "date": "2010-07-03"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100686.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100686.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100686L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20100686Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
