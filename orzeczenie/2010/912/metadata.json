@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/912",
+ "source_sha256": "1c597780ecc378f301f583bcd7215e0e10f16a8792ee2a762de5f096ac5e1319",
+ "in_force": "2010-07-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 588 words, parsed 58; at 58: 'Sądu Rejonowego w Pabianicach : 1 ) czy art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/912",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/912/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/912/text/O/D20100912.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/912/text/I/D20100912.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/912/text/T/D20100912TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/912",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 135,
+  "pos": 912,
+  "address": "WDU20101350912",
+  "displayAddress": "Dz.U. 2010 nr 135 poz. 912",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 lipca 2010 r. sygn. akt P 4/10",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-07-12",
+  "promulgation": "2010-07-26",
+  "entryIntoForce": "2010-07-26",
+  "validFrom": "2010-07-26",
+  "changeDate": "2024-03-14T20:26:56",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks pracy",
+   "związki zawodowe"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1974/141",
+     "date": "2010-07-26"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1991/234"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100912.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100912.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100912TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
