@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/760",
+ "source_sha256": "1b1a1f2fd839caf40554c79bd336084843132a646555d55ab6a1433595bba7db",
+ "in_force": "2010-08-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/760",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/760/text/O/M20100760.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/760/text/I/M20100760.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/760",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 56,
+  "pos": 760,
+  "address": "WMP20100560760",
+  "displayAddress": "M.P. 2010 nr 56 poz. 760",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 4 sierpnia 2010 r. w sprawie powołania członków Krajowej Rady Radiofonii i Telewizji",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-08-04",
+  "promulgation": "2010-08-13",
+  "entryIntoForce": "2010-08-04",
+  "validFrom": "2010-08-04",
+  "changeDate": "2018-02-02T12:04:44",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 26 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 214 ust. 1"
+    },
+    {
+     "id": "DU/1993/34",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100760.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100760.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
