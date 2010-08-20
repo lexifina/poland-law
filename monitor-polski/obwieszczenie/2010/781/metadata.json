@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/781",
+ "source_sha256": "17527747fb98d63b9fc3aacf88f5d65e65ae75b765e10c4d97dd2c9b90596e77",
+ "in_force": "2010-08-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/781",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/781/text/O/M20100781.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/781/text/I/M20100781.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/781",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 59,
+  "pos": 781,
+  "address": "WMP20100590781",
+  "displayAddress": "M.P. 2010 nr 59 poz. 781",
+  "title": "Obwieszczenie Ministra Finansów z dnia 6 sierpnia 2010 r. w sprawie wysokości kwoty wymienionej w art. 41 par. 1 ustawy - Ordynacja podatkowa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-08-06",
+  "promulgation": "2010-08-20",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zastaw skarbowy",
+   "podatki",
+   "ordynacja podatkowa",
+   "zaległości podatkowe"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 119 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100781.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100781.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
