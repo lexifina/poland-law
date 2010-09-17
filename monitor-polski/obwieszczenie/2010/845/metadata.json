@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/845",
+ "source_sha256": "0620615c950349f391eba5badbe1b795b046c61b7f460cbdc6c819c2423bdc66",
+ "in_force": "2010-09-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/845",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/845/text/O/M20100845.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/845/text/I/M20100845.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/845",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 65,
+  "pos": 845,
+  "address": "WMP20100650845",
+  "displayAddress": "M.P. 2010 nr 65 poz. 845",
+  "title": "Obwieszczenie Prezesa Kasy Rolniczego Ubezpieczenia Społecznego z dnia 9 września 2010 r. w sprawie miesięcznej wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w IV kwartale 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-09-09",
+  "promulgation": "2010-09-17",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "rolnicy",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/24"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/24",
+     "art": "art. 8 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20100845.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20100845.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
