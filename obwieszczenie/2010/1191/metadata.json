@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1191",
+ "source_sha256": "9a1c8d494e4e2b882042526aa756554665545fea373314fb3049d279720e2105",
+ "in_force": "2010-09-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1191",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1191/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1191/text/O/D20101191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1191/text/I/D20101191.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1191/text/T/D20101191L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1191",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 176,
+  "pos": 1191,
+  "address": "WDU20101761191",
+  "displayAddress": "Dz.U. 2010 nr 176 poz. 1191",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 września 2010 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-09-14",
+  "promulgation": "2010-09-27",
+  "repealDate": "2011-08-01",
+  "changeDate": "2024-03-14T20:26:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samorząd terytorialny",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 28-98 ustawy",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/113",
+     "date": "2011-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/984"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101191.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101191L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
