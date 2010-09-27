@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1190",
+ "source_sha256": "dce5f4c405e5c7c19e5ca56f5ff49ced02813b3b8f56e0ccdc4c30ecca99a5c2",
+ "in_force": "2010-09-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1190",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1190/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1190/text/O/D20101190.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1190/text/I/D20101190.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1190/text/T/D20101190L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/1190/text/U/D20101190Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1190",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 176,
+  "pos": 1190,
+  "address": "WDU20101761190",
+  "displayAddress": "Dz.U. 2010 nr 176 poz. 1190",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 września 2010 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-09-14",
+  "promulgation": "2010-09-27",
+  "repealDate": "2011-08-01",
+  "changeDate": "2024-03-14T20:26:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "ordynacja wyborcza",
+   "powiaty",
+   "województwa",
+   "sejmiki samorządowe",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 207-211 ustawy",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2011/113",
+     "date": "2011-08-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1998/602"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101190.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101190.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101190L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20101190Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
