@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1273",
+ "source_sha256": "8ba472f075429d8da6d86d2b8f156fbd773339e5b162d50ad0e873e3ef828ff2",
+ "in_force": "2010-10-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 453 words, parsed 274; at 274: 'w wypadku , gdy : a ) dla sądu orzekającego'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1273",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1273/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1273/text/O/D20101273.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1273/text/I/D20101273.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1273/text/T/D20101273TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1273",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 189,
+  "pos": 1273,
+  "address": "WDU20101891273",
+  "displayAddress": "Dz.U. 2010 nr 189 poz. 1273",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 5 października 2010 r. sygn. akt SK 26/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-10-05",
+  "promulgation": "2010-10-11",
+  "entryIntoForce": "2010-10-11",
+  "validFrom": "2010-10-11",
+  "changeDate": "2024-03-14T20:26:42",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101273.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101273.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101273TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
