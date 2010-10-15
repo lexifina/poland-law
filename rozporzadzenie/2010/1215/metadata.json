@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1215",
+ "source_sha256": "8750d002e917d3db98194bcf408fe8e974c72bf516680b98bf4ce066b88534d2",
+ "in_force": "2010-10-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1215",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1215/text/O/D20101215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1215/text/I/D20101215.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1215",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 180,
+  "pos": 1215,
+  "address": "WDU20101801215",
+  "displayAddress": "Dz.U. 2010 nr 180 poz. 1215",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 16 września 2010 r. w sprawie wykazu zalecanych szczepień ochronnych oraz sposobu finansowania i dokumentowania zalecanych szczepień ochronnych wymaganych międzynarodowymi przepisami zdrowotnymi",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-09-16",
+  "promulgation": "2010-09-30",
+  "entryIntoForce": "2010-10-15",
+  "validFrom": "2010-10-15",
+  "repealDate": "2023-10-01",
+  "changeDate": "2023-10-02T10:27:29",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "choroby zakaźne",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2008/1570"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2008/1570",
+     "art": "art. 19 ust. 10"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2023/1938",
+     "date": "2023-10-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20101215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101215.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
