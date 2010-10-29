@@ -1,0 +1,23 @@
+Trybunał Konstytucyjny w składzie:
+
+Marian Grzybowski - przewodniczący,
+
+Wojciech Hermeliński - sprawozdawca,
+
+Marek Mazurkiewicz,
+
+Andrzej Rzepliński,
+
+Mirosław Wyrzykowski,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 19 października 2010 r., pytania prawnego Wojewódzkiego Sądu Administracyjnego w Warszawie, czy art. 6 ust. 7 ustawy z dnia 29 lipca 2005 r. o sporcie kwalifikowanym (Dz. U. Nr 155, poz. 1298, ze zm.) jest zgodny z art. 2, art. 10 ust. 1, art. 31 ust. 1-3, art. 173 oraz art. 184 Konstytucji,
+
+orzeka:
+
+Art. 6 ust. 7 ustawy z dnia 29 lipca 2005 r. o sporcie kwalifikowanym (Dz. U. Nr 155, poz. 1298, z 2006 r. Nr 64, poz. 448 i Nr 136, poz. 970 oraz z 2007 r. Nr 34, poz. 206 i Nr 171, poz. 1208) jest zgodny z art. 31 ust. 1-2 i art. 184 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 10 w związku z art. 173 Konstytucji.
+
+Ponadto postanawia:
+
+na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375) umorzyć postępowanie w pozostałym zakresie.
