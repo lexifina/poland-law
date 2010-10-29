@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1343",
+ "source_sha256": "657b0756585e49be0333b68d58a4075da1148bd50a1d598584794b6d4131320d",
+ "in_force": "2010-10-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 341 words, parsed 113; at 113: '210 Konstytucji , orzeka : I . Art . 20'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1343",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1343/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1343/text/O/D20101343.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1343/text/I/D20101343.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1343/text/T/D20101343TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1343",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 202,
+  "pos": 1343,
+  "address": "WDU20102021343",
+  "displayAddress": "Dz.U. 2010 nr 202 poz. 1343",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 października 2010 r. sygn. akt K 35/09",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-10-19",
+  "promulgation": "2010-10-29",
+  "entryIntoForce": "2010-10-29",
+  "validFrom": "2010-10-29",
+  "changeDate": "2024-03-14T20:26:28",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny",
+   "Rzecznik Praw Obywatelskich"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1987/123",
+     "date": "2011-10-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1987/123"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101343.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101343.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101343TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
