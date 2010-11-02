@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1351",
+ "source_sha256": "d8984fbeee87d6fee787fee238c37a37cc2f98ff9d00753ee31088a878dd5b55",
+ "in_force": "2010-11-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 160 words, parsed 104; at 104: '4 powinien mieć brzmienie : „ 4 ) ¹⁰ )'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1351",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1351/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1351/text/O/D20101351.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1351/text/I/D20101351.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1351",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 203,
+  "pos": 1351,
+  "address": "WDU20102031351",
+  "displayAddress": "Dz.U. 2010 nr 203 poz. 1351",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 października 2010 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-10-27",
+  "promulgation": "2010-11-02",
+  "changeDate": "2024-03-14T20:26:39",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2010/1243"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101351.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101351.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
