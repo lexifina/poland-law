@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1337",
+ "source_sha256": "27f7b5cadb9b6d59cd78af0dfa4265dcb855f86b0afce30daf0248b6a8dc1576",
+ "in_force": "2010-11-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1337",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1337/text/O/D20101337.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1337/text/I/D20101337.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1337",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 202,
+  "pos": 1337,
+  "address": "WDU20102021337",
+  "displayAddress": "Dz.U. 2010 nr 202 poz. 1337",
+  "title": "Rozporządzenie Ministra Finansów z dnia 13 października 2010 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom celnym",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2010-10-13",
+  "promulgation": "2010-10-29",
+  "entryIntoForce": "2010-11-13",
+  "validFrom": "2010-11-13",
+  "repealDate": "2021-11-20",
+  "changeDate": "2021-11-22T10:32:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "funkcjonariusz celny",
+   "mienie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2021/2004",
+     "date": "2021-11-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2009/1323"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/548"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/548",
+     "art": "art. 10 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20101337.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101337.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
