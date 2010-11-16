@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1418",
+ "source_sha256": "7b46f92dcb897c976bf0d3bc51a7d5db1f0dd45fe4678ccf86f4cf78efdeebfe",
+ "in_force": "2010-11-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 433 words, parsed 193; at 193: '1 Konstytucji , orzeka : I . Art . 1046'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1418",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1418/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1418/text/O/D20101418.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1418/text/I/D20101418.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1418/text/T/D20101418TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1418",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 215,
+  "pos": 1418,
+  "address": "WDU20102151418",
+  "displayAddress": "Dz.U. 2010 nr 215 poz. 1418",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 4 listopada 2010 r. sygn. akt K 19/06",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-11-04",
+  "promulgation": "2010-11-16",
+  "entryIntoForce": "2010-11-16",
+  "validFrom": "2010-11-16",
+  "changeDate": "2024-03-14T20:25:46",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2011-11-17"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101418.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101418.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101418TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
