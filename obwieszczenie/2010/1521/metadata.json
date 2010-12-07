@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1521",
+ "source_sha256": "191e3bd21f7e209ccdca1b4e14b48ed85ea34f30435cc12030a21df4601956d0",
+ "in_force": "2010-12-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 989 words, parsed 120; at 120: '5 grudnia 2010 r . Rozdział 1 Głosowanie w dniu'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1521",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1521/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1521/text/O/D20101521.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1521/text/I/D20101521.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1521",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 230,
+  "pos": 1521,
+  "address": "WDU20102301521",
+  "displayAddress": "Dz.U. 2010 nr 230 poz. 1521",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 6 grudnia 2010 r. o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r. oraz w dniu 5 grudnia 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-12-06",
+  "promulgation": "2010-12-07",
+  "changeDate": "2024-03-14T20:26:50",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "samorząd terytorialny",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/984"
+    },
+    {
+     "id": "DU/1998/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/984",
+     "art": "art. 2 ust. 2"
+    },
+    {
+     "id": "DU/1998/602",
+     "art": "art. 184 ust. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101521.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101521.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
