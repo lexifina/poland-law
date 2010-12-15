@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2010/1111",
+ "source_sha256": "5ce4b50c4b3968af082f275d374aac610d7792f70478294a98c097cb9e5c1324",
+ "in_force": "2010-12-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2010/1111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2010/1111/text/O/M20101111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2010/1111/text/I/M20101111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2010/1111",
+  "publisher": "MP",
+  "year": 2010,
+  "volume": 96,
+  "pos": 1111,
+  "address": "WMP20100961111",
+  "displayAddress": "M.P. 2010 nr 96 poz. 1111",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 7 października 2010 r. nr 115-5-10 w sprawie nadania tytułu profesora",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-10-07",
+  "promulgation": "2010-12-15",
+  "changeDate": "2018-09-07T12:05:45",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/595"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/595",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20101111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20101111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
