@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1653",
+ "source_sha256": "75e0aa1735b3664af828ef4913c888562a8c95d8f2ebafb0842117d33554c9a7",
+ "in_force": "2010-12-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 305 words, parsed 123; at 123: 'zmianę jednego z kandydatów . Rozdział 1 Odroczone ponowne głosowanie'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1653",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1653/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1653/text/O/D20101653.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1653/text/I/D20101653.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1653",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 247,
+  "pos": 1653,
+  "address": "WDU20102471653",
+  "displayAddress": "Dz.U. 2010 nr 247 poz. 1653",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 20 grudnia 2010 r. uzupełniające obwieszczenie o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r. oraz w dniu 5 grudniu 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-12-20",
+  "promulgation": "2010-12-27",
+  "changeDate": "2024-03-14T20:25:36",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja wyborcza"
+  ],
+  "keywordsNames": [
+   "Państwowa Komisja Wyborcza"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/984"
+    },
+    {
+     "id": "DU/1998/602"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/984",
+     "art": "art. 2 ust. 2"
+    },
+    {
+     "id": "DU/1998/602",
+     "art": "art. 184 ust. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101653.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101653.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
