@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1702",
+ "source_sha256": "085ae867bbe1ab3833e5ac9a708c2c921ad6c68b8bc930fd074bd5ae92964da4",
+ "in_force": "2011-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1702",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1702/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1702/text/O/D20101702.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1702/text/I/D20101702.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1702/text/T/D20101702L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1702",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 254,
+  "pos": 1702,
+  "address": "WDU20102541702",
+  "displayAddress": "Dz.U. 2010 nr 254 poz. 1702",
+  "title": "Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o partiach politycznych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-12-16",
+  "promulgation": "2010-12-30",
+  "entryIntoForce": "2011-01-01",
+  "validFrom": "2011-01-01",
+  "changeDate": "2024-03-14T20:26:12",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "partie polityczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/3568.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/3568",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/3568",
+    "number": "3568",
+    "term": 6
+   }
+  ],
+  "comments": "objęte tekstem jednolitym z dniem 29 czerwca 2011 r. (Dz. U. 2011 Nr 155, poz. 924)",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2008/1301",
+     "date": "2011-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/604",
+     "date": "2011-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101702.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101702.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101702L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
