@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/1476",
+ "source_sha256": "58c5f085446815d254b579798141cf294acc0d941adc8d5d45cd19eb3636b32d",
+ "in_force": "2011-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/1476",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/1476/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/1476/text/O/D20101476.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/1476/text/I/D20101476.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/1476/text/T/D20101476L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/1476",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 226,
+  "pos": 1476,
+  "address": "WDU20102261476",
+  "displayAddress": "Dz.U. 2010 nr 226 poz. 1476",
+  "title": "Ustawa z dnia 29 października 2010 r. o zmianie ustawy o podatku od towarów i usług",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-10-29",
+  "promulgation": "2010-11-30",
+  "entryIntoForce": "2011-01-01",
+  "validFrom": "2011-01-01",
+  "changeDate": "2024-03-14T20:25:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/3205.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/3205",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/3205",
+    "number": "3205",
+    "term": 6
+   }
+  ],
+  "comments": "art. 2 wchodzi w życie z dniem 30 listopada 2010 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/535",
+     "date": "2011-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20101476.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20101476.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20101476L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
