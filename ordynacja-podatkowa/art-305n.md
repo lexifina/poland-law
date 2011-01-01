@@ -15,3 +15,7 @@
 § 2. Informacje przekazuje się przynajmniej raz w roku w terminie 6 miesięcy od zakończenia roku podatkowego podmiotu wypłacającego przychody (dochody).
 
 § 3. Minister właściwy do spraw finansów publicznych, w celu usprawnienia współpracy, może zawierać z właściwymi władzami państw i terytoriów, o których mowa w § 1, porozumienia dwustronne lub wielostronne w zakresie szczegółowych zasad i trybu wymiany informacji.
+
+§ 4. Minister właściwy do spraw finansów publicznych może upoważnić podległy mu organ podatkowy do przekazywania informacji, o których mowa w § 1.
+
+§ 5. Minister właściwy do spraw finansów publicznych może upoważnić podległy mu organ podatkowy do otrzymywania informacji od władz państwa członkowskiego Unii Europejskiej lub terytoriów, o których mowa w § 1 pkt 2.

@@ -17,3 +17,5 @@
 § 3. Nadpłata, której wysokość nie przekracza kosztów upomnienia w postępowaniu egzekucyjnym, podlega zwrotowi wyłącznie w kasie.
 
 § 4. Nadpłata zwracana przekazem pocztowym jest pomniejszana o koszty jej zwrotu.
+
+§ 5. Przepisy § 1-4 stosuje się odpowiednio do osób, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki.
