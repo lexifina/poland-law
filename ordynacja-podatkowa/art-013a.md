@@ -12,4 +12,4 @@ Rada Ministrów może, w drodze rozporządzenia, nadać uprawnienia organów pod
 
 - 5) Szefowi Służby Kontrwywiadu Wojskowego
 
-- jeżeli jest to uzasadnione ochroną tajemnicy państwowej i wymogami bezpieczeństwa państwa.
+- jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa.
