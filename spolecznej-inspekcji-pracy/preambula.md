@@ -1,0 +1,1 @@
+W trosce o systematyczną poprawę stanu bezpieczeństwa i higieny pracy oraz w celu zapewnienia związkom zawodowym niezbędnych warunków do sprawowania skutecznej kontroli przestrzegania przepisów prawa pracy stanowi się, co następuje:
