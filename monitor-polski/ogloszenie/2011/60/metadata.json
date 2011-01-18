@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/60",
+ "source_sha256": "2a6016efa6155ab84304440338cc54fc1ac2d960611d6043c7f1f940541c8d10",
+ "in_force": "2011-01-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/60",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/60/text/O/M20110060.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/60/text/I/M20110060.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/60",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 4,
+  "pos": 60,
+  "address": "WMP20110040060",
+  "displayAddress": "M.P. 2011 nr 4 poz. 60",
+  "title": "Ogłoszenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 5 stycznia 2011 r. o możliwości uzyskania koncesji na rozpowszechnianie programu telewizyjnego",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-01-05",
+  "promulgation": "2011-01-18",
+  "changeDate": "2019-04-10T09:07:02",
+  "releasedBy": [
+   "PRZEW. KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "koncesje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/34",
+     "art": "art. 34 ust. 1 oraz ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110060.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110060.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
