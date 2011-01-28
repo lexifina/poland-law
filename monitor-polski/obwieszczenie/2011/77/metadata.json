@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/77",
+ "source_sha256": "841b960cffff0f38b3b0a40c5f3be0e604f9151db0628afd0a7a8df12cee8ca4",
+ "in_force": "2011-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/77",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/77/text/O/M20110077.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/77/text/I/M20110077.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/77",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 8,
+  "pos": 77,
+  "address": "WMP20110080077",
+  "displayAddress": "M.P. 2011 nr 8 poz. 77",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 19 stycznia 2011 r. w sprawie średniej krajowej ceny skupu pszenicy w II półroczu 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-01-19",
+  "promulgation": "2011-01-28",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty rolne",
+   "ceny",
+   "zboża",
+   "rolnictwo",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110077.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110077.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
