@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/79",
+ "source_sha256": "c6dcc3bf139a72b0472a135bbb5c5a98d7cd990a5b5c80fb1d337acaa18d3929",
+ "in_force": "2011-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/79",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/79/text/O/M20110079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/79/text/I/M20110079.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/79",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 8,
+  "pos": 79,
+  "address": "WMP20110080079",
+  "displayAddress": "M.P. 2011 nr 8 poz. 79",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 19 stycznia 2011 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w grudniu 2010 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-01-19",
+  "promulgation": "2011-01-28",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "wynagrodzenia",
+   "wynagrodzenia przeciętne",
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/1188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/1188",
+     "art": "art. 68 ust. 3 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110079.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
