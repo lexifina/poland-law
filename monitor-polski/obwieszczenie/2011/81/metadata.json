@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/81",
+ "source_sha256": "b31be24391e616d85559afffd4cde2e9d2c15179973226d364620466b0338b4d",
+ "in_force": "2011-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/81",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/81/text/O/M20110081.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/81/text/I/M20110081.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/81",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 8,
+  "pos": 81,
+  "address": "WMP20110080081",
+  "displayAddress": "M.P. 2011 nr 8 poz. 81",
+  "title": "Obwieszczenie Pierwszego Prezesa Sądu Najwyższego z dnia 24 stycznia 2011 r. o liczbie, przewidzianych do objęcia, stanowisk sędziego Sądu Najwyższego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-01-24",
+  "promulgation": "2011-01-28",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PIERWSZY PREZES SĄDU NAJWYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 24 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110081.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110081.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
