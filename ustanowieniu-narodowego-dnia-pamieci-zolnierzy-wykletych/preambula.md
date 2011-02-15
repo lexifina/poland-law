@@ -1,0 +1,1 @@
+W hołdzie „Żołnierzom Wyklętym” - bohaterom antykomunistycznego podziemia, którzy w obronie niepodległego bytu Państwa Polskiego, walcząc o prawo do samostanowienia i urzeczywistnienie dążeń demokratycznych społeczeństwa polskiego, z bronią w ręku, jak i w inny sposób, przeciwstawili się sowieckiej agresji i narzuconemu siłą reżimowi komunistycznemu - stanowi się, co następuje:
