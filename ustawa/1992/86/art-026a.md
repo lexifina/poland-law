@@ -1,0 +1,3 @@
+# Art. 26a.
+
+W terminie do końca pierwszego miesiąca roku następującego po roku podatkowym, w którym powstał obowiązek zapłaty podatku, płatnicy, o których mowa w art. 26, i podatnicy, o których mowa w art. 22 ust. 4b, art. 25a oraz art. 26 ust. 1b i 4, są obowiązani przesłać do urzędu skarbowego, którym kieruje naczelnik urzędu skarbowego właściwy według siedziby podatnika, a w przypadku podatników wymienionych w art. 3 ust. 2 - do urzędu skarbowego, którym kieruje naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych, roczne deklaracje sporządzone według ustalonego wzoru.

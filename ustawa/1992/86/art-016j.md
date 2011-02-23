@@ -1,18 +1,26 @@
 # Art. 16j.
 
-1. Podatnicy, z zastrzeżeniem art. 16l, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji, z tym że okres amortyzacji nie może być krótszy niż:
+1. Podatnicy, z zastrzeżeniem art. 16l, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji danego podatnika, z tym że okres amortyzacji nie może być krótszy niż:
 
-- 1) dla środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji:
+- 1) dla środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji;
 
   - a) 24 miesiące - gdy ich wartość początkowa nie przekracza 25 000 zł,
 
   - b) 36 miesięcy - gdy ich wartość początkowa jest wyższa od 25 000 zł i nie przekracza 50 000 zł,
 
-  - c) 60 miesięcy - w pozostałych przypadkach,
+  - c) 60 miesięcy - w pozostałych przypadkach;
 
-- 2) dla środków transportu, w tym samochodów osobowych - 30 miesięcy,
+- 2) dla środków transportu, w tym samochodów osobowych - 30 miesięcy;
 
-- 3) dla budynków i budowli - 10 lat, z wyjątkiem budynków wymienionych w poz. 03 i 62 Wykazu stawek amortyzacyjnych, dla których okres ten nie może być krótszy niż 36 miesięcy.
+- 3) dla budynków (lokali) i budowli, innych niż wymienione w pkt 4-10 lat, z wyjątkiem;
+
+  - a) trwale związanych z gruntem budynków handlowo-usługowych wymienionych w rodzaju 103 Klasyfikacji i innych budynków niemieszkalnych wymienionych w rodzaju 109 Klasyfikacji trwale związanych z gruntem,
+
+  - b) kiosków towarowych o kubaturze poniżej 500 m³, domków kempingowych i budynków zastępczych
+
+  - dla których okres amortyzacji nie może być krótszy niż 3 lata;
+
+- 4) dla budynków (lokali) niemieszkalnych, dla których stawka amortyzacyjna z Wykazu stawek amortyzacyjnych wynosi 2,5% - 40 lat pomniejszone o pełną liczbę lat, które upłynęły od dnia ich oddania po raz pierwszy do używania do dnia wprowadzenia do ewidencji środków trwałych oraz wartości niematerialnych i prawnych prowadzonej przez podatnika, z tym że okres amortyzacji nie może być krótszy niż 10 lat.
 
 2. Środki trwałe, o których mowa w ust. 1 pkt 1 i 2, uznaje się za:
 
@@ -28,8 +36,8 @@
 
 4. Podatnicy mogą indywidualnie ustalić stawki amortyzacyjne dla przyjętych do używania inwestycji w obcych środkach trwałych, z tym że dla:
 
-- 1) inwestycji w obcych budynkach (lokalach) lub budowlach okres amortyzacji nie może być krótszy niż 10 lat,
+- 1) inwestycji w obcych budynkach (lokalach) lub budowlach okres amortyzacji nie może być krótszy niż 10 lat;
 
 - 2) inwestycji w obcych środkach trwałych innych niż wymienione w pkt 1 okres amortyzacji ustala się według zasad określonych w ust. 1 pkt 1 i 2.
 
-5. Przepisów ust. 1, 2 i ust. 4 pkt 2 nie stosuje się do samochodów osobowych ulepszonych, po raz pierwszy wprowadzonych do ewidencji.
+5. (uchylony).

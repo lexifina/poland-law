@@ -1,3 +1,3 @@
 # Art. 18a.
 
-(skreślony).
+(uchylony).
