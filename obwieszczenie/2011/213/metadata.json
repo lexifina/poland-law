@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/213",
+ "source_sha256": "7a945890a53c4186192a5ef008e766994e90c1289506d8cd15f9c030afefbb2e",
+ "in_force": "2011-02-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/213",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/213/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/213/text/O/D20110213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/213/text/I/D20110213.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/213/text/T/D20110213L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/213/text/U/D20110213Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/213",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 41,
+  "pos": 213,
+  "address": "WDU20110410213",
+  "displayAddress": "Dz.U. 2011 nr 41 poz. 213",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 stycznia 2011 r. w sprawie ogłoszenia jednolitego tekstu ustawy o doradztwie podatkowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-01-20",
+  "promulgation": "2011-02-25",
+  "expirationDate": "2016-06-07",
+  "changeDate": "2024-03-14T21:38:08",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "doradztwo podatkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym nie obejmuje art. 83, 88, 92, 93",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1996/475"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110213.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110213L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20110213Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
