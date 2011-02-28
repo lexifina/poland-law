@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/162",
+ "source_sha256": "4d4e478d56e1259e846c04328178f6d4c5c92e5f42919bc92184aa31a30cfeb9",
+ "in_force": "2011-02-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/162",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/162/text/O/M20110162.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/162/text/I/M20110162.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/162",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 15,
+  "pos": 162,
+  "address": "WMP20110150162",
+  "displayAddress": "M.P. 2011 nr 15 poz. 162",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 lutego 2011 r. w sprawie kwoty najniższej emerytury i renty, dodatku pielęgnacyjnego i dodatku dla sierot zupełnych oraz kwot maksymalnych zmniejszeń emerytur i rent",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-02-16",
+  "promulgation": "2011-02-28",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110162.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110162.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
