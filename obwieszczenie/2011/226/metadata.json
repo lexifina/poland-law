@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/226",
+ "source_sha256": "367bd15f2e8c45a9c1a355ff4a7f690c80c636f99ef3be1089d4e2ff9c2c0ef6",
+ "in_force": "2011-03-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/226",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/226/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/226/text/O/D20110226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/226/text/I/D20110226.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/226/text/U/D20110226Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/226",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 43,
+  "pos": 226,
+  "address": "WDU20110430226",
+  "displayAddress": "Dz.U. 2011 nr 43 poz. 226",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 lutego 2011 r. w sprawie ogłoszenia jednolitego tekstu ustawy o radiofonii i telewizji",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-02-18",
+  "promulgation": "2011-03-01",
+  "expirationDate": "2015-10-02",
+  "changeDate": "2024-03-14T21:38:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1993/34"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110226.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110226Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
