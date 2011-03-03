@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/236",
+ "source_sha256": "7a9c6acd3710c4542513a6502573d7d8cec9ca08bb27b196fcc1136167453c18",
+ "in_force": "2011-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/236",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/236/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/236/text/O/D20110236.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/236/text/I/D20110236.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/236/text/T/D20110236L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/236/text/U/D20110236Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/236",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 45,
+  "pos": 236,
+  "address": "WDU20110450236",
+  "displayAddress": "Dz.U. 2011 nr 45 poz. 236",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 lutego 2011 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce komunalnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-02-18",
+  "promulgation": "2011-03-03",
+  "expirationDate": "2016-04-26",
+  "changeDate": "2024-03-14T21:38:56",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komunalna gospodarka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/43"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110236.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110236.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110236L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20110236Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
