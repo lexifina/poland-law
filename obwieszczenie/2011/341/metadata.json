@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/341",
+ "source_sha256": "6a9ea033f0733adb3e64515e6cca1a89f817dd6d3776b15934b042294c5a9dea",
+ "in_force": "2011-03-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 189 words, parsed 98; at 98: 'w art . 68 : 1 ) w ust .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/341",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/341/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/341/text/O/D20110341.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/341/text/I/D20110341.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/341",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 64,
+  "pos": 341,
+  "address": "WDU20110640341",
+  "displayAddress": "Dz.U. 2011 nr 64 poz. 341",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 marca 2011 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-03-09",
+  "promulgation": "2011-03-28",
+  "changeDate": "2024-03-14T21:38:54",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cywilne prawo",
+   "sprostowanie",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2010/651"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110341.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110341.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
