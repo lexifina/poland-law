@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Zbigniew Cieślak - przewodniczący,
+
+Maria Gintowt-Jankowicz - sprawozdawca,
+
+Wojciech Hermeliński,
+
+Marek Kotlinowski,
+
+Stanisław Rymar,
+
+protokolant: Grażyna Szałygo,
+
+po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 1 marca 2011 r., pytania prawnego Sądu Rejonowego w Toruniu, czy art. 95 ust. 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, ze zm.) w brzmieniu nadanym ustawą z dnia 26 czerwca 2009 r. o zmianie ustawy o księgach wieczystych i hipotece oraz niektórych innych ustaw (Dz. U. Nr 131, poz. 1075), w związku z art. 244 § 1 i art. 252 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w zakresie, w jakim nadaje moc prawną dokumentu urzędowego wyciągom z ksiąg rachunkowych banku w postępowaniu cywilnym, jest zgodny z art. 2, art. 20, art. 32 ust. 1 zdanie pierwsze i art. 76 Konstytucji,
+
+orzeka:
+
+Art. 95 ust. 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045, Nr 131, poz. 1075, Nr 144, poz. 1176, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 40, poz. 226, Nr 81, poz. 530, Nr 126, poz. 853, Nr 182, poz. 1228 i Nr 257, poz. 1724) w brzmieniu nadanym ustawą z dnia 26 czerwca 2009 r. o zmianie ustawy o księgach wieczystych i hipotece oraz niektórych innych ustaw (Dz. U. Nr 131, poz. 1075), w związku z art. 244 § 1 i art. 252 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w części, w jakiej nadaje moc prawną dokumentu urzędowego księgom rachunkowym i wyciągom z ksiąg rachunkowych banku w odniesieniu do praw i obowiązków wynikających z czynności bankowych w postępowaniu cywilnym prowadzonym wobec konsumenta, jest niezgodny z art. 2, art. 32 ust. 1 zdanie pierwsze i art. 76 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 20 Konstytucji.
