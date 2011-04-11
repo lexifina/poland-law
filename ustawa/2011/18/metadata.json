@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/18",
+ "source_sha256": "735b351a84291bf69b5aeaff62c6fe231d59446972782f99302135e16fa6b6fd",
+ "in_force": "2011-04-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/18",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/18/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/18/text/O/D20110018.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/18/text/I/D20110018.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/18/text/T/D20110018L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/18/text/U/D20110018Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/18",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 6,
+  "pos": 18,
+  "address": "WDU20110060018",
+  "displayAddress": "Dz.U. 2011 nr 6 poz. 18",
+  "title": "Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-12-03",
+  "promulgation": "2011-01-10",
+  "entryIntoForce": "2011-04-11",
+  "validFrom": "2011-04-11",
+  "changeDate": "2024-03-14T21:38:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "administracyjne postępowanie",
+   "kodeks postępowania administracyjnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2987.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2987",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2987",
+    "number": "2987",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2011/409",
+     "date": "2011-04-11"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/1270",
+     "date": "2011-04-11"
+    },
+    {
+     "id": "DU/1960/168",
+     "date": "2011-04-11"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110018.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110018.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110018L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20110018Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
