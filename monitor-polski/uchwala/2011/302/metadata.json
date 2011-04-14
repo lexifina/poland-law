@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/302",
+ "source_sha256": "b24b12e0507b28680136decc9b637adf22219ae022e465929f55e499bce3af85",
+ "in_force": "2011-04-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/302/text/O/M20110302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/302/text/I/M20110302.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/302",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 28,
+  "pos": 302,
+  "address": "WMP20110280302",
+  "displayAddress": "M.P. 2011 nr 28 poz. 302",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 25 marca 2011 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Tomasza Górskiego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-03-25",
+  "promulgation": "2011-04-14",
+  "changeDate": "2026-10-06T14:19:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
