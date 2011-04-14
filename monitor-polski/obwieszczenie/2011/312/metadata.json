@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/312",
+ "source_sha256": "89c3ebaacc1725e0a1ab40d575d8b0e4fe63fbd9e5ea7d050312160399016d72",
+ "in_force": "2011-04-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/312/text/O/M20110312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/312/text/I/M20110312.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/312",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 28,
+  "pos": 312,
+  "address": "WMP20110280312",
+  "displayAddress": "M.P. 2011 nr 28 poz. 312",
+  "title": "Obwieszczenie Prokuratora Generalnego z dnia 28 marca 2011 r. o wolnych stanowiskach prokuratorskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-03-28",
+  "promulgation": "2011-04-14",
+  "changeDate": "2019-03-25T11:56:34",
+  "releasedBy": [
+   "PROKURATOR GENERALNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 14b ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110312.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
