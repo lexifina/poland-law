@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/430",
+ "source_sha256": "88d5d42871467a238d1dbc458d90c0a249eda4ea56c901256eea5229a5590fc8",
+ "in_force": "2011-04-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/430",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/430/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/430/text/O/D20110430.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/430/text/I/D20110430.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/430/text/T/D20110430L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/430/text/U/D20110430Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/430",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 79,
+  "pos": 430,
+  "address": "WDU20110790430",
+  "displayAddress": "Dz.U. 2011 nr 79 poz. 430",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 marca 2011 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-03-16",
+  "promulgation": "2011-04-14",
+  "expirationDate": "2017-10-26",
+  "changeDate": "2024-03-14T21:37:36",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "kierownicze stanowiska państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1981/101"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110430.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110430.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110430L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20110430Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
