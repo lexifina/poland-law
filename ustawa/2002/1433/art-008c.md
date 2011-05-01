@@ -1,0 +1,3 @@
+# Art. 8c.
+
+Karty charakterystyki sporządza się dla produktów biobójczych oraz substancji czynnych wchodzących w skład produktu biobójczego na zasadach określonych w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 1907/2006”.
