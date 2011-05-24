@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/613",
+ "source_sha256": "ef1b5b20138bae8117b9d402c457188ba84c3fd27258d1109f98f92c06fbb7c0",
+ "in_force": "2011-05-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/613",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/613/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/613/text/O/D20110613.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/613/text/I/D20110613.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/613/text/T/D20110613L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/613",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 105,
+  "pos": 613,
+  "address": "WDU20111050613",
+  "displayAddress": "Dz.U. 2011 nr 105 poz. 613",
+  "title": "Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy o ustanowieniu programu wieloletniego \"Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2010\"",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-04-01",
+  "promulgation": "2011-05-24",
+  "entryIntoForce": "2011-05-24",
+  "validFrom": "2011-01-01",
+  "changeDate": "2024-03-14T21:38:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "programy wieloletnie",
+   "wodne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/3814.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/3814",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/3814",
+    "number": "3814",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/784",
+     "date": "2011-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110613.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110613.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110613L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
