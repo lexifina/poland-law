@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/625",
+ "source_sha256": "47cfc55b3ac3a782e73194e4085725e5bc9cf3a541e9b961c12cc93b8859d4fe",
+ "in_force": "2011-05-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/625",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/625/text/O/D20110625.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/625/text/I/D20110625.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/625",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 107,
+  "pos": 625,
+  "address": "WDU20111070625",
+  "displayAddress": "Dz.U. 2011 nr 107 poz. 625",
+  "title": "Rozporządzenie Ministra Spraw Zagranicznych z dnia 18 maja 2011 r. zmieniające rozporządzenie w sprawie opłat konsularnych",
+  "type": "Rozporządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-05-18",
+  "promulgation": "2011-05-25",
+  "entryIntoForce": "2011-05-25",
+  "validFrom": "2011-05-25",
+  "repealDate": "2013-05-01",
+  "changeDate": "2014-12-31T12:26:15",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata konsularna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2013/522",
+     "date": "2013-05-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1530",
+     "date": "2011-05-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/34",
+     "art": "art. 32 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20110625.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110625.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
