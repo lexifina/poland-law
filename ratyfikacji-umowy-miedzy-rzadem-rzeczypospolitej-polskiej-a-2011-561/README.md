@@ -1,0 +1,4 @@
+# Ustawa z dnia 4 marca 2011 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej antybalistycznych obronnych rakiet przechwytujących, sporządzonej w Warszawie dnia 20 sierpnia 2008 r., oraz Protokołu zmieniającego Umowę między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącą rozmieszczenia na terytorium Rzeczypospolitej Polskiej antybalistycznych obronnych rakiet przechwytujących, sporządzoną w Warszawie dnia 20 sierpnia 2008 r., sporządzonego w Krakowie dnia 3 lipca 2010 r.
+
+Dz.U. 2011 nr 97 poz. 561 · <https://api.sejm.gov.pl/eli/acts/DU/2011/561>
+
