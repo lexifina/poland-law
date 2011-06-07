@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/490",
+ "source_sha256": "897bb4f46149e10762c06120a6a1f8ccf590a215a5aad5c87d3a7c2304d0229a",
+ "in_force": "2011-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/490",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/490/text/O/M20110490.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/490/text/I/M20110490.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/490",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 44,
+  "pos": 490,
+  "address": "WMP20110440490",
+  "displayAddress": "M.P. 2011 nr 44 poz. 490",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 25 maja 2011 r. w sprawie wskaźnika cen towarowej produkcji rolniczej w 2010 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-05-25",
+  "promulgation": "2011-06-07",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty rolne",
+   "ceny",
+   "rolnictwo",
+   "wskaźnik",
+   "produkcja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/350",
+     "art": "art. 24 ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110490.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110490.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
