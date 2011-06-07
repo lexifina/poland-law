@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/482",
+ "source_sha256": "df66536c7ac6ae9fe13b0b63e3dabbfd83ef0aba848f4285103d0f61fdc60151",
+ "in_force": "2011-06-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/482",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/482/text/O/M20110482.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/482/text/I/M20110482.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/482",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 44,
+  "pos": 482,
+  "address": "WMP20110440482",
+  "displayAddress": "M.P. 2011 nr 44 poz. 482",
+  "title": "Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 29 kwietnia 2011 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Nauki i Szkolnictwa Wyższego lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-04-29",
+  "promulgation": "2011-06-07",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. NAUKI I SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór"
+  ],
+  "keywordsNames": [
+   "Min. Nauki i Szkolnictwa Wyższego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110482.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110482.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
