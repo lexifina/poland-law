@@ -1,0 +1,19 @@
+# Art. 14h.
+
+1. Ocena kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego, notariusza albo zajmującego stanowisko starszego radcy lub radcy Prokuratorii Generalnej Skarbu Państwa jest dokonywana w oparciu o badanie poziomu merytorycznego, sprawności, rzetelności i terminowości dokonywanych czynności bądź poziomu merytorycznego i rzetelności sporządzonych opinii prawnych lub innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa, a także podnoszenia kwalifikacji zawodowych i kultury urzędowania, obejmującej kulturę osobistą oraz sposób zachowania wobec uczestników postępowania i współpracowników.
+
+2. Ocena kwalifikacji kandydata wykonującego zawód adwokata lub radcy prawnego albo zajmującego stanowisko starszego radcy lub radcy Prokuratorii Generalnej Skarbu Państwa jest dokonywana w oparciu o badanie co najmniej pięćdziesięciu akt spraw różnych kategorii lub opinii prawnych i innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa, wybranych losowo spośród wymienionych w wykazie, o którym mowa w art. 14c ust. 3. Przepis art. 14g ust. 1 stosuje się odpowiednio. Wizytator dokonujący oceny kwalifikacji może z urzędu objąć badaniem także akta spraw sądowych, w których kandydat występował w charakterze zastępcy procesowego, a których nie ujęto w wykazie, oraz zwracać się do prezesów sądów o wskazanie sygnatur i przedstawienie akt takich spraw.
+
+3. Ocena kwalifikacji kandydata wykonującego zawód notariusza jest dokonywana w oparciu o badanie co najmniej pięćdziesięciu aktów notarialnych, obejmujących różne kategorie praw, wybranych losowo spośród wymienionych w wykazie, o którym mowa w art. 14c ust. 4. Przepis art. 14g ust. 1 stosuje się odpowiednio. Sędzia wizytator dokonujący oceny kwalifikacji może z urzędu objąć badaniem także nieujęte w wykazie akty notarialne lub akta spraw sądowych, w których rozpoznano środki odwoławcze na odmowę dokonania wpisu lub odmowę dokonania czynności, oraz zwracać się do prezesów sądów o wskazanie sygnatur i przedstawienie akt takich spraw.
+
+4. Do oceny kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego lub notariusza dołącza się wykaz prawomocnych orzeczeń bądź decyzji o ukaraniu karą dyscyplinarną.
+
+5. Do oceny kwalifikacji kandydata wykonującego zawód adwokata lub radcy prawnego dołącza się także wykaz ostrzeżeń udzielonych przez właściwe organy samorządu zawodowego oraz zawiadomień o naruszeniu obowiązków procesowych dokonanych przez sąd lub prokuratora.
+
+6. Do oceny kwalifikacji kandydata zajmującego stanowisko starszego radcy lub radcy Prokuratorii Generalnej Skarbu Państwa dołącza się protokoły okresowych ocen kwalifikacyjnych, o których mowa w art. 42 ustawy z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. Nr 169, poz. 1417, z późn. zm.), oraz odpisy prawomocnych orzeczeń o ukaraniu karą dyscyplinarną, chyba że kara została uznana za niebyłą.
+
+7. Do oceny kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego albo notariusza dołącza się protokoły wizytacji, kontroli lub ocen przeprowadzonych, w trybie art. 36 ustawy z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z późn. zm.), art. 22¹ ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z późn. zm.) albo art. 44 § 2 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.).
+
+8. Ocena kwalifikacji kandydata mającego tytuł naukowy profesora lub stopień naukowy doktora habilitowanego nauk prawnych jest dokonywana z uwzględnieniem osiągnięć naukowych, rodzaju i jakości publikacji, opinii recenzentów, jakości i rzetelności opinii prawnych bądź innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa.
+
+9. Do oceny kwalifikacji kandydata, o którym mowa w ust. 8, dołącza się odpisy prawomocnych orzeczeń o udzieleniu kary dyscyplinarnej, chyba że kara uległa zatarciu.

@@ -1,0 +1,5 @@
+# Art. 14j.
+
+1. Przy ocenie kwalifikacji kandydata na wolne stanowisko prokuratorskie uwzględnia się predyspozycje osobowościowe kandydata do zawodu prokuratora, w tym umiejętność podejmowania decyzji i współpracy, odporność na stres oraz przestrzeganie zasad etyki wykonywanego zawodu.
+
+2. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb i sposób dokonywania oceny kwalifikacji kandydata na wolne stanowisko prokuratorskie, mając na uwadze konieczność zachowania metodyki uwzględniającej specyfikę wykonywanego przez kandydata zawodu lub zajmowanego stanowiska oraz potrzebę jej dostosowania do zakresu badań i kryteriów wskazanych w ustawie, zachowania jednolitości kryteriów dla kandydatów ubiegających się o równorzędne stanowiska w powszechnych i wojskowych jednostkach prokuratury oraz w Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu - przy uwzględnieniu zróżnicowania kwalifikacji niezbędnych do prawidłowego wypełniania zadań na poszczególnych stanowiskach i szczeblach organizacyjnych.
