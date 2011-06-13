@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/506",
+ "source_sha256": "67a25cc3cbaf17a74f08ff31329f5b15aded80a1dd8c4526febdace947cc82d6",
+ "in_force": "2011-06-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/506",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/506/text/O/M20110506.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/506/text/I/M20110506.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/506",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 45,
+  "pos": 506,
+  "address": "WMP20110450506",
+  "displayAddress": "M.P. 2011 nr 45 poz. 506",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 31 maja 2011 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-05-31",
+  "promulgation": "2011-06-13",
+  "changeDate": "2019-03-25T12:08:24",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "jednostki budżetowe"
+  ],
+  "keywordsNames": [
+   "Min. Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110506.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110506.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
