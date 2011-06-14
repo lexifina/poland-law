@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/698",
+ "source_sha256": "3e3acbb0437e8ba9ef2d0317cf430a5a968415bedfb5e63f291ab8db71f5d46b",
+ "in_force": "2011-06-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/698",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/698/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/698/text/O/D20110698.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/698/text/I/D20110698.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/698/text/T/D20110698L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/698/text/U/D20110698Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/698",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 123,
+  "pos": 698,
+  "address": "WDU20111230698",
+  "displayAddress": "Dz.U. 2011 nr 123 poz. 698",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 maja 2011 r. w sprawie ogłoszenia jednolitego tekstu ustawy o narodowym zasobie archiwalnym i archiwach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-05-26",
+  "promulgation": "2011-06-14",
+  "expirationDate": "2015-08-24",
+  "changeDate": "2024-03-14T21:37:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 56, 57 i 58 ust. 2 i 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1983/173"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20110698.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20110698.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20110698L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20110698Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
