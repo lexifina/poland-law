@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Maria Gintowt-Jankowicz - przewodniczący,
+
+Stanisław Biernat - sprawozdawca,
+
+Andrzej Rzepliński,
+
+Sławomira Wronkowska-Jaśkiewicz,
+
+Marek Zubik,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 9 czerwca 2011 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 10 ust. 3 oraz art. 74 ust. 2 i 3 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, ze zm.) z art. 153 ust. 1 Konstytucji,
+
+orzeka:
+
+Art. 10 ust. 3 oraz art. 74 ust. 2 i 3 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328, z 2008 r. Nr 209, poz. 1317, Nr 228, poz. 1507 i Nr 231, poz. 1546, z 2009 r. Nr 42, poz. 341, Nr 77, poz. 649 i Nr 165, poz. 1316 oraz z 2010 r. Nr 126, poz. 853) są zgodne z art. 153 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
