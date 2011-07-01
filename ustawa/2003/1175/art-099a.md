@@ -1,0 +1,3 @@
+# Art. 99a.
+
+Do cudzoziemców oraz członków ich rodzin posiadających uprawnienie do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w aktach prawnych wydanych przez organy powołane na mocy Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r., nie stosuje się przepisów art. 88, 90, 91, 95 i art. 97-99. W zakresie uregulowanym w tych przepisach stosuje się przepisy rozdziału 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm.).

@@ -1,0 +1,3 @@
+# Art. 100s.
+
+Do wniosku o zwrot kosztów wykonania decyzji o wydaleniu wydanej przez organ wydającego państwa członkowskiego oraz do zwrotu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesionych przez organy innego państwa członkowskiego, stosuje się decyzję Rady z dnia 23 lutego 2004 r. określającą kryteria oraz uzgodnienia praktyczne dotyczące rekompensaty dysproporcji finansowych wynikających ze stosowania dyrektywy Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich (Dz. Urz. WE L 60 z 27.02.2004, str. 55; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 5, str. 25).
