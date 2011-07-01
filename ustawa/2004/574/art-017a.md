@@ -1,0 +1,3 @@
+# Art. 17a.
+
+Minister właściwy do spraw rybołówstwa w przypadku zagrożenia wyczerpania ogólnej kwoty połowowej danego gatunku organizmu morskiego lub w przypadku wyczerpania tej kwoty, może wprowadzić, w drodze rozporządzenia, czasowy zakaz prowadzenia połowów określonych gatunków organizmów morskich na określonym obszarze lub prowadzenia połowów określonymi narzędziami połowowymi lub przez statki, o określonych długościach całkowitych, kierując się stopniem wykorzystania ogólnej kwoty połowowej danego gatunku organizmu morskiego oraz mając na względzie ochronę i racjonalne wykorzystanie żywych zasobów morza.
