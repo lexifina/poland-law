@@ -1,0 +1,3 @@
+# Art. 28k.
+
+Miejscem świadczenia usług elektronicznych na rzecz podmiotów niebędących podatnikami, posiadających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu na terytorium Unii Europejskiej, przez podatnika, który posiada siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, z którego świadczy te usługi, poza terytorium Unii Europejskiej, a w przypadku braku takiej siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej posiada stałe miejsce zamieszkania lub zwykłe miejsce pobytu poza terytorium Unii Europejskiej, jest miejsce, gdzie podmioty te posiadają siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu.
