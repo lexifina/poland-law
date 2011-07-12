@@ -2,3 +2,5 @@
 
 Dz.U. 2002 nr 153 poz. 1270 · <https://eli.gov.pl/api/acts/DU/2002/1270>
 
+Tekst jednolity: Dz.U. 2012 poz. 270 (2012-03-14), stan na 2011-07-12.
+

@@ -1,0 +1,5 @@
+# Art. 285h.
+
+§ 1. Naczelny Sąd Administracyjny odrzuca na posiedzeniu niejawnym skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, jeżeli ulegała ona odrzuceniu przez sąd niższej instancji, skargę wniesioną po upływie terminu, skargę niespełniającą wymagań określonych w art. 285e § 1, jak również skargę z innych przyczyn niedopuszczalną.
+
+§ 2. Skarga podlega także odrzuceniu, jeżeli zmiana zaskarżonego orzeczenia w drodze innych środków prawnych była lub jest możliwa albo jeżeli nie zachodzi wyjątek, o którym mowa w art. 285a § 2.
