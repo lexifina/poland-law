@@ -17,3 +17,5 @@
   - b) spółki kapitałowej;
 
 - 2) spółki niemającej osobowości prawnej, do której osoba fizyczna wniosła na pokrycie udziału wkład w postaci swojego przedsiębiorstwa.
+
+§ 3. Bank utworzony przez wniesienie tytułem wkładu niepieniężnego wszystkich składników majątkowych oddziału instytucji kredytowej, stanowiących przedsiębiorstwo lub jego zorganizowaną część, wstępuje we wszelkie przewidziane w przepisach prawa podatkowego prawa i obowiązki instytucji kredytowej związane z działalnością tego oddziału.
