@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/667",
+ "source_sha256": "542020d4e876587a784ba32b87edcaf57cd9b17772ca9f6b2fdfa15b2ead352e",
+ "in_force": "2011-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/667",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/667/text/O/M20110667.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/667/text/I/M20110667.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/667",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 67,
+  "pos": 667,
+  "address": "WMP20110670667",
+  "displayAddress": "M.P. 2011 nr 67 poz. 667",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 30 czerwca 2011 r. w sprawie Narodowego Rachunku Zdrowia za 2009 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-06-30",
+  "promulgation": "2011-07-20",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "budżet",
+   "rachunkowość",
+   "służba zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/439"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/439",
+     "art": "art. 25 ust. 1 pkt 3a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110667.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110667.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
