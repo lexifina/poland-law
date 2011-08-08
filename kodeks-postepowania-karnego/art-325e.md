@@ -1,0 +1,1 @@
+§ 1a. W przypadku gdy zawiadomienie o przestępstwie zostało złożone przez inspektora pracy, uzasadnienie postanowienia o odmowie wszczęcia dochodzenia oraz umorzeniu dochodzenia sporządza się na jego wniosek.
