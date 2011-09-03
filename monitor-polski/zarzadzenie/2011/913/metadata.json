@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/913",
+ "source_sha256": "247b2a8e87423d64bbf1fc9d59ca0c6429437d3e0d896df91011f21497218ac3",
+ "in_force": "2011-09-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/913",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/913/text/O/M20110913.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/913/text/I/M20110913.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/913",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 87,
+  "pos": 913,
+  "address": "WMP20110870913",
+  "displayAddress": "M.P. 2011 nr 87 poz. 913",
+  "title": "Zarządzenie Prezesa Najwyższej Izby Kontroli z dnia 1 września 2011 r. w sprawie postępowania kontrolnego",
+  "type": "Zarządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-09-01",
+  "promulgation": "2011-09-30",
+  "entryIntoForce": "2011-09-03",
+  "validFrom": "2011-09-03",
+  "repealDate": "2012-09-03",
+  "changeDate": "2014-12-31T12:26:44",
+  "releasedBy": [
+   "PREZ. NAJWYŻSZEJ IZBY KONTROLI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola"
+  ],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "MP/1995/211",
+     "date": "2011-09-03"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/59",
+     "art": "art. 65"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2010/1482",
+     "date": "2012-09-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20110913.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20110913.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
