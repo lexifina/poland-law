@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1172",
+ "source_sha256": "0a65162aa98d13863d298cad0d4db26e85478f1424d24799e306c7361d31966c",
+ "in_force": "2011-09-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1172",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/1172/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1172/text/O/D20111172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1172/text/I/D20111172.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/1172/text/T/D20111172L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2011/1172/text/U/D20111172Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1172",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 197,
+  "pos": 1172,
+  "address": "WDU20111971172",
+  "displayAddress": "Dz.U. 2011 nr 197 poz. 1172",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 sierpnia 2011 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-08-29",
+  "promulgation": "2011-09-21",
+  "expirationDate": "2015-09-29",
+  "changeDate": "2024-03-14T21:37:44",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzienniki urzędowe",
+   "wydawnictwa i publikacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/718"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20111172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111172.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20111172L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20111172Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
