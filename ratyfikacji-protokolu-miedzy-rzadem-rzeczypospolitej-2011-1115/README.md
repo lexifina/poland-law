@@ -1,0 +1,4 @@
+# Ustawa z dnia 29 lipca 2011 r. o ratyfikacji Protokołu między Rządem Rzeczypospolitej Polskiej a Rządem Malty o zmianie Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Malty w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu, sporządzonej w La Valetta dnia 7 stycznia 1994 r., podpisanego w Warszawie dnia 6 kwietnia 2011 r.
+
+Dz.U. 2011 nr 187 poz. 1115 · <https://api.sejm.gov.pl/eli/acts/DU/2011/1115>
+
