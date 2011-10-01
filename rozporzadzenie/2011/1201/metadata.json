@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1201",
+ "source_sha256": "de81500c3cd7c8b7333caa2089fc8580416b4bff5b7e7bca67bb334c93485a2d",
+ "in_force": "2011-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1201",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1201/text/O/D20111201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1201/text/I/D20111201.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1201",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 204,
+  "pos": 1201,
+  "address": "WDU20112041201",
+  "displayAddress": "Dz.U. 2011 nr 204 poz. 1201",
+  "title": "Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 22 września 2011 r. w sprawie danych zamieszczanych w ogólnopolskim wykazie studentów",
+  "type": "Rozporządzenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2011-09-22",
+  "promulgation": "2011-09-28",
+  "entryIntoForce": "2011-10-01",
+  "validFrom": "2011-10-01",
+  "repealDate": "2014-10-01",
+  "changeDate": "2014-12-31T12:26:16",
+  "releasedBy": [
+   "MIN. NAUKI I SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe",
+   "informatyzacja",
+   "studia w szkołach wyższych",
+   "studenci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2005/1365"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2005/1365",
+     "art": "art. 170c ust. 4"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2014/1198",
+     "date": "2014-10-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20111201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
