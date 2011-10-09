@@ -1,0 +1,132 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1110",
+ "source_sha256": "10b7267c6bc4beede5aab372f7f0d5cc9d918a7eaf1d03f49b7242cf939b3352",
+ "in_force": "2011-10-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1110",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/1110/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1110/text/O/D20111110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1110/text/I/D20111110.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/1110/text/T/D20111110L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1110",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 187,
+  "pos": 1110,
+  "address": "WDU20111871110",
+  "displayAddress": "Dz.U. 2011 nr 187 poz. 1110",
+  "title": "Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-07-28",
+  "promulgation": "2011-09-08",
+  "entryIntoForce": "2011-10-09",
+  "validFrom": "2011-10-09",
+  "changeDate": "2024-03-14T21:37:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "użytkowanie wieczyste",
+   "własność",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/3765.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/3765",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/3765",
+    "number": "3765",
+    "term": 6
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/3859.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/3859",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/3859",
+    "number": "3859",
+    "term": 6
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/4131.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/4131",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/4131",
+    "number": "4131",
+    "term": 6
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/4352.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/4352",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/4352",
+    "number": "4352",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2015/373",
+     "date": "2015-03-17"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/622",
+     "date": "2011-10-09"
+    },
+    {
+     "id": "DU/2005/1459",
+     "date": "2011-10-09"
+    },
+    {
+     "id": "DU/1997/741",
+     "date": "2011-10-09"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2005/1539"
+    },
+    {
+     "id": "DU/1945/279"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2015/373"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20111110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111110.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20111110L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
