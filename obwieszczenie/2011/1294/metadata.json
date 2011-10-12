@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1294",
+ "source_sha256": "aa3c8dd73b0b5afff53c9f1baf0c8736a3bcd40eda77f2e40a55d88e3a8b936f",
+ "in_force": "2011-10-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 80816 words, parsed 52; at 52: '9 października 2011 r . Dział I . Dane zbiorcze'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1294",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/1294/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1294/text/O/D20111294.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1294/text/I/D20111294.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1294",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 218,
+  "pos": 1294,
+  "address": "WDU20112181294",
+  "displayAddress": "Dz.U. 2011 nr 218 poz. 1294",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 11 października 2011 r. o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 9 października 2011 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-10-11",
+  "promulgation": "2011-10-12",
+  "changeDate": "2025-03-21T10:43:30",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 238"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20111294.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111294.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
