@@ -1,0 +1,39 @@
+Trybunał Konstytucyjny w składzie:
+
+Maria Gintowt-Jankowicz - przewodniczący,
+
+Zbigniew Cieślak,
+
+Mirosław Granat,
+
+Wojciech Hermeliński,
+
+Adam Jamróz,
+
+Marek Kotlinowski,
+
+Teresa Liszcz,
+
+Małgorzata Pyziak-Szafnicka,
+
+Stanisław Rymar,
+
+Andrzej Rzepliński - sprawozdawca,
+
+Piotr Tuleja,
+
+Andrzej Wróbel,
+
+Marek Zubik,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem skarżącego oraz Sejmu, Prezydenta Rzeczypospolitej Polskiej, Ministra Spraw Zagranicznych i Prokuratora Generalnego, na rozprawie w dniu 21 września 2011 r., skargi konstytucyjnej Randy’ego Craiga Levine’a o zbadanie zgodności art. 4 ust. 1 umowy między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki o ekstradycji, sporządzonej w Waszyngtonie dnia 10 lipca 1996 r. (Dz. U. z 1999 r. Nr 93, poz. 1066, ze zm.) z art. 55 ust. 1 i 2 w związku z art. 2 oraz art. 78 Konstytucji,
+
+orzeka:
+
+Art. 4 ust. 1 umowy między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki o ekstradycji, sporządzonej w Waszyngtonie dnia 10 lipca 1996 r. (Dz. U. z 1999 r. Nr 93, poz. 1066 oraz z 2002 r. Nr 100, poz. 921) jest zgodny z art. 55 ust. 1 i 2 w związku z art. 2 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 78 Konstytucji.
+
+Ponadto postanawia:
+
+na podstawie art. 50 ust. 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 112, poz. 654) uchylić postanowienie tymczasowe z dnia 1 października 2009 r., sygn. Ts 203/09, wstrzymujące wykonanie postanowienia Ministra Sprawiedliwości z dnia 24 sierpnia 2009 r. o wydaniu i częściowej odmowie wydania państwu obcemu osoby ściganej (sygn. PR VI Oz 597/08/E).
