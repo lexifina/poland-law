@@ -1,0 +1,1 @@
+- 2) przewidziane w art. 159, art. 254a i art. 262 § 2 Kodeksu karnego;
