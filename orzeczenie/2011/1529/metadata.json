@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1529",
+ "source_sha256": "b62c4c5f4c674acdd058c84caa82e7ce0cce4f45cf423c9ce08185e644409a6c",
+ "in_force": "2011-11-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 521 words, parsed 156; at 156: 'Rzeczypospolitej Polskiej , orzeka : I 1 . Art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1529",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/1529/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1529/text/O/D20111529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1529/text/I/D20111529.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/1529/text/T/D20111529TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1529",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 254,
+  "pos": 1529,
+  "address": "WDU20112541529",
+  "displayAddress": "Dz.U. 2011 nr 254 poz. 1529",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 15 listopada 2011 r. sygn. akt P 29/10",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-11-15",
+  "promulgation": "2011-11-25",
+  "entryIntoForce": "2011-11-25",
+  "validFrom": "2011-11-25",
+  "changeDate": "2024-03-14T21:37:55",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "stawki",
+   "opłaty"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/622",
+     "date": "2012-11-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2004/832"
+    },
+    {
+     "id": "DU/2004/622"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20111529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111529.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20111529TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
