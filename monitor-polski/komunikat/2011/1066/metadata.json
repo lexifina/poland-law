@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2011/1066",
+ "source_sha256": "05a9cf892a8a3118741cbbb07c6c6a990583792f05bb78888bb8badb5a63a668",
+ "in_force": "2011-11-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2011/1066",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2011/1066/text/O/M20111066.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2011/1066/text/I/M20111066.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2011/1066",
+  "publisher": "MP",
+  "year": 2011,
+  "volume": 105,
+  "pos": 1066,
+  "address": "WMP20111051066",
+  "displayAddress": "M.P. 2011 nr 105 poz. 1066",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 23 listopada 2011 r. w sprawie granicznych kwot przychodu dla 2011 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-11-23",
+  "promulgation": "2011-11-30",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20111066.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20111066.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
