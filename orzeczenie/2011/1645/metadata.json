@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1645",
+ "source_sha256": "28bc50b7a1660fc3963fc2826793aa3f7a8df2adc4f7036bf876069fa04221c8",
+ "in_force": "2011-12-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 306 words, parsed 149; at 149: '2 Konstytucji , orzeka : I Art . 180 §'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1645",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/1645/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1645/text/O/D20111645.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1645/text/I/D20111645.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/1645/text/T/D20111645TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1645",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 279,
+  "pos": 1645,
+  "address": "WDU20112791645",
+  "displayAddress": "Dz.U. 2011 nr 279 poz. 1645",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2011 r. sygn. akt K 33/08",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-12-13",
+  "promulgation": "2011-12-27",
+  "entryIntoForce": "2011-12-27",
+  "validFrom": "2011-12-27",
+  "changeDate": "2024-03-14T21:38:57",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2012-12-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20111645.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111645.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20111645TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
