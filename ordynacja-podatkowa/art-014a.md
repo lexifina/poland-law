@@ -1,11 +1,31 @@
 # Art. 14a.
 
-§ 1. Stosownie do swojej właściwości naczelnik urzędu skarbowego, naczelnik urzędu celnego lub wójt, burmistrz (prezydent miasta), starosta albo marszałek województwa na pisemny wniosek podatnika, płatnika lub inkasenta mają obowiązek udzielić pisemnej interpretacji co do zakresu i sposobu zastosowania prawa podatkowego w ich indywidualnych sprawach, w których nie toczy się postępowanie podatkowe lub kontrola podatkowa albo postępowanie przed sądem administracyjnym.
+§ 1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, dokonując w szczególności ich interpretacji, z urzędu lub na wniosek, przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego lub Europejskiego Trybunału Sprawiedliwości (interpretacje ogólne); wnioskodawcą nie może być organ administracji publicznej.
 
-§ 2. Wniosek, o którym mowa w § 1, składa się do właściwego naczelnika urzędu skarbowego, naczelnika urzędu celnego lub wójta, burmistrza (prezydenta miasta), starosty albo marszałka województwa. Składając wniosek, podatnik, płatnik lub inkasent jest obowiązany do wyczerpującego przedstawienia stanu faktycznego oraz własnego stanowiska w sprawie.
+§ 2. Wniosek o wydanie interpretacji ogólnej powinien zawierać uzasadnienie konieczności wydania interpretacji ogólnej, w szczególności:
 
-§ 3. Interpretacja, o której mowa w § 1, zawiera ocenę prawną stanowiska pytającego z przytoczeniem przepisów prawa.
+- 1) przedstawienie zagadnienia oraz wskazanie przepisów prawa podatkowego wymagających wydania interpretacji ogólnej;
 
-§ 4. Udzielenie interpretacji co do zakresu i sposobu zastosowania prawa podatkowego, o której mowa w § 1, następuje w drodze postanowienia, na które przysługuje zażalenie.
+- 2) wskazanie niejednolitego stosowania przepisów prawa podatkowego w określonych decyzjach, postanowieniach oraz interpretacjach indywidualnych wydanych przez organy podatkowe oraz organy kontroli skarbowej w takich samych stanach faktycznych lub zdarzeniach przyszłych, oraz w takich samych stanach prawnych.
 
-§ 5. Do załatwienia wniosku, o którym mowa w § 1, stosuje się odpowiednio przepisy art. 169 § 1 i 2 oraz art. 170 § 1, z tym że w razie gdy wniosek nie został uzupełniony w wyznaczonym terminie, nie mają zastosowania przepisy art. 14b § 3.
+§ 3. interpretację ogólną wydaje się, jeżeli w dniu złożenia wniosku w sprawach, o których mowa w § 2 pkt 2, nie toczy się postępowanie podatkowe lub postępowanie kontrolne organu kontroli skarbowej albo od decyzji lub na postanowienie nie zostało wniesione odwołanie lub zażalenie.
+
+§ 4. Minister właściwy do spraw finansów publicznych pozostawia wniosek o wydanie interpretacji ogólnej bez rozpatrzenia, jeżeli:
+
+- 1) nie są spełnione warunki, o których mowa w § 2 i 3, lub wniosek nie spełnia innych wymogów określonych przepisami prawa, lub
+
+- 2) przedstawione we wniosku zagadnienie jest przedmiotem interpretacji ogólnej i stan prawny nie uległ w tym zakresie zmianie.
+
+§ 5. W sprawie pozostawienia wniosku o wydanie interpretacji ogólnej bez rozpatrzenia wydaje się postanowienie, na które służy zażalenie. Postanowienie nie zawiera danych identyfikujących stronę postępowania, w którym wydano decyzję, postanowienie lub interpretację indywidualną, wskazaną we wniosku o wydanie interpretacji ogólnej. Przepisy rozdziałów 14 i 16 działu IV stosuje się odpowiednio.
+
+§ 6. Prawo dostępu do akt sprawy wydania interpretacji ogólnej nie obejmuje danych identyfikujących stronę postępowania, w którym wydano decyzję, postanowienie lub interpretację indywidualną, wskazaną we wniosku o wydanie interpretacji ogólnej.
+
+§ 7. Na pisemne żądanie ministra właściwego do spraw finansów publicznych organy podatkowe oraz organy kontroli skarbowej przekazują niezwłocznie akta dotyczące wskazanych we wniosku o wydanie interpretacji ogólnej decyzji, postanowień oraz interpretacji indywidualnych.
+
+§ 8. Opłata podlega zwrotowi wyłącznie w przypadku wydania interpretacji ogólnej. Zwrot opłaty następuje w terminie 7 dni od dnia opublikowania interpretacji ogólnej.
+
+§ 9. W sprawach dotyczących wydawania interpretacji ogólnych na wniosek przepisy art. 14d, art. 14f, art. 120, art. 121 § 1, art. 125, art. 129, art. 130, art. 135-137, art. 140, art. 143, art. 165a, art. 168, art. 169 § 1-2, art. 170 i art. 171 oraz przepisy rozdziału 5, 6, 10 i 23 działu IV stosuje się odpowiednio.
+
+§ 10. Minister właściwy do spraw finansów publicznych w celu usprawnienia obsługi wnioskodawców może, w drodze rozporządzenia, upoważnić podległe organy do wydawania, jako organ pierwszej instancji, postanowień o których mowa w § 5, oraz wykonywania czynności, o których mowa w § 7, określając jednocześnie właściwość rzeczową oraz miejscową upoważnionych organów.
+
+§ 11. Minister właściwy do spraw finansów publicznych, biorąc pod uwagę zapewnienie sprawności postępowania, określi, w drodze rozporządzenia, wzór wniosku o wydanie interpretacji ogólnej, który zawiera dane identyfikujące wnioskodawcę, dane wskazane w § 2, oraz sposób uiszczenia opłaty.
