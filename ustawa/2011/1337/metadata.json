@@ -1,0 +1,119 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2011/1337",
+ "source_sha256": "b5f06d98cb3d605c5c83ffee0f918bb58bbfee78d82cee3421856640eb4e8418",
+ "in_force": "2012-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2011/1337",
+  "html": "https://eli.gov.pl/api/acts/DU/2011/1337/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2011/1337/text/O/D20111337.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2011/1337/text/I/D20111337.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2011/1337/text/T/D20111337L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2011/1337",
+  "publisher": "DU",
+  "year": 2011,
+  "volume": 224,
+  "pos": 1337,
+  "address": "WDU20112241337",
+  "displayAddress": "Dz.U. 2011 nr 224 poz. 1337",
+  "title": "Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2011-08-18",
+  "promulgation": "2011-10-19",
+  "entryIntoForce": "2012-01-01",
+  "validFrom": "2012-01-01",
+  "changeDate": "2024-03-14T21:38:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ŚRODOWISKA",
+   "RADA MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "parki narodowe",
+   "czystość i porządek",
+   "lasy",
+   "ochrona przyrody",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/4345.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/4345",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/4345",
+    "number": "4345",
+    "term": 6
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/2104",
+     "date": "2012-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/897",
+     "date": "2011-10-19"
+    },
+    {
+     "id": "DU/2004/880",
+     "date": "2012-01-01"
+    },
+    {
+     "id": "DU/1997/741",
+     "date": "2012-01-01"
+    },
+    {
+     "id": "DU/1991/444",
+     "date": "2012-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2009/1240"
+    },
+    {
+     "id": "DU/2001/24"
+    },
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20111337.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20111337.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20111337L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
