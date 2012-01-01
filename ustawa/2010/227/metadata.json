@@ -1,0 +1,123 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2010/227",
+ "source_sha256": "e3c4cb88618e80c1882c4afae69e1c89200f40b214ac9e27c28f0fbf995c1863",
+ "in_force": "2012-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2010/227",
+  "html": "https://eli.gov.pl/api/acts/DU/2010/227/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2010/227/text/O/D20100227.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2010/227/text/I/D20100227.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2010/227/text/T/D20100227L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2010/227/text/U/D20100227Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2010/227",
+  "publisher": "DU",
+  "year": 2010,
+  "volume": 40,
+  "pos": 227,
+  "address": "WDU20100400227",
+  "displayAddress": "Dz.U. 2010 nr 40 poz. 227",
+  "title": "Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks karny wykonawczy oraz ustawy - Prawo ochrony środowiska",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2010-02-12",
+  "promulgation": "2010-03-16",
+  "entryIntoForce": "2012-01-01",
+  "validFrom": "2012-01-01",
+  "changeDate": "2024-03-14T20:25:39",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "kodeks karny wykonawczy",
+   "ochrona środowiska"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/1854.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/1854",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/1854",
+    "number": "1854",
+    "term": 6
+   },
+   {
+    "link": "https://orka.sejm.gov.pl/proc6.nsf/opisy/2115.htm",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term6/prints/2115",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term6/processes/2115",
+    "number": "2115",
+    "term": 6
+   }
+  ],
+  "comments": "art. 1 pkt 1, 6, 8 i 9 wchodzą w życie z dniem 1 lipca 2010 r.;\ndata wejścia w życie ustawy wynika ze zmiany Dz.U. z 2011 r. Nr 129, poz. 734",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2005/618",
+     "date": "2012-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2011/734",
+     "date": "2011-06-30"
+    },
+    {
+     "id": "DU/2011/202",
+     "date": "2011-03-08"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/627",
+     "date": "2012-01-01"
+    },
+    {
+     "id": "DU/1997/557",
+     "date": "2012-01-01"
+    },
+    {
+     "id": "DU/1997/553",
+     "date": "2012-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20100227.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20100227.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20100227L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20100227Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
