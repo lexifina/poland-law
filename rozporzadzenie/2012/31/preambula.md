@@ -1,0 +1,1 @@
+Na podstawie art. 94 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384 oraz z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391) zarządza się, co następuje:
