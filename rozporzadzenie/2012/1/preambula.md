@@ -1,0 +1,1 @@
+Na podstawie art. 26 pkt 3 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 153, poz. 902) zarządza się, co następuje:
