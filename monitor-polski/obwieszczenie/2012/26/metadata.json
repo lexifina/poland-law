@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/26",
+ "source_sha256": "3d2451ef55e772e9e69e7c606afb0248d5a5ba1a208ba21ebf5fc7e06908e9de",
+ "in_force": "2012-01-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/26",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/26/text/O/M20120026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/26/text/I/M20120026.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/26",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 26,
+  "address": "WMP20120000026",
+  "displayAddress": "M.P. 2012 poz. 26",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 18 stycznia 2012 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w grudniu 2011 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-01-18",
+  "promulgation": "2012-01-25",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "wynagrodzenia",
+   "wynagrodzenia przeciętne",
+   "przedsiębiorstwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/1188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/1188",
+     "art": "art. 68 ust. 3 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
