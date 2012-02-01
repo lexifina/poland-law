@@ -1,0 +1,113 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/123",
+ "source_sha256": "c00688a8a859c91193a0f485d6c7c8ec11f39bc1347d7b2c50cd05f30ff60e4f",
+ "in_force": "2012-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/123",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/123/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/123/text/O/D20120123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/123/text/I/D20120123.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/123/text/T/D20120123L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2012/123/text/U/D20120123Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/123",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 123,
+  "address": "WDU20120000123",
+  "displayAddress": "Dz.U. 2012 poz. 123",
+  "title": "Ustawa z dnia 13 stycznia 2012 r. o składkach na ubezpieczenie zdrowotne rolników za lata 2012-2016",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-01-13",
+  "promulgation": "2012-02-01",
+  "entryIntoForce": "2012-02-01",
+  "validFrom": "2012-02-01",
+  "expirationDate": "2016-12-31",
+  "changeDate": "2026-08-31T13:25:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [
+   "Ustawa z dnia 13 stycznia 2012 r. o składkach na ubezpieczenie zdrowotne rolników za 2012 r.",
+   "Ustawa z dnia 13 stycznia 2012 r. o składkach na ubezpieczenie zdrowotne rolników za lata 2012 i 2013",
+   "Ustawa z dnia 13 stycznia 2012 r. o składkach na ubezpieczenie zdrowotne rolników za lata 2012-2014"
+  ],
+  "keywords": [
+   "składki",
+   "rolnicy",
+   "ubezpieczenia zdrowotne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=103",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/103",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/103",
+    "number": "103",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2014/1935",
+     "date": "2015-01-01"
+    },
+    {
+     "id": "DU/2013/1640",
+     "date": "2014-01-01"
+    },
+    {
+     "id": "DU/2012/1523",
+     "date": "2013-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/2135",
+     "date": "2012-02-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1991/24"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20120123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20120123.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20120123L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20120123Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
