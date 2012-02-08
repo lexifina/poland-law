@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 22, art. 28o, art. 82 ust. 3, art. 86 ust. 21, art. 92 ust. 1 pkt 3, art. 106 ust. 12, art. 146d ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054) zarządza się, co następuje:
