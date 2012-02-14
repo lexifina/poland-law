@@ -1,0 +1,1 @@
+Na podstawie art. 80 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690 i Nr 171, poz. 1016) zarządza się, co następuje:
