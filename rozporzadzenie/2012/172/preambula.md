@@ -1,0 +1,1 @@
+Na podstawie art. 30 ust. 3 ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. Nr 124, poz. 859, z 2010 r. Nr 28, poz. 145 oraz z 2011 r. Nr 106, poz. 622) zarządza się, co następuje:
