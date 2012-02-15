@@ -1,0 +1,1 @@
+Na podstawie art. 20 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315 oraz z 2009 r. Nr 18, poz. 97) zarządza się, co następuje:
