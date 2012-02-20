@@ -1,0 +1,1 @@
+Na podstawie art. 37 ust. 1 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494 oraz z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183) zarządza się, co następuje:
