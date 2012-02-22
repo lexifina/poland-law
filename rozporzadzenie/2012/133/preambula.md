@@ -1,0 +1,1 @@
+Na podstawie art. 20a ust. 6d ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.) zarządza się, co następuje:
