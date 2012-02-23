@@ -1,0 +1,1 @@
+Na podstawie art. 31 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.) zarządza się, co następuje:
