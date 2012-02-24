@@ -1,0 +1,1 @@
+Na podstawie art. 17 ust. 6 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z 2010 r. Nr 127, poz. 857 oraz z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779) zarządza się, co następuje:
