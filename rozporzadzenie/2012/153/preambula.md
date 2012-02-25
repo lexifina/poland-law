@@ -1,0 +1,1 @@
+Na podstawie art. 5 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 481, z późn. zm.) zarządza się, co następuje:
