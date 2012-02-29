@@ -1,0 +1,1 @@
+Na podstawie art. 8 ust. 6 ustawy z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. Nr 52, poz. 379 oraz z 2011 r. Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 291, poz. 1707) zarządza się, co następuje:
