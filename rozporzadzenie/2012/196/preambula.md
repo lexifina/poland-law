@@ -1,0 +1,1 @@
+Na podstawie art. 32 § 4 ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178 oraz z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 191, poz. 1134) zarządza się, co następuje:
