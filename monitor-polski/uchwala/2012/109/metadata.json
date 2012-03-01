@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/109",
+ "source_sha256": "bdc4efb0907479f1afa59b1e171be1ae820311436e4357308073cdf41f1cc9d7",
+ "in_force": "2012-03-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/109",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/109/text/O/M20120109.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/109/text/I/M20120109.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/109",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 109,
+  "address": "WMP20120000109",
+  "displayAddress": "M.P. 2012 poz. 109",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 16 lutego 2012 r. w sprawie niewyrażenia zgody na pociągnięcie do odpowiedzialności karnej senatora Kazimierza Kutza",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-02-16",
+  "promulgation": "2012-03-01",
+  "changeDate": "2026-10-06T13:45:17",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "mandaty poselskie i senatorskie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7c ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120109.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120109.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
