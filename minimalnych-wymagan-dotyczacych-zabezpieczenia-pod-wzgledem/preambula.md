@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 4 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. Nr 62, poz. 504, z 2010 r. Nr 127, poz. 857 i Nr 152, poz. 1021 oraz z 2011 r. Nr 217, poz. 1280) zarządza się, co następuje:
