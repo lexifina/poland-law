@@ -1,0 +1,3 @@
+# Art. 24c.
+
+Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, szczegółowe warunki lub szczegółowy tryb przyznawania lub wypłaty płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi, w tym szczegółowe warunki lub tryb przyznawania tych płatności spadkobiercy lub małżonkowi rolnika, lub przejmującemu gospodarstwo, a także szczegółowe wymagania, jakim powinny odpowiadać uprawy poszczególnych roślin lub grunty orne, na których nie jest prowadzona uprawa roślin, mając na względzie zabezpieczenie przed nieuzasadnionym przyznawaniem tych płatności.
