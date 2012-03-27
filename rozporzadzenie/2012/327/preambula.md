@@ -1,0 +1,1 @@
+Na podstawie art. 21 ust. 9 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z 2009 r. Nr 76, poz. 641 oraz z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723) zarządza się, co następuje:
