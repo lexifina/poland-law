@@ -6,6 +6,10 @@
 
 - 2) suma ustalonych w umowie leasingu opłat, pomniejszona o należny podatek od towarów i usług, odpowiada co najmniej wartości początkowej środków trwałych lub wartości niematerialnych i prawnych;
 
-- 3) umowa zawiera postanowienie, że odpisów amortyzacyjnych w podstawowym okresie umowy leasingu dokonuje korzystający.
+- 3) umowa zawiera postanowienie, że w podstawowym okresie umowy leasingu:
+
+  - a) odpisów amortyzacyjnych dokonuje korzystający, w przypadku gdy nie jest osobą wymienioną w lit. b, albo
+
+  - b) finansujący rezygnuje z dokonywania odpisów amortyzacyjnych, w przypadku gdy korzystającym jest osoba fizyczna nieprowadząca działalności gospodarczej.
 
 2. Jeżeli wysokość kwoty spłaty wartości środków trwałych lub wartości niematerialnych i prawnych przypadających na poszczególne opłaty nie jest określona w umowie leasingu, ustala się ją proporcjonalnie do okresu trwania tej umowy.

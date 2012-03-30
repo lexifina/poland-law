@@ -2,7 +2,7 @@
 
 1. Za wartość początkową środków trwałych oraz wartości niematerialnych i prawnych, z uwzględnieniem ust. 2-18, uważa się:
 
-- 1) w razie nabycia w drodze kupna - cenę ich nabycia;
+- 1) w razie odpłatnego nabycia - cenę ich nabycia;
 
 - 1a) w razie częściowo odpłatnego nabycia - cenę ich nabycia powiększoną o wartość przychodu, określonego w art. 11 ust. 2b;
 
@@ -10,9 +10,17 @@
 
 - 3) w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób - wartość rynkową z dnia nabycia, chyba że umowa darowizny albo umowa o nieodpłatnym przekazaniu określa tę wartość w niższej wysokości;
 
-- 4) w razie nabycia w postaci wkładu niepieniężnego (aportu) wniesionego do spółki cywilnej lub osobowej spółki handlowej - ustaloną przez wspólników na dzień wniesienia wkładu lub udziału, wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej, z dnia wniesienia wkładu;
+- 4) w razie nabycia w postaci wkładu niepieniężnego (aportu) wniesionego do spółki niebędącej osobą prawną:
+
+  - a) wartość początkową, od której dokonywane były odpisy amortyzacyjne - jeżeli przedmiot wkładu był amortyzowany,
+
+  - b) wydatki poniesione na nabycie lub wytworzenie przedmiotu wkładu, niezaliczone do kosztów uzyskania przychodów w jakiejkolwiek formie - jeżeli przedmiot wkładu nie był amortyzowany,
+
+  - c) wartość określoną zgodnie z art. 19 - jeżeli ustalenie wydatków na nabycie lub wytworzenie przedmiotu wkładu przez wspólnika wnoszącego wkład, będącego osobą fizyczną, jest niemożliwe i przedmiot wkładu nie był wykorzystywany przez wnoszącego wkład w prowadzonej działalności gospodarczej, z wyłączeniem wartości niematerialnych i prawnych wytworzonych przez wspólnika we własnym zakresie;
 
 - 5) w razie otrzymania w związku z likwidacją osoby prawnej, z zastrzeżeniem ust. 14b, ustaloną przez podatnika wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej.
+
+1a. Przepis ust. 1 pkt 4 lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego (aportu) do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki.
 
 2. Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki przedsiębiorstwa lub jego zorganizowanej części, odpowiednio z dnia kupna, przyjęcia do odpłatnego korzystania albo wniesienia do spółki.
 
@@ -34,7 +42,7 @@
 
 11. W razie gdy składnik majątku stanowi współwłasność podatnika, wartość początkową tego składnika ustala się w takiej proporcji jego wartości, w jakiej pozostaje udział podatnika we własności tego składnika majątku; zasada ta nie ma zastosowania do składników majątku stanowiących wspólność majątkową małżonków, chyba że małżonkowie wykorzystują składnik majątku w działalności gospodarczej prowadzonej odrębnie.
 
-12. W razie zmiany formy prawnej, a także połączenia albo podziału podmiotów dokonywanych na podstawie odrębnych przepisów - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) podmiotu o zmienionej formie prawnej, podzielonego albo połączonego.
+12. W razie zmiany formy prawnej, a także połączenia albo podziału podmiotów dokonywanych na podstawie odrębnych przepisów - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) podmiotu o zmienionej formie prawnej, podzielonego albo połączonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.
 
 13. Przepis ust. 12 stosuje się odpowiednio w razie:
 
@@ -56,15 +64,17 @@
 
 - 2) różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku niewystąpienia dodatniej wartości firmy.
 
-14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego. Jeżeli składniki majątku wchodzące w skład wkładu niepieniężnego nie były wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych prowadzonej przez podmiot wnoszący wkład niepieniężny, stosuje się odpowiednio ust. 14.
+14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
 
 14b. W przypadku otrzymania w związku z likwidacją osoby prawnej środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 12 stosuje się odpowiednio.
+
+14c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 12 stosuje się odpowiednio.
 
 15. W razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze spadku lub darowizny, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi suma ich wartości rynkowej, nie wyższa jednak od różnicy pomiędzy wartością tego przedsiębiorstwa albo jego zorganizowaną częścią a wartością składników mienia, niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, określoną dla celów podatku od spadków i darowizn.
 
 16. Przy ustalaniu wartości początkowej poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, zgodnie z ust. 1 pkt 3-5 oraz ust. 2, 8, 9, 14 i 15, przepis art. 19 stosuje się odpowiednio.
 
-17. Jeżeli środki trwałe uległy ulepszeniu w wyniku przebudowy, rozbudowy, rekonstrukcji, adaptacji lub modernizacji, wartość początkową tych środków, ustaloną zgodnie z ust. 1, 3-9 i 11-15, powiększa się o sumę wydatków na ich ulepszenie, w tym także o wydatki na nabycie części składowych lub peryferyjnych, których jednostkowa cena nabycia przekracza 3 500 zł. Środki trwałe uważa się za ulepszone, gdy suma wydatków poniesionych na ich przebudowę, rozbudowę, rekonstrukcję, adaptację lub modernizację w danym roku podatkowym przekracza 3 500 zł i wydatki te powodują wzrost wartości użytkowej w stosunku do wartości z dnia przyjęcia środków trwałych do używania, mierzonej w szczególności okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych za pomocą ulepszonych środków trwałych i kosztami ich eksploatacji.
+17. Jeżeli środki trwałe uległy ulepszeniu w wyniku przebudowy, rozbudowy, rekonstrukcji, adaptacji lub modernizacji, wartość początkową tych środków, ustaloną zgodnie z ust. 1, 3-9 i 11-15, powiększa się o sumę wydatków na ich ulepszenie, w tym także o wydatki na nabycie części składowych lub peryferyjnych, których jednostkowa cena nabycia przekracza 3500 zł. Środki trwałe uważa się za ulepszone, gdy suma wydatków poniesionych na ich przebudowę, rozbudowę, rekonstrukcję, adaptację lub modernizację w danym roku podatkowym przekracza 3500 zł i wydatki te powodują wzrost wartości użytkowej w stosunku do wartości z dnia przyjęcia środków trwałych do używania, mierzonej w szczególności okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych za pomocą ulepszonych środków trwałych i kosztami ich eksploatacji.
 
 18. Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę - przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
 

@@ -12,7 +12,11 @@
 
 - 5) od dochodu z tytułu udziału w funduszach kapitałowych;
 
-- 6) od kwot wypłacanych po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub spadkobiercy, w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, z wyjątkiem wypłat, o których mowa w art. 21 ust. 1 pkt 59;
+- 6) od kwot wypłacanych po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub spadkobiercy:
+
+  - a) w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych,
+
+  - b) z subkonta, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
 
 - 7) od dochodu członka pracowniczego funduszu emerytalnego z tytułu przeniesienia akcji złożonych na rachunku ilościowym do aktywów tego funduszu;
 
@@ -20,13 +24,21 @@
 
 - 9) od kwot jednorazowo wypłacanych przez otwarty fundusz emerytalny członkowi funduszu, któremu rachunek funduszu otwarto w związku ze śmiercią jego współmałżonka;
 
+- 9a) od kwot jednorazowo wypłacanych przez Zakład Ubezpieczeń Społecznych z subkonta, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w związku ze śmiercią współmałżonka ubezpieczonego;
+
 - 10) od dochodu oszczędzającego na indywidualnym koncie emerytalnym z tytułu zwrotu albo częściowego zwrotu, w rozumieniu przepisów o indywidualnych kontach emerytalnych, środków zgromadzonych na tym koncie;
 
 - 11) od dochodu uczestnika pracowniczego programu emerytalnego z tytułu zwrotu środków zgromadzonych w ramach programu, w rozumieniu przepisów o pracowniczych programach emerytalnych;
 
-- 12) od kwot wypłaty gwarantowanej po śmierci uprawnionego do dożywotniej emerytury kapitałowej w rozumieniu ustawy o emeryturach kapitałowych.
+- 12) od kwot:
+
+  - a) wypłaty gwarantowanej po śmierci uprawnionego do dożywotniej emerytury kapitałowej w rozumieniu ustawy o emeryturach kapitałowych,
+
+  - b) wypłaconych środków gwarantowanych po śmierci uprawnionego do dożywotniej emerytury kapitałowej, o których mowa w art. 40f ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 2. Przepisy ust. 1 pkt 1-5 stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
+
+2a. Od dochodów (przychodów) z tytułu należności, o których mowa w ust. 1 pkt 2, 4 lub 5, przekazanych na rzecz podatników uprawnionych z papierów wartościowych zapisanych na rachunkach zbiorczych, których tożsamość nie została płatnikowi ujawniona w trybie przewidzianym w ustawie, o której mowa w art. 5a pkt 11, podatek, o którym mowa w ust. 1, płatnik pobiera według stawki określonej w ust. 1 od łącznej wartości dochodów (przychodów) przekazanych przez niego na rzecz wszystkich takich podatników za pośrednictwem posiadacza rachunku zbiorczego.
 
 3. Jeżeli nie jest możliwa identyfikacja umarzanych jednostek uczestnictwa w funduszach inwestycyjnych, umarzanych albo wykupywanych certyfikatów inwestycyjnych w tych funduszach lub w inny sposób unicestwianych tytułów udziału w funduszach kapitałowych, przyjmuje się, że kolejno są to odpowiednio jednostki, certyfikaty lub tytuły począwszy od nabytych przez podatnika najwcześniej (FIFO). Zasadę, o której mowa w zdaniu pierwszym, stosuje się odrębnie dla każdego rachunku inwestycyjnego.
 
@@ -34,11 +46,21 @@
 
 5. Dochodu, o którym mowa w ust. 1 pkt 5, nie pomniejsza się o straty z tytułu udziału w funduszach kapitałowych oraz inne straty z kapitałów pieniężnych i praw majątkowych, poniesione w roku podatkowym oraz w latach poprzednich.
 
-6. Zryczałtowany podatek, o którym mowa w ust. 1 pkt 1-4 oraz pkt 6, 8 i 9, pobiera się bez pomniejszania przychodu o koszty uzyskania, z zastrzeżeniem art. 24 ust. 5 pkt 1, 2 i 4, ust. 5a i 5d.
+6. Zryczałtowany podatek, o którym mowa w ust. 1 pkt 1-4 oraz pkt 6, 8 i 9, pobiera się bez pomniejszania przychodu o koszty uzyskania, z zastrzeżeniem art. 24 ust. 5 pkt 1 i 4, ust. 5a i 5d.
 
 7. Dochodów (przychodów), o których mowa w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27.
 
-8. Dochodem, o którym mowa w ust. 1 pkt 10, jest różnica między kwotą stanowiącą wartość środków zgromadzonych na indywidualnym koncie emerytalnym a sumą wpłat na indywidualne konto emerytalne, a w przypadku częściowego zwrotu dochodem jest kwota zwrotu pomniejszona o kwotę stanowiącą iloczyn kwoty zwrotu i wskaźnika stanowiącego udział sumy wpłat na indywidualne konto emerytalne do wartości środków zgromadzonych na tym koncie. Dochodu tego nie pomniejsza się o straty z kapitałów pieniężnych i praw majątkowych poniesionych w roku podatkowym oraz w latach poprzednich. Zdanie pierwsze i drugie stosuje się odpowiednio do określania dochodu, o którym mowa w ust. 1 pkt 11.
+8. Dochodem, o którym mowa w ust. 1 pkt 10, jest różnica między kwotą stanowiącą wartość środków zgromadzonych na indywidualnym koncie emerytalnym a sumą wpłat na indywidualne konto emerytalne.
+
+8a. Dochodem przy całkowitym zwrocie, który został poprzedzony zwrotami częściowymi, jest różnica pomiędzy wartością środków zgromadzonych na indywidualnym koncie emerytalnym na dzień całkowitego zwrotu a sumą wpłat na indywidualne konto emerytalne pomniejszoną o koszty częściowych zwrotów.
+
+8b. W przypadku częściowego zwrotu dochodem jest kwota zwrotu pomniejszona o koszty przypadające na ten zwrot. Za koszt, o którym mowa w zdaniu pierwszym, uważa się iloczyn kwoty zwrotu i wskaźnika stanowiącego udział sumy wpłat na indywidualne konto emerytalne do wartości środków zgromadzonych na tym koncie.
+
+8c. Przy kolejnym częściowym zwrocie przepisy ust. 8a i 8b stosuje się odpowiednio, z tym że do ustalenia wartości środków zgromadzonych na indywidualnym koncie emerytalnym bierze się aktualny stan środków na tym koncie.
+
+8d. Dochodu, o którym mowa w ust. 8-8c, nie pomniejsza się o straty z kapitałów pieniężnych i praw majątkowych poniesionych w roku podatkowym oraz w latach poprzednich.
+
+8e. Przepisy ust. 8-8d stosuje się odpowiednio do określania dochodu, o którym mowa w ust. 1 pkt 11.
 
 9. Podatnicy, o których mowa w art. 3 ust. 1, uzyskujący poza granicami Rzeczypospolitej Polskiej przychody (dochody) określone w ust. 1 pkt 1-5, od zryczałtowanego podatku obliczonego zgodnie z ust. 1, od tych przychodów (dochodów), odliczają kwotę równą podatkowi zapłaconemu za granicą, jednakże odliczenie to nie może przekroczyć kwoty podatku obliczonego od tych przychodów (dochodów) przy zastosowaniu stawki 19%.
 

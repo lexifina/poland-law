@@ -12,7 +12,9 @@
 
 - 4) różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia udziałów w spółkach mających osobowość prawną a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1f lub art. 23 ust. 1 pkt 38,
 
-- 5) różnica pomiędzy wartością nominalną objętych udziałów (akcji) w spółkach mających osobowość prawną albo wkładów w spółdzielniach w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e
+- 5) różnica pomiędzy wartością nominalną objętych udziałów (akcji) w spółkach mających osobowość prawną albo wkładów w spółdzielniach w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e,
+
+- 6) różnica między przychodem uzyskanym z odpłatnego zbycia udziałów (akcji) spółki kapitałowej powstałej w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1ł
 
 - osiągnięta w roku podatkowym.
 

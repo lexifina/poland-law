@@ -1,12 +1,12 @@
 # Art. 9a.
 
-1. Dochody osiągnięte przez podatników ze źródła, o którym mowa w art. 10 ust. 1 pkt 3, są opodatkowane na zasadach określonych w art. 27, z zastrzeżeniem ust. 2 i 3, chyba że podatnicy złożą właściwemu naczelnikowi urzędu skarbowego pisemny wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym.
+1. Dochody osiągnięte przez podatników ze źródła, o którym mowa w art. 10 ust. 1 pkt 3, są opodatkowane na zasadach określonych w art. 27, z zastrzeżeniem ust. 2 i 3, chyba że podatnicy złożą właściwemu naczelnikowi urzędu skarbowego pisemny wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym. Podatnicy podejmujący działalność gospodarczą wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym mogą złożyć na podstawie przepisów o swobodzie działalności gospodarczej.
 
-2. Podatnicy, z zastrzeżeniem ust. 3, mogą wybrać sposób opodatkowania dochodów z pozarolniczej działalności gospodarczej na zasadach określonych w art. 30c. W tym przypadku są obowiązani do złożenia właściwemu naczelnikowi urzędu skarbowego do dnia 20 stycznia roku podatkowego pisemnego oświadczenia o wyborze tego sposobu opodatkowania, a jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej w trakcie roku podatkowego - do dnia poprzedzającego dzień rozpoczęcia tej działalności, nie później jednak niż w dniu uzyskania pierwszego przychodu.
+2. Podatnicy, z zastrzeżeniem ust. 3, mogą wybrać sposób opodatkowania dochodów z pozarolniczej działalności gospodarczej na zasadach określonych w art. 30c. W tym przypadku są obowiązani do złożenia właściwemu naczelnikowi urzędu skarbowego do dnia 20 stycznia roku podatkowego pisemnego oświadczenia o wyborze tego sposobu opodatkowania. Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej, oświadczenie może złożyć na podstawie przepisów o swobodzie działalności gospodarczej, a jeżeli podatnik nie złożył oświadczenia na podstawie tych przepisów - pisemne oświadczenie składa właściwemu naczelnikowi urzędu skarbowego, nie później niż w dniu uzyskania pierwszego przychodu.
 
 3. Jeżeli podatnik, który wybrał sposób opodatkowania, o którym mowa w ust. 2, uzyska z działalności gospodarczej prowadzonej samodzielnie lub z tytułu prawa do udziału w zysku spółki niemającej osobowości prawnej przychody ze świadczenia usług na rzecz byłego lub obecnego pracodawcy, odpowiadających czynnościom, które podatnik lub co najmniej jeden ze wspólników:
 
-- 1) wykonywał w roku poprzedzającym rok podatkowy, lub
+- 1) (uchylony),
 
 - 2) wykonywał lub wykonuje w roku podatkowym
 

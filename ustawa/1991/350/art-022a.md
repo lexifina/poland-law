@@ -16,6 +16,8 @@
 
 - 2) budynki i budowle wybudowane na cudzym gruncie,
 
-- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający - zwane także środkami trwałymi,
+- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający
 
-- 4) tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) w grupie „statki” o symbolu 35.11, zaliczone do branży 1051 - 1053 Systematycznego Wykazu Wyrobów (SWW) Głównego Urzędu Statystycznego (Dz. U. z 1997 r. Nr 42, poz. 264 oraz z 1999 r. Nr 92, poz. 1045).
+- zwane także środkami trwałymi,
+
+- 4) tabor transportu morskiego w budowie (PKWiU 30.11).

@@ -20,7 +20,11 @@
 
 - 3) wykonują zawód adwokata wyłącznie w zespole adwokackim;
 
-- 4) dokonują sprzedaży środków trwałych po likwidacji działalności.
+- 4) dokonują odpłatnego zbycia składników majątku:
+
+  - a) po likwidacji działalności gospodarczej prowadzonej samodzielnie,
+
+  - b) otrzymanych w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem z takiej spółki.
 
 4. Obowiązek prowadzenia ksiąg rachunkowych dotyczy osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych oraz spółek partnerskich, jeżeli ich przychody, w rozumieniu art. 14, za poprzedni rok podatkowy wyniosły w walucie polskiej co najmniej równowartość kwoty określonej w euro w przepisach o rachunkowości.
 

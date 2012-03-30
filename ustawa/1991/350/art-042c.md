@@ -12,7 +12,7 @@
 
 2. Podmiotem wypłacającym, o którym mowa w ust. 1, jest:
 
-- 1) osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadającą osobowości prawnej, która wypłaca lub stawia do dyspozycji przychody (dochody), o których mowa w ust. 5, w związku z prowadzoną działalnością gospodarczą, na rzecz faktycznego lub pośredniego odbiorcy;
+- 1) osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która wypłaca lub stawia do dyspozycji przychody (dochody), o których mowa w ust. 5, w związku z prowadzoną działalnością gospodarczą, na rzecz faktycznego lub pośredniego odbiorcy;
 
 - 2) pośredni odbiorca, mający miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, który wypłaca lub stawia do dyspozycji przychody (dochody), o których mowa w ust. 5, na rzecz faktycznego odbiorcy.
 

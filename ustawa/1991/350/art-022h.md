@@ -12,10 +12,14 @@
 
 2. Podatnicy, z zastrzeżeniem art. 22l i 22ł, dokonują wyboru jednej z metod amortyzacji określonej w art. 22i-22k dla poszczególnych środków trwałych przed rozpoczęciem ich amortyzacji; wybraną metodę stosuje się do pełnego zamortyzowania danego środka trwałego.
 
-3. Podmioty powstałe w wyniku zmiany formy prawnej, podziału albo połączenia podmiotów, o których mowa w art. 22g ust. 12 lub 13, dokonują odpisów amortyzacyjnych z uwzględnieniem dotychczasowej wysokości odpisów oraz kontynuują metodę amortyzacji przyjętą przez podmiot o zmienionej formie prawnej, podzielony albo połączony, z uwzględnieniem art. 22i ust. 2 - 7.
+3. Podmioty powstałe w wyniku zmiany formy prawnej, podziału albo połączenia podmiotów, o których mowa w art. 22g ust. 12 lub 13, dokonują odpisów amortyzacyjnych z uwzględnieniem dotychczasowej wysokości odpisów oraz kontynuują metodę amortyzacji przyjętą przez podmiot o zmienionej formie prawnej, podzielony albo połączony, z uwzględnieniem art. 22i ust. 2-7.
 
 3a. Przepis ust. 3 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego, jeżeli składniki majątku wchodzące w skład wkładu niepieniężnego były wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych podmiotu wnoszącego taki wkład.
 
 3b. W przypadku otrzymania w związku z likwidacją osoby prawnej środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 3 stosuje się odpowiednio.
+
+3c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 3 stosuje się odpowiednio.
+
+3d. Przepis ust. 3 stosuje się odpowiednio w przypadku określonym w art. 22g ust. 1 pkt 4 lit. a.
 
 4. Podatnicy mogą dokonywać odpisów amortyzacyjnych w równych ratach co miesiąc albo w równych ratach co kwartał, albo jednorazowo na koniec roku podatkowego, z uwzględnieniem art. 22i. Suma odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych dokonanych w pierwszym roku podatkowym, w którym środki te zostały wprowadzone do ewidencji, nie może przekroczyć wartości tych odpisów przypadających za okres od wprowadzenia ich do ewidencji (wykazu) do końca tego roku podatkowego.

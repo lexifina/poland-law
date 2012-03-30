@@ -14,7 +14,7 @@
 
 2. Zwolnienie, o którym mowa w ust. 1 pkt 2, nie ma zastosowania do dochodów (przychodów) od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem - wypłacanych lub stawianych do dyspozycji na podstawie tych umów zmienionych, przedłużonych lub odnowionych począwszy od dnia 1 grudnia 2001 r.
 
-3. jeżeli wypłata dochodów (przychodów) wynika z umów zawartych w okresie od dnia 1 grudnia 2001 r. do dnia 28 lutego 2002 r., podatek, o którym mowa w art. 30a ust. 1 pkt 3, określa się w wysokości przypadającej proporcjonalnie na okres, w którym podatnikowi nie przysługuje zwolnienie na podstawie ust. 1 pkt 2.
+3. Jeżeli wypłata dochodów (przychodów) wynika z umów zawartych w okresie od dnia 1 grudnia 2001 r. do dnia 28 lutego 2002 r., podatek, o którym mowa w art. 30a ust. 1 pkt 3, określa się w wysokości przypadającej proporcjonalnie na okres, w którym podatnikowi nie przysługuje zwolnienie na podstawie ust. 1 pkt 2.
 
 4. Przepis ust. 3 stosuje się odpowiednio do odsetek i dyskonta od obligacji określonych w ust. 1 pkt 1.
 

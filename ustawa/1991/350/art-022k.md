@@ -22,12 +22,12 @@
 
 8. Podatnicy mogą dokonywać odpisów amortyzacyjnych, o których mowa w ust. 7, nie wcześniej niż w miesiącu, w którym środki trwałe zostały wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych, lub stosować zasady określone w art. 22h ust. 4. Od następnego roku podatkowego podatnicy dokonują odpisów amortyzacyjnych zgodnie z ust. 1 lub art. 22i; suma odpisów amortyzacyjnych, w tym dokonanych w pierwszym roku podatkowym oraz niezaliczonych do kosztów uzyskania przychodów zgodnie z art. 22 ust. 1, nie może przekroczyć wartości początkowej tych środków trwałych.
 
-9. Przy określaniu limitu, o którym mowa w ust. 7, nie uwzględnia się odpisów amortyzacyjnych od nieprzekraczającej 3 500 zł wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22f ust. 3.
+9. Przy określaniu limitu, o którym mowa w ust. 7, nie uwzględnia się odpisów amortyzacyjnych od nieprzekraczającej 3500 zł wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22f ust. 3.
 
 10. Pomoc, o której mowa w ust. 7, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
 
 11. Przepis ust. 7 nie ma zastosowania do podatnika rozpoczynającego prowadzenie działalności gospodarczej, który w roku rozpoczęcia tej działalności, a także w okresie dwóch lat, licząc od końca roku poprzedzającego rok jej rozpoczęcia, prowadził działalność gospodarczą samodzielnie lub jako wspólnik spółki niemającej osobowości prawnej lub działalność taką prowadził małżonek tej osoby, jeżeli między małżonkami istniała w tym czasie wspólność majątkowa.
 
-12. Przeliczenia na złote kwoty, o której mowa w ust. 7, dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy, w którym wystąpiło zdarzenie, o którym mowa w tym przepisie, w zaokrągleniu do 1 000 zł.
+12. Przeliczenia na złote kwoty, o której mowa w ust. 7, dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy, w którym wystąpiło zdarzenie, o którym mowa w tym przepisie, w zaokrągleniu do 1000 zł.
 
-13. w przypadku spółki niemającej osobowości prawnej kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, dotyczy spółki.
+13. W przypadku spółki niemającej osobowości prawnej kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, dotyczy spółki.

@@ -1,3 +1,9 @@
 # Art. 45a.
 
-Prezes Rady Ministrów określi, ze względu na ochronę tajemnicy państwowej, w drodze zarządzenia, odrębny tryb poboru podatku dochodowego, tryb składania informacji i zeznań podatkowych, a także dodatkowe zadania płatników związane z obowiązkiem rozliczania rocznego podatków, z uwzględnieniem wszystkich dodatkowych dochodów, wydatków, ulg, zwolnień i wyłączeń, mających wpływ na podstawę opodatkowania i wysokość podatku podatnika, niż określone w art. 6, 37, 38, 41, 42 i 45, ustalając jednocześnie dodatkowy zakres obowiązków płatnika, w szczególności prowadzenia postępowań i wydawania decyzji w sprawach podatkowych, w których właściwe są organy podatkowe.
+Jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa:
+
+- 1) zadania naczelnika urzędu skarbowego, o którym mowa w art. 37 ust. 3, art. 39 ust. 1, art. 42 ust. 2 pkt 2, pełni organ wymieniony w art. 13a Ordynacji podatkowej;
+
+- 2) zadania urzędu skarbowego, o którym mowa w art. 45 ust. 1, pełni urząd obsługujący organ, o którym mowa w art. 13a Ordynacji podatkowej;
+
+- 3) przekazania 1% podatku należnego z zeznań podatkowych albo ich korekt, o którym mowa w art. 45c ust. 1, złożonych urzędowi, o którym mowa w pkt 2, dokonuje naczelnik urzędu skarbowego właściwy według siedziby urzędu, o którym mowa w pkt 2, na podstawie otrzymanej od tego urzędu pisemnej informacji.
