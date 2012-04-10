@@ -1,0 +1,1 @@
+Na podstawie art. 26 ust. 6 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje:
