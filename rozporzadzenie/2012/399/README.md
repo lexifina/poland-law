@@ -1,0 +1,4 @@
+# Rozporządzenie Ministra Rozwoju Regionalnego z dnia 29 marca 2012 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na promocję gospodarczą Polski Wschodniej, stworzenie sieci współpracy centrów obsługi inwestora, tworzenie i rozwój klastrów, tworzenie polityki rozwoju regionalnego w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007-2013
+
+Dz.U. 2012 poz. 399 · <https://eli.gov.pl/api/acts/DU/2012/399>
+
