@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/223",
+ "source_sha256": "ee3c67117bfabef3add837ee6ee06284b534205c4c8fd85553f3830933971289",
+ "in_force": "2012-04-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/223/text/O/M20120223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/223/text/I/M20120223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/223",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 223,
+  "address": "WMP20120000223",
+  "displayAddress": "M.P. 2012 poz. 223",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 11 kwietnia 2012 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-04-11",
+  "promulgation": "2012-04-16",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "jednostki budżetowe",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
