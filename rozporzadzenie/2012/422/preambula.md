@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 2 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2001 r. Nr 60, poz. 622, z późn. zm.) zarządza się, co następuje:
