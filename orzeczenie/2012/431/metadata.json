@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/431",
+ "source_sha256": "6e717b198df35af323fdaf4512c15e0adbb4278a94362429b468edb34c15a87c",
+ "in_force": "2012-04-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 892 words, parsed 59; at 59: 'kwietnia 2012 r . : 1 ) skargi konstytucyjnej Wojciecha'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/431",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/431/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/431/text/O/D20120431.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/431/text/I/D20120431.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/431/text/T/D20120431TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/431",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 431,
+  "address": "WDU20120000431",
+  "displayAddress": "Dz.U. 2012 poz. 431",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2012 r. sygn. akt SK 30/10",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-04-12",
+  "promulgation": "2012-04-20",
+  "entryIntoForce": "2012-04-20",
+  "validFrom": "2012-04-20",
+  "changeDate": "2024-03-14T21:01:53",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe",
+   "kultura i sztuka"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Wyrok TK dotyczy także par. 9 ust. 1 in fine oraz par. 14 Statutu Centralnej Komisji do Spraw Tytułu Naukowego i Stopni Naukowych (niepubl.)",
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/595"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20120431.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20120431.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20120431TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
