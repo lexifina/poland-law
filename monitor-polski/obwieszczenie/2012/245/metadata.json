@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/245",
+ "source_sha256": "ad8b7275e15df2a0b4844b28292c6e093279f518daa5b8ab733a1a00b6ec5348",
+ "in_force": "2012-04-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/245",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/245/text/O/M20120245.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/245/text/I/M20120245.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/245",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 245,
+  "address": "WMP20120000245",
+  "displayAddress": "M.P. 2012 poz. 245",
+  "title": "Obwieszczenie Pierwszego Prezesa Sądu Najwyższego z dnia 17 kwietnia 2012 r. o liczbie, przewidzianych do objęcia, stanowisk sędziego Sądu Najwyższego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-04-17",
+  "promulgation": "2012-04-24",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PIERWSZY PREZES SĄDU NAJWYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 24 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120245.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120245.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
