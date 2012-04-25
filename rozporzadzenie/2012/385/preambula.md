@@ -1,0 +1,1 @@
+Na podstawie art. 39a ust. 7 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935 oraz z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367) zarządza się, co następuje:
