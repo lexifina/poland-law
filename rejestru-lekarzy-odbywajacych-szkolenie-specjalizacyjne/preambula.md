@@ -1,0 +1,1 @@
+Na podstawie art. 16p ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95) zarządza się, co następuje:
