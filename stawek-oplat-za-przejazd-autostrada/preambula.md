@@ -1,0 +1,1 @@
+Na podstawie art. 37e ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) zarządza się, co następuje:
