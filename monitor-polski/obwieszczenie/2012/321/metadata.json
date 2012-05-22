@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/321",
+ "source_sha256": "517186ae420940928cd18f1af9ca95d86c9a88fdf8df089b700dbb92456b03fc",
+ "in_force": "2012-05-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/321",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/321/text/O/M20120321.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/321/text/I/M20120321.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/321",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 321,
+  "address": "WMP20120000321",
+  "displayAddress": "M.P. 2012 poz. 321",
+  "title": "Obwieszczenie Prokuratora Generalnego z dnia 14 maja 2012 r. o wolnych stanowiskach prokuratorskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-05-14",
+  "promulgation": "2012-05-22",
+  "changeDate": "2019-03-25T11:56:34",
+  "releasedBy": [
+   "PROKURATOR GENERALNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 14b ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120321.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120321.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
