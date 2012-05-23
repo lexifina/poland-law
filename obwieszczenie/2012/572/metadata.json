@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/572",
+ "source_sha256": "3c70481354784ba733781c3d4768c915c7cf2b17b85bb14c66e2ea54c7b19fc5",
+ "in_force": "2012-05-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/572",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/572/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/572/text/O/D20120572.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/572/text/I/D20120572.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2012/572/text/U/D20120572Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/572",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 572,
+  "address": "WDU20120000572",
+  "displayAddress": "Dz.U. 2012 poz. 572",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o szkolnictwie wyższym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-03-26",
+  "promulgation": "2012-05-23",
+  "expirationDate": "2016-11-15",
+  "changeDate": "2024-03-14T21:05:30",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1365"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20120572.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20120572.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20120572Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
