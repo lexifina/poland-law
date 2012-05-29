@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 1 ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2010 r. Nr 26, poz. 133 i Nr 127, poz. 857 oraz z 2012 r. poz. 441) zarządza się, co następuje:
