@@ -1,0 +1,1 @@
+Na podstawie art. 89za ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 189, poz. 1472, z późn. zm.) zarządza się, co następuje:
