@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 6 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
