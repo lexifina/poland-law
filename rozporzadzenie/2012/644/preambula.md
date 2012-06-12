@@ -1,0 +1,1 @@
+Na podstawie art. 4b ust. 4 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) zarządza się, co następuje:
