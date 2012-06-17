@@ -1,0 +1,1 @@
+Na podstawie art. 129 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) zarządza się, co następuje:
