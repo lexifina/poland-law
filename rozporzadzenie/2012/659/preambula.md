@@ -1,0 +1,1 @@
+Na podstawie art. 26 ust. 2 ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069, z późn. zm.) zarządza się, co następuje:
