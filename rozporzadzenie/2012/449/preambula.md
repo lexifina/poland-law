@@ -1,0 +1,1 @@
+Na podstawie art. 55 pkt 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439 oraz z 2010 r. Nr 167, poz. 1129) zarządza się, co następuje:
