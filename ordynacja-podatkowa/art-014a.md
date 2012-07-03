@@ -28,7 +28,7 @@
 
 § 8. Opłata podlega zwrotowi wyłącznie w przypadku wydania interpretacji ogólnej. Zwrot opłaty następuje w terminie 7 dni od dnia opublikowania interpretacji ogólnej.
 
-§ 9. W sprawach dotyczących wydawania interpretacji ogólnych na wniosek przepisy art. 14d, art. 14f, art. 120, art. 121 § 1, art. 125, art. 129, art. 130, art. 135-137, art. 140, art. 143, art. 165a, art. 168, art. 169 § 1-2, art. 170 i art. 171 oraz przepisy rozdziału 5, 6, 10 i 23 działu IV stosuje się odpowiednio.
+§ 9. W sprawach dotyczących wydawania interpretacji ogólnych na wniosek przepisy art. 14d, art. 14f, art. 120, art. 121 § 1, art. 125, art. 129, art. 130, art. 135−137, art. 140, art. 143, art. 165a, art. 168, art. 169 § 1−2, art. 170 i art. 171 oraz przepisy rozdziału 5, 6, 10 i 23 działu IV stosuje się odpowiednio.
 
 § 10. Minister właściwy do spraw finansów publicznych w celu usprawnienia obsługi wnioskodawców może, w drodze rozporządzenia, upoważnić podległe organy do wydawania, jako organ pierwszej instancji, postanowień o których mowa w § 5, oraz wykonywania czynności, o których mowa w § 7, określając jednocześnie właściwość rzeczową oraz miejscową upoważnionych organów.
 

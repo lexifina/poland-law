@@ -1,6 +1,6 @@
-Wnioskujący o zawarcie porozumienia obowiązany jest do przedstawienia:
-
 # Art. 20f.
+
+Wnioskujący o zawarcie porozumienia obowiązany jest do przedstawienia:
 
 - 1) propozycji stosowania metody ustalania ceny transakcyjnej, a w szczególności wskazania jednej z metod, o których mowa w przepisach o podatku dochodowym od osób prawnych lub przepisach o podatku dochodowym od osób fizycznych;
 

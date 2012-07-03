@@ -10,6 +10,6 @@ Minister właściwy do spraw finansów publicznych określi, w drodze rozporząd
 
 - 4) wzór ewidencji przekazanych lub otrzymanych informacji w sprawach zaświadczeń oraz szczegółowy sposób jej prowadzenia, uwzględniając w szczególności dane identyfikujące osobę, której dotyczy zaświadczenie, treść przekazanych lub otrzymanych informacji, dane identyfikujące osobę lub organ przekazujący informacje;
 
-- 5) wzory zaświadczeń, uwzględniając w szczególności zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i organ wydający zaświadczenie.
+- 5) wzory zaświadczeń, uwzględniając w szczególności zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i organ wydający zaświadczenie;
 
 - 6) wzór oświadczenia, o którym mowa w art. 306h § 2, uwzględniając dane identyfikujące małżonków.
