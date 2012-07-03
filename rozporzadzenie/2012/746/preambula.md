@@ -1,0 +1,1 @@
+Na podstawie art. 17 ust. 1 pkt 2 lit. b ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051, z późn. zm.) zarządza się, co następuje:
