@@ -1,3 +1,3 @@
 # Art. 305d.
 
-Informacje są udzielane na wniosek obcych władz lub z urzędu.
+informacje są udzielane na wniosek obcych władz lub z urzędu.

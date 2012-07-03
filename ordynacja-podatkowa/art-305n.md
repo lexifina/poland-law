@@ -12,7 +12,7 @@
 
 - właściwym władzom tych państw i terytoriów.
 
-§ 2. Informacje przekazuje się przynajmniej raz w roku w terminie 6 miesięcy od zakończenia roku podatkowego podmiotu wypłacającego przychody (dochody).
+§ 2. informacje przekazuje się przynajmniej raz w roku w terminie 6 miesięcy od zakończenia roku podatkowego podmiotu wypłacającego przychody (dochody).
 
 § 3. Minister właściwy do spraw finansów publicznych, w celu usprawnienia współpracy, może zawierać z właściwymi władzami państw i terytoriów, o których mowa w § 1, porozumienia dwustronne lub wielostronne w zakresie szczegółowych zasad i trybu wymiany informacji.
 

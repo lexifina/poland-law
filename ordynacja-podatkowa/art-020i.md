@@ -1,3 +1,5 @@
+# Art. 20i.
+
 § 1. W sprawach o uznanie prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi wydaje się decyzję, zwaną dalej „decyzją w sprawie porozumienia”.
 
 § 2. Decyzję w sprawie porozumienia doręcza się podmiotom powiązanym (krajowym i zagranicznym), z którymi mają być dokonywane transakcje, a w przypadku porozumień dwustronnych lub wielostronnych - również władzom podatkowym właściwym dla podmiotów zagranicznych oraz naczelnikowi urzędu skarbowego i dyrektorowi urzędu kontroli skarbowej właściwym dla wnioskodawcy oraz właściwym dla podmiotów krajowych powiązanych z wnioskodawcą będących stronami transakcji objętej decyzją w sprawie porozumienia.
