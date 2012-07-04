@@ -1,0 +1,1 @@
+Na podstawie art. 57 ust. 7 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342 oraz z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513) zarządza się, co następuje:
