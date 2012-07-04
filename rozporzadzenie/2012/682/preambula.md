@@ -1,0 +1,1 @@
+Na podstawie art. 9a ust. 5 ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. Nr 187, poz. 1381, z późn. zm.) zarządza się, co następuje:
