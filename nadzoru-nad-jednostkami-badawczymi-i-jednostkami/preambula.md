@@ -1,0 +1,1 @@
+Na podstawie art. 25 ust. 2 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 235, poz. 1700, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 92, poz. 528) zarządza się, co następuje:
