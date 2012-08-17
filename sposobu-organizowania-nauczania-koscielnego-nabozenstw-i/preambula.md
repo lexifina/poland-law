@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 5 ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 254, z późn. zm.) zarządza się, co następuje:
