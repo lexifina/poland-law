@@ -1,0 +1,3 @@
+# Art. 3a.
+
+Jeżeli podstawę wpisu własności nieruchomości Skarbu Państwa w księgach wieczystych, zgodnie z przepisami odrębnymi, stanowi orzeczenie sądu stwierdzające nabycie własności nieruchomości z mocy prawa, w terminie określonym w art. 2a, organy wymienione w art. 2 ust. 1 i 2 złożą stosowne wnioski do właściwych sądów o stwierdzenie nabycia własności nieruchomości przez Skarb Państwa. W takich wypadkach termin do złożenia wniosku o ujawnienie w księgach wieczystych prawa własności nieruchomości Skarbu Państwa, wraz z dokumentami stanowiącymi podstawę wpisu tego prawa, wynosi miesiąc od dnia uprawomocnienia się orzeczenia sądu.
