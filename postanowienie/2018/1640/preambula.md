@@ -1,0 +1,1 @@
+Na podstawie art. 25 ust. 1 pkt 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) postanawiam, co następuje:
