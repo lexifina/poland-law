@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/617",
+ "source_sha256": "91f99254634f8e9c4cbfc7746b53dd9152c5089d19a551a850b91f7b79b9c7e4",
+ "in_force": "2012-08-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/617",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/617/text/O/M20120617.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/617/text/I/M20120617.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/617",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 617,
+  "address": "WMP20120000617",
+  "displayAddress": "M.P. 2012 poz. 617",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 23 lipca 2012 r. nr 112-32-2012 o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-07-23",
+  "promulgation": "2012-08-27",
+  "changeDate": "2018-01-16T15:07:41",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120617.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120617.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
