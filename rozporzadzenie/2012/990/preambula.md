@@ -1,0 +1,1 @@
+Na podstawie art. 30 ust. 3 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z późn. zm.) zarządza się, co następuje:
