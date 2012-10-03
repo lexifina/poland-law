@@ -1,0 +1,1 @@
+Na podstawie art. 23 ust. 2 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2012 r. poz. 1017) zarządza się, co następuje:
