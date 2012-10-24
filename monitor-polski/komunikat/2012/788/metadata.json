@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/788",
+ "source_sha256": "35251a721accb5388125aa6baf94bbaacfdba1db564977504c4ed4983521ba5c",
+ "in_force": "2012-10-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/788",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/788/text/O/M20120788.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/788/text/I/M20120788.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/788",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 788,
+  "address": "WMP20120000788",
+  "displayAddress": "M.P. 2012 poz. 788",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 19 października 2012 r. w sprawie średniej ceny sprzedaży drewna, obliczonej według średniej ceny drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały 2012 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-10-19",
+  "promulgation": "2012-10-24",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "drewno"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1682"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1682",
+     "art": "art. 4 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120788.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120788.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
