@@ -1,0 +1,1 @@
+Na podstawie art. 37a ust. 7 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013 (Dz. U. z 2023 r. poz. 1105) zarządza się, co następuje:
