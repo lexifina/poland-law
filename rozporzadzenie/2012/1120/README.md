@@ -1,0 +1,4 @@
+# Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 września 2012 r. zmieniające rozporządzenie w sprawie internatów zarządzanych przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji
+
+Dz.U. 2012 poz. 1120 · <https://eli.gov.pl/api/acts/DU/2012/1120>
+
