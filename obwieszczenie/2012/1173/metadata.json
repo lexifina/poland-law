@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1173",
+ "source_sha256": "18c52c5ce0b602ea24cc91d35777fa3242af2f6ceb088db68d164f8021b7bc8c",
+ "in_force": "2012-10-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1173",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1173/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1173/text/O/D20121173.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1173/text/I/D20121173.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1173/text/T/D20121173L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2012/1173/text/U/D20121173Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1173",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1173,
+  "address": "WDU20120001173",
+  "displayAddress": "Dz.U. 2012 poz. 1173",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 sierpnia 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo przewozowe",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-08-30",
+  "promulgation": "2012-10-26",
+  "expirationDate": "2015-06-30",
+  "changeDate": "2024-03-14T21:00:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przewozowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1984/272"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121173.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121173.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121173L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20121173Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
