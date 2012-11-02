@@ -1,0 +1,4 @@
+# Ustawa z dnia 14 września 2012 r. o ratyfikacji Traktatu między Królestwem Belgii, Republiką Bułgarii, Republiką Czeską, Królestwem Danii, Republiką Federalną Niemiec, Republiką Estońską, Republiką Grecką, Królestwem Hiszpanii, Republiką Francuską, Irlandią, Republiką Włoską, Republiką Cypryjską, Republiką Łotewską, Republiką Litewską, Wielkim Księstwem Luksemburga, Republiką Węgierską, Republiką Malty, Królestwem Niderlandów, Republiką Austrii, Rzecząpospolitą Polską, Republiką Portugalską, Rumunią, Republiką Słowenii, Republiką Słowacką, Republiką Finlandii, Królestwem Szwecji, Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej (Państwami Członkowskimi Unii Europejskiej) a Republiką Chorwacji dotyczącego przystąpienia Republiki Chorwacji do Unii Europejskiej, sporządzonego w Brukseli dnia 9 grudnia 2011 r.
+
+Dz.U. 2012 poz. 1135 · <https://api.sejm.gov.pl/eli/acts/DU/2012/1135>
+
