@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/836",
+ "source_sha256": "b91b6e9ce74fe8ad33dc43a12146d8b56a29c69aaba0d5aa6d073fb08bf6253b",
+ "in_force": "2012-11-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/836",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/836/text/O/M20120836.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/836/text/I/M20120836.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/836",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 836,
+  "address": "WMP20120000836",
+  "displayAddress": "M.P. 2012 poz. 836",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 31 października 2012 r. w sprawie szacunków wartości produktu krajowego brutto na jednego mieszkańca w latach 2008-2010",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-10-31",
+  "promulgation": "2012-11-09",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "produkcja",
+   "klasyfikacja"
+  ],
+  "keywordsNames": [
+   "Główny Urząd Statystyczny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/1188"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/1188",
+     "art": "art. 6 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120836.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120836.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
