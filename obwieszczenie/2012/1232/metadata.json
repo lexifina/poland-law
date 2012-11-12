@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1232",
+ "source_sha256": "5d49d4d392fec8d2d410c50ab9c0fefa29ab23598c79c3a2ca06556fe4c117e3",
+ "in_force": "2012-11-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1232",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1232/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1232/text/O/D20121232.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1232/text/I/D20121232.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1232/text/T/D20121232L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2012/1232/text/W/D20121232L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1232",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1232,
+  "address": "WDU20120001232",
+  "displayAddress": "Dz.U. 2012 poz. 1232",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 września 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy o elektronicznych instrumentach płatniczych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-09-13",
+  "promulgation": "2012-11-12",
+  "repealDate": "2013-10-07",
+  "changeDate": "2024-03-14T21:01:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "elektroniczny instrument płatniczy"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32000L0046",
+    "date": "2000-09-18",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY z dnia 18 września 2000 r. w sprawie podejmowania i prowadzenia działalności przez instytucje pieniądza elektronicznego oraz nadzoru ostrożnościowego nad ich działalnością"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2013/1036",
+     "date": "2013-10-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1385"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121232.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121232.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121232L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20121232L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
