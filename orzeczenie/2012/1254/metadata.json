@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1254",
+ "source_sha256": "8a1c558a7daa4a385d8301f042a0339d2b4ed24f3cb800128a4f20302c1f593f",
+ "in_force": "2012-11-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 548 words, parsed 373; at 373: 'przed sądem drugiej instancji : a ) jest niezgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1254",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1254/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1254/text/O/D20121254.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1254/text/I/D20121254.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1254/text/T/D20121254TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1254",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1254,
+  "address": "WDU20120001254",
+  "displayAddress": "Dz.U. 2012 poz. 1254",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 30 października 2012 r. sygn. akt SK 20/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-10-30",
+  "promulgation": "2012-11-15",
+  "entryIntoForce": "2012-11-15",
+  "validFrom": "2012-11-15",
+  "changeDate": "2024-03-14T21:04:39",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2012-11-15"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121254.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121254.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121254TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
