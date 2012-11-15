@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 4 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2012 r. poz. 400) zarządza się, co następuje:
