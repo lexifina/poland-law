@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1281",
+ "source_sha256": "203c8cd7028a491d18d65ad758354d3a7511c962875b2386f7af8ce9e67e95f5",
+ "in_force": "2012-11-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 420 words, parsed 67; at 67: 'Obywatelskich o zbadanie zgodności : 1 ) art . 34'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1281",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1281/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1281/text/O/D20121281.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1281/text/I/D20121281.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1281/text/T/D20121281TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1281",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1281,
+  "address": "WDU20120001281",
+  "displayAddress": "Dz.U. 2012 poz. 1281",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 6 listopada 2012 r. sygn. akt K 21/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-11-06",
+  "promulgation": "2012-11-21",
+  "entryIntoForce": "2012-11-21",
+  "validFrom": "2012-11-21",
+  "changeDate": "2024-03-14T21:00:42",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "łowieckie prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1995/713",
+     "date": "2012-11-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1995/713"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121281.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121281.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121281TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
