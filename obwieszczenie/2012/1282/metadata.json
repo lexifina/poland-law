@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1282",
+ "source_sha256": "4ae72084f7b3beec4be95fa49599dfd73a56ff2c736e787feaacc71a9f1587d6",
+ "in_force": "2012-11-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1282",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1282/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1282/text/O/D20121282.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1282/text/I/D20121282.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1282/text/T/D20121282L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2012/1282/text/U/D20121282Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1282",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1282,
+  "address": "WDU20120001282",
+  "displayAddress": "Dz.U. 2012 poz. 1282",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 września 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłacie skarbowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-09-13",
+  "promulgation": "2012-11-21",
+  "expirationDate": "2014-11-21",
+  "changeDate": "2024-03-14T21:00:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata skarbowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/1635"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121282.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121282.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121282L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20121282Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
