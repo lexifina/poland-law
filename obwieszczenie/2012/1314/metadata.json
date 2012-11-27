@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1314",
+ "source_sha256": "a61cd3e6ab58df794f9220270c2d02467e9df7cdfa6d694cc44017658a5fb6fd",
+ "in_force": "2012-11-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1314",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1314/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1314/text/O/D20121314.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1314/text/I/D20121314.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1314/text/T/D20121314L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2012/1314/text/U/D20121314Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2012/1314/text/W/D20121314L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1314",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1314,
+  "address": "WDU20120001314",
+  "displayAddress": "Dz.U. 2012 poz. 1314",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 września 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach ewidencji i identyfikacji podatników i płatników",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-09-27",
+  "promulgation": "2012-11-27",
+  "expirationDate": "2016-04-08",
+  "changeDate": "2024-03-14T21:01:19",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "identyfikacja podatkowa",
+   "ewidencja ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/702"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121314.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121314.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121314L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20121314Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20121314L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
