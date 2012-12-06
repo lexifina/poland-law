@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/926",
+ "source_sha256": "0a895416949f011bb613c65e6d96a06e40e5c5eaf297f9da52752f01ee8d28ed",
+ "in_force": "2012-12-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/926",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/926/text/O/M20120926.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/926/text/I/M20120926.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/926",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 926,
+  "address": "WMP20120000926",
+  "displayAddress": "M.P. 2012 poz. 926",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 23 listopada 2012 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Antoniego Macierewicza",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-11-23",
+  "promulgation": "2012-12-06",
+  "changeDate": "2026-10-06T14:18:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120926.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120926.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
