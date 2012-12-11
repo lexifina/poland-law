@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 5a ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687 i Nr 144, poz. 853 oraz z 2012 r. poz. 951) zarządza się, co następuje:
