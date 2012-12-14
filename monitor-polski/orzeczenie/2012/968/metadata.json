@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2012/968",
+ "source_sha256": "2d7eaa92a09a451548b4a507318b405d7ece2f4720af0a0909b885baff3771e6",
+ "in_force": "2012-12-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2012/968",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2012/968/text/O/M20120968.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2012/968/text/I/M20120968.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2012/968/text/T/M20120968TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2012/968",
+  "publisher": "MP",
+  "year": 2012,
+  "volume": 0,
+  "pos": 968,
+  "address": "WMP20120000968",
+  "displayAddress": "M.P. 2012 poz. 968",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 4 grudnia 2012 r. sygn. akt U 3/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-12-04",
+  "promulgation": "2012-12-14",
+  "entryIntoForce": "2012-12-14",
+  "validFrom": "2012-12-14",
+  "changeDate": "2016-02-15T13:14:37",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2003/898",
+     "date": "2012-12-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/2052"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "MP/2003/898"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20120968.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20120968.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20120968TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
