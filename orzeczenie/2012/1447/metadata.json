@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1447",
+ "source_sha256": "aa85dab26cee099de1a5279a4e75e8fac8c40965d1a6139264eee5b2a29a380f",
+ "in_force": "2012-12-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 238 words, parsed 133; at 133: 'Rzeczypospolitej Polskiej , orzeka : I . Art . 245'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1447",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1447/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1447/text/O/D20121447.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1447/text/I/D20121447.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1447/text/T/D20121447TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1447",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1447,
+  "address": "WDU20120001447",
+  "displayAddress": "Dz.U. 2012 poz. 1447",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2012 r. sygn. akt K 37/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-12-11",
+  "promulgation": "2012-12-21",
+  "entryIntoForce": "2012-12-21",
+  "validFrom": "2012-12-21",
+  "changeDate": "2024-03-14T21:00:41",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2013-12-21"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121447.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121447.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121447TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
