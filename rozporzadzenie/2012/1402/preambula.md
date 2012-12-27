@@ -1,0 +1,1 @@
+Na podstawie art. 15 ustawy z dnia 29 grudnia 2005 r. o ustanowieniu programu wieloletniego „Pomoc państwa w zakresie dożywiania” (Dz. U. Nr 267, poz. 2259, z 2008 r. Nr 225, poz. 1487 oraz z 2009 r. Nr 219, poz. 1706) zarządza się, co następuje:
