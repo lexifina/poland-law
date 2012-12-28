@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2012/1510",
+ "source_sha256": "3e3a27bdd07cb359064a1c273e6542eaa7c96880a86b40709dbefd384e1715ba",
+ "in_force": "2012-12-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 354 words, parsed 269; at 269: 'poz . 1707 ) : a ) są zgodne z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2012/1510",
+  "html": "https://eli.gov.pl/api/acts/DU/2012/1510/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2012/1510/text/O/D20121510.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2012/1510/text/I/D20121510.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2012/1510/text/T/D20121510TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2012/1510",
+  "publisher": "DU",
+  "year": 2012,
+  "volume": 0,
+  "pos": 1510,
+  "address": "WDU20120001510",
+  "displayAddress": "Dz.U. 2012 poz. 1510",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2012 r. sygn. akt K 1/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-12-12",
+  "promulgation": "2012-12-28",
+  "entryIntoForce": "2012-12-28",
+  "validFrom": "2012-12-28",
+  "changeDate": "2024-03-14T21:03:07",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "budżetowe prawo",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/1707",
+     "date": "2012-12-28"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2011/1707"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20121510.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20121510.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20121510TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
