@@ -1,0 +1,1 @@
+Na podstawie art. 59 ust. 14 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2010 r. Nr 77, poz. 512, z późn. zm.) zarządza się, co następuje:
