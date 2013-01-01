@@ -10,7 +10,7 @@
 
 - 1) obciążenia rachunku bankowego organu podatkowego na podstawie polecenia przelewu;
 
-- 2) złożenia przekazu pocztowego;
+- 2) nadania przekazu pocztowego;
 
 - 3) wypłacenia kwoty nadpłaty przez organ podatkowy lub postawienia nadpłaty do dyspozycji podatnika w kasie.
 
