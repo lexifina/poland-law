@@ -1,3 +1,3 @@
 # Art. 27a.
 
-(skreślony).
+(uchylony).
