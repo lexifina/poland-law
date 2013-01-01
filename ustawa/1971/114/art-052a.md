@@ -2,9 +2,11 @@
 
 Kto:
 
-- 1) publicznie nawołuje do popełnienia przestępstwa, w tym i przestępstwa skarbowego lub je pochwala,
+- 1) publicznie nawołuje do popełnienia przestępstwa lub przestępstwa skarbowego,
 
-- 2) publicznie nawołuje do nieposłuszeństwa lub przeciwdziałania przemocą ustawie albo prawnemu rozporządzeniu organu państwowego,
+- 2) publicznie nawołuje do przeciwdziałania przemocą aktowi stanowiącemu źródło powszechnie obowiązującego prawa Rzeczypospolitej Polskiej,
+
+- 3) publicznie pochwala popełnienie przestępstwa,
 
 jeżeli zasięg czynu albo jego skutki nie były znaczne
 

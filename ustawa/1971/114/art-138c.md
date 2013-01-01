@@ -1,8 +1,18 @@
 # Art. 138c.
 
-§ 1. Kto w zakresie działalności swojego przedsiębiorstwa zawiera z konsumentem umowę o kredyt konsumencki z rażącym naruszeniem wymagań dotyczących treści umowy albo z pominięciem obowiązku doręczenia jej dokumentu, podlega karze grzywny.
+§ 1. Kto w zakresie działalności swojego przedsiębiorstwa zawiera z konsumentem umowę o kredyt konsumencki z rażącym naruszeniem wymagań dotyczących informacji przekazywanych konsumentowi przed zawarciem umowy lub treści umowy albo z pominięciem obowiązku doręczenia jej dokumentu, podlega karze grzywny.
 
-§ 2. Tej samej karze podlega, kto w ofertach i reklamach dotyczących kredytu konsumenckiego zawierających jakiekolwiek dane dotyczące kosztu kredytu konsumenckiego, nie podaje rzeczywistej rocznej stopy oprocentowania.
+§ 1a. Tej samej karze podlega, kto zawierając z konsumentem umowę o kredyt konsumencki nie dopełnia obowiązku oceny ryzyka kredytowego.
+
+§ 2. Kto w reklamach dotyczących kredytu konsumenckiego zawierających dane dotyczące kosztu kredytu konsumenckiego, nie podaje:
+
+- 1) stopy oprocentowania kredytu wraz z wyodrębnieniem opłat uwzględnianych w całkowitym koszcie kredytu,
+
+- 2) całkowitej kwoty kredytu,
+
+- 3) rzeczywistej rocznej stopy oprocentowania,
+
+podlega karze grzywny.
 
 § 3. Kto przyjmuje od konsumenta weksel lub czek niezawierający klauzuli „nie na zlecenie” w celu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy o kredyt konsumencki, podlega karze grzywny.
 
