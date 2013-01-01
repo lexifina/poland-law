@@ -19,3 +19,5 @@
 - 2) spółki niemającej osobowości prawnej, do której osoba fizyczna wniosła na pokrycie udziału wkład w postaci swojego przedsiębiorstwa.
 
 § 3. Bank utworzony przez wniesienie tytułem wkładu niepieniężnego wszystkich składników majątkowych oddziału instytucji kredytowej, stanowiących przedsiębiorstwo lub jego zorganizowaną część, wstępuje we wszelkie przewidziane w przepisach prawa podatkowego prawa i obowiązki instytucji kredytowej związane z działalnością tego oddziału.
+
+§ 4. Jednoosobowa spółka kapitałowa powstała w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną wstępuje w przewidziane w przepisach prawa podatkowego prawa przekształcanego przedsiębiorcy związane z prowadzoną działalnością gospodarczą, z wyjątkiem tych praw, które nie mogą być kontynuowane na podstawie przepisów regulujących opodatkowanie spółek kapitałowych.
