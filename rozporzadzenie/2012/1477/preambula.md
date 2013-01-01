@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 5 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.) zarządza się, co następuje:
