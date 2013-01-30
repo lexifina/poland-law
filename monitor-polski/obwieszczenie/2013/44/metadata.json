@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/44",
+ "source_sha256": "0833061c9ee68d1430abaa99234b8bdcc052bed81591f35c238417620631f97b",
+ "in_force": "2013-01-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/44/text/O/M20130044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/44/text/I/M20130044.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/44",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 44,
+  "address": "WMP20130000044",
+  "displayAddress": "M.P. 2013 poz. 44",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 21 stycznia 2013 r. w sprawie wskaźnika zmian cen skupu podstawowych produktów rolnych w II półroczu 2012 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-01-21",
+  "promulgation": "2013-01-30",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "rolnictwo",
+   "wskaźnik",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130044.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
