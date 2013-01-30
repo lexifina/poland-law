@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Sławomira Wronkowska-Jaśkiewicz - przewodniczący,
+
+Zbigniew Cieślak - sprawozdawca,
+
+Maria Gintowt-Jankowicz,
+
+Andrzej Rzepliński,
+
+Marek Zubik,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 22 stycznia 2013 r., pytania prawnego Sądu Okręgowego w Gdańsku, czy art. 2 ustawy z dnia 16 lutego 2007 r. o zmianie ustawy - Kodeks cywilny (Dz. U. Nr 80, poz. 538) jest zgodny z art. 2, art. 77, art. 30 w związku z art. 38, a także art. 64 ust. 2 Konstytucji Rzeczypospolitej Polskiej,
+
+orzeka:
+
+Art. 2 ustawy z dnia 16 lutego 2007 r. o zmianie ustawy - Kodeks cywilny (Dz. U. Nr 80, poz. 538) jest zgodny z art. 2, art. 30 w związku z art. 38, a także art. 64 ust. 2 Konstytucji Rzeczypospolitej Polskiej oraz nie jest niezgodny z art. 77 ust. 1 Konstytucji.
