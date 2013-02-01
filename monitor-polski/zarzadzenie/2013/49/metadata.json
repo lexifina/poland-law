@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/49",
+ "source_sha256": "3a8015b392b3ccd77932de68aeafb048448837900eb2015208a62aa15bb212e1",
+ "in_force": "2013-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/49",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/49/text/O/M20130049.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/49/text/I/M20130049.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/49",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 49,
+  "address": "WMP20130000049",
+  "displayAddress": "M.P. 2013 poz. 49",
+  "title": "Zarządzenie Nr 7 Prezesa Rady Ministrów z dnia 30 stycznia 2013 r. w sprawie nadania statutu Ministerstwu Sportu i Turystyki",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-01-30",
+  "promulgation": "2013-01-31",
+  "entryIntoForce": "2013-02-01",
+  "validFrom": "2013-02-01",
+  "repealDate": "2016-03-25",
+  "changeDate": "2016-03-29T09:54:20",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Sportu i Turystyki"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2016/279",
+     "date": "2016-03-25"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2010/1065",
+     "date": "2013-02-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130049.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130049.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
