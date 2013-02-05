@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/168",
+ "source_sha256": "84928f69a8498df407a89ad46a57a2f08229790bab363483684e977c290d35b3",
+ "in_force": "2013-02-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/168",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/168/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/168/text/O/D20130168.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/168/text/I/D20130168.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/168/text/T/D20130168L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/168/text/U/D20130168Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/168/text/W/D20130168L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/168",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 168,
+  "address": "WDU20130000168",
+  "displayAddress": "Dz.U. 2013 poz. 168",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 września 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-09-27",
+  "promulgation": "2013-02-05",
+  "expirationDate": "2017-07-03",
+  "changeDate": "2024-03-14T20:03:49",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "kontrola finansowa",
+   "kary pieniężne i porządkowe",
+   "skargi i wnioski",
+   "dotacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/114"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130168.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130168.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130168L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130168Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130168L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
