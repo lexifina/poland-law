@@ -1,0 +1,1 @@
+Na podstawie art. 6 ust. 4 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471 oraz z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322) zarządza się, co następuje:
