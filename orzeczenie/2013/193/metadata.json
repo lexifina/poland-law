@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/193",
+ "source_sha256": "64e4b0dbaf33e51189d1940a8188d40c4527d80adbfd315c7b03639f62e30afa",
+ "in_force": "2013-02-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1768 words, parsed 62; at 62: '. , połączonych wniosków : 1 ) Rady Miasta Stołecznego'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/193",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/193/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/193/text/O/D20130193.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/193/text/I/D20130193.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/193/text/T/D20130193TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/193",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 193,
+  "address": "WDU20130000193",
+  "displayAddress": "Dz.U. 2013 poz. 193",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 31 stycznia 2013 r. sygn. akt K 14/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-01-31",
+  "promulgation": "2013-02-11",
+  "entryIntoForce": "2013-02-11",
+  "validFrom": "2013-02-11",
+  "changeDate": "2024-03-14T20:06:13",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porządkowanie prawa",
+   "samorząd terytorialny",
+   "konstytucja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1966",
+     "date": "2013-02-11"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/607"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2003/1966"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130193.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130193.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130193TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
