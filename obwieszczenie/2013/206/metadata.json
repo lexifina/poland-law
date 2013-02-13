@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/206",
+ "source_sha256": "b16d8ad5e637778c820bd1004604e31cbf21ed2b9f0e75359bd1a1e20956b521",
+ "in_force": "2013-02-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/206",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/206/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/206/text/O/D20130206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/206/text/I/D20130206.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/206",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 206,
+  "address": "WDU20130000206",
+  "displayAddress": "Dz.U. 2013 poz. 206",
+  "title": "Obwieszczenie Ministra Finansów z dnia 24 grudnia 2012 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wykazów towarów do celów poboru podatku od towarów i usług w imporcie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2012-12-24",
+  "promulgation": "2013-02-13",
+  "expirationDate": "2014-06-04",
+  "changeDate": "2024-03-14T20:09:20",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "import",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/1727"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
