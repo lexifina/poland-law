@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/77",
+ "source_sha256": "6ea3b9bc86b1042de6e23da5d10a21e70fc0a156d9232274c417e0fa7a5af40c",
+ "in_force": "2013-02-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/77",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/77/text/O/M20130077.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/77/text/I/M20130077.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/77",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 77,
+  "address": "WMP20130000077",
+  "displayAddress": "M.P. 2013 poz. 77",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 lutego 2013 r. w sprawie realnego wzrostu przeciętnego wynagrodzenia w 2012 r. w stosunku do 2011 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-11",
+  "promulgation": "2013-02-14",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130077.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130077.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
