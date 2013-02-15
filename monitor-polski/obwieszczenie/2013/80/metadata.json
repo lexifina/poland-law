@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/80",
+ "source_sha256": "fe510e6360a1efc48f963414dc1457196784b6ee7fdbf596adfe40dcbde26141",
+ "in_force": "2013-02-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/80",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/80/text/O/M20130080.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/80/text/I/M20130080.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/80",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 80,
+  "address": "WMP20130000080",
+  "displayAddress": "M.P. 2013 poz. 80",
+  "title": "Obwieszczenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 14 lutego 2013 r. w sprawie ogłoszenia obowiązujących w 2013 r. stawek opłat lotniczych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-14",
+  "promulgation": "2013-02-15",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stawki",
+   "lotnictwo cywilne",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1112",
+     "art": "art. 26a ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130080.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130080.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
