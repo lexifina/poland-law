@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/83",
+ "source_sha256": "9219e7e2cfb4f0f1f2d79a9cb705fb2b8bcd2c4cb169a166fffb6ba344968e8e",
+ "in_force": "2013-02-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/83",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/83/text/O/M20130083.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/83/text/I/M20130083.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/83",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 83,
+  "address": "WMP20130000083",
+  "displayAddress": "M.P. 2013 poz. 83",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 grudnia 2012 r. nr 110-80-2012 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2012-12-24",
+  "promulgation": "2013-02-18",
+  "changeDate": "2017-06-26T09:56:04",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130083.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130083.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
