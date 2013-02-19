@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/88",
+ "source_sha256": "e71e36ec3314635e6e88a99a58e79543097ef7f82ef80f65e6c7325ef2f4c95e",
+ "in_force": "2013-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/88",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/88/text/O/M20130088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/88/text/I/M20130088.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/88",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 88,
+  "address": "WMP20130000088",
+  "displayAddress": "M.P. 2013 poz. 88",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 lutego 2013 r. w sprawie przeciętnego wynagrodzenia w czwartym kwartale 2012 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-11",
+  "promulgation": "2013-02-19",
+  "changeDate": "2026-10-08T13:04:55",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130088.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
