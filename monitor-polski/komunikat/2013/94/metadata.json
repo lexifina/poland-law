@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/94",
+ "source_sha256": "cd9ca128f61ab46c7e1e448415d61f265fece8731559a5b9e64309bd37541673",
+ "in_force": "2013-02-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/94",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/94/text/O/M20130094.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/94/text/I/M20130094.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/94",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 94,
+  "address": "WMP20130000094",
+  "displayAddress": "M.P. 2013 poz. 94",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 14 lutego 2013 r. w sprawie kwoty dodatku kombatanckiego do emerytury lub renty",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-14",
+  "promulgation": "2013-02-21",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dodatki do wynagrodzeń",
+   "kombatanci",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/75"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/75",
+     "art": "art. 15 ust. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130094.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130094.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
