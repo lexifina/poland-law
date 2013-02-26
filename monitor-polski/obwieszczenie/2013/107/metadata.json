@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/107",
+ "source_sha256": "2c47e64c26bcd3624f7708333ed0a3b11e7a4ac7a05121481cfaf9f0c2b5140c",
+ "in_force": "2013-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/107",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/107/text/O/M20130107.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/107/text/I/M20130107.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/107",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 107,
+  "address": "WMP20130000107",
+  "displayAddress": "M.P. 2013 poz. 107",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 18 lutego 2013 r. w sprawie przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w 2012 r. i w drugim półroczu 2012 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-18",
+  "promulgation": "2013-02-26",
+  "changeDate": "2020-11-13T11:47:30",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1994/163"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1994/163",
+     "art": "art. 5 ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130107.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130107.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
