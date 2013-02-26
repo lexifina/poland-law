@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/101",
+ "source_sha256": "b8791a11a6409fda6065f81de2b12d476d95ac00d1568ed1dd72ed24a0f7a464",
+ "in_force": "2013-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/101",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/101/text/O/M20130101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/101/text/I/M20130101.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/101",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 101,
+  "address": "WMP20130000101",
+  "displayAddress": "M.P. 2013 poz. 101",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 18 lutego 2013 r. w sprawie dopuszczalnej kwoty przychodu, granicznej kwoty przychodu oraz rocznej dopuszczalnej kwoty przychodu i rocznej granicznej kwoty przychodu, stosowanych przy zmniejszaniu lub zawieszaniu świadczeń przedemerytalnych oraz zasiłków przedemerytalnych",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-18",
+  "promulgation": "2013-02-26",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłki",
+   "ubezpieczenia społeczne",
+   "świadczenia przedemerytalne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/1252"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/1252",
+     "art": "art. 6 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130101.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
