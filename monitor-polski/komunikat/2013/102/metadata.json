@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/102",
+ "source_sha256": "f45f0dd642dca814c6318a59056bd4b6c2e0fae531f67f86671c740678d57846",
+ "in_force": "2013-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/102/text/O/M20130102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/102/text/I/M20130102.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/102",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 102,
+  "address": "WMP20130000102",
+  "displayAddress": "M.P. 2013 poz. 102",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 18 lutego 2013 r. w sprawie kwoty przychodu odpowiadającej 70% przeciętnego miesięcznego wynagrodzenia za IV kwartał 2012 r. ogłoszonego do celów emerytalnych",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-02-18",
+  "promulgation": "2013-02-26",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "ubezpieczenia społeczne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/1268"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/1268",
+     "art": "art. 10 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
