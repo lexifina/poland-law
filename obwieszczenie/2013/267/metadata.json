@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/267",
+ "source_sha256": "0c1021d52df3979f37011506015b7ef3ada60fc28eb6972bbab6136d7994e4d5",
+ "in_force": "2013-02-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/267",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/267/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/267/text/O/D20130267.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/267/text/I/D20130267.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/267/text/T/D20130267L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/267/text/U/D20130267Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/267/text/W/D20130267L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/267",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 267,
+  "address": "WDU20130000267",
+  "displayAddress": "Dz.U. 2013 poz. 267",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 stycznia 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks postępowania administracyjnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-01-30",
+  "promulgation": "2013-02-27",
+  "expirationDate": "2016-01-07",
+  "changeDate": "2024-03-14T20:10:27",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania administracyjnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1960/168"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130267.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130267.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130267L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130267Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130267L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
