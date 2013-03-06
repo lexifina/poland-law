@@ -1,0 +1,1 @@
+Na podstawie art. 59 ust. 7 pkt 2, art. 62c ust. 6, art. 78 ust. 9 oraz art. 80 ust. 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.) zarządza się, co następuje:
