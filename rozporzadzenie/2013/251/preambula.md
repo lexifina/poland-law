@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 8 ustawy z dnia 7 maja 2009 r. o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. U. Nr 77, poz. 649, z 2010 r. Nr 182, poz. 1228 oraz z 2012 r. poz. 1166) zarządza się, co następuje:
