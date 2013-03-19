@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/164",
+ "source_sha256": "8fcf797fe1e801a3da318f0304ffc86dee329ac13a6cbaac1b85b9bd0eea1de7",
+ "in_force": "2013-03-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/164",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/164/text/O/M20130164.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/164/text/I/M20130164.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/164",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 164,
+  "address": "WMP20130000164",
+  "displayAddress": "M.P. 2013 poz. 164",
+  "title": "Obwieszczenie Ministra Pracy I Polityki Społecznej z dnia 8 marca 2013 r. w sprawie wysokości kwot jednorazowych odszkodowań z tytułu wypadku przy pracy lub choroby zawodowej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-03-08",
+  "promulgation": "2013-03-19",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania",
+   "choroby zawodowe",
+   "wypadki przy pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1673"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1673",
+     "art": "art. 14 ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130164.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130164.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
