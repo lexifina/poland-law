@@ -1,0 +1,109 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/385",
+ "source_sha256": "029130af957552723d2c7cf101fda65936f125660de516a1374a763f3aa3681b",
+ "in_force": "2013-03-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/385",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/385/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/385/text/O/D20130385.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/385/text/I/D20130385.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/385/text/T/D20130385L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/385/text/U/D20130385Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/385/text/W/D20130385L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/385",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 385,
+  "address": "WDU20130000385",
+  "displayAddress": "Dz.U. 2013 poz. 385",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o cenach",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-02-20",
+  "promulgation": "2013-03-21",
+  "repealDate": "2014-07-25",
+  "changeDate": "2024-03-14T20:07:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "ceny detaliczne",
+   "ceny umowne",
+   "marże"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31998L0006",
+    "date": "1998-02-16",
+    "title": "Dyrektywa 98/6/WE Parlamentu Europejskiego i Rady z dnia 16 lutego 1998 r. w sprawie ochrony konsumenta przez podawanie cen produktów oferowanych konsumentom"
+   }
+  ],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 15, 17, 18 ustawy z dnia 5 lipca 2001r. o cenach Dz. U. Nr 97, poz. 1050",
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2014/915",
+     "date": "2014-07-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1050"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130385.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130385.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130385L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130385Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130385L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
