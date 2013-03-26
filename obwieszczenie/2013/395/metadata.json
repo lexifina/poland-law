@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/395",
+ "source_sha256": "39c3138a561c1056e039502e454c494e2ff6e3bbfc12cf241358d039cbe76db9",
+ "in_force": "2013-03-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/395",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/395/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/395/text/O/D20130395.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/395/text/I/D20130395.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/395/text/T/D20130395L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/395/text/U/D20130395Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/395/text/W/D20130395L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/395",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 395,
+  "address": "WDU20130000395",
+  "displayAddress": "Dz.U. 2013 poz. 395",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks postępowania w sprawach o wykroczenia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-02-20",
+  "promulgation": "2013-03-26",
+  "expirationDate": "2016-10-17",
+  "changeDate": "2024-03-14T20:11:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania w sprawach o wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1148"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130395.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130395.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130395L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130395Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130395L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
