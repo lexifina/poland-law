@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/465",
+ "source_sha256": "65ecfe60a136ee97f14a25b190914964a0c5d609a50eefefb4a1664cddc182ff",
+ "in_force": "2013-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/465",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/465/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/465/text/O/D20130465.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/465/text/I/D20130465.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/465/text/T/D20130465L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/465/text/U/D20130465Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/465/text/W/D20130465L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/465",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 465,
+  "address": "WDU20130000465",
+  "displayAddress": "Dz.U. 2013 poz. 465",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku leśnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-02-20",
+  "promulgation": "2013-04-17",
+  "expirationDate": "2016-03-11",
+  "changeDate": "2024-03-14T20:12:04",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek leśny"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32006R1998",
+    "date": "2006-12-15",
+    "title": "ROZPORZĄDZENIE KOMISJI (WE) NR 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1682"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130465.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130465.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130465L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130465Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130465L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
