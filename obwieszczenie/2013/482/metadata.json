@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/482",
+ "source_sha256": "df8d9f5d02b987c1a54d5daa3815ab997c6f5db7d0ff65507ed6d624168a7b0e",
+ "in_force": "2013-04-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/482",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/482/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/482/text/O/D20130482.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/482/text/I/D20130482.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/482/text/T/D20130482L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/482/text/U/D20130482Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/482/text/W/D20130482L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/482",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 482,
+  "address": "WDU20130000482",
+  "displayAddress": "Dz.U. 2013 poz. 482",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks wykroczeń",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-03-11",
+  "promulgation": "2013-04-22",
+  "expirationDate": "2015-08-04",
+  "changeDate": "2024-03-14T20:04:32",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wykroczeń",
+   "wykroczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1971/114"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130482.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130482.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130482L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130482Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130482L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
