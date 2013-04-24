@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/498",
+ "source_sha256": "42ce49cf2c2f14957b5e36a086419bb7fba83de81cc437ae7d0e29c85a166168",
+ "in_force": "2013-04-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 377 words, parsed 62; at 62: '21 kwietnia 2013 r . Rozdział 1 Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/498",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/498/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/498/text/O/D20130498.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/498/text/I/D20130498.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/498",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 498,
+  "address": "WDU20130000498",
+  "displayAddress": "Dz.U. 2013 poz. 498",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 22 kwietnia 2013 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 21 kwietnia 2013 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-04-22",
+  "promulgation": "2013-04-24",
+  "changeDate": "2025-03-21T10:43:10",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 276"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130498.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130498.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
