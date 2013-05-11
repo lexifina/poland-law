@@ -1,0 +1,1 @@
+Na podstawie art. 16 ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) zarządza się, co następuje:
