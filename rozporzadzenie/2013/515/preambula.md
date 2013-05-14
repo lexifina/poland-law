@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2012 r. poz. 1190) zarządza się, co następuje:
