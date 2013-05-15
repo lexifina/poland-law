@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/365",
+ "source_sha256": "5b224f4a5f52e057ba16a0bfe95d6f2ce4ddba1973625083c9f6dc1c3bdf9a1a",
+ "in_force": "2013-05-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/365/text/O/M20130365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/365/text/I/M20130365.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/365",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 365,
+  "address": "WMP20130000365",
+  "displayAddress": "M.P. 2013 poz. 365",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 maja 2013 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 30 z siedzibą Okręgowej Komisji Wyborczej w Rybniku",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-05-06",
+  "promulgation": "2013-05-15",
+  "changeDate": "2018-02-12T14:24:21",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130365.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
