@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/385",
+ "source_sha256": "2a1df6ab0a95f3d31887935c1c46bf777cae3051c5c3482dd24cba8187be5cc9",
+ "in_force": "2013-05-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/385",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/385/text/O/M20130385.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/385/text/I/M20130385.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/385",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 385,
+  "address": "WMP20130000385",
+  "displayAddress": "M.P. 2013 poz. 385",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 2 kwietnia 2013 r. nr 1131-9-2013 o powołaniu członka Zarządu Narodowego Banku Polskiego",
+  "type": "Postanowienie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-04-02",
+  "promulgation": "2013-05-16",
+  "changeDate": "2014-12-31T12:26:45",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Narodowy Bank Polski"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/938"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/938",
+     "art": "art. 17 ust. 2a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130385.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130385.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
