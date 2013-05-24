@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/443",
+ "source_sha256": "15070f10f083ab658c6d7fe91c22c8194ddd6a3cb9fc49edee81dba8c98c601b",
+ "in_force": "2013-05-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/443",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/443/text/O/M20130443.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/443/text/I/M20130443.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/443",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 443,
+  "address": "WMP20130000443",
+  "displayAddress": "M.P. 2013 poz. 443",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 maja 2013 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za I kwartał 2013 r. stosowanych przy zmniejszaniu albo zawieszaniu emerytur i rent",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-05-20",
+  "promulgation": "2013-05-24",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "wynagrodzenia przeciętne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 104 ust. 10 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130443.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130443.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
