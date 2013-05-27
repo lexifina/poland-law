@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/611",
+ "source_sha256": "560d33f15823d21c041a783eeacdd513c4cc619380566d9e6a56b2b905a352e8",
+ "in_force": "2013-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/611",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/611/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/611/text/O/D20130611.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/611/text/I/D20130611.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/611/text/U/D20130611Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/611",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 611,
+  "address": "WDU20130000611",
+  "displayAddress": "Dz.U. 2013 poz. 611",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-04-05",
+  "promulgation": "2013-05-27",
+  "expirationDate": "2015-12-18",
+  "changeDate": "2024-03-14T20:07:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "imprezy artystyczne",
+   "imprezy rozrywkowe",
+   "imprezy sportowe",
+   "imprezy masowe"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 69-77 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/504"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130611.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130611.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130611Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
