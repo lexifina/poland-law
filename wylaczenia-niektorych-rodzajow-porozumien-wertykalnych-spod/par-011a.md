@@ -1,0 +1,11 @@
+# § 11a.
+
+1. Wyłączeniu nie podlegają porozumienia wertykalne w sektorze pojazdów samochodowych, które bezpośrednio lub pośrednio, samodzielnie lub w powiązaniu z innymi okolicznościami zależnymi od stron tych porozumień mają na celu:
+
+- 1) ograniczenie sprzedaży części zamiennych do pojazdów samochodowych przez członków systemu dystrybucji selektywnej niezależnym warsztatom, stosującym te części do świadczenia usług serwisowych;
+
+- 2) uzgodnione - między dostawcą części zamiennych do pojazdów samochodowych, narzędzi naprawczych, diagnostycznych lub innego sprzętu a producentem pojazdów samochodowych - ograniczenie uprawnienia dostawcy do sprzedaży tych części zamiennych, narzędzi naprawczych, diagnostycznych lub innego sprzętu dystrybutorom albo autoryzowanym lub niezależnym warsztatom lub ostatecznym użytkownikom;
+
+- 3) uzgodnione - między producentem pojazdów samochodowych, wykorzystującym komponenty do montażu pojazdów samochodowych, oraz dostawcą takich komponentów - ograniczenie uprawnienia dostawcy do efektywnego umieszczania swojego znaku towarowego lub swojego logo w widocznym miejscu na dostarczanych komponentach lub na częściach zamiennych do pojazdów samochodowych.
+
+2. Przez części zamienne do pojazdów samochodowych, o których mowa w ust. 1, rozumie się towary do zainstalowania w/lub na pojeździe samochodowym, w celu zastąpienia komponentów tego pojazdu, oraz substancje, które są konieczne do funkcjonowania pojazdu samochodowego, takie jak środki smarne i płyny eksploatacyjne, z wyłączeniem paliw.
