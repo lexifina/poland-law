@@ -1,0 +1,1 @@
+Na podstawie art. 45 ust. 1 pkt 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.) zarządza się, co następuje:
