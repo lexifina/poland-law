@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/706",
+ "source_sha256": "1f3b7748ae33d6e7a8bc82e3913c278c7f3acfb4ffb2fdbb6e5baa63eb0b7d1d",
+ "in_force": "2013-06-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/706",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/706/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/706/text/O/D20130706.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/706/text/I/D20130706.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/706/text/T/D20130706L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/706/text/U/D20130706Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/706/text/W/D20130706L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/706",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 706,
+  "address": "WDU20130000706",
+  "displayAddress": "Dz.U. 2013 poz. 706",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-03-26",
+  "promulgation": "2013-06-21",
+  "expirationDate": "2016-03-14",
+  "changeDate": "2024-03-14T20:05:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "samorząd terytorialny",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/985"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130706.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130706.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130706L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130706Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130706L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
