@@ -1,0 +1,4 @@
+# Oświadczenie rządowe z dnia 19 czerwca 2013 r. w sprawie mocy obowiązującej Traktatu między Królestwem Belgii, Republiką Bułgarii, Republiką Czeską, Królestwem Danii, Republiką Federalną Niemiec, Republiką Estońską, Republiką Grecką, Królestwem Hiszpanii, Republiką Francuską, Irlandią, Republiką Włoską, Republiką Cypryjską, Republiką Łotewską, Republiką Litewską, Wielkim Księstwem Luksemburga, Republiką Węgierską, Republiką Malty, Królestwem Niderlandów, Republiką Austrii, Rzecząpospolitą Polską, Republiką Portugalską, Rumunią, Republiką Słowenii, Republiką Słowacką, Republiką Finlandii, Królestwem Szwecji, Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej (Państwami Członkowskimi Unii Europejskiej) a Republiką Chorwacji dotyczącego przystąpienia Republiki Chorwacji do Unii Europejskiej, sporządzonego w Brukseli dnia 9 grudnia 2011 r.
+
+Dz.U. 2013 poz. 740 · <https://eli.gov.pl/api/acts/DU/2013/740>
+
