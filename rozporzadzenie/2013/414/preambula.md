@@ -1,0 +1,1 @@
+Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.) oraz art. 50 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.) zarządza się, co następuje:
