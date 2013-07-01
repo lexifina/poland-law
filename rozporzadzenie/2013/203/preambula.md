@@ -1,0 +1,1 @@
+Na podstawie art. 10a ust. 3 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314 oraz z 2013 r. poz. 2) zarządza się, co następuje:
