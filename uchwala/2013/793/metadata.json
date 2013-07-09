@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/793",
+ "source_sha256": "ec7aa1a886d1d201b5c6d6e15d8c36672e2d3eaeacaab2f751c15ab258138111",
+ "in_force": "2013-07-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 422 words, parsed 112; at 112: 'pod uwagę , że : 1 . podstawą prawną przeprowadzenia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/793",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/793/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/793/text/O/D20130793.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/793/text/I/D20130793.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/793",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 793,
+  "address": "WDU20130000793",
+  "displayAddress": "Dz.U. 2013 poz. 793",
+  "title": "Uchwała Sądu Najwyższego z dnia 26 czerwca 2013 r. w sprawie ważności wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 21 kwietnia 2013 r. w województwie śląskim w okręgu wyborczym nr 73",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-06-26",
+  "promulgation": "2013-07-09",
+  "changeDate": "2024-03-14T20:10:45",
+  "releasedBy": [
+   "SĄD NAJWYŻSZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2013/498"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 244 par. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130793.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130793.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
