@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/805",
+ "source_sha256": "13daa5e1adff041df191021ac0a0d6a3dc4dd8f02c74d9aa75ddc26f0b73a0da",
+ "in_force": "2013-07-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 203 words, parsed 119; at 119: '217 Konstytucji , orzeka : I Art . 40 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/805",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/805/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/805/text/O/D20130805.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/805/text/I/D20130805.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/805/text/T/D20130805TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/805",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 805,
+  "address": "WDU20130000805",
+  "displayAddress": "Dz.U. 2013 poz. 805",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 25 czerwca 2013 r. sygn. akt K 30/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-06-25",
+  "promulgation": "2013-07-11",
+  "entryIntoForce": "2013-07-11",
+  "validFrom": "2013-07-11",
+  "changeDate": "2024-03-14T20:10:13",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "geodezja i kartografia"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/333",
+     "date": "2014-07-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/163",
+     "date": "2014-07-12"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1989/163"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130805.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130805.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130805TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
