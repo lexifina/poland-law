@@ -1,0 +1,1 @@
+Na podstawie art. 8 ust. 4 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868 oraz z 2012 r. poz. 243 i 1258) zarządza się, co następuje:
