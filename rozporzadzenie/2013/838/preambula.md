@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 1 pkt 1 lit. a, art. 18 pkt 1 lit. b oraz art. 24 ust. 1 pkt 1 lit. b i pkt 2 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.) zarządza się, co następuje:
