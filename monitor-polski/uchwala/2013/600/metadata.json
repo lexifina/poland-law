@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/600",
+ "source_sha256": "601e46df430abf7292033fdb59bdd75605282d363aea545442946dc87f10af50",
+ "in_force": "2013-07-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/600",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/600/text/O/M20130600.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/600/text/I/M20130600.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/600",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 600,
+  "address": "WMP20130000600",
+  "displayAddress": "M.P. 2013 poz. 600",
+  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 18 lipca 2013 r. w sprawie powołania Okręgowej Komisji Wyborczej w Rzeszowie w celu przeprowadzenia wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 8 września 2013 r.",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-07-18",
+  "promulgation": "2013-07-31",
+  "changeDate": "2019-04-26T13:44:41",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje wyborcze",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 170 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130600.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130600.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
