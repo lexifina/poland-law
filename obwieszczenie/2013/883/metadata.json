@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/883",
+ "source_sha256": "e4f73f7453c12f24caee3608aaefdc55ba8200f4f40d8807f68a6fdbd53ed85d",
+ "in_force": "2013-08-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/883",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/883/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/883/text/O/D20130883.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/883/text/I/D20130883.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/883",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 883,
+  "address": "WDU20130000883",
+  "displayAddress": "Dz.U. 2013 poz. 883",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 12 kwietnia 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie opiniowania służbowego policjantów",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-04-12",
+  "promulgation": "2013-08-02",
+  "expirationDate": "2020-06-25",
+  "changeDate": "2024-03-14T20:04:57",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opinie"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1145"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130883.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130883.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
