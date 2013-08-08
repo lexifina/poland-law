@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/902",
+ "source_sha256": "408f617a34dc03205ddb8d0e41086fb4b864466e7187dcc9158968325b08242d",
+ "in_force": "2013-08-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 195 words, parsed 135; at 135: '2 Konstytucji , orzeka : 1 . Ustawa z dnia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/902",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/902/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/902/text/O/D20130902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/902/text/I/D20130902.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/902/text/T/D20130902TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/902",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 902,
+  "address": "WDU20130000902",
+  "displayAddress": "Dz.U. 2013 poz. 902",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 15 lipca 2013 r. sygn. akt K 7/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-07-15",
+  "promulgation": "2013-08-08",
+  "entryIntoForce": "2013-08-08",
+  "validFrom": "2013-08-08",
+  "changeDate": "2024-03-14T20:10:07",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2011/1706"
+    },
+    {
+     "id": "DU/1998/887"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130902.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130902TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
