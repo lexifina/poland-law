@@ -1,0 +1,1 @@
+Na podstawie art. 60 ust. 5 ustawy z dnia 7 września 2007 r. o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego (Dz. U. z 2010 r. Nr 142, poz. 960, z późn. zm.) zarządza się, co następuje:
