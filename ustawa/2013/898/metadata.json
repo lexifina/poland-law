@@ -1,0 +1,139 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/898",
+ "source_sha256": "7ca63fb9122c12eadba29462a2fce506b64b5fd192b3535bf4e3f583931a078b",
+ "in_force": "2013-08-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/898",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/898/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/898/text/O/D20130898.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/898/text/I/D20130898.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/898/text/T/D20130898L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/898/text/U/D20130898Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/898/text/W/D20130898L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/898",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 898,
+  "address": "WDU20130000898",
+  "displayAddress": "Dz.U. 2013 poz. 898",
+  "title": "Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-06-13",
+  "promulgation": "2013-08-08",
+  "entryIntoForce": "2013-08-23",
+  "validFrom": "2013-08-23",
+  "changeDate": "2024-03-14T20:10:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budowlane prawo",
+   "budowlane materiały"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31989L0106",
+    "date": "1988-12-21",
+    "title": "DYREKTYWA RADY 89/106/EWG z dnia 21 grudnia 1988 r. w sprawie zbliżenia ustaw, rozporządzeń i przepisów administracyjnych państw członkowskich dotyczących wyrobów budowlanych"
+   },
+   {
+    "address": "31993R0339",
+    "date": "1993-02-08",
+    "title": "ROZPORZĄDZENIE RADY (EWG) NR 339/93 z dnia 8 lutego 1993 r. w sprawie kontroli zgodności z przepisami w sprawie bezpieczeństwa produktów przywożonych z państw trzecich"
+   },
+   {
+    "address": "32008R0765",
+    "date": "2008-07-09",
+    "title": "ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (WE) NR 765/2008 z dnia 9 lipca 2008 r. ustanawiające wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylające rozporządzenie (EWG) nr 339/93 (Tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "32011R0305",
+    "date": "2011-03-09",
+    "title": "ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) NR 305/2011 z dnia 9 marca 2011 r. ustanawiające zharmonizowane warunki wprowadzania do obrotu wyrobów budowlanych i uchylające dyrektywę Rady 89/106/EWG (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=1330",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/1330",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/1330",
+    "number": "1330",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/2375",
+     "date": "2013-08-23"
+    },
+    {
+     "id": "DU/2004/2011",
+     "date": "2013-08-23"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2015/1165",
+     "date": "2015-08-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/881",
+     "date": "2013-08-23"
+    },
+    {
+     "id": "DU/2002/1360",
+     "date": "2013-08-23"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2010/618"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130898.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130898.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130898L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130898Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130898L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
