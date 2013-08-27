@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/982",
+ "source_sha256": "25ab6a333910be34e4f967b87d15858d859377ff4368c1fdf74e088785c857bf",
+ "in_force": "2013-08-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/982",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/982/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/982/text/O/D20130982.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/982/text/I/D20130982.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/982/text/T/D20130982L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/982/text/U/D20130982Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/982/text/W/D20130982 ustawa.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/982",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 982,
+  "address": "WDU20130000982",
+  "displayAddress": "Dz.U. 2013 poz. 982",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rencie socjalnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-07-31",
+  "promulgation": "2013-08-27",
+  "expirationDate": "2018-07-12",
+  "changeDate": "2024-03-14T20:12:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "renta socjalna",
+   "pomoc społeczna",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 17-29 ustawy.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1268"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130982.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130982.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130982L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20130982Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20130982 ustawa.rtf",
+    "type": "W"
+   },
+   {
+    "fileName": "D20130982L obwieszczenie.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
