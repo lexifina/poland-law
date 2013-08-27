@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/985",
+ "source_sha256": "00e2f13cffaf4bef73d9c15cf2dbd117c325550cb21c524ce462caed52483a43",
+ "in_force": "2013-08-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 672 words, parsed 61; at 61: 'Kleibert o zbadanie zgodności : 1 ) art . 30'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/985",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/985/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/985/text/O/D20130985.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/985/text/I/D20130985.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/985/text/T/D20130985TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/985",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 985,
+  "address": "WDU20130000985",
+  "displayAddress": "Dz.U. 2013 poz. 985",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 lipca 2013 r. sygn. akt SK 18/09",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-07-18",
+  "promulgation": "2013-08-27",
+  "entryIntoForce": "2013-08-27",
+  "validFrom": "2013-08-27",
+  "changeDate": "2024-03-14T20:12:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/926",
+     "date": "2015-02-27"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/926"
+    },
+    {
+     "id": "DU/1991/350"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20130985.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20130985.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20130985TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
