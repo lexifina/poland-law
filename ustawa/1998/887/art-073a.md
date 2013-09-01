@@ -32,7 +32,7 @@
 
 - 7) informację o metodach i technikach naboru.
 
-3. Termin, o którym mowa w ust 2 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+3. Termin, o którym mowa w ust. 2 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
 
 4. Nabór na stanowisko Prezesa Zakładu przeprowadza zespół, powołany przez ministra właściwego do spraw zabezpieczenia społecznego, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 

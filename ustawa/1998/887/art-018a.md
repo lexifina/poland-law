@@ -1,6 +1,6 @@
 # Art. 18a.
 
-1. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonych, o których mowa w art. 8 ust. 6 pkt 1, w okresie pierwszych 24 miesięcy kalendarzowych od dnia rozpoczęcia wykonywania działalności gospodarczej stanowi zadeklarowana kwota, nie niższa jednak niż 30 % kwoty minimalnego wynagrodzenia.
+1. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonych, o których mowa w art. 8 ust. 6 pkt 1, w okresie pierwszych 24 miesięcy kalendarzowych od dnia rozpoczęcia wykonywania działalności gospodarczej stanowi zadeklarowana kwota, nie niższa jednak niż 30% kwoty minimalnego wynagrodzenia.
 
 2. Przepisy ust. 1 nie mają zastosowania do osób, które:
 

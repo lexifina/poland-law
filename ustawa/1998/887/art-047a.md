@@ -6,7 +6,7 @@
 
 2. Płatnicy składek rozliczający składki nie więcej niż za 5 osób mogą przekazywać dokumenty, o których mowa w ust. 1, w formie dokumentu pisemnego według ustalonego wzoru albo w formie wydruku z oprogramowania, o którym mowa w ust. 1.
 
-2a. Dokumenty elektroniczne, o których mowa w ust. 1 oraz w art. 41 ust. 8, opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu, w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.), osoby odpowiedzialnej za przekazanie tych dokumentów.
+2a. Dokumenty elektroniczne, o których mowa w ust. 1 oraz w art. 41 ust. 8, opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu, w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262), osoby odpowiedzialnej za przekazanie tych dokumentów.
 
 3. W uzasadnionych przypadkach Zakład może upoważnić płatnika składek rozliczającego składki za więcej niż 5 osób do przekazywania dokumentów, o których mowa w ust. 1, w formie dokumentu pisemnego według ustalonego wzoru albo w formie wydruku lub na informatycznych nośnikach danych, z oprogramowania, o którym mowa w ust. 1.
 

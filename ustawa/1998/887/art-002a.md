@@ -1,6 +1,6 @@
 # Art. 2a.
 
-1. Ustawa stoi na gruncie równego traktowania wszystkich ubezpieczonych bez względu na płeć, stan cywilny, stan rodzinny.
+1. Ustawa stoi na gruncie równego traktowania wszystkich ubezpieczonych bez względu na płeć, rasę, pochodzenie etniczne, narodowość, stan cywilny oraz stan rodzinny.
 
 2. Zasada równego traktowania dotyczy w szczególności:
 
