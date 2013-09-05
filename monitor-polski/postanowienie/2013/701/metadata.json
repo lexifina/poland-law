@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/701",
+ "source_sha256": "86667b1349a55f1cf661986293baef193e4e29f212af93f38bb18c83eabe6b01",
+ "in_force": "2013-09-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/701",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/701/text/O/M20130701.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/701/text/I/M20130701.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/701",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 701,
+  "address": "WMP20130000701",
+  "displayAddress": "M.P. 2013 poz. 701",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 11 maja 2013 r. nr 110-23-2013 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-05-11",
+  "promulgation": "2013-09-05",
+  "changeDate": "2017-06-26T09:56:04",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Republika Czeska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130701.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130701.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
