@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/706",
+ "source_sha256": "0d7e60dfe68e84beff9c65ddbd72bd93fd2868471d1c51a830bd2a9ae699b961",
+ "in_force": "2013-09-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/706",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/706/text/O/M20130706.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/706/text/I/M20130706.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/706",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 706,
+  "address": "WMP20130000706",
+  "displayAddress": "M.P. 2013 poz. 706",
+  "title": "Obwieszczenie Prokuratora Generalnego z dnia 1 sierpnia 2013 r. o wolnych stanowiskach prokuratorskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-08-01",
+  "promulgation": "2013-09-05",
+  "changeDate": "2019-03-25T11:56:34",
+  "releasedBy": [
+   "PROKURATOR GENERALNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 14b ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130706.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130706.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
