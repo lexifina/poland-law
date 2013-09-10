@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1050",
+ "source_sha256": "dbc1367f85f577ca3977e3959f7e065fabbf1b182333bce18701daa93c5dcb94",
+ "in_force": "2013-09-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1050",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1050/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1050/text/O/D20131050.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1050/text/I/D20131050.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1050",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1050,
+  "address": "WDU20130001050",
+  "displayAddress": "Dz.U. 2013 poz. 1050",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 14 sierpnia 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie wynagradzania pracowników samorządowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-08-14",
+  "promulgation": "2013-09-10",
+  "expirationDate": "2014-12-11",
+  "changeDate": "2024-03-14T20:13:31",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "pracownicy samorządowi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/398"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131050.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131050.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
