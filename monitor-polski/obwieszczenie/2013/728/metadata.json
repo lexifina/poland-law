@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/728",
+ "source_sha256": "5a49b1ddae1762483d0a87faa59a4df45e35d422da058311a9605758a50dfd3d",
+ "in_force": "2013-09-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/728",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/728/text/O/M20130728.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/728/text/I/M20130728.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/728",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 728,
+  "address": "WMP20130000728",
+  "displayAddress": "M.P. 2013 poz. 728",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 27 sierpnia 2013 r. w sprawie wskaźnika cen dóbr inwestycyjnych za II kwartał 2013 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-08-27",
+  "promulgation": "2013-09-10",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "prywatyzacja",
+   "inwestycje",
+   "komercjalizacja",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130728.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130728.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
