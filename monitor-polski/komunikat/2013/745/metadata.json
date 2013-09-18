@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/745",
+ "source_sha256": "6872956cb5a3a7a5fb3d7927455c9fa8d7689f0e1da22aa70b466b0b560bd31a",
+ "in_force": "2013-09-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/745",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/745/text/O/M20130745.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/745/text/I/M20130745.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/745",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 745,
+  "address": "WMP20130000745",
+  "displayAddress": "M.P. 2013 poz. 745",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 10 września 2013 r. w sprawie wysokości wskaźnika kwartalnej waloryzacji składek na ubezpieczenie emerytalne i odsetek za zwłokę zewidencjonowanych na subkoncie za II kwartał 2013 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-09-10",
+  "promulgation": "2013-09-18",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "ubezpieczenia społeczne",
+   "wskaźnik",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 40d ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130745.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130745.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
