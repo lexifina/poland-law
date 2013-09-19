@@ -1,0 +1,138 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1014",
+ "source_sha256": "6215e1bab1a1cece42858f0a5d3db1d52ffc44b0a47b56a223a2c3712bcbb874",
+ "in_force": "2013-09-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1014",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1014/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1014/text/O/D20131014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1014/text/I/D20131014.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1014/text/T/D20131014L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/1014/text/U/D20131014Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/1014/text/W/D20131014L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1014",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1014,
+  "address": "WDU20130001014",
+  "displayAddress": "Dz.U. 2013 poz. 1014",
+  "title": "Ustawa z dnia 21 czerwca 2013 r. o zmianie niektórych ustaw dotyczących praw pasażerów podróżujących drogą morską i drogą wodną śródlądową",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-06-21",
+  "promulgation": "2013-09-04",
+  "entryIntoForce": "2013-09-19",
+  "validFrom": "2013-09-19",
+  "changeDate": "2024-03-14T20:06:57",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS TRANSPORTU",
+   "MIN. WŁAŚCIWY DS GOSPODARKI MORSKIEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks morski",
+   "morskie prawo",
+   "przewozowe prawo",
+   "turystyka",
+   "żegluga śródlądowa",
+   "kary pieniężne i porządkowe",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32004R2006",
+    "date": "2004-10-27",
+    "title": "ROZPORZĄDZENIE (WE) NR 2006/2004 PARLAMENTU EUROPEJSKIEGO I RADY z dnia 27 października 2004 r. w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów (\"Rozporządzenie w sprawie współpracy w dziedzinie ochrony konsumentów\") (Tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "32010R1177",
+    "date": "2010-11-24",
+    "title": "ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) NR 1177/2010 z dnia 24 listopada 2010 r. o prawach pasażerów podróżujących drogą morską i drogą wodną śródlądową oraz zmieniające rozporządzenie (WE) nr 2006/2004 (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=1268",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/1268",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/1268",
+    "number": "1268",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2016/1954",
+     "date": "2016-12-17"
+    },
+    {
+     "id": "DU/2014/1554",
+     "date": "2015-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/43",
+     "date": "2013-09-19"
+    },
+    {
+     "id": "DU/2001/1545",
+     "date": "2013-09-19"
+    },
+    {
+     "id": "DU/1997/884",
+     "date": "2013-09-19"
+    },
+    {
+     "id": "DU/1991/131",
+     "date": "2013-09-19"
+    },
+    {
+     "id": "DU/1984/272",
+     "date": "2013-09-19"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131014.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131014L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131014Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20131014L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
