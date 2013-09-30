@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/777",
+ "source_sha256": "c777ec1a36b0f56fd3b06f6a0abb65e8612df1d5e506cfae234c9c2d30faf854",
+ "in_force": "2013-09-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/777",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/777/text/O/M20130777.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/777/text/I/M20130777.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/777",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 777,
+  "address": "WMP20130000777",
+  "displayAddress": "M.P. 2013 poz. 777",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 5 września 2013 r. o wolnych stanowiskach komornika sądowego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-09-05",
+  "promulgation": "2013-09-30",
+  "changeDate": "2019-03-25T11:56:34",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komornicy",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/882"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/882",
+     "art": "art. 11 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130777.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130777.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
