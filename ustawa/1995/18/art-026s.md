@@ -1,0 +1,7 @@
+# Art. 26s.
+
+1. W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, zawiesza się wypłatę deponentowi środków gwarantowanych, na czas trwania blokady.
+
+2. Jeżeli środki zdeponowane na rachunku zostaną uznane w całości lub w części prawomocnym wyrokiem sądu za przedmiot pochodzący bezpośrednio albo pośrednio z przestępstwa przewidzianego w art. 165a lub art. 299 Kodeksu karnego albo za korzyść z takiego przestępstwa lub za ich równowartość, przy obliczaniu świadczenia z tytułu środków gwarantowanych nie uwzględnia się środków zdeponowanych na rachunku lub odpowiedniej ich części. Środki te nie korzystają z ochrony systemu gwarantowania w części, co do której orzeczono przepadek.
+
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom w przypadku określonym w ust. 1. Minister właściwy do spraw instytucji finansowych, wydając rozporządzenie, uwzględni dane, jakie powinno zawierać zawiadomienie Funduszu o prowadzonym postępowaniu karnym oraz zawiadomienie o jego zakończeniu, termin i sposób wysłania zawiadomienia, dane, jakie powinna zawierać informacja o zawieszeniu wypłaty środków gwarantowanych wysłana deponentowi, termin i sposób wysłania informacji oraz dane, jakie powinien zawierać rejestr zawieszonych wypłat środków gwarantowanych prowadzony przez Fundusz.
