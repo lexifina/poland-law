@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1203",
+ "source_sha256": "a30458e291eafceb868f772613f644da280bafde630da8fa3bef89658b0e49bf",
+ "in_force": "2013-10-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1203",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1203/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1203/text/O/D20131203.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1203/text/I/D20131203.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1203/text/T/D20131203L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/1203/text/U/D20131203Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/1203/text/W/D20131203L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1203",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1203,
+  "address": "WDU20130001203",
+  "displayAddress": "Dz.U. 2013 poz. 1203",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 lipca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Rejestrze Sądowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-07-18",
+  "promulgation": "2013-10-11",
+  "expirationDate": "2015-08-12",
+  "changeDate": "2024-03-14T20:04:40",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowy Rejestr Sądowy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/769"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131203.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131203.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131203L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131203Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20131203L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
