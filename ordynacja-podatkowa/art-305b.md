@@ -4,12 +4,14 @@
 
 # Art. 305b.
 
-Wymiana informacji podatkowych obejmuje wszelkie informacje istotne dla prawidłowego określania podstaw opodatkowania i wysokości zobowiązania podatkowego w zakresie:
+Wymiana informacji obejmuje wszelkie informacje, które mogą być istotne do celów stosowania i wykonywania przepisów prawa podatkowego, z wyjątkiem informacji:
 
-- 1) opodatkowania dochodu, majątku lub kapitału, bez względu na sposób i formę opodatkowania, w tym opodatkowania dochodu ze sprzedaży rzeczy lub praw majątkowych oraz przyrostu wartości majątku lub kapitału,
+- 1) objętych przepisami Unii Europejskiej dotyczącymi współpracy administracyjnej między państwami członkowskimi w zakresie podatku od towarów i usług, ceł oraz podatku akcyzowego;
 
-- 2) (uchylony),
+- 2) dotyczących składek na ubezpieczenie społeczne;
 
-- 3) opodatkowania składek ubezpieczeniowych
+- 3) dotyczących opłaty skarbowej;
+
+- 4) dotyczących należności o charakterze umownym, w szczególności wynagrodzeń za usługi użyteczności publicznej.
 
 - zwane dalej „informacjami”.

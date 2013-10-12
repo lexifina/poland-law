@@ -1,3 +1,3 @@
 # Art. 305m.
 
-informacje otrzymane od obcej władzy można przekazać innej obcej władzy za zgodą władzy państwa udzielającego informacji.
+Informacje otrzymane od obcej władzy można przekazać innej obcej władzy po uprzednim zawiadomieniu obcej władzy, od której pochodzą te informacje, o zamiarze ich przekazania i niewniesieniu przez tę władzę sprzeciwu w terminie 10 dni roboczych od dnia zawiadomienia.
