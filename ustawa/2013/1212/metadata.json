@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1212",
+ "source_sha256": "e237be1892af9b7bfcbfb7e7aca501127b252c3bd7f4a2d28508ba5aa5fc1510",
+ "in_force": "2013-10-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (28 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1212",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1212/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1212/text/O/D20131212.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1212/text/I/D20131212.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1212/text/T/D20131212L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/1212/text/W/D20131212L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1212",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1212,
+  "address": "WDU20130001212",
+  "displayAddress": "Dz.U. 2013 poz. 1212",
+  "title": "Ustawa z dnia 27 września 2013 r. o zmianie ustawy budżetowej na rok 2013",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-09-27",
+  "promulgation": "2013-10-14",
+  "entryIntoForce": "2013-10-14",
+  "validFrom": "2013-10-14",
+  "changeDate": "2024-03-14T20:09:11",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=1625",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/1625",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/1625",
+    "number": "1625",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2013/169",
+     "date": "2013-10-14"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131212.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131212.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131212L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131212L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
