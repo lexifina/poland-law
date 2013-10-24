@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/823",
+ "source_sha256": "39cafd755e528b1b97597cc6173e2b118d4df14c4a1b2e8d285ca796bbeb8695",
+ "in_force": "2013-10-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/823",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/823/text/O/M20130823.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/823/text/I/M20130823.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/823",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 823,
+  "address": "WMP20130000823",
+  "displayAddress": "M.P. 2013 poz. 823",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 października 2013 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów 2013 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-10-15",
+  "promulgation": "2013-10-24",
+  "changeDate": "2020-10-20T09:38:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "towar",
+   "wskaźnik",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/32"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/32",
+     "art": "art. 7 ust. 2d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130823.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130823.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
