@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1262",
+ "source_sha256": "b3479c6adaada4828ad594533eca53c2d91116a9f27a8c6c0cbb9174e4249f08",
+ "in_force": "2013-10-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 509 words, parsed 61; at 61: 'Obywatelskich o zbadanie zgodności : 1 ) art . 81'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1262",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1262/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1262/text/O/D20131262.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1262/text/I/D20131262.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1262/text/T/D20131262TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1262",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1262,
+  "address": "WDU20130001262",
+  "displayAddress": "Dz.U. 2013 poz. 1262",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 października 2013 r. sygn. akt K 30/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-10-08",
+  "promulgation": "2013-10-29",
+  "entryIntoForce": "2013-10-29",
+  "validFrom": "2013-10-29",
+  "changeDate": "2024-03-14T20:08:19",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2013-10-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131262.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131262.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131262TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
