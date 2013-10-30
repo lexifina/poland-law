@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2005 r. Nr 235, poz. 2000, z późn. zm.) zarządza się, co następuje:
