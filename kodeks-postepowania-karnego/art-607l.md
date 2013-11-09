@@ -1,1 +1,3 @@
+§ 1a. Zawiadamiając osobę ściganą o posiedzeniu, o którym mowa w§ 1, sąd doręcza nakaz europejski wraz z tłumaczeniem przekazanym przez prokuratora. Jeżeli ze względu na szczególne okoliczności nie jest możliwe sporządzenie tłumaczenia przed posiedzeniem, tłumaczenie zarządza sąd. Można poprzestać na poinformowaniu osoby o treści nakazu europejskiego, jeśli nie utrudni to realizacji przysługujących jej praw, w tym praw wymienionych w § 2.
+
 § 3. Na postanowienie sądu w przedmiocie przekazania przysługuje zażalenie. Zażalenie wnosi się w terminie 3 dni od dnia ogłoszenia postanowienia, a jeżeli osoba ścigana pozbawiona jest wolności i nie została sprowadzona na posiedzenie sądu - od dnia jego doręczenia. Art. 252 stosuje się odpowiednio.

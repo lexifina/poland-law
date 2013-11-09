@@ -1,6 +1,6 @@
 # Art. 232a.
 
-§ 1. Przedmioty i substancje stwarzające niebezpieczeństwo dla życia lub zdrowia, a w szczególności broń, amunicję, materiały wybuchowe lub łatwopalne, materiały radioaktywne, substancje trujące, duszące lub parzące, środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1, przechowuje się w miejscu i w sposób zapewniający ich należyte zabezpieczenie.
+§ 1. Przedmioty i substancje stwarzające niebezpieczeństwo dla życia lub zdrowia, a w szczególności broń, amunicję, materiały wybuchowe lub łatwopalne, materiały radioaktywne, substancje trujące, duszące lub parzące, środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1, a także wyroby tytoniowe i napoje alkoholowe, przechowuje się w miejscu i w sposób zapewniający ich należyte zabezpieczenie.
 
 § 2. Jeżeli dla zapewnienia prawidłowego toku postępowania wystarczające jest przechowywanie próbek w ilości niezbędnej do przeprowadzenia badań przedmiotów lub substancji, o których mowa w § 1, sąd właściwy do rozpoznania sprawy, na wniosek prokuratora, niezwłocznie zarządza zniszczenie w całości lub w części pozostałych ilości przedmiotów lub substancji zbędnych do przeprowadzenia badań.
 
