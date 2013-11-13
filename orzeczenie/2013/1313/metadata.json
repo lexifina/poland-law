@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1313",
+ "source_sha256": "115e34cbd835e7e1262b477b330ebe6c2d4a9b03b92ba077e96923b6acee59ae",
+ "in_force": "2013-11-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 501 words, parsed 73; at 73: 'Poznaniu o zbadanie zgodności : 1 ) art . 33'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1313",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1313/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1313/text/O/D20131313.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1313/text/I/D20131313.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1313/text/T/D20131313TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1313",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1313,
+  "address": "WDU20130001313",
+  "displayAddress": "Dz.U. 2013 poz. 1313",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 października 2013 r. sygn. akt SK 40/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-10-08",
+  "promulgation": "2013-11-13",
+  "entryIntoForce": "2013-11-13",
+  "validFrom": "2013-11-13",
+  "changeDate": "2024-03-14T20:05:07",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/926",
+     "date": "2013-11-13"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/926"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131313.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131313.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131313TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
