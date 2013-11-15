@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/894",
+ "source_sha256": "bef62c48da4d54512fcfccf8a227c03bfb2076889233cef0b3e9fddb2a7b0189",
+ "in_force": "2013-11-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/894",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/894/text/O/M20130894.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/894/text/I/M20130894.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/894",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 894,
+  "address": "WMP20130000894",
+  "displayAddress": "M.P. 2013 poz. 894",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 października 2013 r. w sprawie wyboru uzupełniającego posła członka Krajowej Rady Sądownictwa",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-10-09",
+  "promulgation": "2013-11-15",
+  "changeDate": "2026-05-07T10:40:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2011/714"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 26 ust. 4"
+    },
+    {
+     "id": "DU/2011/714",
+     "art": "art. 9 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 187 ust. 1 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20130894.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20130894.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
