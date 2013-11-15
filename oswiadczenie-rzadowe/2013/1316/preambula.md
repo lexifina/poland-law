@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 oraz art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443, z późn. zm.) Rada Ministrów Rzeczypospolitej Polskiej dnia 26 lipca 2013 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki ustanawiającym zasady działania Wspólnej Komisji powołanej Umową między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej, poprzez podpisanie.
+
+Porozumienie zostało podpisane w Warszawie dnia 9 października 2013 r. na podstawie art. 35 ust. 4 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej.
+
+Zgodnie z art. 7 zdanie pierwsze porozumienia weszło ono w życie z dniem podpisania.
