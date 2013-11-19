@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1340",
+ "source_sha256": "a9ce14c13393d330d5e5594f0cffb81f08d713f9f72c1ace8d1fa8e6c6739240",
+ "in_force": "2013-11-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1340",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1340/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1340/text/O/D20131340.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1340/text/I/D20131340.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1340/text/T/D20131340L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/1340/text/U/D20131340Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1340",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1340,
+  "address": "WDU20130001340",
+  "displayAddress": "Dz.U. 2013 poz. 1340",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowej Straży Pożarnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-07-31",
+  "promulgation": "2013-11-19",
+  "expirationDate": "2016-04-29",
+  "changeDate": "2024-03-14T20:11:50",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Państwowa Straż Pożarna",
+   "Straż Pożarna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/400"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131340.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131340.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131340L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131340Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
