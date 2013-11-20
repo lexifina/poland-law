@@ -1,0 +1,1 @@
+Na podstawie art. 24a ust. 7 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164 i 1529 oraz z 2013 r. poz. 311) zarządza się, co następuje:
