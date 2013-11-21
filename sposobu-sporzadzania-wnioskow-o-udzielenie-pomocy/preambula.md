@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 5 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289) zarządza się, co następuje:
