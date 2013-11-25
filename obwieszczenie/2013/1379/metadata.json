@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1379",
+ "source_sha256": "60091bbe54674ad1e82ce24af2d2fb349f3dda78cb85184fd752a954c581a9c8",
+ "in_force": "2013-11-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1379",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1379/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1379/text/O/D20131379.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1379/text/I/D20131379.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1379",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1379,
+  "address": "WDU20130001379",
+  "displayAddress": "Dz.U. 2013 poz. 1379",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 29 lipca 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie sposobu dokumentowania chorób zawodowych i skutków tych chorób",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-07-29",
+  "promulgation": "2013-11-25",
+  "expirationDate": "2024-10-17",
+  "changeDate": "2024-10-18T08:33:31",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "choroby zawodowe",
+   "dokumentacja medyczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1121"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131379.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131379.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
