@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1383",
+ "source_sha256": "52f4b7199bf0b128cb93ab1fabdee18fb185f9dd769aba9bbd0213664d445df3",
+ "in_force": "2013-11-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1383",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1383/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1383/text/O/D20131383.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1383/text/I/D20131383.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1383/text/T/D20131383L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/1383/text/U/D20131383Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1383",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1383,
+  "address": "WDU20130001383",
+  "displayAddress": "Dz.U. 2013 poz. 1383",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 października 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o strażach gminnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-10-24",
+  "promulgation": "2013-11-27",
+  "expirationDate": "2016-05-24",
+  "changeDate": "2024-03-14T20:04:03",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "straż gminna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/779"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131383.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131383.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131383L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131383Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
