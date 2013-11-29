@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1410",
+ "source_sha256": "ef2546c99e501838494e6736ae9c6669ff5be64f6d8c2f2abb21921934f310c4",
+ "in_force": "2013-11-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1410",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1410/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1410/text/O/D20131410.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1410/text/I/D20131410.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1410/text/T/D20131410L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/1410/text/U/D20131410Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/1410/text/W/D20131410L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1410",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1410,
+  "address": "WDU20130001410",
+  "displayAddress": "Dz.U. 2013 poz. 1410",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo własności przemysłowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-09-17",
+  "promulgation": "2013-11-29",
+  "expirationDate": "2017-04-05",
+  "changeDate": "2024-03-14T20:08:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "własność przemysłowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/508"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131410.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131410.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131410L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131410Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20131410L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
