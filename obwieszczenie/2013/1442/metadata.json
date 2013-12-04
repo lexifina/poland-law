@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1442",
+ "source_sha256": "6c20e9240420a0991e996444bc6fb5c663fbc3933f1d8242561c7512ffe4569f",
+ "in_force": "2013-12-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1442",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1442/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1442/text/O/D20131442.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1442/text/I/D20131442.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1442/text/T/D20131442L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2013/1442/text/U/D20131442Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/1442/text/W/D20131442L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1442",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1442,
+  "address": "WDU20130001442",
+  "displayAddress": "Dz.U. 2013 poz. 1442",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 października 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie ubezpieczeń społecznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-10-24",
+  "promulgation": "2013-12-04",
+  "expirationDate": "2015-01-22",
+  "changeDate": "2024-03-14T20:04:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/2015/1037"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1998/887"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131442.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131442.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131442L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131442Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20131442L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
