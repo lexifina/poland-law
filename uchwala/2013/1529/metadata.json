@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1529",
+ "source_sha256": "53058ffa9814d8451248839f52d56a1e2cf8e0877aa5e2b7037ef5963c184412",
+ "in_force": "2013-12-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 442 words, parsed 49; at 14: 'Społecznych i Spraw Publicznych : Przewodniczący Prezes Sądu Najwyższego :'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1529",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1529/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1529/text/O/D20131529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1529/text/I/D20131529.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1529",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1529,
+  "address": "WDU20130001529",
+  "displayAddress": "Dz.U. 2013 poz. 1529",
+  "title": "Uchwała Sądu Najwyższego z dnia 28 listopada 2013 r. w sprawie ważności wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, przeprowadzonych w dniu 8 września 2013 r. w województwie podkarpackim w okręgu wyborczym nr 55",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-11-28",
+  "promulgation": "2013-12-12",
+  "changeDate": "2024-03-14T20:09:58",
+  "releasedBy": [
+   "SĄD NAJWYŻSZY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2013/1075"
+    },
+    {
+     "id": "DU/2011/112"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131529.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
