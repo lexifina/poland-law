@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/1012",
+ "source_sha256": "9bae859f11bd0f96499181b922cd27f008b5bd673ec9da82f6360647fe75e7a1",
+ "in_force": "2013-12-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/1012",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/1012/text/O/M20131012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/1012/text/I/M20131012.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/1012",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1012,
+  "address": "WMP20130001012",
+  "displayAddress": "M.P. 2013 poz. 1012",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 31 października 2013 r. nr 115-12-13 w sprawie nadania tytułu profesora",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-10-31",
+  "promulgation": "2013-12-13",
+  "changeDate": "2018-09-07T12:05:45",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/595"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/595",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20131012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20131012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
