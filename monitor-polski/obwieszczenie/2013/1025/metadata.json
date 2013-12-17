@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2013/1025",
+ "source_sha256": "9aa4d643c18c642ffc2a0a3a630459b9c040e33d828f3262dbb2bd160ce5f72e",
+ "in_force": "2013-12-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2013/1025",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2013/1025/text/O/M20131025.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2013/1025/text/I/M20131025.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2013/1025",
+  "publisher": "MP",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1025,
+  "address": "WMP20130001025",
+  "displayAddress": "M.P. 2013 poz. 1025",
+  "title": "Obwieszczenie Ministra Edukacji Narodowej z dnia 1 października 2013 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Edukacji Narodowej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-10-01",
+  "promulgation": "2013-12-17",
+  "changeDate": "2019-03-25T12:08:24",
+  "releasedBy": [
+   "MIN. EDUKACJI NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Edukacji Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20131025.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20131025.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
