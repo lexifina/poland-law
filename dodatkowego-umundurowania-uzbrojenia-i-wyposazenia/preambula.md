@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 3 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2013 r. poz. 568 i 628 oraz z 2014 r. poz. 1055) zarządza się, co następuje:
