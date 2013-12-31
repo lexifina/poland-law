@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 1 pkt 2 ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą (Dz. U. Nr 97, poz. 963, z 2005 r. Nr 14, poz. 115 oraz z 2006 r. Nr 79, poz. 546) zarządza się, co następuje:
