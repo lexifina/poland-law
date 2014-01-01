@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2013/1563",
+ "source_sha256": "2e372b62a4ad9d31351896c8daa8846ebe88f67fbe9899d5d91f807591cec3dc",
+ "in_force": "2014-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2013/1563",
+  "html": "https://eli.gov.pl/api/acts/DU/2013/1563/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2013/1563/text/O/D20131563.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2013/1563/text/I/D20131563.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2013/1563/text/T/D20131563L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2013/1563/text/W/D20131563L.rtf"
+ },
+ "metadata": {
+  "ELI": "DU/2013/1563",
+  "publisher": "DU",
+  "year": 2013,
+  "volume": 0,
+  "pos": 1563,
+  "address": "WDU20130001563",
+  "displayAddress": "Dz.U. 2013 poz. 1563",
+  "title": "Ustawa z dnia 4 stycznia 2013 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-01-04",
+  "promulgation": "2013-12-17",
+  "entryIntoForce": "2014-01-01",
+  "validFrom": "2014-01-01",
+  "changeDate": "2024-03-14T20:12:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przeciwdziałanie alkoholizmowi",
+   "izby wytrzeźwień"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=978",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/978",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/978",
+    "number": "978",
+    "term": 7
+   }
+  ],
+  "comments": "objęte tekstem jednolitym Dz. U. z 2015 r. poz. 1286 z wyj. art. 2-4",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2013/690",
+     "date": "2013-08-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1982/230",
+     "date": "2014-01-01"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "MP/2013/690"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20131563.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20131563.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20131563L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20131563L.rtf",
+    "type": "W"
+   }
+  ]
+ }
+}
