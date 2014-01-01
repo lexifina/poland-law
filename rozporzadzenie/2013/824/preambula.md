@@ -1,0 +1,1 @@
+Na podstawie art. 26 ust. 2 ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2013 r. poz. 712) zarządza się, co następuje:
