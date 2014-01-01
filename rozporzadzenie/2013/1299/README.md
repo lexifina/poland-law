@@ -1,0 +1,4 @@
+# Rozporządzenie Ministra Finansów z dnia 5 listopada 2013 r. w sprawie wyznaczenia jednostki organizacyjnej do celów dokonywania potwierdzenia zidentyfikowania określonego podmiotu na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium kraju oraz informowania o braku takiego potwierdzenia
+
+Dz.U. 2013 poz. 1299 · <https://eli.gov.pl/api/acts/DU/2013/1299>
+
