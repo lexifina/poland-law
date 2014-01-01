@@ -1,0 +1,1 @@
+Na podstawie art. 3 ustawy z dnia 21 kwietnia 1966 r. o ustanowieniu medalu „Za udział w walkach o Berlin” i medalu „Za zasługi dla obronności kraju” (Dz. U. Nr 14, poz. 85) zarządza się, co następuje:
