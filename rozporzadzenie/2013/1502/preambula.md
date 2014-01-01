@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 1 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (Dz. U. Nr 76, poz. 812 oraz z 2010 r. Nr 182, poz. 1228) zarządza się, co następuje:
