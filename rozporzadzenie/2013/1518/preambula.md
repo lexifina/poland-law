@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 4 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. Nr 93, poz. 1063, z późn. zm.) zarządza się, co następuje:
