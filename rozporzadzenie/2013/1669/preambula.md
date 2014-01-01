@@ -1,0 +1,1 @@
+Na podstawie art. 20 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2012 r. poz. 1187 oraz z 2013 r. poz. 155) zarządza się, co następuje:
