@@ -1,0 +1,1 @@
+Na podstawie art. 45 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.) zarządza się, co następuje:
