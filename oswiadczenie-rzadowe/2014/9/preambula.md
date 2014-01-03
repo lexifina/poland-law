@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 i 4 w związku z art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443, z późn. zm.) Rada Ministrów Rzeczypospolitej Polskiej dnia 29 października 2010 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o sporządzeniu nowej wersji załącznika do Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o utrzymaniu mostów granicznych na granicy polsko-niemieckiej w ciągu polskich dróg krajowych i niemieckich dróg federalnych, sporządzonej w Warszawie dnia 20 marca 1995 r., poprzez wymianę not.
+
+Porozumienie zostało zawarte poprzez wymianę not na podstawie art. 11 ust. I Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o utrzymaniu mostów granicznych na granicy polsko-niemieckiej w ciągu polskich dróg krajowych i niemieckich dróg federalnych, sporządzonej w Warszawie dnia 20 marca 1995 r.
+
+Porozumienie weszło w życie dnia 16 października 2013 r.
