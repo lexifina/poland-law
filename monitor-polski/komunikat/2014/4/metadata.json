@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/4",
+ "source_sha256": "466d5c09f2ba6bf6c63ca1079770b0dd003321a2679aab2424ba7fd52029aebe",
+ "in_force": "2014-01-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/4",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/4/text/O/M20140004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/4/text/I/M20140004.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/4",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 4,
+  "address": "WMP20140000004",
+  "displayAddress": "M.P. 2014 poz. 4",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 24 grudnia 2013 r. w sprawie kwoty 250% prognozowanego przeciętnego wynagrodzenia, stosowanej w okresie od dnia 1 stycznia 2014 r. do dnia 31 grudnia 2014 r. przy ustalaniu podstawy wymiaru składek na ubezpieczenie chorobowe osób, które ubezpieczeniu chorobowemu podlegają dobrowolnie",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2013-12-24",
+  "promulgation": "2014-01-03",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "wynagrodzenia przeciętne",
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 20 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140004.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
