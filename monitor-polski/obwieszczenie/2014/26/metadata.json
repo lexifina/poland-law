@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/26",
+ "source_sha256": "ba17d34daea28c10a320efaf340a2beca5041c6467bf4c32c6eb8ced3f04486a",
+ "in_force": "2014-01-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/26",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/26/text/O/M20140026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/26/text/I/M20140026.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/26",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 26,
+  "address": "WMP20140000026",
+  "displayAddress": "M.P. 2014 poz. 26",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 7 stycznia 2014 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-07",
+  "promulgation": "2014-01-15",
+  "changeDate": "2023-06-15T11:07:08",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
