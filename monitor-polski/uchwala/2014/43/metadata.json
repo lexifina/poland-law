@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/43",
+ "source_sha256": "94eace2c39f60874635951b3db9e18c46eac7347a437baa3a2669206135f1ac6",
+ "in_force": "2014-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/43",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/43/text/O/M20140043.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/43/text/I/M20140043.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/43",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 43,
+  "address": "WMP20140000043",
+  "displayAddress": "M.P. 2014 poz. 43",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 10 stycznia 2014 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Dolaty",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-10",
+  "promulgation": "2014-01-20",
+  "changeDate": "2026-10-06T13:43:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140043.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140043.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
