@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/47",
+ "source_sha256": "fd1f4d981838a3cb26f0234d3623a09ef5403ddb3268d6907b133e05ebdfef18",
+ "in_force": "2014-01-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/47",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/47/text/O/M20140047.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/47/text/I/M20140047.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/47",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 47,
+  "address": "WMP20140000047",
+  "displayAddress": "M.P. 2014 poz. 47",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 stycznia 2014 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w IV kwartale 2013 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-15",
+  "promulgation": "2014-01-23",
+  "changeDate": "2020-10-20T09:38:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140047.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140047.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
