@@ -1,5 +1,7 @@
 # Art. 185b.
 
-§ 1. Świadka, który w chwili przesłuchania nie ukończył 15 lat, można przesłuchać w warunkach określonych w art. 185a w sprawach o przestępstwa popełnione z użyciem przemocy lub groźby bezprawnej lub o przestępstwa określone w rozdziale XXV Kodeksu karnego, jeżeli zeznania tego świadka mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy.
+§ 1. W sprawach o przestępstwa popełnione z użyciem przemocy lub groźby bezprawnej lub określone w rozdziałach XXV i XXVI Kodeksu karnego świadka, który w chwili przesłuchania nie ukończył 15 lat, przesłuchuje się w warunkach określonych w art. 185a § 1-3, jeżeli zeznania tego świadka mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy.
 
-§ 2. Przepisu § 1 nie stosuje się do świadka współdziałającego w popełnieniu czynu zabronionego, o który toczy się postępowanie karne.
+§ 2. W sprawach o przestępstwa wymienione w § 1 małoletniego świadka, który w chwili przesłuchania ukończył 15 lat, przesłuchuje się w trybie określonym w art. 177 § la, gdy zachodzi uzasadniona obawa, że bezpośrednia obecność oskarżonego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania świadka lub wywierać negatywny wpływ na jego stan psychiczny.
+
+§ 3. Przepisów § 1 i 2 nie stosuje się do świadka współdziałającego w popełnieniu czynu zabronionego, o który toczy się postępowanie karne, lub świadka, którego czyn pozostaje w związku z czynem, o który toczy się postępowanie karne.
