@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/108",
+ "source_sha256": "2dc1c621a3d9a3c0d4298c9a08a408edeb0120e514a7d926838042508d3703c5",
+ "in_force": "2014-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/108",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/108/text/O/M20140108.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/108/text/I/M20140108.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/108",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 108,
+  "address": "WMP20140000108",
+  "displayAddress": "M.P. 2014 poz. 108",
+  "title": "Oświadczenie rządowe z dnia 15 stycznia 2014 r. w sprawie związania Rzeczypospolitej Polskiej Umową między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Czeskiej o wzajemnej reprezentacji wizowej, podpisaną w Pradze dnia 21 listopada 2013 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-15",
+  "promulgation": "2014-01-31",
+  "changeDate": "2019-03-26T10:30:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "wizy"
+  ],
+  "keywordsNames": [
+   "Czechy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/443",
+     "art": "art. 6 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140108.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140108.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
