@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/111",
+ "source_sha256": "69be48258888437f1b5645484a551c180e6dc90a3c7029c6d686e98fb22a43ed",
+ "in_force": "2014-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/111",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/111/text/O/M20140111.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/111/text/I/M20140111.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/111",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 111,
+  "address": "WMP20140000111",
+  "displayAddress": "M.P. 2014 poz. 111",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 27 stycznia 2014 r. w sprawie uznania rejonu działania Polskiego Kontyngentu Wojskowego w ramach Misji Szkoleniowej Unii Europejskiej w Republice Mali za strefę działań wojennych",
+  "type": "Obwieszczenie",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-27",
+  "promulgation": "2014-01-31",
+  "changeDate": "2020-09-03T11:18:13",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba wojskowa żołnierzy",
+   "kontyngenty wojskowe",
+   "służba zagraniczna"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne",
+   "Mali"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1117"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1117",
+     "art": "art. 9 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140111.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140111.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
