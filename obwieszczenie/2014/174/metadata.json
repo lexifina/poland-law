@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/174",
+ "source_sha256": "11491e31d6b6bcb56b4e54c4ecc2051a3d038aaad1570d70b6892d0155d91425",
+ "in_force": "2014-02-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/174",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/174/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/174/text/O/D20140174.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/174/text/I/D20140174.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/174/text/T/D20140174L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/174/text/U/D20140174Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/174",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 174,
+  "address": "WDU20140000174",
+  "displayAddress": "Dz.U. 2014 poz. 174",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o diagnostyce laboratoryjnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-12-06",
+  "promulgation": "2014-02-05",
+  "expirationDate": "2014-10-14",
+  "changeDate": "2024-03-14T20:25:12",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "diagnostyka laboratoryjna",
+   "badania lekarskie",
+   "ochrona zdrowia",
+   "służba zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1083"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140174.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140174.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140174L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140174Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
