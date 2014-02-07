@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/126",
+ "source_sha256": "c6a85fb3837fec3a0c7ca8317c3e0fd188467e29baf9ce7e34a2532ebba4160b",
+ "in_force": "2014-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/126",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/126/text/O/M20140126.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/126/text/I/M20140126.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/126",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 126,
+  "address": "WMP20140000126",
+  "displayAddress": "M.P. 2014 poz. 126",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 24 stycznia 2014 r. o wolnym stanowisku sędziego w Wojewódzkim Sądzie Administracyjnym w Gliwicach",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-24",
+  "promulgation": "2014-02-07",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2002/1269"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140126.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140126.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
