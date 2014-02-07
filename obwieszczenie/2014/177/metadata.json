@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/177",
+ "source_sha256": "2aaa7ab1d68ffe5384b7417a203f4d792bb327c66c57cb37bd890fc1ee748cc6",
+ "in_force": "2014-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/177",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/177/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/177/text/O/D20140177.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/177/text/I/D20140177.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/177",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 177,
+  "address": "WDU20140000177",
+  "displayAddress": "Dz.U. 2014 poz. 177",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 6 czerwca 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie rodzajów i zakresu dokumentacji medycznej oraz sposobu jej przetwarzania",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-06-06",
+  "promulgation": "2014-02-07",
+  "repealDate": "2015-12-23",
+  "changeDate": "2024-03-14T20:18:47",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumentacja medyczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1697"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2015/2069",
+     "date": "2015-12-23"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140177.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140177.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
