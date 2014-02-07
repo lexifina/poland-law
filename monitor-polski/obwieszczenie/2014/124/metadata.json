@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/124",
+ "source_sha256": "2851b35245073d2fc1ba1366794ca540d486abfb69a35be26d1fdffbde1d83ae",
+ "in_force": "2014-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/124",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/124/text/O/M20140124.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/124/text/I/M20140124.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/124",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 124,
+  "address": "WMP20140000124",
+  "displayAddress": "M.P. 2014 poz. 124",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 20 stycznia 2014 r. o wolnym stanowisku sędziowskim",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-20",
+  "promulgation": "2014-02-07",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/753"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/753",
+     "art": "art. 70 par. 1 pkt 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140124.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140124.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
