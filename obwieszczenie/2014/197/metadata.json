@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/197",
+ "source_sha256": "0c8a38b498ddfbdd42be8c3c7a33cd21d94e2af0b9d1a5652961ebddaa03bb4e",
+ "in_force": "2014-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/197",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/197/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/197/text/O/D20140197.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/197/text/I/D20140197.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/197/text/T/D20140197L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/197/text/U/D20140197Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/197",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 197,
+  "address": "WDU20140000197",
+  "displayAddress": "Dz.U. 2014 poz. 197",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 stycznia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o giełdach towarowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-01-10",
+  "promulgation": "2014-02-12",
+  "expirationDate": "2016-04-29",
+  "changeDate": "2024-03-14T20:23:03",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "giełdy",
+   "towar"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1099"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140197.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140197.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140197L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140197Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
