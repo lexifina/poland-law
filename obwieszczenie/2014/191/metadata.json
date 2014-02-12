@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/191",
+ "source_sha256": "19ce28ebeb89ee75de875a986ee8619cc21e72c66e7e8f080b72b40c32a138b9",
+ "in_force": "2014-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/191",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/191/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/191/text/O/D20140191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/191/text/I/D20140191.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/191/text/T/D20140191L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/191/text/U/D20140191Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/191",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 191,
+  "address": "WDU20140000191",
+  "displayAddress": "Dz.U. 2014 poz. 191",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 stycznia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Karta Nauczyciela",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-01-10",
+  "promulgation": "2014-02-12",
+  "expirationDate": "2016-08-31",
+  "changeDate": "2024-03-14T20:23:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [
+   "Karta Nauczyciela"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/19"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140191.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140191L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140191Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
