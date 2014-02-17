@@ -1,0 +1,109 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/210",
+ "source_sha256": "9b55d497d9255f291dada51382da093354cbc0ec8d2f9684dff74b6d35a3fc33",
+ "in_force": "2014-02-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/210",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/210/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/210/text/O/D20140210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/210/text/I/D20140210.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/210/text/T/D20140210L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/210/text/U/D20140210Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/210",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 210,
+  "address": "WDU20140000210",
+  "displayAddress": "Dz.U. 2014 poz. 210",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 stycznia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zapobieganiu szkodom w środowisku i ich naprawie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-01-10",
+  "promulgation": "2014-02-17",
+  "expirationDate": "2014-12-12",
+  "changeDate": "2024-03-14T20:20:21",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "czystość i porządek",
+   "ochrona środowiska",
+   "zanieczyszczenia",
+   "wodne prawo",
+   "bezpieczeństwo produktów",
+   "ochrona roślin",
+   "towar",
+   "ochrona przyrody",
+   "transport drogowy"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31993R0259",
+    "date": "1993-02-01",
+    "title": "ROZPORZĄDZENIE RADY (EWG) NR 259/93 z dnia 1 lutego 1993 r. w sprawie nadzoru i kontroli przesyłania odpadów w obrębie, do Wspólnoty Europejskiej oraz poza jej obszar"
+   },
+   {
+    "address": "32004L0035",
+    "date": "2004-04-21",
+    "title": "Dyrektywa 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu"
+   }
+  ],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 30-34 oraz art. 36-38 ustawy z dnia 13 kwietnia 2007 r.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2007/493"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140210.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140210L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140210Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
