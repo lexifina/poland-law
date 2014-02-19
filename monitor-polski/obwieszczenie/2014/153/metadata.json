@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/153",
+ "source_sha256": "342f14d9c1322731edb816febf71c714af5d7688ffde7cf7c599a364d14e346c",
+ "in_force": "2014-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/153",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/153/text/O/M20140153.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/153/text/I/M20140153.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/153",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 153,
+  "address": "WMP20140000153",
+  "displayAddress": "M.P. 2014 poz. 153",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 4 października 2013 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie zasad i trybu postępowania z materiałami archiwalnymi i inną dokumentacją w Agencji Bezpieczeństwa Wewnętrznego",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-10-04",
+  "promulgation": "2014-02-19",
+  "repealDate": "2015-11-01",
+  "changeDate": "2016-03-24T13:39:21",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [
+   "Agencja Bezpieczeństwa Wewnętrznego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2007/843"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2015/566",
+     "date": "2015-11-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140153.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140153.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
