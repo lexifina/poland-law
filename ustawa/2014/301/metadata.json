@@ -1,0 +1,133 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/301",
+ "source_sha256": "814a0f8f0803570f5cbf96a00ca2cc033560e865e7f02a42950e3a156924dd32",
+ "in_force": "2014-03-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/301",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/301/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/301/text/O/D20140301.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/301/text/I/D20140301.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/301/text/T/D20140301L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/301/text/U/D20140301Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/301",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 301,
+  "address": "WDU20140000301",
+  "displayAddress": "Dz.U. 2014 poz. 301",
+  "title": "Ustawa z dnia 21 lutego 2014 r. o funduszu sołeckim",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-02-21",
+  "promulgation": "2014-03-12",
+  "entryIntoForce": "2014-03-20",
+  "validFrom": "2014-03-20",
+  "changeDate": "2026-02-05T09:57:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ADMINISTRACJI PUBLICZNEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "gminy",
+   "klęski żywiołowe",
+   "budżet",
+   "finanse publiczne",
+   "sołtysi",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=1755",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/1755",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/1755",
+    "number": "1755",
+    "term": 7
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=2102",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/2102",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/2102",
+    "number": "2102",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2009/420",
+     "date": "2014-03-20"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2015/1389"
+    },
+    {
+     "id": "DU/2014/916"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2025/1436",
+     "date": "2026-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2010/1427",
+     "date": "2014-03-20"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2009/1240"
+    },
+    {
+     "id": "DU/2002/558"
+    },
+    {
+     "id": "DU/1995/439"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140301.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140301.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140301L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140301Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
