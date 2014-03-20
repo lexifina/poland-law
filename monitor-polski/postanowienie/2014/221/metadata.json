@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/221",
+ "source_sha256": "bc96ed340e038f800a8d239244eb28eaeaca89c36f6613008ae9aa3cd54ac096",
+ "in_force": "2014-03-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/221/text/O/M20140221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/221/text/I/M20140221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/221",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 221,
+  "address": "WMP20140000221",
+  "displayAddress": "M.P. 2014 poz. 221",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 13 stycznia 2014 r. nr 1131-1-2014 o powołaniu Prezesa Sądu Najwyższego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-01-13",
+  "promulgation": "2014-03-20",
+  "changeDate": "2020-06-12T09:01:51",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sąd Najwyższy",
+   "Prezes Sądu Najwyższego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 13 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
