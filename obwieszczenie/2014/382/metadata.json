@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/382",
+ "source_sha256": "8c681857c2268c312513a03e0d5f64f56fd16e01a5d95f0d887b419206f59891",
+ "in_force": "2014-03-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/382",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/382/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/382/text/O/D20140382.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/382/text/I/D20140382.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/382/text/T/D20140382L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/382/text/U/D20140382Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/382",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 382,
+  "address": "WDU20140000382",
+  "displayAddress": "Dz.U. 2014 poz. 382",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu w sprawach nieletnich",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-02-20",
+  "promulgation": "2014-03-25",
+  "expirationDate": "2016-09-14",
+  "changeDate": "2024-03-14T20:17:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nieletni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/228"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140382.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140382.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140382L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140382Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
