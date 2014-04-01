@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/253",
+ "source_sha256": "8ce8ab89dcc1be0a7c3491ca53eb8df0eb85f1a59471a28d5d614ef42c0bdcc9",
+ "in_force": "2014-04-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/253",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/253/text/O/M20140253.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/253/text/I/M20140253.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/253",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 253,
+  "address": "WMP20140000253",
+  "displayAddress": "M.P. 2014 poz. 253",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2014 r. w sprawie wyboru uzupełniającego skład Trybunału Stanu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-03-21",
+  "promulgation": "2014-04-01",
+  "changeDate": "2026-05-07T10:40:53",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1982/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 26 ust. 3"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 199 ust. 1"
+    },
+    {
+     "id": "DU/1982/84",
+     "art": "art. 17 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140253.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140253.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
