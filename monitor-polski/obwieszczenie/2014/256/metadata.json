@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/256",
+ "source_sha256": "2f2d596c15e448fe42f91c7e4f2449ba0a3ca5c46a2d2560c4050598df09c3de",
+ "in_force": "2014-04-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/256",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/256/text/O/M20140256.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/256/text/I/M20140256.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/256",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 256,
+  "address": "WMP20140000256",
+  "displayAddress": "M.P. 2014 poz. 256",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 19 marca 2014 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-03-19",
+  "promulgation": "2014-04-02",
+  "changeDate": "2023-06-15T11:07:08",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 56 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140256.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140256.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
