@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 oraz art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443, z późn. zm.) Rada Ministrów Rzeczypospolitej Polskiej dnia 22 listopada 2013 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej w sprawie procedur dotyczących rozpatrywania roszczeń z tytułu szkód wyrządzonych przez siły zbrojne Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej, przez podpisanie.
+
+Porozumienie zostało podpisane w Warszawie dnia 7 lutego 2014 r. na podstawie art. 17 oraz art. 35 ust. 1 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej.
+
+Zgodnie z art. 4 ust. 2 porozumienia weszło ono w życie z dniem podpisania.
