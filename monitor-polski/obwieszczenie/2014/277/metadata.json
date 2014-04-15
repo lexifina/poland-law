@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/277",
+ "source_sha256": "046e531249794c70f25aea0e7befd8f98f5f2cdf282dcf71bbac5d8b52f6dc15",
+ "in_force": "2014-04-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/277",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/277/text/O/M20140277.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/277/text/I/M20140277.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/277",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 277,
+  "address": "WMP20140000277",
+  "displayAddress": "M.P. 2014 poz. 277",
+  "title": "Obwieszczenie Pierwszego Prezesa Sądu Najwyższego z dnia 4 kwietnia 2014 r. o liczbie, przewidzianych do objęcia, stanowisk sędziego Sądu Najwyższego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-04-04",
+  "promulgation": "2014-04-15",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PIERWSZY PREZES SĄDU NAJWYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 24 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140277.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140277.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
