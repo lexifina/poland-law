@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/287",
+ "source_sha256": "6b0bada146b46a9c9c49d08292d034c6a73027b7b2b05f546a4d02c831b74740",
+ "in_force": "2014-04-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/287",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/287/text/O/M20140287.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/287/text/I/M20140287.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/287",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 287,
+  "address": "WMP20140000287",
+  "displayAddress": "M.P. 2014 poz. 287",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 kwietnia 2014 r. w sprawie wskaźnika wzrostu cen towarów i usług konsumpcyjnych ogółem w marcu 2014 r. w stosunku do marca 2008 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-04-15",
+  "promulgation": "2014-04-23",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/934"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/934",
+     "art": "art. 181a ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140287.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140287.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
