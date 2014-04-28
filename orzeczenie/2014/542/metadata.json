@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/542",
+ "source_sha256": "16a89d66ca6fb92103f73141779777c55fb19c3487dd4afba5fbc1d90e224387",
+ "in_force": "2014-04-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 288 words, parsed 163; at 163: '2 Konstytucji , orzeka : I Art . 45 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/542",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/542/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/542/text/O/D20140542.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/542/text/I/D20140542.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/542/text/T/D20140542TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/542",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 542,
+  "address": "WDU20140000542",
+  "displayAddress": "Dz.U. 2014 poz. 542",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 8 kwietnia 2014 r. sygn. akt K 21/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-04-08",
+  "promulgation": "2014-04-28",
+  "entryIntoForce": "2014-04-28",
+  "validFrom": "2014-04-28",
+  "changeDate": "2024-03-14T20:21:58",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żołnierz zawodowy",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/36",
+     "date": "2015-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1994/36"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140542.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140542.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140542TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
