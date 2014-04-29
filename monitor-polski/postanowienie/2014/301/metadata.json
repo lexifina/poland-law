@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/301",
+ "source_sha256": "fdd553bac3dbf7732aa86a4f2525d34c86836632f1170da6658dbed15a5f168f",
+ "in_force": "2014-04-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/301",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/301/text/O/M20140301.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/301/text/I/M20140301.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/301",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 301,
+  "address": "WMP20140000301",
+  "displayAddress": "M.P. 2014 poz. 301",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 kwietnia 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 37 z siedzibą Okręgowej Komisji Wyborczej w Koninie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-04-14",
+  "promulgation": "2014-04-29",
+  "changeDate": "2018-02-12T14:28:10",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140301.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140301.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
