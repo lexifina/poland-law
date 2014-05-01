@@ -1,0 +1,1 @@
+Na podstawie art. 74b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm.) zarządza się, co następuje:
