@@ -1,6 +1,6 @@
 # Art. 14b.
 
-§ 1. Minister właściwy do spraw finansów publicznych, na pisemny wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, pisemną interpretację przepisów prawa podatkowego (interpretację indywidualną).
+§ 1. Minister właściwy do spraw finansów publicznych, na wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, interpretację przepisów prawa podatkowego (interpretację indywidualną).
 
 § 2. Wniosek o interpretację indywidualną może dotyczyć zaistniałego stanu faktycznego lub zdarzeń przyszłych.
 
