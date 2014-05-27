@@ -1,6 +1,6 @@
 # Art. 28a.
 
-Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory;
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
 
 - 1) deklaracji i informacji, o których mowa w art. 26 ust. 3 i 6 oraz w art. 26a,
 

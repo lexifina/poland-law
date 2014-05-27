@@ -1,6 +1,6 @@
 # Art. 16m.
 
-1. Z zastrzeżeniem ust. 2 i 3 oraz art. 16ł ust. 1-3, okres dokonywania odpisów amortyzacyjnych od wartości niematerialnych i prawnych nie może być krótszy niż;
+1. Z zastrzeżeniem ust. 2 i 3 oraz art. 16ł ust. 1-3, okres dokonywania odpisów amortyzacyjnych od wartości niematerialnych i prawnych nie może być krótszy niż:
 
 - 1) od licencji (sublicencji) na programy komputerowe oraz od praw autorskich - 24 miesiące;
 

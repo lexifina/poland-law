@@ -1,6 +1,6 @@
 # Art. 17j.
 
-1. Jeżeli w umowie leasingu została określona cena, po której korzystający ma prawo nabyć przedmiot umowy po zakończeniu podstawowego okresu tej umowy, cenę tę uwzględnia się w sumie opłat, o których mowa w art. 17b ust. 1 pkt 2 i art. 17f ust. 1 pkt 2.
+1. Jeżeli w umowie leasingu została określona cena, po której korzystający ma prawo nabyć przedmiot umowy po zakończeniu podstawowego okresu tej umowy, cenę tę uwzględnia się w sumie opłat, o których mowa w art. 17b ust. 1 pkt 3 i art. 17f ust. 1 pkt 2.
 
 2. Do sumy opłat, o której mowa w ust. 1, nie zalicza się:
 

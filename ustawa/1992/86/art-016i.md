@@ -2,9 +2,9 @@
 
 1. Odpisów amortyzacyjnych od środków trwałych, z zastrzeżeniem art. 16j-16ł, dokonuje się przy zastosowaniu stawek amortyzacyjnych określonych w Wykazie stawek amortyzacyjnych i zasad, o których mowa w art. 16h ust. 1 pkt 1.
 
-2. Podatnicy mogą podane w Wykazie stawek amortyzacyjnych stawki podwyższać;
+2. Podatnicy mogą podane w Wykazie stawek amortyzacyjnych stawki podwyższać:
 
-- 1) dla budynków i budowli używanych w warunkach;
+- 1) dla budynków i budowli używanych w warunkach:
 
   - a) pogorszonych - przy zastosowaniu współczynników nie wyższych niż 1,2,
 
@@ -12,7 +12,7 @@
 
 - 2) dla maszyn, urządzeń i środków transportu, z wyjątkiem morskiego taboru pływającego, używanych bardziej intensywnie w stosunku do warunków przeciętnych albo wymagających szczególnej sprawności technicznej, przy zastosowaniu w tym okresie współczynników nie wyższych niż 1,4;
 
-- 3) dla maszyn i urządzeń zaliczonych do grupy 4-6 i 8 Klasyfikacji Środków Trwałych (KST), wydanej na podstawie odrębnych przepisów, zwanej dalej „Klasyfikacją”, poddanych szybkiemu postępowi technicznemu, przy zastosowaniu współczynników nie wyższych niż 2,0.
+- 3) dla maszyn i urządzeń zaliczonych do grupy 4-6 i 8 Klasyfikacji Środków Trwałych (KŚT), wydanej na podstawie odrębnych przepisów, zwanej dalej „Klasyfikacją”, poddanych szybkiemu postępowi technicznemu, przy zastosowaniu współczynników nie wyższych niż 2,0.
 
 3. W razie wystąpienia bądź ustania warunków uzasadniających podwyższenie stawek, o których mowa w ust. 2 pkt 1 i 2, stawki te ulegają podwyższeniu lub obniżeniu od miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające te zmiany.
 

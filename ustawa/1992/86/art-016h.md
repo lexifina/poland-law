@@ -16,12 +16,12 @@
 
 3a. Przepis ust. 3 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego, jeżeli składniki majątku wchodzące w skład wkładu niepieniężnego były wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych podmiotu wnoszącego taki wkład.
 
-3b. W przypadku otrzymania w związku z likwidacją osoby prawnej środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 3 stosuje się odpowiednio.
+3b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 3 stosuje się odpowiednio.
 
 3c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 3 stosuje się odpowiednio.
 
-3d. Przepis ust. 3 stosuje się odpowiednio w przypadku określonym w art. 16g ust. 1 pkt 4a lit. a.
+3d. Przepis ust. 3 stosuje się odpowiednio w przypadku określonym w art. 16g ust. 1 pkt 4a lit. a oraz w pkt 4b lit. a.
 
 4. Podatnicy mogą dokonywać odpisów amortyzacyjnych w równych ratach co miesiąc albo w równych ratach co kwartał, albo jednorazowo na koniec roku podatkowego, z uwzględnieniem art. 16i. Suma odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych dokonanych w pierwszym roku podatkowym, w którym środki te zostały wprowadzone do ewidencji, nie może przekroczyć wartości tych odpisów przypadających za okres od wprowadzenia ich do ewidencji do końca tego roku podatkowego.
 
-5. przepisu ust. 3 nie stosuje się do podziału podmiotów, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie także majątek pozostający w podmiocie dzielonym, nie stanowi zorganizowanej części przedsiębiorstwa. W takim przypadku odpisów amortyzacyjnych od przejmowanych składników majątkowych dokonuje się na zasadach określonych w art. 16i-16m.
+5. Przepisu ust. 3 nie stosuje się do podziału podmiotów, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie także majątek pozostający w podmiocie dzielonym, nie stanowi zorganizowanej części przedsiębiorstwa. W takim przypadku odpisów amortyzacyjnych od przejmowanych składników majątkowych dokonuje się na zasadach określonych w art. 16i-16m.

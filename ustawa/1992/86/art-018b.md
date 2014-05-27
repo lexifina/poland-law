@@ -2,7 +2,7 @@
 
 1. Od podstawy opodatkowania, ustalonej zgodnie z art. 18, odlicza się wydatki poniesione przez podatnika na nabycie nowych technologii.
 
-2. Za nowe technologie, w rozumieniu ust. 1, uważa się wiedzę technologiczną w postaci wartości niematerialnych i prawnych, w szczególności wyniki badań i prac rozwojowych, która umożliwia wytwarzanie nowych lub udoskonalanie wyrobów lub usług i która nie jest stosowana na świecie przez okres dłuższy niż ostatnich 5 lat, co potwierdza opinia niezależnej od podatnika jednostki naukowej w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615).
+2. Za nowe technologie, w rozumieniu ust. 1, uważa się wiedzę technologiczną w postaci wartości niematerialnych i prawnych, w szczególności wyniki badań i prac rozwojowych, która umożliwia wytwarzanie nowych lub udoskonalanie wyrobów lub usług i która nie jest stosowana na świecie przez okres dłuższy niż ostatnich 5 lat, co potwierdza opinia niezależnej od podatnika jednostki naukowej w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.).
 
 2a. Przez nabycie nowej technologii rozumie się nabycie praw do wiedzy technologicznej, o której mowa w ust. 2, w drodze umowy o ich przeniesienie, oraz korzystanie z tych praw.
 

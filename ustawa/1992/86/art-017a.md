@@ -6,9 +6,9 @@
 
 Ilekroć w rozdziale jest mowa o:
 
-- 1) umowie leasingu - rozumie się przez to umowę nazwaną w kodeksie cywilnym, a także każdą inną umowę, na mocy której jedna ze stron, zwana dalej „finansującym”, oddaje do odpłatnego używania albo używania i pobierania pożytków na warunkach określonych w ustawie drugiej stronie, zwanej dalej „korzystającym”, podlegające amortyzacji środki trwałe lub wartości niematerialne i prawne, a także grunty;
+- 1) umowie leasingu - rozumie się przez to umowę nazwaną w kodeksie cywilnym, a także każdą inną umowę, na mocy której jedna ze stron, zwana dalej „finansującym”, oddaje do odpłatnego używania albo używania i pobierania pożytków na warunkach określonych w ustawie drugiej stronie, zwanej dalej „korzystającym”, podlegające amortyzacji środki trwałe lub wartości niematerialne i prawne, a także grunty oraz prawo wieczystego użytkowania gruntów;
 
-- 2) podstawowym okresie umowy leasingu - rozumie się przez to czas oznaczony, na jaki została zawarta ta umowa, z wyłączeniem czasu, na który może być przedłużona lub skrócona;
+- 2) podstawowym okresie umowy leasingu - rozumie się przez to czas oznaczony, na jaki została zawarta ta umowa, z wyłączeniem czasu, na który może być przedłużona lub skrócona; w przypadku zmiany strony lub stron tej umowy podstawowy okres umowy uważa się za zachowany, jeżeli inne postanowienia umowy nie uległy zmianie;
 
 - 3) odpisach amortyzacyjnych - rozumie się przez to odpisy amortyzacyjne dokonywane wyłącznie zgodnie z przepisami art. 16a-16m, z uwzględnieniem art. 16;
 
@@ -18,7 +18,11 @@ Ilekroć w rozdziale jest mowa o:
 
   - b) wartości niematerialnych i prawnych - okres ustalony w art. 16m;
 
-- 5) rzeczywistej wartości netto - rozumie się przez to wartość początkową środków trwałych lub wartości niematerialnych i prawnych zaktualizowaną zgodnie z odrębnymi przepisami, pomniejszoną o sumę odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1;
+- 5) rzeczywistej wartości netto - rozumie się przez to:
+
+  - a) wartość początkową środków trwałych lub wartości niematerialnych i prawnych zaktualizowaną zgodnie z odrębnymi przepisami, pomniejszoną o sumę odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1,
+
+  - b) wartość, o której mowa w art. 16ł ust. 6;
 
 - 6) hipotetycznej wartości netto - rozumie się przez to wartość początkową określoną zgodnie z art. 16g pomniejszoną o:
 

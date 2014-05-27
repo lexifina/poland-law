@@ -16,6 +16,8 @@
 
 6. W przypadku rezygnacji z metody ustalania różnic kursowych, o której mowa w ust. 1 pkt 2, podatnicy:
 
-- 1) zaliczają na ostatni dzień roku podatkowego, w którym stosowali tę metodę, odpowiednio do przychodów lub kosztów uzyskania przychodów naliczone różnice kursowe ustalone na podstawie przepisowo rachunkowości;
+- 1) zaliczają na ostatni dzień roku podatkowego, w którym stosowali tę metodę, odpowiednio do przychodów lub kosztów uzyskania przychodów naliczone różnice kursowe ustalone na podstawie przepisów o rachunkowości;
 
 - 2) od pierwszego dnia roku podatkowego, następującego po roku, w którym stosowali tę metodę, stosują zasady, o których mowa w art. 15a, ustalając różnice kursowe od dnia, o którym mowa w pkt 1.
+
+7. W razie połączenia lub podziału podmiotów, dokonywanych na podstawie odrębnych przepisów, w przypadku gdy podmiot przejmowany lub dzielony stosował metodę ustalania różnic kursowych, o której mowa w ust. 1 pkt 2, podmioty powstałe w wyniku podziału lub połączenia oraz podmioty, które przejęły całość lub część innego podmiotu na skutek tych zdarzeń, z wyjątkiem podmiotu przejmującego przy podziale przez wydzielenie, mają prawo do rezygnacji ze stosowania tej metody, niezależnie od upływu czasu jej stosowania. W takim przypadku podmiot ma obowiązek zawiadomić o tej rezygnacji, w formie pisemnej, właściwego naczelnika urzędu skarbowego, w terminie 30 dni od daty dokonanego połączenia lub podziału. Przepisy ust. 6 stosuje się odpowiednio.

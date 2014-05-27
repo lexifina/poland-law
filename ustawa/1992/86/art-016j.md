@@ -2,7 +2,7 @@
 
 1. Podatnicy, z zastrzeżeniem art. 16l, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji danego podatnika, z tym że okres amortyzacji nie może być krótszy niż:
 
-- 1) dla środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji;
+- 1) dla środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji:
 
   - a) 24 miesiące - gdy ich wartość początkowa nie przekracza 25 000 zł,
 
@@ -12,7 +12,7 @@
 
 - 2) dla środków transportu, w tym samochodów osobowych - 30 miesięcy;
 
-- 3) dla budynków (lokali) i budowli, innych niż wymienione w pkt 4-10 lat, z wyjątkiem;
+- 3) dla budynków (lokali) i budowli, innych niż wymienione w pkt 4- 10 lat, z wyjątkiem:
 
   - a) trwale związanych z gruntem budynków handlowo-usługowych wymienionych w rodzaju 103 Klasyfikacji i innych budynków niemieszkalnych wymienionych w rodzaju 109 Klasyfikacji trwale związanych z gruntem,
 

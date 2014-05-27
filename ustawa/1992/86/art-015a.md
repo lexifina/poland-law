@@ -26,7 +26,7 @@
 
 - 5) kredytu (pożyczki) w walucie obcej w dniu jego otrzymania jest niższa od wartości tego kredytu (pożyczki) w dniu jego spłaty, przeliczonej według faktycznie zastosowanego kursu waluty z tych dni.
 
-4. Jeżeli przy obliczaniu wartości różnic kursowych, o których mowa w ust. 2 i 3, nie jest możliwe uwzględnienie faktycznie zastosowanego kursu waluty w danym dniu, przyjmuje się kurs średni ogłaszany przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego ten dzień.
+4. Przy obliczaniu różnic kursowych, o których mowa w ust. 2 i 3, uwzględnia się kursy faktycznie zastosowane w przypadku sprzedaży lub kupna walut obcych oraz otrzymania należności lub zapłaty zobowiązań. W pozostałych przypadkach, a także gdy do otrzymanych należności lub zapłaty zobowiązań nie jest możliwe uwzględnienie faktycznie zastosowanego kursu waluty w danym dniu, stosuje się kurs średni ogłaszany przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego ten dzień.
 
 5. Jeżeli faktycznie zastosowany kurs waluty, o którym mowa w ust. 2 i 3, jest wyższy lub niższy odpowiednio o więcej niż powiększona lub pomniejszona o 5% wartość kursu średniego ogłaszanego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego dzień faktycznie zastosowanego kursu waluty, organ podatkowy może wezwać strony umowy do zmiany tej wartości lub wskazania przyczyn uzasadniających zastosowanie kursu waluty. W razie niedokonania zmiany wartości lub niewskazania przyczyn, które uzasadniają zastosowanie faktycznego kursu waluty, organ podatkowy określi ten kurs opierając się na kursach walut ogłaszanych przez Narodowy Bank Polski.
 
