@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/693",
+ "source_sha256": "14e08d09447019bc03aafc61ba684f9812cd67312db132d63d8dfb6f540669c5",
+ "in_force": "2014-05-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 382 words, parsed 147; at 147: '2 Konstytucji , orzeka : I Art . 54 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/693",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/693/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/693/text/O/D20140693.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/693/text/I/D20140693.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/693/text/T/D20140693TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/693",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 693,
+  "address": "WDU20140000693",
+  "displayAddress": "Dz.U. 2014 poz. 693",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 maja 2014 r. sygn. akt K 17/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-05-20",
+  "promulgation": "2014-05-28",
+  "entryIntoForce": "2014-05-28",
+  "validFrom": "2014-05-28",
+  "changeDate": "2024-03-14T20:14:49",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "imprezy artystyczne",
+   "imprezy rozrywkowe",
+   "imprezy sportowe",
+   "imprezy masowe"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2009/505",
+     "date": "2015-05-29"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2009/505"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140693.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140693.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140693TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
