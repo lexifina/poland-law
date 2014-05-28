@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/700",
+ "source_sha256": "adcd3c9e8641679937b88b6132842da0aa9a9a79f706f539099eac85f48ace02",
+ "in_force": "2014-05-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/700",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/700/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/700/text/O/D20140700.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/700/text/I/D20140700.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/700/text/T/D20140700L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/700/text/U/D20140700Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/700",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 700,
+  "address": "WDU20140000700",
+  "displayAddress": "Dz.U. 2014 poz. 700",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o scalaniu i wymianie gruntów",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-03-12",
+  "promulgation": "2014-05-28",
+  "expirationDate": "2018-05-15",
+  "changeDate": "2024-03-14T20:14:48",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wspólnoty gruntowe",
+   "scalanie i wymiana gruntów",
+   "księgi wieczyste i hipoteka",
+   "mienie komunalne",
+   "grunty rolne i leśne",
+   "opłata melioracyjna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/80"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140700.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140700.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140700L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140700Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
