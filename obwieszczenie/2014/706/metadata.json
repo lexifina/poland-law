@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/706",
+ "source_sha256": "31b1e101d2147ffaa84a72f83e945cf6ecfb38db76bc543ab525a436ceac8b4c",
+ "in_force": "2014-05-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/706",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/706/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/706/text/O/D20140706.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/706/text/I/D20140706.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/706",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 706,
+  "address": "WDU20140000706",
+  "displayAddress": "Dz.U. 2014 poz. 706",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 28 lutego 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie łódzkiej specjalnej strefy ekonomicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-02-28",
+  "promulgation": "2014-05-29",
+  "expirationDate": "2015-08-03",
+  "changeDate": "2024-03-14T20:15:15",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "specjalna strefa ekonomiczna",
+   "strefa ekonomiczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1554"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140706.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140706.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
