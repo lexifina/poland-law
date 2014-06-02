@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/730",
+ "source_sha256": "1024ac511263c171ba2c9be5b320b88bb04353b5343bb11d40a56bdd17807bf7",
+ "in_force": "2014-06-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/730",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/730/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/730/text/O/D20140730.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/730/text/I/D20140730.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/730/text/T/D20140730L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/730/text/U/D20140730Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/730",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 730,
+  "address": "WDU20140000730",
+  "displayAddress": "Dz.U. 2014 poz. 730",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obligacjach",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-03-12",
+  "promulgation": "2014-06-02",
+  "repealDate": "2015-07-01",
+  "changeDate": "2024-03-14T20:24:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2015/238",
+     "date": "2015-07-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/2014/913"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/420"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140730.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140730.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140730L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140730Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
