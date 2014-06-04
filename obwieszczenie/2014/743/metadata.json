@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/743",
+ "source_sha256": "0aba5442af9b2de4055a62ea3cc40a0f2aae63db9cbf0eab0041dfd2bb87f9df",
+ "in_force": "2014-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/743",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/743/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/743/text/O/D20140743.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/743/text/I/D20140743.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/743",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 743,
+  "address": "WDU20140000743",
+  "displayAddress": "Dz.U. 2014 poz. 743",
+  "title": "Obwieszczenie Ministra Finansów z dnia 24 lutego 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wykazów towarów do celów poboru podatku od towarów i usług w imporcie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-02-24",
+  "promulgation": "2014-06-04",
+  "expirationDate": "2017-12-14",
+  "changeDate": "2024-03-14T20:20:10",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "import",
+   "towar",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/1727"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140743.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140743.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
