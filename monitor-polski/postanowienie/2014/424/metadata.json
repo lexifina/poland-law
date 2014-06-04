@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/424",
+ "source_sha256": "6ea4a44758de868d53b6d4a57126773dd76ca4dcd26e2fd6134592d2419f1508",
+ "in_force": "2014-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/424",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/424/text/O/M20140424.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/424/text/I/M20140424.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/424",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 424,
+  "address": "WMP20140000424",
+  "displayAddress": "M.P. 2014 poz. 424",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 czerwca 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 24 z siedzibą Okręgowej Komisji Wyborczej w Białymstoku",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-06-04",
+  "promulgation": "2014-06-04",
+  "changeDate": "2018-02-12T14:34:30",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140424.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140424.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
