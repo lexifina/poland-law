@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/425",
+ "source_sha256": "436a5360a44b21fd40b056479c1469c2b04b809a91a6368a294169bef3c3a0f4",
+ "in_force": "2014-06-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/425",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/425/text/O/M20140425.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/425/text/I/M20140425.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/425",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 425,
+  "address": "WMP20140000425",
+  "displayAddress": "M.P. 2014 poz. 425",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 czerwca 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 25 z siedzibą Okręgowej Komisji Wyborczej w Gdańsku",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-06-04",
+  "promulgation": "2014-06-04",
+  "changeDate": "2018-02-12T14:34:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140425.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140425.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
