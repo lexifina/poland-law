@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/747",
+ "source_sha256": "1a1a07a512b1455c787661d16464dd9ba89ea7a647e25fa8b1d7021a1f77ca6e",
+ "in_force": "2014-06-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/747",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/747/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/747/text/O/D20140747.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/747/text/I/D20140747.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/747",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 747,
+  "address": "WDU20140000747",
+  "displayAddress": "Dz.U. 2014 poz. 747",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 5 listopada 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie wysokości opłaty za udział w egzaminie adwokackim",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2013-11-05",
+  "promulgation": "2014-06-05",
+  "expirationDate": "2025-12-05",
+  "changeDate": "2025-12-08T09:55:51",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "adwokatura",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/2069"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140747.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140747.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
