@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/754",
+ "source_sha256": "596eeded6651f0333f2544d9fef4c28982425e8adacf0540d4d7f71919f3f627",
+ "in_force": "2014-06-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1060 words, parsed 50; at 50: 'Generalnego o zbadanie zgodności : 1 ) § 2 rozporządzenia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/754",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/754/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/754/text/O/D20140754.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/754/text/I/D20140754.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/754/text/T/D20140754TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/754",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 754,
+  "address": "WDU20140000754",
+  "displayAddress": "Dz.U. 2014 poz. 754",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 maja 2014 r. sygn. akt U 10/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-05-22",
+  "promulgation": "2014-06-05",
+  "entryIntoForce": "2014-06-05",
+  "validFrom": "2014-06-05",
+  "changeDate": "2024-03-14T20:15:17",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prokuratura"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2010/297",
+     "date": "2015-06-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2010/297"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140754.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140754.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140754TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
