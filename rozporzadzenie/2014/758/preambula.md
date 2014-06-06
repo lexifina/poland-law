@@ -1,0 +1,1 @@
+Na podstawie art. 18 ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. Nr 63, poz. 394 oraz z 2013 r. poz. 1650) zarządza się, co następuje:
