@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/786",
+ "source_sha256": "22ba608068e870852b6cb87e58261573a1d97dc862660069d3b46476625eab7f",
+ "in_force": "2014-06-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 635 words, parsed 62; at 62: 'Obywatelskich o zbadanie zgodności : 1 ) art . 4'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/786",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/786/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/786/text/O/D20140786.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/786/text/I/D20140786.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/786/text/T/D20140786TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/786",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 786,
+  "address": "WDU20140000786",
+  "displayAddress": "Dz.U. 2014 poz. 786",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 czerwca 2014 r. sygn. akt K 19/11",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-06-03",
+  "promulgation": "2014-06-16",
+  "entryIntoForce": "2014-06-16",
+  "validFrom": "2014-06-16",
+  "changeDate": "2024-03-14T20:25:06",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania w sprawach o wykroczenia"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1148",
+     "date": "2014-06-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/555"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/1148"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140786.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140786.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140786TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
