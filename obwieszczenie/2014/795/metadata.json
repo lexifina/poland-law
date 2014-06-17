@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/795",
+ "source_sha256": "a21c4205b2ae3ebf37b3787e4d6f563535562f2abe97d3b5b4b8fe972ddaee36",
+ "in_force": "2014-06-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/795",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/795/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/795/text/O/D20140795.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/795/text/I/D20140795.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/795/text/T/D20140795L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/795/text/U/D20140795Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/795",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 795,
+  "address": "WDU20140000795",
+  "displayAddress": "Dz.U. 2014 poz. 795",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 kwietnia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kuratorach sądowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-04-02",
+  "promulgation": "2014-06-17",
+  "expirationDate": "2018-05-07",
+  "changeDate": "2026-02-24T09:08:36",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "kuratorzy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1071"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20140795.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20140795.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20140795L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20140795Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
