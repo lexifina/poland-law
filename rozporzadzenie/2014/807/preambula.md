@@ -1,0 +1,1 @@
+Na podstawie art. 35 ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) zarządza się, co następuje:
