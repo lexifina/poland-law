@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/505",
+ "source_sha256": "c627e303de597fc1b12abc85634c3e1cda0953607eb9ee1047a04636d1ec41ed",
+ "in_force": "2014-06-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/505",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/505/text/O/M20140505.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/505/text/I/M20140505.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/505",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 505,
+  "address": "WMP20140000505",
+  "displayAddress": "M.P. 2014 poz. 505",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 30 kwietnia 2014 r. nr 112-9-2014 o nadaniu stopnia nadbrygadiera",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-04-30",
+  "promulgation": "2014-06-25",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Państwowa Straż Pożarna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/400"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/400",
+     "art": "art. 51 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140505.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140505.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
