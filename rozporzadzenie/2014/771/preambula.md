@@ -1,0 +1,1 @@
+Na podstawie art. 61 ust. 1 pkt 1 lit. a-f, h oraz j ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.) zarządza się, co następuje:
