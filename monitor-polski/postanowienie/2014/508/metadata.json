@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/508",
+ "source_sha256": "5de813b39baf2e2b42737e083e8d042bc9d5ce525f4fd84a199fb2854fda3adc",
+ "in_force": "2014-06-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/508",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/508/text/O/M20140508.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/508/text/I/M20140508.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/508",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 508,
+  "address": "WMP20140000508",
+  "displayAddress": "M.P. 2014 poz. 508",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 9 maja 2014 r. nr 112-11-2014 o mianowaniu na stopień generała brygady Straży Granicznej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-05-09",
+  "promulgation": "2014-06-25",
+  "changeDate": "2018-01-16T15:35:38",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/462"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/462",
+     "art": "art. 53 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140508.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140508.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
