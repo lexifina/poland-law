@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/529",
+ "source_sha256": "7a3355c3d27d4180058d62575fea1794f6357d7e4fc82a77c16f6d5b3102fdde",
+ "in_force": "2014-07-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/529",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/529/text/O/M20140529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/529/text/I/M20140529.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/529",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 529,
+  "address": "WMP20140000529",
+  "displayAddress": "M.P. 2014 poz. 529",
+  "title": "Obwieszczenie Marszałka Senatu Rzeczypospolitej Polskiej z dnia 11 czerwca 2014 r. w sprawie ogłoszenia jednolitego tekstu uchwały Senatu Rzeczypospolitej Polskiej - Regulamin Senatu",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-06-11",
+  "promulgation": "2014-07-07",
+  "expirationDate": "2015-08-07",
+  "changeDate": "2026-10-19T11:16:29",
+  "releasedBy": [
+   "MARSZAŁEK SENATU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Senat",
+   "Regulamin Senatu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/1991/11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140529.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
