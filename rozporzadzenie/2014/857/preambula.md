@@ -1,0 +1,1 @@
+Na podstawie art. 2 ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.) oraz art. 7 ust. 2 pkt 2 i ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) zarządza się, co następuje:
