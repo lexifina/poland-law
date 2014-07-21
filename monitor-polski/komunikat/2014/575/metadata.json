@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/575",
+ "source_sha256": "e00ce220c5b9b8dbe93c44770e67eeceec98b880b3ec40d9ca2a2ccce43ec646",
+ "in_force": "2014-07-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/575",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/575/text/O/M20140575.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/575/text/I/M20140575.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/575",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 575,
+  "address": "WMP20140000575",
+  "displayAddress": "M.P. 2014 poz. 575",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 lipca 2014 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych w I półroczu 2014 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-07-15",
+  "promulgation": "2014-07-21",
+  "changeDate": "2020-10-20T09:38:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/31"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/31",
+     "art": "art. 20 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140575.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140575.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
