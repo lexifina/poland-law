@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/574",
+ "source_sha256": "43c1f39e94079fbdb5089e762d7223f8fab3b7d71c35b9bd439f3292f2effd68",
+ "in_force": "2014-07-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/574",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/574/text/O/M20140574.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/574/text/I/M20140574.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/574",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 574,
+  "address": "WMP20140000574",
+  "displayAddress": "M.P. 2014 poz. 574",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 lipca 2014 r. w sprawie wskaźnika cen towarów nieżywnościowych trwałego użytku w II kwartale 2014 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-07-15",
+  "promulgation": "2014-07-21",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1983/207"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1983/207",
+     "art": "art. 17 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140574.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140574.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
