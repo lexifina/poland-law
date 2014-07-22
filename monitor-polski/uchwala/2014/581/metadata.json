@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/581",
+ "source_sha256": "295930036cb04ae052cfbe58182631b17526fdf83aa01608e1491c81176a0169",
+ "in_force": "2014-07-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/581",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/581/text/O/M20140581.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/581/text/I/M20140581.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/581",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 581,
+  "address": "WMP20140000581",
+  "displayAddress": "M.P. 2014 poz. 581",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 11 lipca 2014 r. w sprawie zmian w składzie sekretarzy Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-07-11",
+  "promulgation": "2014-07-22",
+  "changeDate": "2020-01-13T14:41:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2011/1043",
+     "date": "2014-07-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140581.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140581.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
