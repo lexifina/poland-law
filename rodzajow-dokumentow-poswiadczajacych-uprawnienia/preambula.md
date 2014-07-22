@@ -1,0 +1,1 @@
+Na podstawie art. 20 ust. 5a ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2012 r. poz. 400 oraz z 2014 r. poz. 496) zarządza się, co następuje:
