@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1012",
+ "source_sha256": "d3f24c5404549844d5ead45e22ccf4f47ff240abcb48a2cf1413d9a16dcca962",
+ "in_force": "2014-07-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1012",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1012/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1012/text/O/D20141012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1012/text/I/D20141012.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1012",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1012,
+  "address": "WDU20140001012",
+  "displayAddress": "Dz.U. 2014 poz. 1012",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 13 czerwca 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-06-13",
+  "promulgation": "2014-07-31",
+  "changeDate": "2024-03-14T20:24:32",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsumenci",
+   "ochrona",
+   "konkurencja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/441"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
