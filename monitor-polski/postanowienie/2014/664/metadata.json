@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/664",
+ "source_sha256": "8dba3dc4a22f753a78edbbd5cb28d90e3f0dd91482ce28e038f39cdfd934829c",
+ "in_force": "2014-08-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/664",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/664/text/O/M20140664.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/664/text/I/M20140664.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/664",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 664,
+  "address": "WMP20140000664",
+  "displayAddress": "M.P. 2014 poz. 664",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 27 czerwca 2014 r. nr 112-20-2014 o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-06-27",
+  "promulgation": "2014-08-11",
+  "changeDate": "2018-01-16T15:09:27",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140664.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140664.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
