@@ -1,0 +1,1 @@
+Na podstawie art. 20 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych (Dz. U. Nr 251, poz. 1844, z późn. zm.) zarządza się, co następuje:
