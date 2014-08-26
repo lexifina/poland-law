@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/709",
+ "source_sha256": "4e090153b3adc23ef3b58f878fc6d6cffd212551d3b95b2a3c035d2ad602f9b0",
+ "in_force": "2014-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/709",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/709/text/O/M20140709.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/709/text/I/M20140709.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/709",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 709,
+  "address": "WMP20140000709",
+  "displayAddress": "M.P. 2014 poz. 709",
+  "title": "Obwieszczenie Ministra Finansów z dnia 18 sierpnia 2014 r. w sprawie wysokości kwoty wymienionej w art. 41 § 1 ustawy - Ordynacja podatkowa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-08-18",
+  "promulgation": "2014-08-26",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 119 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140709.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140709.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
