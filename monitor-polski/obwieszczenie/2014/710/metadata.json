@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/710",
+ "source_sha256": "07112af792cfc947466a7ba77b7d4640f98b39f1b0c6254d47aaf44e802bf576",
+ "in_force": "2014-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/710",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/710/text/O/M20140710.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/710/text/I/M20140710.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/710",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 710,
+  "address": "WMP20140000710",
+  "displayAddress": "M.P. 2014 poz. 710",
+  "title": "Obwieszczenie Ministra Finansów z dnia 18 sierpnia 2014 r. w sprawie wysokości kwoty wymienionej w art. 262 § 1 ustawy - Ordynacja podatkowa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-08-18",
+  "promulgation": "2014-08-26",
+  "changeDate": "2022-01-28T14:13:25",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 262a par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140710.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140710.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
