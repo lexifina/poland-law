@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/774",
+ "source_sha256": "68dfded4957d38dee23db30d0f67534ec7d4139a6322d82b86c74d5f8c4a9355",
+ "in_force": "2014-09-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/774",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/774/text/O/M20140774.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/774/text/I/M20140774.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/774",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 774,
+  "address": "WMP20140000774",
+  "displayAddress": "M.P. 2014 poz. 774",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 sierpnia 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 2 z siedzibą Okręgowej Komisji Wyborczej w Wałbrzychu",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-08-26",
+  "promulgation": "2014-09-08",
+  "changeDate": "2018-02-12T14:37:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140774.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140774.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
