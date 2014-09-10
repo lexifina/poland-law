@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1208",
+ "source_sha256": "9f5c24ea16ffc884910c5f1ceabbb495b59c3376b611b4dbc4d7009d597ad464",
+ "in_force": "2014-09-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 855 words, parsed 80; at 80: 'okręgu wyborczym nr 82 . Rozdział 1 Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1208",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1208/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1208/text/O/D20141208.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1208/text/I/D20141208.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1208",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1208,
+  "address": "WDU20140001208",
+  "displayAddress": "Dz.U. 2014 poz. 1208",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 8 września 2014 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 7 września 2014 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-09-08",
+  "promulgation": "2014-09-10",
+  "changeDate": "2025-03-21T10:42:37",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 276"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141208.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141208.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
