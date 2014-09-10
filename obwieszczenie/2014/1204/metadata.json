@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1204",
+ "source_sha256": "fc9e879f276acdd0c81d618532ee139a1e69ecd537722e63d939534c3eb54639",
+ "in_force": "2014-09-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1204",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1204/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1204/text/O/D20141204.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1204/text/I/D20141204.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1204/text/T/D20141204L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1204/text/U/D20141204Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1204",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1204,
+  "address": "WDU20140001204",
+  "displayAddress": "Dz.U. 2014 poz. 1204",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłatach abonamentowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-07-31",
+  "promulgation": "2014-09-10",
+  "expirationDate": "2019-09-23",
+  "changeDate": "2024-03-14T20:21:34",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "opłaty",
+   "ulgi"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/728"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141204.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141204.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141204L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141204Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
