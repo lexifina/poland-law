@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/795",
+ "source_sha256": "5d4f185b5a9fdb25e3008c3c2734c8ebedd252f8ecbbf6dae6f42ebc5487e3d3",
+ "in_force": "2014-09-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/795",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/795/text/O/M20140795.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/795/text/I/M20140795.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/795",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 795,
+  "address": "WMP20140000795",
+  "displayAddress": "M.P. 2014 poz. 795",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 lutego 2014 r. nr 110-07-2014 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-02-17",
+  "promulgation": "2014-09-18",
+  "changeDate": "2017-06-26T09:56:04",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140795.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140795.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
