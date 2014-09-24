@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/813",
+ "source_sha256": "235913da0210dff3020cfea35e3f3560b9884b3e4e3a5a623d920967c25e60c3",
+ "in_force": "2014-09-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/813",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/813/text/O/M20140813.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/813/text/I/M20140813.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/813",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 813,
+  "address": "WMP20140000813",
+  "displayAddress": "M.P. 2014 poz. 813",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 29 sierpnia 2014 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności cywilnej poseł Beaty Kempy",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-08-29",
+  "promulgation": "2014-09-24",
+  "changeDate": "2020-01-13T14:38:08",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "odpowiedzialność cywilna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 1"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 6a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140813.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140813.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
