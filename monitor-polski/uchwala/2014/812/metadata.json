@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/812",
+ "source_sha256": "c8f680374b9dfd3339d2ff81e0a72f0926a3d70bf4512f42152da5b541251206",
+ "in_force": "2014-09-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/812",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/812/text/O/M20140812.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/812/text/I/M20140812.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/812",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 812,
+  "address": "WMP20140000812",
+  "displayAddress": "M.P. 2014 poz. 812",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 29 sierpnia 2014 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Krzysztofa Wawrzyńca Borkowskiego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-08-29",
+  "promulgation": "2014-09-24",
+  "changeDate": "2026-10-06T13:43:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140812.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140812.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
