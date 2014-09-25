@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/824",
+ "source_sha256": "fef645c06c87d355fb47d1b1b6f31b2130a0045009ebbb465eda04943a208900",
+ "in_force": "2014-09-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/824",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/824/text/O/M20140824.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/824/text/I/M20140824.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/824",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 824,
+  "address": "WMP20140000824",
+  "displayAddress": "M.P. 2014 poz. 824",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 15 lipca 2014 r. nr 112-24-2014 o mianowaniu na stopień nadinspektora celnego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-07-15",
+  "promulgation": "2014-09-25",
+  "changeDate": "2018-05-21T10:52:43",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Służba Celna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2009/1323"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2009/1323",
+     "art": "art. 115 ust. 2"
+    },
+    {
+     "id": "DU/2009/1323",
+     "art": "art. 120 ust. 4 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140824.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140824.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
