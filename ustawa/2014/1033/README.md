@@ -1,0 +1,4 @@
+# Ustawa z dnia 10 czerwca 2014 r. o zmianie ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
+
+Dz.U. 2014 poz. 1033 · <https://eli.gov.pl/api/acts/DU/2014/1033>
+
