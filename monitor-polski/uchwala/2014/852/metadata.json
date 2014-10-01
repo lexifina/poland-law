@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/852",
+ "source_sha256": "877dd337368724f878d9d9c9f10caf2b144cbe9e707ec5371bd33bfcda8c2d47",
+ "in_force": "2014-10-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/852",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/852/text/O/M20140852.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/852/text/I/M20140852.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/852",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 852,
+  "address": "WMP20140000852",
+  "displayAddress": "M.P. 2014 poz. 852",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 24 września 2014 r. w sprawie wyboru wicemarszałka Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-09-24",
+  "promulgation": "2014-10-01",
+  "changeDate": "2019-07-08T10:58:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Marszałek Sejmu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 5 ust. 6"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140852.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140852.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
