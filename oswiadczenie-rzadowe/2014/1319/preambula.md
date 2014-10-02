@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443, z późn. zm.) Rada Ministrów Rzeczypospolitej Polskiej dnia 16 czerwca 2014 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej w sprawie rejestracji i badań technicznych pojazdów prywatnych, przez podpisanie.
+
+Porozumienie zostało podpisane w Warszawie dnia 1 lipca 2014 r. na podstawie art. 10 ust. 2 i art. 35 ust. 1 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej.
+
+Zgodnie z art. 9 ust. 1 porozumienia weszło ono w życie z dniem podpisania, z wyjątkiem art. 1 oraz art. 2, które wejdą w życie dnia 1 stycznia 2015 r.
