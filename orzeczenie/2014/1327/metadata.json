@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1327",
+ "source_sha256": "dac7f7dbfb3dd860c5efa33576ff69ffe7564c866e6d36a4a61f6b2d252fd1bc",
+ "in_force": "2014-10-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1754 words, parsed 54; at 54: '. , połączonych wniosków : 1 ) grupy posłów z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1327",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1327/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1327/text/O/D20141327.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1327/text/I/D20141327.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1327/text/T/D20141327TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1327",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1327,
+  "address": "WDU20140001327",
+  "displayAddress": "Dz.U. 2014 poz. 1327",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 września 2014 r. sygn. akt K 44/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-09-18",
+  "promulgation": "2014-10-03",
+  "entryIntoForce": "2014-10-03",
+  "validFrom": "2014-10-03",
+  "changeDate": "2024-03-14T20:17:24",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zgromadzenia"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/297",
+     "date": "2014-10-03"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1990/297"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141327.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141327.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141327TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
