@@ -1,0 +1,19 @@
+Trybunał Konstytucyjny w składzie:
+
+Leon Kieres - przewodniczący,
+
+Zbigniew Cieślak - sprawozdawca,
+
+Wojciech Hermeliński,
+
+Sławomira Wronkowska-Jaśkiewicz,
+
+Andrzej Wróbel,
+
+protokolant: Krzysztof Zalecki,
+
+po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 25 września 2014 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności art. 14o § 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, ze zm.) z zasadą zaufania obywateli do państwa i prawa wynikającą z art. 2 Konstytucji,
+
+orzeka:
+
+Art. 14o § 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, 1101, 1342 i 1529, z 2013 r. poz. 35, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915), rozumiany w ten sposób, że pojęcie „niewydanie interpretacji” nie oznacza braku jej doręczenia w terminie określonym w art. 14d powołanej ustawy, jest zgodny z zasadą zaufania obywateli do państwa i stanowionego przez nie prawa wynikającą z art. 2 Konstytucji Rzeczypospolitej Polskiej.
