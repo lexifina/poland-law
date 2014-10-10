@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1375",
+ "source_sha256": "ba174aeb00e8b7cee20cd65070bbc35f2ccd22fbd903c057bdf119309c4c1572",
+ "in_force": "2014-10-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 685 words, parsed 166; at 166: 'Jaworowskiego o zbadanie zgodności : 1 ) art . 53'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1375",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1375/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1375/text/O/D20141375.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1375/text/I/D20141375.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1375/text/T/D20141375TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1375",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1375,
+  "address": "WDU20140001375",
+  "displayAddress": "Dz.U. 2014 poz. 1375",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 30 września 2014 r. sygn. akt SK 22/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-09-30",
+  "promulgation": "2014-10-10",
+  "entryIntoForce": "2014-10-10",
+  "validFrom": "2014-10-10",
+  "changeDate": "2024-03-14T20:18:05",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2014-10-10"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141375.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141375.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141375TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
