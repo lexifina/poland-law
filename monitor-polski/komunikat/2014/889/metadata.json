@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/889",
+ "source_sha256": "42aef3ee9b2aa536b678ba54e7433eab28f6a7f7541830aace7d7e4367612b28",
+ "in_force": "2014-10-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/889",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/889/text/O/M20140889.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/889/text/I/M20140889.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/889",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 889,
+  "address": "WMP20140000889",
+  "displayAddress": "M.P. 2014 poz. 889",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 15 września 2014 r. o komitetach wyborczych utworzonych w związku z wyborami do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz z wyborami wójtów, burmistrzów i prezydentów miast, zarządzonymi na dzień 16 listopada 2014 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-09-15",
+  "promulgation": "2014-10-10",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "powiaty",
+   "komisje wyborcze",
+   "samorząd terytorialny",
+   "sejmiki samorządowe"
+  ],
+  "keywordsNames": [
+   "Warszawa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 406"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20140889.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20140889.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
