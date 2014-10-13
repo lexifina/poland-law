@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1381",
+ "source_sha256": "c25e4538263a6fb393b32b79fa4c8fcc18f1dfd6ef23c0a3522170794676c30e",
+ "in_force": "2014-10-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1381",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1381/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1381/text/O/D20141381.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1381/text/I/D20141381.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1381/text/T/D20141381L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1381/text/W/D20141381.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1381",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1381,
+  "address": "WDU20140001381",
+  "displayAddress": "Dz.U. 2014 poz. 1381",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-09-04",
+  "promulgation": "2014-10-13",
+  "changeDate": "2024-03-14T20:23:09",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo",
+   "budownictwo mieszkaniowe",
+   "przedsiębiorstwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/567"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141381.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141381.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141381L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141381.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
