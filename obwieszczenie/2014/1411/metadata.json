@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1411",
+ "source_sha256": "68e17e6b828c6b1b7f2d80dce230a813d01b69d23c5e84320e8a623e84494995",
+ "in_force": "2014-10-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1411",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1411/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1411/text/O/D20141411.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1411/text/I/D20141411.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1411/text/T/D20141411L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1411/text/U/D20141411Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1411/text/W/D20141411.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1411",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1411,
+  "address": "WDU20140001411",
+  "displayAddress": "Dz.U. 2014 poz. 1411",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Biurze Antykorupcyjnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-09-04",
+  "promulgation": "2014-10-17",
+  "expirationDate": "2016-07-21",
+  "changeDate": "2024-03-14T20:16:17",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Centralne Biuro Antykorupcyjne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/708"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141411.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141411.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141411L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141411Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20141411.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
