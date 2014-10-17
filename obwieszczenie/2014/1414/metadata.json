@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1414",
+ "source_sha256": "e5c907e28702973e311aa27c255884da6210c71b8976371bb795eefc40216f00",
+ "in_force": "2014-10-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1414",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1414/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1414/text/O/D20141414.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1414/text/I/D20141414.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1414/text/T/D20141414L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1414/text/U/D20141414Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1414/text/W/D20141414.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1414",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1414,
+  "address": "WDU20140001414",
+  "displayAddress": "Dz.U. 2014 poz. 1414",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie wojskowej żołnierzy zawodowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-09-04",
+  "promulgation": "2014-10-17",
+  "expirationDate": "2016-09-15",
+  "changeDate": "2024-03-14T20:16:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba wojskowa żołnierzy",
+   "żołnierz zawodowy",
+   "służba wojskowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1750"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141414.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141414.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141414L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141414Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20141414.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
