@@ -1,0 +1,1 @@
+Na podstawie art. 54 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106, z późn. zm.) zarządza się, co następuje:
