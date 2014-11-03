@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1501",
+ "source_sha256": "9df18da6621c7f1a34b428db99458126548ae3c889691013fef133c5a65b6157",
+ "in_force": "2014-11-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1501",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1501/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1501/text/O/D20141501.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1501/text/I/D20141501.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1501/text/T/D20141501L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1501/text/U/D20141501Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1501/text/W/D20141501.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1501",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1501,
+  "address": "WDU20140001501",
+  "displayAddress": "Dz.U. 2014 poz. 1501",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 października 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-10-02",
+  "promulgation": "2014-11-03",
+  "expirationDate": "2016-10-20",
+  "changeDate": "2024-03-14T20:17:59",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gazociągi i sieci gazowe",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/700"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141501.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141501.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141501L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141501Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20141501.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
