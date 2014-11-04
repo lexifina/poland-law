@@ -1,17 +1,1 @@
-Praca w Polskiej Rzeczypospolitej Ludowej, w państwie ludu pracującego jest podstawowym prawem, obowiązkiem i sprawą honoru każdego obywatela.
-
-Szczególna rola w kształtowaniu socjalistycznych stosunków pracy przypada prawu pracy. Ono bowiem, dzięki unormowaniom zgodnym z zasadami ustrojowymi i współżycia społecznego w państwie ludowym, ugruntowuje poczucie praworządności i świadomość, że rzetelna i uczciwa praca jest pod ochroną prawa; zapewnia załogom poprzez ich organizacje rolę aktywnego uczestnika w życiu i działalności zakładu pracy; wychowuje w duchu przestrzegania dyscypliny pracy, ładu i porządku oraz zobowiązuje do aktywnego uczestnictwa w pomnażaniu zasobów materialnych państwa, które zapewnia stałą poprawę warunków pracy i bytu każdego pracownika i całego społeczeństwa.
-
-W Polskiej Rzeczypospolitej Ludowej wszyscy ludzie pracy są równi. W imię sprawiedliwości społecznej socjalistyczne prawo pracy jednakowo traktuje wszystkich pracujących, przyznając każdemu takie same uprawnienia z tytułu pełnienia takich samych obowiązków. Kodeks znosi różnice w uprawnieniach pracowników fizycznych i umysłowych.
-
-Kodeks kształtuje jednolity system praw i obowiązków pracowników. Zwiększając wymagania w zakresie obowiązków pracowniczych, od których należytego, sumiennego i twórczego spełniania zależy zasobność państwa i dobrobyt narodu, jednocześnie rozszerza uprawnienia pracownicze.
-
-Kodeks jest odzwierciedleniem osiągniętego w trzydziestoleciu społeczno-gospodarczego rozwoju kraju, ukształtowanego stanu świadomości społecznej i aktywności zawodowej ludzi pracy oraz daje wyraz zasadzie, że w Polsce Ludowej najwyższym celem wszelkiej działalności jest człowiek, a przede wszystkim stały wzrost jego dobrobytu materialnego i poziomu kulturalnego.
-
-Kodeks sprzyja doskonaleniu organizacji pracy, nakładając na kierownictwo zakładów pracy obowiązek właściwego organizowania procesów produkcyjnych, stwarzając warunki dla wykorzystania kwalifikacji i zdolności osobistych pracowników oraz osiągania wysokiej efektywności pracy, jak również kształtowania w zakładzie socjalistycznych zasad współżycia.
-
-Kierownik socjalistycznego zakładu pracy odpowiada za prawidłowe wykonywanie zadań zakładu wynikających z planu społeczno-gospodarczego rozwoju kraju, racjonalne wykorzystanie wszystkich czynników produkcji, jak również stałą poprawę warunków pracy, a w szczególności warunków bezpieczeństwa i higieny pracy - oraz zgodnie z zasadą jednoosobowego kierownictwa reprezentuje zakład pracy i zarządza tym zakładem w imieniu państwa. Kierownik zakładu jest uprawniony do nawiązywania i rozwiązywania stosunku pracy. Kierownik zakładu współdziała z organizacją związkową i okazuje pomoc w spełnianiu jej statutowych zadań.
-
-W dziedzinie umacniania socjalistycznych stosunków pracy ważna rola przypada związkom zawodowym, które współdziałają z organami państwa ludowego na rzecz stałej poprawy warunków socjalno-bytowych załóg, a jednocześnie na rzecz podnoszenia wydajności pracy, umacniania dyscypliny społeczno-produkcyjnej, wzrostu świadomości społecznej, poziomu wiedzy i kultury pracowników. Kodeks pracy, określając podstawowe normy stosunku pracy, zapewnia związkom zawodowym właściwą pozycję i współudział w kształtowaniu tych stosunków, reguluje główne formy współpracy kierowników zakładów z radami zakładowymi, przyznaje instancjom związkowym niezbędne uprawnienia w procesie tworzenia i stosowania prawa pracy.
-
-Osiągnięcie podstawowego celu naszego ustroju w postaci coraz pełniejszego zaspokajania potrzeb materialnych i kulturalnych ludzi pracy wymaga, aby wszyscy pracownicy, kierownictwa zakładów pracy, organy państwowe oraz organizacje społeczne i zawodowe w pełni przestrzegali przepisów niniejszego kodeksu.
+Preambuła (uchylona).
