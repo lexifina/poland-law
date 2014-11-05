@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1521",
+ "source_sha256": "5871ebc86dc335bcbe644248c6df617fbdf012a57ee34f956d9d127917d7c0f8",
+ "in_force": "2014-11-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 367 words, parsed 65; at 65: 'Obywatelskich o zbadanie zgodności : 1 ) art . 31'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1521",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1521/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1521/text/O/D20141521.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1521/text/I/D20141521.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1521/text/T/D20141521TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1521",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1521,
+  "address": "WDU20140001521",
+  "displayAddress": "Dz.U. 2014 poz. 1521",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 28 października 2014 r. sygn. akt K 8/14",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-10-28",
+  "promulgation": "2014-11-05",
+  "entryIntoForce": "2014-11-05",
+  "validFrom": "2014-11-05",
+  "changeDate": "2024-03-14T20:14:50",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsularne prawo",
+   "konsularne urzędy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/1985/233",
+     "date": "2015-11-05"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1984/34",
+     "date": "2015-11-05"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "MP/1985/233"
+    },
+    {
+     "id": "DU/1984/34"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141521.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141521.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141521TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
