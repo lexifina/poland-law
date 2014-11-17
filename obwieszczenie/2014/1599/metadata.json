@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1599",
+ "source_sha256": "935eb1b643e44f2d8826a6432b5856b36966787b421f3cc17568074aa857a2e8",
+ "in_force": "2014-11-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1599",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1599/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1599/text/O/D20141599.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1599/text/I/D20141599.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1599/text/U/D20141599Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1599/text/W/D20141599.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1599",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1599,
+  "address": "WDU20140001599",
+  "displayAddress": "Dz.U. 2014 poz. 1599",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-11-07",
+  "promulgation": "2014-11-17",
+  "expirationDate": "2023-01-08",
+  "changeDate": "2024-03-14T20:16:47",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania",
+   "kościoły"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32009R1186",
+    "date": "2009-11-16",
+    "title": "ROZPORZĄDZENIE RADY (WE) NR 1186/2009 z dnia 16 listopada 2009 r. ustanawiające wspólnotowy system zwolnień celnych (wersja ujednolicona)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/482"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141599.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141599.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141599Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20141599.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
