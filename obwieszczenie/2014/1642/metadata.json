@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1642",
+ "source_sha256": "3edf064c4b4edd2d9f6faf435626631efbe63e0e92114203fc152b691418237f",
+ "in_force": "2014-11-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 7830 words, parsed 80; at 80: '16 listopada 2014 r . Rozdział 1 Dane zbiorcze 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1642",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1642/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1642/text/O/D20141642.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1642/text/I/D20141642.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1642",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1642,
+  "address": "WDU20140001642",
+  "displayAddress": "Dz.U. 2014 poz. 1642",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2014 r. o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-11-23",
+  "promulgation": "2014-11-24",
+  "changeDate": "2024-03-14T20:16:25",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "samorząd terytorialny",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 477 par. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141642.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141642.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
