@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1640",
+ "source_sha256": "ba2e181b372c7ccdc3a0e72271a93ae8a87ea690bb5e1e33245af7c3d2e29b6b",
+ "in_force": "2014-11-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 908 words, parsed 106; at 106: '16 listopada 2014 r . Rozdział 1 Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1640",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1640/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1640/text/O/D20141640.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1640/text/I/D20141640.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1640",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1640,
+  "address": "WDU20140001640",
+  "displayAddress": "Dz.U. 2014 poz. 1640",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2014 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-11-23",
+  "promulgation": "2014-11-24",
+  "changeDate": "2024-03-14T20:16:23",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "samorząd terytorialny",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    },
+    {
+     "id": "DU/2002/361"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 382"
+    },
+    {
+     "id": "DU/2002/361",
+     "art": "art. 7 ust. 2"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141640.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141640.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
