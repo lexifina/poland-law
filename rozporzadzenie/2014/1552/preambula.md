@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2012 r. poz. 1187, z 2013 r. poz. 155 oraz z 2014 r. poz. 1133) zarządza się, co następuje:
