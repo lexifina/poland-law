@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/1127",
+ "source_sha256": "cedfce78c86e0e79f1acbbf32a8f394d3221fac1fe4a38d99abdf4148c13ebbf",
+ "in_force": "2014-11-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/1127",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/1127/text/O/M20141127.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/1127/text/I/M20141127.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/1127",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1127,
+  "address": "WMP20140001127",
+  "displayAddress": "M.P. 2014 poz. 1127",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 12 z siedzibą Okręgowej Komisji Wyborczej w Krakowie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-11-27",
+  "promulgation": "2014-11-27",
+  "changeDate": "2018-02-12T14:39:40",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20141127.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20141127.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
