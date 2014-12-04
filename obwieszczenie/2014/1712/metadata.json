@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1712",
+ "source_sha256": "1134a27409dbc89b2e7b1cb70225fd0fc180e88d735e88ee70986d379b5465e8",
+ "in_force": "2014-12-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1712",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1712/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1712/text/O/D20141712.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1712/text/I/D20141712.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1712/text/U/D20141712Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1712/text/W/D20141712.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1712",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1712,
+  "address": "WDU20140001712",
+  "displayAddress": "Dz.U. 2014 poz. 1712",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-11-27",
+  "promulgation": "2014-12-04",
+  "expirationDate": "2023-01-11",
+  "changeDate": "2024-03-14T20:15:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania",
+   "kościoły"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/479"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141712.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141712.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141712Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20141712.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
