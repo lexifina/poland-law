@@ -1,0 +1,1 @@
+Na podstawie art. 1 ust. 2 ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1444) zarządza się, co następuje:
