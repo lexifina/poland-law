@@ -1,0 +1,169 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1585",
+ "source_sha256": "8e02e049690f867430d5c42f7e3cad784195227c7067b79770340a9267ef4129",
+ "in_force": "2014-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1585",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1585/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1585/text/O/D20141585.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1585/text/I/D20141585.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1585/text/T/D20141585L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1585/text/U/D20141585Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1585",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1585,
+  "address": "WDU20140001585",
+  "displayAddress": "Dz.U. 2014 poz. 1585",
+  "title": "Ustawa z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-10-23",
+  "promulgation": "2014-11-14",
+  "entryIntoForce": "2014-12-15",
+  "validFrom": "2014-12-15",
+  "changeDate": "2026-10-08T15:59:44",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS INSTYTUCJI FINANSOWYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka",
+   "notariat",
+   "kodeks postępowania cywilnego",
+   "upadłościowe prawo",
+   "bankowe prawo",
+   "kredyty i pożyczki",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=1442",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/1442",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/1442",
+    "number": "1442",
+    "term": 7
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=2392",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/2392",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/2392",
+    "number": "2392",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2015/1010"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/1206",
+     "date": "2027-01-11"
+    },
+    {
+     "id": "DU/2025/146",
+     "date": "2025-02-19"
+    },
+    {
+     "id": "DU/2022/2339",
+     "date": "2023-05-18"
+    },
+    {
+     "id": "DU/2020/2320",
+     "date": "2021-10-05"
+    },
+    {
+     "id": "DU/2015/1844",
+     "date": "2016-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/715",
+     "date": "2014-12-15"
+    },
+    {
+     "id": "DU/1997/939",
+     "date": "2014-12-15"
+    },
+    {
+     "id": "DU/1991/91",
+     "date": "2014-12-15"
+    },
+    {
+     "id": "DU/1964/296",
+     "date": "2014-12-15"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2025/573"
+    },
+    {
+     "id": "DU/2023/152"
+    },
+    {
+     "id": "DU/2022/158"
+    },
+    {
+     "id": "DU/2016/786"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2012/1529"
+    },
+    {
+     "id": "DU/2003/1151"
+    },
+    {
+     "id": "DU/1997/741"
+    },
+    {
+     "id": "DU/1964/93"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141585.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141585.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141585L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141585Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
