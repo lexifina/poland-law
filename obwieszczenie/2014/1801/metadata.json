@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1801",
+ "source_sha256": "a6afa9ab6c10467365fbd7ecf077464e73da8fd379ff989931826c708f32839c",
+ "in_force": "2014-12-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1801",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1801/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1801/text/O/D20141801.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1801/text/I/D20141801.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1801/text/T/D20141801L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2014/1801/text/U/D20141801Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2014/1801/text/W/D20141801.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1801",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1801,
+  "address": "WDU20140001801",
+  "displayAddress": "Dz.U. 2014 poz. 1801",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadku koronnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-12-02",
+  "promulgation": "2014-12-16",
+  "expirationDate": "2016-07-22",
+  "changeDate": "2024-03-14T20:17:00",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadek koronny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/738"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141801.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141801.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141801L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20141801Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20141801.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
