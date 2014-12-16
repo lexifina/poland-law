@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/1207",
+ "source_sha256": "e27a3288ce211dacf898d11330c039274f86c77078d531a7428197dc0a9bbbe0",
+ "in_force": "2014-12-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/1207",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/1207/text/O/M20141207.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/1207/text/I/M20141207.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/1207",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1207,
+  "address": "WMP20140001207",
+  "displayAddress": "M.P. 2014 poz. 1207",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 grudnia 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 5 z siedzibą Okręgowej Komisji Wyborczej w Toruniu",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-12-16",
+  "promulgation": "2014-12-16",
+  "changeDate": "2018-02-12T14:07:31",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20141207.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20141207.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
