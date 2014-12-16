@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/1197",
+ "source_sha256": "67e11eeffcd4ee4d39ae14eed78d56973d2aa5837271befd4927ce84ed1c6186",
+ "in_force": "2014-12-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/1197",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/1197/text/O/M20141197.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/1197/text/I/M20141197.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/1197",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1197,
+  "address": "WMP20140001197",
+  "displayAddress": "M.P. 2014 poz. 1197",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2014 r. w sprawie zmian w składzie sekretarzy Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-12-05",
+  "promulgation": "2014-12-16",
+  "changeDate": "2020-01-13T14:41:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2011/1043",
+     "date": "2014-12-05"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20141197.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20141197.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
