@@ -1,0 +1,1 @@
+Na podstawie art. 25b ust. 6 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744, z 2011 r. Nr 54, poz. 278 oraz z 2014 r. poz. 29) zarządza się, co następuje:
