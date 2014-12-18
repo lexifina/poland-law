@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2014/1826",
+ "source_sha256": "31f105bf0f5c745ac71d47ead88da6b65ee81fa7d6029ca31f52739e7e209290",
+ "in_force": "2014-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 339 words, parsed 161; at 161: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 7'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2014/1826",
+  "html": "https://eli.gov.pl/api/acts/DU/2014/1826/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2014/1826/text/O/D20141826.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2014/1826/text/I/D20141826.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2014/1826/text/T/D20141826TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2014/1826",
+  "publisher": "DU",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1826,
+  "address": "WDU20140001826",
+  "displayAddress": "Dz.U. 2014 poz. 1826",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 9 grudnia 2014 r. sygn. akt K 46/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-12-09",
+  "promulgation": "2014-12-18",
+  "entryIntoForce": "2014-12-18",
+  "validFrom": "2014-12-18",
+  "changeDate": "2024-03-14T20:18:24",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "grunty rolne i leśne"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/764",
+     "date": "2014-12-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2003/392"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2001/764"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20141826.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20141826.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20141826TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
