@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2014/1226",
+ "source_sha256": "6a7c9c1235d13eb9ea3a688d9b2f3b19158deb44f2b3dbee054a8d85b5298992",
+ "in_force": "2014-12-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2014/1226",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2014/1226/text/O/M20141226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2014/1226/text/I/M20141226.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2014/1226",
+  "publisher": "MP",
+  "year": 2014,
+  "volume": 0,
+  "pos": 1226,
+  "address": "WMP20140001226",
+  "displayAddress": "M.P. 2014 poz. 1226",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 grudnia 2014 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 35 z siedzibą Okręgowej Komisji Wyborczej w Olsztynie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-12-29",
+  "promulgation": "2014-12-31",
+  "changeDate": "2018-02-12T14:05:48",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20141226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20141226.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
