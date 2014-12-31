@@ -1,0 +1,1 @@
+Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. poz. 1131, z 2011 r. poz. 768, z 2012 r. poz. 1407, z 2014 r. poz. 1741 i 1888 oraz z 2015 r. poz. 2281) zarządza się, co następuje:
