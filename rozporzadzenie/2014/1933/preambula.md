@@ -1,0 +1,1 @@
+Na podstawie art. 6 ust. 1 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z późn. zm.) zarządza się, co następuje:
