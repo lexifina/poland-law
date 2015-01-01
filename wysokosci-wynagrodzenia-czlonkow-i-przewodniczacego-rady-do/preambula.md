@@ -1,0 +1,1 @@
+Na podstawie art. 31sa ust. 18 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) zarządza się, co następuje:
