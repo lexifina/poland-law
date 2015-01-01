@@ -1,6 +1,6 @@
 # Art. 65a.
 
-1. W skład masy upadłości upadłego będącego stroną umowy o subpartycypację, o której mowa w art. 183 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.), nie wchodzą wierzytelności będące przedmiotem tej umowy.
+1. W skład masy upadłości upadłego będącego stroną umowy o subpartycypację, o której mowa w art. 183 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. z 2014 r. poz. 157 oraz z 2015 r. poz. 73), nie wchodzą wierzytelności będące przedmiotem tej umowy.
 
 2. Fundusz sekurytyzacyjny wstępuje w prawa upadłego z tytułu wierzytelności podlegających wyłączeniu zgodnie z ust. 1 oraz zabezpieczeń tych wierzytelności.
 
