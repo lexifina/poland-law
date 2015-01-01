@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 11 ustawy z dnia 7 maja 2009 r. o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. U. Nr 77, poz. 649, z późn. zm.) zarządza się, co następuje:
