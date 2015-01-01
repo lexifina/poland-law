@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 7 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932) zarządza się, co następuje:
