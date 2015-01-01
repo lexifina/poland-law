@@ -1,6 +1,6 @@
 # Art. 40d.
 
-1. Przy ustalaniu wysokości emerytury kwota składek i odsetek za zwłokę zewidencjonowanych na subkoncie po dniu 31 stycznia roku, za który przeprowadzono ostatnią roczną waloryzację składek, jest waloryzowana kwartalnie.
+1. Przy ustalaniu wysokości emerytury kwota składek, środków i odsetek za zwłokę, zewidencjonowanych na subkoncie po dniu 31 stycznia roku, za który przeprowadzono ostatnią roczną waloryzację składek i środków, jest waloryzowana kwartalnie.
 
 2. W przypadku ustalania wysokości emerytury:
 
@@ -12,9 +12,9 @@
 
 - 4) w czwartym kwartale danego roku - ostatniej kwartalnej waloryzacji składek dokonuje się za drugi kwartał danego roku.
 
-3. Waloryzacji kwartalnej podlega kwota składek i odsetek za zwłokę zewidencjonowanych na subkoncie na ostatni dzień pierwszego miesiąca kwartału, za który jest przeprowadzana waloryzacja, powiększona o kwoty z tytułu poprzednich waloryzacji kwartalnych.
+3. Waloryzacji kwartalnej podlega kwota składek, środków i odsetek za zwłokę zewidencjonowanych na subkoncie na ostatni dzień pierwszego miesiąca kwartału, za który jest przeprowadzana waloryzacja, powiększona o kwoty z tytułu poprzednich waloryzacji kwartalnych.
 
-4. Waloryzacja kwartalna polega na pomnożeniu składek i odsetek za zwłokę zewidencjonowanych na subkoncie przez wskaźnik kwartalnej waloryzacji, o którym mowa w ust. 7. W wyniku przeprowadzonej waloryzacji stan subkonta nie może ulec obniżeniu.
+4. Waloryzacja kwartalna polega na pomnożeniu kwoty składek, środków i odsetek za zwłokę zewidencjonowanych na subkoncie przez wskaźnik kwartalnej waloryzacji, o którym mowa w ust. 7. W wyniku przeprowadzonej waloryzacji stan subkonta nie może ulec obniżeniu.
 
 5. Wskaźnik kwartalnej waloryzacji jest obliczany na podstawie ostatnio ogłoszonego wskaźnika rocznej waloryzacji, o którym mowa w art. 40c ust. 6, według następującego wzoru: \( WKW = {{WRW - 100\% } \over 4} + 100\% \) - gdzie poszczególne symbole oznaczają: WKW - wskaźnik kwartalnej waloryzacji, WRW - wskaźnik rocznej waloryzacji, o którym mowa w art. 40c ust. 6.
 

@@ -1,3 +1,3 @@
 # Art. 91a.
 
-(uchylony).
+(uchylony)

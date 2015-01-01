@@ -16,7 +16,7 @@
 
 - 7) posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Zakładu.
 
-2. Informację o naborze na stanowisko Prezesa Zakładu ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Zakładu oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
+2. Informację o naborze na stanowisko Prezesa Zakładu ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Zakładu oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2014 r. poz. 782 i 1662), i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
 
 - 1) nazwę i adres Zakładu;
 

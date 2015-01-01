@@ -1,3 +1,3 @@
 # Art. 48a.
 
-(uchylony).
+(uchylony)
