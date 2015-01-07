@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/16",
+ "source_sha256": "1ba22aa544e864929316b18ffcd87725cf394775babc4222b4adbeab3b385acf",
+ "in_force": "2015-01-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 391 words, parsed 146; at 146: 'Rzeczypospolitej Polskiej , orzeka : 1 . Art . 20'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/16",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/16/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/16/text/O/D20150016.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/16/text/I/D20150016.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/16/text/T/D20150016TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/16",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 16,
+  "address": "WDU20150000016",
+  "displayAddress": "Dz.U. 2015 poz. 16",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 18 grudnia 2014 r. sygn. akt K 33/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-12-18",
+  "promulgation": "2015-01-07",
+  "entryIntoForce": "2015-01-07",
+  "validFrom": "2015-01-07",
+  "changeDate": "2024-03-14T20:45:45",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/657",
+     "date": "2015-01-07"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2011/657"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150016.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150016.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150016TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
