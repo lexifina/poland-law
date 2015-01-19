@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/92",
+ "source_sha256": "01a5954944cc1742e81f9c472dee0d333de94be05af7b703a3abd41c32b7638f",
+ "in_force": "2015-01-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/92",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/92/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/92/text/O/D20150092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/92/text/I/D20150092.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/92",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 92,
+  "address": "WDU20150000092",
+  "displayAddress": "Dz.U. 2015 poz. 92",
+  "title": "Obwieszczenie Ministra Finansów z dnia 15 grudnia 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2014-12-15",
+  "promulgation": "2015-01-19",
+  "expirationDate": "2021-01-13",
+  "changeDate": "2026-08-03T10:04:37",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/86"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
