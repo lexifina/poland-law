@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/71",
+ "source_sha256": "7afe8885a8bd6fbce5903945cce8160ad06b1bce9c1ea32646093319acdbc3b6",
+ "in_force": "2015-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/71",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/71/text/O/M20150071.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/71/text/I/M20150071.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/71",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 71,
+  "address": "WMP20150000071",
+  "displayAddress": "M.P. 2015 poz. 71",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 19 stycznia 2015 r. w sprawie średniej krajowej ceny skupu pszenicy w II półroczu 2014 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-01-19",
+  "promulgation": "2015-01-20",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "zboża",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150071.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150071.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
