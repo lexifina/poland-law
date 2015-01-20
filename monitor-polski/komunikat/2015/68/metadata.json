@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/68",
+ "source_sha256": "447c3a204dd44ff3d5f061e31edb60d09b5baf42d38342c817d53c518f94701e",
+ "in_force": "2015-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/68",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/68/text/O/M20150068.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/68/text/I/M20150068.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/68",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 68,
+  "address": "WMP20150000068",
+  "displayAddress": "M.P. 2015 poz. 68",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 stycznia 2015 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w IV kwartale 2014 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-01-15",
+  "promulgation": "2015-01-20",
+  "changeDate": "2020-10-20T09:38:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150068.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150068.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
