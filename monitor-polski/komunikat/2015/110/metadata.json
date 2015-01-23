@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/110",
+ "source_sha256": "bd33ddd7b712ff9d269802e933af1b1c0d464e99f6d6386c82f1e5aa860dc918",
+ "in_force": "2015-01-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/110",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/110/text/O/M20150110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/110/text/I/M20150110.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/110",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 110,
+  "address": "WMP20150000110",
+  "displayAddress": "M.P. 2015 poz. 110",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej, przeprowadzonych w dniu 7 września 2014 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2014-12-22",
+  "promulgation": "2015-01-23",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 143 par. 1 i 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150110.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
