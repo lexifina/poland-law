@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/217",
+ "source_sha256": "29a6c01584820904697e2469ab94dd9ddcb6ea8eb7fb744f8b8b14a8a10f6843",
+ "in_force": "2015-02-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 314 words, parsed 62; at 62: 'okręgu wyborczym nr 75 . Rozdział 1 Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/217",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/217/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/217/text/O/D20150217.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/217/text/I/D20150217.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/217",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 217,
+  "address": "WDU20150000217",
+  "displayAddress": "Dz.U. 2015 poz. 217",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 9 lutego 2015 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 8 lutego 2015 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-02-09",
+  "promulgation": "2015-02-17",
+  "changeDate": "2025-03-21T10:42:22",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 276"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150217.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150217.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
