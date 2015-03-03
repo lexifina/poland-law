@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/295",
+ "source_sha256": "6fd000225285ac12b9c9b5526f4b3c2632fcbef214d27fac9a13a9a06a1c1247",
+ "in_force": "2015-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/295",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/295/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/295/text/O/D20150295.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/295/text/I/D20150295.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/295/text/T/D20150295L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/295/text/U/D20150295Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/295/text/W/D20150295.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/295",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 295,
+  "address": "WDU20150000295",
+  "displayAddress": "Dz.U. 2015 poz. 295",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozwiązywaniu sporów zbiorowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-02-20",
+  "promulgation": "2015-03-03",
+  "expirationDate": "2018-02-21",
+  "changeDate": "2024-03-14T20:50:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "arbitraż",
+   "praca",
+   "pracodawca",
+   "wynagrodzenia",
+   "mediacje",
+   "spory zbiorowe",
+   "strajki",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/236"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150295.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150295.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150295L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20150295Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20150295.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
