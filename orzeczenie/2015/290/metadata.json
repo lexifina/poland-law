@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/290",
+ "source_sha256": "af6a50221503d7a7e6a100a673551cd25d6dd812cf1c37035fb36d601fd52b55",
+ "in_force": "2015-03-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 460 words, parsed 188; at 188: '1 Konstytucji , orzeka : I . Art . 426'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/290",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/290/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/290/text/O/D20150290.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/290/text/I/D20150290.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/290/text/T/D20150290TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/290",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 290,
+  "address": "WDU20150000290",
+  "displayAddress": "Dz.U. 2015 poz. 290",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 24 lutego 2015 r. sygn. akt K 34/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-02-24",
+  "promulgation": "2015-03-03",
+  "entryIntoForce": "2015-03-03",
+  "validFrom": "2015-03-03",
+  "changeDate": "2024-03-14T20:50:15",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koszty i opłaty sądowe",
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2015-12-04"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150290.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150290.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150290TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
