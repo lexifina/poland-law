@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/318",
+ "source_sha256": "568a26d0a353d439f65a176c328826cb8ae35a13f867e097621879c30d3e67f3",
+ "in_force": "2015-03-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/318",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/318/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/318/text/O/D20150318.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/318/text/I/D20150318.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/318/text/T/D20150318L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/318/text/U/D20150318Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/318/text/W/D20150318.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/318",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 318,
+  "address": "WDU20150000318",
+  "displayAddress": "Dz.U. 2015 poz. 318",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-02-20",
+  "promulgation": "2015-03-06",
+  "expirationDate": "2019-08-02",
+  "changeDate": "2024-03-14T20:53:57",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konstytucja",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/507"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150318.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150318.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150318L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20150318Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20150318.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
