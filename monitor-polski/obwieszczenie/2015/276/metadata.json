@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/276",
+ "source_sha256": "0c422d13e23d2c272320097cd7a26af5be80d53622253d340aa4e6bc1183805b",
+ "in_force": "2015-03-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/276",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/276/text/O/M20150276.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/276/text/I/M20150276.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/276",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 276,
+  "address": "WMP20150000276",
+  "displayAddress": "M.P. 2015 poz. 276",
+  "title": "Obwieszczenie Prokuratora Generalnego z dnia 2 marca 2015 r. o wolnych stanowiskach prokuratorskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-03-02",
+  "promulgation": "2015-03-18",
+  "changeDate": "2019-03-25T11:56:34",
+  "releasedBy": [
+   "PROKURATOR GENERALNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1985/138",
+     "art": "art. 14b ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150276.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150276.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
