@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/524",
+ "source_sha256": "e650bfc462b4f4241680ed03955633866be3db4b5d41660819a2a044b9e19347",
+ "in_force": "2015-03-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 812 words, parsed 221; at 221: 'ustawy ” . Uzasadnienie : 1 . Część orzekająca wyroku'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/524",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/524/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/524/text/O/D20150524.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/524/text/I/D20150524.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/524/text/T/D20150524TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/524",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 524,
+  "address": "WDU20150000524",
+  "displayAddress": "Dz.U. 2015 poz. 524",
+  "title": "Postanowienie Trybunału Konstytucyjnego z dnia 25 marca 2015 r. sygn. akt K 29/13",
+  "type": "Postanowienie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-03-25",
+  "promulgation": "2015-04-14",
+  "entryIntoForce": "2015-03-25",
+  "validFrom": "2015-03-25",
+  "changeDate": "2024-03-14T20:50:34",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/643"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/643",
+     "art": "art. 73 ust. 1"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2015/373"
+    },
+    {
+     "id": "DU/2005/1459"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150524.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150524.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150524TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
