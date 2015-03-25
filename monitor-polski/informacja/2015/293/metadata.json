@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/293",
+ "source_sha256": "d3ec8cef31c1e79b45a5ed482d6fe1d01e3179b6eb345d637945eb496cfb9082",
+ "in_force": "2015-03-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/293",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/293/text/O/M20150293.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/293/text/I/M20150293.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/293",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 293,
+  "address": "WMP20150000293",
+  "displayAddress": "M.P. 2015 poz. 293",
+  "title": "Informacja Państwowej Komisji Wyborczej z dnia 17 marca 2015 r. o utworzonych komitetach wyborczych w związku z wyborami Prezydenta Rzeczypospolitej Polskiej, zarządzonymi na dzień 10 maja 2015 r.",
+  "type": "Informacja",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-03-17",
+  "promulgation": "2015-03-25",
+  "changeDate": "2015-04-03T08:20:35",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "komitety",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 302"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150293.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150293.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
