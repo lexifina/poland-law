@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/302",
+ "source_sha256": "c8b589b9fa6cfffa5777e3899d1c3a84e3f7631619fe036fc81353caa13caaa9",
+ "in_force": "2015-04-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/302/text/O/M20150302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/302/text/I/M20150302.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/302",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 302,
+  "address": "WMP20150000302",
+  "displayAddress": "M.P. 2015 poz. 302",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 20 marca 2015 r. w sprawie zmian w składzie sekretarzy Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-03-20",
+  "promulgation": "2015-04-02",
+  "changeDate": "2020-01-13T14:41:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150302.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
