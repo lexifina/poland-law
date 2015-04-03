@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/483",
+ "source_sha256": "93039c70961df4d4c6792637f57d21fd1851287f8bdd53b503764a99a99bf98b",
+ "in_force": "2015-04-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/483",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/483/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/483/text/O/D20150483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/483/text/I/D20150483.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/483/text/T/D20150483L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/483/text/W/D20150483.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/483",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 483,
+  "address": "WDU20150000483",
+  "displayAddress": "Dz.U. 2015 poz. 483",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 marca 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-03-18",
+  "promulgation": "2015-04-03",
+  "changeDate": "2024-03-14T20:52:46",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyznania"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/324"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150483.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150483L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20150483.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
