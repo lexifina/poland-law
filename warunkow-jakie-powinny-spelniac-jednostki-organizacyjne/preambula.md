@@ -1,0 +1,1 @@
+Na podstawie art. 50 pkt 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. poz. 349) zarządza się, co następuje:
