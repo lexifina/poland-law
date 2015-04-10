@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/338",
+ "source_sha256": "48e9350f36661574833cbea6457c2fe8e13d70efb5ec72a482279126a30c7ec4",
+ "in_force": "2015-04-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/338",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/338/text/O/M20150338.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/338/text/I/M20150338.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/338",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 338,
+  "address": "WMP20150000338",
+  "displayAddress": "M.P. 2015 poz. 338",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 24 marca 2015 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-03-24",
+  "promulgation": "2015-04-10",
+  "repealDate": "2016-01-07",
+  "changeDate": "2016-01-08T09:15:58",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Kancelaria Prezesa Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2016/7",
+     "date": "2016-01-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2007/1056"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150338.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150338.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
