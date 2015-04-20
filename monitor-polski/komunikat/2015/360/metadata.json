@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/360",
+ "source_sha256": "fed86630c9f304ed864018992fda74b604eb7d29526304705024695b460a5ae0",
+ "in_force": "2015-04-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/360",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/360/text/O/M20150360.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/360/text/I/M20150360.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/360",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 360,
+  "address": "WMP20150000360",
+  "displayAddress": "M.P. 2015 poz. 360",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 kwietnia 2015 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w I kwartale 2015 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-04-15",
+  "promulgation": "2015-04-20",
+  "changeDate": "2020-10-20T09:37:40",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "towar",
+   "wskaźnik",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150360.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150360.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
