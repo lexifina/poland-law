@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/367",
+ "source_sha256": "031988e122ca16a722787e3352a88450b254e568bf185170294b753c0591da8c",
+ "in_force": "2015-04-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/367",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/367/text/O/M20150367.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/367/text/I/M20150367.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/367",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 367,
+  "address": "WMP20150000367",
+  "displayAddress": "M.P. 2015 poz. 367",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 kwietnia 2015 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności cywilnej posła Piotra Babinetza",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-04-09",
+  "promulgation": "2015-04-23",
+  "changeDate": "2020-01-13T14:38:08",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "odpowiedzialność cywilna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 1"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 6a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150367.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150367.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
