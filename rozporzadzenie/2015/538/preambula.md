@@ -1,0 +1,1 @@
+Na podstawie art. 89zb ust. 3 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 680, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1004) zarządza się, co następuje:
