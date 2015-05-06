@@ -1,3 +1,3 @@
 # Art. 223a.
 
-(uchylony).
+(uchylony)

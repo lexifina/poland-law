@@ -1,3 +1,3 @@
 # Art. 81c.
 
-(uchylony).
+(uchylony)

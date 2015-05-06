@@ -8,7 +8,7 @@
 
 § 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
-- 1) (uchylony);
+- 1) (uchylony)
 
 - 2) sposób przesyłania deklaracji i podań za pomocą środków komunikacji elektronicznej;
 

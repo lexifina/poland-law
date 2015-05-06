@@ -1,3 +1,3 @@
 # Art. 3c.
 
-(uchylony).
+(uchylony)

@@ -1,3 +1,3 @@
 # Art. 24a.
 
-(uchylony).
+(uchylony)

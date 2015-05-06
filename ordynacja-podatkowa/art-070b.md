@@ -1,3 +1,3 @@
 # Art. 70b.
 
-(uchylony).
+(uchylony)

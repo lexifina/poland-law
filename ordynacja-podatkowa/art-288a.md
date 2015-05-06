@@ -1,3 +1,3 @@
 # Art. 288a.
 
-(uchylony).
+(uchylony)

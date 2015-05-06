@@ -12,4 +12,4 @@
 
 § 1b. Strona ma prawo do rezygnacji z doręczania pism za pomocą środków komunikacji elektronicznej. W takim przypadku organ podatkowy doręcza pismo w sposób określony dla pisma w formie innej niż forma dokumentu elektronicznego.
 
-§ 2. (uchylony).
+§ 2. (uchylony)

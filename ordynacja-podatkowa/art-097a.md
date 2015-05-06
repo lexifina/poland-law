@@ -1,3 +1,3 @@
 # Art. 97a.
 
-(uchylony).
+(uchylony)

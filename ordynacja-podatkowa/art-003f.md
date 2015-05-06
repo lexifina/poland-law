@@ -1,6 +1,6 @@
 # Art. 3f.
 
-§ 1. Identyfikacja podatników, płatników, inkasentów, ich następców prawnych oraz osób trzecich na portalu podatkowym następuje przez zastosowanie kwalifikowanego certyfikatu przy zachowaniu zasad przewidzianych w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262) lub przez zastosowanie profilu zaufanego ePUAP w rozumieniu art. 3 pkt 15 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).
+§ 1. Identyfikacja podatników, płatników, inkasentów, ich następców prawnych oraz osób trzecich na portalu podatkowym następuje przez zastosowanie kwalifikowanego certyfikatu przy zachowaniu zasad przewidzianych w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262 oraz z 2014 r. poz. 1662) lub przez zastosowanie profilu zaufanego ePUAP w rozumieniu art. 3 pkt 15 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 § 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres i warunki korzystania z portalu podatkowego, mając na względzie potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych we wnioskach, deklaracjach i pismach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.
 

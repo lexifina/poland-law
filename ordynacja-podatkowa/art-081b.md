@@ -12,4 +12,4 @@
 
 § 2. Korekta złożona w przypadku, o którym mowa w § 1 pkt 1, nie wywołuje skutków prawnych.
 
-§ 3. (uchylony).
+§ 3. (uchylony)
