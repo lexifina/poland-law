@@ -1,4 +1,4 @@
-## Dział VIIa Wymiana informacji podatkowych z innymi państwami
+## Dział VIIA Wymiana informacji podatkowych z innymi państwami
 
 ## Rozdział 1
 

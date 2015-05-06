@@ -12,7 +12,7 @@
 
 - 2) wskazanie niejednolitego stosowania przepisów prawa podatkowego w określonych decyzjach, postanowieniach oraz interpretacjach indywidualnych wydanych przez organy podatkowe oraz organy kontroli skarbowej w takich samych stanach faktycznych lub zdarzeniach przyszłych, oraz w takich samych stanach prawnych.
 
-§ 3. interpretację ogólną wydaje się, jeżeli w dniu złożenia wniosku w sprawach, o których mowa w § 2 pkt 2, nie toczy się postępowanie podatkowe lub postępowanie kontrolne organu kontroli skarbowej albo od decyzji lub na postanowienie nie zostało wniesione odwołanie lub zażalenie.
+§ 3. Interpretację ogólną wydaje się, jeżeli w dniu złożenia wniosku w sprawach, o których mowa w § 2 pkt 2, nie toczy się postępowanie podatkowe lub postępowanie kontrolne organu kontroli skarbowej albo od decyzji lub na postanowienie nie zostało wniesione odwołanie lub zażalenie.
 
 § 4. Minister właściwy do spraw finansów publicznych pozostawia wniosek o wydanie interpretacji ogólnej bez rozpatrzenia, jeżeli:
 

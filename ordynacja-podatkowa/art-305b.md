@@ -13,5 +13,3 @@ Wymiana informacji obejmuje wszelkie informacje, które mogą być istotne do ce
 - 3) dotyczących opłaty skarbowej;
 
 - 4) dotyczących należności o charakterze umownym, w szczególności wynagrodzeń za usługi użyteczności publicznej.
-
-- zwane dalej „informacjami”.

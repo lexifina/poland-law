@@ -2,8 +2,6 @@
 
 § 1. Organ podatkowy może wystąpić do władzy państwa członkowskiego Unii Europejskiej właściwej w sprawach podatkowych, zwanej dalej „obcą władzą”, z wnioskiem o doręczenie pisma, gdy doręczenie zgodnie z art. 144 albo art. 144a osobie przebywającej na terytorium tego państwa nie jest możliwe lub gdy powodowałoby nieproporcjonalne trudności.
 
-§ 1a. Minister właściwy do spraw finansów publicznych może upoważnić podległy mu organ podatkowy do występowania z wnioskiem, o którym mowa w § 1.
-
 § 2. Wnioski o doręczenie przekazywane są obcej władzy za pośrednictwem organu wyznaczonego przez ministra właściwego do spraw finansów publicznych.
 
 § 3. Wójt, burmistrz (prezydent miasta), starosta, marszałek województwa oraz samorządowe kolegium odwoławcze przekazują wniosek o doręczenie do organu wyznaczonego przez ministra właściwego do spraw finansów publicznych za pośrednictwem dyrektora izby skarbowej właściwego miejscowo ze względu na siedzibę wójta, burmistrza (prezydenta miasta), starosty, marszałka województwa albo samorządowego kolegium odwoławczego.
