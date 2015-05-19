@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/410",
+ "source_sha256": "65262c57a6bb19ecce3c3e0531574b21de0599973dff2dad8de0a743d98cfe4e",
+ "in_force": "2015-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/410",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/410/text/O/M20150410.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/410/text/I/M20150410.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/410",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 410,
+  "address": "WMP20150000410",
+  "displayAddress": "M.P. 2015 poz. 410",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 12 maja 2015 r. w sprawie przeciętnego wynagrodzenia w pierwszym kwartale 2015 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-05-12",
+  "promulgation": "2015-05-19",
+  "changeDate": "2020-11-13T11:47:30",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150410.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150410.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
