@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/456",
+ "source_sha256": "7e98a142e38b550d2cc67b9859c5f932ddec96c10b5b1efe52711adfeb46934c",
+ "in_force": "2015-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/456",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/456/text/O/M20150456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/456/text/I/M20150456.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/456",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 456,
+  "address": "WMP20150000456",
+  "displayAddress": "M.P. 2015 poz. 456",
+  "title": "Komunikat Ministra Kultury i Dziedzictwa Narodowego z dnia 8 maja 2015 r. o podjęciu przez Radę Ministrów uchwały zmieniającej uchwałę w sprawie ustanowienia programu wieloletniego \"Budowa Muzeum II Wojny Światowej w Gdańsku\"",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-05-08",
+  "promulgation": "2015-05-27",
+  "changeDate": "2020-09-15T11:03:50",
+  "releasedBy": [
+   "MIN. KULTURY I DZIEDZICTWA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kultura i sztuka",
+   "programy wieloletnie",
+   "muzea"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1658"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1658",
+     "art": "art. 19 ust. 7 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150456.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
