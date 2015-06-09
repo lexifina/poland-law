@@ -1,0 +1,1 @@
+Na podstawie art. 18 ust. 3 ustawy z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.) zarządza się, co następuje:
