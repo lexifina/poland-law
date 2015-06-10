@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/528",
+ "source_sha256": "5244fd67ab8265c6b19f8a9292a4984116281d1e3f36eaf1d7b8bdfa46027023",
+ "in_force": "2015-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/528",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/528/text/O/M20150528.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/528/text/I/M20150528.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/528",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 528,
+  "address": "WMP20150000528",
+  "displayAddress": "M.P. 2015 poz. 528",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 czerwca 2015 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 23 z siedzibą Okręgowej Komisji Wyborczej w Rzeszowie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-06-10",
+  "promulgation": "2015-06-10",
+  "changeDate": "2018-02-12T14:02:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150528.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150528.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
