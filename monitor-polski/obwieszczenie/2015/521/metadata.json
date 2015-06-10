@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/521",
+ "source_sha256": "309e00d5ef1cac698140e6dea4b7e11d537ec5f6cf2d7e3a87a13654bd76db9c",
+ "in_force": "2015-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/521",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/521/text/O/M20150521.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/521/text/I/M20150521.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/521",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 521,
+  "address": "WMP20150000521",
+  "displayAddress": "M.P. 2015 poz. 521",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 27 maja 2015 r. w sprawie wskaźnika cen dóbr inwestycyjnych za I kwartał 2015 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-05-27",
+  "promulgation": "2015-06-10",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150521.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150521.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
