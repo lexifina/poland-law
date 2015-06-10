@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 2 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. z 2016 r. poz. 1108) zarządza się, co następuje:
