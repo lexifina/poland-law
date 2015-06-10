@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 12 grudnia 2013 r. o ratyfikacji Protokołu Wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Mołdawii do Umowy między Wspólnotą Europejską a Republiką Mołdawii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 10 października 2007 roku, podpisanego w Matrahaza dnia 11 października 2012 r. (Dz. U. z 2014 r. poz. 219) Prezydent Rzeczypospolitej Polskiej dnia 10 kwietnia 2014 r. ratyfikował wyżej wymieniony protokół.
+
+Zgodnie z postanowieniem art. 13 ust. 2 niniejszego protokołu wszedł on w życie dnia 26 marca 2015 r.
