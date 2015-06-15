@@ -1,0 +1,1 @@
+Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje:
