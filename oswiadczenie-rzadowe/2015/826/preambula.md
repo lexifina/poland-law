@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 oraz art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443, z późn. zm.) Rada Ministrów Rzeczypospolitej Polskiej dnia 30 marca 2015 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej, podpisanej w Warszawie dnia 11 grudnia 2009 r., w sprawie procedur kontraktowych, poprzez podpisanie.
+
+Porozumienie zostało podpisane w Warszawie dnia 27 kwietnia 2015 r. na podstawie art. 35 ust. 1 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej.
+
+Zgodnie z art. 5 ust. 1 porozumienia weszło ono w życie z dniem podpisania.
