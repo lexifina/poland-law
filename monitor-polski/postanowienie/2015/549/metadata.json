@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/549",
+ "source_sha256": "4acd0c568d27caf0d4973ad5c01e6a7235a4cafaa594995a20e8a1d0a602e68f",
+ "in_force": "2015-06-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/549",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/549/text/O/M20150549.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/549/text/I/M20150549.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/549",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 549,
+  "address": "WMP20150000549",
+  "displayAddress": "M.P. 2015 poz. 549",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 czerwca 2015 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 15 z siedzibą Okręgowej Komisji Wyborczej w Tarnowie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-06-22",
+  "promulgation": "2015-06-22",
+  "changeDate": "2018-02-12T14:02:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150549.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150549.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
