@@ -1,0 +1,1 @@
+Na podstawie art. 24 ust. 1 pkt 1 lit. a oraz pkt 2 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2014 r. poz. 1539 oraz z 2015 r. poz. 266 i 470) zarządza się, co następuje:
