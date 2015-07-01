@@ -1,3 +1,3 @@
 # Art. 37a.
 
-(uchylony).
+(uchylony)

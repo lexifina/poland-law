@@ -2,7 +2,7 @@
 
 § 1. Kto w zakresie działalności swojego przedsiębiorstwa zawiera z konsumentem umowę o kredyt konsumencki z rażącym naruszeniem wymagań dotyczących informacji przekazywanych konsumentowi przed zawarciem umowy lub treści umowy albo z pominięciem obowiązku doręczenia jej dokumentu, podlega karze grzywny.
 
-§ 1a. Tej samej karze podlega, kto zawierając z konsumentem umowę o kredyt konsumencki nie dopełnia obowiązku oceny ryzyka kredytowego.
+§ 1a. Tej samej karze podlega, kto zawierając z konsumentem umowę o kredyt konsumencki nie dopełnia obowiązku oceny zdolności kredytowej.
 
 § 2. Kto w reklamach dotyczących kredytu konsumenckiego zawierających dane dotyczące kosztu kredytu konsumenckiego, nie podaje:
 
