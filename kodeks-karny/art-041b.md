@@ -4,7 +4,7 @@
 
 § 2. Zakaz wstępu na imprezę masową obejmuje wszelkie imprezy masowe na terytorium Rzeczypospolitej Polskiej oraz mecze piłki nożnej rozgrywane przez polską kadrę narodową lub polski klub sportowy poza terytorium Rzeczypospolitej Polskiej.
 
-§ 3. Orzekając zakaz wstępu na imprezę masową za czyn popełniony w związku z masową imprezą sportową, sąd może orzec obowiązek przebywania skazanego w czasie trwania niektórych imprez masowych objętych zakazem w określonym miejscu stałego pobytu, kontrolowany w sposób określony w przepisach o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego.
+§ 3. Orzekając zakaz wstępu na imprezę masową za czyn popełniony w związku z masową imprezą sportową, sąd może orzec obowiązek przebywania skazanego w czasie trwania niektórych imprez masowych objętych zakazem w miejscu stałego pobytu lub w innym wyznaczonym miejscu, z zastosowaniem systemu dozoru elektronicznego.
 
 § 4. Sąd orzeka zakaz wstępu na imprezę masową i obowiązek określony w § 3, w razie ponownego skazania sprawcy za przestępstwo popełnione w związku z imprezą masową.
 
