@@ -1,0 +1,9 @@
+# Art. 517g.
+
+§ 1. Jeżeli sąd przed rozprawą główną lub w jej toku stwierdzi, że sprawa nie podlega rozpoznaniu w trybie przyspieszonym, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego. Jeżeli natomiast sąd stwierdzi jedynie, że sprawy nie można rozpoznać w postępowaniu przyspieszonym z zachowaniem dopuszczalnego czasu przerw w rozprawie, określonego w art. 517f § 1, rozpoznaje ją w dalszym ciągu w trybie zwyczajnym. Jeżeli jednak sąd stwierdzi niemożność zachowania łącznego czasu przerw, określonego w art. 517f § 1, już przed rozprawą, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi do przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego.
+
+§ 2. Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd stwierdzi, że zachodzi potrzeba uzupełnienia postępowania dowodowego, zaś dokonanie niezbędnych czynności w postępowaniu sądowym powodowałoby znaczne trudności, przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego; przed przekazaniem sprawy sąd rozstrzyga w przedmiocie środka zapobiegawczego.
+
+§ 3. Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd przewiduje możliwość wymierzenia kary powyżej 2 lat pozbawienia wolności, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych; sędzia, który brał udział w wydaniu postanowienia, jest z mocy prawa wyłączony od dalszego udziału w sprawie.
+
+§ 4. W razie skazania oskarżonego na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga w przedmiocie środka zapobiegawczego.
