@@ -1,0 +1,7 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 5 grudnia 2014 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o współpracy służb policyjnych, granicznych i celnych, sporządzonej w Zgorzelcu dnia 15 maja 2014 r. (Dz. U. z 2015 r. poz. 53) Prezydent Rzeczypospolitej Polskiej dnia 30 marca 2015 r. ratyfikował wyżej wymienioną umowę.
+
+Zgodnie z art. 46 ust. 1 umowy wchodzi ona w życie dnia 9 lipca 2015 r.
+
+Jednocześnie podaje się do wiadomości, że na podstawie art. 45 ust. 1 umowy z dniem jej wejścia w życie tracą moc następujące umowy:
+
+- Umowa między Rzecząpospolitą Polską a Republiką Federalną Niemiec o ułatwieniach w odprawie granicznej, sporządzona w Warszawie dnia 29 lipca 1992 r. (Dz. U. z 1994 r. Nr 107, poz. 514), - Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o przejściach granicznych i rodzajach ruchu granicznego, sporządzona w Bonn dnia 6 listopada 1992 r. (M. P. z 2003 r. Nr 37, poz. 526), - Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o współpracy policji i straży granicznych na terenach przygranicznych, podpisana w Berlinie dnia 18 lutego 2002 r. (Dz. U. z 2005 r. Nr 223, poz. 1915), - Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o współpracy w zakresie zwalczania przestępczości zorganizowanej oraz szczególnie niebezpiecznych przestępstw, podpisana we Wrocławiu dnia 18 czerwca 2002 r. (Dz. U. z 2004 r. Nr 248, poz. 2486).
