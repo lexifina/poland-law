@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/578",
+ "source_sha256": "5cffb0a0f9aaa98ed995d767682b8e32770e25267ab48e99adddf6b3d5ac3c89",
+ "in_force": "2015-07-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/578",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/578/text/O/M20150578.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/578/text/I/M20150578.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/578",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 578,
+  "address": "WMP20150000578",
+  "displayAddress": "M.P. 2015 poz. 578",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 25 czerwca 2015 r. w sprawie wyboru Marszałka Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-06-25",
+  "promulgation": "2015-07-07",
+  "changeDate": "2019-07-08T11:26:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sejm",
+   "Marszałek Sejmu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 4 ust. 3"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150578.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150578.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
