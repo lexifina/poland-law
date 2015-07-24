@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1038",
+ "source_sha256": "6d29d9d083b84408296cfba8278f218fe0f9090ebe22cd6fddcb417cd40c6761",
+ "in_force": "2015-07-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 246 words, parsed 119; at 119: 'pierwsze Konstytucji , orzeka : I . Art . 129g'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1038",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1038/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1038/text/O/D20151038.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1038/text/I/D20151038.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1038/text/T/D20151038TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1038",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1038,
+  "address": "WDU20150001038",
+  "displayAddress": "Dz.U. 2015 poz. 1038",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 14 lipca 2015 r. sygn. akt K 2/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-07-14",
+  "promulgation": "2015-07-24",
+  "entryIntoForce": "2015-07-24",
+  "validFrom": "2015-07-24",
+  "changeDate": "2024-03-14T20:45:09",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2013/565",
+     "date": "2016-04-25"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/602",
+     "date": "2016-04-25"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1997/602"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151038.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151038.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151038TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
