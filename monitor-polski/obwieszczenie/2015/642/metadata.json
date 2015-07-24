@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/642",
+ "source_sha256": "7dc5be72c959fbf1a2a2159e8e43833456802f014d4c755499f17e7b1ef78141",
+ "in_force": "2015-07-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/642",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/642/text/O/M20150642.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/642/text/I/M20150642.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/642",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 642,
+  "address": "WMP20150000642",
+  "displayAddress": "M.P. 2015 poz. 642",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 16 lipca 2015 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w drugim kwartale 2015 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-07-16",
+  "promulgation": "2015-07-24",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/2135"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/2135",
+     "art": "art. 5 pkt 31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150642.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150642.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
