@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1091",
+ "source_sha256": "91b58baade2e51119a66960cb53ee0b21d677a4f0f3632e5d08f11f8a542c2da",
+ "in_force": "2015-08-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1091",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1091/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1091/text/O/D20151091.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1091/text/I/D20151091.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1091",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1091,
+  "address": "WDU20150001091",
+  "displayAddress": "Dz.U. 2015 poz. 1091",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 2 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie łódzkiej specjalnej strefy ekonomicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-07-02",
+  "promulgation": "2015-08-03",
+  "expirationDate": "2017-05-26",
+  "changeDate": "2024-03-14T20:45:43",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "specjalna strefa ekonomiczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1554"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151091.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151091.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
