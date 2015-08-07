@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1125",
+ "source_sha256": "60d66c35470a2030d030a2203c152b33abddb02af0d72a846bd744c0beb1f0e9",
+ "in_force": "2015-08-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1125",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1125/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1125/text/O/D20151125.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1125/text/I/D20151125.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1125/text/T/D20151125L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1125/text/U/D20151125Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1125/text/W/D20151125.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1125",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1125,
+  "address": "WDU20150001125",
+  "displayAddress": "Dz.U. 2015 poz. 1125",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dozorze technicznym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-07-20",
+  "promulgation": "2015-08-07",
+  "expirationDate": "2017-05-09",
+  "changeDate": "2024-03-14T20:45:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "dozór techniczny",
+   "techniczne służby",
+   "maszyny i urządzenia"
+  ],
+  "keywordsNames": [
+   "Urząd Dozoru Technicznego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 1 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1321"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151125.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151125.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151125L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151125Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151125.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
