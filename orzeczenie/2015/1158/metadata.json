@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1158",
+ "source_sha256": "af50b59cd79b4256a874168e9692b98ea7882b89db65be316289a8796978dc28",
+ "in_force": "2015-08-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 7568 words, parsed 86; at 86: '. , połączonych wniosków : I ) grupy posłów z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1158",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1158/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1158/text/O/D20151158.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1158/text/I/D20151158.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1158/text/T/D20151158TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1158",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1158,
+  "address": "WDU20150001158",
+  "displayAddress": "Dz.U. 2015 poz. 1158",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 31 lipca 2015 r. sygn. akt K 41/12",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-07-31",
+  "promulgation": "2015-08-13",
+  "entryIntoForce": "2015-08-13",
+  "validFrom": "2015-08-13",
+  "changeDate": "2024-03-14T20:57:09",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielcze kasy oszczędnościowo-kredytowe",
+   "nadzór"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2012/855",
+     "date": "2017-02-14"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2013/613"
+    },
+    {
+     "id": "DU/2012/855"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151158.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151158.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151158TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
