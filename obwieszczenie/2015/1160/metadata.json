@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1160",
+ "source_sha256": "915d30c9eeefe763786c844f1a3a5a76ba1a01b247a3405d4cbc618bed5b3d21",
+ "in_force": "2015-08-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1160",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1160/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1160/text/O/D20151160.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1160/text/I/D20151160.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1160/text/T/D20151160L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1160/text/U/D20151160Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1160/text/W/D20151160.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1160",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1160,
+  "address": "WDU20150001160",
+  "displayAddress": "Dz.U. 2015 poz. 1160",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rolniczych badaniach rynkowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-07-30",
+  "promulgation": "2015-08-13",
+  "changeDate": "2026-09-09T11:47:29",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "artykuły spożywcze",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/1154",
+     "date": "2026-07-17"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/471"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151160.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151160.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151160L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151160Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151160.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
