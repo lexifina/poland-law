@@ -1,0 +1,1 @@
+W hołdzie Ofiarom Obławy Augustowskiej z lipca 1945 roku - bohaterom antykomunistycznego podziemia niepodległościowego, którzy nie pogodzili się z nową sowiecką okupacją, zamordowanym z rozkazu Stalina na terenie północno-wschodniej Polski w czasie pokoju po kapitulacji hitlerowskich Niemiec - stanowi się, co następuje:
