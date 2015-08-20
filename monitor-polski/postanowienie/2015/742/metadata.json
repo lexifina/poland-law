@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/742",
+ "source_sha256": "5febc23094a3b994787e8aa1998cb70a34dc1c9e423451592612b778d0ef347e",
+ "in_force": "2015-08-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/742",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/742/text/O/M20150742.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/742/text/I/M20150742.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/742",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 742,
+  "address": "WMP20150000742",
+  "displayAddress": "M.P. 2015 poz. 742",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 27 kwietnia 2015 r. nr 112.12.2015 o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-04-27",
+  "promulgation": "2015-08-20",
+  "changeDate": "2018-01-16T15:10:27",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150742.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150742.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
