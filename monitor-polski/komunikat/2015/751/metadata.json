@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/751",
+ "source_sha256": "ef4f027342cf3440ab00cb316a083fd54bbf40d7a887d3fa2cc30b4898f9b1cf",
+ "in_force": "2015-08-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/751",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/751/text/O/M20150751.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/751/text/I/M20150751.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/751",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 751,
+  "address": "WMP20150000751",
+  "displayAddress": "M.P. 2015 poz. 751",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 18 sierpnia 2015 r. w sprawie wysokości wskaźnika kwartalnej waloryzacji składek na ubezpieczenie emerytalne, środków i odsetek za zwłokę, zewidencjonowanych na subkoncie za II kwartał 2015 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-08-18",
+  "promulgation": "2015-08-24",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 40d ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150751.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150751.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
