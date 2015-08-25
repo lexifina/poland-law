@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1222",
+ "source_sha256": "fe6783d65030033ea83026f1ce1cfd5b310e111c39c50f675793bc853ca27706",
+ "in_force": "2015-08-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1222",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1222/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1222/text/O/D20151222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1222/text/I/D20151222.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1222",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1222,
+  "address": "WDU20150001222",
+  "displayAddress": "Dz.U. 2015 poz. 1222",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 29 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-07-29",
+  "promulgation": "2015-08-25",
+  "repealDate": "2020-05-07",
+  "changeDate": "2024-03-14T20:54:23",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "doręczenia",
+   "dokumenty",
+   "cywilne postępowanie",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1277"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2020/819",
+     "date": "2020-05-07"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
