@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1234",
+ "source_sha256": "c0fb89fc233b7345d2707c0a128a370f7a8b93744a009abc6332e61f0d2c62ba",
+ "in_force": "2015-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1234",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1234/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1234/text/O/D20151234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1234/text/I/D20151234.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1234",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1234,
+  "address": "WDU20150001234",
+  "displayAddress": "Dz.U. 2015 poz. 1234",
+  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 5 sierpnia 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie określenia wzoru zgody przewozowej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-08-05",
+  "promulgation": "2015-08-26",
+  "changeDate": "2024-03-14T20:51:52",
+  "releasedBy": [
+   "MIN. SPRAW WEWNĘTRZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przewozowe prawo",
+   "broń, amunicja i materiały wybuchowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/1221"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
