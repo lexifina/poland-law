@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1299",
+ "source_sha256": "06770dbbf5a1aad1117136baa86c04cd3354fafaf1b162a235a08208b1fe2c8a",
+ "in_force": "2015-09-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1299",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1299/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1299/text/O/D20151299.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1299/text/I/D20151299.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1299",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1299,
+  "address": "WDU20150001299",
+  "displayAddress": "Dz.U. 2015 poz. 1299",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 4 sierpnia 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie powoływania do zawodowej służby wojskowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-08-04",
+  "promulgation": "2015-09-03",
+  "expirationDate": "2021-12-17",
+  "changeDate": "2024-03-14T20:49:59",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żołnierz zawodowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/265"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151299.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151299.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
