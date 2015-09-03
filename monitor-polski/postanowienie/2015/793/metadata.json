@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/793",
+ "source_sha256": "692004db1943975483a951e98bd191e9e6543163a8e7c77594173f07ef5314d5",
+ "in_force": "2015-09-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/793",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/793/text/O/M20150793.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/793/text/I/M20150793.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/793",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 793,
+  "address": "WMP20150000793",
+  "displayAddress": "M.P. 2015 poz. 793",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 sierpnia 2015 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 25 z siedzibą Okręgowej Komisji Wyborczej w Gdańsku",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-08-20",
+  "promulgation": "2015-09-03",
+  "changeDate": "2018-02-12T14:00:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150793.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150793.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
