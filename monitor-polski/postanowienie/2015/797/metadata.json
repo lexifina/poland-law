@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/797",
+ "source_sha256": "97fc7030105abf87b31bd0f9c6a24382b382e35a1ced02808b1d79d64875dafa",
+ "in_force": "2015-09-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/797",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/797/text/O/M20150797.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/797/text/I/M20150797.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/797",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 797,
+  "address": "WMP20150000797",
+  "displayAddress": "M.P. 2015 poz. 797",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 sierpnia 2015 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 12 z siedzibą Okręgowej Komisji Wyborczej w Krakowie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-08-18",
+  "promulgation": "2015-09-03",
+  "changeDate": "2018-02-12T13:59:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150797.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150797.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
