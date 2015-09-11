@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 4 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.) oraz art. 10 ust. 3 ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. poz. 567) zarządza się, co następuje:
