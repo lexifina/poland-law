@@ -1,0 +1,1 @@
+Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U z 2015 r. poz. 613, z późn. zm.) w związku z art. 2 ust. 6 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. Nr 154, poz. 792, z późn. zm.) zarządza się, co następuje:
