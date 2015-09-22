@@ -1,0 +1,1 @@
+Na podstawie art. 11a ust. 5 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 67, poz. 570, z późn. zm.) zarządza się, co następuje:
