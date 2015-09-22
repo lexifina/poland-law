@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1442",
+ "source_sha256": "05c49db2253fea98110062dc31363ecfea8e10976a843619f394db87cc074a6a",
+ "in_force": "2015-09-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 340 words, parsed 131; at 131: 'w ust . 4 : 1 ) wprowadzenie do wyliczenia'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1442",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1442/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1442/text/O/D20151442.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1442/text/I/D20151442.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1442/text/T/D20151442L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1442/text/W/D20151442.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1442",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1442,
+  "address": "WDU20150001442",
+  "displayAddress": "Dz.U. 2015 poz. 1442",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 września 2015 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-09-08",
+  "promulgation": "2015-09-22",
+  "changeDate": "2024-03-14T20:45:29",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2015/1242"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151442.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151442.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151442L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151442.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
