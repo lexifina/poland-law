@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1446",
+ "source_sha256": "2fbfec69e0bb4ee647996261d71f9cb1b85ac6fd6e4f6d3375d797f780b2e1d8",
+ "in_force": "2015-09-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1446",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1446/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1446/text/O/D20151446.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1446/text/I/D20151446.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1446/text/U/D20151446Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1446/text/W/D20151446.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1446",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1446,
+  "address": "WDU20150001446",
+  "displayAddress": "Dz.U. 2015 poz. 1446",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 sierpnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o narodowym zasobie archiwalnym i archiwach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-08-24",
+  "promulgation": "2015-09-23",
+  "expirationDate": "2016-09-19",
+  "changeDate": "2024-03-14T20:46:45",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1983/173"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151446.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151446.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151446Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151446.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
