@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1487",
+ "source_sha256": "f08c0253d965d0a6aea25e0c11ef5a9062f747cd28195c85ed76dd566e6c1689",
+ "in_force": "2015-09-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1487",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1487/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1487/text/O/D20151487.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1487/text/I/D20151487.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1487",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1487,
+  "address": "WDU20150001487",
+  "displayAddress": "Dz.U. 2015 poz. 1487",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 7 września 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-09-07",
+  "promulgation": "2015-09-29",
+  "changeDate": "2024-03-14T20:54:40",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "funkcjonariusz publiczny"
+  ],
+  "keywordsNames": [
+   "Służba Wywiadu Wojskowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/1295"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151487.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151487.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
