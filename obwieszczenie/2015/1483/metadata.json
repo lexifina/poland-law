@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1483",
+ "source_sha256": "c4b8ae3b5d858dcf59f9e041695999be40e4bc4d14e673ebbcecc8d22c545813",
+ "in_force": "2015-09-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1483",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1483/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1483/text/O/D20151483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1483/text/I/D20151483.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1483/text/T/D20151483L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1483/text/W/D20151483.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1483",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1483,
+  "address": "WDU20150001483",
+  "displayAddress": "Dz.U. 2015 poz. 1483",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 września 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o normalizacji",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-09-08",
+  "promulgation": "2015-09-29",
+  "changeDate": "2024-03-14T20:54:40",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "normalizacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1386"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151483.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151483L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151483.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
