@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1515",
+ "source_sha256": "8605a93c403e972efabd1f922d61f3ca87006d088cbb1f73d48a5a1cc95ad23e",
+ "in_force": "2015-10-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1515",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1515/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1515/text/O/D20151515.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1515/text/I/D20151515.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1515/text/T/D20151515L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1515/text/U/D20151515Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1515/text/W/D20151515.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1515",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1515,
+  "address": "WDU20150001515",
+  "displayAddress": "Dz.U. 2015 poz. 1515",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządzie gminnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-09-17",
+  "promulgation": "2015-10-01",
+  "expirationDate": "2016-03-17",
+  "changeDate": "2024-03-14T20:55:38",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/95"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151515.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151515.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151515L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151515Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151515.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
