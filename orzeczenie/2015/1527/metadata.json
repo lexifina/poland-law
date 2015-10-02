@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1527",
+ "source_sha256": "bd88d2b6dcc165bb4089c8667b9adf58201b142af4ced99ae7880b8d01381575",
+ "in_force": "2015-10-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 510 words, parsed 116; at 116: '2 Konstytucji , orzeka : I Art . 408 ustawy'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1527",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1527/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1527/text/O/D20151527.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1527/text/I/D20151527.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1527/text/T/D20151527TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1527",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1527,
+  "address": "WDU20150001527",
+  "displayAddress": "Dz.U. 2015 poz. 1527",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 22 września 2015 r. sygn. akt SK 21/14",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-09-22",
+  "promulgation": "2015-10-02",
+  "entryIntoForce": "2015-10-02",
+  "validFrom": "2015-10-02",
+  "changeDate": "2024-03-14T20:52:09",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona praw człowieka",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2017-04-03"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/284"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151527.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151527.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151527TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
