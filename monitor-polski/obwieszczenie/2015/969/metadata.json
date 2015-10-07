@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/969",
+ "source_sha256": "18ee3542ef24df886d3a5d8c509f4f07375605181ba8cddea6633e8116e13363",
+ "in_force": "2015-10-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/969",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/969/text/O/M20150969.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/969/text/I/M20150969.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/969",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 969,
+  "address": "WMP20150000969",
+  "displayAddress": "M.P. 2015 poz. 969",
+  "title": "Obwieszczenie Pierwszego Prezesa Sądu Najwyższego z dnia 29 września 2015 r. o liczbie, przewidzianych do objęcia, stanowisk sędziego Sądu Najwyższego",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-09-29",
+  "promulgation": "2015-10-07",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PIERWSZY PREZES SĄDU NAJWYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/2052"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/2052",
+     "art": "art. 24 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20150969.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20150969.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
