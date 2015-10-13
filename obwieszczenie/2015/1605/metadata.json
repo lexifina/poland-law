@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1605",
+ "source_sha256": "b059aaefebab0734e594c20ae6fd4b523b30feefdbf560bb46480108a591072d",
+ "in_force": "2015-10-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1605",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1605/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1605/text/O/D20151605.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1605/text/I/D20151605.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1605/text/T/D20151605L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1605/text/U/D20151605Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1605/text/W/D20151605.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1605",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1605,
+  "address": "WDU20150001605",
+  "displayAddress": "Dz.U. 2015 poz. 1605",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 września 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu mandatu posła i senatora",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-09-21",
+  "promulgation": "2015-10-13",
+  "expirationDate": "2016-08-28",
+  "changeDate": "2024-03-14T20:56:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "senatorowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1996/350"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151605.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151605.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151605L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151605Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151605.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
