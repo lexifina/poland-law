@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1022",
+ "source_sha256": "d33ad71d1c4e3a76cf6bda05d84b7d924122ef48bf858d851b0b8f8a07055049",
+ "in_force": "2015-10-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1022",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1022/text/O/M20151022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1022/text/I/M20151022.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1022",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1022,
+  "address": "WMP20150001022",
+  "displayAddress": "M.P. 2015 poz. 1022",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 października 2015 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w III kwartale 2015 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-15",
+  "promulgation": "2015-10-20",
+  "changeDate": "2020-10-20T09:38:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151022.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
