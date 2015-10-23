@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1042",
+ "source_sha256": "07e300ea05f6ccc2b3837976a9c99ecb5ed0b74a919f328ec6fc81d73a2312c7",
+ "in_force": "2015-10-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1042",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1042/text/O/M20151042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1042/text/I/M20151042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1042",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1042,
+  "address": "WMP20150001042",
+  "displayAddress": "M.P. 2015 poz. 1042",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 8 października 2015 r. w sprawie wyboru sędziego Trybunału Konstytucyjnego",
+  "type": "Uchwała",
+  "status": "brak mocy prawnej",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-08",
+  "promulgation": "2015-10-23",
+  "changeDate": "2016-08-04T09:06:56",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "brak mocy prawnej stwierdzony uchwałą Sejmu M.P. z 2015 r. poz. 1135",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2015/1064",
+     "art": "art. 17 ust. 2"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 194 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
