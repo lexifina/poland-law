@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1732",
+ "source_sha256": "61b378a95ad0845771b1def01241f631b59505d4af63b278ea60c35f3f986744",
+ "in_force": "2015-10-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 45881 words, parsed 52; at 52: '25 października 2015 r . Dział I . Dane zbiorcze'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1732",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1732/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1732/text/O/D20151732.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1732/text/I/D20151732.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1732",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1732,
+  "address": "WDU20150001732",
+  "displayAddress": "Dz.U. 2015 poz. 1732",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015 r. o wynikach wyborów do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-27",
+  "promulgation": "2015-10-28",
+  "changeDate": "2025-03-21T10:41:52",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 276"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151732.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151732.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
