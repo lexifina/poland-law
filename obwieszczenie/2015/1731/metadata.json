@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1731",
+ "source_sha256": "3e25e7c827b0ca0ba1cfca055e84c9f420e2a9098d07ebafa63d6a9a0d610759",
+ "in_force": "2015-10-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 87837 words, parsed 52; at 52: '25 października 2015 r . Dział I . Dane zbiorcze'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1731",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1731/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1731/text/O/D20151731.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1731/text/I/D20151731.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1731",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1731,
+  "address": "WDU20150001731",
+  "displayAddress": "Dz.U. 2015 poz. 1731",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015 r. o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-27",
+  "promulgation": "2015-10-28",
+  "changeDate": "2025-03-21T10:42:02",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 238"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "DU/2015/1768"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151731.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151731.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
