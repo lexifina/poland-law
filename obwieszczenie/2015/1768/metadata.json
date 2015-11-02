@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1768",
+ "source_sha256": "de175123db3c3fc4081e8e2c111173fed3cf377bbb134dce5c589a4afc4bba20",
+ "in_force": "2015-11-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1802 words, parsed 78; at 78: 'prostuje się następujące błędy : 1 ) w rozdziale 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1768",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1768/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1768/text/O/D20151768.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1768/text/I/D20151768.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1768",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1768,
+  "address": "WDU20150001768",
+  "displayAddress": "Dz.U. 2015 poz. 1768",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 29 października 2015 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-29",
+  "promulgation": "2015-11-02",
+  "changeDate": "2024-03-14T20:44:12",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "sprostowanie",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 238"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2015/1731"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151768.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151768.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
