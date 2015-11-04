@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1784",
+ "source_sha256": "a30ef363615b38d3577ba658b2144f5bbafaf767d44bfffe3bb7cd09325e3a82",
+ "in_force": "2015-11-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 488 words, parsed 156; at 156: '3 Konstytucji , orzeka : I Art . 27 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1784",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1784/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1784/text/O/D20151784.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1784/text/I/D20151784.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1784/text/T/D20151784TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1784",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1784,
+  "address": "WDU20150001784",
+  "displayAddress": "Dz.U. 2015 poz. 1784",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 28 października 2015 r. sygn. akt K 21/14",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-28",
+  "promulgation": "2015-11-04",
+  "entryIntoForce": "2015-11-04",
+  "validFrom": "2015-11-04",
+  "changeDate": "2024-03-14T20:51:20",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek dochodowy od osób fizycznych",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/350",
+     "date": "2016-11-30"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1991/350"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151784.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151784.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151784TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
