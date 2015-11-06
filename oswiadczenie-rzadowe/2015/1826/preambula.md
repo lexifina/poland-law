@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 20 marca 2015 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Naczelnym Dowództwem Sojuszniczych Sił w Europie (SHAPE) dotyczącej stacjonowania, statusu prawnego i wsparcia 3. Batalionu Łączności NATO (3NSB), elementu podporządkowanego Grupie Systemów Łączności i Informatyki NATO (NCISG) dyslokowanego w Rzeczypospolitej Polskiej, podpisanej w SHAPE dnia 17 września 2014 r. (Dz. U. poz. 685) Prezydent Rzeczypospolitej Polskiej dnia 21 lipca 2015 r. ratyfikował wyżej wymienioną umowę.
+
+Zgodnie z postanowieniem art. 12 ust. 1 niniejszej umowy weszła ona w życie dnia 21 sierpnia 2015 r.
