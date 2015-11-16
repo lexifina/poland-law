@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1881",
+ "source_sha256": "8e4e66cb9bf08b71e1254d1e62c27721dc4a8d86df35eb7f2d13920e997a1a29",
+ "in_force": "2015-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1881",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1881/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1881/text/O/D20151881.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1881/text/I/D20151881.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1881/text/T/D20151881L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1881/text/U/D20151881Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1881/text/W/D20151881.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1881",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1881,
+  "address": "WDU20150001881",
+  "displayAddress": "Dz.U. 2015 poz. 1881",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 października 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-10-22",
+  "promulgation": "2015-11-16",
+  "expirationDate": "2019-01-16",
+  "changeDate": "2024-03-14T20:53:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "prawo pracy",
+   "rejestry sądowe",
+   "związki zawodowe",
+   "wykroczenia",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/234"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151881.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151881.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151881L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151881Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151881.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
