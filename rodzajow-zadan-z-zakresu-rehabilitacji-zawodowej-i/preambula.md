@@ -1,0 +1,1 @@
+Na podstawie art. 36 ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.) zarządza się, co następuje:
