@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1102",
+ "source_sha256": "e00f4365d1ffd68a21e3e549890e848cd88b1d19432277f4c0ddd8a4a9aee010",
+ "in_force": "2015-11-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1102",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1102/text/O/M20151102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1102/text/I/M20151102.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1102",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1102,
+  "address": "WMP20150001102",
+  "displayAddress": "M.P. 2015 poz. 1102",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Miar z dnia 19 października 2015 r. w sprawie wykazu dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML)",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-19",
+  "promulgation": "2015-11-19",
+  "changeDate": "2026-10-08T12:42:55",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "normalizacja",
+   "normy"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32004L0022",
+    "date": "2004-03-31",
+    "title": "Dyrektywa 2004/22/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie przyrządów pomiarowych"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2007/27"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1360"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1360",
+     "art": "art. 13 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
