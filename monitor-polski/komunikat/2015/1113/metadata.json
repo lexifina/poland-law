@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1113",
+ "source_sha256": "c7a3f8471ed798f679d210c59b3fcfb99cb94e478288b98f5d194dba4e6bd8f0",
+ "in_force": "2015-11-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1113",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1113/text/O/M20151113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1113/text/I/M20151113.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1113",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1113,
+  "address": "WMP20150001113",
+  "displayAddress": "M.P. 2015 poz. 1113",
+  "title": "Komunikat Ministra Kultury i Dziedzictwa Narodowego z dnia 6 listopada 2015 r. o podjęciu przez Radę Ministrów uchwały zmieniającej uchwałę w sprawie ustanowienia programu wieloletniego \"Budowa Muzeum II Wojny Światowej w Gdańsku\"",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-06",
+  "promulgation": "2015-11-20",
+  "changeDate": "2020-09-15T11:03:50",
+  "releasedBy": [
+   "MIN. KULTURY I DZIEDZICTWA NARODOWEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "programy wieloletnie",
+   "muzea"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1658"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1658",
+     "art": "art. 19 ust. 7 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
