@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1114",
+ "source_sha256": "8bf8b2bec16b78fcca5d2f27be682e449db89d3f68e64a8cb3d4df6778c22bf4",
+ "in_force": "2015-11-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1114",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1114/text/O/M20151114.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1114/text/I/M20151114.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1114",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1114,
+  "address": "WMP20150001114",
+  "displayAddress": "M.P. 2015 poz. 1114",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 12 listopada 2015 r. w sprawie wyboru Marszałka Senatu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-12",
+  "promulgation": "2015-11-20",
+  "changeDate": "2019-07-08T11:26:40",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Marszałek Senatu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151114.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151114.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
