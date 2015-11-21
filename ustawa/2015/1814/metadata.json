@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1814",
+ "source_sha256": "dfcb68d47ab051f92ececff4684fd44c970a93467be6aac14bc8ca9063535c00",
+ "in_force": "2015-11-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1814",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1814/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1814/text/O/D20151814.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1814/text/I/D20151814.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1814/text/T/D20151814L.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1814/text/W/D20151814.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1814",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1814,
+  "address": "WDU20150001814",
+  "displayAddress": "Dz.U. 2015 poz. 1814",
+  "title": "Ustawa z dnia 25 września 2015 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-09-25",
+  "promulgation": "2015-11-06",
+  "entryIntoForce": "2015-11-21",
+  "validFrom": "2015-11-21",
+  "changeDate": "2024-03-14T20:52:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca",
+   "finansowanie",
+   "bezrobocie",
+   "kodeks pracy",
+   "zatrudnianie"
+  ],
+  "keywordsNames": [
+   "Fundusz Pracy"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=3465",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/3465",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/3465",
+    "number": "3465",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/1001",
+     "date": "2015-11-21"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2009/1240"
+    },
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151814.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151814.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151814L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151814.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
