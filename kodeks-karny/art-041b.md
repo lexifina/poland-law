@@ -1,6 +1,6 @@
 # Art. 41b.
 
-§ 1. Sąd może orzec zakaz wstępu na imprezę masową, jeżeli przestępstwo zostało popełnione w związku z taką imprezą, a udział sprawcy w imprezach masowych zagraża dobrom chronionym prawem. Sąd orzeka zakaz wstępu na imprezę masową w wypadkach wskazanych w ustawie.
+§ 1. Sąd może orzec zakaz wstępu na imprezę masową, jeżeli przestępstwo zostało popełnione w związku z taką imprezą lub w razie skazania za występek o charakterze chuligańskim, a udział sprawcy w imprezach masowych zagraża dobrom chronionym prawem. Sąd orzeka zakaz wstępu na imprezę masową w wypadkach wskazanych w ustawie.
 
 § 2. Zakaz wstępu na imprezę masową obejmuje wszelkie imprezy masowe na terytorium Rzeczypospolitej Polskiej oraz mecze piłki nożnej rozgrywane przez polską kadrę narodową lub polski klub sportowy poza terytorium Rzeczypospolitej Polskiej.
 
