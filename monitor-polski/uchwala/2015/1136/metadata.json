@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1136",
+ "source_sha256": "575a46855e3bcff3de79bd483a8e13343fbceb7263ed744bc832879cc9fc6505",
+ "in_force": "2015-11-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1136",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1136/text/O/M20151136.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1136/text/I/M20151136.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2015/1136/text/T/M20151136L.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1136",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1136,
+  "address": "WMP20150001136",
+  "displayAddress": "M.P. 2015 poz. 1136",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 listopada 2015 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+  "type": "Uchwała",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-26",
+  "promulgation": "2015-11-26",
+  "changeDate": "2026-05-07T10:33:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "regulamin organizacyjny"
+  ],
+  "keywordsNames": [
+   "Sejm",
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/1992/185",
+     "date": "2015-11-26"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151136.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151136.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20151136L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
