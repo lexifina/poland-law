@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1976",
+ "source_sha256": "85e1d60c98104fc752955bb0f1ac83073b61d198db2b068e737ed6daed925889",
+ "in_force": "2015-11-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 195 words, parsed 36; at 36: 'zm . ) w : 1 ) polskiej wersji językowej'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1976",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1976/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1976/text/O/D20151976.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1976/text/I/D20151976.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1976",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1976,
+  "address": "WDU20150001976",
+  "displayAddress": "Dz.U. 2015 poz. 1976",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 12 listopada 2015 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-12",
+  "promulgation": "2015-11-27",
+  "changeDate": "2024-03-14T20:54:32",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/443",
+     "art": "art. 18b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2012/991"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151976.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151976.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
