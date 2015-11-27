@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1982",
+ "source_sha256": "d299d40e6fcbcde032c2a54bef5dfbb8f1987eeb50031a80b00f8399df42542c",
+ "in_force": "2015-11-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 613 words, parsed 345; at 345: 'ze zm . ) : a ) jest zgodny z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1982",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1982/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1982/text/O/D20151982.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1982/text/I/D20151982.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1982/text/T/D20151982TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1982",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1982,
+  "address": "WDU20150001982",
+  "displayAddress": "Dz.U. 2015 poz. 1982",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 17 listopada 2015 r. sygn. akt K 5/15",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-17",
+  "promulgation": "2015-11-27",
+  "entryIntoForce": "2015-11-27",
+  "validFrom": "2015-11-27",
+  "changeDate": "2024-03-14T20:54:34",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks pracy"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1999/67"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1994/78"
+    },
+    {
+     "id": "DU/1993/284"
+    },
+    {
+     "id": "DU/1958/126"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1974/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151982.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151982.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151982TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
