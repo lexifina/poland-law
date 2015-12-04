@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1202",
+ "source_sha256": "777c6ce1fdc9b0cddc7c1310410070aec08a3dd2879e9ca55ba8037c58017c80",
+ "in_force": "2015-12-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1202",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1202/text/O/M20151202.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1202/text/I/M20151202.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1202",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1202,
+  "address": "WMP20150001202",
+  "displayAddress": "M.P. 2015 poz. 1202",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 25 listopada 2015 r. w sprawie wyboru posła członka Krajowej Rady Prokuratury",
+  "type": "Uchwała",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-11-25",
+  "promulgation": "2015-12-04",
+  "expirationDate": "2016-03-04",
+  "changeDate": "2016-03-10T13:10:01",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Prokuratury"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1985/138"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/1985/138",
+     "art": "art. 23 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151202.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151202.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
