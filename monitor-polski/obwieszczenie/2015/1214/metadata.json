@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1214",
+ "source_sha256": "f1cf02329c73cc21c08d058bd9169def5d669f2f53393158f97c62fda118289d",
+ "in_force": "2015-12-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1214",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1214/text/O/M20151214.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1214/text/I/M20151214.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1214",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1214,
+  "address": "WMP20150001214",
+  "displayAddress": "M.P. 2015 poz. 1214",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 27 listopada 2015 r. w sprawie wskaźnika cen dóbr inwestycyjnych za III kwartał 2015 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-27",
+  "promulgation": "2015-12-08",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/561"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/561",
+     "art": "art. 35 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151214.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151214.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
