@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2015/1232",
+ "source_sha256": "5dacbf3094e22c742dcc6ed2b03ecf1d92d280c20662390c0f669c650dc326fb",
+ "in_force": "2015-12-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2015/1232",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2015/1232/text/O/M20151232.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2015/1232/text/I/M20151232.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2015/1232",
+  "publisher": "MP",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1232,
+  "address": "WMP20150001232",
+  "displayAddress": "M.P. 2015 poz. 1232",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 grudnia 2015 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 21 z siedzibą Okręgowej Komisji Wyborczej w Opolu",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-12-07",
+  "promulgation": "2015-12-08",
+  "changeDate": "2018-02-12T13:54:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20151232.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20151232.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
