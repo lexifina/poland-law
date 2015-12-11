@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 19 listopada 2009 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej, Rządem Królestwa Danii i Rządem Republiki Federalnej Niemiec w sprawie zmian do Konwencji między Rządem Rzeczypospolitej Polskiej, Rządem Królestwa Danii i Rządem Republiki Federalnej Niemiec dotyczącej Wielonarodowego Korpusu Północno-Wschodniego, podpisanego w Szczecinie dnia 16 kwietnia 2009 r. (Dz. U. z 2010 r. Nr 7, poz. 42) Prezydent Rzeczypospolitej Polskiej dnia 22 marca 2010 r. ratyfikował wyżej wymienione porozumienie.
+
+Zgodnie z art. 2 ust. 1 porozumienia weszło ono w życie w stosunku do Rzeczypospolitej Polskiej i pozostałych państw-stron dnia 2 maja 2012 r.
