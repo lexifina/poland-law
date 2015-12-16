@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/2129",
+ "source_sha256": "1b410204d6a1b50305c05f3c85d75e79da950008cc2a68e6ff15d98d9f60ba16",
+ "in_force": "2015-12-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 776 words, parsed 69; at 69: 'posłów o zbadanie zgodności : 1 ) art . 3'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/2129",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/2129/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/2129/text/O/D20152129.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/2129/text/I/D20152129.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/2129/text/T/D20152129TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/2129",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 2129,
+  "address": "WDU20150002129",
+  "displayAddress": "Dz.U. 2015 poz. 2129",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 grudnia 2015 r. sygn. akt K 34/15",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-12-03",
+  "promulgation": "2015-12-16",
+  "entryIntoForce": "2015-12-16",
+  "validFrom": "2015-12-16",
+  "changeDate": "2024-03-14T20:49:05",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/1064",
+     "date": "2015-12-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2002/2052"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2015/1064"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20152129.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20152129.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20152129TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
