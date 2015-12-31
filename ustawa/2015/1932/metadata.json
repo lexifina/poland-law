@@ -1,0 +1,146 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1932",
+ "source_sha256": "c513380a328719af7b0f921d1f8b38a3b88f4031f232a692b03cf6a22f6f7846",
+ "in_force": "2015-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1932",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1932/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1932/text/O/D20151932.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1932/text/I/D20151932.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1932/text/T/D20151932L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1932/text/U/D20151932Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1932/text/W/D20151932.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1932",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1932,
+  "address": "WDU20150001932",
+  "displayAddress": "Dz.U. 2015 poz. 1932",
+  "title": "Ustawa z dnia 9 października 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-10-09",
+  "promulgation": "2015-11-23",
+  "entryIntoForce": "2015-12-31",
+  "validFrom": "2015-12-31",
+  "changeDate": "2024-04-25T10:01:24",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny skarbowy",
+   "podatki",
+   "karne skarbowe prawo",
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32003L0048",
+    "date": "2003-03-06",
+    "title": "Dyrektywa Rady 2003/48/WE z dnia 3 czerwca 2003 r. w sprawie opodatkowania dochodów z oszczędności w formie wypłacanych odsetek"
+   },
+   {
+    "address": "32011L0096",
+    "date": "2011-11-30",
+    "title": "DYREKTYWA RADY 2011/96/UE z dnia 30 listopada 2011 r. w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku spółek dominujących i spółek zależnych różnych państw członkowskich (wersja przekształcona)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=3697",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/3697",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/3697",
+    "number": "3697",
+    "term": 7
+   }
+  ],
+  "comments": "Daty wejścia w życie w poszczególnych przepisów w art. 14",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2014/1777",
+     "date": "2017-01-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2017/648",
+     "date": "2017-04-04"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/1479",
+     "date": "2015-11-24"
+    },
+    {
+     "id": "DU/2015/1321",
+     "date": "2015-11-24"
+    },
+    {
+     "id": "DU/1999/930",
+     "date": "2015-12-31"
+    },
+    {
+     "id": "DU/1997/926",
+     "date": "2015-12-31"
+    },
+    {
+     "id": "DU/1995/702",
+     "date": "2015-12-31"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2015-12-31"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2015-12-31"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151932.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151932.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151932L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151932Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151932.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
