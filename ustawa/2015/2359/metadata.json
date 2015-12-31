@@ -1,0 +1,106 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/2359",
+ "source_sha256": "8c2a00054a44b0e56142c4b436ee3cea4272bd7a7c0fb8976d78b005ee0004a4",
+ "in_force": "2015-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/2359",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/2359/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/2359/text/O/D20152359.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/2359/text/I/D20152359.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/2359/text/T/D20152359L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/2359/text/U/D20152359Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/2359/text/W/D20152359.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/2359",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 2359,
+  "address": "WDU20150002359",
+  "displayAddress": "Dz.U. 2015 poz. 2359",
+  "title": "Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o efektywności energetycznej",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-12-29",
+  "promulgation": "2015-12-31",
+  "entryIntoForce": "2015-12-31",
+  "validFrom": "2015-12-31",
+  "repealDate": "2016-10-01",
+  "changeDate": "2024-03-14T20:45:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "energetyczna gospodarka",
+   "energetyczne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=120",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/120",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/120",
+    "number": "120",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2016/831",
+     "date": "2016-10-01"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2016/831",
+     "date": "2016-10-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/551",
+     "date": "2015-12-31"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20152359.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20152359.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20152359L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20152359Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20152359.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
