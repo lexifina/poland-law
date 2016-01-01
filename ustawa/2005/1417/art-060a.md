@@ -1,0 +1,5 @@
+# Art. 60a.
+
+1. Jeżeli postępowanie wyjaśniające nie dostarczyło podstaw do sporządzenia wniosku o wszczęcie postępowania dyscyplinarnego, rzecznik dyscyplinarny wydaje postanowienie o umorzeniu postępowania wyjaśniającego.
+
+2. W postanowieniu o umorzeniu postępowania wyjaśniającego wskazuje się przyczyny umorzenia. Od postanowienia o umorzeniu postępowania wyjaśniającego nie przysługuje odwołanie.
