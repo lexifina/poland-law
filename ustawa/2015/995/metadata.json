@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/995",
+ "source_sha256": "99d4072498ea3e4e8c0e4e572e2e29f10d346854944388a5981bdcec7396a97c",
+ "in_force": "2016-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/995",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/995/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/995/text/O/D20150995.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/995/text/I/D20150995.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/995/text/T/D20150995L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/995/text/U/D20150995Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/995/text/W/D20150995.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/995",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 995,
+  "address": "WDU20150000995",
+  "displayAddress": "Dz.U. 2015 poz. 995",
+  "title": "Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach rodzinnych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-05-15",
+  "promulgation": "2015-07-17",
+  "entryIntoForce": "2016-01-01",
+  "validFrom": "2016-01-01",
+  "changeDate": "2024-03-14T20:53:09",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek rodzinny",
+   "świadczenia",
+   "zasiłki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=3291",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/3291",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/3291",
+    "number": "3291",
+    "term": 7
+   }
+  ],
+  "comments": "objęte tekstem jednolitym Dz. U. z 2016 r. poz. 1518 z wyj. art. 2",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2015/1735",
+     "date": "2015-11-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/2255",
+     "date": "2016-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150995.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150995.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150995L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20150995Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20150995.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
