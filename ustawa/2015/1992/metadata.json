@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1992",
+ "source_sha256": "f45090d7935a8e5ddb75f03141741c24a691d86f86dbc50cbf6547d108a07403",
+ "in_force": "2016-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1992",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1992/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1992/text/O/D20151992.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1992/text/I/D20151992.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1992/text/T/D20151992L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1992/text/U/D20151992Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/1992/text/W/D20151992.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1992",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1992,
+  "address": "WDU20150001992",
+  "displayAddress": "Dz.U. 2015 poz. 1992",
+  "title": "Ustawa z dnia 25 listopada 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-11-25",
+  "promulgation": "2015-11-30",
+  "entryIntoForce": "2016-01-01",
+  "validFrom": "2016-01-01",
+  "changeDate": "2024-03-14T20:51:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=22",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/22",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/22",
+    "number": "22",
+    "term": 8
+   }
+  ],
+  "comments": "objęte tekstem jednolitym Dz. U z 2016 r. poz. 2032 z wyj. art. 2",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2015/2299",
+     "date": "2016-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/350",
+     "date": "2016-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151992.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151992.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151992L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151992Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20151992.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
