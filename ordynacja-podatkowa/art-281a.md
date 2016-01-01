@@ -1,5 +1,7 @@
 # Art. 281a.
 
+(uchylony)
+
 § 1. Podatnicy, płatnicy, inkasenci oraz następcy prawni mogą, w formie pisemnej, wyznaczyć osobę fizyczną, która będzie upoważniona do ich reprezentowania w zakresie kontroli podatkowej, oraz zgłosić tę osobę naczelnikowi urzędu skarbowego właściwemu w sprawie opodatkowania podatkiem dochodowym, wójtowi, burmistrzowi (prezydentowi miasta). W przypadku wyznaczenia więcej niż jednej osoby, przepis art. 145 § 3 stosuje się odpowiednio.
 
 § 2. Jeżeli upoważnienie nie stanowi inaczej, przyjmuje się, że osoba wyznaczona jest uprawniona do działania w zakresie odbioru zawiadomienia o zamiarze wszczęcia kontroli podatkowej, wyrażenia zgody, o której mowa w art. 282b § 3, odbioru upoważnienia do przeprowadzenia kontroli podatkowej, zakończenia kontroli podatkowej, złożenia wyjaśnień i zastrzeżeń do protokołu kontroli oraz wszystkich czynności kontrolnych.

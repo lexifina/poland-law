@@ -10,8 +10,12 @@
 
 § 2a. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej oraz zawiadomienie o odwołaniu tego pełnomocnictwa podatnik, płatnik lub inkasent składa naczelnikowi urzędu skarbowego właściwemu w sprawach ewidencji podatników i płatników.
 
+§ 2b. Pełnomocnictwo do podpisywania deklaracji oraz zawiadomienie o odwołaniu tego pełnomocnictwa może być złożone w formie dokumentu elektronicznego.
+
+§ 2c. Pełnomocnictwo do podpisywania deklaracji oraz zawiadomienie o odwołaniu tego pełnomocnictwa składane w formie dokumentu elektronicznego podatnik, płatnik lub inkasent składa do ministra właściwego do spraw finansów publicznych.
+
 § 3. Jeżeli przepisy prawa podatkowego wymagają podpisania deklaracji przez więcej niż jedną osobę, pełnomocnictwo do podpisania tej deklaracji jest skuteczne, jeżeli udzieliły go wszystkie osoby.
 
 § 4. W kwestiach dotyczących pełnomocnictwa do podpisywania deklaracji stosuje się odpowiednio przepisy dotyczące pełnomocnictwa w postępowaniu podatkowym.
 
-§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór pełnomocnictwa do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej oraz wzór zawiadomienia o odwołaniu tego pełnomocnictwa, uwzględniając zakres pełnomocnictwa i dane identyfikujące podatnika, płatnika lub inkasenta oraz pełnomocnika.
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory pełnomocnictw do podpisywania deklaracji i wzory zawiadomienia o zmianie lub odwołaniu tych pełnomocnictw, uwzględniając zakres pełnomocnictwa i dane identyfikujące podatnika, płatnika lub inkasenta oraz pełnomocnika, a także mając na celu uproszczenie zgłaszania pełnomocnictwa oraz pewność ustalenia zakresu działania pełnomocnika.

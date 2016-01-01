@@ -36,10 +36,10 @@
 
 § 2. Ulgi w spłacie zobowiązań podatkowych, o których mowa w art. 67a, w przypadku wymienionym w § 1 pkt 3 lit. a, mogą być udzielane jako pomoc indywidualna albo w ramach programów pomocowych określonych w odrębnych przepisach.
 
-§ 3. Ulgi w spłacie zobowiązań podatkowych, o których mowa w art. 67a, w przypadkach wymienionych w § 1 pkt 3 lit. b-g oraz lit. i-l mogą być udzielane jako pomoc indywidualna zgodna z programami rządowymi lub samorządowymi albo udzielane w ramach programów pomocowych określonych w odrębnych przepisach.
+§ 3. Ulgi w spłacie zobowiązań podatkowych, o których mowa w art. 67a, w przypadkach wymienionych w § 1 pkt 3 lit. b-l mogą być udzielane jako pomoc indywidualna zgodna z programami rządowymi lub samorządowymi albo udzielane w ramach programów pomocowych określonych w odrębnych przepisach.
 
-§ 4. Ulgi w spłacie zobowiązań podatkowych, o których mowa w art. 67a, w przypadku wymienionym w § 1 pkt 3 lit. h mogą być udzielane po spełnieniu szczegółowych warunków określonych na podstawie § 5.
+§ 4. (uchylony)
 
-§ 5. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki udzielania ulg w spłacie zobowiązań podatkowych, o których mowa w art. 67a, w przypadku wymienionym w § 1 pkt 3 lit. h wraz ze wskazaniem przypadków, w których ulgi są udzielane jako pomoc indywidualna, mając na uwadze dopuszczalne przeznaczenia i warunki udzielania pomocy państwa określone w przepisach prawa wspólnotowego.
+§ 5. (uchylony)
 
 § 6. Rada Ministrów może określić, w drodze rozporządzeń, inne niż określone w § 1 pkt 3 lit. a-l, przeznaczenia pomocy udzielanej w formie ulg w spłacie zobowiązań podatkowych, o których mowa w art. 67a, oraz szczegółowe warunki udzielania tych ulg dla określonych przez Radę Ministrów przeznaczeń wraz ze wskazaniem przypadków, w których ulgi udzielane są jako pomoc indywidualna, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone w przepisach prawa wspólnotowego.

@@ -6,6 +6,12 @@
 
 § 1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, dokonując w szczególności ich interpretacji, z urzędu lub na wniosek, przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego lub Europejskiego Trybunału Sprawiedliwości (interpretacje ogólne); wnioskodawcą nie może być organ administracji publicznej.
 
+§ 1a. Interpretacja ogólna powinna zawierać w szczególności:
+
+- 1) opis zagadnienia, w związku z którym jest dokonywana interpretacja przepisów prawa podatkowego;
+
+- 2) wyjaśnienie zakresu oraz sposobu stosowania interpretowanych przepisów prawa podatkowego do opisanego zagadnienia wraz z uzasadnieniem prawnym.
+
 § 2. Wniosek o wydanie interpretacji ogólnej powinien zawierać uzasadnienie konieczności wydania interpretacji ogólnej, w szczególności:
 
 - 1) przedstawienie zagadnienia oraz wskazanie przepisów prawa podatkowego wymagających wydania interpretacji ogólnej;
@@ -28,7 +34,7 @@
 
 § 8. Opłata podlega zwrotowi wyłącznie w przypadku wydania interpretacji ogólnej. Zwrot opłaty następuje w terminie 7 dni od dnia opublikowania interpretacji ogólnej.
 
-§ 9. W sprawach dotyczących wydawania interpretacji ogólnych na wniosek przepisy art. 14d, art. 14f, art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135-137, art. 140, art. 143, art. 165 § 3b, art. 165a, art. 168, art. 169 § 1-2, art. 170 i art. 171 oraz przepisy rozdziału 5, 6, 10 i 23 działu IV stosuje się odpowiednio.
+§ 9. W sprawach dotyczących wydawania interpretacji ogólnych na wniosek przepisy art. 14d, art. 14f, art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1-2 i 4, art. 170 i art. 171 oraz przepisy rozdziałów 3a, 5, 6, 7, 10 i 23 działu IV stosuje się odpowiednio.
 
 § 10. Minister właściwy do spraw finansów publicznych w celu usprawnienia obsługi wnioskodawców może, w drodze rozporządzenia, upoważnić podległe organy do wydawania, jako organ pierwszej instancji, postanowień o których mowa w § 5, oraz wykonywania czynności, o których mowa w § 7, określając jednocześnie właściwość rzeczową oraz miejscową upoważnionych organów.
 

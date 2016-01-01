@@ -8,7 +8,7 @@
 
 - 3) wyrazi zgodę na doręczanie pism za pomocą środków komunikacji elektronicznej i wskaże organowi podatkowemu adres elektroniczny.
 
-§ 1a. Wystąpienie organu podatkowego o wyrażenie zgody, o której mowa w § 1 pkt 3, może nastąpić za pomocą środków komunikacji elektronicznej i zostać przesłane stronie na jej adres elektroniczny lub na portal podatkowy. Art. 152a § 1-5 nie stosuje się.
+§ 1a. Wystąpienie organu podatkowego o wyrażenie zgody, o której mowa w § 1 pkt 3, może nastąpić za pomocą środków komunikacji elektronicznej i zostać przesłane stronie przez portal podatkowy lub na jej adres elektroniczny. Przepisów art. 152a § 1-5 nie stosuje się.
 
 § 1b. Strona ma prawo do rezygnacji z doręczania pism za pomocą środków komunikacji elektronicznej. W takim przypadku organ podatkowy doręcza pismo w sposób określony dla pisma w formie innej niż forma dokumentu elektronicznego.
 

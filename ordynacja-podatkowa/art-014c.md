@@ -1,6 +1,6 @@
 # Art. 14c.
 
-§ 1. Interpretacja indywidualna zawiera ocenę stanowiska wnioskodawcy wraz z uzasadnieniem prawnym tej oceny. Można odstąpić od uzasadnienia prawnego, jeżeli stanowisko wnioskodawcy jest prawidłowe w pełnym zakresie.
+§ 1. Interpretacja indywidualna zawiera wyczerpujący opis przedstawionego we wniosku stanu faktycznego lub zdarzenia przyszłego oraz ocenę stanowiska wnioskodawcy wraz z uzasadnieniem prawnym tej oceny. Można odstąpić od uzasadnienia prawnego, jeżeli stanowisko wnioskodawcy jest prawidłowe w pełnym zakresie.
 
 § 2. W razie negatywnej oceny stanowiska wnioskodawcy interpretacja indywidualna zawiera wskazanie prawidłowego stanowiska wraz z uzasadnieniem prawnym.
 

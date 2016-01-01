@@ -2,6 +2,8 @@
 
 § 1. Organ podatkowy na wniosek podatnika wydaje zaświadczenie o wysokości jego dochodu lub obrotu.
 
+§ 1a. W razie śmierci podatnika zaświadczenie, o którym mowa w § 1, wydaje się na wniosek wstępnego, zstępnego lub małżonka, którzy uprawdopodobnią, że mogą być spadkobiercami.
+
 § 2. W zaświadczeniach dotyczących wysokości dochodu lub obrotu stwierdza się wyłącznie, czy wnioskodawca jest lub nie jest podatnikiem:
 
 - 1) podatku od towarów i usług oraz podatku akcyzowego, z określeniem wysokości obrotu;

@@ -2,9 +2,9 @@
 
 § 1. Zwrot nadpłaty następuje:
 
-- 1) na wskazany rachunek bankowy podatnika, płatnika lub inkasenta obowiązanego do posiadania rachunku bankowego;
+- 1) w przypadku gdy podatnik, płatnik lub inkasent jest obowiązany do posiadania rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, wyłącznie na ten rachunek wskazany przez podatnika, płatnika lub inkasenta;
 
-- 2) w gotówce, jeżeli podatnik, płatnik lub inkasent nie są obowiązani do posiadania rachunku bankowego, chyba że zażądają zwrotu nadpłaty na rachunek bankowy.
+- 2) w przypadku gdy podatnik, płatnik lub inkasent nie jest obowiązany do posiadania rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na wskazany rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej podatnika, płatnika lub inkasenta albo przekazem pocztowym, chyba że podatnik, płatnik lub inkasent zażądają zwrotu nadpłaty w kasie.
 
 § 2. Za dzień zwrotu nadpłaty uważa się dzień:
 
@@ -14,8 +14,14 @@
 
 - 3) wypłacenia kwoty nadpłaty przez organ podatkowy lub postawienia nadpłaty do dyspozycji podatnika w kasie.
 
-§ 3. Nadpłata, której wysokość nie przekracza kosztów upomnienia w postępowaniu egzekucyjnym, podlega zwrotowi wyłącznie w kasie.
+§ 3. Nadpłata, której wysokość nie przekracza dwukrotności kosztów upomnienia w postępowaniu egzekucyjnym, jeżeli nie wskazano rachunku, na który ma zostać zwrócona, podlega zwrotowi w kasie.
 
 § 4. Nadpłata zwracana przekazem pocztowym jest pomniejszana o koszty jej zwrotu.
 
-§ 5. Przepisy § 1-4 stosuje się odpowiednio do osób, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki.
+§ 5. Przepisy § 1-4 stosuje się odpowiednio do:
+
+- 1) następców prawnych i osób trzecich;
+
+- 2) osób, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki;
+
+- 3) spółek, które tworzyły podatkową grupę kapitałową w rozumieniu przepisów o podatku dochodowym od osób prawnych w chwili utraty przez tę podatkową grupę kapitałową statusu podatnika.

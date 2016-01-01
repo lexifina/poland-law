@@ -1,25 +1,19 @@
 # Art. 20i.
 
-§ 1. W sprawach o uznanie prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi wydaje się decyzję, zwaną dalej „decyzją w sprawie porozumienia”.
+§ 1. (uchylony)
 
-§ 2. Decyzję w sprawie porozumienia doręcza się podmiotom powiązanym (krajowym i zagranicznym), z którymi mają być dokonywane transakcje, a w przypadku porozumień dwustronnych lub wielostronnych - również władzom podatkowym właściwym dla podmiotów zagranicznych oraz naczelnikowi urzędu skarbowego i dyrektorowi urzędu kontroli skarbowej właściwym dla wnioskodawcy oraz właściwym dla podmiotów krajowych powiązanych z wnioskodawcą będących stronami transakcji objętej decyzją w sprawie porozumienia.
+§ 1a. Decyzja w sprawie porozumienia nie może dotyczyć okresu sprzed dnia złożenia wniosku.
 
-§ 3. Decyzja w sprawie porozumienia zawiera w szczególności:
+§ 2. Organ właściwy w sprawie porozumienia niezwłocznie doręcza odpis decyzji, o której mowa w § 6 i w art. 20a § 3, również podmiotowi powiązanemu z wnioskodawcą, wskazanemu w decyzji w sprawie porozumienia.
 
-- 1) oznaczenie podmiotów objętych porozumieniem;
+§ 2a. Decyzję, o której mowa w § 6 i w art. 20a § 3, doręcza się naczelnikowi urzędu skarbowego i dyrektorowi urzędu kontroli skarbowej właściwym dla podmiotów krajowych, o których mowa w art. 20a.
 
-- 2) wskazanie wartości transakcji objętych porozumieniem;
-
-- 3) wskazanie rodzaju, przedmiotu transakcji objętych porozumieniem oraz okresu, którego ono dotyczy;
-
-- 4) wskazanie metody ustalania ceny transakcyjnej, algorytmu kalkulacji ceny oraz innych reguł stosowania metody;
-
-- 5) określenie istotnych warunków będących podstawą stosowania metody, o której mowa w pkt 4, z uwzględnieniem podziału ryzyka, pełnionych funkcji przez podmioty oraz marży realizowanej przez podmioty, o których mowa w pkt 1;
-
-- 6) termin obowiązywania decyzji.
+§ 3. (uchylony)
 
 § 4. Termin obowiązywania decyzji w sprawie porozumienia nie może być dłuższy niż 5 lat.
 
-§ 5. Termin obowiązywania decyzji w sprawie porozumienia może być przedłużany na kolejne pięcioletnie okresy na wniosek podmiotu powiązanego, złożony nie później niż na 6 miesięcy przed upływem tego terminu, jeżeli kryteria uznanej w tej decyzji metody ustalania ceny transakcyjnej między podmiotami powiązanymi nie uległy zmianie.
+§ 5. Decyzja, o której mowa w § 6 i w art. 20a § 3, może być odnawiana na kolejne okresy, nie dłuższe niż 5 lat, na wniosek podmiotu krajowego, o którym mowa w art. 20a, jeżeli elementy decyzji, o której mowa w § 6 i w art. 20a § 3, nie uległy istotnej zmianie. Wniosek w sprawie odnowienia decyzji powinien być złożony nie później niż na 6 miesięcy przed upływem okresu obowiązywania decyzji, o której mowa w § 6 i w art. 20a § 3, i powinien zawierać opis zmian elementów tej decyzji wraz z uzasadnieniem.
 
-§ 6. Przedłużenie terminu obowiązywania decyzji w sprawie porozumienia następuje w drodze decyzji.
+§ 6. Odnowienie decyzji w sprawie porozumienia następuje w drodze decyzji.
+
+§ 7. Początkiem terminu obowiązywania decyzji, o której mowa w § 6, jest dzień następujący po dniu, w którym upłynął termin obowiązywania odpowiednio decyzji, o której mowa w § 6 lub art. 20a § 3.

@@ -4,7 +4,7 @@
 
 § 2. Przed wydaniem zaświadczeń, o których mowa w § 1, ustala się, czy w stosunku do wnioskodawcy nie jest prowadzone postępowanie mające na celu ustalenie lub określenie wysokości jego zobowiązań podatkowych. Jeżeli takie postępowanie jest prowadzone i zgromadzony materiał dowodowy pozwala na jego zakończenie, powinna być niezwłocznie wydana decyzja ustalająca lub określająca wysokość zobowiązań podatkowych, w celu wykazania ich w zaświadczeniu.
 
-§ 3. Nie można odmówić wydania zaświadczenia, jeżeli nie jest możliwe zakończenie postępowania, o którym mowa w § 2, przed upływem terminu określonego w art. 306a § 5. Wydając zaświadczenie, organ podaje informacje o prowadzonym postępowaniu.
+§ 3. Nie można odmówić wydania zaświadczenia, jeżeli nie jest możliwe doręczenie decyzji kończącej postępowanie podatkowe, o którym mowa w § 2, przed upływem terminu określonego w art. 306a § 5. Wydając zaświadczenie, organ podaje informację o prowadzonym postępowaniu lub jego zakończeniu.
 
 § 4. Na żądanie wnioskodawcy w zaświadczeniu podaje się także informacje:
 
@@ -25,3 +25,5 @@
 § 5. Jeżeli zapłata zaległości podatkowej wraz z odsetkami za zwłokę została odroczona lub rozłożona na raty, uznaje się, że podatnik, płatnik lub inkasent, do dnia upływu terminów, o których mowa w art. 49 § 1, nie posiada zaległości podatkowych.
 
 § 6. W zakresie, o którym mowa w art. 239d, uznaje się, że do czasu wydania ostatecznej decyzji nie istnieje zaległość podatkowa.
+
+§ 7. Przepisy § 1-3 i 5 stosuje się odpowiednio w zakresie odsetek za zwłokę, o których mowa w art. 53a.

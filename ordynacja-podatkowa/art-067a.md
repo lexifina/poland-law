@@ -8,7 +8,7 @@
 
 - 1) odroczyć termin płatności podatku lub rozłożyć zapłatę podatku na raty;
 
-- 2) odroczyć lub rozłożyć na raty zapłatę zaległości podatkowej wraz z odsetkami za zwłokę lub odsetki określone w decyzji, o której mowa w art. 53a;
+- 2) odroczyć lub rozłożyć na raty zapłatę zaległości podatkowej wraz z odsetkami za zwłokę lub odsetki od nieuregulowanych w terminie zaliczek na podatek;
 
 - 3) umorzyć w całości lub w części zaległości podatkowe, odsetki za zwłokę lub opłatę prolongacyjną.
 

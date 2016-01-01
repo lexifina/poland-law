@@ -7,3 +7,5 @@
 - 1) sprawie stwierdzenia nieważności, stwierdzenia wygaśnięcia, uchylenia lub zmiany decyzji ostatecznej lub wznowienia postępowania w sprawie zakończonej decyzją ostateczną;
 
 - 2) związku z uchyleniem lub stwierdzeniem nieważności decyzji przez sąd administracyjny.
+
+- 3) sprawie stwierdzenia nadpłaty.

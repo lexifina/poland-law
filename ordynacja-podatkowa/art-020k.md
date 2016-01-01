@@ -1,6 +1,6 @@
 # Art. 20k.
 
-§ 1. W przypadku zmiany stosunków gospodarczych powodującej rażącą nieadekwatność wyboru i stosowania uznanej za prawidłową metody ustalania ceny transakcyjnej, decyzja w sprawie porozumienia może być zmieniona lub uchylona przez organ właściwy w sprawie porozumienia przed upływem ustalonego terminu jej obowiązywania. Zmiana lub uchylenie decyzji następuje na wniosek strony lub z urzędu.
+§ 1. W przypadku zmiany stosunków gospodarczych powodującej rażącą nieadekwatność wyboru metody ustalania ceny transakcyjnej lub warunków, o której mowa w art. 20a, decyzja w sprawie porozumienia oraz decyzja, o której mowa w art. 20i § 6, może być zmieniona lub uchylona przez organ właściwy w sprawie porozumienia przed upływem ustalonego okresu jej obowiązywania. Zmiana lub uchylenie decyzji następuje na wniosek strony lub z urzędu.
 
 § 2. Postępowanie wszczęte na wniosek strony:
 

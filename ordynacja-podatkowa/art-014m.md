@@ -8,11 +8,11 @@
 
 § 2. Zwolnienie, o którym mowa w § 1, obejmuje:
 
-- 1) w przypadku rocznego rozliczenia podatków - okres do końca roku podatkowego, w którym opublikowano zmienioną interpretację ogólną, doręczono zmienioną interpretację indywidualną albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego interpretację indywidualną ze stwierdzeniem jego prawomocności;
+- 1) w przypadku rocznego rozliczenia podatków - okres do końca roku podatkowego, w którym opublikowano zmienioną interpretację ogólną, doręczono zmienioną interpretację indywidualną lub stwierdzono jej wygaśnięcie albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego interpretację indywidualną ze stwierdzeniem jego prawomocności;
 
-- 2) w przypadku kwartalnego rozliczenia podatków - okres do końca kwartału, w którym opublikowano zmienioną interpretację ogólną, doręczono zmienioną interpretację indywidualną albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego interpretację indywidualną ze stwierdzeniem jego prawomocności, oraz kwartał następny;
+- 2) w przypadku kwartalnego rozliczenia podatków - okres do końca kwartału, w którym opublikowano zmienioną interpretację ogólną, doręczono zmienioną interpretację indywidualną lub stwierdzono jej wygaśnięcie albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego interpretację indywidualną ze stwierdzeniem jego prawomocności, oraz kwartał następny;
 
-- 3) w przypadku miesięcznego rozliczenia podatków - okres do końca miesiąca, w którym opublikowano zmienioną interpretację ogólną, doręczono zmienioną interpretację indywidualną albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego interpretację indywidualną ze stwierdzeniem jego prawomocności, oraz miesiąc następny.
+- 3) w przypadku miesięcznego rozliczenia podatków - okres do końca miesiąca, w którym opublikowano zmienioną interpretację ogólną, doręczono zmienioną interpretację indywidualną lub stwierdzono jej wygaśnięcie albo doręczono organowi podatkowemu odpis orzeczenia sądu administracyjnego uchylającego interpretację indywidualną ze stwierdzeniem jego prawomocności, oraz miesiąc następny.
 
 § 3. Na wniosek podatnika, który zastosował się do interpretacji, w decyzji określającej lub ustalającej wysokość zobowiązania podatkowego organ podatkowy określa również wysokość podatku objętego zwolnieniem, o którym mowa w § 1, albo - w przypadku uiszczenia podatku w zakresie objętym tym zwolnieniem - określa wysokość nadpłaty.
 

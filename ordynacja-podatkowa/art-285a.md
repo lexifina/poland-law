@@ -4,6 +4,6 @@
 
 § 2. Przepis § 1 stosuje się również w przypadku, gdy kontrolowany prowadzi działalność w lokalu mieszkalnym.
 
-§ 3. Jeżeli zachodzi uzasadnione przypuszczenie, że kontrolowany będący osobą fizyczną nie ujawnił wszystkich obrotów lub przychodów mających znaczenie dla określenia lub ustalenia wysokości zobowiązania podatkowego, kontrolujący może zwrócić się do kontrolowanego o złożenie oświadczenia o stanie majątkowym na określony dzień. Oświadczenie to składane jest pod rygorem odpowiedzialności karnej za fałszywe zeznania. Kontrolujący, zwracając się o złożenie oświadczenia, uprzedza kontrolowanego o odpowiedzialności karnej za fałszywe zeznania.
+§ 3. (uchylony)
 
-§ 4. Przepis § 3 stosuje się odpowiednio do osób fizycznych będących wspólnikami kontrolowanej spółki nieposiadającej osobowości prawnej.
+§ 4. (uchylony)
