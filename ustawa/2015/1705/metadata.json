@@ -1,0 +1,124 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/1705",
+ "source_sha256": "150c03df8cd1144410d476259effcbd009364c3ef5ba4626f8eab2c897b1b617",
+ "in_force": "2016-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/1705",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/1705/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/1705/text/O/D20151705.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/1705/text/I/D20151705.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/1705/text/T/D20151705L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/1705/text/U/D20151705Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2015/1705",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 1705,
+  "address": "WDU20150001705",
+  "displayAddress": "Dz.U. 2015 poz. 1705",
+  "title": "Ustawa z dnia 11 września 2015 r. o osobach starszych",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-09-11",
+  "promulgation": "2015-10-26",
+  "entryIntoForce": "2016-01-01",
+  "validFrom": "2016-01-01",
+  "repealDate": "2026-08-07",
+  "changeDate": "2026-08-07T08:39:21",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "socjalna działalność",
+   "położne",
+   "pomoc społeczna",
+   "finansowanie",
+   "opieka zdrowotna",
+   "pielęgniarstwo",
+   "niepełnosprawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=3838",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/3838",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/3838",
+    "number": "3838",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2026/986",
+     "date": "2026-08-07"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/509"
+    },
+    {
+     "id": "DU/2016/1530"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/160",
+     "date": "2026-02-27"
+    },
+    {
+     "id": "DU/2024/834",
+     "date": "2024-07-01"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2026/921"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/1997/776"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20151705.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20151705.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20151705L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20151705Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
