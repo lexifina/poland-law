@@ -1,0 +1,1 @@
+Na podstawie art. 23 ust. 3 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. z 2014 r. poz. 1077 oraz z 2015 r. poz. 1844) zarządza się, co następuje:
