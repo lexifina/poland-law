@@ -1,0 +1,3 @@
+# § 1c.
+
+Wyznacza się Dyrektora Izby Celnej w Szczecinie właściwego na terytorium całego kraju do wykonywania zadań wierzyciela w odniesieniu do obowiązków wynikających z wydanych przez naczelnika urzędu celnego decyzji, postanowień lub mandatów karnych, z przyjętych przez naczelnika urzędu celnego zgłoszeń celnych, deklaracji, informacji o opłacie paliwowej albo informacji o dopłatach, z wydanych przez dyrektora izby celnej decyzji lub postanowień, z wydanych przez dyrektora urzędu kontroli skarbowej decyzji w zakresie podatku akcyzowego oraz podatku od wydobycia niektórych kopalin, a także z orzeczeń sądowych, których wykonanie następuje w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599 i 868).
