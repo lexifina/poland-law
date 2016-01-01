@@ -1,0 +1,122 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2015/699",
+ "source_sha256": "c8e7666502c8e47fe7bfac93d17e497296dc2ed831f586aebd0631e80b1e6a64",
+ "in_force": "2016-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2015/699",
+  "html": "https://eli.gov.pl/api/acts/DU/2015/699/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2015/699/text/O/D20150699.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2015/699/text/I/D20150699.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2015/699/text/T/D20150699L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2015/699/text/U/D20150699Lj.pdf",
+  "pdf-W": "https://eli.gov.pl/api/acts/DU/2015/699/text/W/D20150699.docx"
+ },
+ "metadata": {
+  "ELI": "DU/2015/699",
+  "publisher": "DU",
+  "year": 2015,
+  "volume": 0,
+  "pos": 699,
+  "address": "WDU20150000699",
+  "displayAddress": "Dz.U. 2015 poz. 699",
+  "title": "Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-04-09",
+  "promulgation": "2015-05-20",
+  "entryIntoForce": "2016-01-01",
+  "validFrom": "2016-01-01",
+  "changeDate": "2024-03-14T20:45:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ryczałt podatkowy",
+   "działalność gospodarcza",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=1640",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/1640",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/1640",
+    "number": "1640",
+    "term": 7
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2015/1595",
+     "date": "2015-10-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/1807",
+     "date": "2016-01-01"
+    },
+    {
+     "id": "DU/1998/930",
+     "date": "2016-01-01"
+    },
+    {
+     "id": "DU/1997/926",
+     "date": "2016-01-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2016-01-01"
+    },
+    {
+     "id": "DU/1991/31",
+     "date": "2016-01-01"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2011/690"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20150699.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20150699.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20150699L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20150699Lj.pdf",
+    "type": "U"
+   },
+   {
+    "fileName": "D20150699.docx",
+    "type": "W"
+   }
+  ]
+ }
+}
