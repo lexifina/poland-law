@@ -1,0 +1,3 @@
+# Art. 2a.
+
+Koszty realizacji zadań ministra właściwego do spraw Skarbu Państwa, określonych w art. 2 pkt 3-9, w szczególności koszty realizacji zadań tego ministra z zakresu restrukturyzacji przeznaczonych do prywatyzacji przedsiębiorstw państwowych lub spółek z udziałem Skarbu Państwa, gospodarowania oraz rozporządzania mieniem Skarbu Państwa - w tym mieniem innym niż akcje albo przedsiębiorstwo - mogą być pokrywane ze środków Funduszu Restrukturyzacji Przedsiębiorców i Funduszu Skarbu Państwa, o których mowa w art. 56 ust. 1 pkt 2 i 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji.
