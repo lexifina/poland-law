@@ -1,0 +1,1 @@
+Na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 157, poz. 1314 oraz z 2015 r. poz. 1240) zarządza się, co następuje:
