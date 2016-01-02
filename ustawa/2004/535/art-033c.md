@@ -1,3 +1,3 @@
 # Art. 33c.
 
-W przypadku importu towarów doręczanych w formie przesyłek przez operatora publicznego w rozumieniu art. 3 pkt 12 ustawy z dnia 12 czerwca 2003 r. - Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.) do podatku z tytułu importu towarów przepis art. 65a ustawy z dnia 19 marca 2004 r. - Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) stosuje się odpowiednio.
+W przypadku importu towarów doręczanych w formie przesyłek pocztowych przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830) do podatku z tytułu importu towarów przepis art. 65a ustawy z dnia 19 marca 2004 r. - Prawo celne (Dz. U. z 2015 r. poz. 858, 1649, 1844 i 1893 oraz z 2016 r. poz. 65) stosuje się odpowiednio.

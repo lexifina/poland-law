@@ -26,10 +26,6 @@
 
 - 3) w okresie od dnia 1 stycznia 2017 r. do dnia 31 grudnia 2017 r., przepis ust. 1 pkt 3 stosuje się odpowiednio.
 
-3. W przypadku gdy nie nastąpi przekroczenie relacji państwowego długu publicznego do produktu krajowego brutto, o którym mowa w ust. 1 lub 2, a relacja państwowego długu publicznego do produktu krajowego brutto według stanu na dzień 31 grudnia 2013 r., ogłoszona przez Ministra Finansów, w terminie do dnia 31 maja 2014 r., w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przekracza 55%:
+3. (uchylony)
 
-- 1) w okresach od dnia 1 lipca 2014 r. do dnia 30 czerwca 2015 r. oraz od dnia 1 stycznia 2017 r. do dnia 31 grudnia 2017 r., przepis ust. 1 pkt 1 stosuje się odpowiednio;
-
-- 2) w okresie od dnia 1 lipca 2015 r. do dnia 31 grudnia 2016 r., przepis ust. 1 pkt 2 stosuje się odpowiednio;
-
-- 3) w okresie od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2018 r., przepis ust. 1 pkt 3 stosuje się odpowiednio.
+4. W przypadku określonym w ust. 2, podwyższenia stawek, o którym mowa w tym przepisie, nie stosuje się, jeżeli relacja, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885 i 938), według stanu na dzień 31 grudnia 2012 r., nie przekracza 55%.

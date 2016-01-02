@@ -1,53 +1,159 @@
 # Art. 86a.
 
-1. W przypadku nabycia:
+1. W przypadku wydatków związanych z pojazdami samochodowymi kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, stanowi 50% kwoty podatku:
 
-- 1) samochodów osobowych,
+- 1) wynikającej z faktury otrzymanej przez podatnika;
 
-- 2) innych niż samochody osobowe pojazdów samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony
+- 2) należnego z tytułu:
 
-- kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, stanowi 60% kwoty podatku określonej w fakturze lub kwoty podatku należnego z tytułu wewnątrzwspólnotowego nabycia towarów lub kwoty podatku należnego od dostawy towarów, dla której podatnikiem jest ich nabywca - nie więcej jednak niż 6000 zł.
+  - a) świadczenia usług, dla którego zgodnie z art. 17 ust. 1 pkt 4 podatnikiem jest ich usługobiorca,
 
-2. Przepis ust. 1 pkt 2 nie dotyczy:
+  - b) dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 podatnikiem jest ich nabywca,
 
-- 1) pojazdów samochodowych mających jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą, klasyfikowanych na podstawie przepisów prawa o ruchu drogowym do podrodzaju: wielozadaniowy, van;
+  - c) wewnątrzwspólnotowego nabycia towarów;
 
-- 2) pojazdów samochodowych mających więcej niż jeden rząd siedzeń, które oddzielone są od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą i u których długość części przeznaczonej do przewozu ładunków, mierzona po podłodze od najdalej wysuniętego punktu podłogi pozwalającego postawić pionową ścianę lub trwałą przegrodę pomiędzy podłogą a sufitem do tylnej krawędzi podłogi, przekracza 50% długości pojazdu; dla obliczenia proporcji, o której mowa w zdaniu poprzednim, długość pojazdu stanowi odległość pomiędzy dolną krawędzią przedniej szyby pojazdu a tylną krawędzią podłogi części pojazdu przeznaczonej do przewozu ładunków, mierzona w linii poziomej wzdłuż pojazdu pomiędzy dolną krawędzią przedniej szyby pojazdu a punktem wyprowadzonym w pionie od tylnej krawędzi podłogi części pojazdu przeznaczonej do przewozu ładunków;
+- 3) należnego, w przypadku, o którym mowa w art. 33a;
 
-- 3) pojazdów samochodowych, które mają otwartą część przeznaczoną do przewozu ładunków;
+- 4) wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34.
 
-- 4) pojazdów samochodowych, które posiadają kabinę kierowcy i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu;
+2. Do wydatków związanych z pojazdami samochodowymi, o których mowa w ust. 1, zalicza się wydatki dotyczące:
 
-- 5) pojazdów specjalnych - jeżeli z wyciągu ze świadectwa homologacji lub z odpisu decyzji zwalniającej z obowiązku uzyskania świadectwa homologacji, wydawanych zgodnie z przepisami prawa o ruchu drogowym, wynika, że jest to pojazd specjalny;
+- 1) nabycia, importu lub wytworzenia tych pojazdów oraz nabycia lub importu ich części składowych;
 
-- 6) pojazdów samochodowych innych niż wymienione w pkt 1-5, w których liczba miejsc (siedzeń) łącznie z miejscem dla kierowcy wynosi:
+- 2) używania tych pojazdów na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze, związane z tą umową, inne niż wymienione w pkt 3;
 
-  - a) 1 - jeżeli dopuszczalna ładowność jest równa lub większa niż 425 kg,
+- 3) nabycia lub importu paliw silnikowych, oleju napędowego i gazu, wykorzystywanych do napędu tych pojazdów, usług naprawy lub konserwacji tych pojazdów oraz innych towarów i usług związanych z eksploatacją lub używaniem tych pojazdów.
 
-  - b) 2 - jeżeli dopuszczalna ładowność jest równa lub większa niż 493 kg,
+3. Przepis ust. 1 nie ma zastosowania:
 
-  - c) 3 lub więcej - jeżeli dopuszczalna ładowność jest równa lub większa niż 500 kg;
+- 1) w przypadku gdy pojazdy samochodowe są:
 
-- 7) pojazdów samochodowych konstrukcyjnie przeznaczonych do przewozu co najmniej 10 osób łącznie z kierowcą - jeżeli z dokumentów wydanych na podstawie przepisów prawa o ruchu drogowym wynika takie przeznaczenie.
+  - a) wykorzystywane wyłącznie do działalności gospodarczej podatnika lub
 
-3. Przepis ust. 1 nie dotyczy przypadków, gdy odprzedaż lub oddanie w odpłatne używanie tych samochodów (pojazdów) na podstawie umowy najmu, dzierżawy, leasingu lub innych umów o podobnym charakterze stanowi przedmiot działalności podatnika.
+  - b) konstrukcyjnie przeznaczone do przewozu co najmniej 10 osób łącznie z kierowcą, jeżeli z dokumentów wydanych na podstawie przepisów o ruchu drogowym wynika takie przeznaczenie;
 
-4. Dopuszczalna ładowność pojazdów oraz liczba miejsc (siedzeń), o których mowa w ust. 2 pkt 6, określona jest na podstawie wyciągu ze świadectwa homologacji lub odpisu decyzji zwalniającej z obowiązku uzyskania świadectwa homologacji, wydawanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w wyciągu ze świadectwa homologacji lub w odpisie decyzji, o której mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe, o których mowa w ust. 1 pkt 1.
+- 2) do towarów montowanych w pojazdach samochodowych i do związanych z tymi towarami usług montażu, naprawy i konserwacji, jeżeli przeznaczenie tych towarów wskazuje obiektywnie na możliwość ich wykorzystywania wyłącznie do działalności gospodarczej podatnika.
 
-5. Spełnienie wymagań dla pojazdów samochodowych określonych w ust. 2 pkt 1-4 stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację oraz dowodu rejestracyjnego pojazdu, zawierającego właściwą adnotację o spełnieniu tych wymagań.
+4. Pojazdy samochodowe są uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, jeżeli:
 
-6. W przypadku gdy w pojeździe, dla którego wydano zaświadczenie, o którym mowa w ust. 5, zostały wprowadzone zmiany, w wyniku których pojazd nie spełnia wymagań, o których mowa w ust. 2 pkt 1-4, podatnik jest obowiązany do skorygowania kwoty podatku naliczonego w rozliczeniu za okres, w którym dokonał jego odliczenia.
+- 1) sposób wykorzystywania tych pojazdów przez podatnika, zwłaszcza określony w ustalonych przez niego zasadach ich używania, dodatkowo potwierdzony prowadzoną przez podatnika dla tych pojazdów ewidencją przebiegu pojazdu, wyklucza ich użycie do celów niezwiązanych z działalnością gospodarczą lub
 
-7. Przepisy ust. 1-6 stosuje się odpowiednio do importu samochodów osobowych oraz innych pojazdów samochodowych, z tym że w przypadku importu samochodów osobowych oraz innych pojazdów samochodowych, o których mowa w ust. 1, kwotę podatku naliczonego stanowi 60% kwoty wynikającej z dokumentu celnego, z uwzględnieniem kwot wynikających z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34 - nie więcej jednak niż 6000 zł.
+- 2) konstrukcja tych pojazdów wyklucza ich użycie do celów niezwiązanych z działalnością gospodarczą lub powoduje, że ich użycie do celów niezwiązanych z działalnością gospodarczą jest nieistotne.
 
-8. W przypadku usługobiorców użytkujących samochody osobowe oraz inne pojazdy samochodowe, o których mowa w ust. 1, na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze, kwotę podatku naliczonego stanowi 60% kwoty podatku naliczonego od czynszu (raty) lub innych płatności wynikających z zawartej umowy, udokumentowanych fakturą. Suma kwot w całym okresie użytkowania samochodów i pojazdów, o których mowa w zdaniu pierwszym, dotycząca jednego samochodu lub pojazdu, nie może jednak przekroczyć kwoty 6000 zł.
+5. Warunku prowadzenia ewidencji przebiegu pojazdu nie stosuje się w przypadku pojazdów samochodowych:
 
-9. Przepisy ust. 1-3 stosuje się odpowiednio do nabytych lub importowanych części składowych zużytych do wytworzenia przez podatnika samochodów osobowych oraz innych pojazdów samochodowych, o których mowa w ust. 1, z uwzględnieniem przepisów ust. 4-6, jeżeli te samochody i pojazdy zostały zaliczone przez tego podatnika do środków trwałych w rozumieniu przepisów o podatku dochodowym.
+- 1) przeznaczonych wyłącznie do:
 
-10. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, określić inne niż wymienione w:
+  - a) odprzedaży,
 
-- 1) ust. 2 pkt 5 dokumenty, na podstawie których można stwierdzić, że pojazd jest pojazdem specjalnym,
+  - b) sprzedaży, w przypadku pojazdów wytworzonych przez podatnika,
 
-- 2) ust. 4 dokumenty, na podstawie których można określić dopuszczalną ładowność pojazdu oraz liczbę miejsc (siedzeń)
+  - c) oddania w odpłatne używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze
 
-- uwzględniając konieczność prawidłowej identyfikacji pojazdu na potrzeby skorzystania z prawa do odliczenia podatku naliczonego oraz przepisy prawa Unii Europejskiej.
+  - jeżeli odprzedaż, sprzedaż lub oddanie w odpłatne używanie tych pojazdów stanowi przedmiot działalności podatnika;
+
+- 2) w odniesieniu do których:
+
+  - a) kwotę podatku naliczonego od wydatków z nimi związanych podatnik oblicza zgodnie z ust. 1 lub
+
+  - b) podatnikowi nie przysługuje prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego od wydatków z nimi związanych.
+
+6. Ewidencja przebiegu pojazdu jest prowadzona od dnia rozpoczęcia wykorzystywania pojazdu samochodowego wyłącznie do działalności gospodarczej podatnika do dnia zakończenia wykorzystywania tego pojazdu wyłącznie do tej działalności.
+
+7. Ewidencja przebiegu pojazdu powinna zawierać:
+
+- 1) numer rejestracyjny pojazdu samochodowego;
+
+- 2) dzień rozpoczęcia i zakończenia prowadzenia ewidencji;
+
+- 3) stan licznika przebiegu pojazdu samochodowego na dzień rozpoczęcia prowadzenia ewidencji, na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji;
+
+- 4) wpis osoby kierującej pojazdem samochodowym dotyczący każdego wykorzystania tego pojazdu, obejmujący:
+
+  - a) kolejny numer wpisu,
+
+  - b) datę i cel wyjazdu,
+
+  - c) opis trasy (skąd - dokąd),
+
+  - d) liczbę przejechanych kilometrów,
+
+  - e) imię i nazwisko osoby kierującej pojazdem
+
+  - potwierdzony przez podatnika na koniec każdego okresu rozliczeniowego w zakresie autentyczności wpisu osoby kierującej pojazdem, jeżeli nie jest ona podatnikiem;
+
+- 5) liczbę przejechanych kilometrów na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji.
+
+8. W przypadku gdy pojazd samochodowy jest udostępniany osobie niebędącej pracownikiem podatnika, wpis, o którym mowa w ust. 7 pkt 4:
+
+- 1) jest dokonywany przez osobę, która udostępnia pojazd;
+
+- 2) obejmuje:
+
+  - a) kolejny numer wpisu,
+
+  - b) datę i cel udostępnienia pojazdu,
+
+  - c) stan licznika na dzień udostępnienia pojazdu,
+
+  - d) liczbę przejechanych kilometrów,
+
+  - e) stan licznika na dzień zwrotu pojazdu,
+
+  - f) imię i nazwisko osoby, której udostępniony został pojazd.
+
+9. Do pojazdów samochodowych, o których mowa w ust. 4 pkt 2, należą:
+
+- 1) pojazdy samochodowe, inne niż samochody osobowe, mające jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą:
+
+  - a) klasyfikowane na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub
+
+  - b) z otwartą częścią przeznaczoną do przewozu ładunków;
+
+- 2) pojazdy samochodowe, inne niż samochody osobowe, które posiadają kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu;
+
+- 3) pojazdy specjalne, które spełniają również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń:
+
+  - a) agregat elektryczny/spawalniczy,
+
+  - b) do prac wiertniczych,
+
+  - c) koparka, koparko-spycharka,
+
+  - d) ładowarka,
+
+  - e) podnośnik do prac konserwacyjno-montażowych,
+
+  - f) żuraw samochodowy
+
+  - jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym.
+
+10. Spełnienie wymagań dla pojazdów samochodowych określonych w ust. 9:
+
+- 1) pkt 1 i 2 stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+
+- 2) pkt 3 stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.
+
+11. W przypadku gdy w pojeździe samochodowym, dla którego wydano zaświadczenie, o którym mowa w ust. 10 pkt 1, zostały wprowadzone zmiany, w wyniku których pojazd nie spełnia wymagań, o których mowa w ust. 9 pkt 1 lub 2, uznaje się, że pojazd nie jest wykorzystywany wyłącznie do działalności gospodarczej:
+
+- 1) od dnia wprowadzenia zmian,
+
+- 2) jeżeli nie można określić dnia wprowadzenia zmian:
+
+  - a) od okresu rozliczeniowego, w którym podatnik po raz pierwszy odliczył podatek naliczony od wydatków związanych z tym pojazdem samochodowym, z zastrzeżeniem lit. b,
+
+  - b) od okresu rozliczeniowego następującego po okresie rozliczeniowym, dla którego podatnik wykaże, że pojazd samochodowy spełniał wymagania, o których mowa w ust. 9 pkt 1 lub 2
+
+  - chyba że zachodzi przypadek, o którym mowa w ust. 4 pkt 1.
+
+12. Podatnicy wykorzystujący wyłącznie do działalności gospodarczej pojazdy samochodowe, dla których są obowiązani prowadzić ewidencję przebiegu pojazdu, mają obowiązek złożyć naczelnikowi urzędu skarbowego informację o tych pojazdach w terminie 7 dni od dnia, w którym poniosą pierwszy wydatek związany z tymi pojazdami.
+
+13. W przypadku niezłożenia w terminie informacji, o której mowa w ust. 12, uznaje się, że pojazd samochodowy jest wykorzystywany wyłącznie do działalności gospodarczej podatnika dopiero od dnia jej złożenia.
+
+14. W przypadku zmiany wykorzystywania pojazdu samochodowego podatnik jest obowiązany do aktualizacji informacji, o której mowa w ust. 12, najpóźniej przed dniem, w którym dokonuje tej zmiany.
+
+15. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 12, uwzględniając potrzebę zawarcia w niej danych pozwalających na identyfikację pojazdu samochodowego, w szczególności marki, modelu pojazdu i jego numeru rejestracyjnego, jak również daty poniesienia pierwszego wydatku związanego z danym pojazdem, oraz uwzględniając potrzebę umożliwienia prawidłowej aktualizacji złożonej informacji.
+
+16. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż określone w ust. 9 pojazdy samochodowe, o których mowa w ust. 4 pkt 2, uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, wymagania dla tych pojazdów samochodowych oraz dokumenty potwierdzające spełnienie wymagań, uwzględniając specyfikę ich konstrukcji oraz ich zastosowanie, a w przypadku pojazdów mających więcej niż jeden rząd siedzeń - również wymóg, aby dopuszczalna masa całkowita była większa niż 3 tony.
+
+17. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 5 przypadki, w których nie stosuje się warunku prowadzenia ewidencji przebiegu pojazdu, uwzględniając specyfikę prowadzonej przez podatnika działalności gospodarczej oraz konieczność przeciwdziałania nadużyciom wynikającym z wykorzystywania pojazdów do celów innych niż związane z działalnością gospodarczą.

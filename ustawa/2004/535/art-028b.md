@@ -1,6 +1,6 @@
 # Art. 28b.
 
-1. Miejscem świadczenia usług w przypadku świadczenia usług na rzecz podatnika jest miejsce, w którym podatnik będący usługobiorcą posiada siedzibę działalności gospodarczej, z zastrzeżeniem ust. 2-4 oraz art. 28e, art. 28f ust. 1 i 1a, art. 28g ust. 1, art. 28i, art. 28j i art. 28n.
+1. Miejscem świadczenia usług w przypadku świadczenia usług na rzecz podatnika jest miejsce, w którym podatnik będący usługobiorcą posiada siedzibę działalności gospodarczej, z zastrzeżeniem ust. 2-4 oraz art. 28e, art. 28f ust. 1 i 1a, art. 28g ust. 1, art. 28i, art. 28j ust. 1 i 2 oraz art. 28n.
 
 2. W przypadku gdy usługi są świadczone dla stałego miejsca prowadzenia działalności gospodarczej podatnika, które znajduje się w innym miejscu niż jego siedziba działalności gospodarczej, miejscem świadczenia tych usług jest to stałe miejsce prowadzenia działalności gospodarczej.
 

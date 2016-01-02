@@ -8,9 +8,9 @@
 
   - a) zaświadczeń o braku zaległości we wpłatach należnych składek na ubezpieczenie społeczne oraz we wpłatach poszczególnych podatków stanowiących dochód budżetu państwa, przekraczających odrębnie z każdego tytułu, w tym odrębnie w każdym podatku, odpowiednio 3% kwoty należnych składek i należnych zobowiązań podatkowych w poszczególnych podatkach; udział zaległości w kwocie składek lub podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość,
 
-  - b) potwierdzenia zarejestrowania podatnika jako podatnika VAT czynnego;
+  - b) potwierdzenia zarejestrowania podatnika jako podatnika VAT czynnego.
 
-- 2) (uchylony).
+- 2) (uchylony)
 
 2a. Wymóg przedstawienia przez podatnika dokumentów, o których mowa w ust. 2 pkt 1, uważa się za spełniony również w przypadku złożenia przez podatnika oświadczeń o tej samej treści.
 
@@ -37,3 +37,11 @@
 10. Podatnik, który nie przestrzega terminu, o którym mowa w ust. 6, może w drodze decyzji naczelnika urzędu skarbowego utracić na okres 36 miesięcy prawo do rozliczania podatku na zasadach określonych w ust. 1, począwszy od okresu rozliczeniowego następującego po miesiącu, w którym doręczono podatnikowi decyzję.
 
 11. Decyzji, o której mowa w ust. 10, nie wydaje się, jeżeli nieprzestrzeganie terminu, o którym mowa w ust. 6, w tym częstotliwość tego nieprzestrzegania, można uznać za nieistotne w stosunku do liczby i wielkości operacji importowych, które podatnik rozlicza zgodnie z ust. 1, pod warunkiem że uchybienie to było spowodowane okolicznościami niewynikającymi z jego zaniedbania lub świadomego działania.
+
+12. Podatnik, o którym mowa w art. 17 ust. 1 pkt 1 i 2, posiadający status upoważnionego podmiotu gospodarczego w rozumieniu art. 5a rozporządzenia Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającego Wspólnotowy Kodeks Celny:
+
+- 1) działający we własnym imieniu i na własną rzecz lub
+
+- 2) w imieniu i na rzecz którego jest składane zgłoszenie celne przez przedstawiciela bezpośredniego w rozumieniu przepisów celnych
+
+- może rozliczyć kwotę podatku należnego z tytułu importu towarów w deklaracji podatkowej składanej za okres, w którym powstał obowiązek podatkowy z tytułu importu tych towarów. Przepisy ust. 2-4, 6, 7 oraz 9-11 stosuje się odpowiednio.

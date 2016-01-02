@@ -16,11 +16,11 @@ W przypadku świadczenia na rzecz podmiotów niebędących podatnikami, posiadaj
 
 - 7) wynajmu, dzierżawy lub innych o podobnym charakterze, których przedmiotem są rzeczy ruchome, z wyjątkiem środków transportu, za które uznaje się również przyczepy i naczepy oraz wagony kolejowe,
 
-- 8) telekomunikacyjnych,
+- 8) (uchylony)
 
-- 9) nadawczych radiowych i telewizyjnych,
+- 9) (uchylony)
 
-- 10) elektronicznych,
+- 10) (uchylony)
 
 - 11) polegających na zapewnieniu dostępu do systemów gazowych, systemów elektroenergetycznych lub do sieci dystrybucji energii cieplnej lub chłodniczej,
 
