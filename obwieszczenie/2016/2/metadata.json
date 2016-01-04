@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/2",
+ "source_sha256": "a1d751846ac0f186c9cb9b9c662840e94c5ed2a435bb7ef5c4b6d8373f11949a",
+ "in_force": "2016-01-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/2",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/2/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/2/text/O/D20160002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/2/text/I/D20160002.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/2/text/T/D20160002L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/2/text/U/D20160002Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/2",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 2,
+  "address": "WDU20160000002",
+  "displayAddress": "Dz.U. 2016 poz. 2",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 grudnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego w Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-12-16",
+  "promulgation": "2016-01-04",
+  "changeDate": "2024-03-14T21:30:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "patenty",
+   "własność przemysłowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/598"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160002.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160002L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160002Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
