@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 2 pkt 19 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2011 r. Nr 145, poz. 868, z późn. zm.) zarządza się, co następuje:
