@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 w związku z art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443, z późn. zm.) Rada Ministrów Rzeczypospolitej Polskiej dnia 29 października 2015 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej w sprawie procedur oznaczania lotów, poprzez podpisanie.
+
+aaaPorozumienie zostało podpisane w Stuttgarcie dnia 4 listopada 2015 r. w celu wykonania postanowień art. 12 ust. 1 i 3 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej, podpisanej w Warszawie dnia 11 grudnia 2009 r.
+
+Zgodnie z art. 6 ust. 1 porozumienia weszło ono w życie w dniu podpisania.
