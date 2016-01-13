@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 3 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2011 r. Nr 79, poz. 430 i Nr 112, poz. 654 oraz z 2015 r. poz. 1348 i 1960) zarządza się, co następuje:
