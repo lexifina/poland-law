@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/69",
+ "source_sha256": "6fba64fff4e5638daf7bb0b486d070c31573e7095e8155ebe997067165a250af",
+ "in_force": "2016-01-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/69",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/69/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/69/text/O/D20160069.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/69/text/I/D20160069.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/69",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 69,
+  "address": "WDU20160000069",
+  "displayAddress": "Dz.U. 2016 poz. 69",
+  "title": "Obwieszczenie Ministra Finansów z dnia 21 grudnia 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie szczegółowego sposobu wykonywania budżetu państwa",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-12-21",
+  "promulgation": "2016-01-18",
+  "expirationDate": "2018-11-29",
+  "changeDate": "2025-10-14T09:51:53",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/82"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160069.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160069.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
