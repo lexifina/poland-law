@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/95",
+ "source_sha256": "dd6b52418d25593654b565e3c4cca22e33e798594007cb974a73d37978aa4b42",
+ "in_force": "2016-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/95",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/95/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/95/text/O/D20160095.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/95/text/I/D20160095.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/95",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 95,
+  "address": "WDU20160000095",
+  "displayAddress": "Dz.U. 2016 poz. 95",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie zespołu do przygotowania zadań na egzamin radcowski",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-01-08",
+  "promulgation": "2016-01-20",
+  "expirationDate": "2018-01-11",
+  "changeDate": "2024-03-14T21:34:56",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "radcy prawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/1584"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160095.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160095.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
