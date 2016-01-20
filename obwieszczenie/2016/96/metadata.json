@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/96",
+ "source_sha256": "d0bce7c899b9c29a262d54fb07540d5ffcc3c28465b2e6844a80c5e4509e749c",
+ "in_force": "2016-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/96",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/96/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/96/text/O/D20160096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/96/text/I/D20160096.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/96/text/T/D20160096L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/96/text/U/D20160096Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/96",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 96,
+  "address": "WDU20160000096",
+  "displayAddress": "Dz.U. 2016 poz. 96",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-12-23",
+  "promulgation": "2016-01-20",
+  "expirationDate": "2016-09-16",
+  "changeDate": "2024-03-14T21:34:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wojsko"
+  ],
+  "keywordsNames": [
+   "Żandarmeria Wojskowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1353"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160096.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160096L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160096Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
