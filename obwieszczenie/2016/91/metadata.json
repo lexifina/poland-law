@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/91",
+ "source_sha256": "7485d7f9604b628d841f9e04672653db0e372005c43309fe5f11a752e42688e0",
+ "in_force": "2016-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/91",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/91/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/91/text/O/D20160091.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/91/text/I/D20160091.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/91",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 91,
+  "address": "WDU20160000091",
+  "displayAddress": "Dz.U. 2016 poz. 91",
+  "title": "Obwieszczenie Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2015 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie warunków eksploatacji lotnisk",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2015-12-23",
+  "promulgation": "2016-01-20",
+  "expirationDate": "2022-05-27",
+  "changeDate": "2024-03-14T21:34:54",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY I BUDOWNICTWA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo",
+   "porty lotnicze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/1420"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160091.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160091.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
