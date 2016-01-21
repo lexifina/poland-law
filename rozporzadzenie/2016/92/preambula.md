@@ -1,0 +1,1 @@
+Na podstawie art. 43 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. poz. 1348, 1830 i 1844) zarządza się, co następuje:
