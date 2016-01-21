@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/100",
+ "source_sha256": "5663a2b19ce603711fe9a27851375139e24dbe63a036ab0b04cc899d4f646699",
+ "in_force": "2016-01-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/100",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/100/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/100/text/O/D20160100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/100/text/I/D20160100.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/100",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 100,
+  "address": "WDU20160000100",
+  "displayAddress": "Dz.U. 2016 poz. 100",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości do spraw odwołań od wyników egzaminu radcowskiego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-01-08",
+  "promulgation": "2016-01-21",
+  "expirationDate": "2024-09-09",
+  "changeDate": "2024-09-10T10:05:08",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "komisje",
+   "radcy prawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/1314"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
