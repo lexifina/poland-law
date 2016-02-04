@@ -1,0 +1,1 @@
+Na podstawie art. 12 ust. 3 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. poz. 881) zarządza się, co następuje:
