@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/162",
+ "source_sha256": "c440b793e3ba6113ef4d2e97a99d7f10295ff3a13ad9b8bfb99ff03739cbed12",
+ "in_force": "2016-02-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/162",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/162/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/162/text/O/D20160162.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/162/text/I/D20160162.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/162/text/U/D20160162Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/162",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 162,
+  "address": "WDU20160000162",
+  "displayAddress": "Dz.U. 2016 poz. 162",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustaleniu i wypłacie zasiłków dla opiekunów",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-01-26",
+  "promulgation": "2016-02-09",
+  "expirationDate": "2017-10-26",
+  "changeDate": "2024-03-14T21:23:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/567"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160162.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160162.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160162Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
