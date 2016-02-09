@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/160",
+ "source_sha256": "ccc6ae08b9f33ac53d14d73a833be4ce0113a77f6bed36ac856c16afac9ae160",
+ "in_force": "2016-02-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/160",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/160/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/160/text/O/D20160160.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/160/text/I/D20160160.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/160/text/T/D20160160L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/160/text/U/D20160160Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/160",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 160,
+  "address": "WDU20160000160",
+  "displayAddress": "Dz.U. 2016 poz. 160",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo wekslowe",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-01-26",
+  "promulgation": "2016-02-09",
+  "expirationDate": "2022-02-07",
+  "changeDate": "2026-11-05T14:47:18",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wekslowe prawo",
+   "weksle"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1936/282"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160160.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160160.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160160L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160160Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
