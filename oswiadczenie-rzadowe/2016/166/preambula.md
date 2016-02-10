@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że Rada Państwa Polskiej Rzeczypospolitej Ludowej dnia 14 września 1978 r. ratyfikowała ratyfikowała Protokół w sprawie zmiany Umowy o rozliczeniach wielostronnych w rublach transferowych i o utworzeniu Międzynarodowego Banku Współpracy Gospodarczej oraz Statutu tego Banku, sporządzony w Moskwie dnia 23 listopada 1977 r.
+
+Zgodnie z art. III protokołu wszedł on w życie dnia 20 stycznia 1981 r. wobec Polski, Bułgarii, Czechosłowacji, Kuby, Mongolii, Niemieckiej Republiki Demokratycznej, Rumunii, Węgier, Wietnamu i Związku Socjalistycznych Republik Radzieckich.
