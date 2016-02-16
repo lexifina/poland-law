@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/186",
+ "source_sha256": "b875eba5b775b6e6a334c09edf54e5e0c421c25df2ff0309f0fea585a23ff5e6",
+ "in_force": "2016-02-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/186",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/186/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/186/text/O/D20160186.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/186/text/I/D20160186.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/186/text/T/D20160186L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/186/text/U/D20160186Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/186",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 186,
+  "address": "WDU20160000186",
+  "displayAddress": "Dz.U. 2016 poz. 186",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 stycznia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-01-28",
+  "promulgation": "2016-02-16",
+  "expirationDate": "2017-07-04",
+  "changeDate": "2024-03-14T21:32:21",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pacjenci"
+  ],
+  "keywordsNames": [
+   "Rzecznik Praw Pacjenta"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/417"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160186.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160186.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160186L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160186Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
