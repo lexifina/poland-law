@@ -1,0 +1,1 @@
+Na podstawie art. 14 ust. 8 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców znajdujących się w trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy (Dz. U. poz. 1925) zarządza się, co następuje:
