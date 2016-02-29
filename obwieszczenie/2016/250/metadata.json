@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/250",
+ "source_sha256": "aa53c89ee7bf708496e68df23ef7bec0b5ff5ae53cfe38673f1295360c80d11e",
+ "in_force": "2016-02-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/250",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/250/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/250/text/O/D20160250.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/250/text/I/D20160250.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/250/text/T/D20160250L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/250/text/U/D20160250Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/250",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 250,
+  "address": "WDU20160000250",
+  "displayAddress": "Dz.U. 2016 poz. 250",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 lutego 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utrzymaniu czystości i porządku w gminach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-02-03",
+  "promulgation": "2016-02-29",
+  "expirationDate": "2017-06-30",
+  "changeDate": "2024-03-14T21:34:19",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "czystość i porządek"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1996/622"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160250.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160250.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160250L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160250Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
