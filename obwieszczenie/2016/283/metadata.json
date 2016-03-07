@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/283",
+ "source_sha256": "11c66218ff3b8aee8b958e452d074b3d5f6d855c8d3c8bc78ffb31c2654ec288",
+ "in_force": "2016-03-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/283",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/283/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/283/text/O/D20160283.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/283/text/I/D20160283.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/283",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 283,
+  "address": "WDU20160000283",
+  "displayAddress": "Dz.U. 2016 poz. 283",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 lutego 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie \"Zasad techniki prawodawczej\"",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-02-29",
+  "promulgation": "2016-03-07",
+  "expirationDate": "2026-03-10",
+  "changeDate": "2026-03-11T09:40:28",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tworzenie prawa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/908"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160283.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160283.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
