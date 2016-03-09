@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/298",
+ "source_sha256": "218a771f865366918a7679d9383f429f731c050f6ffcb37557ffe545f1ba6d09",
+ "in_force": "2016-03-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 148 words, parsed 91; at 91: 'poz . 191 ) : 1 ) w art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/298",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/298/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/298/text/O/D20160298.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/298/text/I/D20160298.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/298",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 298,
+  "address": "WDU20160000298",
+  "displayAddress": "Dz.U. 2016 poz. 298",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 marca 2016 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-03-07",
+  "promulgation": "2016-03-09",
+  "changeDate": "2024-03-14T21:29:27",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2016/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160298.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160298.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
