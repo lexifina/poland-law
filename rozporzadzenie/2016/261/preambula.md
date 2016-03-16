@@ -1,0 +1,1 @@
+Na podstawie art. 12a ust. 3 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1716) zarządza się, co następuje:
