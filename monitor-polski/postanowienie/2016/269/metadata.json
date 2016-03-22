@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/269",
+ "source_sha256": "db9877ae8c49e53ceb656f83002a47eaa3770f94461fe2f292e0a7c4de0ee33c",
+ "in_force": "2016-03-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/269",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/269/text/O/M20160269.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/269/text/I/M20160269.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/269",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 269,
+  "address": "WMP20160000269",
+  "displayAddress": "M.P. 2016 poz. 269",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 25 lutego 2016 r. nr 112.2.2016 w sprawie mianowania na stopień generała brygady",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-02-25",
+  "promulgation": "2016-03-22",
+  "changeDate": "2018-05-21T09:51:17",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4 i ust. 8 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160269.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160269.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
