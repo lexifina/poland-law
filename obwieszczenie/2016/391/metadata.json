@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/391",
+ "source_sha256": "6fb38930babbf9dacbae4e02f72fd0ed8969c368e81ef83773f87c1210903f96",
+ "in_force": "2016-03-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/391",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/391/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/391/text/O/D20160391.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/391/text/I/D20160391.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/391/text/T/D20160391L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/391/text/U/D20160391Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/391",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 391,
+  "address": "WDU20160000391",
+  "displayAddress": "Dz.U. 2016 poz. 391",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 marca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dowodach osobistych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-03-17",
+  "promulgation": "2016-03-24",
+  "expirationDate": "2017-07-31",
+  "changeDate": "2024-03-14T21:32:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dowody osobiste"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1131"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160391.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160391.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160391L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160391Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
