@@ -1,4 +1,4 @@
-## Dział VIIa Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia
+## Dział VIIA Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia
 
 # Art. 285a.
 
