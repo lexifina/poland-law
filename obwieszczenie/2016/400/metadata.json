@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/400",
+ "source_sha256": "c39130ad73c7214bba136ecbfa14090d16847d5efe993d3199a55e6a05f9d6e8",
+ "in_force": "2016-03-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/400",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/400/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/400/text/O/D20160400.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/400/text/I/D20160400.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/400/text/T/D20160400L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/400/text/U/D20160400Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/400",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 400,
+  "address": "WDU20160000400",
+  "displayAddress": "Dz.U. 2016 poz. 400",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 marca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-03-14",
+  "promulgation": "2016-03-29",
+  "expirationDate": "2019-04-23",
+  "changeDate": "2025-04-10T11:25:52",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "samorząd terytorialny",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/985"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160400.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160400.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160400L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160400Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
