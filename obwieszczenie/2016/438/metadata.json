@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/438",
+ "source_sha256": "a2724d2047cd9104bd60b0952063d5668898afd4fbccd182724ea4b687001ea0",
+ "in_force": "2016-04-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/438",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/438/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/438/text/O/D20160438.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/438/text/I/D20160438.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/438/text/T/D20160438L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/438/text/U/D20160438Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/438",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 438,
+  "address": "WDU20160000438",
+  "displayAddress": "Dz.U. 2016 poz. 438",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 marca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-03-17",
+  "promulgation": "2016-04-01",
+  "expirationDate": "2018-03-22",
+  "changeDate": "2024-03-14T21:33:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kinematografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1111"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160438.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160438.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160438L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160438Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
