@@ -1,0 +1,1 @@
+Na podstawie art. 14a ust. 2 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2012 r. poz. 406, z 2014 r. poz. 423 oraz z 2015 r. poz. 337 i 1505) zarządza się, co następuje:
