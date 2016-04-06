@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/462",
+ "source_sha256": "33a66ad5c3b685511f5ba1c831c2e37841bffeffac331effb8883eac6c0c97f1",
+ "in_force": "2016-04-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/462",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/462/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/462/text/O/D20160462.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/462/text/I/D20160462.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/462/text/T/D20160462L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/462",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 462,
+  "address": "WDU20160000462",
+  "displayAddress": "Dz.U. 2016 poz. 462",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 marca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo czekowe",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-03-25",
+  "promulgation": "2016-04-06",
+  "changeDate": "2024-03-14T21:29:35",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czekowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1936/283"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160462.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160462.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160462L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
