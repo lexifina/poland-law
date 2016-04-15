@@ -1,0 +1,3 @@
+# Art. 13c.
+
+Inspektor lub pracownik, w związku z prowadzonym u kontrolowanego postępowaniem kontrolnym lub kontrolą podatkową, w zakresie, o którym mowa w art. 2 ust. 1 pkt 4 i 5, jest uprawniony do żądania przedstawienia dokumentów i dokonywania oględzin we wszystkich miejscach realizacji projektu finansowanego ze środków pochodzących z budżetu Unii Europejskiej, w zakresie objętym postępowaniem kontrolnym lub kontrolą podatkową. Jeżeli miejsce realizacji projektu znajduje się poza obszarem działania organu kontroli skarbowej, czynności na zlecenie tego organu może przeprowadzić także inspektor lub pracownik upoważniony przez organ kontroli skarbowej właściwy ze względu na miejsce realizacji projektu.
