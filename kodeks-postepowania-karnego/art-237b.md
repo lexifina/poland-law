@@ -1,1 +1,3 @@
-Do postanowienia wydanego na podstawie art. 237a przepisy art. 239 stosuje się odpowiednio.
+# Art. 237b.
+
+(uchylony)

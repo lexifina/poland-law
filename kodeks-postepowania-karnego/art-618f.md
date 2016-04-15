@@ -8,4 +8,8 @@
 
 § 4. Wynagrodzenie biegłego i specjalisty niebędącego funkcjonariuszem organów procesowych, będących podatnikami obowiązanymi do rozliczenia podatku od towarów i usług, podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie ze stawką tego podatku obowiązującą w dniu orzekania o tym wynagrodzeniu.
 
+§ 4a. Jeżeli opinia jest fałszywa, wynagrodzenie oraz zwrot jakichkolwiek kosztów poniesionych przez biegłego związanych z jej sporządzeniem lub złożeniem nie przysługują.
+
+§ 4b. Jeżeli opinia jest nierzetelna lub została sporządzona lub złożona ze znacznym nieusprawiedliwionym opóźnieniem, wynagrodzenie ulega odpowiedniemu obniżeniu; można również odstąpić od przyznania wynagrodzenia lub zwrotu jakichkolwiek kosztów poniesionych przez biegłego związanych z jej sporządzeniem lub złożeniem.
+
 § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, stawki wynagrodzenia biegłych za wykonaną pracę oraz taryfy zryczałtowane, o których mowa w § 3, mając na uwadze nakład pracy i kwalifikacje biegłego oraz poziom wynagrodzeń uzyskiwanych przez pracowników wykonujących podobne zawody, stopień złożoności problemu będącego przedmiotem opinii oraz warunki, w jakich opracowano opinię, a także sposób dokumentowania wydatków niezbędnych dla wydania opinii.
