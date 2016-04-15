@@ -1,1 +1,3 @@
-Uwzględniając wniosek, o którym mowa w art. 335, art. 338a lub art. 387 Kodeksu postępowania karnego, sąd może zastosować nadzwyczajne złagodzenie kary także w innych wypadkach niż przewidziane w art. 60 § 1-4; sąd może także odstąpić od wymierzenia kary i orzec wyłącznie środek karny, przepadek lub środek kompensacyjny, jeżeli przypisany oskarżonemu występek jest zagrożony karą nieprzekraczającą 5 lat pozbawienia wolności.
+# Art. 60a.
+
+(uchylony)
