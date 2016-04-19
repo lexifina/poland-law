@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/392",
+ "source_sha256": "3f87fa857d56107afbb36cc38d26d3c4ee91b22d0853f03de0781d52e026f715",
+ "in_force": "2016-04-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/392",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/392/text/O/M20160392.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/392/text/I/M20160392.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/392",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 392,
+  "address": "WMP20160000392",
+  "displayAddress": "M.P. 2016 poz. 392",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 kwietnia 2016 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w I kwartale 2016 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-04-11",
+  "promulgation": "2016-04-19",
+  "changeDate": "2020-10-20T09:38:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160392.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160392.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
