@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/543",
+ "source_sha256": "43b29a0a061dafb3648f45b88d37af116b07d10d968f43a173fb1cc7a125410f",
+ "in_force": "2016-04-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/543",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/543/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/543/text/O/D20160543.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/543/text/I/D20160543.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/543/text/T/D20160543L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/543/text/U/D20160543Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/543",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 543,
+  "address": "WDU20160000543",
+  "displayAddress": "Dz.U. 2016 poz. 543",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 kwietnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działach administracji rządowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-04-08",
+  "promulgation": "2016-04-19",
+  "expirationDate": "2017-04-04",
+  "changeDate": "2024-03-14T21:24:44",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "administracja rządowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "Tekst jednolity nie obejmuje art. 94 ustawy.",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/943"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160543.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160543.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160543L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160543Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
