@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438, z 2015 r. poz. 308 i 349 oraz z 2016 r. poz. 50) zarządza się, co następuje:
