@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 29 czerwca 2011 r. o ratyfikacji Poprawki do Umowy o Międzynarodowym Funduszu Walutowym dotyczącej reformy Rady Wykonawczej, przyjętej przez Radę Gubernatorów Międzynarodowego Funduszu Walutowego Rezolucją Nr 66-2 w dniu 15 grudnia 2010 r. (Dz. U. poz. 1055) Prezydent Rzeczypospolitej Polskiej dnia 10 października 2011 r. ratyfikował wyżej wymienioną poprawkę.
+
+Zgodnie z art. XXVIII Umowy o Międzynarodowym Funduszu Walutowym, podpisanej w Bretton Woods dnia 22 lipca 1944 r., poprawka weszła w życie w stosunku do wszystkich stron Umowy o Międzynarodowym Funduszu Walutowym, w tym również w stosunku do Rzeczypospolitej Polskiej, dnia 26 stycznia 2016 r.
