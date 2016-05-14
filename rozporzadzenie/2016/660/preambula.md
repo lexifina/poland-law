@@ -1,0 +1,1 @@
+Na podstawie art. 110 ust. 3 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199, z 2015 r. poz. 211, 1220 i 1269 oraz z 2016 r. poz. 34) zarządza się, co następuje:
