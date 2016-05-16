@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 25 czerwca 2015 r. o ratyfikacji Drugiego Protokołu między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy zmieniającego Umowę między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy o zasadach małego ruchu granicznego, podpisaną w Kijowie dnia 28 marca 2008 roku, podpisanego w Warszawie dnia 17 grudnia 2014 roku (Dz. U. poz. 1178) Prezydent Rzeczypospolitej Polskiej dnia 16 listopada 2015 r. ratyfikował wyżej wymieniony protokół.
+
+Zgodnie z art. 7 protokołu wszedł on w życie dnia 22 stycznia 2016 r.
