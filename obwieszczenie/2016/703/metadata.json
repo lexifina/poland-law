@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/703",
+ "source_sha256": "a56438ee6724b58bed026500a3d3efba2cd9639b3a15ea86573090517cee5e21",
+ "in_force": "2016-05-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/703",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/703/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/703/text/O/D20160703.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/703/text/I/D20160703.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/703/text/T/D20160703L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/703/text/U/D20160703Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/703",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 703,
+  "address": "WDU20160000703",
+  "displayAddress": "Dz.U. 2016 poz. 703",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 maja 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zagospodarowaniu wspólnot gruntowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-05-06",
+  "promulgation": "2016-05-24",
+  "expirationDate": "2022-01-20",
+  "changeDate": "2024-03-14T21:23:46",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wspólnoty gruntowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1963/169"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160703.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160703.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160703L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160703Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
