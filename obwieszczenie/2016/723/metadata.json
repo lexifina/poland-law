@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/723",
+ "source_sha256": "52354553266e5f549e2fb571980a19fad466ff58d477a7855c2159b1acc9ece8",
+ "in_force": "2016-05-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/723",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/723/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/723/text/O/D20160723.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/723/text/I/D20160723.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/723/text/T/D20160723L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/723",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 723,
+  "address": "WDU20160000723",
+  "displayAddress": "Dz.U. 2016 poz. 723",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 maja 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozpoznawaniu przez sądy spraw gospodarczych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-05-13",
+  "promulgation": "2016-05-30",
+  "repealDate": "2019-11-07",
+  "changeDate": "2024-03-14T21:34:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "sądy gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2019/1469",
+     "date": "2019-11-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1989/175"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160723.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160723.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160723L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
