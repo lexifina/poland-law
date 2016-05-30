@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 18 listopada 1999 r. o wypowiedzeniu, w stosunkach między Rzecząpospolitą Polską a Ukrainą, Konwencji między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Związku Socjalistycznych Republik Radzieckich w sprawie zapobiegania powstawaniu przypadków podwójnego obywatelstwa, podpisanej w Warszawie dnia 31 marca 1965 r. (Dz. U. poz. 1235) oraz zgodnie z art. 11 ust. 3 tej konwencji Prezydent Rzeczypospolitej Polskiej wypowiedział powyższą konwencję w dniu 3 sierpnia 2000 r., co zostało notyfikowane Rządowi Ukrainy w dniu 21 sierpnia 2000 r.
+
+Powyższa konwencja utraciła moc obowiązującą w stosunkach między Rzecząpospolitą Polską a Ukrainą w dniu 21 lutego 2001 r.
