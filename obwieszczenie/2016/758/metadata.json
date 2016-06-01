@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/758",
+ "source_sha256": "abec597656532afa21e9a9ece2c45a05dc2aab2373b235cb83166bd5fb145c83",
+ "in_force": "2016-06-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/758",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/758/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/758/text/O/D20160758.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/758/text/I/D20160758.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/758/text/T/D20160758L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/758",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 758,
+  "address": "WDU20160000758",
+  "displayAddress": "Dz.U. 2016 poz. 758",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 maja 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach paszportowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-05-13",
+  "promulgation": "2016-06-01",
+  "expirationDate": "2018-10-08",
+  "changeDate": "2024-03-14T21:32:36",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "paszporty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/1027"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160758.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160758.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160758L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
