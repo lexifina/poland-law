@@ -1,16 +1,16 @@
 # Art. 40e.
 
-1. Zwaloryzowane kwoty składek, środków i odsetek za zwłokę, zewidencjonowane na subkoncie, podlegają podziałowi w razie rozwodu, unieważnienia małżeństwa albo w przypadku śmierci osoby, dla której Zakład prowadzi subkonto, na zasadach określonych w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych, dotyczących podziału środków zgromadzonych na rachunku w otwartym funduszu emerytalnym w razie rozwodu, unieważnienia małżeństwa albo śmierci.
+1. Zwaloryzowane kwoty składek, środków, odsetek za zwłokę i opłaty prolongacyjnej, zewidencjonowane na subkoncie, podlegają podziałowi w razie rozwodu, unieważnienia małżeństwa albo w przypadku śmierci osoby, dla której Zakład prowadzi subkonto, na zasadach określonych w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych, dotyczących podziału środków zgromadzonych na rachunku w otwartym funduszu emerytalnym w razie rozwodu, unieważnienia małżeństwa albo śmierci.
 
 2. Część składek zewidencjonowanych na subkoncie, która w wyniku podziału przypada małżonkowi, z zastrzeżeniem ust. 3, jest ewidencjonowana na subkoncie tego małżonka. Jeżeli dla małżonka nie jest prowadzone subkonto - Zakład zakłada subkonto.
 
 3. W przypadku gdy małżonek osoby zmarłej, dla której Zakład prowadzi subkonto, nabywa prawo do środków zgromadzonych na rachunku w otwartym funduszu emerytalnym jako osoba uprawniona wskazana przez zmarłego albo jako jego spadkobierca, przypadającą mu w wyniku podziału część składek zewidencjonowanych na subkoncie ewidencjonuje się na jego subkoncie, jeżeli zażąda przekazania środków zmarłego zgromadzonych na rachunku w otwartym funduszu emerytalnym na jego rachunek w otwartym funduszu emerytalnym.
 
-4. Podział kwot składek, środków i odsetek za zwłokę, zewidencjonowanych na subkoncie, jest dokonywany w przypadku, gdy rozwód, unieważnienie małżeństwa albo śmierć nastąpiły nie później niż w dniu:
+4. Podział kwot składek, środków, odsetek za zwłokę i opłaty prolongacyjnej, zewidencjonowanych na subkoncie, jest dokonywany w przypadku, gdy rozwód, unieważnienie małżeństwa albo śmierć nastąpiły nie później niż w dniu:
 
-- 1) złożenia wniosku o emeryturę z tytułu osiągnięcia wieku, o którym mowa w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz w art. 26b tej ustawy;
+- 1) złożenia wniosku o emeryturę z tytułu osiągnięcia wieku, o którym mowa w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz w art. 26b tej ustawy;
 
-- 2) nabycia prawa do emerytury w wieku określonym w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli złożenie takiego wniosku nie jest wymagane lub
+- 2) nabycia prawa do emerytury w wieku określonym w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli złożenie takiego wniosku nie jest wymagane, lub
 
 - 3) osiągnięcia wieku, o którym mowa w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, przez osoby, które miały ustalone prawo do okresowej emerytury kapitałowej do dnia poprzedzającego osiągnięcie tego wieku.
 
