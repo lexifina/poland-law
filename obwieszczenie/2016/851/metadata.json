@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/851",
+ "source_sha256": "c32a5af124758bc226276556c1ea6eb972cf683e862473de58edae6799e7dad6",
+ "in_force": "2016-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/851",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/851/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/851/text/O/D20160851.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/851/text/I/D20160851.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/851/text/T/D20160851L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/851/text/U/D20160851Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/851",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 851,
+  "address": "WDU20160000851",
+  "displayAddress": "Dz.U. 2016 poz. 851",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-06-01",
+  "promulgation": "2016-06-15",
+  "expirationDate": "2017-10-18",
+  "changeDate": "2024-03-14T21:25:34",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stan wojenny"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1301"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160851.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160851.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160851L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160851Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
