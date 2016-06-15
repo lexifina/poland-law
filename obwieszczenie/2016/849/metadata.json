@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/849",
+ "source_sha256": "bb498cc29bca9b85c5971300adb6628dcce2ed8563d77bb0b2153d4d9e4fe08c",
+ "in_force": "2016-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/849",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/849/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/849/text/O/D20160849.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/849/text/I/D20160849.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/849",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 849,
+  "address": "WDU20160000849",
+  "displayAddress": "Dz.U. 2016 poz. 849",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 25 maja 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie obowiązkowych szczepień ochronnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-05-25",
+  "promulgation": "2016-06-15",
+  "expirationDate": "2018-04-19",
+  "changeDate": "2024-03-14T21:25:32",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "surowice i szczepionki",
+   "choroby zakaźne",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/1086"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160849.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160849.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
