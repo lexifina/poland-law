@@ -1,0 +1,1 @@
+Na podstawie art. 42 ust. 2 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2012 r. poz. 651 i 742 oraz z 2015 r. poz. 1844) zarządza się, co następuje:
