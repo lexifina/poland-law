@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że Prezydent Rzeczypospolitej Polskiej dnia 28 grudnia 2015 r. ratyfikował zmiany do załącznika do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem przyjętym w Londynie dnia 11 listopada 1988 r., przyjęte w Londynie w okresie od dnia 21 kwietnia 1988 r. do dnia 30 listopada 2012 r.
+
+Zgodnie z art. VIII konwencji zmiany weszły w życie w stosunku do Rzeczypospolitej Polskiej oraz pozostałych stron konwencji w okresie od dnia 22 października 1989 r. do dnia 1 lipca 2014 r., z wyłączeniem tych stron, które zgodnie z art. VIII ust. b pkt vi ppkt 2 konwencji zgłosiły sprzeciw do zmiany i go nie wycofały zgodnie z art. VIII ust. b pkt vii ppkt 2 konwencji.
+
+Ogłasza się jednolity tekst w języku polskim Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., wraz z Protokołem przyjętym w Londynie dnia 11 listopada 1988 r., przynależnymi załącznikami i certyfikatami.
