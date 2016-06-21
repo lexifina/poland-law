@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2013 r. poz. 246 i 1036, z 2015 r. poz. 978 oraz z 2016 r. poz. 615) zarządza się, co następuje:
