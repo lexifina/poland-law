@@ -1,0 +1,1 @@
+Na podstawie art. 69b ust. 6 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2013 r. poz. 1382, z 2015 r. poz. 978, 1260 i 1844 oraz z 2016 r. poz. 615) zarządza się, co następuje:
