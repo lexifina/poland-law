@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/900",
+ "source_sha256": "4aa8be839cbbe878f0656648dbc5eba9713a7736e56ba923a75748b010d1ad53",
+ "in_force": "2016-06-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/900",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/900/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/900/text/O/D20160900.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/900/text/I/D20160900.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/900/text/T/D20160900L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/900/text/U/D20160900Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/900",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 900,
+  "address": "WDU20160000900",
+  "displayAddress": "Dz.U. 2016 poz. 900",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Badań i Rozwoju",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-06-09",
+  "promulgation": "2016-06-24",
+  "expirationDate": "2017-07-28",
+  "changeDate": "2024-03-14T21:32:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Narodowe Centrum Badań i Rozwoju"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/616"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160900.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160900.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160900L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160900Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
