@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/902",
+ "source_sha256": "cec2cc780031caed1ca4a99cc415ddf9fae0c1d26e0ff58e730b82a39e6b8212",
+ "in_force": "2016-06-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/902",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/902/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/902/text/O/D20160902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/902/text/I/D20160902.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/902/text/T/D20160902L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/902/text/U/D20160902Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/902",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 902,
+  "address": "WDU20160000902",
+  "displayAddress": "Dz.U. 2016 poz. 902",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach samorządowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-06-10",
+  "promulgation": "2016-06-24",
+  "expirationDate": "2018-06-28",
+  "changeDate": "2024-03-14T21:32:24",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "zatrudnianie",
+   "pracownicy samorządowi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1458"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20160902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20160902.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20160902L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20160902Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
