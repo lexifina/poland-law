@@ -8,4 +8,6 @@
 
 § 1a. Z czynności sprawdzających u kontrahenta podatnika sporządza się protokół.
 
+§ 1b. Czynności określone w § 1 pkt 2 kontrahent podatnika jest obowiązany wykonać na własny koszt.
+
 § 2. Jeżeli miejsce zamieszkania, siedziba lub miejsce wykonywania działalności kontrahenta podatnika znajdują się poza obszarem działania organu prowadzącego postępowanie lub kontrolę, czynności sprawdzających, o których mowa w § 1, na zlecenie tego organu może także dokonać organ właściwy miejscowo.
