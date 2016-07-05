@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/618",
+ "source_sha256": "eb50c6bdbae4f481fd072941132358d48ece6b49d107d3ab9b1a6b19883fae81",
+ "in_force": "2016-07-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/618",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/618/text/O/M20160618.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/618/text/I/M20160618.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/618",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 618,
+  "address": "WMP20160000618",
+  "displayAddress": "M.P. 2016 poz. 618",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2016 r. w sprawie powołania członka Kolegium Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-06-23",
+  "promulgation": "2016-07-05",
+  "changeDate": "2020-01-13T14:47:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1998/1016"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 26 ist. 1"
+    },
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1a"
+    },
+    {
+     "id": "DU/1998/1016",
+     "art": "art. 15 ust. 3 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160618.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160618.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
