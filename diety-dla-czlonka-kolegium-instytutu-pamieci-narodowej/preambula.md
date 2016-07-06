@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 12 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 152, 178, 677 i 749) zarządza się, co następuje:
