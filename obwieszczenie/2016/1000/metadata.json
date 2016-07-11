@@ -1,0 +1,119 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1000",
+ "source_sha256": "12c67d92fef2b9e4aca4a57ea58335aba1f24c07958e41461f65a22dc0942ddd",
+ "in_force": "2016-07-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1000",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1000/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1000/text/O/D20161000.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1000/text/I/D20161000.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1000/text/T/D20161000L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1000/text/U/D20161000Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1000",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1000,
+  "address": "WDU20160001000",
+  "displayAddress": "Dz.U. 2016 poz. 1000",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-06-20",
+  "promulgation": "2016-07-11",
+  "repealDate": "2017-06-21",
+  "changeDate": "2024-03-14T21:30:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "biegli",
+   "sprawozdawczość",
+   "samorząd zawodowy",
+   "sprawozdanie finansowe"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31978L0660",
+    "date": "1978-07-25",
+    "title": "CZWARTA DYREKTYWA RADY z dnia 25 lipca 1978 r. wydana na podstawie art. 54 ust. 3 lit. g) Traktatu, w sprawie rocznych sprawozdań finansowych niektórych rodzajów spółek"
+   },
+   {
+    "address": "31983L0349",
+    "date": "1983-06-13",
+    "title": "SIÓDMA DYREKTYWA RADY z dnia 13 czerwca 1983 r. wydana na podstawie art. 54 ust. 3 lit. g) Traktatu, w sprawie skonsolidowanych sprawozdań finansowych"
+   },
+   {
+    "address": "31984L0253",
+    "date": "1984-04-10",
+    "title": "ÓSMA DYREKTYWA RADY z dnia 10 kwietnia 1984 r. wydana na podstawie art. 54 ust. 3 lit. g) Traktatu w sprawie zatwierdzania osób odpowiedzialnych za dokonywanie ustawowych kontroli dokumentów rachunkowych"
+   },
+   {
+    "address": "32006L0043",
+    "date": "2006-05-17",
+    "title": "Dyrektywa 2006/43/WE Parlamentu Europejskiego i Rady z dnia 17 maja 2006 r. w sprawie ustawowych badań rocznych sprawozdań finansowych i skonsolidowanych sprawozdań finansowych, zmieniająca dyrektywy Rady 78/660/EWG i 83/349/EWG oraz uchylająca dyrektywę Rady 84/253/EWG Tekst mający znaczenie dla EOG."
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2017/1089",
+     "date": "2017-06-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/649"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161000.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161000.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161000L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161000Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
