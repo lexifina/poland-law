@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1116",
+ "source_sha256": "38a9a78841f6faf973215dcfb82c953edd50e8c07f191ff4d6eb5a0352bff292",
+ "in_force": "2016-07-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 186 words, parsed 81; at 81: 'prostuje się następujące błędy : 1 ) w pkt 2'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1116",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1116/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1116/text/O/D20161116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1116/text/I/D20161116.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1116",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1116,
+  "address": "WDU20160001116",
+  "displayAddress": "Dz.U. 2016 poz. 1116",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 27 lipca 2016 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-07-27",
+  "promulgation": "2016-07-27",
+  "changeDate": "2024-03-14T21:27:30",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zwalczanie terroryzmu",
+   "sprostowanie",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2016/1101"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161116.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
