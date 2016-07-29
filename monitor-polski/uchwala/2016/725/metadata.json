@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/725",
+ "source_sha256": "95149d5b105ef40af2c0e89305305a723290cc48a01b14a3ced05ebdadf5dfd3",
+ "in_force": "2016-07-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/725",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/725/text/O/M20160725.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/725/text/I/M20160725.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/725",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 725,
+  "address": "WMP20160000725",
+  "displayAddress": "M.P. 2016 poz. 725",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 21 lipca 2016 r. w sprawie wyrażenia zgody na powołanie Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu",
+  "type": "Uchwała",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-07-21",
+  "promulgation": "2016-07-29",
+  "changeDate": "2016-08-04T09:07:18",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1016"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1016",
+     "art": "art. 10 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160725.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160725.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
