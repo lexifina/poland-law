@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/735",
+ "source_sha256": "1017df44da935b781ebb52ce57625f6e23e97ec0f62b2e572a4cb5ab4eefa406",
+ "in_force": "2016-07-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/735",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/735/text/O/M20160735.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/735/text/I/M20160735.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/735",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 735,
+  "address": "WMP20160000735",
+  "displayAddress": "M.P. 2016 poz. 735",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 22 lipca 2016 r. w sprawie powołania członka Krajowej Rady Radiofonii i Telewizji",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-07-22",
+  "promulgation": "2016-07-29",
+  "changeDate": "2022-07-07T15:04:37",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/34",
+     "art": "art. 214 ust. 1"
+    },
+    {
+     "id": "DU/1993/34",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160735.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160735.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
