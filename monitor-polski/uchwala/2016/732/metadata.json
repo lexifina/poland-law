@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/732",
+ "source_sha256": "b13cf120ec7468937af7180a86f6524579ea2d00b34b86faf39f8b5dc2b63a3c",
+ "in_force": "2016-07-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/732",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/732/text/O/M20160732.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/732/text/I/M20160732.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/732",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 732,
+  "address": "WMP20160000732",
+  "displayAddress": "M.P. 2016 poz. 732",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2016 r. w sprawie wyboru członka Rady Mediów Narodowych",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-07-22",
+  "promulgation": "2016-07-29",
+  "changeDate": "2019-07-18T10:37:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja"
+  ],
+  "keywordsNames": [
+   "Rada Mediów Narodowych"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2016/929"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 26 ust. 1"
+    },
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/2016/929",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160732.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160732.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
