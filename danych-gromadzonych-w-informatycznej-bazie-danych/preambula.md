@@ -1,0 +1,1 @@
+Na podstawie art. 102a ust. 6 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392, z 2014 r. poz. 827 oraz z 2015 r. poz. 1273, 1691, 1844 i 2281) zarządza się, co następuje:
