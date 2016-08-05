@@ -1,0 +1,112 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1070",
+ "source_sha256": "03b2ceabd1596f514721dcb6319d4c385c27509201fa1f6bdba64c93a6cc8718",
+ "in_force": "2016-08-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1070",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1070/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1070/text/O/D20161070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1070/text/I/D20161070.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1070/text/T/D20161070L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1070/text/U/D20161070Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1070",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1070,
+  "address": "WDU20160001070",
+  "displayAddress": "Dz.U. 2016 poz. 1070",
+  "title": "Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy - Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-06-10",
+  "promulgation": "2016-07-21",
+  "entryIntoForce": "2016-08-05",
+  "validFrom": "2016-08-05",
+  "changeDate": "2024-03-14T21:32:17",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lekarze",
+   "pacjenci",
+   "lekarze dentyści",
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [
+   "Rzecznik Praw Pacjenta"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=451",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/451",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/451",
+    "number": "451",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2012/219",
+     "date": "2017-08-06"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2016/2103",
+     "date": "2016-12-23"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2009/417",
+     "date": "2016-08-05"
+    },
+    {
+     "id": "DU/1997/555",
+     "date": "2016-08-05"
+    },
+    {
+     "id": "DU/1997/152",
+     "date": "2016-08-05"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161070.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161070L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161070Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
