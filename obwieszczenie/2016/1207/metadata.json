@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1207",
+ "source_sha256": "27b14b7294a66827f42303c066c049588f3c1eac47a62807058e83ad3dcb18c8",
+ "in_force": "2016-08-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1207",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1207/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1207/text/O/D20161207.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1207/text/I/D20161207.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1207/text/U/D20161207Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1207",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1207,
+  "address": "WDU20160001207",
+  "displayAddress": "Dz.U. 2016 poz. 1207",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lipca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach morskich",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-07-26",
+  "promulgation": "2016-08-10",
+  "expirationDate": "2020-01-31",
+  "changeDate": "2024-03-14T21:23:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morza",
+   "bezpieczeństwo żeglugi i wypadki morskie",
+   "żegluga morska",
+   "izby morskie",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1961/320"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161207.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161207.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161207Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
