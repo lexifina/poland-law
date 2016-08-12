@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1222",
+ "source_sha256": "defa77ed264ec0a083bd8248722414595cda759b2be105f485071ad116cfd103",
+ "in_force": "2016-08-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1222",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1222/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1222/text/O/D20161222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1222/text/I/D20161222.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1222/text/U/D20161222Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1222",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1222,
+  "address": "WDU20160001222",
+  "displayAddress": "Dz.U. 2016 poz. 1222",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie tłumacza przysięgłego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-07-22",
+  "promulgation": "2016-08-12",
+  "expirationDate": "2017-08-07",
+  "changeDate": "2024-03-14T21:36:49",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tłumacze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2004/2702"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161222.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161222Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
