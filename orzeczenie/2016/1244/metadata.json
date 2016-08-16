@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1244",
+ "source_sha256": "68d2a6a7847e3ef1c8d72692e65d54bbcb44dad6fe710d796d8e9dc842afd07b",
+ "in_force": "2016-08-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 735 words, parsed 74; at 74: 'czerwca 2016 r . : 1 ) skargi konstytucyjnej Fabryki'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1244",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1244/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1244/text/O/D20161244.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1244/text/I/D20161244.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1244/text/T/D20161244TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1244",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1244,
+  "address": "WDU20160001244",
+  "displayAddress": "Dz.U. 2016 poz. 1244",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 28 czerwca 2016 r. sygn. akt SK 31/14",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-06-28",
+  "promulgation": "2016-08-16",
+  "entryIntoForce": "2016-08-16",
+  "validFrom": "2016-08-16",
+  "changeDate": "2024-03-14T21:34:52",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "postępowanie egzekucyjne w administracji",
+   "postępowanie egzekucyjne",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1966/151",
+     "date": "2016-08-16"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1966/151"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161244.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161244.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161244TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
