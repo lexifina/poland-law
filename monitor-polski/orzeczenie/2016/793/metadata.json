@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/793",
+ "source_sha256": "fda153b0eef898e777bcf82a109bd709db824669c3ba7d50024deb83ac08ab74",
+ "in_force": "2016-08-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/793",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/793/text/O/M20160793.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/793/text/I/M20160793.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/MP/2016/793/text/T/M20160793TK.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/793",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 793,
+  "address": "WMP20160000793",
+  "displayAddress": "M.P. 2016 poz. 793",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 25 maja 2016 r. sygn. akt Kp 5/15",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-05-25",
+  "promulgation": "2016-08-16",
+  "entryIntoForce": "2016-08-16",
+  "validFrom": "2016-08-16",
+  "changeDate": "2018-07-23T11:02:05",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy wojskowe",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "wyrok dotyczy ustawy z dnia 11 wrzesnia 2015 r. o zmianie ustawy - Prawo o ustroju sądow wojskowych",
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/1997/753"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160793.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160793.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "M20160793TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
