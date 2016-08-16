@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1234",
+ "source_sha256": "7c03f7eda04462b0e36ee051a4bba3e5af25f3d88037dce27fb2f7482720919f",
+ "in_force": "2016-08-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 433 words, parsed 46; at 46: 'Kozieła o zbadanie zgodności : 1 ) art . 98'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1234",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1234/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1234/text/O/D20161234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1234/text/I/D20161234.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1234/text/T/D20161234TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1234",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1234,
+  "address": "WDU20160001234",
+  "displayAddress": "Dz.U. 2016 poz. 1234",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 6 kwietnia 2016 r. sygn. akt SK 67/13",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-04-06",
+  "promulgation": "2016-08-16",
+  "entryIntoForce": "2016-08-16",
+  "validFrom": "2016-08-16",
+  "changeDate": "2024-03-14T21:34:50",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty adwokackie",
+   "kodeks postępowania cywilnego"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/2002/1348"
+    },
+    {
+     "id": "DU/1997/643"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161234.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161234TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
