@@ -1,3 +1,3 @@
 # Art. 106b.
 
-(uchylony).
+(uchylony)

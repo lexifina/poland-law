@@ -1,0 +1,7 @@
+# Art. 76b.
+
+§ 1. Kto przez podanie danych niezgodnych ze stanem rzeczywistym lub zatajenie rzeczywistego stanu rzeczy wprowadza w błąd właściwy organ narażając na nienależny zwrot wydatków, o których mowa w przepisach o zwrocie osobom fizycznym niektórych wydatków poniesionych w związku z budową pierwszego własnego mieszkania, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
+
+§ 2. Jeżeli kwota narażona na nienależny zwrot wydatków, o których mowa w § 1, jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
+
+§ 3. Jeżeli kwota narażona na nienależny zwrot wydatków, o których mowa w § 1, nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.

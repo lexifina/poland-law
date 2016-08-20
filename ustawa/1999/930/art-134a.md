@@ -1,3 +1,5 @@
 # Art. 134a.
 
-Prokurator prowadzi postępowanie przygotowawcze, jeżeli przepis ustawy tak stanowi.
+§ 1. Prokurator prowadzi postępowanie przygotowawcze, jeżeli przepis ustawy tak stanowi.
+
+§ 2. Przepis art. 134 § 1a stosuje się odpowiednio.
