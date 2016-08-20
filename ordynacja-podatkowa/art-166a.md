@@ -1,3 +1,3 @@
 # Art. 166a.
 
-W postępowaniu przed organami celnymi, w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów, stosuje się przepis art. 90 Prawa celnego.
+Organ podatkowy może, w drodze postanowienia, połączyć oddzielne postępowania w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów w celu ich łącznego rozpatrzenia, jeżeli dotyczą tej samej osoby i są ze sobą w związku.
