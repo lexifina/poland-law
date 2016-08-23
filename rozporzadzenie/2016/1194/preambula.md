@@ -1,0 +1,1 @@
+Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. poz. 619 i 1241 oraz z 2015 r. poz. 1358) zarządza się, co następuje:
