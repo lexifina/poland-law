@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1379",
+ "source_sha256": "9ae36677d1aad34d6faa02319ebaffd84e60e0fa355debe116b41b57c0b57823",
+ "in_force": "2016-08-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1379",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1379/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1379/text/O/D20161379.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1379/text/I/D20161379.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1379/text/T/D20161379L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1379/text/U/D20161379Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1379",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1379,
+  "address": "WDU20160001379",
+  "displayAddress": "Dz.U. 2016 poz. 1379",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 sierpnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Karta Nauczyciela",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-08-23",
+  "promulgation": "2016-08-31",
+  "expirationDate": "2017-05-23",
+  "changeDate": "2024-03-14T21:33:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Karta Nauczyciela"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/19"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161379.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161379.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161379L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161379Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
