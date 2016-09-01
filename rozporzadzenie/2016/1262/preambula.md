@@ -1,0 +1,1 @@
+Na podstawie art. 13a ust. 4 pkt 1 ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893 oraz z 2016 r. poz. 588) zarządza się, co następuje:
