@@ -1,0 +1,1 @@
+Na podstawie art. 23, art. 25 i art. 27 ust. 2 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2015 r. poz. 139 i 1893) zarządza się, co następuje:
