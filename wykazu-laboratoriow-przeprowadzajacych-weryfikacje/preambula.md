@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 9 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2015 r. poz. 298 i 1916 oraz z 2016 r. poz. 960 i 1331) zarządza się, co następuje:
