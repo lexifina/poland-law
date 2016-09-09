@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1432",
+ "source_sha256": "ec4463438123782a6b2ad5780ae246f50cc14f0e8918b9915412a0a05ab03ded",
+ "in_force": "2016-09-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1432",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1432/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1432/text/O/D20161432.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1432/text/I/D20161432.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1432/text/T/D20161432L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1432/text/U/D20161432Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1432",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1432,
+  "address": "WDU20160001432",
+  "displayAddress": "Dz.U. 2016 poz. 1432",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 sierpnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-08-23",
+  "promulgation": "2016-09-09",
+  "expirationDate": "2017-11-30",
+  "changeDate": "2024-03-14T21:23:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona osób i mienia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/740"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161432.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161432.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161432L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161432Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
