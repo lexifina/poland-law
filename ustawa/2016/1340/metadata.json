@@ -1,0 +1,123 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1340",
+ "source_sha256": "41e8a5725507fe1f7cf77f262ac21fd816dae318bcc7c0bd516690ed0e92b64d",
+ "in_force": "2016-09-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1340",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1340/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1340/text/O/D20161340.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1340/text/I/D20161340.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1340/text/T/D20161340L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1340/text/U/D20161340Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1340",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1340,
+  "address": "WDU20160001340",
+  "displayAddress": "Dz.U. 2016 poz. 1340",
+  "title": "Ustawa z dnia 19 lipca 2016 r. o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-07-19",
+  "promulgation": "2016-08-26",
+  "entryIntoForce": "2016-09-10",
+  "validFrom": "2016-09-10",
+  "changeDate": "2026-06-03T14:05:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ŚRODOWISKA"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "genetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32014R0511",
+    "date": "2014-04-16",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 511/2014 z dnia 16 kwietnia 2014 r. w sprawie środków zapewniających zgodność użytkowników w Unii z wymogami wynikającymi z Protokołu z Nagoi dotyczącego dostępu do zasobów genetycznych oraz uczciwego i sprawiedliwego podziału korzyści wynikających z wykorzystania tych zasobów  Tekst mający znaczenie dla EOG"
+   },
+   {
+    "address": "32015R1866",
+    "date": "2015-10-13",
+    "title": "Rozporządzenie wykonawcze Komisji (UE) 2015/1866 z dnia 13 października 2015 r. ustanawiające szczegółowe zasady wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 511/2014 w odniesieniu do rejestru kolekcji, monitorowania zgodności użytkowników i najlepszych praktyk"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=644",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/644",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/644",
+    "number": "644",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2018/297"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/35",
+     "date": "2026-01-14"
+    },
+    {
+     "id": "DU/2018/1479",
+     "date": "2019-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/335",
+     "date": "2016-09-10"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2026/705"
+    },
+    {
+     "id": "DU/2019/1594"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161340.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161340.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161340L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161340Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
