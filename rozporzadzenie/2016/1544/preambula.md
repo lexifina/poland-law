@@ -1,0 +1,1 @@
+Na podstawie art. 17 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2015 r. poz. 385 i 1240 oraz z 2016 r. poz. 827) zarządza się, co następuje:
