@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 w związku z art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) Rada Ministrów Rzeczypospolitej Polskiej dnia 15 kwietnia 2016 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej dotyczącym zagadnień ochrony środowiska, przez podpisanie.
+
+Porozumienie zostało podpisane w Warszawie dnia 24 czerwca 2016 r. na podstawie art. 35 ust. 1 i w celu wykonania art. 3 ust. 5, art. 17 oraz art. 30 ust. 4, 8 i 15 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej, podpisanej w Warszawie dnia 11 grudnia 2009 r..
+
+Zgodnie z art. 9 ust. 1 porozumienia weszło ono w życie z dniem podpisania.
