@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1629",
+ "source_sha256": "12aa8f9ec2e1e81faa825badfa49dcd0856f1cff3998a0654494ec0ad2eef421",
+ "in_force": "2016-10-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1629",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1629/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1629/text/O/D20161629.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1629/text/I/D20161629.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1629/text/T/D20161629L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1629/text/U/D20161629Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1629",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1629,
+  "address": "WDU20160001629",
+  "displayAddress": "Dz.U. 2016 poz. 1629",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 września 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo geodezyjne i kartograficzne",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-09-12",
+  "promulgation": "2016-10-06",
+  "expirationDate": "2017-11-14",
+  "changeDate": "2024-03-14T21:31:45",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "geodezja i kartografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1989/163"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161629.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161629.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161629L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161629Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
