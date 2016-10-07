@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114 oraz z 2016 r. poz. 352 i 1579) zarządza się, co następuje:
