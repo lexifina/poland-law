@@ -18,6 +18,6 @@
 
 - 5) pouczenie o prawie złożenia korekty deklaracji;
 
-- 6) podpis osoby upoważnionej do zawiadomienia, a jeżeli zawiadomienie zostało wydane w formie dokumentu elektronicznego - bezpieczny podpis elektroniczny weryfikowany za pomocą ważnego kwalifikowanego certyfikatu.
+- 6) podpis osoby upoważnionej do zawiadomienia, a jeżeli zawiadomienie zostało wydane w formie dokumentu elektronicznego - kwalifikowany podpis elektroniczny albo podpis potwierdzony profilem zaufanym ePUAP.
 
 § 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór zawiadomienia o zamiarze wszczęcia kontroli podatkowej, uwzględniając elementy zawiadomienia określone w § 4 oraz możliwość wyrażenia zgody na wszczęcie kontroli lub złożenia wniosku o wszczęcie kontroli przed upływem 7 dni od dnia doręczenia zawiadomienia.

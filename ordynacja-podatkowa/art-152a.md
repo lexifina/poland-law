@@ -6,7 +6,7 @@
 
 - 2) wskazanie adresu elektronicznego, z którego adresat może pobrać pismo i pod którym powinien dokonać potwierdzenia doręczenia pisma;
 
-- 3) pouczenie dotyczące sposobu odbioru pisma, a w szczególności sposobu identyfikacji pod wskazanym adresem elektronicznym w systemie teleinformatycznym organu podatkowego, oraz informację o wymogu podpisania urzędowego poświadczenia odbioru w sposób, o którym mowa w art. 20a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- 3) pouczenie dotyczące sposobu odbioru pisma, a w szczególności sposobu identyfikacji pod wskazanym adresem elektronicznym w systemie teleinformatycznym organu podatkowego, oraz informację o wymogu podpisania urzędowego poświadczenia odbioru w określony sposób.
 
 § 2. W przypadku nieodebrania pisma w formie dokumentu elektronicznego w sposób określony w § 1 pkt 3, organ podatkowy po upływie 7 dni, licząc od dnia wysłania zawiadomienia, przesyła powtórne zawiadomienie o możliwości odebrania tego pisma.
 

@@ -6,4 +6,4 @@
 
 § 3. Interpretacja indywidualna zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
 
-§ 4. Interpretacja indywidualna wydana w formie dokumentu elektronicznego jest opatrzona bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.
+§ 4. Interpretację indywidualną wydaną w formie dokumentu elektronicznego opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.

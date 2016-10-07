@@ -18,4 +18,4 @@
 
 - 1) potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w deklaracjach i podaniach oraz potrzebę ich ochrony przed nieuprawnionym dostępem;
 
-- 2) limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikających z deklaracji i rodzaj podatku, którego dotyczy deklaracja, a także wymagania dla poszczególnych rodzajów podpisu określone w przepisach o podpisie elektronicznym, w szczególności dotyczące weryfikacji podpisu i znakowania czasem.
+- 2) limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikających z deklaracji i rodzaj podatku, którego dotyczy deklaracja, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego, w szczególności dotyczące weryfikacji podpisu i kwalifikowanych elektronicznych znaczników czasu.
