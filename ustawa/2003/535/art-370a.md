@@ -1,0 +1,11 @@
+# Art. 370a.
+
+1. W postanowieniu o ustaleniu planu spłaty wierzycieli sąd określa, w jakim zakresie i w jakim czasie, nie dłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania uznane na liście wierzytelności a niewykonane w toku postępowania upadłościowego na podstawie planów podziału oraz jaka część zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości zostanie umorzona po wykonaniu planu spłaty wierzycieli.
+
+2. Zobowiązania powstałe po ogłoszeniu upadłości i niewykonane w toku postępowania uwzględnia się w planie spłaty wierzycieli w pełnej wysokości, przy czym ich spłata może być rozłożona na raty na czas nie dłuższy niż przewidziany na wykonanie planu spłaty wierzycieli.
+
+3. Sąd nie jest związany stanowiskiem upadłego co do treści planu spłaty wierzycieli. Ustalając plan spłaty wierzycieli, sąd bierze pod uwagę możliwości zarobkowe upadłego, konieczność utrzymania upadłego i osób pozostających na jego utrzymaniu, w tym ich potrzeby mieszkaniowe, wysokość niezaspokojonych wierzytelności i realność ich zaspokojenia w przyszłości.
+
+4. Postanowienie sądu o ustaleniu planu spłaty wierzycieli obwieszcza się. Na postanowienie sądu w przedmiocie ustalenia planu spłaty przysługuje zażalenie.
+
+5. Ustalenie planu spłaty wierzycieli nie narusza praw wierzyciela wobec poręczyciela upadłego oraz współdłużnika upadłego ani praw wynikających z hipoteki, zastawu, zastawu rejestrowego, zastawu skarbowego lub hipoteki morskiej, jeżeli były one ustanowione na mieniu osoby trzeciej. Ustalenie planu spłaty wierzycieli i umorzenie zobowiązań upadłego jest skuteczne również w stosunkach między upadłym, a poręczycielem, gwarantem i współdłużnikiem upadłego.
