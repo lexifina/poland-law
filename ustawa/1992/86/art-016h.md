@@ -16,7 +16,7 @@
 
 3a. Przepis ust. 3 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego, jeżeli składniki majątku wchodzące w skład wkładu niepieniężnego były wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych podmiotu wnoszącego taki wkład.
 
-3b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 3 stosuje się odpowiednio.
+3b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części albo komercjalizowanej własności intelektualnej wniesionej przez podmiot komercjalizujący, przepis ust. 3 stosuje się odpowiednio.
 
 3c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 3 stosuje się odpowiednio.
 

@@ -6,11 +6,11 @@
 
 3. Jeżeli w trakcie roku podatkowego gmina zostanie wyłączona z wykazu, o którym mowa w ust. 2, podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
 
-4. (uchylony).
+4. (uchylony)
 
-5. (uchylony).
+5. (uchylony)
 
-6. (uchylony).
+6. (uchylony)
 
 7. Podatnicy w roku podatkowym, w którym rozpoczęli działalność, z zastrzeżeniem ust. 11, oraz mali podatnicy, mogą dokonywać jednorazowo odpisów amortyzacyjnych od wartości początkowej środków trwałych zaliczonych do grupy 3-8 Klasyfikacji, z wyłączeniem samochodów osobowych, w roku podatkowym, w którym środki te zostały wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych, do wysokości nieprzekraczającej w roku podatkowym równowartości kwoty 50 000 euro łącznej wartości tych odpisów amortyzacyjnych.
 
@@ -30,4 +30,4 @@
 
 12. Przeliczenia na złote kwot, o których mowa w ust. 7 i ust. 11 pkt 3, dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy, w którym wystąpiły zdarzenia, o których mowa w tych przepisach, w zaokrągleniu do 1000 zł.
 
-13. W przypadku spółki niebędącej osobą prawną kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, dotyczy tej spółki.
+13. W przypadku spółki niebędącej osobą prawną kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, odnosi się do łącznej wartości odpisów przypadających zgodnie z art. 5 na wspólników tej spółki.

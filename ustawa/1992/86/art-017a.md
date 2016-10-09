@@ -28,6 +28,6 @@ Ilekroć w rozdziale jest mowa o:
 
   - a) odpisy amortyzacyjne obliczone według zasad określonych w art. 16k ust. 1 z uwzględnieniem współczynnika 3 - w odniesieniu do środków trwałych,
 
-  - b) odpisy amortyzacyjne obliczone przy zastosowaniu trzykrotnie skróconych okresów amortyzowania, o których mowa w pkt 4b - w odniesieniu do wartości niematerialnych i prawnych;
+  - b) odpisy amortyzacyjne obliczone przy zastosowaniu trzykrotnie skróconych okresów amortyzowania, o których mowa w pkt 4 lit. b - w odniesieniu do wartości niematerialnych i prawnych;
 
 - 7) spłacie wartości początkowej - rozumie się przez to faktycznie otrzymaną przez finansującego w opłatach ustalonych w umowie leasingu równowartość wartości początkowej środków trwałych lub wartości niematerialnych i prawnych, określoną zgodnie z art. 16g, w podstawowym okresie umowy leasingu; spłaty tej nie koryguje się o kwotę wypłaconą korzystającemu, o której mowa w art. 17d albo art. 17h.

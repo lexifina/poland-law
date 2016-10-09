@@ -12,7 +12,7 @@
 
 - 5) licencje,
 
-- 6) prawa określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2013 r. poz. 1410),
+- 6) prawa określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej,
 
 - 7) wartość stanowiącą równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how)
 
@@ -20,7 +20,7 @@
 
 2. Amortyzacji podlegają również, z zastrzeżeniem art. 16c, niezależnie od przewidywanego okresu używania:
 
-- 1) (uchylony),
+- 1) (uchylony)
 
 - 2) wartość firmy, jeżeli wartość ta powstała w wyniku nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze:
 

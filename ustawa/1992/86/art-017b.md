@@ -14,7 +14,7 @@
 
 - 2) przepisów o specjalnych strefach ekonomicznych,
 
-- 3) art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. Nr 26, poz. 143, z 1998 r. Nr 160, poz. 1063 oraz z 1999 r. Nr 49, poz. 484 i Nr 101, poz. 1178)
+- 3) art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. poz. 143, z 1998 r. poz. 1063 oraz z 1999 r. poz. 484 i 1178)
 
 - do umowy tej stosuje się zasady opodatkowania określone w art. 17f-17h.
 

@@ -10,7 +10,7 @@
 
 - 3) w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób wartość rynkową z dnia nabycia, chyba że umowa darowizny albo umowa o nieodpłatnym przekazaniu określa tę wartość w niższej wysokości;
 
-- 4) w razie nabycia w postaci wkładu niepieniężnego wniesionego do spółki, a także wkładu w spółdzielni - ustaloną przez podatnika na dzień wniesienia wkładu lub udziału wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej;
+- 4) w razie nabycia w postaci wkładu niepieniężnego wniesionego do spółki albo spółdzielni - ustaloną przez podatnika, z zastrzeżeniem pkt 4c, na dzień wniesienia wkładu wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej;
 
 - 4a) w razie nabycia w postaci wkładu niepieniężnego wniesionego do spółki niebędącej osobą prawną:
 
@@ -24,9 +24,15 @@
 
   - a) wartość początkową, od której dokonywane były odpisy amortyzacyjne,
 
-  - b) wartość poniesionych wydatków na nabycie albo wytworzenie składników majątku, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie - jeżeli rzeczy te lub prawa nie były amortyzowane,
+  - b) wartość poniesionych wydatków na nabycie albo wytworzenie składników majątku, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie - jeżeli rzeczy te lub prawa nie były amortyzowane;
 
-- 5) w razie otrzymania w związku z likwidacją osoby prawnej lub spółki, z zastrzeżeniem ust. 10b - ustaloną przez podatnika wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej.
+- 4c) w razie nabycia w postaci wkładu niepieniężnego komercjalizowanej własności intelektualnej wniesionej do spółki kapitałowej przez podmiot komercjalizujący - wartość, o której mowa w art. 15 ust. 1s;
+
+- 5) w razie otrzymania w związku z likwidacją osoby prawnej lub spółki, z zastrzeżeniem ust. 10b - ustaloną przez podatnika wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej;
+
+- 6) w razie nabycia, w następstwie wykonania świadczenia niepieniężnego, o którym mowa w art. 14a - wartość wierzytelności (należności) uregulowanej w wyniku wykonania świadczenia niepieniężnego, o którym mowa w tym przepisie; przepis ust. 3 stosuje się odpowiednio;
+
+- 7) w przypadku prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2, działalności na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład lub przeniesienia przez spółki zawiązane na podstawie rozporządzenia Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) i spółdzielnie zawiązane na podstawie rozporządzenia Rady (WE) nr 1435/2003 z dnia 22 lipca 2003 r. w sprawie statutu spółdzielni europejskiej (SCE) ich siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej - wartość, o której mowa w art. 15 ust. 1y, nie wyższą jednak od wartości rynkowej składnika majątku.
 
 1a. Przepis ust. 1 pkt 4a lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki.
 
@@ -52,9 +58,9 @@
 
 - 2) różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi - w przypadku niewystąpienia dodatniej wartości firmy.
 
-10a. Przepis ust. 9 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
+10a. Przepis ust. 9 stosuje się odpowiednio w razie nabycia przedsiębiorstwa, jego zorganizowanej części lub komercjalizowanej własności intelektualnej wnoszonej przez podmiot komercjalizujący, w drodze wkładu niepieniężnego.
 
-10b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 9 stosuje się odpowiednio.
+10b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części albo komercjalizowanej własności intelektualnej wnoszonej przez podmiot komercjalizujący, przepis ust. 9 stosuje się odpowiednio.
 
 10c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 9 stosuje się odpowiednio.
 
@@ -66,7 +72,7 @@
 
 14. Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę, przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
 
-15. (uchylony).
+15. (uchylony)
 
 16. W razie trwałego odłączenia od danego środka trwałego części składowej lub peryferyjnej wartość początkową tego środka zmniejsza się, od następnego miesiąca po odłączeniu, o różnicę między ceną nabycia (kosztem wytworzenia) odłączonej części a przypadającą na nią, w okresie połączenia, sumą odpisów amortyzacyjnych obliczoną przy zastosowaniu metody amortyzacji i stawki amortyzacyjnej stosowanej przy obliczaniu odpisów amortyzacyjnych tego środka trwałego.
 
@@ -78,4 +84,4 @@
 
 20. W razie zmiany formy opodatkowania z podatku tonażowego na podatek dochodowy podatnicy w ewidencji, o której mowa w art. 9, uwzględniają odpisy amortyzacyjne przypadające za okres opodatkowania w formie podatku tonażowego.
 
-21. W przypadku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową, podatnicy w ewidencji, o której mowa w art. 9, uwzględniają również odpisy amortyzacyjne przypadające za okres opodatkowania osoby fizycznej zgodnie z ustawą z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.). Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.
+21. W przypadku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową, podatnicy w ewidencji, o której mowa w art. 9, uwzględniają również odpisy amortyzacyjne przypadające za okres opodatkowania osoby fizycznej zgodnie z ustawą z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. poz. 930, z późn. zm.). Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.

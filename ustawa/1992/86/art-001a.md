@@ -6,7 +6,7 @@
 
 - 1) podatkową grupę kapitałową mogą tworzyć wyłącznie spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, mające siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli:
 
-  - a) przeciętny kapitał zakładowy, określony w sposób, o którym mowa w art. 16 ust. 7, przypadający na każdą z tych spółek, jest nie niższy niż 1 000 000 zł,
+  - a) przeciętny kapitał zakładowy, określony w sposób, o którym mowa w ust. 2b, przypadający na każdą z tych spółek, jest nie niższy niż 1 000 000 zł,
 
   - b) jedna ze spółek, zwana dalej „spółką dominującą”, posiada bezpośredni 95% udział w kapitale zakładowym lub w tej części kapitału zakładowego pozostałych spółek, zwanych dalej „spółkami zależnymi”, która na podstawie przepisów o komercjalizacji i prywatyzacji nie została nieodpłatnie lub na zasadach preferencyjnych nabyta przez pracowników, rolników lub rybaków albo która nie stanowi rezerwy mienia Skarbu Państwa na cele reprywatyzacji,
 
@@ -25,6 +25,8 @@
 - 4) podatkowa grupa kapitałowa osiągnie za każdy rok podatkowy udział dochodów w przychodach, określony zgodnie z art. 7a ust. 1, w wysokości co najmniej 3%.
 
 2a. Warunek określony w ust. 2 pkt 1 lit. d uważa się za spełniony również wtedy, gdy spółka po przystąpieniu do podatkowej grupy kapitałowej dokona korekty deklaracji podatkowej i ureguluje tę zaległość wraz z należnymi odsetkami w terminie 14 dni od dnia złożenia korekty deklaracji albo w terminie 14 dni od dnia doręczenia decyzji organu pierwszej instancji, określającej wysokość zobowiązania, ureguluje tę zaległość wraz z należnymi odsetkami.
+
+2b. Wartość kapitału zakładowego, o której mowa w ust. 2 pkt 1 lit. a, określa się bez uwzględnienia tej części tego kapitału, jaka nie została na ten kapitał faktycznie przekazana lub jaka została pokryta wierzytelnościami z tytułu pożyczek (kredytów) oraz z tytułu odsetek od tych pożyczek (kredytów), przysługującymi udziałowcom (akcjonariuszom) wobec tej spółki, a także wartościami niematerialnymi lub prawnymi, od których nie dokonuje się odpisów amortyzacyjnych zgodnie z art. 16a-16m.
 
 3. Umowa musi zawierać co najmniej:
 

@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
 
@@ -12,25 +12,27 @@ Ilekroć w ustawie jest mowa o:
 
 - 5) programie restrukturyzacji na podstawie odrębnych ustaw - oznacza to restrukturyzację na podstawie ustaw:
 
-  - a) z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. Nr 162, poz. 1112, z późn. zm.),
+  - a) z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.) ,
 
-  - b) z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. Nr 83, poz. 932, z późn. zm.),
+  - b) z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1876),
 
-  - c) z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. Nr 74, poz. 856 oraz z 2003 r. Nr 175, poz. 1693),
+  - c) z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. poz. 856, z 2003 r. poz. 1693 oraz z 2016 r. poz. 266),
 
-  - d) z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.),
+  - d) z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2014 r. poz. 1160, z 2015 r. poz. 200 oraz z 2016 r. poz. 615),
 
-  - e) z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. Nr 111, poz. 1196, z późn. zm.),
+  - e) z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.),
 
-  - f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684, z późn. zm.);
+  - f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 684, z późn. zm.);
 
-- 6) urzędzie skarbowym - rozumie się przez to urząd skarbowy, którym kieruje właściwy dla podatnika naczelnik urzędu skarbowego;
+- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2016 r. poz. 1574 i 1579);
 
-- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.);
+- 6) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
-- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100, z późn. zm.);
+- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.);
 
-- 9) (uchylony);
+- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2015 r. poz. 696 i 1777);
+
+- 9) (uchylony)
 
 - 9a) samochodzie osobowym - oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem:
 
@@ -60,7 +62,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) spółce niebędącej osobą prawną - oznacza to spółkę niebędącą podatnikiem podatku dochodowego;
 
-- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94 i 586);
+- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636);
 
 - 16) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
 
@@ -72,4 +74,54 @@ Ilekroć w ustawie jest mowa o:
 
 - 20) objęciu udziału (akcji) - oznacza to również uzyskanie przez wspólnika spółki, o której mowa w art. 1 ust. 3, ogółu praw i obowiązków wspólnika w tej spółce;
 
-- 21) spółce - oznacza to spółkę będącą podatnikiem.
+- 21) spółce - oznacza to spółkę będącą podatnikiem;
+
+- 22) pochodnych instrumentach finansowych - oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyłączeniem tytułów uczestnictwa w instytucjach wspólnego inwestowania oraz instrumentów rynku pieniężnego;
+
+- 23) komercjalizowanej własności intelektualnej - oznacza to:
+
+  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2013 r. poz. 1410 oraz z 2015 r. poz. 1266, 1505 i 1615),
+
+  - b) autorskie prawa majątkowe do programu komputerowego,
+
+  - c) równowartość udokumentowanej wiedzy (informacji) nadającej się do wykorzystania w działalności przemysłowej, naukowej lub handlowej (know-how),
+
+  - d) prawa do korzystania z praw lub wartości wymienionych w lit. a-c na podstawie umowy licencyjnej;
+
+- 24) podmiocie komercjalizującym - oznacza to:
+
+  - a) uczelnię w rozumieniu ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.),
+
+  - b) spółkę utworzoną na podstawie art. 86a ust. 1 lub art. 86b ust. 1 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym,
+
+  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2016 r. poz. 572 i 1311),
+
+  - d) spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
+
+  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079 i 1311),
+
+  - f) spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
+
+  - g) twórcę uprawnionego do praw lub wartości wymienionych w pkt 23 lit. a-c, a także zawarcia umowy licencyjnej, o której mowa w pkt 23 lit. d,
+
+  - h) międzynarodowy instytut naukowy utworzony na podstawie odrębnych przepisów, działający na terytorium Rzeczypospolitej Polskiej
+
+  - jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
+
+- 25) krótkiej sprzedaży - oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+
+- 26) działalności badawczo-rozwojowej - oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
+
+- 27) badaniach naukowych - oznacza to:
+
+  - a) badania podstawowe - oryginalne prace badawcze, eksperymentalne lub teoretyczne podejmowane przede wszystkim w celu zdobywania nowej wiedzy o podstawach zjawisk i obserwowalnych faktów bez nastawienia na bezpośrednie zastosowanie komercyjne,
+
+  - b) badania stosowane - prace badawcze podejmowane w celu zdobycia nowej wiedzy, zorientowane przede wszystkim na zastosowanie w praktyce,
+
+  - c) badania przemysłowe - badania mające na celu zdobycie nowej wiedzy oraz umiejętności w celu opracowywania nowych produktów, procesów i usług lub wprowadzania znaczących ulepszeń do istniejących produktów, procesów i usług; badania te uwzględniają tworzenie elementów składowych systemów złożonych, budowę prototypów w środowisku laboratoryjnym lub w środowisku symulującym istniejące systemy, szczególnie do oceny przydatności danych rodzajów technologii, a także budowę niezbędnych w tych badaniach linii pilotażowych, w tym do uzyskania dowodu w przypadku technologii generycznych;
+
+- 28) pracach rozwojowych - oznacza to nabywanie, łączenie, kształtowanie i wykorzystywanie dostępnej aktualnie wiedzy i umiejętności z dziedziny nauki, technologii i działalności gospodarczej oraz innej wiedzy i umiejętności do planowania produkcji oraz tworzenia i projektowania nowych, zmienionych lub ulepszonych produktów, procesów i usług, z wyłączeniem prac obejmujących rutynowe i okresowe zmiany wprowadzane do produktów, linii produkcyjnych, procesów wytwórczych, istniejących usług oraz innych operacji w toku, nawet jeżeli takie zmiany mają charakter ulepszeń, w szczególności:
+
+  - a) opracowywanie prototypów i projektów pilotażowych oraz demonstracje, testowanie i walidację nowych lub ulepszonych produktów, procesów lub usług w otoczeniu stanowiącym model warunków rzeczywistego funkcjonowania, których głównym celem jest dalsze udoskonalenie techniczne produktów, procesów lub usług, których ostateczny kształt nie został określony,
+
+  - b) opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna;

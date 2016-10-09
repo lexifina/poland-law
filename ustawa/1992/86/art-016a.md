@@ -20,4 +20,4 @@
 
 - zwane także środkami trwałymi;
 
-- 4) tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) wprowadzonej rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. Nr 207, poz. 1293 i Nr 220, poz. 1435 oraz z 2009 r. Nr 33, poz. 256 i Nr 222, poz. 1753) w grupowaniu o symbolu 30.11 „Statki i konstrukcje pływające”.
+- 4) tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) wprowadzonej rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753) w grupowaniu o symbolu 30.11 „Statki i konstrukcje pływające”.
