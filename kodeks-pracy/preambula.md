@@ -1,1 +1,1 @@
-Preambuła (uchylona).
+Preambuła (uchylona)
