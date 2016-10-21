@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 4 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. poz. 226, z 2011 r. poz. 196, z 2013 r. poz. 1012, z 2015 r. poz. 1513 i 1844 oraz z 2016 r. poz. 996) zarządza się, co następuje:
