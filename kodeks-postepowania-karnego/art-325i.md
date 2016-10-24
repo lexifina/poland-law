@@ -1,3 +1,5 @@
+# Art. 325i.
+
 § 1. Dochodzenie powinno być ukończone w ciągu 2 miesięcy. Prokurator może przedłużyć ten okres do 3 miesięcy, a w wypadkach szczególnie uzasadnionych - na dalszy czas oznaczony.
 
 § 2. (uchylony)

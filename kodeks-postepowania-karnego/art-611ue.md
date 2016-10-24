@@ -1,0 +1,9 @@
+# Art. 611ue.
+
+§ 1. Sąd rozpoznaje sprawę wykonania orzeczenia, o którym mowa w art. 611ud § 1, na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
+
+§ 2. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
+
+§ 3. Orzekając o wykonaniu kary lub środka, o których mowa w art. 611ud § 1, sąd określa kwalifikację prawną czynu według prawa polskiego. Jeżeli rodzaj kary lub środka albo sposób wykonania nałożonych obowiązków są nieznane ustawie, sąd określa karę, środek lub obowiązek według prawa polskiego. Podstawę określenia kary lub środka podlegającego wykonaniu stanowi orzeczenie wydane przez sąd państwa członkowskiego Unii Europejskiej, kara grożąca za taki czyn w polskim prawie oraz okres rzeczywistego wykonywania kary, środka lub obowiązku za granicą, z uwzględnieniem różnic na korzyść skazanego. Jeżeli wymiar kary, środka, obowiązku lub okresu próby jest wyższy niż przewidziany w ustawie, sąd określa go w górnej granicy wymiaru według prawa polskiego.
+
+§ 4. Jeżeli orzeczenie, o którym mowa w art. 611ud § 1, nie określa kary pozbawienia wolności, która będzie wymierzona sprawcy w wypadku niewykonywania nałożonych obowiązków lub podjęcia warunkowo umorzonego postępowania karnego, sąd orzeka o wykonaniu orzeczenia jedynie w zakresie nałożonych w nim obowiązków. Art. 611ub § 2 i 3 stosuje się odpowiednio.

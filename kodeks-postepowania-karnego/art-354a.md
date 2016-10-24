@@ -1,3 +1,5 @@
+# Art. 354a.
+
 § 1. Przed orzeczeniem środka zabezpieczającego, o którym mowa w art. 93a § 1 Kodeksu karnego, albo nakazu lub zakazów, o których mowa w art. 39 pkt 2-3 Kodeksu karnego, orzeczonych tytułem środka zabezpieczającego, sąd wysłuchuje:
 
 - 1) biegłego psychologa;

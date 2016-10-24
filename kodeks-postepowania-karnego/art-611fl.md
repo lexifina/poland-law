@@ -1,0 +1,3 @@
+# Art. 611fl.
+
+O treści postanowienia w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, jak również o zakończeniu postępowania egzekucyjnego, a także o zamianie kary o charakterze pieniężnym na pracę społecznie użyteczną lub o wykonaniu zastępczej kary pozbawienia wolności, jeżeli prawo polskie dopuszcza taką możliwość, powiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
