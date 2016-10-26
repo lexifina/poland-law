@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1764",
+ "source_sha256": "c14bb59741c7450ba9142b62f7093231c635a61952ee43945936a086c4ca1daa",
+ "in_force": "2016-10-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1764",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1764/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1764/text/O/D20161764.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1764/text/I/D20161764.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1764/text/T/D20161764L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1764/text/U/D20161764Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1764",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1764,
+  "address": "WDU20160001764",
+  "displayAddress": "Dz.U. 2016 poz. 1764",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 października 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dostępie do informacji publicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-10-13",
+  "promulgation": "2016-10-26",
+  "expirationDate": "2018-07-10",
+  "changeDate": "2024-03-14T21:25:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informacja publiczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1198"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161764.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161764.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161764L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161764Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
