@@ -1,0 +1,57 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1234",
+ "source_sha256": "9ef036aab5869f6e2d2ed5263d0760aa932d7d5f91af44adcdba614417c9e571",
+ "in_force": "2016-10-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1234/text/O/M20161234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1234/text/I/M20161234.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1234",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1234,
+  "address": "WMP20160001234",
+  "displayAddress": "M.P. 2016 poz. 1234",
+  "title": "Postanowienie nr rej. 513/2016 Prezydenta Rzeczypospolitej Polskiej z dnia 27 października 2016 r. o nadaniu orderów",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-10-27",
+  "promulgation": "2016-12-21",
+  "entryIntoForce": "2016-10-27",
+  "validFrom": "2016-10-27",
+  "changeDate": "2017-03-21T12:34:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
