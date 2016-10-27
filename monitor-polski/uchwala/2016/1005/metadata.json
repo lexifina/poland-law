@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1005",
+ "source_sha256": "d0cbb0b8567d0d1c8f007116076d98a8cb6647811ec5300197682f4ffb91a5ef",
+ "in_force": "2016-10-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1005",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1005/text/O/M20161005.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1005/text/I/M20161005.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1005",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1005,
+  "address": "WMP20160001005",
+  "displayAddress": "M.P. 2016 poz. 1005",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 21 października 2016 r. w sprawie zmian w składzie osobowym Komisji Śledczej do zbadania prawidłowości i legalności działań organów i instytucji publicznych wobec podmiotów wchodzących w skład Grupy Amber Gold",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-10-21",
+  "promulgation": "2016-10-27",
+  "changeDate": "2020-01-13T14:41:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje śledcze"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1999/321"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 136c ust. 12"
+    },
+    {
+     "id": "DU/1999/321",
+     "art": "art. 2 ust. 1"
+    },
+    {
+     "id": "DU/1999/321",
+     "art": "art. 5a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161005.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161005.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
