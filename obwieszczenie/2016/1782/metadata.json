@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1782",
+ "source_sha256": "4d7492fad0d4db1be90941f73f8a8c0f81b6459ce28e105ea90ff7c1398dac36",
+ "in_force": "2016-10-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1782",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1782/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1782/text/O/D20161782.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1782/text/I/D20161782.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1782/text/T/D20161782L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1782/text/U/D20161782Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1782",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1782,
+  "address": "WDU20160001782",
+  "displayAddress": "Dz.U. 2016 poz. 1782",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 października 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Policji",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-10-07",
+  "promulgation": "2016-10-31",
+  "expirationDate": "2017-11-08",
+  "changeDate": "2024-03-14T21:36:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/179"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161782.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161782.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161782L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161782Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
