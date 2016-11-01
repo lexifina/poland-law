@@ -1,0 +1,1 @@
+Na podstawie art. 36 ust. 5 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2016 r. poz. 879 i 960) zarządza się, co następuje:
