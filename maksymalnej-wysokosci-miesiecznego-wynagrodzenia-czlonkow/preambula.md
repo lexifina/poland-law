@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 11 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996) zarządza się, co następuje:
