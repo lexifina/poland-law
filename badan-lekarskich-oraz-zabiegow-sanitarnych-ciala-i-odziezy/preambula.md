@@ -1,0 +1,1 @@
+Na podstawie art. 81 ust. 5 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 680, z 2013 r. poz. 1650, z 2014 r. poz. 1004, z 2015 r. poz. 1607 oraz z 2016 r. poz. 783) zarządza się, co następuje:
