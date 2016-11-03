@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1794",
+ "source_sha256": "4d50227ce09a572c853c784e38e9985fa9e2e82b5451830926320b33da22af7b",
+ "in_force": "2016-11-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1794",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1794/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1794/text/O/D20161794.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1794/text/I/D20161794.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1794",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1794,
+  "address": "WDU20160001794",
+  "displayAddress": "Dz.U. 2016 poz. 1794",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 18 października 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie kamiennogórskiej specjalnej strefy ekonomicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-10-18",
+  "promulgation": "2016-11-03",
+  "expirationDate": "2018-11-04",
+  "changeDate": "2024-03-14T21:30:50",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "specjalna strefa ekonomiczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1549"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161794.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161794.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
