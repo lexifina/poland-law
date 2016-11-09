@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1084",
+ "source_sha256": "b82df7e4ed86b46b865f9efe9b5874700215fc1f04d39fc48807c59c848d7f30",
+ "in_force": "2016-11-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1084",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1084/text/O/M20161084.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1084/text/I/M20161084.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1084",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1084,
+  "address": "WMP20160001084",
+  "displayAddress": "M.P. 2016 poz. 1084",
+  "title": "Postanowienie nr 112.43.2016 Prezydenta Rzeczypospolitej Polskiej z dnia 23 sierpnia 2016 r. o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-08-23",
+  "promulgation": "2016-11-09",
+  "changeDate": "2018-01-16T15:11:46",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161084.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161084.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
