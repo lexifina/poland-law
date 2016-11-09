@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1092",
+ "source_sha256": "4939985e3bfda9d6fdb7743cf357f169946b6ed8f77a2c663d70880d46ec1ce6",
+ "in_force": "2016-11-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1092",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1092/text/O/M20161092.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1092/text/I/M20161092.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1092",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1092,
+  "address": "WMP20160001092",
+  "displayAddress": "M.P. 2016 poz. 1092",
+  "title": "Postanowienie nr 112.35.2016 Prezydenta Rzeczypospolitej Polskiej z dnia 2 września 2016 r. w sprawie mianowania na stopień generała broni",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-09-02",
+  "promulgation": "2016-11-09",
+  "changeDate": "2018-05-21T09:50:59",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4 i ust. 8b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161092.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161092.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
