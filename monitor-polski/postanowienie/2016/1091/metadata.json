@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1091",
+ "source_sha256": "92a2b9aef6484342ece44fb9eb98fd92b4c061148b3a8b0a807ce7bd95653385",
+ "in_force": "2016-11-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1091",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1091/text/O/M20161091.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1091/text/I/M20161091.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1091",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1091,
+  "address": "WMP20160001091",
+  "displayAddress": "M.P. 2016 poz. 1091",
+  "title": "Postanowienie nr 112.34.2016 Prezydenta Rzeczypospolitej Polskiej z dnia 2 września 2016 r. w sprawie mianowania na stopień generała brygady",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-09-02",
+  "promulgation": "2016-11-09",
+  "changeDate": "2018-05-21T09:51:07",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161091.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161091.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
