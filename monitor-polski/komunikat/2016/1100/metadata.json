@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1100",
+ "source_sha256": "6ab60d4ef566f84a96d87a1dff4d01125fd12f6fe0bbedb0d9f6149df756ee3f",
+ "in_force": "2016-11-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1100",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1100/text/O/M20161100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1100/text/I/M20161100.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1100",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1100,
+  "address": "WMP20160001100",
+  "displayAddress": "M.P. 2016 poz. 1100",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 10 listopada 2016 r. w sprawie przeciętnego wynagrodzenia w trzecim kwartale 2016 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-11-10",
+  "promulgation": "2016-11-14",
+  "changeDate": "2020-11-13T11:47:30",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "wynagrodzenia przeciętne",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 20 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
