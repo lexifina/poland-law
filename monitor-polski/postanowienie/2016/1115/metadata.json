@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1115",
+ "source_sha256": "bc817d7f1cb5a25dd9816b938820a270722b7e4a1c1084c5530558c341481220",
+ "in_force": "2016-11-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1115",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1115/text/O/M20161115.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1115/text/I/M20161115.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1115",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1115,
+  "address": "WMP20160001115",
+  "displayAddress": "M.P. 2016 poz. 1115",
+  "title": "Postanowienie nr 110.68.2016 Prezydenta Rzeczypospolitej Polskiej z dnia 7 października 2016 r. w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-10-07",
+  "promulgation": "2016-11-15",
+  "changeDate": "2017-06-26T09:56:04",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Luksemburg"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161115.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161115.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
