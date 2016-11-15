@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1842",
+ "source_sha256": "dd7b1efaa4dbd9fb840589f0d088658b3a71fbb98ffececcce2ed4118a004ef1",
+ "in_force": "2016-11-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1842",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1842/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1842/text/O/D20161842.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1842/text/I/D20161842.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/1842/text/T/D20161842L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/1842/text/U/D20161842Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1842",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1842,
+  "address": "WDU20160001842",
+  "displayAddress": "Dz.U. 2016 poz. 1842",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 października 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o szkolnictwie wyższym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-10-26",
+  "promulgation": "2016-11-15",
+  "expirationDate": "2017-11-28",
+  "changeDate": "2024-03-14T21:29:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1365"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161842.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161842.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20161842L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20161842Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
