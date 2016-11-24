@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1148",
+ "source_sha256": "42403027b0d7c7c9711f1a807d47206d307e17e3cef3a160c8e43e812361c1e3",
+ "in_force": "2016-11-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1148",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1148/text/O/M20161148.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1148/text/I/M20161148.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1148",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1148,
+  "address": "WMP20160001148",
+  "displayAddress": "M.P. 2016 poz. 1148",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 7 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-11-07",
+  "promulgation": "2016-11-24",
+  "expirationDate": "2022-09-12",
+  "changeDate": "2022-09-14T11:25:10",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Kancelaria Prezesa Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2022/694",
+     "date": "2022-07-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2016/7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161148.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161148.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
