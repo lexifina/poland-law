@@ -2,7 +2,7 @@
 
 1. Podatek dochodowy, obliczony zgodnie z art. 27 lub art. 30c, w pierwszej kolejności ulega obniżeniu o kwotę:
 
-- 1) składki na ubezpieczenie zdrowotne, o której mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.):
+- 1) składki na ubezpieczenie zdrowotne, o której mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, 1807, 1860 i 1948):
 
   - a) opłaconej w roku podatkowym bezpośrednio przez podatnika zgodnie z przepisami o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
 

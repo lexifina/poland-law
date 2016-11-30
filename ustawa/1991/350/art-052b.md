@@ -1,3 +1,3 @@
 # Art. 52b.
 
-(uchylony).
+(uchylony)

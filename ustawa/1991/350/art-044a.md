@@ -1,3 +1,3 @@
 # Art. 44a.
 
-(uchylony).
+(uchylony)

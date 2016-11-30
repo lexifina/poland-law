@@ -1,3 +1,3 @@
 # Art. 42b.
 
-(uchylony).
+(uchylony)

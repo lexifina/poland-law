@@ -1,3 +1,3 @@
 # Art. 20a.
 
-(uchylony).
+(uchylony)

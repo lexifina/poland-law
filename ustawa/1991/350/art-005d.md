@@ -1,5 +1,7 @@
 # Art. 5d.
 
-1. W przypadku pojazdów samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony spełnienie wymagań określonych w art. 5a pkt 19a lit. a-d, pozwalających na niezaliczenie danego pojazdu samochodowego do samochodów osobowych, stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu, zawierającego właściwą adnotację o spełnieniu tych wymagań.
+Spełnienie wymagań dla pojazdów samochodowych określonych w:
 
-2. Dopuszczalna ładowność pojazdów oraz liczba miejsc (siedzeń), o których mowa w art. 5a pkt 19a lit. f, określona jest na podstawie wyciągu ze świadectwa homologacji lub odpisu decyzji zwalniającej z obowiązku uzyskania świadectwa homologacji, wydawanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w wyciągu ze świadectwa homologacji lub w odpisie decyzji, o której mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe.
+- 1) art. 5a pkt 19a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+
+- 2) art. 5a pkt 19a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.

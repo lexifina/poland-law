@@ -6,11 +6,11 @@
 
 - 2) dochody (przychody), o których mowa w art. 30a ust. 1 pkt 3, jeżeli są wypłacane albo stawiane do dyspozycji podatnika od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem;
 
-- 3) dochody z tytułu udziału w funduszach kapitałowych, o których mowa w art. 30a ust. 1 pkt 5, jeżeli dochody te są wypłacane podatnikowi na podstawie umów zawartych lub zapisów dokonanych przez podatnika przed dniem 1 grudnia 2001 r.; zwolnienie nie dotyczy dochodów uzyskanych w związku z przystąpieniem podatnika do programu oszczędzania z funduszem kapitałowym, bez względu na formę tego programu - w zakresie dochodów z tytułu wpłat (wkładów) do funduszu dokonanych począwszy od dnia 1 grudnia 2001 r., z zastrzeżeniem art. 21 ust. 1 pkt 58 i 59;
+- 3) dochody z tytułu udziału w funduszach kapitałowych, o których mowa w art. 30a ust. 1 pkt 5, jeżeli dochody te są wypłacane podatnikowi na podstawie umów zawartych lub zapisów dokonanych przez podatnika przed dniem 1 grudnia 2001 r.; zwolnienie nie dotyczy dochodów uzyskanych w związku z przystąpieniem podatnika do programu oszczędzania z funduszem kapitałowym, bez względu na formę tego programu - w zakresie dochodów z tytułu wpłat (wkładów) do funduszu dokonanych począwszy od dnia 1 grudnia 2001 r., z zastrzeżeniem art. 21 ust. 1 pkt 58 i 59.
 
-- 4) (uchylony);
+- 4) (uchylony)
 
-- 5) odsetki i premie gwarancyjne od wkładów zgromadzonych na książeczkach mieszkaniowych.
+- 5) (uchylony)
 
 2. Zwolnienie, o którym mowa w ust. 1 pkt 2, nie ma zastosowania do dochodów (przychodów) od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem - wypłacanych lub stawianych do dyspozycji na podstawie tych umów zmienionych, przedłużonych lub odnowionych począwszy od dnia 1 grudnia 2001 r.
 

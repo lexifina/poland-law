@@ -40,4 +40,12 @@
 
 - 2) inwestycji w obcych środkach trwałych innych niż wymienione w pkt 1 - okres amortyzacji ustala się według zasad określonych w ust. 1 pkt 1 i 2.
 
-5. (uchylony).
+5. (uchylony)
+
+6. Podatnicy mogą indywidualnie ustalić stawki amortyzacyjne dla wprowadzonych po raz pierwszy do ewidencji:
+
+- 1) odwiertów rozpoznawczych lub wydobywczych,
+
+- 2) platform wiertniczych lub produkcyjnych
+
+− z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.

@@ -1,3 +1,3 @@
 # Art. 26b.
 
-(uchylony).
+(uchylony)

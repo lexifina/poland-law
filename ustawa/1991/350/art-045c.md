@@ -8,11 +8,11 @@
 
 - po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
 
-2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty dodatkowej pobieranej przez Pocztę Polską Spółkę Akcyjną za polecenie przesyłki listowej.
+2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948) za traktowanie przesyłki listowej jako przesyłki poleconej.
 
 3. Za wniosek uważa się wskazanie przez podatnika w zeznaniu podatkowym albo w korekcie zeznania, o których mowa w ust. 1, jednej organizacji pożytku publicznego poprzez podanie jej numeru wpisu do Krajowego Rejestru Sądowego oraz kwoty do przekazania na rzecz tej organizacji, w wysokości nieprzekraczającej 1% podatku należnego.
 
-4. Kwotę, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje w terminie od maja do lipca roku następującego po roku podatkowym, za który składane jest zeznanie podatkowe, na rachunek bankowy organizacji pożytku publicznego wskazany w wykazie, o którym mowa w ustawie o działalności pożytku publicznego. Kwota ta jest pomniejszana o koszty przelewu bankowego.
+4. Kwotę, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje w terminie od maja do lipca roku następującego po roku podatkowym, za który składane jest zeznanie podatkowe, na rachunek bankowy właściwy do przekazania 1% podatku podany przez organizację pożytku publicznego zgodnie z przepisami ustawy o działalności pożytku publicznego. Kwota ta jest pomniejszana o koszty przelewu bankowego.
 
 5. Naczelnik urzędu skarbowego właściwy według siedziby organizacji pożytku publicznego, we wrześniu roku następującego po roku podatkowym przekazuje organizacji pożytku publicznego zbiorczą informację o:
 
@@ -24,6 +24,16 @@
 
 - jeżeli podatnik w zeznaniu podatkowym lub w korekcie zeznania, o których mowa w ust. 1, wyraził zgodę na przekazanie organizacji pożytku publicznego danych wymienionych w pkt 1 i 2, lub wskazał cel szczegółowy, o którym mowa w pkt 3.
 
-6. Naczelnik urzędu skarbowego odstępuje od przekazania 1% podatku na rzecz organizacji pożytku publicznego, jeżeli organizacja ta nie podała lub nie zweryfikowała, zgodnie z ustawą o działalności pożytku publicznego, numeru rachunku bankowego lub podany numer rachunku bankowego do przekazania 1% z zeznań podatkowych za rok podatkowy zmieniła w okresie od dnia 15 marca do dnia 31 lipca roku następującego po roku podatkowym. Zasada wyrażona w zdaniu pierwszym nie ma zastosowania, jeżeli zmiana numeru rachunku bankowego nastąpiła z przyczyn niezależnych od organizacji.
+6. Naczelnik urzędu skarbowego odstępuje od przekazania 1% podatku na rzecz organizacji pożytku publicznego, jeżeli:
+
+- 1) organizacja nie podała, zgodnie z ustawą o działalności pożytku publicznego, numeru rachunku bankowego właściwego do przekazania 1% podatku lub numer tego rachunku jest nieprawidłowy;
+
+- 2) organizacja została usunięta z wykazu prowadzonego zgodnie z art. 27a ustawy o działalności pożytku publicznego;
+
+- 3) podatnik we wniosku, o którym mowa w ust. 3, podał numer wpisu do Krajowego Rejestru Sądowego, którego nie zawiera wykaz prowadzony zgodnie z art. 27a ustawy o działalności pożytku publicznego.
+
+6a. W przypadku gdy kwota wskazana we wniosku, o którym mowa w ust. 3 przekracza wysokość, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje kwotę w wysokości, o której mowa w ust. 1, z uwzględnieniem ust. 4.
 
 7. Podatnicy, o których mowa w art. 3 ust. 2a, składający zeznanie podatkowe w trakcie roku podatkowego, wybierają organizację pożytku publicznego z wykazu, o którym mowa w ust. 1, określonego za poprzedni rok podatkowy.
+
+8. Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1% podatku, może upoważnić, w drodze rozporządzenia, podległy organ, inny niż określony w ust. 1, do realizacji zadania, o którym mowa w ust. 1.

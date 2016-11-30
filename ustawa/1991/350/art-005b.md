@@ -8,4 +8,4 @@
 
 - 3) wykonujący te czynności nie ponosi ryzyka gospodarczego związanego z prowadzoną działalnością.
 
-2. Jeżeli pozarolniczą działalność gospodarczą prowadzi spółka niemająca osobowości prawnej, przychody wspólnika z udziału w takiej spółce, określone na podstawie art. 8 ust. 1, uznaje się za przychody ze źródła, o którym mowa w art. 10 ust. 1 pkt 3.
+2. Jeżeli pozarolniczą działalność gospodarczą prowadzi spółka niebędąca osobą prawną, przychody wspólnika z udziału w takiej spółce, określone na podstawie art. 8 ust. 1, uznaje się za przychody ze źródła, o którym mowa w art. 10 ust. 1 pkt 3.

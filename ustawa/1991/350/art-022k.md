@@ -12,11 +12,11 @@
 
 - podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
 
-4. (uchylony).
+4. (uchylony)
 
-5. (uchylony).
+5. (uchylony)
 
-6. (uchylony).
+6. (uchylony)
 
 7. Podatnicy, w roku podatkowym, w którym rozpoczęli prowadzenie działalności gospodarczej, z zastrzeżeniem ust. 11, oraz mali podatnicy, mogą dokonywać jednorazowo odpisów amortyzacyjnych od wartości początkowej środków trwałych zaliczonych do grupy 3-8 Klasyfikacji, z wyłączeniem samochodów osobowych, w roku podatkowym, w którym środki te zostały wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych, do wysokości nieprzekraczającej w roku podatkowym równowartości kwoty 50 000 euro łącznej wartości tych odpisów amortyzacyjnych.
 
@@ -26,8 +26,8 @@
 
 10. Pomoc, o której mowa w ust. 7, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
 
-11. Przepis ust. 7 nie ma zastosowania do podatnika rozpoczynającego prowadzenie działalności gospodarczej, który w roku rozpoczęcia tej działalności, a także w okresie dwóch lat, licząc od końca roku poprzedzającego rok jej rozpoczęcia, prowadził działalność gospodarczą samodzielnie lub jako wspólnik spółki niemającej osobowości prawnej lub działalność taką prowadził małżonek tej osoby, jeżeli między małżonkami istniała w tym czasie wspólność majątkowa.
+11. Przepis ust. 7 nie ma zastosowania do podatnika rozpoczynającego prowadzenie działalności gospodarczej, który w roku rozpoczęcia tej działalności, a także w okresie dwóch lat, licząc od końca roku poprzedzającego rok jej rozpoczęcia, prowadził działalność gospodarczą samodzielnie lub jako wspólnik spółki niebędącej osobą prawną lub działalność taką prowadził małżonek tej osoby, jeżeli między małżonkami istniała w tym czasie wspólność majątkowa.
 
 12. Przeliczenia na złote kwoty, o której mowa w ust. 7, dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy, w którym wystąpiło zdarzenie, o którym mowa w tym przepisie, w zaokrągleniu do 1000 zł.
 
-13. W przypadku spółki niemającej osobowości prawnej kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, dotyczy spółki.
+13. W przypadku spółki niebędącej osobą prawną kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, odnosi się do łącznej wartości odpisów przypadających zgodnie z art. 8 na wspólników tej spółki.

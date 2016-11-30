@@ -1,3 +1,3 @@
 # Art. 35a.
 
-(uchylony).
+(uchylony)

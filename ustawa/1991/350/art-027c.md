@@ -1,3 +1,3 @@
 # Art. 27c.
 
-(uchylony).
+(uchylony)

@@ -1,3 +1,3 @@
 # Art. 26d.
 
-(utracił moc).
+(utracił moc)

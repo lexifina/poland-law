@@ -12,7 +12,7 @@
 
 - 5) licencje,
 
-- 6) prawa określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.),
+- 6) prawa określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej,
 
 - 7) wartość stanowiąca równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how)
 

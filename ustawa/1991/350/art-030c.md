@@ -10,7 +10,7 @@
 
 - 2) odliczone od dochodów opodatkowanych na zasadach określonych w art. 27, lub
 
-- 3) odliczone od przychodów na podstawie ustawy o zryczałtowanym podatku dochodowym lub od dochodu na podstawie ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym, lub
+- 3) odliczone od przychodów na podstawie ustawy o zryczałtowanym podatku dochodowym, lub
 
 - 4) zwrócone podatnikowi w jakiejkolwiek formie.
 
@@ -22,4 +22,4 @@
 
 5. W przypadku podatnika, o którym mowa w art. 3 ust. 1, uzyskującego wyłącznie dochody z tytułu działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej lub ze źródeł przychodów znajdujących się poza terytorium Rzeczypospolitej Polskiej, które nie są zwolnione od podatku dochodowego na podstawie umowy o unikaniu podwójnego opodatkowania, lub gdy z państwem, w którym dochody są osiągane, Rzeczpospolita Polska nie zawarła umowy o unikaniu podwójnego opodatkowania, zasadę określoną w ust. 4 stosuje się odpowiednio.
 
-6. Dochodów z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych w sposób określony w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27 oraz art. 30b i 30e.
+6. Dochodów z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych w sposób określony w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27, art. 30b, art. 30e i art. 30f.

@@ -18,11 +18,15 @@
 
   - c) wartość określoną zgodnie z art. 19 - jeżeli ustalenie wydatków na nabycie lub wytworzenie przedmiotu wkładu przez wspólnika wnoszącego wkład, będącego osobą fizyczną, jest niemożliwe i przedmiot wkładu nie był wykorzystywany przez wnoszącego wkład w prowadzonej działalności gospodarczej, z wyłączeniem wartości niematerialnych i prawnych wytworzonych przez wspólnika we własnym zakresie;
 
-- 5) w razie otrzymania w związku z likwidacją osoby prawnej, z zastrzeżeniem ust. 14b, ustaloną przez podatnika wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej.
+- 5) w razie otrzymania w związku z likwidacją spółki lub osoby prawnej, z zastrzeżeniem ust. 14b, ustaloną przez podatnika wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej;
+
+- 6) w razie nabycia, o którym mowa w art. 14 ust. 2e - wartość wierzytelności (należności) uregulowanej w wyniku wykonania świadczenia niepieniężnego, o którym mowa w tym przepisie; przepis ust. 3 stosuje się odpowiednio;
+
+- 7) w razie prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2a, działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład - wartość, o której mowa w art. 22 ust. 1n, nie wyższą jednak od wartości rynkowej składnika majątku.
 
 1a. Przepis ust. 1 pkt 4 lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego (aportu) do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki.
 
-2. Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki przedsiębiorstwa lub jego zorganizowanej części, odpowiednio z dnia kupna, przyjęcia do odpłatnego korzystania albo wniesienia do spółki.
+2. Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością rynkową składników majątkowych wchodzących w skład kupione
 
 3. Za cenę nabycia uważa się kwotę należną zbywcy, powiększoną o koszty związane z zakupem naliczone do dnia przekazania środka trwałego lub wartości niematerialnej i prawnej do używania, a w szczególności o koszty transportu, załadunku i wyładunku, ubezpieczenia w drodze, montażu, instalacji i uruchomienia programów oraz systemów komputerowych, opłat notarialnych, skarbowych i innych, odsetek, prowizji, oraz pomniejszoną o podatek od towarów i usług, z wyjątkiem przypadków, gdy zgodnie z odrębnymi przepisami podatek od towarów i usług nie stanowi podatku naliczonego albo podatnikowi nie przysługuje obniżenie kwoty należnego podatku o podatek naliczony albo zwrot różnicy podatku w rozumieniu ustawy o podatku od towarów i usług. W przypadku importu cena nabycia obejmuje cło i podatek akcyzowy od importu składników majątku.
 
@@ -50,9 +54,9 @@
 
 - 2) zmiany formy prawnej prowadzonej działalności, polegającej na połączeniu lub podziale dotychczasowych podmiotów albo zmianie wspólników spółki niebędącej osobą prawną,
 
-- 3) (uchylony),
+- 3) (uchylony)
 
-- 4) (uchylony),
+- 4) (uchylony)
 
 - 5) zmiany działalności wykonywanej samodzielnie przez jednego z małżonków na działalność wykonywaną samodzielnie przez drugiego z małżonków
 
@@ -66,7 +70,7 @@
 
 14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
 
-14b. W przypadku otrzymania w związku z likwidacją osoby prawnej środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 12 stosuje się odpowiednio.
+14b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 12 stosuje się odpowiednio.
 
 14c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 12 stosuje się odpowiednio.
 
@@ -78,7 +82,7 @@
 
 18. Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę - przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
 
-19. (uchylony).
+19. (uchylony)
 
 20. W razie trwałego odłączenia od danego środka trwałego części składowej lub peryferyjnej wartość początkową tego środka zmniejsza się, od następnego miesiąca po odłączeniu, o różnicę między ceną nabycia (kosztem wytworzenia) odłączonej części a przypadającą na nią, w okresie połączenia, sumą odpisów amortyzacyjnych obliczoną przy zastosowaniu metody amortyzacji i stawki amortyzacyjnej stosowanej przy obliczaniu odpisów amortyzacyjnych tego środka trwałego.
 
