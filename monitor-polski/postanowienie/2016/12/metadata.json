@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/12",
+ "source_sha256": "648e3548e6b9819be92f98d94344af23805b0774d1f3f056aab8a724fa8c569b",
+ "in_force": "2016-12-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/12/text/O/M20160012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/12/text/I/M20160012.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/12",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 12,
+  "address": "WMP20160000012",
+  "displayAddress": "M.P. 2016 poz. 12",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 9 grudnia 2015 r. nr 110.73.2015 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2015-12-09",
+  "promulgation": "2016-12-07",
+  "changeDate": "2017-11-17T16:48:41",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Gwinea"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20160012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20160012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
