@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 8 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996) zarządza się, co następuje:
