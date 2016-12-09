@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/1992",
+ "source_sha256": "d00750a9158b46c644ba5a69e5b10fba956d3fe4f25a012dce469dea6b4b1207",
+ "in_force": "2016-12-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/1992",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/1992/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/1992/text/O/D20161992.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/1992/text/I/D20161992.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/1992",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1992,
+  "address": "WDU20160001992",
+  "displayAddress": "Dz.U. 2016 poz. 1992",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 15 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie wałbrzyskiej specjalnej strefy ekonomicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-11-15",
+  "promulgation": "2016-12-09",
+  "expirationDate": "2018-02-23",
+  "changeDate": "2024-03-14T21:26:23",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "specjalna strefa ekonomiczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1561"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20161992.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20161992.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
