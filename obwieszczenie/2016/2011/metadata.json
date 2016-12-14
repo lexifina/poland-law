@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/2011",
+ "source_sha256": "85e1544e994219455a1c832bc8eb8a0c3d3739eca29815ee1781a51ae3d3f8aa",
+ "in_force": "2016-12-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/2011",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/2011/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/2011/text/O/D20162011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/2011/text/I/D20162011.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/2011/text/T/D20162011L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/2011",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 2011,
+  "address": "WDU20160002011",
+  "displayAddress": "Dz.U. 2016 poz. 2011",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-11-14",
+  "promulgation": "2016-12-14",
+  "changeDate": "2024-03-14T21:29:49",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłki",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 11 ustawy",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/188"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20162011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20162011.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20162011L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
