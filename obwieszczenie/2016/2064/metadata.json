@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/2064",
+ "source_sha256": "f13f2c328ce20b250a34969f2169bcfcac627fb298c09f60fd96f1b0304f03ed",
+ "in_force": "2016-12-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/2064",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/2064/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/2064/text/O/D20162064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/2064/text/I/D20162064.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/2064/text/T/D20162064L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2016/2064/text/U/D20162064Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/2064",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 2064,
+  "address": "WDU20160002064",
+  "displayAddress": "Dz.U. 2016 poz. 2064",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o aktach stanu cywilnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-11-21",
+  "promulgation": "2016-12-19",
+  "expirationDate": "2018-11-29",
+  "changeDate": "2024-03-14T21:34:04",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "akta stanu cywilnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/1741"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20162064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20162064.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20162064L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20162064Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
