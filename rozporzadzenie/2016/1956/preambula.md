@@ -1,0 +1,1 @@
+Na podstawie art. 46 ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2005 r. poz. 68, z 2008 r. poz. 1056 i 1368 oraz z 2016 r. poz. 1001) zarządza się, co następuje:
