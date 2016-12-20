@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2016/1229",
+ "source_sha256": "0f5f809041c1c3df406dbad1ec7e3218ce3626b3b15d2e90b79fe9bb96c0fd0e",
+ "in_force": "2016-12-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2016/1229",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2016/1229/text/O/M20161229.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2016/1229/text/I/M20161229.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2016/1229",
+  "publisher": "MP",
+  "year": 2016,
+  "volume": 0,
+  "pos": 1229,
+  "address": "WMP20160001229",
+  "displayAddress": "M.P. 2016 poz. 1229",
+  "title": "Postanowienie nr 1131.24.2016 Prezydenta Rzeczypospolitej Polskiej z dnia 20 grudnia 2016 r. o powierzeniu pełnienia obowiązków Prezesa Trybunału Konstytucyjnego",
+  "type": "Postanowienie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-12-20",
+  "promulgation": "2016-12-20",
+  "changeDate": "2017-05-29T15:23:58",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Prezes Trybunału Konstytucyjnego",
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2016/2074"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2016/2074",
+     "art": "art. 17 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20161229.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20161229.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
