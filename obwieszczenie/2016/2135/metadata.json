@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2016/2135",
+ "source_sha256": "88fedd3a15f075c681b5c491eea038be5d1483d715e145c48ae1a93bdf7af934",
+ "in_force": "2016-12-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2016/2135",
+  "html": "https://eli.gov.pl/api/acts/DU/2016/2135/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2016/2135/text/O/D20162135.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2016/2135/text/I/D20162135.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2016/2135/text/T/D20162135L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2016/2135",
+  "publisher": "DU",
+  "year": 2016,
+  "volume": 0,
+  "pos": 2135,
+  "address": "WDU20160002135",
+  "displayAddress": "Dz.U. 2016 poz. 2135",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 grudnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o akredytacji w ochronie zdrowia",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-12-14",
+  "promulgation": "2016-12-23",
+  "repealDate": "2024-01-01",
+  "changeDate": "2024-03-14T21:24:31",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pacjenci",
+   "działalność lecznicza",
+   "ochrona",
+   "akredytacja",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2023/1692",
+     "date": "2024-01-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/418"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20162135.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20162135.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20162135L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
