@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 4 ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. poz. 921, z 2008 r. poz. 1056, z 2009 r. poz. 1775, z 2010 r. poz. 857 oraz z 2011 r. poz. 622) zarządza się, co następuje:
