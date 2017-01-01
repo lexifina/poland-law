@@ -1,0 +1,1 @@
+Na podstawie art. 28 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, 831, 961, 1250, 1579 i 2003) zarządza się, co następuje:
