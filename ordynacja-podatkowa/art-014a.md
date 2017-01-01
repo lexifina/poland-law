@@ -4,13 +4,21 @@
 
 # Art. 14a.
 
-§ 1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, dokonując w szczególności ich interpretacji, z urzędu lub na wniosek, przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego lub Europejskiego Trybunału Sprawiedliwości (interpretacje ogólne); wnioskodawcą nie może być organ administracji publicznej.
+§ 1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, w szczególności:
+
+- 1) dokonując ich interpretacji, z urzędu lub na wniosek (interpretacje ogólne),
+
+- 2) wydając z urzędu ogólne wyjaśnienia przepisów prawa podatkowego, dotyczące stosowania tych przepisów (objaśnienia podatkowe)
+
+- przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
 
 § 1a. Interpretacja ogólna powinna zawierać w szczególności:
 
 - 1) opis zagadnienia, w związku z którym jest dokonywana interpretacja przepisów prawa podatkowego;
 
 - 2) wyjaśnienie zakresu oraz sposobu stosowania interpretowanych przepisów prawa podatkowego do opisanego zagadnienia wraz z uzasadnieniem prawnym.
+
+§ 1b. Z wnioskiem o wydanie interpretacji ogólnej nie może wystąpić organ administracji publicznej.
 
 § 2. Wniosek o wydanie interpretacji ogólnej powinien zawierać uzasadnienie konieczności wydania interpretacji ogólnej, w szczególności:
 

@@ -2,7 +2,7 @@
 
 § 1. Minister właściwy do spraw finansów publicznych może z urzędu:
 
-- 1) zmienić wydaną interpretację ogólną lub indywidualną, jeżeli stwierdzi jej nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej;
+- 1) zmienić wydaną interpretację ogólną, interpretację indywidualną lub objaśnienia podatkowe, jeżeli stwierdzi ich nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej;
 
 - 2) uchylić wydaną interpretację indywidualną i umorzyć postępowanie w sprawie wydania interpretacji indywidualnej, jeżeli w dniu jej wydania istniały przesłanki odmowy wszczęcia postępowania w sprawie wydania interpretacji indywidualnej;
 

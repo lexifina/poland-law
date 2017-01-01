@@ -15,3 +15,17 @@
 - 1) uchylenia interpretacji indywidualnej - na podstawie art. 14e § 1 pkt 4;
 
 - 2) zmiany lub uchylenia postanowienia, o którym mowa w art. 14b § 5a.
+
+§ 4. W przypadku zastosowania się przez podatnika w danym okresie rozliczeniowym do:
+
+- 1) objaśnień podatkowych - stosuje się odpowiednio przepisy art. 14k-14m,
+
+- 2) utrwalonej praktyki interpretacyjnej ministra właściwego do spraw finansów publicznych - stosuje się odpowiednio przepisy art. 14k i art. 14m,
+
+- z zastrzeżeniem art. 14na.
+
+§ 5. Przez utrwaloną praktykę interpretacyjną, o której mowa w § 4 pkt 2, rozumie się wyjaśnienia zakresu i sposobu stosowania przepisów prawa podatkowego, dominujące w interpretacjach indywidualnych wydawanych w takich samych stanach faktycznych lub w odniesieniu do takich samych zdarzeń przyszłych oraz w takim samym stanie prawnym, w trakcie okresu rozliczeniowego, o którym mowa w § 4, oraz w okresie 12 miesięcy przed rozpoczęciem tego okresu rozliczeniowego.
+
+§ 6. W przypadku gdy do okresu rozliczeniowego, o którym mowa w § 4, oraz okresu 12 miesięcy przed rozpoczęciem tego okresu rozliczeniowego zastosowanie mają wydane w odniesieniu do takiego samego zagadnienia interpretacja ogólna lub objaśnienia podatkowe, wydane w takim samym stanie prawnym przed rozpoczęciem lub w trakcie okresu rozliczeniowego, o którym mowa w § 4, począwszy od dnia opublikowania takiej interpretacji ogólnej lub zamieszczenia takich objaśnień podatkowych przez utrwaloną praktykę interpretacyjną, o której mowa w § 4 pkt 2, należy rozumieć odpowiednio wyjaśnienie zakresu i sposobu stosowania przepisów prawa podatkowego wynikające z interpretacji ogólnej lub wyjaśnienia przepisów prawa podatkowego, dotyczące stosowania tych przepisów, zawarte w objaśnieniach podatkowych.
+
+§ 7. Przez okres rozliczeniowy, o którym mowa w § 4, w przypadku podatków nierozliczanych okresowo, rozumie się miesiąc, w którym powstał obowiązek podatkowy w danym podatku.
