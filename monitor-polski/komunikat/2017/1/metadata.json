@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/1",
+ "source_sha256": "80c1a9966ada1026452733337511ddc6c61952079580b390096b0d31237c47a4",
+ "in_force": "2017-01-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/1",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/1/text/O/M20170001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/1/text/I/M20170001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/1",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1,
+  "address": "WMP20170000001",
+  "displayAddress": "M.P. 2017 poz. 1",
+  "title": "Komunikat Ministra Rozwoju i Finansów z dnia 21 grudnia 2016 r. w sprawie zmienionych wytycznych Ministra Infrastruktury i Rozwoju w zakresie realizacji przedsięwzięć z udziałem środków Europejskiego Funduszu Społecznego w obszarze zdrowia na lata 2014-2020",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-12-21",
+  "promulgation": "2017-01-02",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "MIN. ROZWOJU I FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze"
+  ],
+  "keywordsNames": [
+   "Unia Europejska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2014/1146"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2014/1146",
+     "art": "art. 5 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
