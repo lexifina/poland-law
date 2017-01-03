@@ -1,0 +1,1 @@
+Na podstawie art. 30a ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2016 r. poz. 1535, 1579 i 2020) zarządza się, co następuje:
