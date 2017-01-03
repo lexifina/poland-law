@@ -1,0 +1,1 @@
+Na podstawie art. 119a ust. 8 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 1430 i 2217 oraz z 2018 r. poz. 138 i 398) zarządza się, co następuje:
