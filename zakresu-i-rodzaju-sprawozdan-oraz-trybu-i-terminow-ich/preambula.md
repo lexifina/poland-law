@@ -1,0 +1,1 @@
+Na podstawie art. 25 ust. 4 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1358 oraz z 2016 r. poz. 1203 i 1948) zarządza się, co następuje:
