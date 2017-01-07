@@ -1,0 +1,1 @@
+Na podstawie art. 32 ust. 3 ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893 oraz z 2016 r. poz. 588 i 1605) zarządza się, co następuje:
