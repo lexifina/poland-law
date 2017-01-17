@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/108",
+ "source_sha256": "4ba157c7ef7a3d619441d1607faaa996134013ea55de0f5822a54dd9c3cb1c86",
+ "in_force": "2017-01-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/108",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/108/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/108/text/O/D20170108.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/108/text/I/D20170108.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/108/text/U/D20170108Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/108",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 108,
+  "address": "WDU20170000108",
+  "displayAddress": "Dz.U. 2017 poz. 108",
+  "title": "Ustawa budżetowa na rok 2017 z dnia 16 grudnia 2016 r.",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2016-12-16",
+  "promulgation": "2017-01-17",
+  "entryIntoForce": "2017-01-17",
+  "validFrom": "2017-01-01",
+  "expirationDate": "2017-12-31",
+  "changeDate": "2026-01-20T15:10:25",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "dochód",
+   "budżetowe prawo",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=881",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/881",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/881",
+    "number": "881",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2017/2162",
+     "date": "2017-11-24"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170108.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170108.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170108Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
