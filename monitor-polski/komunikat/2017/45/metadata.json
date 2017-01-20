@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/45",
+ "source_sha256": "2fdd2ca473fc15d195431ec73bb5795b9c4f269182d760aba6364ad9d7d688a9",
+ "in_force": "2017-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/45",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/45/text/O/M20170045.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/45/text/I/M20170045.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/45",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 45,
+  "address": "WMP20170000045",
+  "displayAddress": "M.P. 2017 poz. 45",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 13 stycznia 2017 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w IV kwartale 2016 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-01-13",
+  "promulgation": "2017-01-20",
+  "changeDate": "2020-10-20T09:38:38",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "towar",
+   "wskaźnik",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170045.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170045.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
