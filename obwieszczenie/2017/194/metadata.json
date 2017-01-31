@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/194",
+ "source_sha256": "ddbb47977976588b7ab8ccd3714decab11a0912e9d750825d15df55e48d4fa2c",
+ "in_force": "2017-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/194",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/194/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/194/text/O/D20170194.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/194/text/I/D20170194.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/194/text/T/D20170194L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/194/text/U/D20170194Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/194",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 194,
+  "address": "WDU20170000194",
+  "displayAddress": "Dz.U. 2017 poz. 194",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 stycznia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyścigach konnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-01-17",
+  "promulgation": "2017-01-31",
+  "expirationDate": "2020-08-07",
+  "changeDate": "2024-03-14T20:27:47",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyścigi konne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/86"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170194.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170194.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170194L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170194Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
