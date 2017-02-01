@@ -1,6 +1,6 @@
 # Art. 14m.
 
-§ 1. Zastosowanie się do interpretacji, która następnie została zmieniona lub nie została uwzględniona w rozstrzygnięciu sprawy podatkowej, powoduje zwolnienie z obowiązku zapłaty podatku w zakresie wynikającym ze zdarzenia będącego przedmiotem interpretacji, jeżeli:
+§ 1. Zastosowanie się do interpretacji, która następnie została zmieniona, której wygaśnięcie stwierdzono lub która nie została uwzględniona w rozstrzygnięciu sprawy podatkowej, powoduje zwolnienie z obowiązku zapłaty podatku w zakresie wynikającym ze zdarzenia będącego przedmiotem interpretacji, jeżeli:
 
 - 1) zobowiązanie nie zostało prawidłowo wykonane w wyniku zastosowania się do interpretacji, która uległa zmianie, lub interpretacji nieuwzględnionej w rozstrzygnięciu sprawy podatkowej oraz
 

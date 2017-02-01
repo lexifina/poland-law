@@ -1,6 +1,6 @@
 # Art. 144a.
 
-§ 1. Doręczenie pism następuje za pomocą środków komunikacji elektronicznej w rozumieniu przepisów ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, jeżeli strona spełni jeden z następujących warunków:
+§ 1. Doręczanie pism następuje za pomocą środków komunikacji elektronicznej, jeżeli strona spełni jeden z następujących warunków:
 
 - 1) złoży podanie w formie dokumentu elektronicznego przez elektroniczną skrzynkę podawczą organu podatkowego lub portal podatkowy;
 

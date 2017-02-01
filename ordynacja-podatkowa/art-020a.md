@@ -19,13 +19,3 @@
 - 3) inne reguły podziału kosztów.
 
 § 3. W sprawach, o których mowa w § 1 i 2, wydaje się decyzje w sprawie porozumienia.
-
-Minister właściwy do spraw finansów publicznych, zwany w niniejszym dziale „organem właściwym w sprawie porozumienia”, na wniosek podmiotu krajowego, uznaje prawidłowość wyboru i stosowania metody ustalania ceny transakcyjnej między:
-
-- 1) powiązanymi ze sobą podmiotami krajowymi lub
-
-- 2) podmiotem krajowym powiązanym z podmiotem zagranicznym a tym podmiotem zagranicznym, lub
-
-- 3) podmiotem krajowym powiązanym z podmiotem zagranicznym a innymi podmiotami krajowymi powiązanymi z tym samym podmiotem zagranicznym
-
-- dalej zwane „porozumieniem jednostronnym”.

@@ -1,0 +1,19 @@
+# Art. 138d.
+
+§ 1. Pełnomocnictwo ogólne upoważnia do działania we wszystkich sprawach podatkowych oraz w innych sprawach należących do właściwości organów podatkowych lub organów kontroli skarbowej.
+
+§ 2. Za pełnomocnika ogólnego strony w sprawach podatkowych uznaje się kuratora wyznaczonego przez sąd na wniosek organu podatkowego, o którym mowa w art. 138.
+
+§ 3. Pełnomocnictwo ogólne oraz zawiadomienie o jego zmianie, odwołaniu lub wypowiedzeniu zgłasza mocodawca, wyłącznie w formie dokumentu elektronicznego, według wzoru określonego w przepisach wydanych na podstawie art. 138j § 1 pkt 1, do ministra właściwego do spraw finansów publicznych. W przypadku wystąpienia problemów technicznych uniemożliwiających złożenie pełnomocnictwa ogólnego, jego zmianę, odwołanie lub wypowiedzenie, w formie dokumentu elektronicznego, pełnomocnictwo składa się w formie pisemnej według wzoru, o którym mowa w zdaniu pierwszym.
+
+§ 4. Informacje o udzieleniu pełnomocnictwa, o jego zmianie, odwołaniu lub wypowiedzeniu minister właściwy do spraw finansów publicznych umieszcza w Centralnym Rejestrze Pełnomocnictw Ogólnych, zwanym dalej „Centralnym Rejestrem”.
+
+§ 5. Adwokat, radca prawny oraz doradca podatkowy mogą sami zgłaszać udzielenie im pełnomocnictwa ogólnego oraz zawiadamiać o jego zmianie, odwołaniu lub wypowiedzeniu, ze wskazaniem daty zwolnienia z obowiązku reprezentacji.
+
+§ 6. W przypadku, o którym mowa w art. 138c § 3, pełnomocnictwo ogólne, zawiadomienie o jego zmianie, odwołaniu lub wypowiedzeniu zgłasza osoba sprawująca opiekę nad osobą, która nie może się podpisać, a w przypadku zgłoszenia pełnomocnictwa ustnie do protokołu - organ podatkowy.
+
+§ 7. Pełnomocnictwo ogólne może być zgłoszone za pośrednictwem Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+§ 8. Organ, na wniosek którego sąd wyznaczył kuratora, niezwłocznie informuje ministra właściwego do spraw finansów publicznych o treści postanowienia sądu o ustanowieniu kuratora.
+
+§ 9. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy sposób zgłaszania pełnomocnictw ogólnych za pośrednictwem Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz ich przekazywania do Centralnego Rejestru, mając na względzie potrzebę zapewnienia sprawnego zgłaszania pełnomocnictw do Centralnego Rejestru oraz pewność ustalenia zakresu działania pełnomocnika.
