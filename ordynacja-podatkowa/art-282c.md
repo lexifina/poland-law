@@ -18,13 +18,13 @@
 
   - g) ma charakter doraźny dotyczący ewidencjonowania obrotu za pomocą kasy rejestrującej, użytkowania kasy rejestrującej lub sporządzania spisu z natury,
 
-  - h) dotyczy podatku od wydobycia niektórych kopalin;
+  - h) dotyczy podatku od wydobycia niektórych kopalin,
 
   - i) ma charakter doraźny dotyczący sprawdzenia zachowania warunków zawieszenia działalności gospodarczej;
 
 - 2) organ podatkowy posiada informacje, z których wynika, że kontrolowany:
 
-  - a) został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej - do każdego wspólnika,
+  - a) został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej - do każdego wspólnika,
 
   - b) jest zobowiązanym w postępowaniu egzekucyjnym w administracji,
 

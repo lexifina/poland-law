@@ -14,13 +14,13 @@
 
 § 5a. Jeżeli przedstawione we wniosku stan faktyczny lub zdarzenie przyszłe odpowiadają zagadnieniu będącemu przedmiotem interpretacji ogólnej wydanej w takim samym stanie prawnym, wydaje się postanowienie o stwierdzeniu, że do stanu faktycznego lub zdarzenia przyszłego opisanych we wniosku ma zastosowanie interpretacja ogólna, z jednoczesnym stwierdzeniem bezprzedmiotowości wniosku. W tym przypadku w postanowieniu wskazuje się oznaczenie interpretacji ogólnej wraz z podaniem miejsca jej publikacji. Na wydane postanowienie przysługuje zażalenie.
 
-§ 5b. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego lub zdarzenia przyszłego, co do których istnieje uzasadnione przypuszczenie, że mogą być przedmiotem decyzji wydanej z zastosowaniem art. 119a lub stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710 i 846).
+§ 5b. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego lub zdarzenia przyszłego, co do których istnieje uzasadnione przypuszczenie, że mogą być przedmiotem decyzji wydanej z zastosowaniem art. 119a lub stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.).
 
 § 5c. Organ uprawniony do wydania interpretacji indywidualnej zwraca się do ministra właściwego do spraw finansów publicznych o opinię w zakresie, o którym mowa w § 5b.
 
 § 6. Minister właściwy do spraw finansów publicznych w celu zapewnienia jednolitości wydawanych wiążących interpretacji i usprawnienia obsługi wnioskodawców może, w drodze rozporządzenia, upoważnić podległe organy do wydawania interpretacji indywidualnych w jego imieniu i w ustalonym zakresie określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.
 
-§ 6a. Minister właściwy do spraw finansów publicznych, uwzględniając konieczność zapewnienia jednolitości i prawidłowości interpretacji indywidualnych, w celu usprawnienia postępowania w sprawach dotyczących interpretacji indywidualnych, może, w drodze rozporządzenia, upoważnić dyrektora Biura Krajowej Informacji Podatkowej do:
+§ 6a. Minister właściwy do spraw finansów publicznych, uwzględniając konieczność zapewnienia jednolitości i prawidłowości interpretacji indywidualnych oraz w celu usprawnienia postępowania w sprawach dotyczących interpretacji indywidualnych i ich zmiany, może, w drodze rozporządzenia, upoważnić podległe organy do:
 
 - 1) zmiany interpretacji indywidualnych na etapie rozpatrywania wezwania do usunięcia naruszenia prawa,
 
@@ -28,10 +28,10 @@
 
 - 3) uchylania interpretacji indywidualnych i wydawania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 4,
 
-- 4) zmiany postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 5,
+- 4) wydawania postanowień, o których mowa w § 5a, oraz ich zmiany na podstawie art. 14e § 1 pkt 5,
 
 - 5) uchylania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 6
 
-- w jego imieniu i w ustalonym zakresie.
+- w jego imieniu i w ustalonym zakresie, określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.
 
 § 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w § 1, który zawiera dane identyfikujące wnioskodawcę oraz dane wskazane w § 2-5, a także sposób uiszczenia opłaty, o której mowa w art. 14f, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.

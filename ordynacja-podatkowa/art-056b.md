@@ -10,6 +10,6 @@ Podwyższoną stawkę odsetek za zwłokę w wysokości 150% stawki odsetek za zw
 
   - b) dokonanej w wyniku czynności sprawdzających,
 
-  - jeżeli kwota zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku przekracza 25% kwoty należnej i jest wyższa niż pięciokrotna wysokość minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z późn. zm.), obowiązującego w dniu następującym po dniu upływu terminu płatności zobowiązania lub terminu zwrotu;
+  - jeżeli kwota zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku przekracza 25% kwoty należnej i jest wyższa niż pięciokrotna wysokość minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008 oraz z 2016 r. poz. 1265), obowiązującego w dniu następującym po dniu upływu terminu płatności zobowiązania lub terminu zwrotu;
 
 - 3) ujawnienia przez organ podatkowy w toku czynności sprawdzających, kontroli podatkowej lub postępowania podatkowego niezłożenia deklaracji, mimo ciążącego obowiązku oraz braku zapłaty podatku.
