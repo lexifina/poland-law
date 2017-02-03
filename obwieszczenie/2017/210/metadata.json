@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/210",
+ "source_sha256": "99f0c3323be2a8c39fb0431594bc6dfb1b354fb7b49e2376478b88dce3b52b33",
+ "in_force": "2017-02-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/210",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/210/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/210/text/O/D20170210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/210/text/I/D20170210.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/210/text/T/D20170210L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/210/text/U/D20170210Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/210",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 210,
+  "address": "WDU20170000210",
+  "displayAddress": "Dz.U. 2017 poz. 210",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 stycznia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o stowarzyszeniach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-01-20",
+  "promulgation": "2017-02-03",
+  "expirationDate": "2019-03-27",
+  "changeDate": "2024-03-14T20:40:30",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stowarzyszenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1989/104"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170210.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170210L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170210Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
