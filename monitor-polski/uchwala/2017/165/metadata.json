@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/165",
+ "source_sha256": "caecc18903c9d48e38868ae908f62a0ded4e190029e97ab272dc34a8b1bacfd2",
+ "in_force": "2017-02-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/165",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/165/text/O/M20170165.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/165/text/I/M20170165.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/165",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 165,
+  "address": "WMP20170000165",
+  "displayAddress": "M.P. 2017 poz. 165",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2017 r. w sprawie wyboru uzupełniającego skład Trybunału Stanu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-01-26",
+  "promulgation": "2017-02-03",
+  "changeDate": "2026-05-07T10:44:23",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1982/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 26 ust. 3"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 199 ust. 1"
+    },
+    {
+     "id": "DU/1982/84",
+     "art": "art. 17 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170165.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170165.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
