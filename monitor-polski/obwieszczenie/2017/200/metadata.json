@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/200",
+ "source_sha256": "3e1f6424fcfea4e7cfe156cb47b44ccacad3e758972cf603209abacec4534378",
+ "in_force": "2017-02-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/200",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/200/text/O/M20170200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/200/text/I/M20170200.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/200",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 200,
+  "address": "WMP20170000200",
+  "displayAddress": "M.P. 2017 poz. 200",
+  "title": "Obwieszczenie Ministra Energii z dnia 18 stycznia 2017 r. w sprawie ogłoszenia sprawozdania z realizacji Programu polskiej energetyki jądrowej za lata 2014-15",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-01-18",
+  "promulgation": "2017-02-15",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. ENERGII"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "atomowe prawo",
+   "energetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/18",
+     "art": "art. 108e ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170200.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
