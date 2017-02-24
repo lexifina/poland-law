@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 2 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2016 r. poz. 1779) zarządza się, co następuje:
