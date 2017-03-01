@@ -1,0 +1,1 @@
+Na podstawie art. 10a ust. 6 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948 oraz z 2017 r. poz. 60) zarządza się, co następuje:
