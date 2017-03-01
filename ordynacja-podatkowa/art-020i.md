@@ -6,7 +6,7 @@
 
 § 2. Organ właściwy w sprawie porozumienia niezwłocznie doręcza odpis decyzji, o której mowa w § 6 i w art. 20a § 3, również podmiotowi powiązanemu z wnioskodawcą, wskazanemu w decyzji w sprawie porozumienia.
 
-§ 2a. Decyzję, o której mowa w § 6 i w art. 20a § 3, doręcza się naczelnikowi urzędu skarbowego i dyrektorowi urzędu kontroli skarbowej właściwym dla podmiotów krajowych, o których mowa w art. 20a.
+§ 2a. Decyzję, o której mowa w § 6 i w art. 20a § 3, doręcza się naczelnikowi urzędu skarbowego i naczelnikowi urzędu celno-skarbowego właściwym dla podmiotów krajowych, o których mowa w art. 20a.
 
 § 3. (uchylony)
 

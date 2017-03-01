@@ -20,4 +20,4 @@
 
 § 3. Wniosek o wydanie opinii zabezpieczającej niespełniający wymogów określonych w § 1 lub innych wymogów określonych przepisami prawa pozostawia się bez rozpatrzenia.
 
-§ 4. Minister właściwy do spraw finansów publicznych może zwrócić się o wyjaśnienie wątpliwości co do danych zawartych we wniosku lub zorganizować spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
+§ 4. Szef Krajowej Administracji Skarbowej może zwrócić się o wyjaśnienie wątpliwości co do danych zawartych we wniosku lub zorganizować spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.

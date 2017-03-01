@@ -12,7 +12,7 @@
 
 § 3. Przepisy art. 14k i art. 14m stosuje się odpowiednio w przypadku:
 
-- 1) uchylenia interpretacji indywidualnej - na podstawie art. 14e § 1 pkt 4;
+- 1) uchylenia interpretacji indywidualnej - na podstawie art. 14e § 1a pkt 3;
 
 - 2) zmiany lub uchylenia postanowienia, o którym mowa w art. 14b § 5a.
 

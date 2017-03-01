@@ -1,16 +1,16 @@
 # Art. 14b.
 
-§ 1. Minister właściwy do spraw finansów publicznych, na wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, interpretację przepisów prawa podatkowego (interpretację indywidualną).
+§ 1. Dyrektor Krajowej Informacji Skarbowej, na wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, interpretację przepisów prawa podatkowego (interpretację indywidualną).
 
 § 2. Wniosek o interpretację indywidualną może dotyczyć zaistniałego stanu faktycznego lub zdarzeń przyszłych.
 
-§ 2a. Przedmiotem wniosku o interpretację indywidualną nie mogą być przepisy prawa podatkowego regulujące właściwość oraz uprawnienia i obowiązki organów podatkowych oraz organów kontroli skarbowej.
+§ 2a. Przedmiotem wniosku o interpretację indywidualną nie mogą być przepisy prawa podatkowego regulujące właściwość oraz uprawnienia i obowiązki organów podatkowych.
 
 § 3. Składający wniosek o wydanie interpretacji indywidualnej obowiązany jest do wyczerpującego przedstawienia zaistniałego stanu faktycznego albo zdarzenia przyszłego oraz do przedstawienia własnego stanowiska w sprawie oceny prawnej tego stanu faktycznego albo zdarzenia przyszłego.
 
-§ 4. Wnioskujący o wydanie interpretacji indywidualnej składa oświadczenie pod rygorem odpowiedzialności karnej za fałszywe zeznania, że elementy stanu faktycznego objęte wnioskiem o wydanie interpretacji w dniu złożenia wniosku nie są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, postępowania kontrolnego organu kontroli skarbowej oraz że w tym zakresie sprawa nie została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego lub organu kontroli skarbowej. W razie złożenia fałszywego oświadczenia wydana interpretacja indywidualna nie wywołuje skutków prawnych.
+§ 4. Wnioskujący o wydanie interpretacji indywidualnej składa oświadczenie pod rygorem odpowiedzialności karnej za fałszywe zeznania, że elementy stanu faktycznego objęte wnioskiem o wydanie interpretacji w dniu złożenia wniosku nie są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej oraz że w tym zakresie sprawa nie została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego. W razie złożenia fałszywego oświadczenia wydana interpretacja indywidualna nie wywołuje skutków prawnych.
 
-§ 5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, postępowania kontrolnego organu kontroli skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego lub organu kontroli skarbowej.
+§ 5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego.
 
 § 5a. Jeżeli przedstawione we wniosku stan faktyczny lub zdarzenie przyszłe odpowiadają zagadnieniu będącemu przedmiotem interpretacji ogólnej wydanej w takim samym stanie prawnym, wydaje się postanowienie o stwierdzeniu, że do stanu faktycznego lub zdarzenia przyszłego opisanych we wniosku ma zastosowanie interpretacja ogólna, z jednoczesnym stwierdzeniem bezprzedmiotowości wniosku. W tym przypadku w postanowieniu wskazuje się oznaczenie interpretacji ogólnej wraz z podaniem miejsca jej publikacji. Na wydane postanowienie przysługuje zażalenie.
 

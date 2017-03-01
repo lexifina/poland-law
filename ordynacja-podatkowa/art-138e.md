@@ -1,6 +1,6 @@
 # Art. 138e.
 
-§ 1. Pełnomocnictwo szczególne upoważnia do działania we wskazanej sprawie podatkowej lub innej wskazanej sprawie należącej do właściwości organu podatkowego lub organu kontroli skarbowej.
+§ 1. Pełnomocnictwo szczególne upoważnia do działania we wskazanej sprawie podatkowej lub innej wskazanej sprawie należącej do właściwości organu podatkowego.
 
 § 2. Pełnomocnictwo szczególne może być udzielone na piśmie, w formie dokumentu elektronicznego lub zgłoszone ustnie do protokołu.
 

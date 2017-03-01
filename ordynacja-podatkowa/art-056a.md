@@ -12,4 +12,6 @@
 
 - 1) złożonej po doręczeniu zawiadomienia o zamiarze wszczęcia kontroli podatkowej, a w przypadkach gdy nie stosuje się zawiadomienia - po zakończeniu kontroli podatkowej;
 
+- 1a) złożonej po doręczeniu upoważnienia do przeprowadzenia kontroli celno-skarbowej;
+
 - 2) dokonanej w wyniku czynności sprawdzających.

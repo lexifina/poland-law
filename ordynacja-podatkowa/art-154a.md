@@ -12,4 +12,4 @@
 
 § 6. Pismo będące przedmiotem wniosku o doręczenie przekazuje się obcej władzy przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe.
 
-§ 7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznacza podległy mu organ podatkowy do przekazywania obcym władzom wniosków o doręczenie, mając na względzie konieczność zapewnienia sprawnego doręczania pism.
+§ 7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznacza organ Krajowej Administracji Skarbowej do przekazywania obcym władzom wniosków o doręczenie, mając na względzie konieczność zapewnienia sprawnego doręczania pism.

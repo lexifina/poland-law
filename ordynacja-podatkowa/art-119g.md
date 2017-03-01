@@ -18,12 +18,12 @@
 
 - może być wydana decyzja z zastosowaniem art. 119a.
 
-§ 2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, wszczęcie lub przejęcie przez ministra właściwego do spraw finansów publicznych postępowania podatkowego następuje na wniosek właściwego organu podatkowego.
+§ 2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, wszczęcie lub przejęcie przez Szefa Krajowej Administracji Skarbowej postępowania podatkowego następuje na wniosek właściwego organu podatkowego.
 
-§ 3. Przejmując postępowanie kontrolne, minister właściwy do spraw finansów publicznych jednocześnie wszczyna postępowanie podatkowe.
+§ 3. Przejmując kontrolę celno-skarbową, Szef Krajowej Administracji Skarbowej z urzędu ją zawiesza i jednocześnie wszczyna postępowanie podatkowe. Do zawieszonej kontroli celno-skarbowej przepisy art. 201 § 3 i art. 206 stosuje się odpowiednio.
 
-§ 4. W postanowieniu, o którym mowa w § 1, minister właściwy do spraw finansów publicznych wskazuje, w jakim zakresie przejmuje postępowanie.
+§ 4. W postanowieniu, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej wskazuje, w jakim zakresie przejmuje postępowanie lub kontrolę celno-skarbową.
 
-§ 5. Czynności dokonane przez organ podatkowy lub organ kontroli skarbowej przed przejęciem postępowania pozostają w mocy.
+§ 5. Czynności dokonane przez organ podatkowy przed przejęciem kontroli celno-skarbowej lub postępowania podatkowego pozostają w mocy.
 
 § 6. Postanowienie o przejęciu postępowania doręcza się stronie albo kontrolowanemu oraz organowi, który prowadził postępowanie.
