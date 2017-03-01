@@ -1,0 +1,1 @@
+Na podstawie art. 2 ust. 3 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. poz. 1712 oraz z 2016 r. poz. 1579 i 1948) zarządza się, co następuje:
