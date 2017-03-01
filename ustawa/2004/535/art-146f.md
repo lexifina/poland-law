@@ -28,4 +28,4 @@
 
 3. (uchylony)
 
-4. W przypadku określonym w ust. 2, podwyższenia stawek, o którym mowa w tym przepisie, nie stosuje się, jeżeli relacja, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885 i 938), według stanu na dzień 31 grudnia 2012 r., nie przekracza 55%.
+4. W przypadku określonym w ust. 2, podwyższenia stawek, o którym mowa w tym przepisie, nie stosuje się, jeżeli relacja, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.), według stanu na dzień 31 grudnia 2012 r., nie przekracza 55%.

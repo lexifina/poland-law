@@ -32,7 +32,13 @@
 
 - 15) kwotę należności ogółem;
 
-- 16) w przypadku dostawy towarów lub świadczenia usług, w odniesieniu do których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 5 pkt 1 lub art. 21 ust. 1 - wyrazy „metoda kasowa”;
+- 16) w przypadku dostawy towarów lub świadczenia usług, w odniesieniu do których:
+
+  - a) obowiązek podatkowy powstaje zgodnie z art. 19a ust. 5 pkt 1 lub art. 21 ust. 1, lub
+
+  - b) w przepisach wydanych na podstawie art. 19a ust. 12 określono termin powstania obowiązku podatkowego z chwilą otrzymania całości lub części zapłaty
+
+  - wyrazy „metoda kasowa”;
 
 - 17) w przypadku faktur, o których mowa w art. 106d ust. 1 - wyraz „samofakturowanie”;
 

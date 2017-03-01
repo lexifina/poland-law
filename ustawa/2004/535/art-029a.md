@@ -56,7 +56,7 @@
 
 - 2) dostawy towarów i świadczenia usług, dla których miejsce opodatkowania znajduje się poza terytorium kraju;
 
-- 3) sprzedaży: energii elektrycznej, cieplnej lub chłodniczej, gazu przewodowego, usług telekomunikacyjnych oraz usług wymienionych w poz. 140-153, 174 i 175 załącznika nr 3 do ustawy;
+- 3) sprzedaży: energii elektrycznej, cieplnej lub chłodniczej, gazu przewodowego, usług dystrybucji energii elektrycznej, cieplnej lub chłodniczej, usług dystrybucji gazu przewodowego, usług telekomunikacyjnych oraz usług wymienionych w poz. 140-153, 174 i 175 załącznika nr 3 do ustawy;
 
 - 4) gdy podatnik nie uzyskał potwierdzenia mimo udokumentowanej próby doręczenia faktury korygującej i z posiadanej dokumentacji wynika, że nabywca towaru lub usługobiorca wie, że transakcja została zrealizowana zgodnie z warunkami określonymi w fakturze korygującej.
 

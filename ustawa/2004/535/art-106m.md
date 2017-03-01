@@ -10,6 +10,6 @@
 
 5. Poza wykorzystaniem kontroli biznesowych, określonych w ust. 4, autentyczność pochodzenia i integralność treści faktury elektronicznej są zachowane, w szczególności, w przypadku wykorzystania:
 
-- 1) bezpiecznego podpisu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262, z 2014 r. poz. 1662 oraz z 2015 r. poz. 1893), weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu, lub
+- 1) kwalifikowanego podpisu elektronicznego lub
 
 - 2) elektronicznej wymiany danych (EDI) zgodnie z umową w sprawie europejskiego modelu wymiany danych elektronicznych, jeżeli zawarta umowa dotycząca tej wymiany przewiduje stosowanie procedur gwarantujących autentyczność pochodzenia faktury i integralność jej danych.

@@ -14,4 +14,4 @@
 
 5. (uchylony)
 
-6. W przypadku stwierdzenia, że podatnik naruszył obowiązek określony w ust. 1, naczelnik urzędu skarbowego lub organ kontroli skarbowej ustala dodatkowe zobowiązanie podatkowe w wysokości 30% kwoty podatku wynikającego z nieuregulowanych faktur, który nie został skorygowany zgodnie z ust. 1. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+6. (uchylony)

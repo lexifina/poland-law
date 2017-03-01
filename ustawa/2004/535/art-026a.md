@@ -6,16 +6,16 @@
 
 1. Miejscem importu towarów jest terytorium państwa członkowskiego, na którym towary znajdują się w momencie ich wprowadzenia na terytorium Unii Europejskiej.
 
-2. W przypadku gdy towary zostaną objęte z momentem ich wprowadzenia na terytorium Unii Europejskiej jedną z następujących procedur lub przeznaczeń celnych:
+2. W przypadku gdy towary zostaną objęte z momentem ich wprowadzenia na terytorium Unii Europejskiej jedną z następujących procedur:
 
-- 1) procedurą uszlachetniania czynnego w systemie zawieszeń,
+- 1) uszlachetniania czynnego,
 
-- 2) procedurą odprawy czasowej z całkowitym zwolnieniem od należności celnych przywozowych,
+- 2) odprawy czasowej z całkowitym zwolnieniem od należności celnych przywozowych,
 
-- 3) procedurą składu celnego,
+- 3) składowania celnego,
 
-- 4) procedurą tranzytu, w tym także składowaniem czasowym przed nadaniem przeznaczenia celnego,
+- 4) tranzytu, w tym także składowaniem czasowym przed objęciem towarów jedną z procedur celnych,
 
-- 5) przeznaczeniem - wprowadzenie towarów do wolnego obszaru celnego lub składu wolnocłowego
+- 5) wolnego obszaru celnego
 
-- miejscem importu takich towarów jest terytorium państwa członkowskiego, na którym towary te przestaną podlegać tym procedurom i przeznaczeniom.
+- miejscem importu takich towarów jest terytorium państwa członkowskiego, na którym towary te przestaną podlegać tym procedurom.

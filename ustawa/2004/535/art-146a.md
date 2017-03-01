@@ -1,6 +1,6 @@
 # Art. 146a.
 
-W okresie od dnia 1 stycznia 2011 r. do dnia 31 grudnia 2016 r., z zastrzeżeniem art. 146f:
+W okresie od dnia 1 stycznia 2011 r. do dnia 31 grudnia 2018 r., z zastrzeżeniem art. 146f:
 
 - 1) stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2 i art. 110, wynosi 23%;
 

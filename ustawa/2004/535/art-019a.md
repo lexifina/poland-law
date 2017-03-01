@@ -44,10 +44,12 @@
 
 8. Jeżeli przed dokonaniem dostawy towaru lub wykonaniem usługi otrzymano całość lub część zapłaty, w szczególności: przedpłatę, zaliczkę, zadatek, ratę, wkład budowlany lub mieszkaniowy przed ustanowieniem spółdzielczego prawa do lokalu mieszkalnego lub lokalu o innym przeznaczeniu, obowiązek podatkowy powstaje z chwilą jej otrzymania w odniesieniu do otrzymanej kwoty, z zastrzeżeniem ust. 5 pkt 4.
 
-9. Obowiązek podatkowy z tytułu importu towarów powstaje z chwilą powstania długu celnego, z zastrzeżeniem ust. 10 i 11.
+9. Obowiązek podatkowy z tytułu importu towarów powstaje z chwilą powstania długu celnego, z zastrzeżeniem ust. 10a i 11.
 
-10. W przypadku objęcia towarów procedurą celną przetwarzania pod kontrolą celną obowiązek podatkowy z tytułu importu towarów powstaje z chwilą objęcia towarów tą procedurą.
+10. (uchylony)
 
-11. W przypadku objęcia towarów procedurą celną: składu celnego, odprawy czasowej z całkowitym zwolnieniem od należności celnych przywozowych, uszlachetniania czynnego w systemie zawieszeń, tranzytu lub przeznaczeniem celnym - wprowadzenie towarów do wolnego obszaru celnego lub składu wolnocłowego, jeżeli od towarów tych pobierane są opłaty wyrównawcze lub opłaty o podobnym charakterze - obowiązek podatkowy z tytułu importu towarów powstaje z chwilą wymagalności tych opłat.
+10a. W przypadku objęcia towarów procedurą uszlachetniania czynnego obowiązek podatkowy z tytułu importu towarów powstaje z chwilą zamknięcia procedury uszlachetniania czynnego zgodnie z art. 324 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.), zwanego dalej „rozporządzeniem 2015/2447”.
+
+11. W przypadku objęcia towarów procedurą: składowania celnego, odprawy czasowej z całkowitym zwolnieniem z należności celnych przywozowych, uszlachetniania czynnego, tranzytu, wolnego obszaru celnego, jeżeli od towarów tych pobierane są opłaty wyrównawcze lub opłaty o podobnym charakterze, obowiązek podatkowy z tytułu importu towarów powstaje z chwilą wymagalności tych opłat.
 
 12. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, późniejsze niż wymienione w ust. 1, 5 oraz 7-11 terminy powstania obowiązku podatkowego, uwzględniając specyfikę wykonywania niektórych czynności, uwarunkowania obrotu gospodarczego niektórymi towarami oraz przepisy Unii Europejskiej.

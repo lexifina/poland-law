@@ -10,7 +10,7 @@
 
 2. Przepis ust. 1 stosuje się w przypadku gdy spełnione są następujące warunki:
 
-- 1) dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844 oraz z 2016 r. poz. 615), postępowania upadłościowego lub w trakcie likwidacji;
+- 1) dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2016 r. poz. 1574, 1579, 1948 i 2260), postępowania upadłościowego lub w trakcie likwidacji;
 
 - 2) (uchylony)
 

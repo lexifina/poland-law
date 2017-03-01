@@ -20,10 +20,22 @@
 
 - 2) jeżeli powstanie zaległości podatkowych nie wiązało się z uczestnictwem podmiotu dokonującego dostawy towarów, o którym mowa w ust. 1, w nierzetelnym rozliczaniu podatku w celu odniesienia korzyści majątkowej, lub
 
-- 3) jeżeli na dzień dokonania dostawy towarów łącznie były spełnione następujące warunki:
+- 3) jeżeli w związku z dokonaniem dostawy towarów wymienionych w poz. 1-9 i 12-24 załącznika nr 13 do ustawy łącznie były spełnione następujące warunki:
 
-  - a) podmiot dokonujący dostawy towarów, o którym mowa w ust. 1, był wymieniony w wykazie, o którym mowa w art. 105c ust. 1,
+  - a) podmiot dokonujący dostawy tych towarów na dzień dokonania tej dostawy był wymieniony w wykazie, o którym mowa w art. 105c ust. 1,
 
-  - b) wysokość kaucji gwarancyjnej, o której mowa w art. 105b ust. 1, odpowiadała co najmniej jednej piątej kwoty podatku należnego przypadającej na dostawy towarów dokonane w danym miesiącu na rzecz danego podatnika lub kaucja ta wynosiła co najmniej: - 3 000 000 zł - w przypadku dostawy towarów wymienionych w poz. 1-9 i 12-21 załącznika nr 13 do ustawy, - 10 000 000 zł - w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy.
+  - b) wysokość kaucji gwarancyjnej, o której mowa w art. 105b ust. 1, na dzień dokonania tej dostawy odpowiadała co najmniej jednej piątej kwoty podatku należnego przypadającej na dostawy towarów dokonane w danym miesiącu na rzecz danego podatnika lub kaucja ta wynosiła co najmniej 3 000 000 zł,
+
+  - c) podatnik, na rzecz którego dokonano dostawy tych towarów, dokonał w całości zapłaty za towary na rachunek, o którym mowa w art. 105b ust. 1 pkt 4, lub
+
+- 4) jeżeli w związku z dokonaniem dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy łącznie były spełnione następujące warunki:
+
+  - a) podmiot dokonujący dostawy tych towarów na dzień dokonania tej dostawy był wymieniony w wykazie, o którym mowa w art. 105c ust. 1,
+
+  - b) wysokość kaucji gwarancyjnej, o której mowa w art. 105b ust. 1, na dzień dokonania tej dostawy odpowiadała co najmniej jednej piątej kwoty podatku należnego przypadającej na dostawy towarów dokonane w danym miesiącu na rzecz danego podatnika lub kaucja ta wynosiła co najmniej 10 000 000 zł,
+
+  - c) podmiot dokonujący dostawy tych towarów posiadał na dzień poprzedzający dzień dokonania dostawy koncesje wymagane w wykonywaniu działalności gospodarczej w przypadku dostaw tych towarów,
+
+  - d) podatnik, na rzecz którego dokonano dostawy tych towarów, dokonał w całości zapłaty za towary na rachunek, o którym mowa w art. 105b ust. 1 pkt 4.
 
 4. Jeżeli podatnik wykaże, że okoliczności lub warunki, o których mowa w ust. 2, nie miały wpływu na niezapłacenie podatku, przepisu ust. 1 nie stosuje się.
