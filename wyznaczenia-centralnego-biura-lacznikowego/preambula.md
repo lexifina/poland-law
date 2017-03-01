@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 2 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289, z 2015 r. poz. 211 oraz z 2016 r. poz. 1948) zarządza się, co następuje:
