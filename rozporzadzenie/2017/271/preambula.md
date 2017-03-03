@@ -1,0 +1,1 @@
+Na podstawie art. 31 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2016 r. poz. 882 i 1311) zarządza się, co następuje:
