@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/235",
+ "source_sha256": "1660063e79cf03ede141af09ba06b388ebe918b600b971c31f7d29b3ff9f32f9",
+ "in_force": "2017-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/235",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/235/text/O/M20170235.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/235/text/I/M20170235.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/235",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 235,
+  "address": "WMP20170000235",
+  "displayAddress": "M.P. 2017 poz. 235",
+  "title": "Postanowienie nr 112.1.2017 Prezydenta Rzeczypospolitej Polskiej z dnia 9 stycznia 2017 r. w sprawie mianowania na stopień generała dywizji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-01-09",
+  "promulgation": "2017-03-03",
+  "changeDate": "2018-05-21T09:50:25",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170235.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170235.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
