@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/241",
+ "source_sha256": "06ea161c76be36dd8f12d19781a1ec631ad2c1b387092a916efb929b25564b72",
+ "in_force": "2017-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/241",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/241/text/O/M20170241.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/241/text/I/M20170241.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/241",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 241,
+  "address": "WMP20170000241",
+  "displayAddress": "M.P. 2017 poz. 241",
+  "title": "Oświadczenie rządowe z dnia 23 stycznia 2017 r. w sprawie związania Rzeczypospolitej Polskiej Umową między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej o współpracy obronnej, podpisaną w Bratysławie dnia 16 maja 2014 r.",
+  "type": "Oświadczenie rządowe",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-01-23",
+  "promulgation": "2017-03-03",
+  "changeDate": "2019-03-26T10:30:51",
+  "releasedBy": [],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe"
+  ],
+  "keywordsNames": [
+   "Słowacja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/443",
+     "art": "art. 15 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170241.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170241.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
