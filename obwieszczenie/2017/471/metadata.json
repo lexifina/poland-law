@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/471",
+ "source_sha256": "6e6b33d1e7ad1ce7c3a9a5fc5c9f0bb60a5a7943968555dc0e6bbf15e6e06661",
+ "in_force": "2017-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1364 words, parsed 110; at 106: '. 1 zamiast wyrazów : „ 1 . Kto :'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/471",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/471/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/471/text/O/D20170471.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/471/text/I/D20170471.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/471/text/T/D20170471L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/471",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 471,
+  "address": "WDU20170000471",
+  "displayAddress": "Dz.U. 2017 poz. 471",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 lutego 2017 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-02-24",
+  "promulgation": "2017-03-03",
+  "changeDate": "2024-03-14T20:36:24",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18 ust. 2"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2017/242"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170471.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170471.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170471L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
