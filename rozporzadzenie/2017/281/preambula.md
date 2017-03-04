@@ -1,0 +1,1 @@
+Na podstawie art. 101 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512, z 2013 r. poz. 865, z 2015 r. poz. 1893, z 2016 r. poz. 2246 oraz z 2017 r. poz. 60) zarządza się, co następuje:
