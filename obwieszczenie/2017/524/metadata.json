@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/524",
+ "source_sha256": "f17aef1c982398879eb5a4cb1d0b94647df11934f1688af57699cecc65bccc22",
+ "in_force": "2017-03-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/524",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/524/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/524/text/O/D20170524.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/524/text/I/D20170524.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/524/text/T/D20170524L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/524/text/U/D20170524Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/524",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 524,
+  "address": "WDU20170000524",
+  "displayAddress": "Dz.U. 2017 poz. 524",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 lutego 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Najwyższej Izbie Kontroli",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-02-24",
+  "promulgation": "2017-03-13",
+  "expirationDate": "2019-03-14",
+  "changeDate": "2024-03-14T20:34:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/59"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170524.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170524.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170524L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170524Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
