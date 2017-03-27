@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/643",
+ "source_sha256": "4b13d5d6223e3ffebd917d79e4256069fd088f86d600d6ac729f6ebbc19ce71f",
+ "in_force": "2017-03-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/643",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/643/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/643/text/O/D20170643.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/643/text/I/D20170643.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/643/text/T/D20170643L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/643",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 643,
+  "address": "WDU20170000643",
+  "displayAddress": "Dz.U. 2017 poz. 643",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Prasowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-03-10",
+  "promulgation": "2017-03-27",
+  "expirationDate": "2019-08-22",
+  "changeDate": "2024-03-14T20:35:01",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prasowe prawo"
+  ],
+  "keywordsNames": [
+   "Polska Agencja Prasowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/687"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170643.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170643.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170643L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
