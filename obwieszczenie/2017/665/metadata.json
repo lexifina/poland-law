@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/665",
+ "source_sha256": "c98ecabb91396b7aaa85031ad25c4943fd046c96a996caf7cba85c09a61b801e",
+ "in_force": "2017-03-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/665",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/665/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/665/text/O/D20170665.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/665/text/I/D20170665.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/665/text/T/D20170665L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/665/text/U/D20170665Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/665",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 665,
+  "address": "WDU20170000665",
+  "displayAddress": "Dz.U. 2017 poz. 665",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny wykonawczy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-03-10",
+  "promulgation": "2017-03-29",
+  "expirationDate": "2018-03-30",
+  "changeDate": "2026-10-09T09:13:18",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/557"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170665.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170665.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170665L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170665Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
