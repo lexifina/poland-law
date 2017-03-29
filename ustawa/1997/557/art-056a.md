@@ -1,0 +1,5 @@
+# Art. 56a.
+
+§ 1. Wydatki związane z ubezpieczeniem następstw nieszczęśliwych wypadków skazanych, wykonujących nieodpłatną, kontrolowaną pracę na cele społeczne oraz pracę społecznie użyteczną, ponosi Skarb Państwa.
+
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb postępowania przy zawieraniu przez podmioty uprawnione umowy ubezpieczenia następstw nieszczęśliwych wypadków skazanych wykonujących nieodpłatną, kontrolowaną pracę na cele społeczne oraz pracę społecznie użyteczną, a także minimalną i maksymalną sumę ubezpieczenia, na którą umowa taka może zostać zawarta, podmioty uprawnione do zawierania umów ubezpieczenia oraz termin zawierania umów, mając na uwadze potrzebę zagwarantowania skazanym, wykonującym nieodpłatną, kontrolowaną pracę na cele społeczne lub pracę społecznie użyteczną, odpowiedniej rekompensaty w przypadku zaistnienia przy wykonywaniu tej pracy nieszczęśliwego wypadku oraz sprawne wykonywanie czynności związanych z zawieraniem umowy ubezpieczenia.

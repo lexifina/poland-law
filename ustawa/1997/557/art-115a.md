@@ -1,0 +1,5 @@
+# Art. 115a.
+
+§ 1. Osobie pozbawionej wolności, w razie choroby uniemożliwiającej stawiennictwo w postępowaniu prowadzonym przez sąd lub organ prowadzący postępowanie karne, na podstawie Kodeksu postępowania karnego, w którym obecność osoby pozbawionej wolności była obowiązkowa lub gdy wnosiła ona o dopuszczenie do czynności, będąc uprawnioną do wzięcia w niej udziału lub przez sąd, na podstawie Kodeksu postępowania cywilnego, zaświadczenie usprawiedliwiające niestawiennictwo wystawia lekarz podmiotu, o którym mowa w art. 115 § 4.
+
+§ 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, tryb wystawiania zaświadczenia potwierdzającego zdolność albo niezdolność stawiennictwa osoby pozbawionej wolności w przypadku choroby na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne oraz sposób doręczania zaświadczenia sądowi lub organowi prowadzącemu postępowanie karne, mając na uwadze konieczność zapewnienia prawidłowego toku postępowania oraz uwzględniając specyfikę opieki zdrowotnej w warunkach izolacji więziennej.

@@ -1,0 +1,7 @@
+# Art. 223d.
+
+§ 1. Tymczasowo aresztowany lub skazany, konwojowany przez funkcjonariuszy Policji, Służby Więziennej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego lub żołnierzy Żandarmerii Wojskowej, może być umieszczony w pomieszczeniu przeznaczonym dla osób zatrzymanych, na czas trwania przeszkody uniemożliwiającej konwojowanie lub niezbędny ze względów humanitarnych. Decyzję w tym przedmiocie podejmuje dowódca konwoju. W czasie tym nie mogą być dokonywane czynności procesowe z udziałem konwojowanego w sprawie, w związku z którą jest on konwojowany.
+
+§ 2. Przepis § 1 stosuje się odpowiednio w razie przeszkody uniemożliwiającej doprowadzenie lub przyjęcie tymczasowo aresztowanego albo skazanego do aresztu śledczego lub zakładu karnego oraz w razie nieprzewidzianego lądowania podczas przewozu drogą powietrzną lub nieprzewidzianej przerwy w przewozie inną drogą osoby dostarczanej na zasadach i w warunkach określonych w Rzymskim Statucie Międzynarodowego Trybunału Karnego, sporządzonym w Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708). Decyzję w tym przedmiocie podejmuje odpowiednio komendant lub kierownik jednostki Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego lub Żandarmerii Wojskowej.
+
+§ 3. Każdorazowe umieszczenie tymczasowo aresztowanego lub skazanego ze względów humanitarnych w pomieszczeniu, o którym mowa w § 1, może nastąpić na czas nie dłuższy niż 8 godzin.
