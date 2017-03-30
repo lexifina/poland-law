@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/682",
+ "source_sha256": "5a71ab5a28f8b2a1408ef817421eb963eb5d1b795b30adc4bc9ed2f5e369d3da",
+ "in_force": "2017-03-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/682",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/682/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/682/text/O/D20170682.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/682/text/I/D20170682.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/682/text/T/D20170682L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/682/text/U/D20170682Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/682",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 682,
+  "address": "WDU20170000682",
+  "displayAddress": "Dz.U. 2017 poz. 682",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks rodzinny i opiekuńczy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-03-09",
+  "promulgation": "2017-03-30",
+  "expirationDate": "2019-10-30",
+  "changeDate": "2024-03-14T20:39:38",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rodzinne i opiekuńcze prawo",
+   "kodeks rodzinny i opiekuńczy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1964/59"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170682.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170682.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170682L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170682Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
