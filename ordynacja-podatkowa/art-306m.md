@@ -1,5 +1,7 @@
 # Art. 306m.
 
+(uchylony)
+
 § 1. Organ podatkowy na wniosek podatnika wydaje zaświadczenie o miejscu zamieszkania dla celów podatkowych na terytorium Rzeczypospolitej Polskiej osoby fizycznej osiągającej przychody (dochody), o których mowa w art. 305n § 1, ze źródeł przychodów położonych:
 
 - 1) w Republice Austrii, Wielkim Księstwie Luksemburga, Księstwie Andory, Księstwie Monako, lub

@@ -14,6 +14,6 @@
 
 § 4. Zaświadczenie wydaje się w granicach żądania wnioskodawcy.
 
-§ 5. Zaświadczenie powinno być wydane bez zbędnej zwłoki, nie później jednak niż w terminie 7 dni od dnia złożenia wniosku o wydanie zaświadczenia, z zastrzeżeniem § 6.
+§ 5. Zaświadczenie powinno być wydane bez zbędnej zwłoki, nie później jednak niż w terminie 7 dni od dnia złożenia wniosku o wydanie zaświadczenia.
 
-§ 6. Zaświadczenie, o którym mowa w art. 306m § 1, powinno być wydane bez zbędnej zwłoki, nie później jednak niż w terminie 2 miesięcy od dnia złożenia wniosku o wydanie zaświadczenia.
+§ 6. (uchylony)
