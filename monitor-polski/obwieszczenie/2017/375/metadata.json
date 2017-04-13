@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/375",
+ "source_sha256": "82bbad79c1e961fcb50101fdfdc6d2f6612c2661fd0b6a4e6ef43a93766ac06b",
+ "in_force": "2017-04-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/375",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/375/text/O/M20170375.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/375/text/I/M20170375.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/375",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 375,
+  "address": "WMP20170000375",
+  "displayAddress": "M.P. 2017 poz. 375",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Energii",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-04-13",
+  "repealDate": "2018-04-10",
+  "changeDate": "2018-04-10T09:35:37",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Energii"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2018/343",
+     "date": "2018-04-10"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2015/1291"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170375.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170375.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
