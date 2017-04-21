@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/400",
+ "source_sha256": "90066bcde1393e4030a1deda0b2ec75a488230692d84742008ec63281d4c3254",
+ "in_force": "2017-04-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/400",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/400/text/O/M20170400.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/400/text/I/M20170400.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/400",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 400,
+  "address": "WMP20170000400",
+  "displayAddress": "M.P. 2017 poz. 400",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 16 lutego 2017 r. nr 112.15.2017 w sprawie mianowania na stopień generała brygady",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-02-16",
+  "promulgation": "2017-04-21",
+  "changeDate": "2017-10-20T16:09:02",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4 i ust. 8b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170400.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170400.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
