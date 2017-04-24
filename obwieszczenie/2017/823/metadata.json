@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/823",
+ "source_sha256": "d633e01986ca5bc0f75adfe2571e11ff7f2abe5f8693d97789fda417b6d59613",
+ "in_force": "2017-04-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/823",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/823/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/823/text/O/D20170823.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/823/text/I/D20170823.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/823/text/T/D20170823L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/823/text/U/D20170823Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/823",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 823,
+  "address": "WDU20170000823",
+  "displayAddress": "Dz.U. 2017 poz. 823",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-04-24",
+  "expirationDate": "2026-01-23",
+  "changeDate": "2026-01-26T10:38:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regiony",
+   "mniejszości narodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/141"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170823.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170823.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170823L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170823Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
