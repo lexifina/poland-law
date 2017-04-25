@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/833",
+ "source_sha256": "12d7e7785c2c70e88bb3ecd4045b5a74d335bd91833e37cab6bec4d0ad6fb578",
+ "in_force": "2017-04-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/833",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/833/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/833/text/O/D20170833.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/833/text/I/D20170833.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/833/text/T/D20170833L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/833/text/U/D20170833Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/833",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 833,
+  "address": "WDU20170000833",
+  "displayAddress": "Dz.U. 2017 poz. 833",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-04-25",
+  "expirationDate": "2018-03-04",
+  "changeDate": "2024-03-14T20:41:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od spadków i darowizn"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32013R1408",
+    "date": "2013-12-18",
+    "title": "Rozporządzenie Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1983/207"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170833.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170833.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170833L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170833Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
