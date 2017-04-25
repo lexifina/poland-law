@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/827",
+ "source_sha256": "f6b1c0d4ea4cc6ede646a5922b81571ff51bc278b5fa5d9caeb81c54e189d6ba",
+ "in_force": "2017-04-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/827",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/827/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/827/text/O/D20170827.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/827/text/I/D20170827.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/827/text/T/D20170827L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/827/text/U/D20170827Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/827",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 827,
+  "address": "WDU20170000827",
+  "displayAddress": "Dz.U. 2017 poz. 827",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce komunalnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-04-25",
+  "expirationDate": "2019-04-01",
+  "changeDate": "2024-03-14T20:41:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komunalna gospodarka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/43"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170827.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170827.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170827L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170827Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
