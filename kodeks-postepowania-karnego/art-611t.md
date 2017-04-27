@@ -6,7 +6,7 @@
 
 § 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca kary pozbawienia wolności podlegającej wykonaniu, sąd okręgowy, w którego okręgu wydano orzeczenie, za zgodą skazanego, może wystąpić o wykonanie orzeczenia bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, jeżeli przekazanie orzeczenia do wykonania pozwoli w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
 
-§ 2. Wystąpienie, o którym mowa w § 1, może nastąpić także na wniosek skazanego lub właściwego sądu lub innego organu państwa wykonania orzeczenia.
+§ 2. Wystąpienie, o którym mowa w § 1, może nastąpić także na wniosek Ministra Sprawiedliwości, właściwego sądu lub innego organu państwa wykonania orzeczenia lub skazanego.
 
 § 3. Wystąpienie, o którym mowa w § 1, sąd kieruje do właściwego sądu lub innego organu:
 

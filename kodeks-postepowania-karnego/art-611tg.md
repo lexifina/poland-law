@@ -6,7 +6,7 @@
 
 § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie w Rzeczypospolitej Polskiej prawomocnie orzeczonej kary pozbawienia wolności, orzeczenie to podlega wykonaniu przez sąd okręgowy.
 
-§ 2. Sąd okręgowy, na wniosek sprawcy lub z urzędu, może zwrócić się do właściwego sądu lub innego organu państwa wydania orzeczenia o przekazanie orzeczenia, o którym mowa w § 1, do wykonania, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
+§ 2. Sąd okręgowy na wniosek Ministra Sprawiedliwości, sprawcy lub z urzędu może zwrócić się do właściwego sądu lub innego organu państwa wydania orzeczenia o przekazanie orzeczenia, o którym mowa w § 1, do wykonania, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
 
 § 3. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
 
