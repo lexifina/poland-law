@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/870",
+ "source_sha256": "c2e04438c17f281d097a3bbaf80236b8d40d77e01ddc36b413fdc63b30ebb164",
+ "in_force": "2017-04-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/870",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/870/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/870/text/O/D20170870.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/870/text/I/D20170870.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/870/text/T/D20170870L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/870/text/U/D20170870Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/870",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 870,
+  "address": "WDU20170000870",
+  "displayAddress": "Dz.U. 2017 poz. 870",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji i funkcjonowaniu funduszy emerytalnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-04-28",
+  "expirationDate": "2018-10-04",
+  "changeDate": "2026-08-10T09:41:41",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania",
+   "fundusze emerytalne"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32003L0041",
+    "date": "2003-03-06",
+    "title": "Dyrektywa 2003/41/WE Parlamentu Europejskiego i Rady z dnia 3 czerwca 2003 r. w sprawie dzialałności instytucji pracowniczych programów emerytalnych oraz nadzoru nad takimi instytucjami"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/934"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170870.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170870.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170870L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170870Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
