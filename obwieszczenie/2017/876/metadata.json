@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/876",
+ "source_sha256": "8265c9acd2a6aecf77fa1ffb950f1d0aa539e9fca384e1c04c260cb341088ac9",
+ "in_force": "2017-05-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/876",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/876/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/876/text/O/D20170876.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/876/text/I/D20170876.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/876/text/T/D20170876L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/876/text/U/D20170876Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/876",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 876,
+  "address": "WDU20170000876",
+  "displayAddress": "Dz.U. 2017 poz. 876",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-05-04",
+  "expirationDate": "2018-02-27",
+  "changeDate": "2024-03-14T20:30:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "partie polityczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/604"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170876.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170876.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170876L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170876Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
