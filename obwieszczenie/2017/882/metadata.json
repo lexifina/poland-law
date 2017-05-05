@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/882",
+ "source_sha256": "5f4de5574a08b96659897a22ff8d49f2a9591f81a50995967b151c7989c490e7",
+ "in_force": "2017-05-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/882",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/882/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/882/text/O/D20170882.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/882/text/I/D20170882.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/882/text/T/D20170882L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/882/text/U/D20170882Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/882",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 882,
+  "address": "WDU20170000882",
+  "displayAddress": "Dz.U. 2017 poz. 882",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia psychicznego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-05",
+  "promulgation": "2017-05-05",
+  "expirationDate": "2018-10-02",
+  "changeDate": "2024-03-14T20:34:24",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zdrowia psychicznego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/535"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170882.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170882.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170882L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170882Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
