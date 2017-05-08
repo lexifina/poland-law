@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/425",
+ "source_sha256": "393af39358d0ec557f7a1ee083138d8e64587b54e4eff488b547e9890e732c63",
+ "in_force": "2017-05-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/425",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/425/text/O/M20170425.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/425/text/I/M20170425.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/425",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 425,
+  "address": "WMP20170000425",
+  "displayAddress": "M.P. 2017 poz. 425",
+  "title": "Komunikat Ministra Nauki i Szkolnictwa Wyższego z dnia 25 kwietnia 2017 r. o zmianie zasad finansowania programu pod nazwą \"Narodowy Program Rozwoju Humanistyki\"",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-04-25",
+  "promulgation": "2017-05-08",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "MIN. NAUKI I SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauka",
+   "finansowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2016/674",
+     "date": "2017-05-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2010/615"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2010/615",
+     "art": "art. 26 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170425.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170425.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
