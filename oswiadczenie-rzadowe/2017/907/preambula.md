@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 w związku z art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) Rada Ministrów Rzeczypospolitej Polskiej dnia 16 marca 2017 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem wykonawczym między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej dotyczącym wsparcia medycznego, przez podpisanie.
+
+Porozumienie zostało podpisane w Warszawie dnia 22 marca 2017 r. na podstawie art. 35 ust. 1 w celu wykonania art. 9, art. 20, art. 30 i art. 31 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o statusie sił zbrojnych Stanów Zjednoczonych Ameryki na terytorium Rzeczypospolitej Polskiej, podpisanej w Warszawie dnia 11 grudnia 2009 r..
+
+Zgodnie z art. 3 ust. 1 porozumienia weszło ono w życie z dniem podpisania.
