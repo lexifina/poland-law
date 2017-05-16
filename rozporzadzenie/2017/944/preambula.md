@@ -1,0 +1,1 @@
+Na podstawie art. 48 ust. 9 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1534 i 2138 oraz z 2017 r. poz. 60) zarządza się, co następuje:
