@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/986",
+ "source_sha256": "23d94401585dfbc3ae0e58b745fd0beb1c4c9a1722106d5657dd5da814976d78",
+ "in_force": "2017-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/986",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/986/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/986/text/O/D20170986.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/986/text/I/D20170986.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/986/text/T/D20170986L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/986/text/U/D20170986Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/986",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 986,
+  "address": "WDU20170000986",
+  "displayAddress": "Dz.U. 2017 poz. 986",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Zintegrowanym Systemie Kwalifikacji",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-04-21",
+  "promulgation": "2017-05-19",
+  "expirationDate": "2018-11-16",
+  "changeDate": "2024-03-14T20:32:37",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kwalifikacje"
+  ],
+  "keywordsNames": [
+   "Zintegrowany System Kwalifikacji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/64"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20170986.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20170986.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20170986L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20170986Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
