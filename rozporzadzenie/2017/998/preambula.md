@@ -1,0 +1,1 @@
+Na podstawie art. 25a ust. 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032 i 2048 oraz z 2017 r. poz. 60, 528, 648 i 859) zarządza się, co następuje:
