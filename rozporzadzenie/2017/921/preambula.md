@@ -1,0 +1,1 @@
+Na podstawie art. 34a ust. 3 pkt 2 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2015 r. poz. 1052 i 1854 oraz z 2016 r. poz. 2260) zarządza się, co następuje:
