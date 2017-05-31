@@ -1,0 +1,1 @@
+Na podstawie art. 68f ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724, 768 i 791) zarządza się, co następuje:
