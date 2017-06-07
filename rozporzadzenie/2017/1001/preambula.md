@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 1 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. poz. 1700, z 2010 r. poz. 1228, z 2011 r. poz. 528 oraz z 2017 r. poz. 32) zarządza się, co następuje:
