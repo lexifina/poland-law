@@ -1,0 +1,1 @@
+Na podstawie art. 25 ustawy z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. z 2014 r. poz. 213 i 1822 oraz z 2016 r. poz. 2138) zarządza się, co następuje:
