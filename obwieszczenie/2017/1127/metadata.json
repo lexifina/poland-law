@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1127",
+ "source_sha256": "4ed1d4d24309f7ce53db014ebbe5cf00af3b8e81411944261f53f190e76f6cec",
+ "in_force": "2017-06-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1127",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1127/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1127/text/O/D20171127.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1127/text/I/D20171127.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1127/text/T/D20171127L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1127/text/U/D20171127Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1127",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1127,
+  "address": "WDU20170001127",
+  "displayAddress": "Dz.U. 2017 poz. 1127",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 maja 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o giełdach towarowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-05-26",
+  "promulgation": "2017-06-09",
+  "expirationDate": "2018-03-27",
+  "changeDate": "2024-03-14T20:31:20",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "giełdy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1099"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171127.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171127.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171127L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171127Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
