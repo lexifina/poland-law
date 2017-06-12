@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że Traktat handlowy i nawigacyjny między Polską a Łotwą, podpisany w Rydze dnia 12 lutego 1929 r., zachował moc obowiązującą w zakresie dotyczącym żeglugi morskiej i ratownictwa, do czasu zastąpienia traktatu przez nową umowę, na podstawie art. 2 Porozumienia między Rzecząpospolitą Polską a Republiką Łotewską w sprawie umów dwustronnych zawartych w latach 1922-1938, sporządzonego w Warszawie dnia 10 lutego 1997 r., które weszło w życie dnia 22 lipca 1997 r.
+
+Jednocześnie podaje się do wiadomości, że postanowienia Traktatu handlowego i nawigacyjnego między Polską a Łotwą, podpisanego w Rydze dnia 12 lutego 1929 r., dotyczące żeglugi morskiej i ratownictwa utraciły moc obowiązującą na podstawie art. 18 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Łotewskiej o transporcie morskim, podpisanej w Rydze dnia 27 października 1999 r.,która weszła w życie dnia 9 marca 2000 r.
+
+Tym samym Traktat handlowy i nawigacyjny między Polską a Łotwą, podpisany w Rydze dnia 12 lutego 1929 r., utracił moc obowiązującą dnia 9 marca 2000 r.
