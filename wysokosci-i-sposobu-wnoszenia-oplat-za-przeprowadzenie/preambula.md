@@ -1,0 +1,1 @@
+Na podstawie art. 157 ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365, z 2016 r. poz. 925, 1579 i 2260 oraz z 2017 r. poz. 624) zarządza się, co następuje:
