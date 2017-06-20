@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/582",
+ "source_sha256": "729ce6f5bda0b4ba6531ded6af459cc1d4263854ce7092097ce5f0bc06eea0fd",
+ "in_force": "2017-06-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/582",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/582/text/O/M20170582.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/582/text/I/M20170582.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/582",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 582,
+  "address": "WMP20170000582",
+  "displayAddress": "M.P. 2017 poz. 582",
+  "title": "Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 22 maja 2017 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Nauki i Szkolnictwa Wyższego lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-05-22",
+  "promulgation": "2017-06-20",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. NAUKI I SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Nauki i Szkolnictwa Wyższego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170582.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170582.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
