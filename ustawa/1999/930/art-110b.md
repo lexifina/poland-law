@@ -1,5 +1,5 @@
 # Art. 110b.
 
-Kto umożliwia osobie, która nie ukończyła 18 roku życia, udział w grze losowej innej niż loteria promocyjna lub fantowa, w grze na automacie lub w zakładzie wzajemnym,
+Kto umożliwia osobie, która nie ukończyła 18. roku życia, udział w grze hazardowej innej niż loteria promocyjna lub fantowa,
 
-podlega karze grzywny za wykroczenie skarbowe.
+podlega karze grzywny za wykroczenia skarbowe.

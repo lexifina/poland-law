@@ -8,6 +8,8 @@
 
 - 1) rozpoczęcia czynności sprawdzających w zakresie podatku od towarów i usług;
 
-- 2) doręczenia zawiadomienia o zamiarze wszczęcia kontroli podatkowej lub postępowania kontrolnego w ramach kontroli skarbowej w zakresie podatku od towarów i usług, a w przypadku gdy nie stosuje się zawiadomienia - przed dniem wszczęcia takiej kontroli lub postępowania, jeżeli nie miał miejsca przypadek wskazany w pkt 1;
+- 2) doręczenia zawiadomienia o zamiarze wszczęcia kontroli podatkowej w zakresie podatku od towarów i usług, a w przypadku gdy nie stosuje się zawiadomienia - przed dniem wszczęcia takiej kontroli, jeżeli nie miał miejsca przypadek wskazany w pkt 1;
+
+- 2a) wszczęcia kontroli celno-skarbowej w zakresie podatku od towarów i usług;
 
 - 3) wszczęcia postępowania podatkowego w zakresie podatku od towarów i usług, jeżeli nie miał miejsca przypadek wskazany w pkt 1 lub 2.

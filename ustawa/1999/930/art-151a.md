@@ -8,6 +8,6 @@
 
 - 2) jeżeli osobą podejrzaną jest sędzia, prokurator, funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu lub Centralnego Biura Antykorupcyjnego;
 
-- 3) jeżeli osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postę-powania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego;
+- 3) jeżeli osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego;
 
 - 4) jeżeli prokurator lub finansowy organ postępowania przygotowawczego tak zarządzi.
