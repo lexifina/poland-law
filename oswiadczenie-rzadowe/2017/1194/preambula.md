@@ -1,0 +1,1 @@
+Podaje się niniejszym do wiadomości, że zgodnie z art. 11 Konwencji między Rzecząpospolitą Polską a Republiką Francuską dotyczącej współpracy intelektualnej, podpisanej w Paryżu dnia 19 lutego 1947 r., konwencja utraciła moc obowiązującą dnia 13 czerwca 1957 r.
