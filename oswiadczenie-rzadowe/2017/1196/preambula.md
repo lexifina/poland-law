@@ -1,0 +1,1 @@
+Podaje się niniejszym do wiadomości, że zgodnie z § 4 Układu o współpracy technicznej i naukowo-technicznej pomiędzy Rzecząpospolitą Polską i Ludową Republiką Albanii, podpisanego w Warszawie dnia 25 stycznia 1951 r., układ utracił moc obowiązującą dnia 27 grudnia 1961 r.
