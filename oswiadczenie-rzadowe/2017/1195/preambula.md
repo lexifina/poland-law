@@ -1,0 +1,1 @@
+Podaje się niniejszym do wiadomości, że zgodnie z art. 25 ust. 2 Umowy między Rzecząpospolitą Polską a Republiką Czechosłowacką o uprzywilejowanym tranzycie kolejowym z Polski do Polski przez Broumov-Mezimesti, podpisanej w Pradze dnia 2 lipca 1949 r., umowa utraciła moc obowiązującą dnia 15 maja 1952 r.
