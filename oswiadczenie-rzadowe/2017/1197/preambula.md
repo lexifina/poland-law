@@ -1,0 +1,1 @@
+Podaje się niniejszym do wiadomości, że zgodnie z art. 12 Umowy między Polską Rzecząpospolitą Ludową a Socjalistyczną Etiopią o współpracy kulturalnej, podpisanej w Warszawie dnia 12 grudnia 1978 r., umowa utraciła moc obowiązującą dnia 8 kwietnia 1991 r.
