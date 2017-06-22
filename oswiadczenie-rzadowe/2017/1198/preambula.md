@@ -1,0 +1,1 @@
+Podaje się niniejszym do wiadomości, że zgodnie z art. 22 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Kazachstanu o współpracy kulturalnej i naukowej, sporządzonej w Warszawie dnia 27 listopada 1997 r., umowa utraciła moc obowiązującą dnia 4 sierpnia 2009 r.
