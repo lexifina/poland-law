@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1206",
+ "source_sha256": "60944b74074fa060985a585f7794a4a71483a01effe584fe203587800c94a4da",
+ "in_force": "2017-06-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1206",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1206/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1206/text/O/D20171206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1206/text/I/D20171206.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1206",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1206,
+  "address": "WDU20170001206",
+  "displayAddress": "Dz.U. 2017 poz. 1206",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 18 maja 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości - Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-05-18",
+  "promulgation": "2017-06-23",
+  "expirationDate": "2023-06-15",
+  "changeDate": "2024-03-14T20:33:54",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regulamin organizacyjny",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/508"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
