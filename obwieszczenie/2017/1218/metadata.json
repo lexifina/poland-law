@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1218",
+ "source_sha256": "023384b11802e7c126508f92db9a0ba7746721fd46ef9e15402dc5e01f08f30b",
+ "in_force": "2017-06-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1218",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1218/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1218/text/O/D20171218.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1218/text/I/D20171218.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1218/text/T/D20171218L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1218/text/U/D20171218Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1218",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1218,
+  "address": "WDU20170001218",
+  "displayAddress": "Dz.U. 2017 poz. 1218",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach gospodarczych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-06-09",
+  "promulgation": "2017-06-24",
+  "expirationDate": "2019-03-27",
+  "changeDate": "2024-03-14T20:33:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "celne prawo",
+   "działalność gospodarcza",
+   "izby gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1989/195"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171218.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171218.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171218L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171218Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
