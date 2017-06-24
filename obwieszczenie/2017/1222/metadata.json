@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1222",
+ "source_sha256": "3e98d8a9f495b8a02aeab345541b5067af36df09c4eb75c70feccae66bb382f7",
+ "in_force": "2017-06-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1222",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1222/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1222/text/O/D20171222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1222/text/I/D20171222.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1222/text/T/D20171222L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1222/text/U/D20171222Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1222",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1222,
+  "address": "WDU20170001222",
+  "displayAddress": "Dz.U. 2017 poz. 1222",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 czerwca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-06-08",
+  "promulgation": "2017-06-24",
+  "expirationDate": "2018-06-28",
+  "changeDate": "2024-03-14T20:33:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/306"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171222.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171222L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171222Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
