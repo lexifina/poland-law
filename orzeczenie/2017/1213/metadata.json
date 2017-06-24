@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1213",
+ "source_sha256": "d5947504f5aab9f566f630f4d204d991432d00043b0eacc421c13f69836d50c0",
+ "in_force": "2017-06-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 365 words, parsed 146; at 146: 'poz . 1148 ) : a ) w brzmieniu obowiązującym'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1213",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1213/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1213/text/O/D20171213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1213/text/I/D20171213.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1213/text/T/D20171213TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1213",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1213,
+  "address": "WDU20170001213",
+  "displayAddress": "Dz.U. 2017 poz. 1213",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 czerwca 2017 r. sygn. akt K 16/15",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-06-20",
+  "promulgation": "2017-06-24",
+  "entryIntoForce": "2017-06-24",
+  "changeDate": "2024-03-14T20:33:15",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odnawialne źródła energii"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/478",
+     "date": "2017-06-24"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2016/2072"
+    },
+    {
+     "id": "DU/2005/1365"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2015/478"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171213.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171213TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
