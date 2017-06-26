@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że Konwencja między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Ludowej Republiki Bułgarii w sprawie współpracy w dziedzinie ochrony i kwarantanny roślin, sporządzona w Sofii dnia 6 grudnia 1968 r., utraciła moc obowiązującą na podstawie art. 17 Konwencji między Rządem Rzeczypospolitej Polskiej i Rządem Republiki Bułgarii o współpracy w dziedzinie kwarantanny i ochrony roślin, podpisanej w Warszawie dnia 28 września 1994 r., która weszła w życie dnia 24 marca 1995 r..
+
+Konwencja między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Ludowej Republiki Bułgarii w sprawie współpracy w dziedzinie ochrony i kwarantanny roślin, sporządzona w Sofii dnia 6 grudnia 1968 r., utraciła moc obowiązującą dnia 24 marca 1995 r.
