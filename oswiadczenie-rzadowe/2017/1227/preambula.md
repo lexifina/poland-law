@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że Konwencja sanitarno-weterynaryjna wraz z Protokołem końcowym między Rzecząpospolitą Polską a Ludową Republiką Bułgarii, podpisana w Warszawie dnia 26 września 1949 r., , utraciła moc obowiązującą na podstawie art. 11 Konwencji o współpracy w dziedzinie weterynarii między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Bułgarii, podpisanej w Warszawie dnia 28 września 1994 r., która weszła w życie dnia 10 lutego 1995 r.
+
+Konwencja sanitarno-weterynaryjna wraz z Protokołem końcowym między Rzecząpospolitą Polską a Ludową Republiką Bułgarii, podpisana w Warszawie dnia 26 września 1949 r., utraciła moc obowiązującą dnia 10 lutego 1995 r.
