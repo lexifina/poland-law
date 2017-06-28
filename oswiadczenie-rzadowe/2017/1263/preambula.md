@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 i 4 w związku z art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) Rada Ministrów Rzeczypospolitej Polskiej dnia 19 grudnia 2016 r. wyraziła zgodę na związanie Rzeczypospolitej Polskiej Umową między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o zmianie Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wzajemnej ochronie informacji niejawnych, podpisanej w Warszawie aaadnia 18 sierpnia 2006 r., przez wymianę not.
+
+Umowa weszła w życie dnia 1 kwietnia 2017 r.
