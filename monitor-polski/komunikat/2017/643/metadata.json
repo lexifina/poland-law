@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/643",
+ "source_sha256": "740431ce50ff6f4d4ddab3449e6f1045d1bdb88e892564c58cac35f3bbc4661f",
+ "in_force": "2017-06-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/643",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/643/text/O/M20170643.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/643/text/I/M20170643.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/643",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 643,
+  "address": "WMP20170000643",
+  "displayAddress": "M.P. 2017 poz. 643",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 21 czerwca 2017 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-06-21",
+  "promulgation": "2017-06-28",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170643.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170643.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
