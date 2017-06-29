@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1283",
+ "source_sha256": "21681ec778b3435fe145fe1ef73366997eb35b6cd53285ac04f15f77a4fb456d",
+ "in_force": "2017-06-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1283",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1283/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1283/text/O/D20171283.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1283/text/I/D20171283.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1283",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1283,
+  "address": "WDU20170001283",
+  "displayAddress": "Dz.U. 2017 poz. 1283",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 13 czerwca 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie zasad wynagradzania pracowników Kancelarii Prezesa Rady Ministrów",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-06-13",
+  "promulgation": "2017-06-29",
+  "changeDate": "2024-03-14T20:38:30",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [
+   "Kancelaria Prezesa Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1998/207"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171283.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171283.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
