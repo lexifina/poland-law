@@ -1,0 +1,1 @@
+Na podstawie art. 33 ust. 1 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576, z 2013 r. poz. 829, z 2014 r. poz. 295, z 2015 r. poz. 1505 oraz z 2016 r. poz. 1948 i 1954) zarządza się, co następuje:
