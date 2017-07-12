@@ -1,0 +1,1 @@
+Na podstawie art. 7 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.) zarządza się, co następuje:
