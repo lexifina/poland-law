@@ -1,0 +1,9 @@
+# Art. 95da.
+
+1. Praktyczna nauka zawodu organizowana w warsztatach szkolnych prowadzonych przez szkołę lub zespół szkół, działających przy zakładzie poprawczym lub schronisku dla nieletnich, może mieć formę zajęć praktycznych i praktyk zawodowych.
+
+2. Nieletni odbywający praktyczną naukę zawodu w formie praktyk zawodowych w warsztatach szkolnych prowadzonych przez szkołę lub zespół szkół, działających przy zakładzie poprawczym lub schronisku dla nieletnich, którego jest wychowankiem, może otrzymać stypendium w wysokości ustalonej przez dyrektora zakładu poprawczego. Przepisów art. 95f i 95g nie stosuje się.
+
+3. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określi, w drodze rozporządzenia, szczegółowe warunki i tryb organizowania praktycznej nauki zawodu w warsztatach szkolnych prowadzonych przez szkołę lub zespół szkół, działających przy zakładzie poprawczym lub schronisku dla nieletnich, uwzględniając zakres spraw, które powinny być określone w skierowaniu dyrektora zakładu poprawczego lub schroniska dla nieletnich, o którym mowa w art. 95d ust. 2, w tym prawa i obowiązki szkoły lub zespołu szkół prowadzących warsztaty szkolne, a także kwalifikacje wymagane od osób prowadzących praktyczną naukę zawodu i przysługujące im uprawnienia oraz mając na celu stworzenie warunków dla skutecznej resocjalizacji nieletnich poprzez właściwy dobór formy kształcenia zawodowego i wdrażanie nieletnich do systematycznego wykonywania nałożonych obowiązków.
+
+4. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób określania wysokości stypendium, o którym mowa w ust. 2, uwzględniając wymiar zajęć odbywanych w ramach praktyk zawodowych, ich efekty ekonomiczne, możliwości finansowe zakładu poprawczego lub schroniska dla nieletnich oraz potrzebę przygotowania nieletnich do podejmowania aktywności zawodowej i dalszego doskonalenia zawodowego.

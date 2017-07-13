@@ -1,0 +1,3 @@
+# Art. 32f.
+
+Przesłuchanie nieletniego przez Policję odbywa się w obecności rodziców, którym przysługuje władza rodzicielska, albo opiekuna lub obrońcy nieletniego, a jeżeli zapewnienie ich obecności byłoby w danym wypadku niemożliwe, należy wezwać wskazaną przez nieletniego osobę mu bliską, przedstawiciela szkoły, do której nieletni uczęszcza, asystenta rodziny, koordynatora rodzinnej pieczy zastępczej lub przedstawiciela organizacji społecznej, do której zadań statutowych należy oddziaływanie wychowawcze na nieletnich lub wspomaganie procesu ich resocjalizacji. Przepis art. 19 stosuje się odpowiednio.
