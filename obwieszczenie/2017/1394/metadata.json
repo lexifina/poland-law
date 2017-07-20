@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1394",
+ "source_sha256": "63507307fae846ba36cc26d700b8eb1052eeddcb53c43f978943ea434ee5337d",
+ "in_force": "2017-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 212 words, parsed 85; at 85: 'prostuje się następujące błędy : 1 ) w § 6'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1394",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1394/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1394/text/O/D20171394.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1394/text/I/D20171394.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1394",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1394,
+  "address": "WDU20170001394",
+  "displayAddress": "Dz.U. 2017 poz. 1394",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 18 lipca 2017 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-07-18",
+  "promulgation": "2017-07-20",
+  "repealDate": "2021-09-23",
+  "changeDate": "2024-03-14T20:30:04",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2017/1319"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2021/1737",
+     "date": "2021-09-23"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171394.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171394.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
