@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1411",
+ "source_sha256": "a713614843299649cf5400a5163d6059117a11dc849af9f01748b5f3e880f5b7",
+ "in_force": "2017-07-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1411",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1411/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1411/text/O/D20171411.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1411/text/I/D20171411.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1411/text/T/D20171411L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1411/text/U/D20171411Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1411",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1411,
+  "address": "WDU20170001411",
+  "displayAddress": "Dz.U. 2017 poz. 1411",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-07-07",
+  "promulgation": "2017-07-21",
+  "expirationDate": "2019-07-25",
+  "changeDate": "2024-03-14T20:28:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Szkoła Administracji Publicznej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/266"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171411.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171411.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171411L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171411Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
