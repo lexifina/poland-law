@@ -1,0 +1,1 @@
+Na podstawie art. 78c ust. 7 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 207, 1948, 2003 i 2138 oraz z 2017 r. poz. 624) zarządza się, co następuje:
