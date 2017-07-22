@@ -1,0 +1,3 @@
+# Art. 22g.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy zakres i warunki korzystania z pojedynczego punktu kontaktowego, w tym w szczególności sposób potwierdzania pochodzenia i integralności danych udostępniony bezpłatnie przez pojedynczy punkt kontaktowy, o którym mowa w art. 22b ust. 2a, z uwzględnieniem roli punktu kontaktowego w realizacji procedur związanych z podejmowaniem, wykonywaniem i zakończeniem działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, uznawaniem kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, świadczeniem usług transgranicznych i ubieganiem się o wydanie europejskiej legitymacji zawodowej oraz zasad przetwarzania i ochrony danych osobowych.

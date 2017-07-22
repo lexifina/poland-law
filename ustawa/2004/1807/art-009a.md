@@ -1,0 +1,3 @@
+# Art. 9a.
+
+Właściwy organ, dokonując oceny spełnienia wymogów niezbędnych do podjęcia i wykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, uznaje wymogi, jakie spełnił przedsiębiorca mający siedzibę na terytorium jednego z państw, o których mowa w art. 13 ust. 1, aby na terytorium tego państwa mógł podjąć lub wykonywać działalność gospodarczą, w szczególności uznaje certyfikaty, zaświadczenia lub inne dokumenty wydane przez właściwy organ państwa, o których mowa w art. 13 ust. 1, które potwierdzają spełnienie warunków podjęcia i wykonywania działalności gospodarczej.
