@@ -1,0 +1,111 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1200",
+ "source_sha256": "1bbbab4e0271b81b586d87488aeab9873088189a69a265740b6270c8a61a4c70",
+ "in_force": "2017-07-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1200",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1200/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1200/text/O/D20171200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1200/text/I/D20171200.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1200/text/T/D20171200L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1200/text/U/D20171200Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1200",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1200,
+  "address": "WDU20170001200",
+  "displayAddress": "Dz.U. 2017 poz. 1200",
+  "title": "Ustawa z dnia 25 maja 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-05-25",
+  "promulgation": "2017-06-22",
+  "entryIntoForce": "2017-07-23",
+  "changeDate": "2024-03-14T20:29:01",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne prawo",
+   "świadczenia lecznicze",
+   "medyczne wyroby",
+   "opieka zdrowotna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=1319",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/1319",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/1319",
+    "number": "1319",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2022/2770",
+     "date": "2023-01-01"
+    },
+    {
+     "id": "DU/2019/399",
+     "date": "2019-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2014/1138",
+     "date": "2017-07-23"
+    },
+    {
+     "id": "DU/2011/696",
+     "date": "2017-07-23"
+    },
+    {
+     "id": "DU/2004/2135",
+     "date": "2017-07-23"
+    },
+    {
+     "id": "DU/2001/1381",
+     "date": "2017-07-23"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171200.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171200L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171200Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
