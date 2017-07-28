@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1456",
+ "source_sha256": "c001925c0eca8b0c783135ecdd704a7c40d8b9fc5c2d8ed6c50eb4be619d3424",
+ "in_force": "2017-07-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1456",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1456/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1456/text/O/D20171456.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1456/text/I/D20171456.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1456/text/T/D20171456L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1456/text/U/D20171456Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1456",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1456,
+  "address": "WDU20170001456",
+  "displayAddress": "Dz.U. 2017 poz. 1456",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Mienia Wojskowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-07-07",
+  "promulgation": "2017-07-28",
+  "expirationDate": "2018-11-21",
+  "changeDate": "2024-03-14T20:38:45",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Agencja Mienia Wojskowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/1322"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171456.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171456.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171456L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171456Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
