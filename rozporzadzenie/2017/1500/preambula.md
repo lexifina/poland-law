@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 3 i 4 ustawy z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym (Dz. U. poz. 363 oraz z 2015 r. poz. 218) zarządza się, co następuje:
