@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1505",
+ "source_sha256": "1283dec32ed6c3a2d8ec81e5629863b3a1a1223f08938724e1e89dae647d1967",
+ "in_force": "2017-08-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1505",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1505/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1505/text/O/D20171505.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1505/text/I/D20171505.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1505/text/T/D20171505L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1505/text/U/D20171505Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1505",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1505,
+  "address": "WDU20170001505",
+  "displayAddress": "Dz.U. 2017 poz. 1505",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lipca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie tłumacza przysięgłego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-07-20",
+  "promulgation": "2017-08-07",
+  "expirationDate": "2019-07-16",
+  "changeDate": "2024-03-14T20:32:12",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "tłumacze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2004/2702"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171505.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171505.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171505L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171505Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
