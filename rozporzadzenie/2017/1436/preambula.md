@@ -1,0 +1,1 @@
+Na podstawie art. 95 § 6 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713 i 1948 oraz z 2017 r. poz. 708, 962 i 966) zarządza się, co następuje:
