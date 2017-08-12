@@ -1,0 +1,1 @@
+Na podstawie art. 48c ust. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.) zarządza się, co następuje:
