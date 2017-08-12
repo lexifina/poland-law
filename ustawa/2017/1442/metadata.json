@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1442",
+ "source_sha256": "1355ac38ed71ec431854ff9480b8060145478037e762ade8d08a2e2c05f595fe",
+ "in_force": "2017-08-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1442",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1442/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1442/text/O/D20171442.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1442/text/I/D20171442.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1442/text/T/D20171442L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1442",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1442,
+  "address": "WDU20170001442",
+  "displayAddress": "Dz.U. 2017 poz. 1442",
+  "title": "Ustawa z dnia 22 czerwca 2017 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-06-22",
+  "promulgation": "2017-07-28",
+  "entryIntoForce": "2017-08-12",
+  "changeDate": "2024-03-14T20:38:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo mieszkaniowe",
+   "spółdzielczość mieszkaniowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=1561",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/1561",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/1561",
+    "number": "1561",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/1582",
+     "date": "2017-08-12"
+    },
+    {
+     "id": "DU/2001/733",
+     "date": "2017-08-12"
+    },
+    {
+     "id": "DU/2001/27",
+     "date": "2017-08-12"
+    },
+    {
+     "id": "DU/1995/654",
+     "date": "2017-08-12"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171442.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171442.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171442L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
