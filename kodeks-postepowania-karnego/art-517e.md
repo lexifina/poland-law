@@ -6,6 +6,6 @@
 
 § 2. (uchylony)
 
-§ 3. Sąd przystępuje niezwłocznie do rozpoznania sprawy. Przepisów art. 339 § 1 pkt 1 i 2, art. 351 § 1 oraz art. 353 nie stosuje się.
+§ 3. Sąd przystępuje niezwłocznie do rozpoznania sprawy. Przepisów art. 339 § 1 pkt 1 i 2 oraz art. 353 nie stosuje się.
 
 § 4. (uchylony)
