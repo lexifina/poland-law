@@ -16,7 +16,7 @@
 
 § 5b. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego lub zdarzenia przyszłego, co do których istnieje uzasadnione przypuszczenie, że mogą być przedmiotem decyzji wydanej z zastosowaniem art. 119a lub stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.).
 
-§ 5c. Organ uprawniony do wydania interpretacji indywidualnej zwraca się do ministra właściwego do spraw finansów publicznych o opinię w zakresie, o którym mowa w § 5b.
+§ 5c. Organ uprawniony do wydania interpretacji indywidualnej zwraca się do Szefa Krajowej Administracji Skarbowej o opinię w zakresie, o którym mowa w § 5b, chyba że stan faktyczny lub zdarzenie przyszłe odpowiadają zagadnieniu, które było przedmiotem uzyskanej uprzednio opinii Szefa Krajowej Administracji Skarbowej. Opinię Szefa Krajowej Administracji Skarbowej, której przedmiotem jest zagadnienie odpowiadające stanowi faktycznemu lub zdarzeniu przyszłemu przedstawionemu we wniosku o wydanie interpretacji indywidualnej, wraz z wnioskiem organu uprawnionego do wydania interpretacji indywidualnej o jej wydanie, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty w nich wskazane, dołącza się do akt sprawy.
 
 § 6. Minister właściwy do spraw finansów publicznych w celu zapewnienia jednolitości wydawanych wiążących interpretacji i usprawnienia obsługi wnioskodawców może, w drodze rozporządzenia, upoważnić podległe organy do wydawania interpretacji indywidualnych w jego imieniu i w ustalonym zakresie określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.
 
