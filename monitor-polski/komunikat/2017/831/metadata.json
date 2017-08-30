@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/831",
+ "source_sha256": "5ea595aa1324d3efbd19f91b8a848de2b772eb1eb81505fb23da8df3d9eaac6d",
+ "in_force": "2017-08-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/831",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/831/text/O/M20170831.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/831/text/I/M20170831.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/831",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 831,
+  "address": "WMP20170000831",
+  "displayAddress": "M.P. 2017 poz. 831",
+  "title": "Komunikat Prezesa Narodowego Funduszu Zdrowia z dnia 25 lipca 2017 r. w sprawie ogłoszenie sprawozdania finansowego Narodowego Funduszu Zdrowia za 2016 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-07-25",
+  "promulgation": "2017-08-30",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. NARODOWEGO FUNDUSZU ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprawozdanie finansowe"
+  ],
+  "keywordsNames": [
+   "Narodowy Fundusz Zdrowia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/2135"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/2135",
+     "art": "art. 104 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170831.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170831.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
