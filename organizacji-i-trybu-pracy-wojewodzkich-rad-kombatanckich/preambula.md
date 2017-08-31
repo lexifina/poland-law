@@ -1,0 +1,1 @@
+Na podstawie art. 7⁴ust. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2016 r. poz. 1255 oraz z 2017 r. poz. 456 i 1386) zarządza się, co następuje:
