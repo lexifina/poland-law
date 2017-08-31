@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2016 r. poz. 1536 i 1579 oraz z 2017 r. poz. 1200 i 1458) zarządza się, co następuje:
