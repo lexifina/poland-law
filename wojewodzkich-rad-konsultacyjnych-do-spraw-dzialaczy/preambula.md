@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 7 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. poz. 693 i 1220 oraz z 2017 r. poz. 1386) zarządza się, co następuje:
