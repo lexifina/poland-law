@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. poz. 78, z późn. zm.) zarządza się, co następuje:
