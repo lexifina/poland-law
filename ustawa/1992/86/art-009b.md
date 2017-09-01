@@ -4,7 +4,7 @@
 
 - 1) art. 15a, albo
 
-- 2) przepisów o rachunkowości, pod warunkiem że w okresie, o którym mowa w ust. 3, sporządzane przez podatników sprawozdania finansowe będą badane przez podmioty uprawnione do ich badania.
+- 2) przepisów o rachunkowości, pod warunkiem że w okresie, o którym mowa w ust. 3, sporządzane przez podatników sprawozdania finansowe będą badane przez firmy audytorskie.
 
 2. Podatnicy, którzy wybrali metodę, o której mowa w ust. 1 pkt 2, zaliczają odpowiednio do przychodów lub kosztów uzyskania przychodów ujęte w księgach rachunkowych różnice kursowe z tytułu transakcji walutowych i wynikające z dokonanej wyceny składników aktywów i pasywów wyrażonych w walucie obcej, a także wyceny pozabilansowych pozycji w walutach obcych. Wycena ta dla celów podatkowych powinna być dokonywana na ostatni dzień każdego miesiąca i na ostatni dzień roku podatkowego lub na ostatni dzień kwartału i na ostatni dzień roku podatkowego albo tylko na ostatni dzień roku podatkowego, z tym że wybrany termin wyceny musi być stosowany przez pełny rok podatkowy i nie może być zmieniany.
 

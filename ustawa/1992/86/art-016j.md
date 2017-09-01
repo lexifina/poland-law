@@ -48,4 +48,4 @@
 
 - 2) platform wiertniczych lub produkcyjnych
 
-- z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.
+− z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.
