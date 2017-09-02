@@ -2,5 +2,5 @@
 
 Dz.U. 1998 nr 137 poz. 887 · <https://eli.gov.pl/api/acts/DU/1998/887>
 
-Tekst jednolity: Dz.U. 2016 poz. 963 (2016-07-01), stan na 2016-06-04.
+Tekst jednolity: Dz.U. 2017 poz. 1778 (2017-09-25), stan na 2017-09-02.
 

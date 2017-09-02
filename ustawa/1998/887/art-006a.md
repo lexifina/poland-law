@@ -2,7 +2,7 @@
 
 1. Obowiązkowo ubezpieczeniom emerytalnemu i rentowym podlegają, z zastrzeżeniem art. 8 i 9, osoby sprawujące osobistą opiekę nad dzieckiem, które na obszarze Rzeczypospolitej Polskiej są:
 
-- 1) osobami, które prowadziły pozarolniczą działalność gospodarczą przez okres co najmniej 6 miesięcy i zaprzestały jej prowadzenia albo zawiesiły wykonywanie działalności gospodarczej na podstawie art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.);
+- 1) osobami, które prowadziły pozarolniczą działalność gospodarczą przez okres co najmniej 6 miesięcy i zaprzestały jej prowadzenia albo zawiesiły wykonywanie działalności gospodarczej na podstawie art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948, 1997 i 2255 oraz z 2017 r. poz. 460 i 819);
 
 - 2) osobami, które prowadziły inną niż określona w przepisach o swobodzie działalności gospodarczej pozarolniczą działalność, o której mowa w art. 8 ust. 6, przez okres co najmniej 6 miesięcy i które zaprzestały jej prowadzenia;
 
