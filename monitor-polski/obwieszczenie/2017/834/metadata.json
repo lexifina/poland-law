@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/834",
+ "source_sha256": "b67fab3f5c65758daac1718a254115756fcb011912be79d026ddd67a2961f1ee",
+ "in_force": "2017-09-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/834",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/834/text/O/M20170834.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/834/text/I/M20170834.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/834",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 834,
+  "address": "WMP20170000834",
+  "displayAddress": "M.P. 2017 poz. 834",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 21 sierpnia 2017 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Międzyresortowego Zespołu do spraw Ogólnokrajowego Cyfrowego Systemu Łączności Radiowej (OCSŁR)",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-08-21",
+  "promulgation": "2017-09-05",
+  "repealDate": "2019-01-06",
+  "changeDate": "2019-01-07T10:35:37",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "łączność",
+   "naczelne i centralne organy administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2018/1191",
+     "date": "2019-01-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2015/781"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170834.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170834.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
