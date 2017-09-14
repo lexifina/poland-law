@@ -1,0 +1,1 @@
+Na podstawie art. 16 ust. 3 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2015 r. poz. 807 i 1419, z 2016 r. poz. 1605 oraz z 2017 r. poz. 5 i 624) zarządza się, co następuje:
