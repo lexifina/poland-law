@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1789",
+ "source_sha256": "103685c8bfac94dfc2b32ed90aa77fcef30a657aa5b32bbea6aabcd98b5166bf",
+ "in_force": "2017-09-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1789",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1789/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1789/text/O/D20171789.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1789/text/I/D20171789.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1789/text/T/D20171789L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1789",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1789,
+  "address": "WDU20170001789",
+  "displayAddress": "Dz.U. 2017 poz. 1789",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 września 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-09-15",
+  "promulgation": "2017-09-27",
+  "repealDate": "2018-10-01",
+  "changeDate": "2024-03-14T20:41:45",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe",
+   "kultura i sztuka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2018/1669",
+     "date": "2018-10-01"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/595"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171789.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171789.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171789L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
