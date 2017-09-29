@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/911",
+ "source_sha256": "bb4963c3ea927ae39a3e6542a3219a870e32606d607a0a0cf45f6bd55fc69a21",
+ "in_force": "2017-09-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/911",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/911/text/O/M20170911.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/911/text/I/M20170911.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/911",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 911,
+  "address": "WMP20170000911",
+  "displayAddress": "M.P. 2017 poz. 911",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 26 września 2017 r. w sprawie przeciętnej stopy bezrobocia w kraju oraz na obszarze powiatów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-09-26",
+  "promulgation": "2017-09-29",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "powiaty",
+   "bezrobocie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/1001"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/1001",
+     "art": "art. 82"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170911.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170911.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
