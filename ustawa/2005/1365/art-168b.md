@@ -1,0 +1,13 @@
+# Art. 168b.
+
+1. Uczelnia może prowadzić studia we współpracy z organem nadającym uprawnienie do wykonywania zawodu, organem przeprowadzającym postępowanie egzaminacyjne w ramach uzyskiwania uprawnień do wykonywania zawodu, organem samorządu zawodowego, organizacją gospodarczą lub organem rejestrowym.
+
+2. Sposób prowadzenia i organizację studiów, o których mowa w ust. 1, określa umowa zawarta w formie pisemnej między uczelnią a podmiotem, o którym mowa w ust. 1. Umowa może określać:
+
+- 1) sposób prowadzenia zajęć ze studentami;
+
+- 2) udział podmiotu, o którym mowa w ust. 1, w opracowaniu programu kształcenia;
+
+- 3) efekty kształcenia, z uwzględnieniem wiedzy i umiejętności sprawdzanych w postępowaniu kwalifikacyjnym o nadanie uprawnień do wykonywania zawodu;
+
+- 4) sposób realizacji praktyk i staży.
