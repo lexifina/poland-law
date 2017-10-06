@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/926",
+ "source_sha256": "2779055c31f74b980a7eb40cb3be1efba5414af4dd259e8f366d0032c6b8cb26",
+ "in_force": "2017-10-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/926",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/926/text/O/M20170926.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/926/text/I/M20170926.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/926",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 926,
+  "address": "WMP20170000926",
+  "displayAddress": "M.P. 2017 poz. 926",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 lipca 2017 r. nr 112.43.2017 o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-07-17",
+  "promulgation": "2017-10-06",
+  "changeDate": "2018-01-16T15:14:03",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170926.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170926.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
