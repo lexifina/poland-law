@@ -6,4 +6,4 @@
 
 § 3. W wypadku gdy właściwy organ innego państwa członkowskiego Unii Europejskiej wskaże, iż skazany może być ścigany lub pozbawiony wolności w związku z przestępstwem popełnionym przed opuszczeniem przez niego terytorium Rzeczypospolitej Polskiej, Minister Sprawiedliwości może cofnąć wniosek o udzielenie zezwolenia na przewóz.
 
-§ 4. Jeżeli nastąpi nieprzewidziane lądowanie, o którym mowa w art. 607zb §4, informacje określone w art. 611t § 6 przekazuje się w terminie 72 godzin.
+§ 4. Jeżeli nastąpi nieprzewidziane lądowanie, o którym mowa w art. 607zb § 4, informacje określone w art. 611t § 6 przekazuje się w terminie 72 godzin.

@@ -2,7 +2,7 @@
 
 § 1. W wypadku wniosku Trybunału o dostarczenie osoby Trybunałowi, w rozumieniu przepisów Statutu, zwanego dalej „wnioskiem o dostarczenie osoby”, przed pierwszym przesłuchaniem należy pouczyć osobę, której dotyczy wniosek, o jej uprawnieniach określonych w Statucie oraz o możliwości podniesienia zarzutu prawomocnego zakończenia prowadzonego przeciwko niej postępowania karnego o czyn, którego dotyczy wniosek o dostarczenie osoby.
 
-§ 2. W wypadku wystąpienia przesłanek uzasadniających zarzut, o którym mowa w§ 1, sąd powiadamia o tym Ministra Sprawiedliwości, który może odroczyć wykonanie wniosku o dostarczenie osoby.
+§ 2. W wypadku wystąpienia przesłanek uzasadniających zarzut, o którym mowa w § 1, sąd powiadamia o tym Ministra Sprawiedliwości, który może odroczyć wykonanie wniosku o dostarczenie osoby.
 
 § 3. Przy orzekaniu w przedmiocie dopuszczalności dostarczenia osoby przepisów art. 604 nie stosuje się.
 

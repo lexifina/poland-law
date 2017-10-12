@@ -22,4 +22,4 @@
 
 - 8) organ sądowy państwa wykonania nakazu, który przekazał osobę ściganą, na wniosek sądu właściwego do wydania nakazu, wyraził zgodę na ściganie lub wykonanie kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za przestępstwa określone w pkt 1.
 
-§ 4. Wniosek, o którym mowa w§3 pkt 8, powinien zawierać informacje wymienione w art. 607c § 1. Przepis art. 607c § 2 stosuje się odpowiednio.
+§ 4. Wniosek, o którym mowa w § 3 pkt 8, powinien zawierać informacje wymienione w art. 607c § 1. Przepis art. 607c § 2 stosuje się odpowiednio.

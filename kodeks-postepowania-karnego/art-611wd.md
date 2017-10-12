@@ -6,7 +6,7 @@
 
 § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania nakazu”, o wykonanie europejskiego nakazu ochrony, wydanego na podstawie orzeczenia nakładającego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, obowiązek polegający na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, nakaz ten podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na miejsce pobytu osoby podlegającej ochronie.
 
-§ 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w§ 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148a.
+§ 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w § 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148a.
 
 § 3. Jeżeli prokurator, do którego został skierowany nakaz, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu.
 

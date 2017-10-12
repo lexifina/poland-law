@@ -8,7 +8,7 @@
 
 - 3) pochodzenia z przestępstwa mienia nieznajdującego pokrycia w ujawnionych źródłach przychodu sprawcy.
 
-§ 2. Można odmówić wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości, wydanego w oparciu o domniemania, o których mowa w§ 1, w części, w której orzeczenie przepadku byłoby niedopuszczalne według prawa polskiego.
+§ 2. Można odmówić wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości, wydanego w oparciu o domniemania, o których mowa w § 1, w części, w której orzeczenie przepadku byłoby niedopuszczalne według prawa polskiego.
 
 § 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:
 
@@ -26,7 +26,7 @@
 
 - 7) sprawca nie podlega jurysdykcji polskich sądów karnych lub też brak jest wymaganego zezwolenia na jego ściganie;
 
-- 8) z treści zaświadczenia, o którym mowa w art. 611fu §2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
+- 8) z treści zaświadczenia, o którym mowa w art. 611fu § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
 
   - a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,
 
