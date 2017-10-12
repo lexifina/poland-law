@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 4 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2017 r. poz. 290) zarządza się, co następuje:
