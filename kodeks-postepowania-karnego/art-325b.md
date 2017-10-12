@@ -2,7 +2,7 @@
 
 § 1. Dochodzenie prowadzi się w sprawach o przestępstwa należące do właściwości sądu rejonowego:
 
-- 1) zagrożone karą nieprzekraczająca 5 lat pozbawienia wolności, z tym że w wypadku przestępstw przeciwko mieniu tylko wówczas, gdy wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł;
+- 1) zagrożone karą nieprzekraczającą 5 lat pozbawienia wolności, z tym że w wypadku przestępstw przeciwko mieniu tylko wówczas, gdy wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł;
 
 - 2) przewidziane w art. 159, art. 254a i art. 262 § 2 Kodeksu karnego;
 

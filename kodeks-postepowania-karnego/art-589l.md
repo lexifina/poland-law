@@ -2,7 +2,7 @@
 
 ## Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
 
-# Art. 5891.
+# Art. 589l.
 
 § 1. Właściwy miejscowo sąd rejonowy albo prokurator wykonuje niezwłocznie wydane przez właściwy organ sądowy innego państwa członkowskiego Unii Europejskiej orzeczenie o zatrzymaniu mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telefonicznych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną, albo orzeczenie o zajęciu mienia w celu zabezpieczenia wykonania orzeczenia o przepadku, jeżeli rzeczy te, korespondencja, przesyłki, wykazy, dane lub mienie znajdują się lub są przechowywane na terytorium Rzeczypospolitej Polskiej.
 

@@ -1,8 +1,8 @@
-# Art. 6071.
+# Art. 607l.
 
 § 1. W przedmiocie przekazania i tymczasowego aresztowania sąd orzeka na posiedzeniu, w którym mają prawo wziąć udział prokurator i obrońca.
 
-§ 1a. Zawiadamiając osobę ściganą o posiedzeniu, o którym mowa w§ 1, sąd doręcza nakaz europejski wraz z tłumaczeniem przekazanym przez prokuratora. Jeżeli ze względu na szczególne okoliczności nie jest możliwe sporządzenie tłumaczenia przed posiedzeniem, tłumaczenie zarządza sąd. Można poprzestać na poinformowaniu osoby o treści nakazu europejskiego, jeśli nie utrudni to realizacji przysługujących jej praw, w tym praw wymienionych w § 2.
+§ 1a. Zawiadamiając osobę ściganą o posiedzeniu, o którym mowa w § 1, sąd doręcza nakaz europejski wraz z tłumaczeniem przekazanym przez prokuratora. Jeżeli ze względu na szczególne okoliczności nie jest możliwe sporządzenie tłumaczenia przed posiedzeniem, tłumaczenie zarządza sąd. Można poprzestać na poinformowaniu osoby o treści nakazu europejskiego, jeśli nie utrudni to realizacji przysługujących jej praw, w tym praw wymienionych w § 2.
 
 § 2. Jeżeli osoba ścigana wyrazi taką wolę, sąd przyjmuje od niej do protokołu oświadczenie o zgodzie na przekazanie lub o zgodzie na niestosowanie przepisu art. 607e § 1. Oświadczenie nie może być cofnięte, o czym należy pouczyć osobę ściganą.
 

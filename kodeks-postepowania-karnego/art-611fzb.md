@@ -1,6 +1,6 @@
 # Art. 611fzb.
 
-§ 1. Kwota uzyskana z tytułu wykonania orzeczenia, o którym mowa w art. 61lfu § 1, nieprzewyższająca równowartości 10 000 euro, stanowi dochód budżetu państwa. W pozostałych wypadkach państwu wydania orzeczenia przekazuje się połowę uzyskanej kwoty na rachunek bankowy wskazany przez właściwy sąd lub inny organ tego państwa.
+§ 1. Kwota uzyskana z tytułu wykonania orzeczenia, o którym mowa w art. 611fu § 1, nieprzewyższająca równowartości 10 000 euro, stanowi dochód budżetu państwa. W pozostałych wypadkach państwu wydania orzeczenia przekazuje się połowę uzyskanej kwoty na rachunek bankowy wskazany przez właściwy sąd lub inny organ tego państwa.
 
 § 2. Mienie inne niż pieniądze, uzyskane z tytułu wykonania orzeczenia, o którym mowa w § 1, spienięża się według przepisów o egzekucji świadczeń pieniężnych w postępowaniu egzekucyjnym w administracji. Przepis § 1 stosuje się odpowiednio do kwoty uzyskanej z egzekucji.
 

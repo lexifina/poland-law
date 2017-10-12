@@ -4,7 +4,7 @@
 
 § 2. Sąd umożliwia skazanemu, przebywającemu na terytorium Rzeczypospolitej Polskiej, zajęcie stanowiska ustnie lub na piśmie w przedmiocie wystąpienia, o którym mowa w art. 611t § 1. Jeżeli wymagana jest zgoda skazanego na przekazanie, sąd odbiera od skazanego przebywającego na terytorium Rzeczypospolitej Polskiej oświadczenie w tym przedmiocie.
 
-§ 3. W wypadku gdy skazany przebywający na terytorium Rzeczypospolitej Polskiej nie wyraził zgody na wystąpienie, o którym mowa w art. 61lt § 1, sąd umarza postępowanie w przedmiocie wystąpienia, chyba że ma zastosowanie art. 61lt § 5. W pozostałych wypadkach złożone oświadczenie przesyła się do państwa wykonania orzeczenia wraz z zaświadczeniem, o którym mowa w art. 611t § 6.
+§ 3. W wypadku gdy skazany przebywający na terytorium Rzeczypospolitej Polskiej nie wyraził zgody na wystąpienie, o którym mowa w art. 611t § 1, sąd umarza postępowanie w przedmiocie wystąpienia, chyba że ma zastosowanie art. 611t § 5. W pozostałych wypadkach złożone oświadczenie przesyła się do państwa wykonania orzeczenia wraz z zaświadczeniem, o którym mowa w art. 611t § 6.
 
 § 4. Jeżeli skazany przebywa na terytorium Rzeczypospolitej Polskiej, sąd zawiadamia go o przekazaniu orzeczenia; w innym wypadku przekazuje zawiadomienie wraz z zaświadczeniem, o którym mowa w art. 611t § 6, do państwa wykonania orzeczenia.
 

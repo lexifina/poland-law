@@ -1,6 +1,6 @@
 # Art. 589p.
 
-§ 1. 0 treści postanowienia w przedmiocie wykonania orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia powiadamia się niezwłocznie, w miarę możliwości w ciągu 24 godzin od otrzymania orzeczenia, właściwy organ sądowy państwa wydania tego orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+§ 1. O treści postanowienia w przedmiocie wykonania orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia powiadamia się niezwłocznie, w miarę możliwości w ciągu 24 godzin od otrzymania orzeczenia, właściwy organ sądowy państwa wydania tego orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
 
 § 2. W wypadkach, o których mowa w art. 589o, należy także wskazać przyczyny wstrzymania wykonania postanowienia oraz, jeżeli jest to możliwe, jego przewidywany okres.
 

@@ -1,4 +1,4 @@
-# Art. 6181.
+# Art. 618l.
 
 § 1. Należności świadka, osoby mu towarzyszącej, biegłego, tłumacza oraz specjalisty niebędącego funkcjonariuszem organów procesowych ustala i przyznaje sąd lub organ prowadzący postępowanie przygotowawcze.
 

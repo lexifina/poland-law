@@ -8,4 +8,4 @@
 
 § 3. Wniosek o rozpoznanie sprawy powinien zawierać dane, o których mowa w art. 332 § 1; przepisy art. 333 § 1-3 i art. 334 § 1 i 2 stosuje się odpowiednio. Policja doręcza pokrzywdzonemu pisemne pouczenie o uprawnieniach wynikających z art. 46 § 1 Kodeksu karnego, art. 343 § 2 i art. 387 § 2 oraz o treści art. 49a i art. 338a, a także o prawie do złożenia oświadczenia o działaniu w charakterze oskarżyciela posiłkowego.
 
-§ 4. Każda osoba wezwana przez Policję w charakterze świadka, biegłego, tłumacza lub specjalisty jest obowiązana stawić się w sądzie lub w miejscu przebywania sprawcy we wskazanym terminie. Art. 177 § la stosuje się.
+§ 4. Każda osoba wezwana przez Policję w charakterze świadka, biegłego, tłumacza lub specjalisty jest obowiązana stawić się w sądzie lub w miejscu przebywania sprawcy we wskazanym terminie. Art. 177 § 1a stosuje się.

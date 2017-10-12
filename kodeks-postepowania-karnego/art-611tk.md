@@ -1,6 +1,6 @@
 # Art. 611tk.
 
-§ 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 61ltg § 1, jeżeli:
+§ 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:
 
 - 1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;
 
@@ -24,9 +24,9 @@
 
 § 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
 
-§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 61ltg § 1, jeżeli:
+§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:
 
-- 1) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 61ltg § 3, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
+- 1) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611tg § 3, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
 
 - 2) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
 

@@ -4,7 +4,7 @@
 
 § 2. W postępowaniu przygotowawczym środek przewidziany w § 1 stosuje się na wniosek Policji albo z urzędu.
 
-§ 3. Jeżeli wobec oskarżonego, zatrzymanego na podstawie art. 244 § la lub 1b, zachodzą podstawy do zastosowania środka zapobiegawczego przewidzianego w § 1, Policja niezwłocznie, nie później niż przed upływem 24 godzin od chwili zatrzymania, występuje z wnioskiem do prokuratora o zastosowanie tego środka zapobiegawczego; wniosek powinien być rozpoznany przed upływem 48 godzin od chwili zatrzymania oskarżonego.
+§ 3. Jeżeli wobec oskarżonego, zatrzymanego na podstawie art. 244 § 1a lub 1b, zachodzą podstawy do zastosowania środka zapobiegawczego przewidzianego w § 1, Policja niezwłocznie, nie później niż przed upływem 24 godzin od chwili zatrzymania, występuje z wnioskiem do prokuratora o zastosowanie tego środka zapobiegawczego; wniosek powinien być rozpoznany przed upływem 48 godzin od chwili zatrzymania oskarżonego.
 
 § 4. Środek przewidziany w § 1 stosuje się na okres nie dłuższy niż 3 miesiące. Jeżeli nie ustały przesłanki jego stosowania sąd pierwszej instancji właściwy do rozpoznania sprawy, na wniosek prokuratora, może przedłużyć jego stosowanie na dalsze okresy, nie dłuższe niż 3 miesiące.
 

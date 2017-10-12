@@ -1,6 +1,6 @@
 # Art. 611wi.
 
-§ 1. 0 treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
+§ 1. O treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
 
 § 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku. Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
 

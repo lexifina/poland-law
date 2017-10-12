@@ -1,6 +1,6 @@
 # Art. 589m.
 
-§ 1. Można odmówić wykonania orzeczenia o zatrzymaniu dowodów, o którym mowa w art. 5891 § 1, jeżeli:
+§ 1. Można odmówić wykonania orzeczenia o zatrzymaniu dowodów, o którym mowa w art. 589l § 1, jeżeli:
 
 - 1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w pkt 1-33, zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 3 lata, lub innym środkiem polegającym na pozbawieniu wolności co najmniej w tym samym wymiarze;
 
@@ -12,7 +12,7 @@
 
 - 5) wykonanie orzeczenia nie jest możliwe z powodu odmowy przedstawienia korespondencji i dokumentów na podstawie art. 582 § 2.
 
-§ 2. Można odmówić wykonania orzeczenia mającego na celu zabezpieczenie mienia, o którym mowa w art. 5891 § 1:
+§ 2. Można odmówić wykonania orzeczenia mającego na celu zabezpieczenie mienia, o którym mowa w art. 589l § 1:
 
 - 1) jeżeli według prawa polskiego w sprawie o przestępstwo, w związku z którym wydano to orzeczenie, zabezpieczenie wykonania przepadku byłoby niedopuszczalne, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w pkt 1-33, zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 3 lata, lub innym środkiem polegającym na pozbawieniu wolności co najmniej w tym samym wymiarze;
 
