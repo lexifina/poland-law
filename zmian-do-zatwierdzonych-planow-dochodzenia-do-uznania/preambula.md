@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 2 pkt 19 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
