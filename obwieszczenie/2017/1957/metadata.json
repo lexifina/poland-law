@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1957",
+ "source_sha256": "1ca37837b2fcc944d01876b3bba2a999049d8a1ab80650cf07f20127aaa5c81f",
+ "in_force": "2017-10-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1957",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1957/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1957/text/O/D20171957.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1957/text/I/D20171957.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1957",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1957,
+  "address": "WDU20170001957",
+  "displayAddress": "Dz.U. 2017 poz. 1957",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 4 października 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-10-04",
+  "promulgation": "2017-10-20",
+  "changeDate": "2024-03-14T20:35:32",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzienniki urzędowe",
+   "wydawnictwa i publikacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/649"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171957.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171957.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
