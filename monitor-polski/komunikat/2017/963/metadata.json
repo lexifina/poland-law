@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/963",
+ "source_sha256": "ce928cbc6e1769a2e78813036f2c639aca1393c1e3f2d16b031651250eaba415",
+ "in_force": "2017-10-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/963",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/963/text/O/M20170963.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/963/text/I/M20170963.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/963",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 963,
+  "address": "WMP20170000963",
+  "displayAddress": "M.P. 2017 poz. 963",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 20 października 2017 r. w sprawie średniej ceny sprzedaży drewna, obliczonej według średniej ceny drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały 2017 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-10-20",
+  "promulgation": "2017-10-20",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "drewno",
+   "sprzedaż"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1682"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1682",
+     "art": "art. 4 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20170963.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20170963.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
