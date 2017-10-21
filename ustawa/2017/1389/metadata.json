@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1389",
+ "source_sha256": "fffaa3c8d1bfcb08aa77ef16109c011a14e09050d4e6c702c48441f307e2b3a3",
+ "in_force": "2017-10-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1389",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1389/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1389/text/O/D20171389.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1389/text/I/D20171389.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1389/text/T/D20171389L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1389/text/U/D20171389Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1389",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1389,
+  "address": "WDU20170001389",
+  "displayAddress": "Dz.U. 2017 poz. 1389",
+  "title": "Ustawa z dnia 22 czerwca 2017 r. o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-06-22",
+  "promulgation": "2017-07-20",
+  "entryIntoForce": "2017-10-21",
+  "changeDate": "2024-03-14T20:30:06",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ustrój państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=1538",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/1538",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/1538",
+    "number": "1538",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2017/2495",
+     "date": "2018-01-07"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/744",
+     "date": "2017-10-21"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171389.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171389.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171389L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171389Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
