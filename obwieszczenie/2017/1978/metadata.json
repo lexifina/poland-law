@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1978",
+ "source_sha256": "c54a4424ee1796a3bcf90821e00b51d50d6f5114f5082785bb139180c496ff39",
+ "in_force": "2017-10-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1978",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1978/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1978/text/O/D20171978.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1978/text/I/D20171978.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1978/text/T/D20171978L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1978/text/U/D20171978Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1978",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1978,
+  "address": "WDU20170001978",
+  "displayAddress": "Dz.U. 2017 poz. 1978",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 września 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-09-28",
+  "promulgation": "2017-10-24",
+  "expirationDate": "2019-04-12",
+  "changeDate": "2024-03-14T20:27:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Służba Kontrwywiadu Wojskowego",
+   "Służba Wywiadu Wojskowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/709"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171978.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171978.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171978L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171978Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
