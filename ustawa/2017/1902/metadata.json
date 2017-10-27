@@ -1,0 +1,102 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/1902",
+ "source_sha256": "84bac149bce2cae0d6d1dad6a41e0567891e937fbb49238d57eb23bb80ad7455",
+ "in_force": "2017-10-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/1902",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/1902/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/1902/text/O/D20171902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/1902/text/I/D20171902.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/1902/text/T/D20171902L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/1902/text/U/D20171902Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/1902",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1902,
+  "address": "WDU20170001902",
+  "displayAddress": "Dz.U. 2017 poz. 1902",
+  "title": "Ustawa z dnia 15 września 2017 r. o przedsiębiorstwie państwowym \"Porty Lotnicze\"",
+  "type": "Ustawa",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-09-15",
+  "promulgation": "2017-10-12",
+  "entryIntoForce": "2017-10-27",
+  "repealDate": "2022-10-02",
+  "changeDate": "2024-03-14T20:43:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo",
+   "porty lotnicze",
+   "statki powietrzne",
+   "przedsiębiorstwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=1689",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/1689",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/1689",
+    "number": "1689",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2022/1846",
+     "date": "2022-10-02"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "DU/1987/185",
+     "date": "2017-10-27"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2022/1390",
+     "date": "2022-07-16"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20171902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20171902.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20171902L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20171902Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
