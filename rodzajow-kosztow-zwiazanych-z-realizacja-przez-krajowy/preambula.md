@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 2 ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych (Dz. U. z 2015 r. poz. 2122, z 2016 r. poz. 2170 oraz z 2017 r. poz. 624) zarządza się, co następuje:
