@@ -1,0 +1,1 @@
+Na podstawie art. 77 ust. 10 pkt 1 i 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281 i 1948 oraz z 2017 r. poz. 32, 60, 785 i 1215) zarządza się, co następuje:
