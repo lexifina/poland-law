@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/2109",
+ "source_sha256": "dab2ab5af35af9a0bb4695fa25c2ea39d2032eb862b369bb5858afca8fd467fc",
+ "in_force": "2017-11-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/2109",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/2109/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/2109/text/O/D20172109.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/2109/text/I/D20172109.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/2109/text/T/D20172109L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/2109",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 2109,
+  "address": "WDU20170002109",
+  "displayAddress": "Dz.U. 2017 poz. 2109",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 października 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Ośrodku Badania Odmian Roślin Uprawnych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-10-30",
+  "promulgation": "2017-11-14",
+  "changeDate": "2024-04-03T11:07:19",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "badawczo-rozwojowe jednostki",
+   "nasiennictwo i szkółkarstwo"
+  ],
+  "keywordsNames": [
+   "Centralny Ośrodek Badania Odmian Roślin Uprawnych"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "tekst jednolity nie obejmuje art. 21 ustawy z dnia 25 listopada 2010 r. (Dz. U. Nr 239, poz. 1591)",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1591"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20172109.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20172109.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20172109L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
