@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/1011",
+ "source_sha256": "9ca9d2bcac52e1983a614b74f2eb372066d033c0a75bc18a05dfaa279f4e9d07",
+ "in_force": "2017-11-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/1011",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/1011/text/O/M20171011.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/1011/text/I/M20171011.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/1011",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1011,
+  "address": "WMP20170001011",
+  "displayAddress": "M.P. 2017 poz. 1011",
+  "title": "Zarządzenie nr 150 Prezesa Rady Ministrów z dnia 6 listopada 2017 r. zmieniające zarządzenie w sprawie Komitetu Rady Ministrów do spraw Cyfryzacji",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-11-06",
+  "promulgation": "2017-11-13",
+  "entryIntoForce": "2017-11-14",
+  "repealDate": "2026-07-02",
+  "changeDate": "2026-07-02T10:22:16",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informatyzacja",
+   "komitety"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2026/657",
+     "date": "2026-07-02"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2016/379",
+     "date": "2017-11-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 12 ust. 1 pkt 2 i ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20171011.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20171011.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
