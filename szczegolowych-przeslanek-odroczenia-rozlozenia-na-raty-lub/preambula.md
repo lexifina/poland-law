@@ -1,0 +1,1 @@
+Na podstawie art. 23a ust. 2 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260 oraz z 2017 r. poz. 624 i 1566) zarządza się, co następuje:
