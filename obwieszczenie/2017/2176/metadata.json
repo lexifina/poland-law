@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/2176",
+ "source_sha256": "7c027d910d25cc46b0d1ec786212c0bf973485429906196106de14528189508e",
+ "in_force": "2017-11-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/2176",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/2176/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/2176/text/O/D20172176.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/2176/text/I/D20172176.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/2176/text/T/D20172176L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/2176/text/U/D20172176Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/2176",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 2176,
+  "address": "WDU20170002176",
+  "displayAddress": "Dz.U. 2017 poz. 2176",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 listopada 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rodzinnych ogrodach działkowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-11-08",
+  "promulgation": "2017-11-27",
+  "expirationDate": "2021-06-15",
+  "changeDate": "2024-03-14T20:38:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ogrody działkowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/40"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20172176.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20172176.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20172176L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20172176Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
