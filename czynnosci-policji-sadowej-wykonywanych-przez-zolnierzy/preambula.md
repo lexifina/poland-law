@@ -1,0 +1,1 @@
+Na podstawie art. 20 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244, 768 i 1086) zarządza się, co następuje:
