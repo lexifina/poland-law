@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2017/2213",
+ "source_sha256": "1dee5eb0c19f076186ae157272498918b277acd1a95b466ce60ab4c3aef2e7fd",
+ "in_force": "2017-11-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2017/2213",
+  "html": "https://eli.gov.pl/api/acts/DU/2017/2213/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2017/2213/text/O/D20172213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2017/2213/text/I/D20172213.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2017/2213/text/T/D20172213L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2017/2213/text/U/D20172213Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2017/2213",
+  "publisher": "DU",
+  "year": 2017,
+  "volume": 0,
+  "pos": 2213,
+  "address": "WDU20170002213",
+  "displayAddress": "Dz.U. 2017 poz. 2213",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 listopada 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-11-08",
+  "promulgation": "2017-11-30",
+  "expirationDate": "2018-11-14",
+  "changeDate": "2024-03-14T20:41:57",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona osób i mienia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/740"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20172213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20172213.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20172213L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20172213Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
