@@ -1,0 +1,1 @@
+Na podstawie art. 31 ust. 1 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2017 r. poz. 1951) zarządza się, co następuje:
