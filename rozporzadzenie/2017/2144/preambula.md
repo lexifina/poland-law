@@ -1,0 +1,1 @@
+Na podstawie art. 2f ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2017 r. poz. 2022) zarządza się, co następuje:
