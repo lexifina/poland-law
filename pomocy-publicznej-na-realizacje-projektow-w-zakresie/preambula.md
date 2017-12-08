@@ -1,0 +1,1 @@
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2017 r. poz. 1460 i 1475) zarządza się, co następuje:
