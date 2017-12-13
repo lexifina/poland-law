@@ -1,0 +1,1 @@
+Na podstawie art. 192 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110 i 2217) zarządza się, co następuje:
