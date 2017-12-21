@@ -1,0 +1,1 @@
+Na podstawie art. 79 ust. 3 i 4 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 861 i 1321) zarządza się, co następuje:
