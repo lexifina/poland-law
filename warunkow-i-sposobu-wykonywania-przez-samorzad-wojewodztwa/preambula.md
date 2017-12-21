@@ -1,0 +1,1 @@
+Na podstawie art. 6 ust. 7 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267 oraz z 2019 r. poz. 730) zarządza się, co następuje:
