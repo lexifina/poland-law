@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2017/1221",
+ "source_sha256": "dc6c9f5d7129c99e61fb366abffa054e61a2d1f2b536d661faac4006b9326d64",
+ "in_force": "2017-12-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2017/1221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2017/1221/text/O/M20171221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2017/1221/text/I/M20171221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2017/1221",
+  "publisher": "MP",
+  "year": 2017,
+  "volume": 0,
+  "pos": 1221,
+  "address": "WMP20170001221",
+  "displayAddress": "M.P. 2017 poz. 1221",
+  "title": "Komunikat Ministra Rozwoju i Finansów z dnia 22 grudnia 2017 r. w sprawie zmienionych wytycznych Ministra Rozwoju i Finansów w zakresie realizacji przedsięwzięć z udziałem środków Europejskiego Funduszu Społecznego w obszarze zdrowia na lata 2014-2020",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-12-22",
+  "promulgation": "2017-12-30",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "MIN. ROZWOJU I FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/535"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/535",
+     "art": "art. 5 ust. 5 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20171221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20171221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
