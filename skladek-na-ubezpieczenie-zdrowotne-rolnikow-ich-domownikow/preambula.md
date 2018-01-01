@@ -1,0 +1,1 @@
+Na podstawie art. 81 ust. 11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110, 2217, 2361 i 2434) zarządza się, co następuje:
