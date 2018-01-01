@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 8 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. z 2017 r. poz. 1858) zarządza się, co następuje:
