@@ -10,7 +10,7 @@
 
 3. Zaliczkę obliczoną w sposób określony w ust. 1 i 2 zmniejsza się o kwotę:
 
-- 1) o której mowa w art. 32 ust. 3;
+- 1) o której mowa w art. 32 ust. 3; przepis art. 27 ust. 1b pkt 2 stosuje się odpowiednio;
 
 - 2) składki na ubezpieczenie zdrowotne, o której mowa w art. 27b, pobranej w danym miesiącu ze środków podatnika.
 

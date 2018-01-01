@@ -8,7 +8,7 @@
 
 - 1) nieznajdujące pokrycia w ujawnionych źródłach obejmujące przychody ze źródeł wskazanych przez podatnika, ujawnione w nieprawidłowej wysokości,
 
-- 2) ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy lub organ kontroli skarbowej
+- 2) ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy
 
 - w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
 

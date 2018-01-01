@@ -32,7 +32,7 @@
 
 - 11) od dochodu uczestnika pracowniczego programu emerytalnego z tytułu zwrotu środków zgromadzonych w ramach programu, w rozumieniu przepisów o pracowniczych programach emerytalnych;
 
-- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887 i 1948).
+- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120).
 
 2. Przepisy ust. 1 pkt 1-5 stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 
@@ -72,6 +72,6 @@
 
 9. Podatnicy, o których mowa w art. 3 ust. 1, uzyskujący poza granicami Rzeczypospolitej Polskiej przychody (dochody) określone w ust. 1 pkt 1-5, od zryczałtowanego podatku obliczonego zgodnie z ust. 1, od tych przychodów (dochodów), odliczają kwotę równą podatkowi zapłaconemu za granicą, jednakże odliczenie to nie może przekroczyć kwoty podatku obliczonego od tych przychodów (dochodów) przy zastosowaniu stawki 19%.
 
-10. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga przychody (dochody) określone w art. 44c ust. 1 pkt 4 lit. a-d ze źródeł przychodów położonych w Republice Austrii lub w państwie lub na terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w rozdziale 7a, podatek od tych przychodów (dochodów) zapłacony w Republice Austrii, w tym państwie lub na tym terytorium podlega odliczeniu od kwoty podatku obliczonego zgodnie z ust. 1 i 9.
+10. (uchylony)
 
-11. Kwoty zryczałtowanego podatku obliczonego od przychodów (dochodów), o których mowa w ust. 1 pkt 1-5, uzyskanych poza granicami Rzeczypospolitej Polskiej oraz kwoty podatku zapłaconego za granicą, o których mowa w ust. 9 i 10, podatnicy są obowiązani wykazać w zeznaniu podatkowym, o którym mowa w art. 45 ust. 1 lub 1a.
+11. Kwoty zryczałtowanego podatku obliczonego od przychodów (dochodów), o których mowa w ust. 1 pkt 1-5, uzyskanych poza granicami Rzeczypospolitej Polskiej oraz kwotę podatku zapłaconego za granicą, o której mowa w ust. 9, podatnicy są obowiązani wykazać w zeznaniu podatkowym, o którym mowa w art. 45 ust. 1 lub 1a.

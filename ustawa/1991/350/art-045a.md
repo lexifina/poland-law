@@ -2,7 +2,7 @@
 
 Jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa:
 
-- 1) zadania naczelnika urzędu skarbowego, o którym mowa w art. 37 ust. 3, art. 39 ust. 1, art. 42 ust. 2 pkt 2, pełni organ wymieniony w art. 13a Ordynacji podatkowej;
+- 1) zadania naczelnika urzędu skarbowego, o którym mowa w art. 39 ust. 1, art. 42 ust. 2 pkt 2 i art. 45ca ust. 1, pełni organ wymieniony w art. 13a Ordynacji podatkowej;
 
 - 2) zadania urzędu skarbowego, o którym mowa w art. 45 ust. 1, pełni urząd obsługujący organ, o którym mowa w art. 13a Ordynacji podatkowej;
 

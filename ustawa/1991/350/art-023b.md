@@ -10,7 +10,7 @@
 
 2. Jeżeli finansujący w dniu zawarcia umowy leasingu korzysta ze zwolnień w podatku dochodowym przysługujących na podstawie:
 
-- 1) art. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, 1926, 1933 i 1948),
+- 1) art. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.),
 
 - 2) przepisów o specjalnych strefach ekonomicznych,
 

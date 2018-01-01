@@ -12,7 +12,7 @@
 
 - 4) różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia udziałów (akcji) a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1f oraz art. 23 ust. 1 pkt 38 i 38c,
 
-- 5) różnica pomiędzy przychodem określonym zgodnie z art. 17 ust. 1 pkt 9 albo 9a a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e,
+- 5) różnica pomiędzy przychodem określonym zgodnie z art. 17 ust. 1 pkt 9 a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e,
 
 - 6) różnica między przychodem uzyskanym z odpłatnego zbycia udziałów (akcji) spółki kapitałowej powstałej w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1ł
 
@@ -28,10 +28,10 @@
 
 5b. W przypadku podatnika, o którym mowa w art. 3 ust. 1, uzyskującego dochody, o których mowa w ust. 1, wyłącznie poza granicami Rzeczypospolitej Polskiej zasadę określoną w ust. 5a stosuje się odpowiednio.
 
-5c. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga przychody (dochody) określone w art. 44c ust. 1 pkt 4 lit. e i f ze źródeł przychodów położonych w Republice Austrii lub w państwie lub na terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w rozdziale 7a, podatek od tych przychodów (dochodów) zapłacony w Republice Austrii, w tym państwie lub na tym terytorium podlega odliczeniu od kwoty podatku obliczonego zgodnie z ust. 1, 5a i 5b.
+5c. (uchylony)
 
 6. Po zakończeniu roku podatkowego podatnik jest obowiązany w zeznaniu podatkowym, o którym mowa w art. 45 ust. 1a pkt 1, wykazać dochody uzyskane w roku podatkowym z odpłatnego zbycia papierów wartościowych, w tym również dochody, o których mowa w art. 24 ust. 14, dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających, z odpłatnego zbycia udziałów (akcji) oraz z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielniach, w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część, i obliczyć należny podatek dochodowy.
 
 7. Przepis art. 30a ust. 3 stosuje się odpowiednio.
 
-8. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz terytoriów, o których mowa w ust. 5c pkt 2 oraz art. 30a ust. 10 pkt 2.
+8. (uchylony)

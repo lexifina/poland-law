@@ -12,9 +12,7 @@
 
   - c) jednostkę organizacyjną niemającą osobowości prawnej inną niż spółka niemająca osobowości prawnej,
 
-  - d) spółkę niemającą osobowości prawnej, o której mowa w art. 1 ust. 3 pkt 2 ustawy o podatku dochodowym od osób prawnych
-
-  - nieposiadającą siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej, w której podatnik, o którym mowa w art. 3 ust. 1, posiada udział w kapitale, prawo głosu w organach kontrolnych lub stanowiących lub prawo do uczestnictwa w zysku;
+  - d) spółkę niemającą osobowości prawnej, o której mowa w art. 1 ust. 3 pkt 2 ustawy o podatku dochodowym od osób prawnych - nieposiadającą siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej, w której podatnik, o którym mowa w art. 3 ust. 1, posiada udział w kapitale, prawo głosu w organach kontrolnych lub stanowiących lub prawo do uczestnictwa w zysku; -
 
 - 2) instrumenty finansowe - oznacza instrumenty finansowe wymienione w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
@@ -38,7 +36,7 @@
 
   - b) co najmniej 50% przychodów tej spółki osiągniętych w roku podatkowym, o którym mowa w ust. 7, pochodzi z dywidend i innych przychodów z udziału w zyskach osób prawnych, przychodów ze zbycia udziałów (akcji), wierzytelności, odsetek i pożytków od wszelkiego rodzaju pożyczek, poręczeń i gwarancji, a także przychodów z praw autorskich, praw własności przemysłowej - w tym z tytułu zbycia tych praw, a także zbycia i realizacji praw z instrumentów finansowych,
 
-  - c) co najmniej jeden rodzaj przychodów, o których mowa w lit. b, uzyskiwanych przez tę spółkę, podlega w państwie jej siedziby lub zarządu opodatkowaniu według stawki podatku dochodowego obowiązującej w tym państwie niższej o co najmniej 25% od stawki, o której mowa w art. 19 ust. 1 ustawy o podatku dochodowym od osób prawnych, lub zwolnieniu lub wyłączeniu z opodatkowania podatkiem dochodowym w tym państwie, chyba że przychody te podlegają zwolnieniu od opodatkowania w państwie siedziby lub zarządu spółki je otrzymującej na podstawie przepisów dyrektywy Rady 2011/96/UE z dnia 30 listopada 2011 r. w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku spółek dominujących i spółek zależnych różnych państw członkowskich (Dz. Urz. UE L 345 z 29.12.2011, str. 8, z późn. zm.).
+  - c) co najmniej jeden rodzaj przychodów, o których mowa w lit. b, uzyskiwanych przez tę spółkę, podlega w państwie jej siedziby lub zarządu opodatkowaniu według stawki podatku dochodowego obowiązującej w tym państwie niższej o co najmniej 25% od stawki, o której mowa w art. 19 ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, lub zwolnieniu lub wyłączeniu z opodatkowania podatkiem dochodowym w tym państwie, chyba że przychody te podlegają zwolnieniu od opodatkowania w państwie siedziby lub zarządu spółki je otrzymującej na podstawie przepisów dyrektywy Rady 2011/96/UE z dnia 30 listopada 2011 r. w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku spółek dominujących i spółek zależnych różnych państw członkowskich (Dz. Urz. UE L 345 z 29.12.2011, str. 8, z późn. zm.).
 
 4. Przepis ust. 3 pkt 3 lit. a stosuje się również w przypadku, gdy 25% udziałów w kapitale lub 25% praw głosu w organach kontrolnych lub stanowiących lub 25% udziałów związanych z prawem do uczestnictwa w zyskach zagranicznej spółki pozostaje w posiadaniu ustalonym łącznie z małżonkiem podatnika, a także jego krewnymi do drugiego stopnia.
 
@@ -66,7 +64,7 @@
 
 - 2) jednostka zależna uwzględnia w podstawie opodatkowania dochody tej zagranicznej spółki kontrolowanej, na podstawie przepisów dotyczących zagranicznej spółki kontrolowanej obowiązujących w państwie, w którym podlega opodatkowaniu od całości swoich dochodów;
 
-- 3) jednostka zależna jest podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, albo istnieje podstawa prawna, wynikająca z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy lub organ kontroli skarbowej informacji podatkowych od organu podatkowego państwa, w którym jednostka zależna będąca zagraniczną spółką podlega opodatkowaniu od całości swoich dochodów.
+- 3) jednostka zależna jest podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, albo istnieje podstawa prawna, wynikająca z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego państwa, w którym jednostka zależna będąca zagraniczną spółką podlega opodatkowaniu od całości swoich dochodów.
 
 13. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną spółkę kontrolowaną w proporcji, w jakiej pozostaje dochód ustalony zgodnie z ust. 5 do dochodu tej spółki ustalonego zgodnie z ust. 7; przepisów art. 27 ust. 8-9a nie stosuje się. Przepis art. 11a stosuje się odpowiednio.
 
@@ -74,7 +72,7 @@
 
 15. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych spółek, o których mowa w ust. 3 pkt 1 i 2 oraz pkt 3 lit. a, a po zakończeniu roku podatkowego, o którym mowa w ust. 7, nie później niż przed upływem terminu do złożenia zeznania o wysokości dochodu zagranicznej spółki kontrolowanej osiągniętego w roku podatkowym, są obowiązani do zaewidencjonowania zdarzeń zaistniałych w zagranicznej spółce kontrolowanej w ewidencji odrębnej od ewidencji rachunkowych wskazanych w art. 24a albo w art. 15 ust. 1 ustawy o zryczałtowanym podatku dochodowym, w sposób zapewniający określenie wysokości dochodu, podstawy obliczenia podatku i wysokości należnego podatku za rok podatkowy, w tym także do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do określenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 22a-22o.
 
-16. Na żądanie organu podatkowego lub organu kontroli skarbowej podatnik jest obowiązany udostępnić, w terminie 7 dni od dnia otrzymania żądania, prowadzone zgodnie z ust. 15 ewidencje i rejestr. Jeżeli podatnik nie udostępni tych ewidencji lub rejestru albo ustalenie dochodu na podstawie prowadzonych ewidencji nie jest możliwe, dochód określa się w drodze oszacowania, przy uwzględnieniu przedmiotu działalności (transakcji), z której dochód został osiągnięty. Do określenia dochodu w drodze oszacowania stosuje się przepisy Ordynacji podatkowej.
+16. Na żądanie organu podatkowego podatnik jest obowiązany udostępnić, w terminie 7 dni od dnia otrzymania żądania, prowadzone zgodnie z ust. 15 ewidencje i rejestr. Jeżeli podatnik nie udostępni tych ewidencji lub rejestru albo ustalenie dochodu na podstawie prowadzonych ewidencji nie jest możliwe, dochód określa się w drodze oszacowania, przy uwzględnieniu przedmiotu działalności (transakcji), z której dochód został osiągnięty. Do określenia dochodu w drodze oszacowania stosuje się przepisy Ordynacji podatkowej.
 
 17. W celu obliczenia udziału pośredniego, o którym mowa w ust. 3 pkt 3 lit. a i ust. 12 pkt 1, przepis art. 25 ust. 5b stosuje się odpowiednio.
 

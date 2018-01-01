@@ -34,6 +34,6 @@
 
 4. Zapisów dotyczących środków trwałych oraz wartości niematerialnych i prawnych dokonuje się w ewidencji najpóźniej w miesiącu przekazania ich do używania. Późniejszy termin wprowadzenia uznaje się za ujawnienie środka trwałego, o którym mowa w art. 22h ust. 1 pkt 4.
 
-5. W razie zmiany formy opodatkowania podatnicy, zakładając ewidencję, o której mowa w ust. 2, uwzględniają w niej odpisy amortyzacyjne przypadające za okres opodatkowania w formie zryczałtowanego podatku dochodowego lub podatku tonażowego.
+5. W razie zmiany formy opodatkowania podatnicy, zakładając ewidencję, o której mowa w ust. 2, uwzględniają w niej odpisy amortyzacyjne przypadające za okres opodatkowania w formie zryczałtowanego podatku dochodowego, podatku tonażowego lub zryczałtowanego podatku od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych.
 
 6. W razie braku ewidencji środków trwałych oraz wartości niematerialnych i prawnych dokonywane odpisy amortyzacyjne nie stanowią kosztów uzyskania przychodów.

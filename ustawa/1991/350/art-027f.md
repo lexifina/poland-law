@@ -46,7 +46,7 @@
 
 4. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę mogą odliczyć od podatku w częściach równych lub w dowolnej proporcji przez nich ustalonej.
 
-5. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 45 ust. 1, podając liczbę dzieci i ich numery PESEL, a w przypadku braku tych numerów -imiona, nazwiska oraz daty urodzenia dzieci. Na żądanie organów podatkowych lub organów kontroli skarbowej, podatnik jest obowiązany przedstawić zaświadczenia, oświadczenia oraz inne dowody niezbędne do ustalenia prawa do odliczenia, w szczególności:
+5. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 45 ust. 1, podając liczbę dzieci i ich numery PESEL, a w przypadku braku tych numerów - imiona, nazwiska oraz daty urodzenia dzieci. Na żądanie organów podatkowych, podatnik jest obowiązany przedstawić zaświadczenia, oświadczenia oraz inne dowody niezbędne do ustalenia prawa do odliczenia, w szczególności:
 
 - 1) odpis aktu urodzenia dziecka;
 
