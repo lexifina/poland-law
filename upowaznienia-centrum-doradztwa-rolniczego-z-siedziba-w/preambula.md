@@ -1,0 +1,1 @@
+Na podstawie art. 55 ust. 4 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. z 2017 r. poz. 562, 624, 892, 935 i 1475) zarządza się, co następuje:
