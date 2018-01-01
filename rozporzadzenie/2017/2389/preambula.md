@@ -1,0 +1,1 @@
+Na podstawie art. 40b ust. 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2016 r. poz. 1863, 1948 i 2255 oraz z 2017 r. poz. 2056) zarządza się, co następuje:
