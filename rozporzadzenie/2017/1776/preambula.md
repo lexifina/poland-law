@@ -1,0 +1,1 @@
+Na podstawie art. 50 ust. 8 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. poz. 1513 oraz z 2016 r. poz. 996) zarządza się, co następuje:
