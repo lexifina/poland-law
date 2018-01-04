@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/16",
+ "source_sha256": "67f1b4f93244427fc7082c65f4b22feba84a9a9ed7f5d6edd52db0605bdbab14",
+ "in_force": "2018-01-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 616 words, parsed 75; at 75: 'Obywatelskich o zbadanie zgodności : 1 ) § 4 ust'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/16",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/16/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/16/text/O/D20180016.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/16/text/I/D20180016.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/16/text/T/D20180016TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/16",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 16,
+  "address": "WDU20180000016",
+  "displayAddress": "Dz.U. 2018 poz. 16",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 19 grudnia 2017 r. sygn. akt U 1/14",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-12-19",
+  "promulgation": "2018-01-04",
+  "entryIntoForce": "2018-01-04",
+  "changeDate": "2024-03-14T21:07:03",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty adwokackie",
+   "radcy prawni",
+   "opłaty"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2016/2072"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1982/145"
+    },
+    {
+     "id": "DU/1982/124"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2002/1349"
+    },
+    {
+     "id": "DU/2002/1348"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180016.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180016.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180016TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
