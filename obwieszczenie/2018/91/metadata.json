@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/91",
+ "source_sha256": "d397789b1fdba734269e295806eb74eeec3fae2c6cfd275e823dc9d78b9451e2",
+ "in_force": "2018-01-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/91",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/91/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/91/text/O/D20180091.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/91/text/I/D20180091.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/91/text/T/D20180091L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/91/text/U/D20180091Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/91",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 91,
+  "address": "WDU20180000091",
+  "displayAddress": "Dz.U. 2018 poz. 91",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 grudnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-12-08",
+  "promulgation": "2018-01-11",
+  "expirationDate": "2019-04-30",
+  "changeDate": "2024-03-14T21:09:45",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolne prawo",
+   "rolnicy",
+   "rolnictwo",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/464"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180091.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180091.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180091L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180091Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
