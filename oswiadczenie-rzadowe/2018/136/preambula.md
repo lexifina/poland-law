@@ -1,0 +1,1 @@
+Podaje się do wiadomości, że zgodnie z art. 14 ust. 3 Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r., dnia 3 stycznia 2018 r. wchodzą w życie zmiany do załączników A i B do powyższej umowy.
