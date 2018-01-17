@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/133",
+ "source_sha256": "c89256563b5c0dbfe2a542d1efe0803d3dab40fd101280b62618d94c691c72f0",
+ "in_force": "2018-01-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/133",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/133/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/133/text/O/D20180133.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/133/text/I/D20180133.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/133/text/T/D20180133L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/133/text/U/D20180133Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/133",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 133,
+  "address": "WDU20180000133",
+  "displayAddress": "Dz.U. 2018 poz. 133",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 grudnia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2017-12-08",
+  "promulgation": "2018-01-17",
+  "expirationDate": "2018-12-19",
+  "changeDate": "2024-03-14T21:09:09",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakwaterowanie sił zbrojnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/433"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180133.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180133.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180133L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180133Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
