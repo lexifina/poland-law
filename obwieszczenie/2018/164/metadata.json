@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/164",
+ "source_sha256": "266146c01e0609f7171fa6d2b9de97b417f6ff4aa008de4cf916218ff77c546e",
+ "in_force": "2018-01-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/164",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/164/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/164/text/O/D20180164.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/164/text/I/D20180164.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/164/text/T/D20180164L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/164",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 164,
+  "address": "WDU20180000164",
+  "displayAddress": "Dz.U. 2018 poz. 164",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-11-24",
+  "promulgation": "2018-01-19",
+  "changeDate": "2024-03-14T21:17:01",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc publiczna",
+   "zakłady opieki zdrowotnej",
+   "restrukturyzacja",
+   "pomoc finansowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/684"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180164.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180164.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180164L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
