@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/102",
+ "source_sha256": "8f63edc6d43abcef796e2ae780190cc471c6406279c8987a3d363e263a1fa47e",
+ "in_force": "2018-01-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/102",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/102/text/O/M20180102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/102/text/I/M20180102.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/102",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 102,
+  "address": "WMP20180000102",
+  "displayAddress": "M.P. 2018 poz. 102",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 17 stycznia 2018 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w grudniu 2017 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-01-17",
+  "promulgation": "2018-01-22",
+  "changeDate": "2019-03-08T13:16:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "wynagrodzenia",
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2012/1529"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2012/1529",
+     "art": "art. 128 ust. 2 pkt 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180102.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
