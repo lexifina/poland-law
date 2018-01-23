@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/113",
+ "source_sha256": "81ab9d4874ce7524331c2daaef536b5ccb3d91e977c05bc8bd8097232634eca0",
+ "in_force": "2018-01-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/113",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/113/text/O/M20180113.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/113/text/I/M20180113.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/113",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 113,
+  "address": "WMP20180000113",
+  "displayAddress": "M.P. 2018 poz. 113",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 28 grudnia 2017 r. nr 110.107.2017 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-12-28",
+  "promulgation": "2018-01-23",
+  "changeDate": "2018-01-24T11:49:37",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Norwegia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180113.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180113.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
