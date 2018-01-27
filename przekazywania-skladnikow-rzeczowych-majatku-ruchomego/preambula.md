@@ -1,0 +1,1 @@
+Na podstawie art. 11s ust. 4 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.) zarządza się, co następuje:
