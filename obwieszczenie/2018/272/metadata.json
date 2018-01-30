@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/272",
+ "source_sha256": "0261f6f8b95316210de86b1bd97af37ddc95f7ad5ffc5008128eb3d7b881aae3",
+ "in_force": "2018-01-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/272",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/272/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/272/text/O/D20180272.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/272/text/I/D20180272.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/272",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 272,
+  "address": "WDU20180000272",
+  "displayAddress": "Dz.U. 2018 poz. 272",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 3 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie maksymalnych stawek taksy notarialnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-01-03",
+  "promulgation": "2018-01-30",
+  "expirationDate": "2020-08-28",
+  "changeDate": "2024-03-14T21:11:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty notarialne",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2004/1564"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180272.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180272.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
