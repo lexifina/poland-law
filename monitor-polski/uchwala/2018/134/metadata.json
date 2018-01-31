@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/134",
+ "source_sha256": "280b553737f18aa4a4f233549884abca8fb41881976a42e66866acdabb7bf56f",
+ "in_force": "2018-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/134",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/134/text/O/M20180134.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/134/text/I/M20180134.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/134",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 134,
+  "address": "WMP20180000134",
+  "displayAddress": "M.P. 2018 poz. 134",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2018 r. w sprawie wyboru sędziego Trybunału Konstytucyjnego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-01-26",
+  "promulgation": "2018-01-31",
+  "changeDate": "2018-02-01T12:23:55",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2016/2073"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/2016/2073",
+     "art": "art. 2 ust. 2"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 194 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180134.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180134.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
