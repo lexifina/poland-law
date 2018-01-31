@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/280",
+ "source_sha256": "132223c1f6ba2ca9134c618cdbbc7d62d2e8dfa9ce5df2aeb5beef0ae5b4ab59",
+ "in_force": "2018-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/280",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/280/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/280/text/O/D20180280.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/280/text/I/D20180280.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/280/text/T/D20180280L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/280",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 280,
+  "address": "WDU20180000280",
+  "displayAddress": "Dz.U. 2018 poz. 280",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-01-11",
+  "promulgation": "2018-01-31",
+  "changeDate": "2024-03-14T21:06:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od towarów i usług",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [
+   "Unia Europejska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/1454"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180280.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180280.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180280L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
