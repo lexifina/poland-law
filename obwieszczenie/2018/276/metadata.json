@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/276",
+ "source_sha256": "71f28937b479dec102e43b76e88b59c6dd01ed6591698372cb5f2506c82fb7f4",
+ "in_force": "2018-01-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/276",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/276/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/276/text/O/D20180276.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/276/text/I/D20180276.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/276/text/T/D20180276L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/276/text/U/D20180276Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/276",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 276,
+  "address": "WDU20180000276",
+  "displayAddress": "Dz.U. 2018 poz. 276",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-01-11",
+  "promulgation": "2018-01-31",
+  "expirationDate": "2020-03-24",
+  "changeDate": "2024-03-14T21:06:41",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kombatanci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/781"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/781",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/75"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180276.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180276.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180276L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180276Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
