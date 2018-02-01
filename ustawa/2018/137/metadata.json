@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/137",
+ "source_sha256": "70138203fbe30991241e07bd9d9cf2b31969a29afee83e20193f41bc68a57af2",
+ "in_force": "2018-02-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/137",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/137/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/137/text/O/D20180137.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/137/text/I/D20180137.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/137/text/T/D20180137L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/137/text/U/D20180137Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/137",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 137,
+  "address": "WDU20180000137",
+  "displayAddress": "Dz.U. 2018 poz. 137",
+  "title": "Ustawa z dnia 12 grudnia 2017 r. o zmianie ustawy o podatku akcyzowym",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-12-12",
+  "promulgation": "2018-01-17",
+  "entryIntoForce": "2018-02-01",
+  "changeDate": "2024-03-14T21:09:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek akcyzowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=1963",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/1963",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/1963",
+    "number": "1963",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2018/2404",
+     "date": "2018-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2009/11",
+     "date": "2018-02-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180137.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180137.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180137L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180137Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
