@@ -10,7 +10,7 @@
 
 § 3. Niezwłocznie po uprawomocnieniu się postanowienia o przepadku zabezpieczonego mienia, o którym mowa w § 1, właściwy sąd występuje do właściwego organu sądowego państwa wykonania postanowienia z wnioskiem o wykonanie tego przepadku.
 
-§ 4. Wystąpienie o wydanie dowodów oraz wykonanie przepadku, o których mowa odpowiednio w § 2 i 3, odbywa się na podstawie przepisów rozdziałów 62 i 66 oraz umów międzynarodowych z zakresu pomocy prawnej w sprawach karnych wiążących Rzeczpospolitą Polską.
+§ 4. (uchylony)
 
 § 5. Do postanowienia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
 
