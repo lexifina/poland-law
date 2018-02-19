@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/199",
+ "source_sha256": "4c01338233f7e80cb749fabd1ec40a9e15e5390cd8ee3590aec24e74840fa0d3",
+ "in_force": "2018-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/199",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/199/text/O/M20180199.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/199/text/I/M20180199.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/199",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 199,
+  "address": "WMP20180000199",
+  "displayAddress": "M.P. 2018 poz. 199",
+  "title": "Postanowienie nr 5 Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2018 r. w sprawie stwierdzenia utraty stanowiska sędziego Trybunału Stanu",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-02-09",
+  "promulgation": "2018-02-19",
+  "changeDate": "2018-02-21T12:38:18",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/84"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/84",
+     "art": "art. 17 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180199.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180199.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
