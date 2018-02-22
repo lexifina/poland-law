@@ -4,4 +4,4 @@
 
 § 1a. Podżeganie i pomocnictwo są karalne.
 
-§ 2. W razie popełnienia wykroczenia można orzec przepadek przedmiotów stanowiących przedmiot wykroczenia oraz nawiązkę w wysokości do 1500 złotych lub obowiązek przywrócenia do stanu poprzedniego.
+§ 2. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, oraz nawiązkę w wysokości do 1500 złotych lub obowiązek przywrócenia do stanu poprzedniego.

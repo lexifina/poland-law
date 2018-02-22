@@ -2,5 +2,5 @@
 
 Dz.U. 1971 nr 12 poz. 114 · <https://eli.gov.pl/api/acts/DU/1971/114>
 
-Tekst jednolity: Dz.U. 2015 poz. 1094 (2015-08-04), stan na 2015-07-01.
+Tekst jednolity: Dz.U. 2018 poz. 618 (2018-03-26), stan na 2018-02-22.
 
