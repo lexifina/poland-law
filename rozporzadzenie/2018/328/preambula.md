@@ -1,0 +1,1 @@
+Na podstawie art. 47 ust. 1 i art. 48a ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2017 r. poz. 1855 oraz z 2018 r. poz. 50) zarządza się, co następuje:
