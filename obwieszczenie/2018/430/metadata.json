@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/430",
+ "source_sha256": "e0d692ad802b0e3159a92f93e34eb53fadd362f06a2dd73efb990c5287a09733",
+ "in_force": "2018-02-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/430",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/430/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/430/text/O/D20180430.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/430/text/I/D20180430.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/430/text/T/D20180430L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/430/text/U/D20180430Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/430",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 430,
+  "address": "WDU20180000430",
+  "displayAddress": "Dz.U. 2018 poz. 430",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lutego 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-02-07",
+  "promulgation": "2018-02-27",
+  "expirationDate": "2019-03-19",
+  "changeDate": "2024-03-14T21:07:27",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Żandarmeria Wojskowa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1353"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180430.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180430.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180430L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180430Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
