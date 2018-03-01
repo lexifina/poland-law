@@ -1,0 +1,156 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/305",
+ "source_sha256": "3b1ff9c1fcbb5f02a3c0d14cb7b80fd7b49e9ab727e154dfe5867039add85a42",
+ "in_force": "2018-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/305",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/305/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/305/text/O/D20180305.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/305/text/I/D20180305.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/305/text/T/D20180305L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/305/text/U/D20180305Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/305",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 305,
+  "address": "WDU20180000305",
+  "displayAddress": "Dz.U. 2018 poz. 305",
+  "title": "Ustawa z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-01-10",
+  "promulgation": "2018-02-05",
+  "entryIntoForce": "2018-03-01",
+  "changeDate": "2025-03-14T14:00:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "kodeks postępowania w sprawach o wykroczenia",
+   "działalność gospodarcza",
+   "handlowe prawo",
+   "święta",
+   "kodeks pracy",
+   "dni wolne od pracy",
+   "sprzedaż"
+  ],
+  "keywordsNames": [
+   "Państwowa Inspekcja Pracy"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=870",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/870",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/870",
+    "number": "870",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2022/229"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2024/1965",
+     "date": "2025-02-01"
+    },
+    {
+     "id": "DU/2023/2626",
+     "date": "2023-12-05"
+    },
+    {
+     "id": "DU/2021/1891",
+     "date": "2022-02-01"
+    },
+    {
+     "id": "DU/2020/2157",
+     "date": "2020-12-05"
+    },
+    {
+     "id": "DU/2018/650",
+     "date": "2018-04-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2007/589",
+     "date": "2018-03-01"
+    },
+    {
+     "id": "DU/2001/1148",
+     "date": "2018-03-01"
+    },
+    {
+     "id": "DU/1997/553",
+     "date": "2018-03-01"
+    },
+    {
+     "id": "DU/1974/141",
+     "date": "2018-03-01"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2025/301"
+    },
+    {
+     "id": "DU/2024/449"
+    },
+    {
+     "id": "DU/2023/158"
+    },
+    {
+     "id": "DU/2021/936"
+    },
+    {
+     "id": "DU/2019/466"
+    }
+   ],
+   "Orzeczenie TK": [
+    {
+     "id": "DU/2021/1424"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180305.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180305.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180305L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180305Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
