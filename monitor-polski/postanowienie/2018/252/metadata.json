@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/252",
+ "source_sha256": "93a2d3051cc383afa1a66702174a3006d5cd099762ae0d6f8bd9fa89d478f529",
+ "in_force": "2018-03-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/252",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/252/text/O/M20180252.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/252/text/I/M20180252.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/252",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 252,
+  "address": "WMP20180000252",
+  "displayAddress": "M.P. 2018 poz. 252",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 29 stycznia 2018 r. nr 115.4.2018 w sprawie nadania tytułu profesora",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-01-29",
+  "promulgation": "2018-03-02",
+  "changeDate": "2019-02-01T00:00:00",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2019/134",
+     "date": "2019-01-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2003/595"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2003/595",
+     "art": "art. 25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180252.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180252.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
