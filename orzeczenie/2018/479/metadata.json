@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/479",
+ "source_sha256": "2f7a2e0d7a66b2d2996cf48a837ea7901fd0834dc1c0732acd06bb04eefbcdfc",
+ "in_force": "2018-03-06",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 631 words, parsed 124; at 124: 'poz . 461 ) : a ) w zakresie ,'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/479",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/479/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/479/text/O/D20180479.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/479/text/I/D20180479.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/479/text/T/D20180479TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/479",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 479,
+  "address": "WDU20180000479",
+  "displayAddress": "Dz.U. 2018 poz. 479",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 27 lutego 2018 r. sygn. akt SK 25/15",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-02-27",
+  "promulgation": "2018-03-06",
+  "entryIntoForce": "2018-03-06",
+  "changeDate": "2024-03-14T21:18:12",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty adwokackie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/1348",
+     "date": "2018-03-06"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2016/2072"
+    },
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1982/124"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2002/1348"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180479.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180479.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180479TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
