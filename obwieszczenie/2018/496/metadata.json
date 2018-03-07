@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/496",
+ "source_sha256": "3a69eb1f7ca113b24cbac5bebaf43d8752cb3c8f5cf44362593cc0b154f3ee18",
+ "in_force": "2018-03-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/496",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/496/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/496/text/O/D20180496.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/496/text/I/D20180496.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/496",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 496,
+  "address": "WDU20180000496",
+  "displayAddress": "Dz.U. 2018 poz. 496",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 9 lutego 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-02-09",
+  "promulgation": "2018-03-07",
+  "expirationDate": "2020-10-19",
+  "changeDate": "2024-03-14T21:15:42",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "uzdrowiska"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2012/452"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180496.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180496.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
