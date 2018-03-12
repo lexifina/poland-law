@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/276",
+ "source_sha256": "50b669168e72d4d4ec8324bab0467f75abd1ea1f265b6cdee2810821c7dbfeee",
+ "in_force": "2018-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/276",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/276/text/O/M20180276.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/276/text/I/M20180276.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/276",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 276,
+  "address": "WMP20180000276",
+  "displayAddress": "M.P. 2018 poz. 276",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2018 r. w sprawie wyboru członków Krajowej Rady Sądownictwa",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-03-06",
+  "promulgation": "2018-03-12",
+  "changeDate": "2018-03-14T09:12:53",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/714"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/714",
+     "art": "art. 11d ust. 5"
+    },
+    {
+     "id": "DU/2011/714",
+     "art": "art. 9a ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 187 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180276.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180276.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
