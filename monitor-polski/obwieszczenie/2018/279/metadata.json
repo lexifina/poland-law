@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/279",
+ "source_sha256": "a136f9d5b6dcf762f38d4dd478a9106e35a4140f2e52490154724aedefb1136b",
+ "in_force": "2018-03-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/279",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/279/text/O/M20180279.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/279/text/I/M20180279.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/279",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 279,
+  "address": "WMP20180000279",
+  "displayAddress": "M.P. 2018 poz. 279",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 26 lutego 2018 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-02-26",
+  "promulgation": "2018-03-13",
+  "repealDate": "2018-11-02",
+  "changeDate": "2018-11-02T11:06:40",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Agencja Bezpieczeństwa Wewnętrznego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2018/927",
+     "date": "2018-11-02"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2002/432"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180279.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180279.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
