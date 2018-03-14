@@ -1,0 +1,1 @@
+Na podstawie art. 74 ust. 4 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 861 i 1321 oraz z 2018 r. poz. 138) zarządza się, co następuje:
