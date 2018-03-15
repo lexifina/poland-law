@@ -1,0 +1,7 @@
+# Art. 75h.
+
+1. Komisja dyscyplinarna dąży do tego, aby sprawa została rozpoznana na pierwszej rozprawie.
+
+2. Z ważnych powodów przewodniczący może odroczyć rozprawę na czas nie dłuższy niż 30 dni.
+
+3. Rozprawę odroczoną prowadzi się w dalszym ciągu, chyba że skład komisji dyscyplinarnej uległ zmianie.

@@ -1,0 +1,3 @@
+# Art. 85a.
+
+Rada izby komorniczej przekazuje niezwłocznie Krajowej Radzie Komorniczej aktualne informacje o komornikach, zastępcach komorników oraz asesorach komorniczych. Informacja obejmuje imię i nazwisko komornika, zastępcy komornika lub asesora komorniczego, właściwą izbę komorniczą, datę i numer decyzji o powołaniu komornika lub asesora komorniczego, datę i numer decyzji o odwołaniu komornika lub asesora komorniczego, datę wygaśnięcia powołania na stanowisko komornika z mocy prawa, datę i numer zarządzenia o wyznaczeniu zastępcy komornika, oraz informacje o zawieszeniu w czynnościach zawodowych.
