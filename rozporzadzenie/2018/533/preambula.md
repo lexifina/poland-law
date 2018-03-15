@@ -1,0 +1,1 @@
+Na podstawie art. 126 § 6 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z 2017 r. poz. 2491 oraz z 2018 r. poz. 5, 138, 398 i 416) zarządza się, co następuje:
