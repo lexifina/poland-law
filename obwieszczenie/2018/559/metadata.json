@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/559",
+ "source_sha256": "a3927c7aa23249ba93da6c7d9e913d6158c99d0ea4aba86748caf8d15d511703",
+ "in_force": "2018-03-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/559",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/559/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/559/text/O/D20180559.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/559/text/I/D20180559.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/559",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 559,
+  "address": "WDU20180000559",
+  "displayAddress": "Dz.U. 2018 poz. 559",
+  "title": "Obwieszczenie Ministra Finansów z dnia 27 lutego 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-02-27",
+  "promulgation": "2018-03-16",
+  "expirationDate": "2019-04-24",
+  "changeDate": "2024-03-14T21:19:58",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek akcyzowy",
+   "akcyza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/1842"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180559.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180559.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
