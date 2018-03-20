@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/578",
+ "source_sha256": "b8fba7f25d595c1b9c39495a5e06e18557379b7b60bcc5459f96b6af067eb896",
+ "in_force": "2018-03-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/578",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/578/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/578/text/O/D20180578.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/578/text/I/D20180578.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/578/text/T/D20180578L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/578/text/U/D20180578Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/578",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 578,
+  "address": "WDU20180000578",
+  "displayAddress": "Dz.U. 2018 poz. 578",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 marca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o recyklingu pojazdów wycofanych z eksploatacji",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-03-01",
+  "promulgation": "2018-03-20",
+  "expirationDate": "2019-08-26",
+  "changeDate": "2024-03-14T21:18:08",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "recykling",
+   "pojazdy mechaniczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/202"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180578.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180578.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180578L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180578Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
