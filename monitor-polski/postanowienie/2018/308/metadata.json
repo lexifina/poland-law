@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/308",
+ "source_sha256": "8c5256ba08c224b82b51909846182370696fb8fe5c9ae17e64f355e2d4de0f19",
+ "in_force": "2018-03-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/308",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/308/text/O/M20180308.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/308/text/I/M20180308.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/308",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 308,
+  "address": "WMP20180000308",
+  "displayAddress": "M.P. 2018 poz. 308",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 6 grudnia 2017 r. nr 112.64.2017 w sprawie mianowania na stopień kontradmirała",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2017-12-06",
+  "promulgation": "2018-03-21",
+  "changeDate": "2018-03-22T09:42:58",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4 i ust. 8b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180308.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180308.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
