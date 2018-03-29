@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 5 ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2018 r. poz. 221) zarządza się, co następuje:
