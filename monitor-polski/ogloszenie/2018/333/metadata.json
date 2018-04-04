@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/333",
+ "source_sha256": "48296df2dcf13b935797c62b3cfcc3bcdaa33cf1c6268866b25b1293a67836e1",
+ "in_force": "2018-04-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/333",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/333/text/O/M20180333.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/333/text/I/M20180333.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/333",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 333,
+  "address": "WMP20180000333",
+  "displayAddress": "M.P. 2018 poz. 333",
+  "title": "Ogłoszenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 21 marca 2018 r. o możliwości uzyskania koncesji na rozpowszechnianie programu radiowego",
+  "type": "Ogłoszenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-03-21",
+  "promulgation": "2018-04-04",
+  "changeDate": "2019-04-10T09:07:02",
+  "releasedBy": [
+   "PRZEW. KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "koncesje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1993/34",
+     "art": "art. 34 ust. 1 oraz ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180333.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180333.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
