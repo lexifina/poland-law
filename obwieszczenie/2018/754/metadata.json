@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/754",
+ "source_sha256": "931ead0a34a5d8d66899ccfc9752552b047b7955e5d558e9346bc40e1e3dba5f",
+ "in_force": "2018-04-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/754",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/754/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/754/text/O/D20180754.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/754/text/I/D20180754.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/754/text/T/D20180754L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/754/text/U/D20180754Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/754",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 754,
+  "address": "WDU20180000754",
+  "displayAddress": "Dz.U. 2018 poz. 754",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 marca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks wyborczy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-03-19",
+  "promulgation": "2018-04-20",
+  "expirationDate": "2019-04-12",
+  "changeDate": "2026-11-05T10:34:32",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/112"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180754.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180754.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180754L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180754Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
