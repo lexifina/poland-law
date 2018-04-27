@@ -16,7 +16,7 @@
 
   - b) analizy aktywów, funkcji i ryzyk podmiotów powiązanych wnioskujących o wydanie decyzji w sprawie porozumienia, a także opisu przewidywanych kosztów związanych z transakcją, o której mowa w lit. a,
 
-  - c) opisu strategii gospodarczej podmiotów powiązanych, o których mowa w art. 20 § 1, i innych okoliczności, jeżeli ta strategia lub okoliczności mają wpływ na cenę transakcyjną,
+  - c) opisu strategii gospodarczej podmiotów powiązanych, o których mowa w art. 20 § 1 , i innych okoliczności, jeżeli ta strategia lub okoliczności mają wpływ na cenę transakcyjną,
 
   - d) danych dotyczących sytuacji gospodarczej w branży, w której prowadzi działalność wnioskodawca, w tym danych dotyczących operacji gospodarczych zawieranych przez podmioty niepowiązane, które wykorzystano do sporządzenia kalkulacji ceny transakcyjnej,
 

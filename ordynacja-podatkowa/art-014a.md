@@ -8,7 +8,7 @@
 
 - 1) dokonując ich interpretacji, z urzędu lub na wniosek (interpretacje ogólne),
 
-- 2) wydając z urzędu ogólne wyjaśnienia przepisów prawa podatkowego, dotyczące stosowania tych przepisów (objaśnienia podatkowe)
+- 2) wydając z urzędu ogólne wyjaśnienia przepisów prawa podatkowego dotyczące stosowania tych przepisów (objaśnienia podatkowe)
 
 - przy uwzględnieniu orzecznictwa sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
 
