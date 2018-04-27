@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/799",
+ "source_sha256": "13b9dd3e63525ff66b76c4c8c3e2ef24539a9c8485f13d74d090479db290c3c4",
+ "in_force": "2018-04-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/799",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/799/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/799/text/O/D20180799.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/799/text/I/D20180799.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/799/text/T/D20180799L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/799/text/U/D20180799Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/799",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 799,
+  "address": "WDU20180000799",
+  "displayAddress": "Dz.U. 2018 poz. 799",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 kwietnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo ochrony środowiska",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-04-13",
+  "promulgation": "2018-04-27",
+  "expirationDate": "2019-07-29",
+  "changeDate": "2024-03-14T21:21:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/627"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180799.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180799.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180799L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180799Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
