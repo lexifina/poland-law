@@ -12,8 +12,8 @@
 
 § 6. W przypadku, o którym mowa w art. 138c § 3, pełnomocnictwo ogólne, zawiadomienie o jego zmianie, odwołaniu lub wypowiedzeniu zgłasza osoba sprawująca opiekę nad osobą, która nie może się podpisać, a w przypadku zgłoszenia pełnomocnictwa ustnie do protokołu - organ podatkowy.
 
-§ 7. Pełnomocnictwo ogólne może być zgłoszone za pośrednictwem Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+§ 7. (uchylony)
 
 § 8. Organ, na wniosek którego sąd wyznaczył kuratora, niezwłocznie informuje Szefa Krajowej Administracji Skarbowej o treści postanowienia sądu o ustanowieniu kuratora.
 
-§ 9. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy sposób zgłaszania pełnomocnictw ogólnych za pośrednictwem Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz ich przekazywania do Centralnego Rejestru, mając na względzie potrzebę zapewnienia sprawnego zgłaszania pełnomocnictw do Centralnego Rejestru oraz pewność ustalenia zakresu działania pełnomocnika.
+§ 9. (uchylony)

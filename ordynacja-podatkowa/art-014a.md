@@ -4,13 +4,13 @@
 
 # Art. 14a.
 
-§ 1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, w szczególności:
+§ 1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów prawa podatkowego przez organy podatkowe, w szczególności:
 
 - 1) dokonując ich interpretacji, z urzędu lub na wniosek (interpretacje ogólne),
 
 - 2) wydając z urzędu ogólne wyjaśnienia przepisów prawa podatkowego, dotyczące stosowania tych przepisów (objaśnienia podatkowe)
 
-- przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+- przy uwzględnieniu orzecznictwa sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
 
 § 1a. Interpretacja ogólna powinna zawierać w szczególności:
 

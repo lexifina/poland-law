@@ -2,7 +2,7 @@
 
 # Art. 20a.
 
-§ 1. Minister właściwy do spraw finansów publicznych, zwany w niniejszym dziale „organem właściwym w sprawie porozumienia”, na wniosek podmiotu krajowego, uznaje porównywalność istotnych warunków ustalonych pomiędzy tym podmiotem krajowym a powiązanym z nim podmiotem lub podmiotami z warunkami, które ustaliłyby między sobą niezależne podmioty, oraz potwierdza prawidłowość wyboru metody ustalania cen transakcyjnych w uznanych przez ten organ warunkach, w tym określa:
+§ 1. Szef Krajowej Administracji Skarbowej, zwany w niniejszym dziale „organem właściwym w sprawie porozumienia”, na wniosek podmiotu krajowego, uznaje porównywalność istotnych warunków ustalonych pomiędzy tym podmiotem krajowym a powiązanym z nim podmiotem lub podmiotami z warunkami, które ustaliłyby między sobą niezależne podmioty, oraz potwierdza prawidłowość wyboru metody ustalania cen transakcyjnych w uznanych przez ten organ warunkach, w tym określa:
 
 - 1) profil funkcjonalny podmiotów powiązanych, których dotyczą uznane warunki, obejmujący w szczególności pełnione funkcje, ponoszone ryzyka i zaangażowane aktywa;
 

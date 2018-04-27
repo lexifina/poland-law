@@ -20,7 +20,7 @@
 
 - 1) objaśnień podatkowych - stosuje się odpowiednio przepisy art. 14k-14m,
 
-- 2) utrwalonej praktyki interpretacyjnej ministra właściwego do spraw finansów publicznych - stosuje się odpowiednio przepisy art. 14k i art. 14m,
+- 2) utrwalonej praktyki interpretacyjnej organów Krajowej Administracji Skarbowej - stosuje się odpowiednio przepisy art. 14k i art. 14m
 
 - z zastrzeżeniem art. 14na.
 

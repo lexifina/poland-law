@@ -4,7 +4,7 @@
 
 # Art. 119g.
 
-§ 1. Minister właściwy do spraw finansów publicznych wszczyna postępowanie podatkowe lub, w drodze postanowienia, w całości lub w części przejmuje do dalszego prowadzenia postępowanie podatkowe lub postępowanie kontrolne, jeżeli w sprawach:
+§ 1. Szef Krajowej Administracji Skarbowej wszczyna postępowanie podatkowe lub, w drodze postanowienia, w całości lub w części przejmuje do dalszego prowadzenia postępowanie podatkowe lub kontrolę celno-skarbową, jeżeli w sprawach:
 
 - 1) określenia lub ustalenia wysokości zobowiązania podatkowego,
 

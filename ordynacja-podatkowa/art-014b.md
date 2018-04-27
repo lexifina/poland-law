@@ -18,20 +18,8 @@
 
 § 5c. Organ uprawniony do wydania interpretacji indywidualnej zwraca się do Szefa Krajowej Administracji Skarbowej o opinię w zakresie, o którym mowa w § 5b, chyba że stan faktyczny lub zdarzenie przyszłe odpowiadają zagadnieniu, które było przedmiotem uzyskanej uprzednio opinii Szefa Krajowej Administracji Skarbowej. Opinię Szefa Krajowej Administracji Skarbowej, której przedmiotem jest zagadnienie odpowiadające stanowi faktycznemu lub zdarzeniu przyszłemu przedstawionemu we wniosku o wydanie interpretacji indywidualnej, wraz z wnioskiem organu uprawnionego do wydania interpretacji indywidualnej o jej wydanie, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty w nich wskazane, dołącza się do akt sprawy.
 
-§ 6. Minister właściwy do spraw finansów publicznych w celu zapewnienia jednolitości wydawanych wiążących interpretacji i usprawnienia obsługi wnioskodawców może, w drodze rozporządzenia, upoważnić podległe organy do wydawania interpretacji indywidualnych w jego imieniu i w ustalonym zakresie określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.
+§ 6. (uchylony)
 
-§ 6a. Minister właściwy do spraw finansów publicznych, uwzględniając konieczność zapewnienia jednolitości i prawidłowości interpretacji indywidualnych oraz w celu usprawnienia postępowania w sprawach dotyczących interpretacji indywidualnych i ich zmiany, może, w drodze rozporządzenia, upoważnić podległe organy do:
-
-- 1) zmiany interpretacji indywidualnych na etapie rozpatrywania wezwania do usunięcia naruszenia prawa,
-
-- 2) stwierdzania wygaśnięcia interpretacji indywidualnych na podstawie art. 14e § 1 pkt 3,
-
-- 3) uchylania interpretacji indywidualnych i wydawania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 4,
-
-- 4) wydawania postanowień, o których mowa w § 5a, oraz ich zmiany na podstawie art. 14e § 1 pkt 5,
-
-- 5) uchylania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 6
-
-- w jego imieniu i w ustalonym zakresie, określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.
+§ 6a. (uchylony)
 
 § 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w § 1, który zawiera dane identyfikujące wnioskodawcę oraz dane wskazane w § 2-5, a także sposób uiszczenia opłaty, o której mowa w art. 14f, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
