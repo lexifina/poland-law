@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245, 791 i 1089), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
 
@@ -12,23 +12,23 @@ Ilekroć w ustawie jest mowa o:
 
 - 5) programie restrukturyzacji na podstawie odrębnych ustaw - oznacza to restrukturyzację na podstawie ustaw:
 
-  - a) ustawa z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
+  - a) ustawy z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
 
-  - b) ustawa z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 2011),
+  - b) ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 2011),
 
-  - c) ustawa z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
+  - c) ustawy z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
 
-  - d) Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2017 r. poz. 680 i 1529),
+  - d) ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2017 r. poz. 680 i 1529),
 
-  - e) ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.),
+  - e) ustawy z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.),
 
-  - f) ustawa z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 684, z późn. zm.);
+  - f) ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
 
-- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508);
+- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149 i 398);
 
 - 6) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
-- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221);
+- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62, 86 i 650);
 
 - 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834);
 
@@ -62,9 +62,11 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) spółce niebędącej osobą prawną - oznacza to spółkę inną niż określona w pkt 21;
 
-- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768);
+- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.);
 
 - 16) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
+
+- 16a) wartości emisyjnej udziałów (akcji) - oznacza to cenę, po jakiej obejmowane są udziały (akcje), określoną w statucie lub umowie spółki, a w razie ich braku - w innym dokumencie o podobnym charakterze, nie niższą od wartości rynkowej tych udziałów (akcji);
 
 - 17) wspólniku - oznacza to również akcjonariusza;
 
@@ -84,7 +86,7 @@ Ilekroć w ustawie jest mowa o:
 
   - d) spółkę niemającą osobowości prawnej mającą siedzibę lub zarząd w innym państwie, jeżeli zgodnie z przepisami prawa podatkowego tego innego państwa jest traktowana jak osoba prawna i podlega w tym państwie opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania;
 
-- 22) pochodnych instrumentach finansowych - oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyłączeniem tytułów uczestnictwa w instytucjach wspólnego inwestowania oraz instrumentów rynku pieniężnego;
+- 22) pochodnych instrumentach finansowych - oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c-i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
 - 23) komercjalizowanej własności intelektualnej - oznacza to:
 
@@ -98,15 +100,15 @@ Ilekroć w ustawie jest mowa o:
 
 - 24) podmiocie komercjalizującym - oznacza to:
 
-  - a) uczelnię w rozumieniu ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.),
+  - a) uczelnię w rozumieniu ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650 i 730),
 
   - b) spółkę utworzoną na podstawie art. 86a ust. 1 lub art. 86b ust. 1 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym,
 
-  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2017 r. poz. 1869),
+  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2017 r. poz. 1869 i 2201),
 
   - d) spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
 
-  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158 i 1452),
+  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736),
 
   - f) spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
 
@@ -136,4 +138,16 @@ Ilekroć w ustawie jest mowa o:
 
 - 29) rzeczywistym właścicielu - oznacza to podmiot otrzymujący daną należność dla własnej korzyści, niebędący pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części danej należności innemu podmiotowi;
 
-- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.).
+- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 56, z późn. zm.);
+
+- 31) nabytych wierzytelnościach banku hipotecznego - oznacza to nabyte przez bank hipoteczny, w celu emisji listów zastawnych, od innych banków wierzytelności z tytułu udzielonych przez nie kredytów;
+
+- 32) odpisie na straty kredytowe - oznacza to odpis na oczekiwane straty kredytowe z tytułu składnika aktywów finansowych, utworzony na:
+
+  - a) udzielony kredyt (pożyczkę) lub
+
+  - b) udzielone gwarancje (poręczenia) spłaty kredytu (pożyczki), lub
+
+  - c) nabyte wierzytelności banku hipotecznego
+
+  - przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości.

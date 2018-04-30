@@ -1,45 +1,89 @@
 # Art. 15c.
 
-1. Spółki i spółdzielnie, które otrzymały pożyczkę w rozumieniu art. 16 ust. 7b od podmiotów, o których mowa w art. 16 ust. 1 pkt 60 i 61, mogą nie stosować wynikających z tych przepisów ograniczeń w zaliczaniu odsetek od takiej pożyczki do kosztów uzyskania przychodów, jeżeli zdecydują o stosowaniu zasad określonych w niniejszym artykule. O wyborze stosowania tych zasad spółki i spółdzielnie są obowiązane zawiadomić, w formie pisemnej, właściwego naczelnika urzędu skarbowego w terminie do końca pierwszego miesiąca roku podatkowego.
+1. Podatnicy, o których mowa w art. 3 ust. 1, są obowiązani wyłączyć z kosztów uzyskania przychodów koszty finansowania dłużnego w części, w jakiej nadwyżka kosztów finansowania dłużnego przewyższa 30% kwoty odpowiadającej nadwyżce sumy przychodów ze wszystkich źródeł przychodów pomniejszonej o przychody o charakterze odsetkowym nad sumą kosztów uzyskania przychodów pomniejszonych o wartość zaliczonych w roku podatkowym do kosztów uzyskania przychodów odpisów amortyzacyjnych, o których mowa w art. 16a-16m, oraz kosztów finansowania dłużnego nieuwzględnionych w wartości początkowej środka trwałego lub wartości niematerialnej i prawnej.
 
-2. Zaliczeniu do kosztów uzyskania przychodów w roku podatkowym mogą podlegać odsetki od pożyczek, w tym udzielonych przez podmioty niepowiązane, w wysokości nieprzekraczającej wartości odpowiadającej iloczynowi wartości stopy referencyjnej Narodowego Banku Polskiego obowiązującej w ostatnim dniu roku poprzedzającego rok podatkowy powiększonej o 1,25 punktu procentowego i wartości podatkowej aktywów w rozumieniu przepisów o rachunkowości, w tym ujętych zgodnie z wartością nominalną kwot udzielonych pożyczek, z wyjątkiem wartości niematerialnych i prawnych. Wartość tych aktywów określa się według stanu na ostatni dzień danego roku podatkowego.
+2. W przypadku podatkowych grup kapitałowych kwota obliczona zgodnie z ust. 1 zwiększa dochód (zmniejsza stratę) podatkowej grupy kapitałowej. Przepis ust. 7 stosuje się odpowiednio.
 
-3. Jeżeli w trakcie roku podatkowego zmianie uległa stopa referencyjna Narodowego Banku Polskiego, kwotę limitu zaliczenia odsetek od pożyczek do kosztów uzyskania przychodów, o którym mowa w ust. 2, oblicza się sumując limity dla poszczególnych miesięcy tego roku podatkowego wyliczone jako iloczyn wartości stopy referencyjnej Narodowego Banku Polskiego obowiązującej w ostatnim dniu miesiąca poprzedzającego dany miesiąc powiększonej o 1,25 punktu procentowego i 1/12 wartości podatkowej aktywów, o których mowa w ust. 2.
+3. Przez nadwyżkę kosztów finansowania dłużnego rozumie się kwotę, o jaką poniesione przez podatnika koszty finansowania dłużnego, podlegające zaliczeniu do kosztów uzyskania przychodów w roku podatkowym, przewyższają uzyskane przez podatnika w tym roku podatkowym podlegające opodatkowaniu przychody o charakterze odsetkowym.
 
-4. Jeżeli dany rok podatkowy podatnika, o którym mowa w ust. 1, jest dłuższy albo krótszy niż 12 miesięcy, kwotę limitu zaliczenia odsetek od pożyczek do kosztów uzyskania przychodów, o którym mowa w ust. 2, oblicza się mnożąc 1/12 wartości tego limitu przez liczbę pełnych miesięcy danego roku podatkowego. Za pełny miesiąc roku podatkowego uważa się każdy rozpoczęty miesiąc. Przepis ust. 3 stosuje się odpowiednio.
+4. Do przychodów i kosztów, o których mowa w ust. 1 i 3, przepis art. 7 ust. 3 stosuje się odpowiednio.
 
-5. Wartość odsetek od pożyczek podlegająca, zgodnie z ust. 2-4, zaliczeniu w roku podatkowym do kosztów uzyskania przychodów nie może być wyższa niż wartość odpowiadająca 50% zysku z działalności operacyjnej, ustalonego za dany rok podatkowy zgodnie z ustawą o rachunkowości. Warunku tego nie stosuje się do:
+5. W celu wyliczenia limitu, o którym mowa w ust. 1, oraz przy wyliczaniu nadwyżki kosztów finansowania dłużnego koszty uzyskania przychodów oblicza się bez uwzględnienia pomniejszeń wynikających z zastosowania ust. 1 oraz art. 15e ust. 1.
 
-- 1) banków, spółdzielczych kas oszczędnościowo-kredytowych oraz instytucji kredytowych w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe;
+6. Przez przychody o charakterze odsetkowym oraz koszty, o których mowa w ust. 1, rozumie się również przychody i koszty przypisane podatnikowi zgodnie z art. 5.
 
-- 2) podatników będących instytucją finansową, o której mowa w art. 4 ust. 1 pkt 7 lit. c i d ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, jeżeli:
+7. Kwotę kosztów wyłączonych z kosztów uzyskania przychodów na podstawie ust. 1 uwzględnia się w danym źródle przychodów proporcjonalnie do wysokości kosztów, o których mowa w ust. 1, poniesionych w ramach danego źródła przychodów.
 
-  - a) co najmniej 80% przychodów uzyskanych w roku podatkowym przez podatników udostępniających składniki majątkowe na podstawie umowy leasingu, o której mowa w art. 17a pkt 1, stanowią przychody z tej działalności, w tym przychody ze sprzedaży przedmiotu umowy leasingu, oraz z działalności polegającej na udzielaniu pożyczek na potrzeby współfinansowania inwestycji w ramach Polityki Spójności, Wspólnej Polityki Rolnej lub Wspólnej Polityki Rybołówstwa,
+8. Przy wyliczaniu nadwyżki kosztów finansowania dłużnego nie bierze się pod uwagę kosztów finansowania dłużnego wynikających z kredytów (pożyczek) wykorzystywanych do sfinansowania długoterminowego projektu z zakresu infrastruktury publicznej, w przypadku którego spełnione są łącznie następujące warunki:
 
-  - b) co najmniej 90% przychodów uzyskanych w roku podatkowym przez podatników świadczących usługi w zakresie nabywania i zbywania wierzytelności stanowią przychody z tej działalności.
+- 1) wykonawca projektu podlega opodatkowaniu w państwie członkowskim Unii Europejskiej;
 
-6. Dla celów obliczania zaliczek na podatek dochodowy, o których mowa w art. 25 ust. 1, 1b i 2a, w trakcie przyjętego roku podatkowego podatnicy, o których mowa w ust. 1, mogą:
+- 2) aktywa, których projekt dotyczy, znajdują się całości w państwie członkowskim Unii Europejskiej;
 
-- 1) przyjąć wartości, o których mowa w ust. 2 i 5, na podstawie sprawozdań finansowych za poprzedni rok podatkowy albo
+- 3) koszty finansowania zewnętrznego są wykazywane dla celów podatkowych w całości w państwie członkowskim Unii Europejskiej;
 
-- 2) dokonać oceny, według wiarygodnych danych, przewidywanej na dany rok podatkowy wysokości zysku z działalności operacyjnej oraz oceny co do przewidywanej na dany rok podatkowy wartości podatkowej aktywów, o której mowa w ust. 2, albo
+- 4) dochody są osiągane w całości w państwie członkowskim Unii Europejskiej.
 
-- 3) przyjąć uzyskaną w okresie rozliczeniowym wysokość zysku z działalności operacyjnej oraz uzyskaną w okresie rozliczeniowym wartość podatkową aktywów, o której mowa w ust. 2
+9. Dochodu wynikającego z długoterminowego projektu z zakresu infrastruktury publicznej nie uwzględnia się przy obliczaniu przychodów i kosztów, o których mowa w ust. 1.
 
-- jednakże dla celów obliczenia podatku dochodowego należnego za dany rok podatkowy podatnicy są obowiązani do określenia kosztów uzyskania przychodów na podstawie faktycznych wartości, o których mowa w ust. 2 i 5.
+10. Długoterminowy projekt z zakresu infrastruktury publicznej oznacza projekt służący dostarczeniu, modernizacji, eksploatacji lub utrzymaniu znaczącego składnika aktywów, będący w ogólnym interesie publicznym.
 
-7. Odsetki od pożyczek niezaliczone na podstawie ust. 2-5 w danym roku podatkowym do kosztów uzyskania przychodów podlegają zaliczeniu do kosztów w następnych, kolejno po sobie następujących pięciu latach podatkowych, zgodnie z zasadami i w ramach limitów określonych w tych przepisach. Przepisu tego nie stosuje się w przypadku:
+11. W przypadku podatkowej grupy kapitałowej przy wyliczaniu nadwyżki kosztów finansowania dłużnego nie bierze się pod uwagę także kosztów finansowania dłużnego i przychodów o charakterze odsetkowym wynikających z umów, których stroną są wyłącznie spółki wchodzące w skład takiej grupy.
 
-- 1) podatników, o których mowa w ust. 1, którzy zrezygnują po okresie wskazanym w ust. 9 z zaliczania odsetek od pożyczek do kosztów uzyskania przychodów według zasad określonych w niniejszym artykule, począwszy od roku podatkowego, w którym zrezygnowali z takich zasad;
+12. Przez koszty finansowania dłużnego rozumie się wszelkiego rodzaju koszty związane z uzyskaniem od innych podmiotów, w tym od podmiotów niepowiązanych, środków finansowych i z korzystaniem z tych środków, w szczególności odsetki, w tym skapitalizowane lub ujęte w wartości początkowej środka trwałego lub wartości niematerialnej i prawnej, opłaty, prowizje, premie, część odsetkową raty leasingowej, kary i opłaty za opóźnienie w zapłacie zobowiązań oraz koszty zabezpieczenia zobowiązań, w tym koszty pochodnych instrumentów finansowych, niezależnie na rzecz kogo zostały one poniesione.
 
-- 2) podmiotów, które w związku z przekształceniem formy prawnej, łączeniem lub podziałem podatników, o których mowa w ust. 1, zaliczających odsetki od pożyczek do kosztów uzyskania przychodów według zasad określonych w niniejszym artykule wstępują w prawa tych podatników, z wyjątkiem spółek powstałych z przekształcenia spółek.
+13. Przez przychody o charakterze odsetkowym rozumie się przychody z tytułu odsetek, w tym odsetek skapitalizowanych, oraz inne przychody równoważne ekonomicznie odsetkom odpowiadające kosztom finansowania dłużnego.
 
-8. Przez odsetki od pożyczki, o których mowa w niniejszym artykule oraz w art. 16 ust. 1 pkt 60 i 61, rozumie się wszelkie poniesione na rzecz pożyczkodawcy koszty związane z uzyskaniem i korzystaniem z pożyczki, o której mowa w art. 16 ust. 7b (odsetki, opłaty, prowizje, premie), a także opłaty z tytułu opóźnionej zapłaty zobowiązań.
+14. Przepisu ust. 1 nie stosuje się do:
 
-9. W przypadku dokonania wyboru sposobu zaliczania do kosztów uzyskania przychodów odsetek od pożyczek według zasad, o których mowa w niniejszym artykule, podatnik jest obowiązany stosować te zasady przez okres nie krótszy niż trzy lata podatkowe, liczony łącznie z rokiem podatkowym, w którym rozpoczął ich stosowanie.
+- 1) nadwyżki kosztów finansowania dłużnego w części nieprzekraczającej w roku podatkowym kwoty 3 000 000 zł; jeżeli rok podatkowy podatnika jest dłuższy albo krótszy niż 12 miesięcy, kwotę tego progu oblicza się, mnożąc kwotę 250 000 zł przez liczbę rozpoczętych miesięcy roku podatkowego podatnika;
 
-10. Jeżeli po upływie okresu wskazanego w ust. 9 podatnik, o którym mowa w ust. 1, zrezygnuje z zaliczania do kosztów uzyskania przychodów odsetek od pożyczek według zasad, o których mowa w niniejszym artykule, jest on obowiązany zawiadomić o takiej rezygnacji w formie pisemnej właściwego naczelnika urzędu skarbowego w terminie do końca roku podatkowego poprzedzającego rok podatkowy, w którym zamierza zrezygnować ze stosowania tych zasad. W razie niezłożenia zawiadomienia w tym terminie uznaje się, że podatnik w dalszym ciągu stosuje zasady określone w niniejszym artykule.
+- 2) przedsiębiorstw finansowych.
 
-11. Podatnik, o którym mowa w ust. 1, może ponownie wybrać sposób zaliczania do kosztów uzyskania przychodów odsetek od pożyczek według zasad, o których mowa w niniejszym artykule, nie wcześniej niż po upływie trzech lat podatkowych następujących po roku podatkowym, w którym zawiadomił o rezygnacji z ich stosowania.
+15. W przypadku podatkowej grupy kapitałowej kwota wskazana w ust. 14 pkt 1 odnosi się do podatkowej grupy kapitałowej.
 
-12. Podatnik, który do dnia otrzymania pożyczki, o której mowa w ust. 1, nie stosował w roku podatkowym ograniczeń wynikających z art. 16 ust. 1 pkt 60 albo 61, może wybrać sposób zaliczania do kosztów uzyskania przychodów odsetek od pożyczek według zasad, o których mowa w niniejszym artykule, pod warunkiem zawiadomienia, w formie pisemnej, właściwego naczelnika urzędu skarbowego w terminie 30 dni od dnia zawarcia umowy takiej pożyczki. W przypadku zaistnienia tych okoliczności w trakcie roku podatkowego, podatnik stosuje zasady określone w niniejszym artykule od początku roku podatkowego.
+16. Przez przedsiębiorstwo finansowe rozumie się:
+
+- 1) bank krajowy, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe;
+
+- 2) instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe;
+
+- 3) spółdzielczą kasę oszczędnościowo-kredytową oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową;
+
+- 4) firmę inwestycyjną, o której mowa w art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+
+- 5) towarzystwo, zarządzającego alternatywną spółką inwestycyjną, spółkę zarządzającą oraz zarządzającego z Unii Europejskiej, o których mowa odpowiednio w art. 2 pkt 3, 3a, 10 i 10c ustawy o funduszach inwestycyjnych;
+
+- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, z późn. zm.);
+
+- 7) krajowy zakład reasekuracji oraz zagraniczny zakład reasekuracji w rozumieniu odpowiednio art. 3 ust. 1 pkt 19 i 56 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
+
+- 8) dobrowolny fundusz w rozumieniu art. 8 pkt 3a ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+
+- 9) otwarty fundusz w rozumieniu art. 8 pkt 5 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+
+- 10) pracowniczy fundusz w rozumieniu art. 8 pkt 6 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+
+- 11) towarzystwo w rozumieniu art. 8 pkt 7 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+
+- 12) pracodawcę zagranicznego w rozumieniu art. 8 pkt 10 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+
+- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2016 r. poz. 1449);
+
+- 14) fundusze inwestycyjne otwarte oraz alternatywne fundusze inwestycyjne utworzone na podstawie ustawy o funduszach inwestycyjnych;
+
+- 15) kontrahenta centralnego w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.);
+
+- 16) centralny depozyt papierów wartościowych w rozumieniu art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2016 r. poz. 1528 oraz z 2017 r. poz. 819).
+
+18. Koszty finansowania dłużnego wyłączone w roku podatkowym z kosztów uzyskania przychodów zgodnie z ust. 1 podlegają zaliczeniu do takich kosztów w następnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-17 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
+
+19. Przepisu ust. 18 nie stosuje się do:
+
+- 1) podmiotów, które w związku z przekształceniem, łączeniem lub podziałem podmiotów wstępują w prawa podatników przekształconych, łączonych lub dzielonych, z wyjątkiem spółek powstałych z przekształcenia spółek;
+
+- 2) spółek wchodzących uprzednio w skład podatkowej grupy kapitałowej - w odniesieniu do kosztów finansowania dłużnego wyłączonych z kosztów uzyskania przychodów w czasie funkcjonowania tej podatkowej grupy.
+
+20. Przepisy ust. 1-19 stosuje się odpowiednio do podatnika, o którym mowa w art. 3 ust. 2, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w tym do transakcji wewnętrznych takiego podatnika dotyczących tego zagranicznego zakładu.

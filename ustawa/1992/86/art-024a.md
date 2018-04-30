@@ -14,11 +14,19 @@
 
   - d) spółkę niemającą osobowości prawnej, o której mowa w art. 1 ust. 3 pkt 2
 
-  - nieposiadającą siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej, w której podatnik, o którym mowa w art. 3 ust. 1, posiada udział w kapitale, prawo głosu w organach kontrolnych lub stanowiących lub prawo do uczestnictwa w zysku;
+  - nieposiadającą siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej, w której podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych lub stanowiących lub prawo do uczestnictwa w zysku;
 
 - 2) instrumenty finansowe - oznacza instrumenty finansowe wymienione w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
-- 3) jednostka zależna - oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną spółkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 25% udziałów w kapitale lub 25% praw głosu w organach kontrolnych lub stanowiących, lub 25% udziałów związanych z prawem do uczestnictwa w zyskach.
+- 3) jednostka zależna - oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną spółkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale lub co najmniej 50% praw głosu w organach kontrolnych lub stanowiących, lub co najmniej 50% udziałów związanych z prawem do uczestnictwa w zyskach;
+
+- 4) podmiot powiązany - oznacza:
+
+  - a) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podatnik posiada co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych lub stanowiących, lub co najmniej 25% udziałów związanych z prawem do uczestnictwa w zyskach,
+
+  - b) osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, posiadającą w podatniku co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych lub stanowiących, lub co najmniej 25% udziałów związanych z prawem do uczestnictwa w zyskach,
+
+  - c) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podmiot wskazany w lit. b posiada co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych lub stanowiących, lub co najmniej 25% udziałów związanych z prawem do uczestnictwa w zyskach.
 
 3. Zagraniczną spółką kontrolowaną jest:
 
@@ -34,17 +42,19 @@
 
 - 3) zagraniczna spółka spełniająca łącznie następujące warunki:
 
-  - a) w spółce tej podatnik, o którym mowa w art. 3 ust. 1, posiada nieprzerwanie przez okres nie krótszy niż 30 dni, bezpośrednio lub pośrednio, co najmniej 25% udziałów w kapitale lub 25% praw głosu w organach kontrolnych lub stanowiących lub 25% udziałów związanych z prawem do uczestnictwa w zyskach,
+  - a) w spółce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi, posiada nieprzerwanie przez okres nie krótszy niż 30 dni, bezpośrednio lub pośrednio, ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych lub stanowiących, lub ponad 50% udziałów związanych z prawem do uczestnictwa w zyskach,
 
-  - b) co najmniej 50% przychodów tej spółki osiągniętych w roku podatkowym, o którym mowa w ust. 6, pochodzi z dywidend i innych przychodów z udziału w zyskach osób prawnych, przychodów ze zbycia udziałów (akcji), wierzytelności, odsetek i pożytków od wszelkiego rodzaju pożyczek, poręczeń i gwarancji, a także przychodów z praw autorskich, praw własności przemysłowej, w tym z tytułu zbycia tych praw, a także zbycia i realizacji praw z instrumentów finansowych,
+  - b) co najmniej 33% przychodów tej spółki osiągniętych w roku podatkowym, o którym mowa w ust. 6, pochodzi: - z dywidend i innych przychodów z udziału w zyskach osób prawnych, - ze zbycia udziałów (akcji), - z wierzytelności, - z odsetek i pożytków od wszelkiego rodzaju pożyczek, - z części odsetkowej raty leasingowej, - z poręczeń i gwarancji, - z praw autorskich lub praw własności przemysłowej, w tym z tytułu zbycia tych praw, - ze zbycia i realizacji praw z instrumentów finansowych, - z działalności ubezpieczeniowej, bankowej lub innej działalności finansowej, - z transakcji z podmiotami powiązanymi, w przypadku gdy spółka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma,
 
-  - c) co najmniej jeden rodzaj przychodów, o których mowa w lit. b, uzyskiwanych przez tę spółkę, podlega w państwie jej siedziby lub zarządu opodatkowaniu według stawki podatku dochodowego obowiązującej w tym państwie niższej o co najmniej 25% od stawki, o której mowa w art. 19 ust. 1 pkt 1, lub zwolnieniu lub wyłączeniu z opodatkowania podatkiem dochodowym w tym państwie, chyba że przychody te podlegają zwolnieniu od opodatkowania w państwie siedziby lub zarządu spółki je otrzymującej na podstawie przepisów dyrektywy Rady 2011/96/UE z dnia 30 listopada 2011 r. w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku spółek dominujących i spółek zależnych różnych państw członkowskich (Dz. Urz. UE L 345 z 29.12.2011, str. 8, z późn. zm.).
+  - c) faktycznie zapłacony podatek dochodowy przez tę spółkę jest niższy niż różnica między podatkiem dochodowym od osób prawnych, który byłby od niej należny, gdyby spółka ta była podatnikiem, o którym mowa w art. 3 ust. 1, a podatkiem dochodowym faktycznie przez nią zapłaconym w państwie jej siedziby lub zarządu; przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu.
+
+3a. Przy wyliczaniu różnicy, o której mowa w ust. 3 pkt 3 lit. c, nie uwzględnia się zagranicznego zakładu zagranicznej spółki kontrolowanej, który nie podlega opodatkowaniu lub jest zwolniony z podatku w państwie siedziby zagranicznej spółki kontrolowanej.
 
 4. Podstawę opodatkowania, o której mowa w ust. 1, stanowi dochód zagranicznej spółki kontrolowanej przypadający na okres, w którym został spełniony warunek wymieniony w ust. 3 pkt 3 lit. a, albo na okres, o którym mowa w ust. 8 albo 9, w takiej części, jaka odpowiada posiadanym udziałom związanym z prawem do uczestnictwa w zyskach tej spółki, po odliczeniu kwot:
 
-- 1) dywidendy otrzymanej przez podatnika od zagranicznej spółki kontrolowanej;
+- 1) uwzględnionej w podstawie opodatkowania podatnika dywidendy otrzymanej od zagranicznej spółki kontrolowanej;
 
-- 2) z odpłatnego zbycia przez podatnika udziału w zagranicznej spółce kontrolowanej.
+- 2) dochodu z odpłatnego zbycia przez podatnika udziału w zagranicznej spółce kontrolowanej, w części uwzględnionej w jego podstawie opodatkowania.
 
 5. Kwoty nieodliczone zgodnie z ust. 4 w danym roku podatkowym podlegają odliczeniu w następnych, kolejno po sobie następujących pięciu latach podatkowych.
 
@@ -58,9 +68,9 @@
 
 10. W przypadku zagranicznej spółki kontrolowanej, o której mowa w ust. 3 pkt 2, przepisu ust. 1 nie stosuje się, jeżeli podatnik wykaże, że nie jest spełniony co najmniej jeden z warunków określonych w ust. 3 pkt 3. Przepis ust. 13 stosuje się.
 
-11. Udział podatnika w zagranicznej spółce kontrolowanej, o którym mowa w ust. 3 pkt 3 lit. a, pomniejsza się o udział jego jednostki zależnej, związany z prawem do udziału w zyskach tej zagranicznej spółki kontrolowanej, przysługujący przez ten sam okres, jeżeli łącznie są spełnione następujące warunki:
+11. Udział podatnika w zagranicznej spółce kontrolowanej pomniejsza się o udział jego jednostki zależnej związany z prawem do udziału w zyskach tej zagranicznej spółki kontrolowanej, przysługujący przez ten sam okres, jeżeli łącznie są spełnione następujące warunki:
 
-- 1) jednostka zależna posiada bezpośrednio lub pośrednio co najmniej 25% udziałów związanych z prawem do uczestnictwa w zyskach w tej zagranicznej spółce kontrolowanej;
+- 1) jednostka zależna posiada bezpośrednio lub pośrednio co najmniej 50% udziałów związanych z prawem do uczestnictwa w zyskach w tej zagranicznej spółce kontrolowanej;
 
 - 2) jednostka zależna uwzględnia w podstawie opodatkowania dochody tej zagranicznej spółki kontrolowanej, na podstawie przepisów dotyczących zagranicznej spółki kontrolowanej obowiązujących w państwie, w którym podlega opodatkowaniu od całości swoich dochodów;
 
@@ -68,19 +78,17 @@
 
 12. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną spółkę kontrolowaną w proporcji, w jakiej pozostaje dochód ustalony zgodnie z ust. 4 do dochodu tej spółki ustalonego zgodnie z ust. 6. Przepisy art. 20 ust. 8 i art. 22b stosuje się odpowiednio.
 
-13. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych spółek, o których mowa w ust. 3 pkt 1 i 2 oraz pkt 3 lit. a, a po zakończeniu roku podatkowego, o którym mowa w ust. 6, nie później niż przed upływem terminu do złożenia zeznania o wysokości dochodu zagranicznej spółki kontrolowanej osiągniętego w roku podatkowym, są obowiązani do zaewidencjonowania zdarzeń zaistniałych w zagranicznej spółce kontrolowanej w ewidencji odrębnej od ewidencji rachunkowej wskazanej w art. 9 ust. 1 i 1a, w sposób zapewniający określenie wysokości dochodu, podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym także do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do określenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 16a-16m.
+13. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych spółek, o których mowa w ust. 3 pkt 1 i 2 oraz pkt 3 lit. a, a w przypadku zagranicznych spółek posiadających siedzibę lub zarząd na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Obszaru Gospodarczego - rejestru zagranicznych spółek spełniających warunki określone w ust. 3 pkt 3.
 
-14. Na żądanie organu podatkowego podatnik jest obowiązany udostępnić, w terminie 7 dni od dnia otrzymania żądania, prowadzone zgodnie z ust. 13 ewidencje i rejestr. Jeżeli podatnik nie udostępni tych ewidencji lub rejestru albo ustalenie dochodu na podstawie prowadzonych ewidencji nie jest możliwe, dochód określa się w drodze oszacowania, przy uwzględnieniu przedmiotu działalności (transakcji), z której dochód został osiągnięty. Do określenia dochodu w drodze oszacowania stosuje się przepisy Ordynacji podatkowej.
+13a. Podatnicy po zakończeniu roku podatkowego, o którym mowa w ust. 6, nie później niż przed upływem terminu do złożenia zeznania o wysokości dochodu zagranicznej spółki kontrolowanej osiągniętego w roku podatkowym, są obowiązani do zaewidencjonowania zdarzeń zaistniałych w zagranicznej spółce kontrolowanej w ewidencji odrębnej od ewidencji rachunkowej wskazanej w art. 9 ust. 1 i 1a, w sposób zapewniający określenie wysokości dochodu, podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym także do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do określenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 16a-16m.
 
-15. W celu obliczenia udziału pośredniego, o którym mowa w ust. 3 pkt 3 lit. a i ust. 11 pkt 1, przepis art. 11 ust. 5b stosuje się odpowiednio.
+14. Na żądanie organu podatkowego podatnik jest obowiązany udostępnić, w terminie 7 dni od dnia otrzymania żądania, rejestry prowadzone zgodnie z ust. 13 oraz ewidencje prowadzone zgodnie z ust. 13a. Jeżeli podatnik nie udostępni tych ewidencji lub rejestru albo ustalenie dochodu na podstawie prowadzonych ewidencji nie jest możliwe, dochód określa się w drodze oszacowania, przy uwzględnieniu przedmiotu działalności (transakcji), z której dochód został osiągnięty. Do określenia dochodu w drodze oszacowania stosuje się przepisy Ordynacji podatkowej.
 
-16. Przepisów ust. 1, 13 i 14 nie stosuje się, jeżeli zagraniczna spółka kontrolowana, podlegająca opodatkowaniu od całości swoich dochodów w państwie członkowskim Unii Europejskiej lub w państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzi w tym państwie rzeczywistą działalność gospodarczą.
+15. W celu obliczenia udziału pośredniego przepis art. 11 ust. 5b stosuje się odpowiednio.
 
-17. Przepisu ust. 1, z zastrzeżeniem ust. 13, nie stosuje się, jeżeli:
+16. Przepisów ust. 1, 13a i 14 nie stosuje się, jeżeli zagraniczna spółka kontrolowana, podlegająca opodatkowaniu od całości swoich dochodów w państwie członkowskim Unii Europejskiej lub w państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzi w tym państwie istotną rzeczywistą działalność gospodarczą.
 
-- 1) przychody zagranicznej spółki kontrolowanej nie przekraczają w roku podatkowym kwoty odpowiadającej 250 000 euro, przeliczonej na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roku podatkowego poprzedzającego rok podatkowy, o którym mowa w ust. 6, albo
-
-- 2) zagraniczna spółka kontrolowana prowadzi rzeczywistą działalność gospodarczą na terytorium państwa innego niż państwo członkowskie Unii Europejskiej lub państwo należące do Europejskiego Obszaru Gospodarczego, w którym podlega opodatkowaniu od całości swoich dochodów, i jej dochód nie przekracza 10% przychodów osiągniętych z tytułu prowadzonej rzeczywistej działalności gospodarczej w tym państwie - pod warunkiem istnienia podstawy prawnej wynikającej z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania informacji podatkowych od organu podatkowego państwa, w którym zagraniczna spółka kontrolowana podlega opodatkowaniu od całości swoich dochodów.
+17. (uchylony)
 
 18. Przy ocenie, czy zagraniczna spółka kontrolowana prowadzi rzeczywistą działalność gospodarczą, bierze się pod uwagę w szczególności czy:
 
@@ -94,4 +102,10 @@
 
 - 5) zagraniczna spółka kontrolowana samodzielnie wykonuje swoje podstawowe funkcje gospodarcze przy wykorzystaniu zasobów własnych, w tym obecnych na miejscu osób zarządzających.
 
-19. Przepisy ust. 1-18 oraz art. 27 ust. 2a stosuje się odpowiednio do podatnika prowadzącego działalność gospodarczą przez położony poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład, chyba że dochody tego zakładu zostały uwzględnione przez podatnika w podstawie opodatkowania ustalonej zgodnie z art. 18.
+18a. Przy ocenie, czy rzeczywista działalność gospodarcza ma charakter istotny, bierze się pod uwagę w szczególności stosunek przychodów uzyskiwanych przez zagraniczną spółkę kontrolowaną z prowadzonej rzeczywistej działalności gospodarczej do jej przychodów ogółem.
+
+19. Przepisy ust. 1-18a oraz art. 27 ust. 2a stosuje się odpowiednio do:
+
+- 1) podatnika prowadzącego działalność gospodarczą przez położony poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład, chyba że dochody tego zakładu zostały uwzględnione przez podatnika w podstawie opodatkowania ustalonej zgodnie z art. 18;
+
+- 2) podatnika, o którym mowa w art. 3 ust. 2, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład - w zakresie związanym z działalnością tego zakładu.

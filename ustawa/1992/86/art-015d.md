@@ -1,8 +1,8 @@
 # Art. 15d.
 
-1. Podatnicy nie zaliczają do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948, 1997 i 2255 oraz z 2017 r. poz. 460 i 819) została dokonana bez pośrednictwa rachunku płatniczego.
+1. Podatnicy nie zaliczają do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. poz. 646) została dokonana bez pośrednictwa rachunku płatniczego.
 
-2. W przypadku zaliczenia do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej została dokonana bez pośrednictwa rachunku płatniczego, podatnicy:
+2. W przypadku zaliczenia do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców została dokonana bez pośrednictwa rachunku płatniczego, podatnicy:
 
 - 1) zmniejszają koszty uzyskania przychodów albo
 

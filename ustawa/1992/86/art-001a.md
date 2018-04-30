@@ -6,23 +6,27 @@
 
 - 1) podatkową grupę kapitałową mogą tworzyć wyłącznie spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, mające siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli:
 
-  - a) przeciętny kapitał zakładowy, określony w sposób, o którym mowa w ust. 2b, przypadający na każdą z tych spółek, jest nie niższy niż 1 000 000 zł,
+  - a) przeciętny kapitał zakładowy, określony w sposób, o którym mowa w ust. 2b, przypadający na każdą z tych spółek, jest nie niższy niż 500 000 zł,
 
-  - b) jedna ze spółek, zwana dalej „spółką dominującą”, posiada bezpośredni 95% udział w kapitale zakładowym lub w tej części kapitału zakładowego pozostałych spółek, zwanych dalej „spółkami zależnymi”, która na podstawie przepisów o komercjalizacji i prywatyzacji nie została nieodpłatnie lub na zasadach preferencyjnych nabyta przez pracowników, rolników lub rybaków albo która nie stanowi rezerwy mienia Skarbu Państwa na cele reprywatyzacji,
+  - b) jedna ze spółek, zwana dalej „spółką dominującą”, posiada bezpośredni 75% udział w kapitale zakładowym lub w tej części kapitału zakładowego pozostałych spółek, zwanych dalej „spółkami zależnymi”, która na podstawie przepisów o komercjalizacji i prywatyzacji nie została nieodpłatnie lub na zasadach preferencyjnych nabyta przez pracowników, rolników lub rybaków albo która nie stanowi rezerwy mienia Skarbu Państwa na cele reprywatyzacji,
 
   - c) spółki zależne nie posiadają udziałów w kapitale zakładowym innych spółek tworzących tę grupę,
 
   - d) w spółkach tych nie występują zaległości we wpłatach podatków stanowiących dochód budżetu państwa;
 
-- 2) spółka dominująca i spółki zależne zawarły, w formie aktu notarialnego, umowę o utworzeniu, na okres co najmniej 3 lat podatkowych, podatkowej grupy kapitałowej i umowa ta, zwana dalej „umową”, została zarejestrowana przez naczelnika urzędu skarbowego;
+- 2) umowa o utworzeniu podatkowej grupy kapitałowej, zwana dalej „umową”:
+
+  - a) została zawarta przez spółkę dominującą i spółki zależne, w formie aktu notarialnego, na okres co najmniej 3 lat podatkowych,
+
+  - b) została zarejestrowana przez naczelnika urzędu skarbowego;
 
 - 3) po utworzeniu podatkowej grupy kapitałowej spółki tworzące tę grupę spełniają warunki wymienione w pkt 1 lit. a-c, a ponadto:
 
   - a) nie korzystają ze zwolnień od podatku dochodowego na podstawie odrębnych ustaw,
 
-  - b) nie pozostają w związkach powodujących zaistnienie okoliczności, o których mowa w art. 11, z podatnikami podatku dochodowego niewchodzącymi w skład podatkowej grupy kapitałowej;
+  - b) w przypadku dokonania transakcji, o których mowa w art. 9a ust. 1d, z podmiotami, o których mowa w art. 11, niewchodzącymi w skład podatkowej grupy kapitałowej, nie ustalają lub nie narzucają warunków różniących się od warunków, które ustaliłyby między sobą niezależne podmioty;
 
-- 4) podatkowa grupa kapitałowa osiągnie za każdy rok podatkowy udział dochodów w przychodach, określony zgodnie z art. 7a ust. 1, w wysokości co najmniej 3%.
+- 4) podatkowa grupa kapitałowa osiągnie za każdy rok podatkowy udział dochodów, określonych zgodnie z art. 7 ust. 1, w przychodach - w wysokości co najmniej 2%.
 
 2a. Warunek określony w ust. 2 pkt 1 lit. d uważa się za spełniony również wtedy, gdy spółka po przystąpieniu do podatkowej grupy kapitałowej dokona korekty deklaracji podatkowej i ureguluje tę zaległość wraz z należnymi odsetkami w terminie 14 dni od dnia złożenia korekty deklaracji albo w terminie 14 dni od dnia doręczenia decyzji organu pierwszej instancji, określającej wysokość zobowiązania, ureguluje tę zaległość wraz z należnymi odsetkami.
 
@@ -36,29 +40,55 @@
 
 - 3) określenie czasu trwania umowy;
 
-- 4) wskazanie spółki reprezentującej podatkową grupę kapitałową w zakresie obowiązków wynikających z ustawy oraz z przepisów Ordynacji podatkowej;
+- 4) (uchylony)
 
 - 5) określenie przyjętego roku podatkowego.
 
-4. Umowa podlega zgłoszeniu przez spółkę, wskazaną zgodnie z ust. 3 pkt 4, do właściwego według jej siedziby naczelnika urzędu skarbowego, co najmniej na 3 miesiące przed rozpoczęciem roku podatkowego przyjętego przez podatkową grupę kapitałową. Organ ten jest właściwy w sprawach opodatkowania podatkiem dochodowym podatkowej grupy kapitałowej.
+3a. Spółka dominująca reprezentuje podatkową grupę kapitałową w zakresie obowiązków wynikających z ustawy oraz z przepisów Ordynacji podatkowej.
 
-5. Naczelnik urzędu skarbowego dokonuje, w formie decyzji, rejestracji umowy. W tej samej formie naczelnik urzędu skarbowego odmówi zarejestrowania umowy, jeżeli nie zostaną spełnione warunki, o których mowa w ust. 2 pkt 1 oraz w ust. 3 i 4.
+4. Umowa podlega zgłoszeniu przez spółkę dominującą do właściwego według jej siedziby naczelnika urzędu skarbowego, co najmniej na 45 dni przed rozpoczęciem roku podatkowego przyjętego przez podatkową grupę kapitałową. Organ ten jest właściwy w sprawach opodatkowania podatkiem dochodowym podatkowej grupy kapitałowej oraz składania sprawozdań finansowych przez spółki tworzące podatkową grupę kapitałową.
 
-6. Po rejestracji umowy nie może być ona rozszerzona na inne spółki.
+5. Naczelnik urzędu skarbowego dokonuje, w formie decyzji, rejestracji umowy. W tej samej formie naczelnik urzędu skarbowego odmawia zarejestrowania umowy, jeżeli nie zostaną spełnione warunki, o których mowa w ust. 2 pkt 1 i pkt 2 lit. a oraz ust. 3 i 4. Do decyzji o rejestracji umowy oraz do decyzji o odmowie rejestracji umowy stosuje się przepisy Ordynacji podatkowej.
 
-7. Podatek dochodowy oraz zaliczki na ten podatek są obliczane, pobierane i wpłacane przez spółkę, o której mowa w ust. 3 pkt 4. Spółce tej nie przysługuje wynagrodzenie z tytułu terminowego wpłacania podatku dochodowego od osób prawnych należnego od podatkowej grupy kapitałowej.
+6. Po rejestracji umowy podatkowa grupa kapitałowa nie może być rozszerzona o inne spółki ani pomniejszona o którąkolwiek ze spółek tworzących tę grupę, z wyjątkiem przejęcia spółki tworzącej podatkową grupę kapitałową przez inną spółkę z tej podatkowej grupy kapitałowej, chyba że połączenie spółek tworzących podatkową grupę kapitałową prowadzi do zmniejszenia ich liczby poniżej dwóch.
 
-8. Spółka, o której mowa w ust. 3 pkt 4, obowiązana jest zgłosić naczelnikowi urzędu skarbowego, o którym mowa w ust. 4, wszelkie zmiany umowy oraz zmiany w kapitale zakładowym spółek tworzących podatkową grupę kapitałową - w terminie 30 dni od dnia zaistnienia tych okoliczności.
+7. Podatek dochodowy oraz zaliczki na ten podatek są obliczane, pobierane i wpłacane przez spółkę dominującą. Spółce tej nie przysługuje wynagrodzenie z tytułu terminowego wpłacania podatku dochodowego od osób prawnych należnego od podatkowej grupy kapitałowej.
+
+8. Spółka dominująca obowiązana jest zgłosić naczelnikowi urzędu skarbowego, o którym mowa w ust. 4:
+
+- 1) zmiany umowy oraz zmiany w kapitale zakładowym spółek tworzących podatkową grupę kapitałową,
+
+- 2) zmiany w stanie faktycznym lub w stanie prawnym skutkujące naruszeniem warunków uznania podatkowej grupy kapitałowej za podatnika podatku dochodowego
+
+- w terminie 30 dni od dnia zaistnienia tych okoliczności.
+
+8a. Za naruszenie warunków uznania podatkowej grupy kapitałowej za podatnika podatku dochodowego uważa się również zmniejszenie udziału spółki dominującej w kapitale spółki zależnej wchodzącej w skład podatkowej grupy kapitałowej poniżej progu określonego w ust. 2 pkt 1 lit. b.
 
 9. Do przedłużenia okresu funkcjonowania podatkowej grupy kapitałowej jest wymagane zawarcie nowej umowy, podlegającej zgłoszeniu i zarejestrowaniu przez właściwego naczelnika urzędu skarbowego.
 
-10. W razie gdy w okresie obowiązywania umowy wystąpią zmiany w stanie faktycznym lub w stanie prawnym, zależne od którejkolwiek ze stron umowy, które naruszają warunki uznania podatkowej grupy kapitałowej za podatnika podatku dochodowego, dzień naruszenia któregokolwiek z tych warunków, z zastrzeżeniem ust. 12, oznacza utratę statusu podatnika oraz koniec jej roku podatkowego.
+10. W przypadku gdy w okresie obowiązywania umowy wystąpią zmiany w stanie faktycznym lub w stanie prawnym skutkujące naruszeniem warunków uznania podatkowej grupy kapitałowej za podatnika podatku dochodowego, dzień poprzedzający dzień wystąpienia tych zmian, z zastrzeżeniem ust. 12, jest dniem, w którym następuje utrata przez podatkową grupę kapitałową statusu podatnika oraz koniec jej roku podatkowego. Dzień wystąpienia zmian, o których mowa w zdaniu pierwszym, jest pierwszym dniem roku podatkowego spółek, które przed tym dniem tworzyły podatkową grupę kapitałową. Przepis art. 8 ust. 3 zdanie drugie stosuje się odpowiednio.
+
+10a. W przypadku, o którym mowa w ust. 10, spółki tworzące uprzednio podatkową grupę kapitałową są obowiązane w terminie 3 miesięcy od dnia utraty przez podatkową grupę kapitałową statusu podatnika rozliczyć podatek dochodowy za okres od drugiego roku podatkowego poprzedzającego dzień utraty przez podatkową grupę kapitałową statusu podatnika, liczonego od początku roku podatkowego, w którym to zdarzenie wystąpiło, oraz za okres od początku roku, w którym nastąpiła utrata przez podatkową grupę kapitałową statusu podatnika, do dnia utraty przez podatkową grupę kapitałową statusu podatnika - przyjmując, że podatkowa grupa kapitałowa w tych okresach nie istniała. Rozliczenia podatku dochodowego dokonuje odrębnie każda z tych spółek, obliczając należne zaliczki na podatek dochodowy oraz należny podatek za poszczególne lata podatkowe od dochodu ustalonego zgodnie z art. 7 ust. 1-3, odpowiednio za poszczególne miesiące i lata, w których podatek był rozliczany przez spółkę dominującą.
+
+10b. Jeżeli podatkowa grupa kapitałowa funkcjonuje krócej niż trzy pełne lata podatkowe, przepis ust. 10a stosuje się do całego okresu funkcjonowania podatkowej grupy kapitałowej. W przypadku gdy okres funkcjonowania podatkowej grupy kapitałowej uległ wydłużeniu zgodnie z ust. 9, przepis ust. 10a stosuje się wyłącznie do przedłużonego okresu funkcjonowania podatkowej grupy kapitałowej.
+
+10c. W przypadku obowiązku dokonania rozliczenia, o którym mowa w ust. 10a:
+
+- 1) kwoty zaliczek i podatku za poszczególne okresy rozliczeniowe, wpłacone przez podatkową grupę kapitałową za okres, o którym mowa w ust. 10a, zalicza się, proporcjonalnie do dochodów poszczególnych spółek, na poczet ich należnych zaliczek i należnego podatku;
+
+- 2) jeżeli należne zaliczki lub należny podatek dochodowy od poszczególnych spółek, obliczone zgodnie z pkt 1, będą wyższe niż przypadające na daną spółkę zaliczki lub podatek, które zostały wpłacone przez podatkową grupę kapitałową, powstała różnica stanowi zaległość podatkową, od której pobiera się odsetki za zwłokę liczone od dnia, do którego powinna nastąpić płatność zaliczki lub podatku za poszczególne okresy rozliczeniowe.
 
 11. Zbycie udziałów (akcji), objętych na podstawie przepisów o komercjalizacji i prywatyzacji lub w związku z reprywatyzacją, oraz dalszy obrót tymi udziałami (akcjami) przez ich posiadaczy nie stanowi naruszenia warunków uznania podatkowej grupy kapitałowej za podatnika podatku dochodowego.
 
-12. W przypadku niezachowania warunku, o którym mowa w ust. 2 pkt 4, za dzień utraty statusu podatnika przez podatkową grupę kapitałową uznaje się ostatni dzień miesiąca, w którym złożono zeznanie podatkowe, nie później jednak niż dzień, na który, zgodnie z art. 27 ust. 1, przypada termin złożenia tego zeznania.
+12. W przypadku niezachowania warunku, o którym mowa w ust. 2 pkt 4, podatkowa grupa kapitałowa traci status podatnika z ostatnim dniem roku podatkowego, w którym naruszyła ten warunek, z tym że spółka dominująca jest obowiązana do złożenia zeznania, o którym mowa w art. 27 ust. 1, za ten rok podatkowy.
 
-13. Przystąpienie do innej podatkowej grupy kapitałowej przez którąkolwiek ze spółek wchodzących uprzednio w skład grupy, która utraciła ten status ze względu na naruszenie warunków, o których mowa w ust. 2 pkt 3 i 4, nie jest możliwe przed upływem roku podatkowego spółki, następującego po roku, w którym podatkowa grupa kapitałowa utraciła prawo do uznania jej za podatnika.
+12a. W przypadku utraty przez podatkową grupę kapitałową statusu podatnika na podstawie ust. 10 lub 12 naczelnik urzędu skarbowego, o którym mowa w ust. 4, wydaje decyzję stwierdzającą wygaśnięcie decyzji o rejestracji umowy, którą doręcza się spółce dominującej, ze skutkiem doręczenia wobec pozostałych spółek wchodzących uprzednio w skład tej grupy.
+
+13. Przystąpienie do innej podatkowej grupy kapitałowej przez którąkolwiek ze spółek wchodzących uprzednio w skład grupy, która utraciła ten status, może nastąpić nie wcześniej niż po upływie:
+
+- 1) roku podatkowego spółki następującego po roku kalendarzowym, w którym podatkowa grupa kapitałowa utraciła prawo do uznania jej za podatnika - w przypadku naruszenia warunku, o którym mowa w ust. 2 pkt 4;
+
+- 2) 3 lat podatkowych następujących po roku kalendarzowym, w którym podatkowa grupa kapitałowa utraciła prawo do uznania jej za podatnika - w przypadku naruszenia innych warunków funkcjonowania podatkowej grupy kapitałowej.
 
 14. Spółki tworzące podatkową grupę kapitałową odpowiadają solidarnie za jej zobowiązania z tytułu podatku dochodowego należnego za okres obowiązywania umowy.
 

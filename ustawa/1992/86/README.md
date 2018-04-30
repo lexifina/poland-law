@@ -2,5 +2,5 @@
 
 Dz.U. 1992 nr 21 poz. 86 · <https://eli.gov.pl/api/acts/DU/1992/86>
 
-Tekst jednolity: Dz.U. 2017 poz. 2343 (2017-12-15), stan na 2017-09-01.
+Tekst jednolity: Dz.U. 2018 poz. 1036 (2018-05-30), stan na 2018-04-30.
 

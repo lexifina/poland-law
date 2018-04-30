@@ -112,7 +112,7 @@
 
 - 7) opis zawartych przez podmioty tworzące grupę podmiotów powiązanych porozumień w sprawach podatku dochodowego z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, w tym jednostronnych uprzednich porozumień cenowych.
 
-2e. Obowiązek sporządzenia dokumentacji podatkowej w przypadku transakcji objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi, w okresie, którego ta decyzja dotyczy, obejmuje informacje, o których mowa w ust. 2b pkt 1 lit. b, d i e.
+2e. Przepisu ust. 1 nie stosuje się do transakcji lub innych zdarzeń objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi, w okresie, którego ta decyzja dotyczy.
 
 2f. W przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, dokumentację podatkową w zakresie elementów wymienionych w ust. 2b sporządza się nie później niż do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że opis, o którym mowa w ust. 2b pkt 3, sporządza się w terminie 10 dni od dnia zatwierdzenia sprawozdania finansowego podatnika lub spółki niebędącej osobą prawną.
 
@@ -132,13 +132,15 @@
 
 - 2) odpłatnego zbycia przez grupę producentów rolnych na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w pkt 1, oraz świadczenia usług związanych z tą produkcją.
 
-3c. Obowiązek, o którym mowa w ust. 1, nie ma zastosowania do transakcji między wstępnie uznaną grupą producentów owoców i warzyw lub uznaną organizacją producentów owoców i warzyw, działających na podstawie ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58 oraz z 2017 r. poz. 624 i 1503), a jej członkami, dotyczących:
+3c. Obowiązek, o którym mowa w ust. 1, nie ma zastosowania do transakcji między wstępnie uznaną grupą producentów owoców i warzyw lub uznaną organizacją producentów owoców i warzyw, działających na podstawie ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58, z 2017 r. poz. 624 i 1503 oraz z 2018 r. poz. 650), a jej członkami, dotyczących:
 
 - 1) odpłatnego zbycia na rzecz takiej grupy lub organizacji produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy lub organizacji;
 
 - 2) odpłatnego zbycia przez taką grupę lub organizację na rzecz jej członków, towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w pkt 1, oraz świadczenia usług związanych z tą produkcją.
 
 3d. Obowiązek sporządzenia dokumentacji podatkowej w przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, nie ma zastosowania do transakcji, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych.
+
+3e. Przepis ust. 1 stosuje się odpowiednio do transakcji lub innych zdarzeń dokonanych między spółkami tworzącymi podatkową grupę kapitałową a niewchodzącymi w skład tej grupy podmiotami powiązanymi w rozumieniu art. 11.
 
 4. Na żądanie organów podatkowych podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani do przedłożenia dokumentacji podatkowej w terminie 7 dni od dnia doręczenia tego żądania.
 

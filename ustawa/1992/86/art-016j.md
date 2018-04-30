@@ -12,7 +12,7 @@
 
 - 2) dla środków transportu, w tym samochodów osobowych - 30 miesięcy;
 
-- 3) dla budynków (lokali) i budowli, innych niż wymienione w pkt 4- 10 lat, z wyjątkiem:
+- 3) dla budynków (lokali) i budowli, innych niż wymienione w pkt 4 - 10 lat, z wyjątkiem:
 
   - a) trwale związanych z gruntem budynków handlowo-usługowych wymienionych w rodzaju 103 Klasyfikacji i innych budynków niemieszkalnych wymienionych w rodzaju 109 Klasyfikacji trwale związanych z gruntem,
 
