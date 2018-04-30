@@ -1,0 +1,1 @@
+Na podstawie art. 60 ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2018 r. poz. 512 i 685) zarządza się, co następuje:
