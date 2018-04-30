@@ -20,7 +20,7 @@ Ilekroć w niniejszym dziale jest mowa o:
 
 - 4) podmiocie kwalifikowanym - rozumie się przez to:
 
-  - a) osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej,
+  - a) osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców,
 
   - b) osobę fizyczną prowadzącą działalność zarobkową na własny rachunek, która nie jest przedsiębiorcą w rozumieniu ustawy, o której mowa w lit. a,
 
