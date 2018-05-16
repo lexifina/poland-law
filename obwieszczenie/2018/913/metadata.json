@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/913",
+ "source_sha256": "6063f911e54deead3e53cb91aa049e37f2e2538ba5ec8bae1fba73f0a0826c64",
+ "in_force": "2018-05-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/913",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/913/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/913/text/O/D20180913.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/913/text/I/D20180913.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/913/text/T/D20180913L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/913/text/U/D20180913Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/913",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 913,
+  "address": "WDU20180000913",
+  "displayAddress": "Dz.U. 2018 poz. 913",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 kwietnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządzie województwa",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-04-13",
+  "promulgation": "2018-05-16",
+  "expirationDate": "2019-03-18",
+  "changeDate": "2025-05-05T10:21:00",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "województwa",
+   "administracja samorządowa",
+   "samorząd terytorialny",
+   "prawo miejscowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1998/576"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180913.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180913.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180913L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180913Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
