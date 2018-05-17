@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/928",
+ "source_sha256": "2e5ec43681286acd9c391a847ea4b9be75bae99a97fa3593ab2c0c891bf85e2f",
+ "in_force": "2018-05-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/928",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/928/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/928/text/O/D20180928.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/928/text/I/D20180928.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/928/text/T/D20180928L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/928/text/U/D20180928Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/928",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 928,
+  "address": "WDU20180000928",
+  "displayAddress": "Dz.U. 2018 poz. 928",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 kwietnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o strażach gminnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-04-13",
+  "promulgation": "2018-05-17",
+  "expirationDate": "2019-09-20",
+  "changeDate": "2024-03-14T21:11:35",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "straż gminna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/779"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180928.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180928.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180928L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180928Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
