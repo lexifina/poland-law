@@ -8,7 +8,7 @@ Informacje i zestawienia, o których mowa w art. 119zp § 1 i art. 119zq, są ud
 
 - 3) Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Biura Ochrony Rządu i ich posiadających pisemne upoważnienie funkcjonariuszy lub żołnierzy - w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
 
-- 4) Generalnego Inspektora Ochrony Danych Osobowych - w zakresie niezbędnym do realizacji ustawowych zadań określonych w ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych;
+- 4) Prezesa Urzędu Ochrony Danych Osobowych - w zakresie niezbędnym do realizacji ustawowych zadań określonych w przepisach o ochronie danych osobowych;
 
 - 5) Szefa Centralnego Biura Antykorupcyjnego - na zasadach i w trybie określonych w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2017 r. poz. 1993 i 2405 oraz z 2018 r. poz. 138);
 
