@@ -1,0 +1,131 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/894",
+ "source_sha256": "cce817430930eac44b54968434f50d90c37be22411d2f916c5ff81a0000a5add",
+ "in_force": "2018-05-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/894",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/894/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/894/text/O/D20180894.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/894/text/I/D20180894.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/894/text/T/D20180894L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/894/text/U/D20180894Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/894",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 894,
+  "address": "WDU20180000894",
+  "displayAddress": "Dz.U. 2018 poz. 894",
+  "title": "Ustawa z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-05-09",
+  "promulgation": "2018-05-14",
+  "entryIntoForce": "2018-05-29",
+  "changeDate": "2026-06-10T11:15:45",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona danych osobowych",
+   "lotnicze prawo",
+   "transport lotniczy",
+   "lotnictwo cywilne",
+   "transport międzynarodowy"
+  ],
+  "keywordsNames": [
+   "Straż Graniczna"
+  ],
+  "directives": [
+   {
+    "address": "32016L0681",
+    "date": "2016-04-27",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/681 z dnia 27 kwietnia 2016 r. w sprawie wykorzystywania danych dotyczących przelotu pasażera (danych PNR) w celu zapobiegania przestępstwom terrorystycznym i poważnej przestępczości, ich wykrywania, prowadzenia postępowań przygotowawczych w ich sprawie i ich ścigania"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=2461",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/2461",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/2461",
+    "number": "2461",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2018/1148"
+    },
+    {
+     "id": "DU/2018/1012"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2025/1179",
+     "date": "2025-09-10"
+    },
+    {
+     "id": "DU/2022/271",
+     "date": "2022-02-05"
+    },
+    {
+     "id": "DU/2019/125",
+     "date": "2019-02-06"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1990/462",
+     "date": "2018-05-29"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2026/722"
+    },
+    {
+     "id": "DU/2022/1441"
+    },
+    {
+     "id": "DU/2019/1783"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20180894.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20180894.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20180894L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20180894Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
