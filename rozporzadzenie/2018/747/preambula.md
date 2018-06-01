@@ -1,0 +1,1 @@
+Na podstawie art. 26 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2017 r. poz. 1050 oraz z 2018 r. poz. 650) zarządza się, co następuje:
