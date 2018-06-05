@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1078",
+ "source_sha256": "61f4b90d1f28cb31d2b11c8b8c47418b2ecd2a11a21825247491095fa92f2d89",
+ "in_force": "2018-06-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 2206 words, parsed 106; at 106: 'w sprawie połączonych wniosków : 1 ) grupy posłów z'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1078",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1078/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1078/text/O/D20181078.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1078/text/I/D20181078.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1078/text/T/D20181078TK.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1078",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1078,
+  "address": "WDU20180001078",
+  "displayAddress": "Dz.U. 2018 poz. 1078",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 11 sierpnia 2016 r. sygn. akt K 39/16",
+  "type": "Orzeczenie",
+  "status": "wydane z naruszeniem prawa",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2016-08-11",
+  "promulgation": "2018-06-05",
+  "changeDate": "2024-03-14T21:17:07",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2015/1064"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2016/1157"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181078.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181078.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181078TK.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
