@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 23 października 2014 r. o ratyfikacji Protokołu między Rzecząpospolitą Polską a Królestwem Belgii zmieniającego Konwencję między Rzecząpospolitą Polską a Królestwem Belgii w sprawie unikania podwójnego opodatkowania oraz zapobiegania oszustwom podatkowym i uchylaniu się od opodatkowania w zakresie podatków od dochodu i majątku, podpisaną w Warszawie dnia 20 sierpnia 2001 r., podpisanego w Luksemburgu dnia 14 kwietnia 2014 r. (Dz. U. poz. 1870) Prezydent Rzeczypospolitej Polskiej dnia 2 marca 2015 r. ratyfikował wyżej wymieniony protokół.
+
+Zgodnie z art. XI ust. 1 protokołu wszedł on w życie dnia 2 maja 2018 r.
