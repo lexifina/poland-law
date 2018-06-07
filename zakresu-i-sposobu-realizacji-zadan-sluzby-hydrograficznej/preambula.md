@@ -1,0 +1,1 @@
+Na podstawie art. 41d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205 oraz z 2018 r. poz. 317) zarządza się, co następuje:
