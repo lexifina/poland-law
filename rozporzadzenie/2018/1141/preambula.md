@@ -1,0 +1,1 @@
+Na podstawie art. 30 ust. 6 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. poz. 708 oraz z 2018 r. poz. 138, 1000 i 1039) zarządza się, co następuje:
