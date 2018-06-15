@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1163",
+ "source_sha256": "ba7ea80b21bdf194d073bf608b071cfee49fccbd1d49635048fb694dabda4d96",
+ "in_force": "2018-06-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 323 words, parsed 79; at 79: 'powinna mieć następujące brzmienie : „ b ) klasa „'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1163",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1163/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1163/text/O/D20181163.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1163/text/I/D20181163.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1163",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1163,
+  "address": "WDU20180001163",
+  "displayAddress": "Dz.U. 2018 poz. 1163",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 15 czerwca 2018 r. o sprostowaniu błędu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-06-15",
+  "promulgation": "2018-06-15",
+  "changeDate": "2024-03-14T21:19:27",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprostowanie",
+   "statki powietrzne",
+   "klasyfikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 17 ust. 3"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/2018/1040"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181163.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181163.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
