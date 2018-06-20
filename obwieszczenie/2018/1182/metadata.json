@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1182",
+ "source_sha256": "83e1ed11a39ec49cabcecd038c9eb21cfd24aa6b362e332ec20c8cf44c1a75a0",
+ "in_force": "2018-06-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1182",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1182/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1182/text/O/D20181182.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1182/text/I/D20181182.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1182/text/T/D20181182L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1182/text/U/D20181182Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1182",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1182,
+  "address": "WDU20180001182",
+  "displayAddress": "Dz.U. 2018 poz. 1182",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach zarządzania mieniem państwowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-06-14",
+  "promulgation": "2018-06-20",
+  "expirationDate": "2019-07-12",
+  "changeDate": "2024-03-14T21:13:54",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mienie"
+  ],
+  "keywordsNames": [
+   "Skarb Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/2259"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181182.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181182.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181182L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181182Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
