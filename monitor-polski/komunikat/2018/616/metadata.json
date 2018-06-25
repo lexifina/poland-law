@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/616",
+ "source_sha256": "e01dbc734a9cd8892b6551a2c366ce6f484f9418655122135c94519cfaae8da0",
+ "in_force": "2018-06-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/616",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/616/text/O/M20180616.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/616/text/I/M20180616.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/616",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 616,
+  "address": "WMP20180000616",
+  "displayAddress": "M.P. 2018 poz. 616",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 17 maja 2018 r. w sprawie informacji finansowych partii politycznych o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach w 2017 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-05-17",
+  "promulgation": "2018-06-25",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "subwencje",
+   "finansowanie",
+   "partie polityczne",
+   "sprawozdanie finansowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/604"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/604",
+     "art": "art. 34 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180616.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180616.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
