@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 2 Aktu dotyczącego warunków przystąpienia Republiki Chorwacji oraz dostosowań w Traktacie o Unii Europejskiej, Traktacie o funkcjonowaniu Unii Europejskiej i Traktacie ustanawiającym Europejską Wspólnotę Energii Atomowej, sporządzonego w Brukseli dnia 9 grudnia 2011 r., w Brukseli dnia 18 grudnia 2013 r. został sporządzony Protokół do Układu o stabilizacji i stowarzyszeniu pomiędzy Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Republiką Czarnogóry, z drugiej strony, w celu uwzględnienia przystąpienia Republiki Chorwacji do Unii Europejskiej.
+
+Zgodnie z art. 12 ust. 1 protokołu wszedł on w życie dnia 1 grudnia 2014 r.
+
+Zgodnie z art. 6 ust. 3 aktu Republika Chorwacji dnia 1 grudnia 2014 r. stała się stroną Układu o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Republiką Czarnogóry, z drugiej strony, sporządzonego w Luksemburgu dnia 15 października 2007 r.
