@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1235",
+ "source_sha256": "493d88da5b324f1a5ce41f5e0b9915a64e30f831dac506924ab5c13d85c01cd1",
+ "in_force": "2018-06-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1235",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1235/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1235/text/O/D20181235.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1235/text/I/D20181235.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1235/text/T/D20181235L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1235",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1235,
+  "address": "WDU20180001235",
+  "displayAddress": "Dz.U. 2018 poz. 1235",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-06-14",
+  "promulgation": "2018-06-26",
+  "changeDate": "2024-03-14T21:12:41",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "parki narodowe",
+   "ochrona środowiska",
+   "wody morskie",
+   "lasy",
+   "własność",
+   "wody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1051"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181235.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181235.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181235L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
