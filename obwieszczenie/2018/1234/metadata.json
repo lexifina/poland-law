@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1234",
+ "source_sha256": "df904413e2291a624e125d13c6f4b0d125649a987413cd45bfd57a448130c25e",
+ "in_force": "2018-06-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1234",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1234/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1234/text/O/D20181234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1234/text/I/D20181234.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1234/text/T/D20181234L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1234/text/U/D20181234Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1234",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1234,
+  "address": "WDU20180001234",
+  "displayAddress": "Dz.U. 2018 poz. 1234",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-06-07",
+  "promulgation": "2018-06-26",
+  "expirationDate": "2019-06-05",
+  "changeDate": "2024-03-14T21:12:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "kodeks cywilny",
+   "ochrona",
+   "lokalowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/733"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181234.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181234L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181234Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
