@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/631",
+ "source_sha256": "8bf9faea88c0acf312d2edc6a634897591588dced49fbace10c91d80ecc85979",
+ "in_force": "2018-06-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/631",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/631/text/O/M20180631.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/631/text/I/M20180631.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/631",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 631,
+  "address": "WMP20180000631",
+  "displayAddress": "M.P. 2018 poz. 631",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 19 czerwca 2018 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-06-19",
+  "promulgation": "2018-06-27",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180631.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180631.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
