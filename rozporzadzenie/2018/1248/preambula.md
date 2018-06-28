@@ -1,0 +1,1 @@
+Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) w związku z art. 2 ust. 6 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. z 2016 r. poz. 286 oraz z 2018 r. poz. 1089) zarządza się, co następuje:
