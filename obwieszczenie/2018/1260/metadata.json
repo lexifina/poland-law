@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1260",
+ "source_sha256": "35a4abe077484f4d05cef58f0dd6b8c0e7bf0a9c2ddc8bc00c2e8392da51a019",
+ "in_force": "2018-06-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1260",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1260/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1260/text/O/D20181260.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1260/text/I/D20181260.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1260/text/T/D20181260L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1260/text/U/D20181260Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1260",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1260,
+  "address": "WDU20180001260",
+  "displayAddress": "Dz.U. 2018 poz. 1260",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach samorządowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-06-07",
+  "promulgation": "2018-06-28",
+  "expirationDate": "2019-06-12",
+  "changeDate": "2024-03-14T21:20:38",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pracownicy samorządowi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1458"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181260.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181260.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181260L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181260Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
