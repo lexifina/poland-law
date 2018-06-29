@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/633",
+ "source_sha256": "db70d0a2fbebf030b99f733022fc9d7af5a58e1597133a4377ba6d0ec067ffa1",
+ "in_force": "2018-06-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/633",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/633/text/O/M20180633.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/633/text/I/M20180633.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/633",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 633,
+  "address": "WMP20180000633",
+  "displayAddress": "M.P. 2018 poz. 633",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 24 maja 2018 r. nr 127.1.2018 o wolnych stanowiskach sędziego w Sądzie Najwyższym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-05-24",
+  "promulgation": "2018-06-29",
+  "changeDate": "2019-03-25T11:56:34",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 31 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180633.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180633.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
