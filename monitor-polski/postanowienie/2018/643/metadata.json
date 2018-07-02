@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/643",
+ "source_sha256": "dcdcee292d11027d9339819b0b2b92936300bd0ee3b0a4156f1f6fbc0fd02b9f",
+ "in_force": "2018-07-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/643",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/643/text/O/M20180643.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/643/text/I/M20180643.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/643",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 643,
+  "address": "WMP20180000643",
+  "displayAddress": "M.P. 2018 poz. 643",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 czerwca 2018 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 7 z siedzibą Okręgowej Komisji Wyborczej w Chełmie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-06-29",
+  "promulgation": "2018-07-02",
+  "changeDate": "2018-07-05T13:38:48",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180643.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180643.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
