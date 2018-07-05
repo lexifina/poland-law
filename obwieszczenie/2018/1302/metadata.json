@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1302",
+ "source_sha256": "8b148f7836208aae3ff69d734a20284bbec2625929ab41f0319c12f077e8f7f0",
+ "in_force": "2018-07-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1302",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1302/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1302/text/O/D20181302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1302/text/I/D20181302.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1302/text/T/D20181302L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1302/text/U/D20181302Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1302",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1302,
+  "address": "WDU20180001302",
+  "displayAddress": "Dz.U. 2018 poz. 1302",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o postępowaniu przed sądami administracyjnymi",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-06-07",
+  "promulgation": "2018-07-05",
+  "expirationDate": "2019-11-28",
+  "changeDate": "2024-03-14T21:14:21",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "administracyjne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1270"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181302.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181302L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181302Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
