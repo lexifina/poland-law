@@ -1,0 +1,1 @@
+Na podstawie art. 17 ust. 2b pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2017 r. poz. 2212 oraz z 2018 r. poz. 650 i 664) zarządza się, co następuje:
