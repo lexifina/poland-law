@@ -1,0 +1,1 @@
+Na podstawie art. 42 ust. 12 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2017 r. poz. 1453, 2203 i 2260 oraz z 2018 r. poz. 317) zarządza się, co następuje:
