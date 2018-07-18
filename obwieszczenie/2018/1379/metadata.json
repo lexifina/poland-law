@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1379",
+ "source_sha256": "5117d2b1fe2303e2a94e199e739c2feec9fb492b3149608f8c184e145c1c9b65",
+ "in_force": "2018-07-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1379",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1379/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1379/text/O/D20181379.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1379/text/I/D20181379.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1379/text/T/D20181379L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1379/text/U/D20181379Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1379",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1379,
+  "address": "WDU20180001379",
+  "displayAddress": "Dz.U. 2018 poz. 1379",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Krzyża Zachodniego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-07-05",
+  "promulgation": "2018-07-18",
+  "expirationDate": "2019-06-03",
+  "changeDate": "2024-03-14T21:12:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2017/973"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181379.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181379.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181379L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181379Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
