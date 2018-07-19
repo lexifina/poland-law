@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047, z późn. zm.), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 22g ust. 3;
 
@@ -10,7 +10,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 4) zorganizowanej części przedsiębiorstwa - oznacza to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
 
-- 5) Ordynacji podatkowej - oznacza to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.);
+- 5) Ordynacji podatkowej - oznacza to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.);
 
 - 6) działalności gospodarczej albo pozarolniczej działalności gospodarczej - oznacza to działalność zarobkową:
 
@@ -22,7 +22,7 @@ Ilekroć w ustawie jest mowa o:
 
   - prowadzoną we własnym imieniu bez względu na jej rezultat, w sposób zorganizowany i ciągły, z której uzyskane przychody nie są zaliczane do innych przychodów ze źródeł wymienionych w art. 10 ust. 1 pkt 1, 2 i 4-9;
 
-- 7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2016 r. poz. 2046 i 1948 oraz z 2017 r. poz. 777, 935 i 1428);
+- 7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, 1000 i 1076);
 
 - 8) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego odpowiednio właściwy dla podatnika lub płatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
@@ -30,19 +30,19 @@ Ilekroć w ustawie jest mowa o:
 
 - 10) (uchylony)
 
-- 11) papierach wartościowych - oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768);
+- 11) papierach wartościowych - oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.);
 
 - 12) dyskoncie - oznacza to różnicę między kwotą uzyskaną z wykupu papieru wartościowego przez emitenta a wydatkami poniesionymi na nabycie papieru wartościowego na rynku pierwotnym lub wtórnym, a w przypadku nabycia papieru wartościowego w drodze spadku lub darowizny - różnicę między kwotą uzyskaną z wykupu a wydatkami poniesionymi przez spadkodawcę lub darczyńcę na nabycie tego papieru wartościowego;
 
-- 13) pochodnych instrumentach finansowych - oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyłączeniem tytułów uczestnictwa w instytucjach wspólnego inwestowania oraz instrumentów rynku pieniężnego;
+- 13) pochodnych instrumentach finansowych - oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c-i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
 - 14) funduszach kapitałowych - oznacza to fundusze inwestycyjne oraz fundusze zagraniczne, o których mowa w przepisach o funduszach inwestycyjnych, oraz ubezpieczeniowe fundusze kapitałowe działające na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej, z wyjątkiem funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
 
-- 15) ustawie o zryczałtowanym podatku dochodowym - oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157 i 2175);
+- 15) ustawie o zryczałtowanym podatku dochodowym - oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157 i 2175 oraz z 2018 r. poz. 650 i 1291);
 
-- 16) ustawie o działalności pożytku publicznego - oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948 oraz z 2017 r. poz. 60, 573 i 1909);
+- 16) ustawie o działalności pożytku publicznego - oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650, 723 i 1365);
 
-- 17) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221);
+- 17) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62, 86 i 650);
 
 - 18) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834);
 
@@ -72,7 +72,9 @@ Ilekroć w ustawie jest mowa o:
 
   - chyba że umowa o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, stanowi inaczej;
 
-- 23) ustawie o emeryturach kapitałowych - oznacza to ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2014 r. poz. 1097 oraz z 2017 r. poz. 38);
+- 23) ustawie o emeryturach kapitałowych - oznacza to ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
+
+- 23a) umowie o pomocy przy zbiorach - oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2017 r. poz. 2336 oraz z 2018 r. poz. 650 i 858);
 
 - 24) PKWiU - oznacza to Polską Klasyfikację Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753);
 
@@ -93,6 +95,8 @@ Ilekroć w ustawie jest mowa o:
   - d) spółkę niemającą osobowości prawnej mającą siedzibę lub zarząd w innym państwie, jeżeli zgodnie z przepisami prawa podatkowego tego innego państwa jest traktowana jak osoba prawna i podlega w tym państwie opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania;
 
 - 29) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w pkt 28 lit. c i d;
+
+- 29a) wartości emisyjnej udziałów (akcji) - oznacza to cenę, po jakiej obejmowane są udziały (akcje), określoną w statucie lub umowie spółki, a w razie ich braku - w innym dokumencie o podobnym charakterze, nie niższą od wartości rynkowej tych udziałów (akcji);
 
 - 30) kapitale zakładowym - oznacza to również kapitał podstawowy spółki, o której mowa w pkt 28 lit. c i d;
 
@@ -116,7 +120,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 36) krótkiej sprzedaży - oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
 
-- 37) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508);
+- 37) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149 i 398);
 
 - 38) działalności badawczo-rozwojowej - oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
 
@@ -134,4 +138,6 @@ Ilekroć w ustawie jest mowa o:
 
   - b) opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna;
 
-- 41) przepisach o systemie oświaty - oznacza to przepisy ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2017 r. poz. 59, 949 i 2203) lub przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2017 r. poz. 2198 i 2203).
+- 41) przepisach o systemie oświaty - oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2017 r. poz. 2198, 2203 i 2361), przepisy ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000 i 1290) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203).
+
+- 42) ustawie o CEIDG - oznacza to ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647).

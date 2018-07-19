@@ -32,7 +32,7 @@
 
 - 11) od dochodu uczestnika pracowniczego programu emerytalnego z tytułu zwrotu środków zgromadzonych w ramach programu, w rozumieniu przepisów o pracowniczych programach emerytalnych;
 
-- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120).
+- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270).
 
 2. Przepisy ust. 1 pkt 1-5 stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 

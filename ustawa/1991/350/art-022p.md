@@ -1,8 +1,8 @@
 # Art. 22p.
 
-1. Podatnicy prowadzący pozarolniczą działalność gospodarczą nie zaliczają do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168) została dokonana bez pośrednictwa rachunku płatniczego.
+1. Podatnicy prowadzący pozarolniczą działalność gospodarczą nie zaliczają do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców została dokonana bez pośrednictwa rachunku płatniczego.
 
-2. W przypadku zaliczenia do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej została dokonana bez pośrednictwa rachunku płatniczego, podatnicy prowadzący pozarolniczą działalność gospodarczą:
+2. W przypadku zaliczenia do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców została dokonana bez pośrednictwa rachunku płatniczego, podatnicy prowadzący pozarolniczą działalność gospodarczą:
 
 - 1) zmniejszają koszty uzyskania przychodów albo
 

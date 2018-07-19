@@ -1,6 +1,6 @@
 # Art. 22b.
 
-1. Amortyzacji podlegają, z zastrzeżeniem art. 22c, nabyte nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
+1. Amortyzacji podlegają, z zastrzeżeniem art. 22c, nabyte od innego podmiotu, nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
 
 - 1) spółdzielcze własnościowe prawo do lokalu mieszkalnego,
 

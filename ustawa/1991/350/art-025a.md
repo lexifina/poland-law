@@ -106,7 +106,7 @@
 
 - 7) opis zawartych przez podmioty tworzące grupę podmiotów powiązanych porozumień w sprawach podatku dochodowego z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, w tym jednostronnych uprzednich porozumień cenowych.
 
-2e. Obowiązek sporządzenia dokumentacji podatkowej w przypadku transakcji objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi w okresie, którego ta decyzja dotyczy, obejmuje informacje, o których mowa w ust. 2b pkt 1 lit. b, d i e.
+2e. Przepisu ust. 1 nie stosuje się do transakcji lub innych zdarzeń objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi, w okresie, którego ta decyzja dotyczy.
 
 2f. W przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, dokumentację podatkową w zakresie elementów wymienionych w ust. 2b sporządza się nie później niż do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że opis, o którym mowa w ust. 2b pkt 3, sporządza się w terminie 10 dni od dnia zatwierdzenia sprawozdania finansowego podatnika lub spółki niebędącej osobą prawną.
 

@@ -28,15 +28,15 @@
 
   - b) otrzymanych w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem z takiej spółki.
 
-3a. Podatnicy, którzy rozpoczynają prowadzenie działalności gospodarczej albo w poprzednim roku podatkowym byli opodatkowani na podstawie ustawy o zryczałtowanym podatku dochodowym lub prowadzili księgi rachunkowe, są obowiązani zawiadomić w formie pisemnej naczelnika urzędu skarbowego właściwego według miejsca zamieszkania podatnika o prowadzeniu księgi w terminie 20 dni od dnia jej założenia. Jeżeli działalność jest prowadzona w formie spółki cywilnej osób fizycznych, spółki jawnej osób fizycznych lub spółki partnerskiej, zawiadomienie składają wszyscy wspólnicy naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania każdego z nich.
+3a. (uchylony)
 
-3b. Jeżeli na zlecenie podatnika prowadzenie księgi zostało powierzone biuru rachunkowemu, podatnik jest obowiązany w terminie 7 dni od dnia zawarcia umowy z biurem rachunkowym zawiadomić o tym naczelnika urzędu skarbowego, któremu zostało złożone zawiadomienie o prowadzeniu księgi, wskazując nazwę i adres biura, miejsce (adres) prowadzenia oraz przechowywania księgi i dowodów związanych z jej prowadzeniem. Jeżeli działalność gospodarcza jest prowadzona w formie spółki cywilnej osób fizycznych, spółki jawnej osób fizycznych lub spółki partnerskiej, zawiadomienie składają wszyscy wspólnicy naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania każdego z nich.
+3b. (uchylony)
 
-3c. Zawiadomienie o prowadzeniu księgi oraz zawiadomienie o zawarciu z biurem rachunkowym umowy o prowadzenie księgi mogą być złożone na podstawie przepisów o swobodzie działalności gospodarczej.
+3c. (uchylony)
 
 4. Obowiązek prowadzenia ksiąg rachunkowych dotyczy osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych oraz spółek partnerskich, jeżeli ich przychody, w rozumieniu art. 14, za poprzedni rok podatkowy wyniosły w walucie polskiej co najmniej równowartość kwoty określonej w euro w przepisach o rachunkowości.
 
-5. Osoba fizyczna, spółka cywilna osób fizycznych, spółka jawna osób fizycznych lub spółka partnerska może prowadzić księgi rachunkowe również od początku następnego roku podatkowego, jeżeli przychody, w rozumieniu art. 14, za poprzedni rok podatkowy są niższe niż równowartość w walucie polskiej kwoty określonej w euro w przepisach o rachunkowości. W tym przypadku osoba ta lub wspólnicy spółki przed rozpoczęciem roku podatkowego są obowiązani do zawiadomienia o tym naczelnika urzędu skarbowego właściwego w sprawach opodatkowania podatkiem dochodowym. Zawiadomienie o prowadzeniu ksiąg rachunkowych może być złożone na podstawie przepisów o swobodzie działalności gospodarczej.
+5. Osoba fizyczna, spółka cywilna osób fizycznych, spółka jawna osób fizycznych lub spółka partnerska może prowadzić księgi rachunkowe również od początku następnego roku podatkowego, jeżeli przychody, w rozumieniu art. 14, za poprzedni rok podatkowy są niższe niż równowartość w walucie polskiej kwoty określonej w euro w przepisach o rachunkowości. W tym przypadku osoba ta lub wspólnicy spółki przed rozpoczęciem roku podatkowego są obowiązani do zawiadomienia o tym naczelnika urzędu skarbowego właściwego w sprawach opodatkowania podatkiem dochodowym. Zawiadomienie o prowadzeniu ksiąg rachunkowych może być złożone na podstawie przepisów ustawy o CEIDG.
 
 6. Wyrażone w euro wielkości, o których mowa w ust. 4 i 5, przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.
 
