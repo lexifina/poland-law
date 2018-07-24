@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1422",
+ "source_sha256": "753a1580f4320f469fd6adebb51fd55e48384b0b6430e219c7a4d6cb6b2f4a65",
+ "in_force": "2018-07-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1422",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1422/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1422/text/O/D20181422.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1422/text/I/D20181422.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1422/text/T/D20181422L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1422/text/U/D20181422Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1422",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1422,
+  "address": "WDU20180001422",
+  "displayAddress": "Dz.U. 2018 poz. 1422",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o statusie sędziów Trybunału Konstytucyjnego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-07-05",
+  "promulgation": "2018-07-24",
+  "changeDate": "2026-04-17T10:56:29",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "status"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/2073"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181422.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181422.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181422L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181422Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
