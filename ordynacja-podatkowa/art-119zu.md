@@ -1,10 +1,12 @@
 # Art. 119zu.
 
-§ 1. W celu ustalenia wskaźnika ryzyka izba rozliczeniowa przetwarza dane:
+§ 1. W celu ustalenia wskaźnika ryzyka izba rozliczeniowa przetwarza:
 
-- 1) przekazane na podstawie art. 119zp § 1;
+- 1) dane przekazane na podstawie art. 119zp § 1;
 
-- 2) udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869 i 2491 oraz z 2018 r. poz. 106).
+- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869 i 2491 oraz z 2018 r. poz. 106, 650 i 771);
+
+- 3) informacje dostępne publicznie.
 
 § 2. Do przetwarzania danych, o których mowa w art. 119zp § 1 oraz art. 119zq, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, z tym że dane te mogą być przetwarzane w STIR bez wiedzy i zgody osoby, której dane te dotyczą.
 
