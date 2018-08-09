@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1530",
+ "source_sha256": "5be3846152f4746ff29c08d7894a6eb4875dbf9b8b54440f0a4ee0c0e401f4fc",
+ "in_force": "2018-08-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1530",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1530/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1530/text/O/D20181530.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1530/text/I/D20181530.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1530/text/T/D20181530L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1530/text/U/D20181530Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1530",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1530,
+  "address": "WDU20180001530",
+  "displayAddress": "Dz.U. 2018 poz. 1530",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dochodach jednostek samorządu terytorialnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-07-05",
+  "promulgation": "2018-08-09",
+  "expirationDate": "2020-01-08",
+  "changeDate": "2024-03-14T21:15:48",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samorząd terytorialny",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1966"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181530.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181530.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181530L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181530Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
