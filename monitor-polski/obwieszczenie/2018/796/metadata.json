@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/796",
+ "source_sha256": "30e5559b60732bcaf8da1a6b080b039e1e62956a7b106b9cd3ba8476b0a1e446",
+ "in_force": "2018-08-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/796",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/796/text/O/M20180796.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/796/text/I/M20180796.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/796",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 796,
+  "address": "WMP20180000796",
+  "displayAddress": "M.P. 2018 poz. 796",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 25 lipca 2018 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-07-25",
+  "promulgation": "2018-08-17",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "jednostki budżetowe"
+  ],
+  "keywordsNames": [
+   "Min. Obrony Narodowej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180796.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180796.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
