@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/805",
+ "source_sha256": "85b1528421f1f55062d90f743623738e48513d73188b39d2ad16b36f98d00d7c",
+ "in_force": "2018-08-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/805",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/805/text/O/M20180805.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/805/text/I/M20180805.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/805",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 805,
+  "address": "WMP20180000805",
+  "displayAddress": "M.P. 2018 poz. 805",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Miar z dnia 30 lipca 2018 r. w sprawie wykazu dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML)",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-07-30",
+  "promulgation": "2018-08-21",
+  "changeDate": "2019-03-25T11:58:11",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU MIAR"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "normalizacja",
+   "normy"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32014L0032",
+    "date": "2014-02-26",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady 2014/32/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku przyrządów pomiarowych (wersja przekształcona)  Tekst mający znaczenie dla EOG"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2016/542"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2016/542",
+     "art": "art. 10 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180805.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180805.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
