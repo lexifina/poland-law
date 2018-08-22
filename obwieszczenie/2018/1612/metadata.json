@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1612",
+ "source_sha256": "1495b7510d89d4cab86a259b3ea88b22dd66ea773d2f4b5e6de1fb3c8bcb27cf",
+ "in_force": "2018-08-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1612",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1612/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1612/text/O/D20181612.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1612/text/I/D20181612.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1612",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1612,
+  "address": "WDU20180001612",
+  "displayAddress": "Dz.U. 2018 poz. 1612",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 12 lipca 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-07-12",
+  "promulgation": "2018-08-22",
+  "expirationDate": "2021-03-16",
+  "changeDate": "2024-03-14T21:09:33",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/161"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181612.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181612.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
