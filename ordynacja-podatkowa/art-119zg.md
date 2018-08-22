@@ -18,6 +18,8 @@ Ilekroć w niniejszym dziale jest mowa o:
 
 - 3) izbie rozliczeniowej - rozumie się przez to izbę rozliczeniową, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, która w roku kalendarzowym poprzedzającym o 2 lata rok kalendarzowy, w którym będą wykonywane obowiązki określone w niniejszym dziale, rozliczyła największą liczbę poleceń przelewu w złotych ze wszystkich izb rozliczeniowych działających na podstawie tego przepisu;
 
+- 3a) pełnomocniku do rachunku podmiotu kwalifikowanego - rozumie się przez to osobę umocowaną do składania dyspozycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm.) wydanej do rachunku podmiotu kwalifikowanego;
+
 - 4) podmiocie kwalifikowanym - rozumie się przez to:
 
   - a) osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców,
@@ -28,15 +30,15 @@ Ilekroć w niniejszym dziale jest mowa o:
 
   - d) jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną;
 
-- 5) rachunku podmiotu kwalifikowanego - rozumie się przez to rachunek rozliczeniowy, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, podmiotu kwalifikowanego oraz rachunek członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym;
+- 5) rachunku podmiotu kwalifikowanego - rozumie się przez to:
 
-- 6) STIR - rozumie się przez to system teleinformatyczny izby rozliczeniowej spełniający minimalne wymagania dla systemów teleinformatycznych określone w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, służący do:
+  - a) rachunek rozliczeniowy, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, podmiotu kwalifikowanego,
 
-  - a) odbioru i przetwarzania danych w celu ustalenia wskaźnika ryzyka,
+  - c) rachunek członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym,
 
-  - b) przekazywania danych i informacji o wskaźniku ryzyka do Centralnego Rejestru Danych Podatkowych oraz do systemów teleinformatycznych banków i spółdzielczych kas oszczędnościowo-kredytowych,
+  - d) rachunek VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzony dla rachunku, o którym mowa w lit. a albo c;
 
-  - c) pośredniczenia w przekazywaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi;
+- 6) STIR - rozumie się przez to system teleinformatyczny izby rozliczeniowej spełniający minimalne wymagania dla systemów teleinformatycznych określone w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
 
 - 7) transakcji - rozumie się przez to uznanie lub obciążenie rachunku podmiotu kwalifikowanego na podstawie dyspozycji jego posiadacza lub osób trzecich;
 

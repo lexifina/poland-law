@@ -1,12 +1,16 @@
 # Art. 119zo.
 
-§ 1. Izba rozliczeniowa przekazuje informacje o wskaźniku ryzyka niezwłocznie po jego ustaleniu, nie rzadziej niż raz dziennie, wyłącznie:
+§ 1. Izba rozliczeniowa przekazuje informacje o wskaźniku ryzyka wyłącznie:
 
-- 1) Szefowi Krajowej Administracji Skarbowej,
+- 1) Szefowi Krajowej Administracji Skarbowej;
 
-- 2) bankom i spółdzielczym kasom oszczędnościowo-kredytowym - w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez te banki i spółdzielcze kasy oszczędnościowo-kredytowe oraz w przypadku, o którym mowa w § 3
+- 2) bankowi i spółdzielczej kasie oszczędnościowo-kredytowej - w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez:
 
-- chyba że wskaźnik ryzyka i istotność wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu nie uległy zmianie.
+  - a) ten bank albo tę spółdzielczą kasę oszczędnościowo-kredytową,
+
+  - b) inne banki i spółdzielcze kasy oszczędnościowo-kredytowe - w przypadku otwierania pierwszego rachunku dla podmiotu kwalifikowanego przez ten bank albo tę spółdzielczą kasę oszczędnościowo-kredytową.
+
+§ 1a. W przypadku, o którym mowa w § 1 pkt 1 i pkt 2 lit. a, informacja o wskaźniku ryzyka jest przekazywana niezwłocznie po jego ustaleniu, nie rzadziej niż raz dziennie, chyba że wskaźnik ryzyka i istotność wpływu na ten wskaźnik poszczególnych kryteriów uwzględnianych przy jego ustalaniu nie uległy zmianie.
 
 § 2. Informacja o wskaźniku ryzyka zawiera:
 
@@ -16,7 +20,7 @@
 
 - 3) wskaźnik ryzyka i wskazanie istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu.
 
-§ 3. W przypadku otwierania rachunku podmiotu kwalifikowanego bank lub spółdzielcza kasa oszczędnościowo-kredytowa występuje do izby rozliczeniowej o przekazanie informacji o wskaźniku ryzyka w zakresie rachunków podmiotu kwalifikowanego prowadzonych przez inne banki i spółdzielcze kasy oszczędnościowo-kredytowe, z wyłączeniem wskazania istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu, w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez inne banki i spółdzielcze kasy oszczędnościowo-kredytowe.
+§ 3. W przypadku, o którym mowa w § 1 pkt 2 lit. b, informacja o wskaźniku ryzyka jest przekazywana na wniosek banku albo spółdzielczej kasy oszczędnościowo-kredytowej zawierający co najmniej jeden z numerów, o których mowa w art. 119zr § 1 pkt 4 lit. b i c, niezwłocznie po otrzymaniu wniosku. Informacja o wskaźniku ryzyka nie zawiera wskazania istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu.
 
 § 4. Banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą wykorzystywać informacje o wskaźniku ryzyka wyłącznie w celu wykonywania uprawnień lub obowiązków, o których mowa w:
 
