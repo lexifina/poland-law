@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/815",
+ "source_sha256": "389ae6ec8440aa2a146f8d5795ee422ba91738d0a384c4faff8a08d14568d54d",
+ "in_force": "2018-08-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/815",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/815/text/O/M20180815.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/815/text/I/M20180815.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/815",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 815,
+  "address": "WMP20180000815",
+  "displayAddress": "M.P. 2018 poz. 815",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 13 lipca 2018 r. nr 112.39.2018 o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-07-13",
+  "promulgation": "2018-08-22",
+  "changeDate": "2018-08-24T13:45:53",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180815.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180815.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
