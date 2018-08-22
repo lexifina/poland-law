@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 4 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952, z późn. zm.) oraz art. 10 ust. 3 ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2017 r. poz. 2092) zarządza się, co następuje:
