@@ -1,0 +1,98 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1546",
+ "source_sha256": "3bf22f59cff988fb84e8a55bf6513d5fd9578ffe49c5bd23267be850cb81d561",
+ "in_force": "2018-08-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1546",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1546/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1546/text/O/D20181546.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1546/text/I/D20181546.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1546/text/T/D20181546L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1546/text/U/D20181546Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1546",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1546,
+  "address": "WDU20180001546",
+  "displayAddress": "Dz.U. 2018 poz. 1546",
+  "title": "Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-06-15",
+  "promulgation": "2018-08-10",
+  "entryIntoForce": "2018-08-25",
+  "changeDate": "2024-03-14T21:18:16",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "PREZYDENT RZECZYPOSPOLITEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=2555",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/2555",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/2555",
+    "number": "2555",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2018/1741"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2019/1491",
+     "date": "2019-08-23"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2020/865"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181546.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181546.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181546L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181546Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
