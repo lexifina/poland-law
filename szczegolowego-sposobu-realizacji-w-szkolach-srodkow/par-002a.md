@@ -1,0 +1,3 @@
+# § 2a.
+
+Środki towarzyszące o charakterze edukacyjnym wymienione w § 1 ust. 2 mogą być realizowane przez wnioskodawców, o których mowa w art. 5 ust. 2 lit. d i e rozporządzenia delegowanego Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającego rozporządzenie delegowane Komisji (UE) nr 907/2014 (Dz. Urz. UE L 5 z 10.01.2017, str. 11), spełniających warunki określone w art. 6 tego rozporządzenia.
