@@ -28,4 +28,14 @@
 
 § 4. W przypadku pomocy publicznej określonej w § 3 pkt 3 lit. a i b ulgi, o których mowa w § 3 pkt 2, mogą być udzielane, jeżeli w przepisach odrębnych zostały określone szczegółowe warunki udzielania tej pomocy, zapewniające jej zgodność z zasadami rynku wewnętrznego Unii Europejskiej.
 
-§ 5. Rada Ministrów określi, w drodze rozporządzenia, przeznaczenie pomocy, o której mowa w § 3 pkt 3 lit. c, udzielanej w formie ulg w wykonaniu administracyjnej kary pieniężnej oraz szczegółowe warunki udzielania tych ulg, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
+§ 4a. Do pomocy publicznej, o której mowa w § 3 pkt 3 lit. c, przeznaczonej na restrukturyzację, stosuje się:
+
+- 1) w zakresie warunków udzielania tej pomocy:
+
+  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149, 398, 1544 i 1629),
+
+  - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy wykonawcze wydane na podstawie art. 139a ust. 4 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne;
+
+- 2) w zakresie trybu udzielania tej pomocy - przepisy wykonawcze wydane na podstawie art. 139a ust. 4 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne.
+
+§ 5. Rada Ministrów może określić, w drodze rozporządzenia, inne niż restrukturyzacja przeznaczenie pomocy, o której mowa w § 3 pkt 3 lit. c, udzielanej w formie ulg w wykonaniu administracyjnej kary pieniężnej oraz warunki i tryb udzielania tych ulg, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
