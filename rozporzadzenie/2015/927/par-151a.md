@@ -1,0 +1,3 @@
+# § 151a.
+
+Powiadomienie realizowane w trybie art. 11 ust. 1 pkt 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym (Dz. U. z 2020 r. poz. 152) zawierające informacje o faktycznym adresie pobytu, pod którym osadzony będzie przebywał po opuszczeniu jednostki penitencjarnej, przekazuje się niezwłocznie telefaksem, telefonicznie lub pocztą elektroniczną oraz przesyłką poleconą bez potwierdzenia odbioru, do jednostki organizacyjnej Policji właściwej ze względu na miejsce tego pobytu. Dokument potwierdzający dokonanie przez osadzonego zgłoszenia, o którym mowa w zdaniu pierwszym, włącza się do akt ewidencyjnych.
