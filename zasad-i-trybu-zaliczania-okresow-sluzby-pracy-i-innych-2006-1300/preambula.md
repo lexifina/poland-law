@@ -1,0 +1,1 @@
+Na podstawie art. 76 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1516 i 1669) zarządza się, co następuje:
