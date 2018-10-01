@@ -23,3 +23,5 @@
   - c) w § 1 pkt 3 - niezwłocznie, nie później jednak niż do godziny 18⁰⁰ dnia następującego po dniu otwarcia rachunku;
 
 - 2) zestawienia, o których mowa w § 1 pkt 2, niezwłocznie, nie później jednak niż do końca dnia następującego po dniu dokonania transakcji.
+
+§ 3. W przypadku stwierdzenia przez izbę rozliczeniową rozbieżności pomiędzy numerami, o których mowa w art. 119zr § 1 pkt 4 lit. b i c, a danymi, o których mowa w art. 119zu § 1 pkt 2, izba rozliczeniowa przekazuje bankowi albo spółdzielczej kasie oszczędnościowo-kredytowej informację o stwierdzonej rozbieżności, wskazując dane, których dotyczy rozbieżność.
