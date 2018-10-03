@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/930",
+ "source_sha256": "991abf85975d877b3bb39d1c7499aebd7bce7339ff177195e1b9f7331a65eb12",
+ "in_force": "2018-10-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/930",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/930/text/O/M20180930.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/930/text/I/M20180930.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/930",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 930,
+  "address": "WMP20180000930",
+  "displayAddress": "M.P. 2018 poz. 930",
+  "title": "Komunikat Prezesa Narodowego Funduszu Zdrowia z dnia 20 września 2018 r. w sprawie ogłoszenia sprawozdania finansowego Narodowego Funduszu Zdrowia za 2017 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-09-20",
+  "promulgation": "2018-10-03",
+  "changeDate": "2019-03-07T14:40:39",
+  "releasedBy": [
+   "PREZ. NARODOWEGO FUNDUSZU ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sprawozdanie finansowe"
+  ],
+  "keywordsNames": [
+   "Narodowy Fundusz Zdrowia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/2135"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/2135",
+     "art": "art. 104 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20180930.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20180930.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
