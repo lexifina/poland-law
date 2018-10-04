@@ -1,0 +1,1 @@
+Na podstawie art. 37 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2017 r. poz. 2225 oraz z 2018 r. poz. 138 i 730) zarządza się, co następuje:
