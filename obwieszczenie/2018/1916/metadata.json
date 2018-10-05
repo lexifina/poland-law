@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1916",
+ "source_sha256": "ab88db957be130b07df4df801297ff7f2938387e71d06366cc7cce35e74baf93",
+ "in_force": "2018-10-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1916",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1916/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1916/text/O/D20181916.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1916/text/I/D20181916.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1916/text/T/D20181916L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1916/text/U/D20181916Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1916",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1916,
+  "address": "WDU20180001916",
+  "displayAddress": "Dz.U. 2018 poz. 1916",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 września 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o księgach wieczystych i hipotece",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-09-14",
+  "promulgation": "2018-10-05",
+  "expirationDate": "2019-11-14",
+  "changeDate": "2024-03-14T21:08:17",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/147"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181916.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181916.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181916L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181916Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
