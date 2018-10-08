@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/1919",
+ "source_sha256": "e26a24041d9937c18fac61a4b35bef4241db9bd5294171fdb0d9d0f20eb1e956",
+ "in_force": "2018-10-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/1919",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/1919/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/1919/text/O/D20181919.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/1919/text/I/D20181919.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/1919/text/T/D20181919L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/1919/text/U/D20181919Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/1919",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1919,
+  "address": "WDU20180001919",
+  "displayAddress": "Dz.U. 2018 poz. 1919",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 września 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach paszportowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-09-14",
+  "promulgation": "2018-10-08",
+  "expirationDate": "2020-04-07",
+  "changeDate": "2024-03-14T21:09:22",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty",
+   "paszporty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/1027"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20181919.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20181919.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20181919L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20181919Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
