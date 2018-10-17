@@ -1,6 +1,6 @@
-## Rozdział 54
-
 ## (zawierający art. 508-517 - uchylony)
+
+## Rozdział 54
 
 ## Rozdział 54a
 

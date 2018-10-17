@@ -10,6 +10,6 @@
 
 - 4) uzna za niezbędne przetłumaczenie orzeczenia na język polski.
 
-§ 2. Na postanowienie w przedmiocie zawieszenia postępowania zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w art. 611fx § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o zawieszeniu postępowania i jego przyczynach.
+§ 2. Na postanowienie w przedmiocie zawieszenia postępowania zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w art. 61 1fx § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o zawieszeniu postępowania i jego przyczynach.
 
 § 3. W razie zawieszenia postępowania sąd z urzędu może zabezpieczyć wykonanie orzeczenia. Przepisy o zabezpieczeniu majątkowym na mieniu oskarżonego stosuje się odpowiednio.
