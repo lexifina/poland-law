@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1001",
+ "source_sha256": "79db8e20116b162056a657db3bf3550e35ee2ce2a4f27243b6f6eb5d6e37e1c1",
+ "in_force": "2018-10-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1001",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1001/text/O/M20181001.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1001/text/I/M20181001.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1001",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1001,
+  "address": "WMP20180001001",
+  "displayAddress": "M.P. 2018 poz. 1001",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 października 2018 r. w sprawie wskaźnika cen towarów i usług konsumpcyjnych ogółem w III kwartale 2018 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-10-15",
+  "promulgation": "2018-10-19",
+  "changeDate": "2020-10-20T09:38:38",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "ceny",
+   "statystyka",
+   "wskaźnik",
+   "towar",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181001.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181001.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
