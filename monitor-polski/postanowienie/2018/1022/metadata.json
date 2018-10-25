@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1022",
+ "source_sha256": "5e515be6525bca8cb7a7a2aeaec44337c2d617809a96d7057766c19330eec5f3",
+ "in_force": "2018-10-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1022",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1022/text/O/M20181022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1022/text/I/M20181022.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1022",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1022,
+  "address": "WMP20180001022",
+  "displayAddress": "M.P. 2018 poz. 1022",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 12 września 2018 r. nr 110.58.2018 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-09-12",
+  "promulgation": "2018-10-25",
+  "changeDate": "2018-10-26T11:31:53",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Egipt"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181022.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
