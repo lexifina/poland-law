@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1042",
+ "source_sha256": "7f11a2889947737a1f0ac2b4a62a7b7d5a102f79d18d2f0bcbeb6a45fef256aa",
+ "in_force": "2018-10-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1042",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1042/text/O/M20181042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1042/text/I/M20181042.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1042",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1042,
+  "address": "WMP20180001042",
+  "displayAddress": "M.P. 2018 poz. 1042",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2018 r. nr 1131.14.2018 o powierzeniu kierowania Izbą Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-10-24",
+  "promulgation": "2018-10-29",
+  "changeDate": "2018-10-30T12:59:12",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 111 par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181042.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
