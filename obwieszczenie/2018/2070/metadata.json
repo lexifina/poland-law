@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/2070",
+ "source_sha256": "52dceccf583d3c92526107c1f0f572f8f0f4defa9efbbb04d93241503d62f421",
+ "in_force": "2018-10-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 5456 words, parsed 73; at 73: '21 października 2018 r . Rozdział 1 Dane zbiorcze 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/2070",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/2070/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/2070/text/O/D20182070.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/2070/text/I/D20182070.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/2070",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 2070,
+  "address": "WDU20180002070",
+  "displayAddress": "Dz.U. 2018 poz. 2070",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 24 października 2018 r. o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 października 2018 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-10-24",
+  "promulgation": "2018-10-30",
+  "changeDate": "2024-03-14T21:20:45",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "komisarz wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 477 par. 1"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20182070.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20182070.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
