@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/2069",
+ "source_sha256": "a1228023862b8b8b048887a76b5bda37165f87b09576fb5fb270ae6532783f47",
+ "in_force": "2018-10-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1887 words, parsed 103; at 103: '21 października 2018 r . Rozdział 1 Dane ogólne 1'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/2069",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/2069/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/2069/text/O/D20182069.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/2069/text/I/D20182069.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/2069",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 2069,
+  "address": "WDU20180002069",
+  "displayAddress": "Dz.U. 2018 poz. 2069",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 25 października 2018 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 21 października 2018 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-10-25",
+  "promulgation": "2018-10-30",
+  "changeDate": "2024-03-14T21:20:46",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2002/361"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 382"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20182069.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20182069.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
