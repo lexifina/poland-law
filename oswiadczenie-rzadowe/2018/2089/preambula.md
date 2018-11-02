@@ -1,0 +1,333 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 15 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) Rada Ministrów Rzeczypospolitej Polskiej dnia 6 lipca 2018 r. zatwierdziła Zmiany do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r.
+
+Zmiany zostały przyjęte w Londynie dnia 11 czerwca 2015 r. w formie rezolucji MSC.396(95) Zmiany do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht (STCW) z 1978 r. z późniejszymi zmianami oraz rezolucji MSC.397(95) Zmiany do części A Kodeksu wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht (STCW).
+
+Jednocześnie podaje się do wiadomości, że na podstawie art. XII ust. 1 lit. a) pkt viii) oraz art. XII ust. 1 lit. a) pkt ix) Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., zmiany do załącznika do wyżej wymienionej konwencji przyjęte w Londynie dnia 11 czerwca 2015 r. weszły w życie w stosunku do Rzeczypospolitej Polskiej oraz pozostałych stron konwencji dnia 1 stycznia 2017 r.
+
+Ponadto podaje się do wiadomości, że stronami konwencji oraz przyjętych do niej wyżej wymienionych zmian są:
+
+Republika Albanii
+
+Algierska Republika Ludowo-Demokratyczna
+
+Republika Angoli
+
+Antigua i Barbuda
+
+Królestwo Arabii Saudyjskiej
+
+Republika Argentyńska
+
+Związek Australijski
+
+Republika Austrii
+
+Republika Azerbejdżanu
+
+Wspólnota Bahamów
+
+Królestwo Bahrajnu
+
+Ludowa Republika Bangladeszu
+
+Barbados
+
+Królestwo Belgii
+
+Belize
+
+Republika Beninu
+
+Republika Białorusi
+
+Wielonarodowe Państwo Boliwia
+
+Federacyjna Republika Brazylii
+
+Państwo Brunei Darussalam
+
+Republika Bułgarii
+
+Republika Chile
+
+Chińska Republika Ludowa
+
+Republika Chorwacji
+
+Republika Cypryjska
+
+Czarnogóra
+
+Republika Czeska
+
+Królestwo Danii
+
+Wspólnota Dominiki
+
+Republika Dominikańska
+
+Republika Dżibuti
+
+Arabska Republika Egiptu
+
+Republika Ekwadoru
+
+Państwo Erytrea
+
+Republika Estońska
+
+Federalna Demokratyczna Republika Etiopii
+
+Republika Fidżi
+
+Republika Filipin
+
+Republika Finlandii
+
+Republika Francuska
+
+Republika Gabońska
+
+Republika Gambii
+
+Republika Ghany
+
+Republika Grecka
+
+Grenada
+
+Gruzja
+
+Kooperacyjna Republika Gujany
+
+Republika Gwatemali
+
+Republika Gwinei
+
+Republika Gwinei Bissau
+
+Republika Gwinei Równikowej
+
+Republika Haiti
+
+Królestwo Hiszpanii
+
+Republika Hondurasu
+
+Republika Indii
+
+Republika Indonezji
+
+Republika Iraku
+
+Islamska Republika Iranu
+
+Irlandia
+
+Republika Islandii
+
+Państwo Izrael
+
+Jamajka
+
+Japonia
+
+Republika Jemeńska
+
+Jordańskie Królestwo Haszymidzkie
+
+Królestwo Kambodży
+
+Republika Kamerunu
+
+Kanada
+
+Państwo Katar
+
+Republika Kazachstanu
+
+Republika Kenii
+
+Republika Kiribati Republika Kolumbii
+
+Związek Komorów
+
+Demokratyczna Republika Konga
+
+Republika Konga
+
+Republika Korei
+
+Koreańska Republika Ludowo-Demokratyczna
+
+Republika Kostaryki
+
+Republika Kuby
+
+Państwo Kuwejt
+
+Republika Libańska
+
+Republika Liberii
+
+Państwo Libia
+
+Republika Litewska
+
+Wielkie Księstwo Luksemburga
+
+Republika Łotewska
+
+Republika Madagaskaru
+
+Republika Malawi
+
+Republika Malediwów
+
+Malezja
+
+Republika Malty
+
+Królestwo Marokańskie
+
+Islamska Republika Mauretańska
+
+Republika Mauritiusu
+
+Meksykańskie Stany Zjednoczone
+
+Sfederowane Stany Mikronezji
+
+Republika Związku Mjanmy
+
+Republika Mołdawii
+
+Mongolia
+
+Republika Mozambiku
+
+Republika Namibii
+
+Republika Nauru
+
+Królestwo Niderlandów
+
+Republika Federalna Niemiec
+
+Federalna Republika Nigerii
+
+Republika Nikaragui
+
+Niue
+
+Królestwo Norwegii
+
+Nowa Zelandia
+
+Sułtanat Omanu
+
+Islamska Republika Pakistanu
+
+Republika Palau
+
+Republika Panamy
+
+Niezależne Państwo Papui-Nowej Gwinei
+
+Republika Peru
+
+Rzeczpospolita Polska
+
+Republika Portugalska
+
+Republika Południowej Afryki
+
+Federacja Rosyjska
+
+Rumunia
+
+Federacja Saint Kitts i Nevis
+
+Saint Lucia
+
+Saint Vincent i Grenadyny
+
+Republika Salwadoru
+
+Niezależne Państwo Samoa
+
+Republika Senegalu
+
+Republika Serbii
+
+Republika Seszeli
+
+Republika Sierra Leone
+
+Republika Singapuru
+
+Republika Słowacka
+
+Republika Słowenii
+
+Demokratyczno-Socjalistyczna Republika Sri Lanki
+
+Stany Zjednoczone Ameryki
+
+Republika Sudanu
+
+Republika Surinamu
+
+Syryjska Republika Arabska
+
+Konfederacja Szwajcarska
+
+Królestwo Szwecji
+
+Królestwo Tajlandii
+
+Zjednoczona Republika Tanzanii
+
+Republika Togijska
+
+Królestwo Tonga
+
+Republika Trynidadu i Tobago
+
+Republika Tunezyjska
+
+Republika Turcji
+
+Turkmenistan
+
+Tuvalu
+
+Ukraina
+
+Wschodnia Republika Urugwaju
+
+Republika Vanuatu
+
+Boliwariańska Republika Wenezueli
+
+Węgry
+
+Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej
+
+Socjalistyczna Republika Wietnamu
+
+Republika Włoska
+
+Republika Wybrzeża Kości Słoniowej
+
+Wyspy Cooka
+
+Republika Wysp Marshalla
+
+Wyspy Salomona
+
+Demokratyczna Republika Wysp Świętego Tomasza i Książęcej
+
+Republika Zielonego Przylądka
+
+Państwo Zjednoczonych Emiratów Arabskich
