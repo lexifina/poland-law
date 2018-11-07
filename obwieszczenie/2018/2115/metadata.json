@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/2115",
+ "source_sha256": "2e8607f81808aeb0c0f91c70fda5d10fe6be83b6993c3a5690b2e1b0f6da8e4a",
+ "in_force": "2018-11-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/2115",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/2115/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/2115/text/O/D20182115.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/2115/text/I/D20182115.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/2115/text/T/D20182115L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/2115/text/U/D20182115Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/2115",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 2115,
+  "address": "WDU20180002115",
+  "displayAddress": "Dz.U. 2018 poz. 2115",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 października 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o radcach prawnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-10-25",
+  "promulgation": "2018-11-07",
+  "expirationDate": "2020-01-16",
+  "changeDate": "2024-03-14T21:12:52",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radcy prawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/145"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20182115.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20182115.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20182115L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20182115Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
