@@ -1,0 +1,1 @@
+Na podstawie art. 39h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650, 1115, 1544, 1629 i 1669) zarządza się, co następuje:
