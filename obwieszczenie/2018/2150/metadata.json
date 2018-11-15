@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/2150",
+ "source_sha256": "41838473a91bb8869979cde7b9c5956868f4b08f247e7045c9df6c2804a74afd",
+ "in_force": "2018-11-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/2150",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/2150/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/2150/text/O/D20182150.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/2150/text/I/D20182150.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/2150/text/T/D20182150L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/2150/text/U/D20182150Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/2150",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 2150,
+  "address": "WDU20180002150",
+  "displayAddress": "Dz.U. 2018 poz. 2150",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 października 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie felczera",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-10-25",
+  "promulgation": "2018-11-15",
+  "expirationDate": "2021-04-21",
+  "changeDate": "2026-11-05T10:45:49",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "felczerzy",
+   "przepisy karne",
+   "ochrona zdrowia",
+   "pracownicy",
+   "wykroczenia",
+   "służba zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1950/336"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20182150.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20182150.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20182150L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20182150Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
