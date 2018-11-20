@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1119",
+ "source_sha256": "77d891dc2c79b4843a65b2b99f9255b44b9e2c5fd506820893d6708ff570d128",
+ "in_force": "2018-11-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1119",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1119/text/O/M20181119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1119/text/I/M20181119.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1119",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1119,
+  "address": "WMP20180001119",
+  "displayAddress": "M.P. 2018 poz. 1119",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 listopada 2018 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 12 z siedzibą Okręgowej Komisji Wyborczej w Krakowie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-11-15",
+  "promulgation": "2018-11-20",
+  "changeDate": "2018-11-22T15:40:46",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181119.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
