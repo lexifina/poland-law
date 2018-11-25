@@ -8,6 +8,8 @@
 
 - 2) zastosowania się przez oddział lub przedstawicielstwo do interpretacji indywidualnej dotyczącej działalności tego oddziału lub przedstawicielstwa wydanej przed powstaniem tego oddziału lub przedstawicielstwa na wniosek tworzącego je przedsiębiorcy.
 
+- 3) zastosowania się przez przedsiębiorstwo w spadku do interpretacji indywidualnej wydanej przed śmiercią przedsiębiorcy na jego wniosek.
+
 § 2. W przypadkach, o których mowa w § 1, zmianę, uchylenie lub stwierdzenie wygaśnięcia interpretacji indywidualnej albo zmianę lub uchylenie postanowienia, o którym mowa w art. 14b § 5a, doręcza się odpowiednio spółce, podatkowej grupie kapitałowej w rozumieniu przepisów o podatku dochodowym od osób prawnych, oddziałowi lub przedstawicielstwu, wskazanym przez wnioskującego o wydanie interpretacji indywidualnej.
 
 § 3. Przepisy art. 14k i art. 14m stosuje się odpowiednio w przypadku:

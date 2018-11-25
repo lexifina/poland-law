@@ -1,0 +1,9 @@
+# Art. 117d.
+
+§ 1. Zarządca sukcesyjny odpowiada solidarnie z podatnikiem oraz osobami, o których mowa w art. 97a § 1 i 2, całym swoim majątkiem za zaległości podatkowe związane z działalnością przedsiębiorstwa w spadku, z zastrzeżeniem § 4. Egzekucja z majątku zarządcy sukcesyjnego może być prowadzona w przypadku, gdy egzekucja z majątku podatnika oraz osób, o których mowa w art. 97a § 1 i 2, okaże się bezskuteczna.
+
+§ 2. Zakres odpowiedzialności zarządcy sukcesyjnego jest ograniczony do zaległości podatkowych z tytułu zobowiązań, których termin płatności upływał w czasie pełnienia przez niego tej funkcji, oraz zaległości wymienionych w art. 52 oraz art. 52a powstałych w czasie pełnienia funkcji przez tego zarządcę sukcesyjnego.
+
+§ 3. Za zaległości podatkowe z tytułu zobowiązań, których termin płatności upływał po dniu wygaśnięcia zarządu sukcesyjnego, oraz zaległości wymienione w art. 52 oraz art. 52a powstałe po dniu wygaśnięcia zarządu sukcesyjnego odpowiada osoba pełniąca funkcję zarządcy sukcesyjnego w dniu wygaśnięcia zarządu sukcesyjnego. Przepisy § 1 zdanie drugie oraz art. 115 § 4 stosuje się odpowiednio.
+
+§ 4. Za zaległości podatkowe z tytułu zobowiązań, które powstały od otwarcia spadku do dnia ustanowienia zarządu sukcesyjnego lub wygaśnięcia uprawnienia do powołania zarządcy sukcesyjnego i od dnia, w którym zarządca sukcesyjny przestał pełnić swoją funkcję, do dnia powołania kolejnego zarządcy sukcesyjnego albo wygaśnięcia zarządu sukcesyjnego, oraz zaległości wymienione w art. 52 i art. 52a powstałe w tych okresach odpowiada całym swoim majątkiem zarządca faktyczny, który dokonał czynności skutkującej powstaniem zobowiązania podatkowego. Zarządcą faktycznym jest osoba, która faktycznie zajmuje się sprawami gospodarczymi, w szczególności finansowymi przedsiębiorstwa w spadku. Przepisy § 1 zdanie drugie oraz art. 115 § 4 stosuje się odpowiednio.
