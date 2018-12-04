@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1181",
+ "source_sha256": "58fcea1b03d71388e8c960f43f9fa8b64926cf040d0c544daff6118c5dd52e2c",
+ "in_force": "2018-12-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1181/text/O/M20181181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1181/text/I/M20181181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1181",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1181,
+  "address": "WMP20180001181",
+  "displayAddress": "M.P. 2018 poz. 1181",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 listopada 2018 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 32 z siedzibą Okręgowej Komisji Wyborczej w Sosnowcu",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-11-30",
+  "promulgation": "2018-12-04",
+  "changeDate": "2018-12-05T11:33:38",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
