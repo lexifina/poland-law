@@ -1,0 +1,1 @@
+Na podstawie art. 20 ust. 5 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2018 r. poz. 2038, 2215 i 2243) zarządza się, co następuje:
