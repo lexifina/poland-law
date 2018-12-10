@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1207",
+ "source_sha256": "630d212563ca36224b1a23f7f35ea22dd93b41d1b30b2da9e479b8f48d9372a4",
+ "in_force": "2018-12-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1207",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1207/text/O/M20181207.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1207/text/I/M20181207.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1207",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1207,
+  "address": "WMP20180001207",
+  "displayAddress": "M.P. 2018 poz. 1207",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 23 listopada 2018 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-11-23",
+  "promulgation": "2018-12-10",
+  "changeDate": "2023-06-15T11:07:06",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stanowiska",
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 20a par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181207.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181207.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
