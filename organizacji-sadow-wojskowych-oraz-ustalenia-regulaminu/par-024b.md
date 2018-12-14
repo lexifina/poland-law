@@ -1,0 +1,9 @@
+# § 24b.
+
+1. Losowanie składu sędziowskiego do kolejnych spraw przeprowadza się w ten sposób, że jednakowe kartki z odrębnie wypisanymi nazwiskami i imionami sędziów biorących udział w losowaniu umieszcza się w pojemniku, z którego kierownik sekretariatu losuje niezbędną liczbę kartek w zależności od liczebności składu rozpoznającego sprawę. Czynności, o których mowa w zdaniu pierwszym, przeprowadza się przy udziale innego pracownika. Z losowania sporządza się protokół.
+
+2. Sędzia wylosowany do rozpoznawania danej sprawy nie bierze udziału w dalszym losowaniu aż do momentu wylosowania wszystkich sędziów do rozpoznawania kolejnych spraw w danej kategorii.
+
+3. W sprawach rozpoznawanych w składach liczących więcej niż jednego sędziego, sędzia wylosowany jako pierwszy jest referentem sprawy. Sędzia wylosowany jako drugi jest przewodniczącym składu orzekającego, chyba że z odrębnych przepisów wynika, że nie może on przewodniczyć składowi orzekającemu lub przewodniczenie należy do innego członka składu. Jeżeli sędzia wylosowany jako drugi nie może przewodniczyć danemu składowi orzekającemu, przewodniczącym jest sędzia wylosowany w następnej kolejności, chyba że z odrębnych przepisów wynika, że przewodniczenie należy do innego członka składu. Jeżeli żaden spośród sędziów wylosowanych do składu orzekającego nie może przewodniczyć danemu składowi, losowanie sędziego wylosowanego w ostatniej kolejności ponawia się aż do wylosowania sędziego, który może przewodniczyć składowi orzekającemu. Jeżeli do składu orzekającego zostanie wylosowany sędzia, który ze względu na sędziego już wylosowanego do składu nie może brać udziału w danym składzie, losowanie ponawia się aż do wylosowania sędziego, który może brać udział w składzie.
+
+4. Do losowania ławników do rozpoznawania kolejnych spraw stosuje się odpowiednio przepisy ust. 1-3 oraz § 24a ust. 1.

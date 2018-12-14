@@ -1,0 +1,3 @@
+# § 140n.
+
+Obowiązkiem sędziego referenta sprawy, w której podjęto czynności poszukiwawcze za pośrednictwem SIS, jest dbałość o aktualność danych wpisanych do SIS II, w tym o bezzwłoczną modyfikację lub usunięcie danych nieaktualnych, w szczególności jeżeli osoba, o której mowa w art. 3 ust. 1 pkt 1 lub 2 ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, została przekazana do dyspozycji sądu właściwego do rozpoznania sprawy, nakaz został uchylony lub nastąpiło przedawnienie karalności przestępstwa. Sędzia ten, nie rzadziej niż co 3 miesiące, dokonuje kontroli akt sprawy, w której dokonano wpisu, i podejmuje stosowne działania zmierzające do zapewnienia aktualności danych.
