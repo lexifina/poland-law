@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2018/1230",
+ "source_sha256": "23de484a305016dc3faa7fb75aad24d3716cad9c34424ee060b5417242126976",
+ "in_force": "2018-12-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2018/1230",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2018/1230/text/O/M20181230.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2018/1230/text/I/M20181230.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2018/1230",
+  "publisher": "MP",
+  "year": 2018,
+  "volume": 0,
+  "pos": 1230,
+  "address": "WMP20180001230",
+  "displayAddress": "M.P. 2018 poz. 1230",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2018 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na stosowanie wobec posła Stanisława Gawłowskiego środka zapobiegawczego w postaci tymczasowego aresztowania",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-12-06",
+  "promulgation": "2018-12-19",
+  "changeDate": "2023-02-06T13:48:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "areszt tymczasowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 5"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 10 ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20181230.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20181230.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
