@@ -4,7 +4,7 @@
 
 § 2. Strona i Szef Krajowej Administracji Skarbowej z własnej inicjatywy mogą przedłożyć Radzie swoje stanowisko na piśmie. Strona może dostarczyć Radzie dodatkowe dokumenty.
 
-§ 3. Na zaproszenie przewodniczącego w posiedzeniu Rady, którego przedmiotem jest wyrażenie opinii co do zasadności zastosowania art. 119a, lub w jego części może uczestniczyć przedstawiciel Szefa Krajowej Administracji Skarbowej oraz strona, jej przedstawiciel lub pełnomocnik. Zaproszenie przedstawiciela Szefa Krajowej Administracji Skarbowej do udziału w posiedzeniu wymaga skierowania zaproszenia w takim samym zakresie także do strony.
+§ 3. Na zaproszenie przewodniczącego w posiedzeniu Rady, którego przedmiotem jest wyrażenie opinii co do zasadności zastosowania art. 119a, lub w jego części może uczestniczyć przedstawiciel Szefa Krajowej Administracji Skarbowej oraz strona, jej przedstawiciel lub pełnomocnik. Zaproszenie przedstawiciela Szefa Krajowej Administracji Skarbowej albo strony do udziału w posiedzeniu wymaga skierowania zaproszenia w takim samym zakresie także odpowiednio do strony albo przedstawiciela Szefa Krajowej Administracji Skarbowej.
 
 § 4. Rada wydaje pisemną opinię co do zasadności zastosowania art. 119a wraz z uzasadnieniem.
 
@@ -14,8 +14,8 @@
 
 § 7. Członek Rady, który nie zgadza się ze stanowiskiem zawartym w opinii Rady lub z jego uzasadnieniem, może zgłosić zdanie odrębne, sporządzając jego pisemne uzasadnienie. Członkowie Rady mogą zgłosić wspólne zdanie odrębne. Zdania odrębne podlegają doręczeniu wraz z opinią Rady.
 
-§ 8. Po wydaniu opinii Rada zwraca akta sprawy Szefowi Krajowej Administracji Skarbowej.
+§ 8. Po wydaniu opinii albo po bezskutecznym upływie terminu wskazanego w § 5 Rada zwraca akta sprawy Szefowi Krajowej Administracji Skarbowej. Otrzymane przez Radę od strony informacje, wyjaśnienia oraz dokumenty włącza się do akt sprawy.
 
-§ 9. Niewydanie przez Radę opinii w terminie, o którym mowa w § 5, uważa się za równoznaczne z opinią Rady o zasadności zastosowania art. 119a. Rada zwraca akta sprawy Szefowi Krajowej Administracji Skarbowej.
+§ 9. Organ podatkowy pomija opinię Rady wydaną z uchybieniem terminowi określonemu w § 5.
 
-§ 10. Przepisu § 9 nie stosuje się w przypadku zasięgania opinii na wniosek strony.
+§ 10. (uchylony)

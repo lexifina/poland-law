@@ -12,18 +12,22 @@
 
 - 3) stwierdzenia nadpłaty lub określenia wysokości nadpłaty albo zwrotu podatku,
 
-- 4) odpowiedzialności podatnika za podatek niepobrany przez płatnika,
+- 4) odpowiedzialności płatnika za podatek niepobrany lub pobrany a niewpłacony, oraz odpowiedzialności podatnika za podatek niepobrany przez płatnika,
 
 - 5) o zakresie odpowiedzialności lub uprawnień spadkobiercy
 
 - może być wydana decyzja z zastosowaniem art. 119a.
 
-§ 2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, wszczęcie lub przejęcie przez Szefa Krajowej Administracji Skarbowej postępowania podatkowego następuje na wniosek właściwego organu podatkowego.
+§ 2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, Szef Krajowej Administracji Skarbowej na wniosek właściwego organu podatkowego może wyłącznie przejąć postępowanie podatkowe.
 
-§ 3. Przejmując kontrolę celno-skarbową, Szef Krajowej Administracji Skarbowej z urzędu ją zawiesza i jednocześnie wszczyna postępowanie podatkowe. Do zawieszonej kontroli celno-skarbowej przepisy art. 201 § 3 i art. 206 stosuje się odpowiednio.
+§ 3. Przejmując kontrolę podatkową lub kontrolę celno-skarbową, Szef Krajowej Administracji Skarbowej z urzędu ją zawiesza i jednocześnie wszczyna postępowanie podatkowe. Do zawieszonej kontroli podatkowej lub kontroli celno-skarbowej przepisy art. 201 § 3 i art. 206 stosuje się odpowiednio.
 
-§ 4. W postanowieniu, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej wskazuje, w jakim zakresie przejmuje postępowanie lub kontrolę celno-skarbową.
+§ 4. W postanowieniu, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej wskazuje, w jakim zakresie przejmuje postępowanie podatkowe, kontrolę podatkową lub kontrolę celno-skarbową.
 
-§ 5. Czynności dokonane przez organ podatkowy przed przejęciem kontroli celno-skarbowej lub postępowania podatkowego pozostają w mocy.
+§ 5. Czynności dokonane przez organ podatkowy przed przejęciem postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej pozostają w mocy.
 
-§ 6. Postanowienie o przejęciu postępowania doręcza się stronie albo kontrolowanemu oraz organowi, który prowadził postępowanie.
+§ 6. Postanowienie o przejęciu postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej doręcza się stronie albo kontrolowanemu oraz organowi, który prowadził postępowanie lub kontrolę.
+
+§ 7. W przypadku gdy będąca stroną postępowania podatkowego spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w jego trakcie, postępowanie podatkowe kończy się decyzją, o której mowa w art. 115 § 4.
+
+§ 8. Jeżeli w sprawie może być wydana decyzja z zastosowaniem środków ograniczających umowne korzyści, przepisy art. 119a § 7 oraz niniejszego rozdziału stosuje się odpowiednio.

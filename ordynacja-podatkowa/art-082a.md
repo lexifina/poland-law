@@ -4,6 +4,6 @@
 
 - 1) w związku z umowami o unikaniu podwójnego opodatkowania oraz innymi ratyfikowanymi umowami międzynarodowymi, których stroną jest Rzeczpospolita Polska, może to mieć wpływ na powstanie obowiązku podatkowego lub wysokość zobowiązania podatkowego osób otrzymujących wynagrodzenie;
 
-- 2) podmiot będący nierezydentem bezpośrednio lub pośrednio bierze udział w zarządzaniu lub kontroli podmiotu, którego dotyczy obowiązek informacyjny, albo posiada udział w kapitale tego podmiotu uprawniający do co najmniej 5% wszystkich praw głosu.
+- 2) podmiot będący nierezydentem bezpośrednio lub pośrednio bierze udział w zarządzaniu lub kontroli podmiotu, którego dotyczy obowiązek informacyjny, albo posiada udział w kapitale tego podmiotu uprawniający do co najmniej 25% wszystkich praw głosu.
 
 § 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres informacji, o których mowa w § 1, a także szczegółowe zasady, termin oraz tryb ich sporządzania, ze szczególnym uwzględnieniem czasu pobytu nierezydenta w kraju, danych identyfikujących nierezydenta i podmiot wypłacający nierezydentowi wynagrodzenie, wysokość wynagrodzenia, formy i termin jego wypłaty.

@@ -6,6 +6,8 @@
 
 - 2) uchylić wydaną interpretację indywidualną i umorzyć postępowanie w sprawie wydania interpretacji indywidualnej, jeżeli w dniu jej wydania istniały przesłanki odmowy wszczęcia postępowania w sprawie wydania interpretacji indywidualnej.
 
+- 3) uchylić wydaną interpretację indywidualną z uwagi na wystąpienie przesłanki wymienionej w art. 14b § 5b i odmówić, w drodze postanowienia, na które służy zażalenie, wydania interpretacji indywidualnej.
+
 § 1a. Dyrektor Krajowej Informacji Skarbowej może z urzędu:
 
 - 1) zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451);

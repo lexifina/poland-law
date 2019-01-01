@@ -4,6 +4,6 @@
 
 § 2. W razie negatywnej oceny stanowiska wnioskodawcy interpretacja indywidualna zawiera wskazanie prawidłowego stanowiska wraz z uzasadnieniem prawnym.
 
-§ 3. Interpretacja indywidualna zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
+§ 3. Interpretacja indywidualna zawiera pouczenie o treści art. 14na oraz o prawie wniesienia skargi do sądu administracyjnego.
 
 § 4. Interpretację indywidualną wydaną w formie dokumentu elektronicznego opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.

@@ -14,17 +14,17 @@
 
 § 3. Przepisy art. 14k i art. 14m stosuje się odpowiednio w przypadku:
 
-- 1) uchylenia interpretacji indywidualnej - na podstawie art. 14e § 1a pkt 3;
+- 1) uchylenia interpretacji indywidualnej - na podstawie art. 14e § 1 pkt 3 lub § 1a pkt 3;
 
 - 2) zmiany lub uchylenia postanowienia, o którym mowa w art. 14b § 5a.
 
 § 4. W przypadku zastosowania się przez podatnika w danym okresie rozliczeniowym do:
 
-- 1) objaśnień podatkowych - stosuje się odpowiednio przepisy art. 14k-14m,
+- 1) objaśnień podatkowych,
 
-- 2) utrwalonej praktyki interpretacyjnej organów Krajowej Administracji Skarbowej - stosuje się odpowiednio przepisy art. 14k i art. 14m
+- 2) utrwalonej praktyki interpretacyjnej organów Krajowej Administracji Skarbowej
 
-- z zastrzeżeniem art. 14na.
+- stosuje się odpowiednio przepisy art. 14k-14m.
 
 § 5. Przez utrwaloną praktykę interpretacyjną, o której mowa w § 4 pkt 2, rozumie się wyjaśnienia zakresu i sposobu stosowania przepisów prawa podatkowego, dominujące w interpretacjach indywidualnych wydawanych w takich samych stanach faktycznych lub w odniesieniu do takich samych zdarzeń przyszłych oraz w takim samym stanie prawnym, w trakcie okresu rozliczeniowego, o którym mowa w § 4, oraz w okresie 12 miesięcy przed rozpoczęciem tego okresu rozliczeniowego.
 

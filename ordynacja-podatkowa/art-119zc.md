@@ -1,6 +1,6 @@
 # Art. 119zc.
 
-§ 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
+§ 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Opłata od wspólnego wniosku zainteresowanych ulega zwiększeniu o 5000 zł od piątego i każdego kolejnego zainteresowanego.
 
 § 2. Opłata podlega zwrotowi w przypadku:
 

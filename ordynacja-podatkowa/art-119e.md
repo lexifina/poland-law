@@ -1,6 +1,6 @@
 # Art. 119e.
 
-Korzyścią podatkową w rozumieniu przepisów niniejszego działu jest:
+(uchylony)
 
 - 1) niepowstanie zobowiązania podatkowego, odsunięcie w czasie powstania zobowiązania podatkowego lub obniżenie jego wysokości albo powstanie lub zawyżenie straty podatkowej;
 
