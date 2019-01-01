@@ -1,0 +1,115 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2018/2500",
+ "source_sha256": "18b748c18dee9ff0126fa8bcceceba012f9ab09c9e291a4021f61304716ce7ee",
+ "in_force": "2019-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2018/2500",
+  "html": "https://eli.gov.pl/api/acts/DU/2018/2500/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2018/2500/text/O/D20182500.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2018/2500/text/I/D20182500.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2018/2500/text/T/D20182500L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2018/2500/text/U/D20182500Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2018/2500",
+  "publisher": "DU",
+  "year": 2018,
+  "volume": 0,
+  "pos": 2500,
+  "address": "WDU20180002500",
+  "displayAddress": "Dz.U. 2018 poz. 2500",
+  "title": "Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2018-12-14",
+  "promulgation": "2018-12-31",
+  "entryIntoForce": "2019-01-01",
+  "changeDate": "2024-03-14T21:17:22",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "finanse publiczne",
+   "samorząd terytorialny",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=2787",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/2787",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/2787",
+    "number": "2787",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2021/1927",
+     "date": "2021-10-26"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2018/2193",
+     "date": "2019-01-01"
+    },
+    {
+     "id": "DU/2009/1240",
+     "date": "2019-01-01"
+    },
+    {
+     "id": "DU/1998/578",
+     "date": "2019-01-01"
+    },
+    {
+     "id": "DU/1998/576",
+     "date": "2019-01-01"
+    },
+    {
+     "id": "DU/1992/428",
+     "date": "2019-01-01"
+    },
+    {
+     "id": "DU/1990/95",
+     "date": "2019-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20182500.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20182500.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20182500L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20182500Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
