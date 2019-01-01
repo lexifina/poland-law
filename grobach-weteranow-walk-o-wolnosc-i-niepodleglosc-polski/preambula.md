@@ -1,0 +1,1 @@
+W setną rocznicę odzyskania przez Polskę niepodległości, oddając hołd przeszłym pokoleniom, które swoją postawą oraz walką o niepodległą i suwerenną Ojczyznę walnie przyczyniły się do wyzwolenia Narodu Polskiego, mając na względzie godne zachowanie w narodowej pamięci poświęcenia tych pokoleń, uchwala się, co następuje:
