@@ -1,0 +1,7 @@
+# § 35a.
+
+1. W przypadku objęcia podmiotu, który przyjmuje, magazynuje lub wydaje alkohol etylowy skażony, o którym mowa w § 1 pkt 1 lit. e, kontrolą stałą, przyjęcie i wydanie przez ten podmiot alkoholu etylowego skażonego, o którym mowa w § 1 pkt 1 lit. e, odbywa się w obecności kontrolującego.
+
+2. Podmiot objęty kontrolą stałą przyjmujący alkohol etylowy skażony, o którym mowa w § 1 pkt 1 lit. e, informuje komórkę kontroli o zamiarze przyjęcia przesyłki, podając rodzaj i ilość przyjmowanych wyrobów.
+
+3. Podmiot objęty kontrolą stałą wydający alkohol etylowy skażony, o którym mowa w § 1 pkt 1 lit. e, przed dokonaniem wydania informuje komórkę kontroli, o zamiarze jego dokonania, podając rodzaj i ilość wydawanych wyrobów.
