@@ -1,0 +1,1 @@
+Na podstawie art. 18 ust. 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244) zarządza się, co następuje:
