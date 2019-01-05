@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. poz. 2303 oraz z 2018 r. poz. 650 i 1567) zarządza się, co następuje:
