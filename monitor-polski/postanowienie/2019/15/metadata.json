@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/15",
+ "source_sha256": "299b9395fd6363705bb20b29a46933303c98b71885f52aa2daf38307b30bf13d",
+ "in_force": "2019-01-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/15",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/15/text/O/M20190015.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/15/text/I/M20190015.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/15",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 15,
+  "address": "WMP20190000015",
+  "displayAddress": "M.P. 2019 poz. 15",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 29 grudnia 2018 r. o wydaniu Polityczno-Strategicznej Dyrektywy Obronnej Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "nieobowiązujący - uchylona podstawa prawna",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-12-29",
+  "promulgation": "2019-01-07",
+  "entryIntoForce": "2019-01-07",
+  "repealDate": "2022-04-23",
+  "changeDate": "2022-04-26T08:52:58",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa",
+   "powszechny obowiązek obrony"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "MP/2015/697",
+     "date": "2019-01-07"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1967/220",
+     "art": "art. 4a ust. 1 pkt 2"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2022/655",
+     "date": "2022-04-23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190015.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190015.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
