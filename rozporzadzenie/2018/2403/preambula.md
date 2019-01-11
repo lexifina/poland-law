@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 5 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2018 r. poz. 1376 i 1669) zarządza się, co następuje:
