@@ -12,4 +12,4 @@
 
 6. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne płatnika składek ustala się w zaokrągleniu do pełnych złotych w dół, a grosze pomija się.
 
-7. Do należności płatnika składek z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz na ubezpieczenie zdrowotne ust. 4-6 stosuje się odpowiednio.
+7. Do należności płatnika składek z tytułu składek na Fundusz Pracy, Solidarnościowy Fundusz Wsparcia Osób Niepełnosprawnych, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz na ubezpieczenie zdrowotne ust. 4-6 stosuje się odpowiednio.

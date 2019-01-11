@@ -8,11 +8,11 @@
 
 4. Podział kwot składek, środków, odsetek za zwłokę i opłaty prolongacyjnej, zewidencjonowanych na subkoncie, jest dokonywany w przypadku, gdy rozwód, unieważnienie małżeństwa albo śmierć nastąpiły nie później niż w dniu:
 
-- 1) złożenia wniosku o emeryturę z tytułu osiągnięcia wieku, o którym mowa w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz w art. 26b tej ustawy;
+- 1) złożenia wniosku o emeryturę z tytułu osiągnięcia wieku emerytalnego wynoszącego 65 lat, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
 
-- 2) nabycia prawa do emerytury w wieku określonym w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli złożenie takiego wniosku nie jest wymagane, lub
+- 2) nabycia prawa do emerytury w wieku emerytalnym wynoszącym 65 lat, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli złożenie takiego wniosku nie jest wymagane, lub
 
-- 3) osiągnięcia wieku, o którym mowa w art. 24 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, przez osoby, które miały ustalone prawo do okresowej emerytury kapitałowej do dnia poprzedzającego osiągnięcie tego wieku.
+- 3) osiągnięcia wieku emerytalnego wynoszącego 65 lat, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, przez osoby, które miały ustalone prawo do okresowej emerytury kapitałowej do dnia poprzedzającego osiągnięcie tego wieku.
 
 5. W przypadku osób będących członkami otwartego funduszu emerytalnego, otwarty fundusz emerytalny jest obowiązany zawiadomić Zakład o osobach, na rzecz których nastąpił podział środków zgromadzonych na rachunku w otwartym funduszu emerytalnym w razie rozwodu, unieważnienia małżeństwa albo śmierci osoby, dla której Zakład prowadzi subkonto, oraz o ich udziale w tych środkach, w terminie 14 dni od dnia dokonania tego podziału.
 

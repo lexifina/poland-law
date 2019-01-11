@@ -1,5 +1,5 @@
 # Art. 36b.
 
-1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej na podstawie tych przepisów mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z wyjątkiem zmiany danych, o których mowa w art. 36 ust. 14.
+1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z wyjątkiem zmiany danych, o których mowa w art. 36 ust. 14, na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647, 1544, 1629 i 2244 oraz z 2019 r. poz. 60).
 
-2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w zgłoszeniach na podstawie przepisów o swobodzie działalności gospodarczej.
+2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.

@@ -1,6 +1,6 @@
 # Art. 39a.
 
-1. Począwszy od 2016 r., co cztery lata, w okresie od dnia 1 kwietnia do dnia 31 lipca, członek otwartego funduszu emerytalnego lub osoba, której Zakład ewidencjonuje składkę na subkoncie, o którym mowa w art. 40a, zgodnie z art. 22 ust. 3 pkt 2, może złożyć do Zakładu pisemnie lub w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem potwierdzonym profilem zaufanym ePUAP albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład w systemie teleinformatycznym, zgodne ze wzorem oświadczenie o:
+1. Począwszy od 2016 r., co cztery lata, w okresie od dnia 1 kwietnia do dnia 31 lipca, członek otwartego funduszu emerytalnego lub osoba, której Zakład ewidencjonuje składkę na subkoncie, o którym mowa w art. 40a, zgodnie z art. 22 ust. 3 pkt 2, może złożyć do Zakładu pisemnie lub w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład w systemie teleinformatycznym, zgodne ze wzorem oświadczenie o:
 
 - 1) przekazywaniu do otwartego funduszu emerytalnego składki, o której mowa w art. 22 ust. 3 pkt 1 lit. a, począwszy od składki opłaconej za lipiec;
 
