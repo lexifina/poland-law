@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/40",
+ "source_sha256": "716ce84365340941be1a71dec250f7756d709ccea68b8e9f2bac1a2d8e3b9cad",
+ "in_force": "2019-01-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/40",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/40/text/O/M20190040.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/40/text/I/M20190040.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/40",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 40,
+  "address": "WMP20190000040",
+  "displayAddress": "M.P. 2019 poz. 40",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 9 stycznia 2019 r. w sprawie wskaźników zmian cen dla lokali mieszkalnych w trzecim kwartale 2018 r. z podziałem na województwa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-01-09",
+  "promulgation": "2019-01-15",
+  "changeDate": "2025-07-08T11:14:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "statystyka",
+   "lokal",
+   "wskaźnik",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/741"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/741",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190040.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190040.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
