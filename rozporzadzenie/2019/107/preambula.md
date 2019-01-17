@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2018 r. poz. 441, 1669 i 2245) zarządza się, co następuje:
