@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/118",
+ "source_sha256": "f00738700a56e4d9006e3c2ed937e785d773899afd379e75a23dba5dfd6f94be",
+ "in_force": "2019-01-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/118",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/118/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/118/text/O/D20190118.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/118/text/I/D20190118.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/118/text/T/D20190118L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/118/text/U/D20190118Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/118",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 118,
+  "address": "WDU20190000118",
+  "displayAddress": "Dz.U. 2019 poz. 118",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 grudnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o terminach zapłaty w transakcjach handlowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2018-12-13",
+  "promulgation": "2019-01-21",
+  "expirationDate": "2020-05-26",
+  "changeDate": "2024-03-14T19:51:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "handlowe prawo",
+   "cywilne postępowanie",
+   "terminy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/403"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190118.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190118.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20190118L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20190118Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
