@@ -1,0 +1,1 @@
+Na podstawie art. 41 § 1 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55 i 60) w związku z art. 20 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452) zarządza się, co następuje.
