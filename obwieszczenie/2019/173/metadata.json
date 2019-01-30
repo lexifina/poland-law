@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/173",
+ "source_sha256": "5ebe62855b0df3f3b103fa3d24a5d6ae64ebede57bc089e391b8c7605f00be28",
+ "in_force": "2019-01-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/173",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/173/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/173/text/O/D20190173.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/173/text/I/D20190173.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/173",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 173,
+  "address": "WDU20190000173",
+  "displayAddress": "Dz.U. 2019 poz. 173",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 9 stycznia 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie systemu resortowych kodów identyfikacyjnych oraz szczegółowego sposobu ich nadawania",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-01-09",
+  "promulgation": "2019-01-30",
+  "changeDate": "2024-03-14T20:01:14",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "działalność lecznicza",
+   "zakłady opieki zdrowotnej",
+   "identyfikatory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2012/594"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190173.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190173.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
