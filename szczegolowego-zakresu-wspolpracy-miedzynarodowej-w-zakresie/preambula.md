@@ -1,0 +1,1 @@
+Na podstawie art. 41 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649 i 1293) zarządza się, co następuje:
