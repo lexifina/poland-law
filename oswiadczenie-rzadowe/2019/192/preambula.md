@@ -1,0 +1,7 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 8 lutego 2018 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii o zmianie i zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Kopenhadze dnia 1 maja 1990 r. (Dz. U. poz. 670) Prezydent Rzeczypospolitej Polskiej dnia 28 maja 2018 r. ratyfikował Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii o zmianie i zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Kopenhadze dnia 1 maja 1990 r., zawarte w drodze wymiany not dyplomatycznych z dnia 18 kwietnia 2017 r. oraz z dnia 16 października 2017 r.
+
+Porozumienie wchodzi w życie dnia 14 lutego 2019 r.
+
+Zgodnie z pkt 1 porozumienia, Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii w sprawie popierania i wzajemnej ochrony inwestycji, podpisana w Kopenhadze dnia 1 maja 1990 r.,, traci moc obowiązującą dnia 14 lutego 2019 r.
+
+Zgodnie z pkt 2 porozumienia, w odniesieniu do inwestycji dokonanych przed utratą mocy Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Kopenhadze dnia 1 maja 1990 r., tj. przed dniem 14 lutego 2019 r., żadne postanowienie tej umowy nie pozostaje w mocy.
