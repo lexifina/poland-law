@@ -1,0 +1,1 @@
+Na podstawie art. 12 ust. 2 pkt 1 ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2017 r. poz. 2190 i 2215) zarządza się, co następuje:
