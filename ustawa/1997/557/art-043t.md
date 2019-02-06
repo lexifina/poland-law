@@ -10,11 +10,13 @@
 
 - 3) w razie orzeczenia dozoru stacjonarnego instaluje rejestrator stacjonarny w terminie wskazanym w pkt 2;
 
+- 3a) w razie orzeczenia dozoru mobilnego lub zbliżeniowego niezwłocznie, nie później jednak niż w terminie 3 dni od dnia zgłoszenia przez skazanego gotowości, o której mowa w art. 43m, przekazuje rejestrator przenośny skazanemu oraz instruuje go co do sposobu używania rejestratora;
+
 - 4) w razie orzeczenia dozoru zbliżeniowego przekazuje rejestrator przenośny osobie chronionej zakazem zbliżania oraz instruuje tę osobę co do sposobu używania rejestratora;
 
-- 5) kontroluje prawidłowość działania środków technicznych i niezwłocznie usuwa uchybienia w ich działaniu;
+- 5) kontroluje prawidłowość działania środków technicznych;
 
-- 6) po zakończeniu dozoru, a także na polecenie sądu lub sądowego kuratora zawodowego, usuwa nadajnik, rejestrator stacjonarny i rejestrator przenośny używany przez osobę chronioną.
+- 6) po zakończeniu dozoru, a także na polecenie sądu lub sądowego kuratora zawodowego, usuwa nadajnik, rejestrator stacjonarny lub rejestrator przenośny używany przez osobę chronioną lub skazanego.
 
 § 2. Wykonując dozór elektroniczny, podmiot prowadzący centralę monitorowania:
 

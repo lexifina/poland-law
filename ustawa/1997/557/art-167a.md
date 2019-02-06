@@ -1,6 +1,10 @@
 # Art. 167a.
 
-§ 1. Przy zwolnieniu z zakładu karnego skazany otrzymuje, za pokwitowaniem, znajdujące się w depozycie dokumenty, pieniądze, przedmioty wartościowe i inne przedmioty, jeżeli nie zostały zatrzymane albo zajęte w drodze zabezpieczenia lub egzekucji.
+§ 1. Przy zwolnieniu z zakładu karnego skazany:
+
+- 1) informuje o miejscu stałego pobytu lub innym miejscu przebywania po zwolnieniu;
+
+- 2) otrzymuje, za pokwitowaniem, znajdujące się w depozycie dokumenty, pieniądze, przedmioty wartościowe i inne przedmioty, jeżeli nie zostały zatrzymane albo zajęte w drodze zabezpieczenia lub egzekucji.
 
 § 2. Skazany otrzymuje ponadto świadectwo zwolnienia z zakładu karnego oraz zaświadczenie o zatrudnieniu. Skazany jest informowany o potrzebie dalszego leczenia oraz otrzymuje wyniki wykonanych badań diagnostycznych niezbędnych do dalszego postępowania leczniczego lub diagnostycznego.
 

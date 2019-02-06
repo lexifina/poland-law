@@ -19,3 +19,11 @@
 - 3) umożliwiać sądowemu kuratorowi zawodowemu wejście do mieszkania lub na nieruchomość, gdzie zainstalowano rejestrator;
 
 - 4) udzielać osobom upoważnionym, na ich żądanie, wyjaśnień, o których mowa w § 1 pkt 4, również przy użyciu rejestratora stacjonarnego.
+
+§ 3. Skazany, wobec którego wykonywany jest dozór mobilny lub zbliżeniowy, ma ponadto obowiązek:
+
+- 1) nieprzerwanie nosić rejestrator przenośny;
+
+- 2) odbierać połączenia przychodzące do rejestratora przenośnego;
+
+- 3) udzielać osobom upoważnionym, na ich żądanie, wyjaśnień, o których mowa w § 1 pkt 4, również przy użyciu rejestratora przenośnego.
