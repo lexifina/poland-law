@@ -1,0 +1,1 @@
+Na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 599, z 2018 r. poz. 1544 i 1669 oraz z 2019 r. poz. 60) zarządza się, co następuje:
