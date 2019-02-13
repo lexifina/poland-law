@@ -10,7 +10,7 @@
 
 - 4) dostarczenie kart do głosowania właściwym komisjom wyborczym;
 
-- 5) sprawowanie nadzoru nad zapewnieniem warunków pracy obwodowych komisji wyborczych, w szczególności w zakresie wymogów określonych w art. 41a § 1 i art. 52 § 7 i 7a;
+- 5) sprawowanie nadzoru nad zapewnieniem warunków pracy obwodowych komisji wyborczych, w szczególności w zakresie wymogów określonych w art. 41a § 1;
 
 - 6) wykonywanie innych czynności zleconych przez Państwową Komisję Wyborczą, komisarza wyborczego.
 

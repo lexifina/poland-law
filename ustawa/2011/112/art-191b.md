@@ -1,8 +1,8 @@
 # Art. 191b.
 
-§ 1. Urzędnikiem wyborczym nie może być osoba kandydująca w wyborach w okręgu, w skład którego wchodzi gmina właściwa dla obszaru działania urzędnika wyborczego, komisarz wyborczy, pełnomocnik wyborczy, pełnomocnik finansowy, mąż zaufania lub członek komisji wyborczej. Urzędnik wyborczy nie może wykonywać swojej funkcji w gminie, na obszarze której ma miejsce zatrudnienia.
+§ 1. Urzędnikiem wyborczym nie może być osoba kandydująca w wyborach w okręgu, w skład którego wchodzi gmina właściwa dla obszaru działania urzędnika wyborczego, komisarz wyborczy, pełnomocnik wyborczy, pełnomocnik finansowy, mąż zaufania lub członek komisji wyborczej. Urzędnikiem wyborczym nie może być osoba zatrudniona w urzędzie gminy, gminnej jednostce organizacyjnej lub osobie prawnej, w gminie, w której miałaby wykonywać swoją funkcję.
 
-§ 2. Urzędnikiem wyborczym nie może być osoba ujęta w stałym rejestrze wyborców objętym zakresem działania tego urzędnika. Zakaz, o którym mowa w zdaniu pierwszym, nie dotyczy miast na prawach powiatu.
+§ 2. (uchylony)
 
 § 3. Urzędnik wyborczy nie może należeć do partii politycznych ani prowadzić działalności publicznej niedającej się pogodzić z pełnioną funkcją.
 
