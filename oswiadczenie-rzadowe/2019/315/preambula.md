@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 6 ust. 3 i 4 w związku z art. 13 ust. 1 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395, z 2011 r. poz. 676 oraz z 2019 r. poz. 109) Rada Ministrów Rzeczypospolitej Polskiej dnia 29 października 2018 r. udzieliła zgody na związanie Rzeczypospolitej Polskiej Porozumieniem między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki zmieniającym Porozumienie z dnia 15 lipca 2015 r. między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o uzgodnionych obiektach i terenach na terytorium Rzeczypospolitej Polskiej, przez wymianę not.
+
+Porozumienie weszło w życie dnia 21 grudnia 2018 r.
