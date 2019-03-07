@@ -1,0 +1,3 @@
+# Art. 131a.
+
+Jeżeli upadłość ogłoszono w wyniku rozpoznania wniosku o ogłoszenie upadłości złożonego nie później niż w terminie 3 miesięcy od dnia zakończenia postępowania restrukturyzacyjnego albo uprawomocnienia się postanowienia o umorzeniu postępowania restrukturyzacyjnego, przez dzień złożenia wniosku o ogłoszenie upadłości, o którym mowa w art. 127-130, rozumie się dzień złożenia wniosku restrukturyzacyjnego.

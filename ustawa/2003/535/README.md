@@ -2,5 +2,5 @@
 
 Dz.U. 2003 nr 60 poz. 535 · <https://eli.gov.pl/api/acts/DU/2003/535>
 
-Tekst jednolity: Dz.U. 2017 poz. 2344 (2017-12-15), stan na 2017-04-29.
+Tekst jednolity: Dz.U. 2019 poz. 498 (2019-03-15), stan na 2019-03-07.
 
