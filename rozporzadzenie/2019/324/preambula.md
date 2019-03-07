@@ -1,0 +1,1 @@
+Na podstawie art. 37 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261, z 2018 r. poz. 723, 1544 i 1669 oraz z 2019 r. poz. 60) zarządza się, co następuje:
