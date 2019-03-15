@@ -1,0 +1,1 @@
+Na podstawie art. 54 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2017 r. poz. 1937, z późn. zm.) zarządza się, co następuje:
