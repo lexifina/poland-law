@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/242",
+ "source_sha256": "a200b59e6556c8da35822573b052f283a862d31bafcb910bfae534189de942eb",
+ "in_force": "2019-03-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/242",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/242/text/O/M20190242.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/242/text/I/M20190242.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/242",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 242,
+  "address": "WMP20190000242",
+  "displayAddress": "M.P. 2019 poz. 242",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 21 lutego 2019 r. nr 1131.2.2019 o powołaniu Prezesa Sądu Najwyższego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-02-21",
+  "promulgation": "2019-03-20",
+  "changeDate": "2020-06-12T09:00:58",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy",
+   "Prezes Sądu Najwyższego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 15 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190242.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190242.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
