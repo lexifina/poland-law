@@ -1,0 +1,1 @@
+Na podstawie art. 40 ust. 4 pkt 1 lit. a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.) zarządza się, co następuje:
