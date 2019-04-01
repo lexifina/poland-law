@@ -44,7 +44,7 @@
 
 - 6) przychody:
 
-  - a) z praw majątkowych, o których mowa w art. 16b ust. 1 pkt 4-7, z wyłączeniem przychodów z licencji bezpośrednio związanych z uzyskaniem przychodów niezaliczanych do zysków kapitałowych,
+  - a) z praw majątkowych, o których mowa w art. 16b ust. 1 pkt 4-7, z wyłączeniem przychodów z licencji bezpośrednio związanych z uzyskaniem przychodów niezaliczanych do zysków kapitałowych oraz praw wytworzonych przez podatnika,
 
   - b) z papierów wartościowych i pochodnych instrumentów finansowych, z wyłączeniem pochodnych instrumentów finansowych służących zabezpieczeniu przychodów albo kosztów, niezaliczanych do zysków kapitałowych,
 
@@ -52,6 +52,10 @@
 
   - d) z najmu, dzierżawy lub innej umowy o podobnych charakterze dotyczącej praw, o których mowa w lit. a-c,
 
-  - e) ze zbycia praw, o których mowa w lit. a-c.
+  - e) ze zbycia praw, o których mowa w lit. a-c,
 
-2. W przypadku ubezpieczycieli, banków, podmiotów, o których mowa w art. 15c ust. 16 pkt 3 i 4, oraz instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe przychody wymienione w ust. 1, z wyłączeniem przychodów, o których mowa w ust. 1 pkt 1 lit. a i f, zalicza się do przychodów innych niż przychody z zysków kapitałowych.
+  - f) z wymiany waluty wirtualnej na środek płatniczy, towar, usługę lub prawo majątkowe inne niż waluta wirtualna lub z regulowania innych zobowiązań walutą wirtualną.
+
+2. W przypadku ubezpieczycieli, banków, podmiotów, o których mowa w art. 15c ust. 16 pkt 3, 4, 15 i 16, instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe oraz podmiotów, o których mowa w art. 3 pkt 21 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, przychody wymienione w ust. 1, z wyłączeniem przychodów, o których mowa w ust. 1 pkt 1 lit. a i f, zalicza się do przychodów innych niż przychody z zysków kapitałowych.
+
+3. W przypadku podatników prowadzących działalność, o której mowa w art. 2 ust. 1 pkt 12 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, przychody wymienione w ust. 1 pkt 6 lit. f zalicza się do przychodów innych niż przychody z zysków kapitałowych.

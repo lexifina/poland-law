@@ -8,7 +8,7 @@
 
 - 3) przeniesienia ryzyka niewypłacalności dłużnika z tytułu pożyczek, innych niż udzielonych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe, w tym w ramach zobowiązań wynikających z pochodnych instrumentów finansowych oraz świadczeń o podobnym charakterze
 
-- poniesione bezpośrednio lub pośrednio na rzecz podmiotów powiązanych, o których mowa w art. 11, lub podmiotów mających miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 9a ust. 6, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają 5% kwoty odpowiadającej nadwyżce sumy przychodów ze wszystkich źródeł przychodów pomniejszonych o przychody z tytułu odsetek nad sumą kosztów uzyskania przychodów pomniejszonych o wartość zaliczonych w roku podatkowym do kosztów uzyskania przychodów odpisów amortyzacyjnych, o których mowa w art. 16a-16m, i odsetek.
+- poniesione bezpośrednio lub pośrednio na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4 lub podmiotów mających miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają 5% kwoty odpowiadającej nadwyżce sumy przychodów ze wszystkich źródeł przychodów pomniejszonych o przychody z tytułu odsetek nad sumą kosztów uzyskania przychodów pomniejszonych o wartość zaliczonych w roku podatkowym do kosztów uzyskania przychodów odpisów amortyzacyjnych, o których mowa w art. 16a-16m, i odsetek.
 
 2. W przypadku banków, spółdzielczych kas oszczędnościowo-kredytowych, Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej i instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe limit, o którym mowa w ust. 1, ustala się bez pomniejszania przychodów oraz kosztów uzyskania przychodów odpowiednio o przychody z tytułu odsetek oraz koszty z tytułu odsetek.
 
@@ -26,7 +26,7 @@
 
 9. Kwota kosztów, o których mowa w ust. 1, nieodliczona w danym roku podatkowym podlega odliczeniu w kolejnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-8 i 10-16 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
 
-10. Za koszty poniesione pośrednio na rzecz podmiotów, o których mowa w ust. 1, uważa się koszty poniesione na rzecz podmiotu niepowiązanego z podatnikiem, jeżeli rzeczywistym właścicielem należności z tytułów, o których mowa w ust. 1, lub jej części jest podmiot powiązany z podatnikiem w sposób, o którym mowa w art. 11, lub podmiot mający miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 9a ust. 6.
+10. Za koszty poniesione pośrednio na rzecz podmiotów, o których mowa w ust. 1, uważa się koszty poniesione na rzecz podmiotu niepowiązanego w rozumieniu art. 11a ust. 1 pkt 3 z podatnikiem, jeżeli rzeczywistym właścicielem należności z tytułów, o których mowa w ust. 1, lub jej części jest podmiot powiązany w rozumieniu art. 11a ust. 1 pkt 4 z podatnikiem lub podmiot mający miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2.
 
 11. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do:
 
@@ -44,6 +44,6 @@
 
 14. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów poniesionych przez spółkę tworzącą podatkową grupę kapitałową na rzecz innych spółek z tej podatkowej grupy kapitałowej.
 
-15. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów usług, opłat i należności, o których mowa w ust. 1, w zakresie, w jakim decyzja w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłat i należności, w okresie, którego ta decyzja dotyczy.
+15. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów usług, opłat i należności, o których mowa w ust. 1, w zakresie, w jakim decyzja w sprawie porozumienia, o której mowa w art. 20a Ordynacji podatkowej, obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłaty i należności w okresie, którego ta decyzja dotyczy.
 
 16. Przepis ust. 15 stosuje się również do roku podatkowego, w którym wydano decyzję, o której mowa w tym przepisie, oraz do roku podatkowego poprzedzającego ten rok podatkowy.

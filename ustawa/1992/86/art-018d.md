@@ -12,11 +12,11 @@
 
 - 2a) nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych;
 
-- 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87), a także nabycie od takiej jednostki wyników prowadzonych przez nią badań naukowych, na potrzeby działalności badawczo-rozwojowej;
+- 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także nabycie od takiego podmiotu wyników prowadzonych przez niego badań naukowych, na potrzeby działalności badawczo-rozwojowej;
 
-- 4) odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11 ust. 1 i 4;
+- 4) odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11a ust. 1 pkt 4;
 
-- 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11 ust. 1 i 4;
+- 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11a ust. 1 pkt 4;
 
 - 5) koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na:
 
@@ -32,7 +32,7 @@
 
 3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością.
 
-3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
+3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141 i 1669 oraz z 2019 r. poz. 534), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
 
 - 1) dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od budowli, budynków i lokali będących odrębną własnością wykorzystywanych w prowadzonej działalności badawczo-rozwojowej;
 
@@ -54,7 +54,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3, w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
 
-- 2) 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014
+- 2) 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014
 
 - stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
@@ -62,7 +62,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
 
-- 2) 50% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014.
+- 2) 50% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014.
 
 3g. Intensywność pomocy publicznej nie może przekroczyć wartości określonych w:
 
@@ -82,13 +82,13 @@
 
 3k. Do kosztów kwalifikowanych stanowiących odpisy amortyzacyjne od środków trwałych i wartości niematerialnych i prawnych przepisu art. 16 ust. 1 pkt 48 nie stosuje się.
 
-4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z jednostką naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki.
+4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z podmiotem, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
 
 5. Koszty kwalifikowane podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
 
 5a. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany w zeznaniu, o którym mowa w art. 27, składanym za rok podatkowy, w którym wystąpiły te okoliczności, do zwiększenia podstawy opodatkowania o kwotę dokonanych odliczeń, które zostały mu zwrócone, a w razie poniesienia straty - do jej zmniejszenia o tę kwotę.
 
-6. Podatnikowi, który w roku podatkowym prowadził działalność na terenie specjalnej strefy ekonomicznej na podstawie zezwolenia, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów kwalifikowanych, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie zezwolenia.
+6. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 17 ust. 1 pkt 34 lub 34a, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów kwalifikowanych, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
 
 7. Kwota kosztów kwalifikowanych nie może przekroczyć:
 

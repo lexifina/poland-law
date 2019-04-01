@@ -22,9 +22,9 @@
 
 - 3) po utworzeniu podatkowej grupy kapitałowej spółki tworzące tę grupę spełniają warunki wymienione w pkt 1 lit. a-c, a ponadto:
 
-  - a) nie korzystają ze zwolnień od podatku dochodowego na podstawie odrębnych ustaw,
+  - a) nie korzystają ze zwolnień podatkowych określonych w art. 17 ust. 1 pkt 34 lub 34a oraz ze zwolnień od podatku dochodowego na podstawie odrębnych ustaw,
 
-  - b) w przypadku dokonania transakcji, o których mowa w art. 9a ust. 1d, z podmiotami, o których mowa w art. 11, niewchodzącymi w skład podatkowej grupy kapitałowej, nie ustalają lub nie narzucają warunków różniących się od warunków, które ustaliłyby między sobą niezależne podmioty;
+  - b) w przypadku dokonania transakcji kontrolowanej w rozumieniu art. 11a ust. 1 pkt 6 z podmiotami powiązanymi w rozumieniu art. 11a ust. 1 pkt 4, niewchodzącymi w skład podatkowej grupy kapitałowej, nie ustalają lub nie narzucają warunków różniących się od warunków, które ustaliłyby między sobą podmioty niepowiązane w rozumieniu art. 11a ust. 1 pkt 3;
 
 - 4) podatkowa grupa kapitałowa osiągnie za każdy rok podatkowy udział dochodów, określonych zgodnie z art. 7 ust. 1, w przychodach - w wysokości co najmniej 2%.
 
@@ -92,4 +92,4 @@
 
 14. Spółki tworzące podatkową grupę kapitałową odpowiadają solidarnie za jej zobowiązania z tytułu podatku dochodowego należnego za okres obowiązywania umowy.
 
-15. Informacje o zarejestrowaniu i wykreśleniu podatkowej grupy kapitałowej podlegają ogłoszeniu w Monitorze Sądowym i Gospodarczym.
+15. (uchylony)

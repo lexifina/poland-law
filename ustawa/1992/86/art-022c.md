@@ -1,9 +1,9 @@
 # Art. 22c.
 
-1. Przepisów art. 20 ust. 3 oraz art. 22 ust. 4 nie stosuje się, jeżeli:
+1. Przepisów art. 20 ust. 3, art. 21 ust. 3 oraz art. 22 ust. 4 nie stosuje się, jeżeli skorzystanie ze zwolnienia określonego w tych przepisach było:
 
-- 1) osiągnięcie dochodów (przychodów) z dywidend oraz innych przychodów z tytułu udziału w zyskach osób prawnych następuje w związku z zawarciem umowy lub dokonaniem innej czynności prawnej, lub wielu powiązanych czynności prawnych, których głównym lub jednym z głównych celów było uzyskanie zwolnienia od podatku dochodowego na podstawie art. 20 ust. 3 lub art. 22 ust. 4, a uzyskanie tego zwolnienia nie skutkuje wyłącznie wyeliminowaniem podwójnego opodatkowania tych dochodów (przychodów), oraz
+- 1) sprzeczne w danych okolicznościach z przedmiotem lub celem tych przepisów;
 
-- 2) czynności, o których mowa w pkt 1, nie mają rzeczywistego charakteru.
+- 2) głównym lub jednym z głównych celów dokonania transakcji lub innej czynności albo wielu transakcji lub innych czynności, a sposób działania był sztuczny.
 
-2. Dla celów ust. 1 uznaje się, że umowa lub inna czynność prawna nie ma rzeczywistego charakteru w zakresie, w jakim nie jest dokonywana z uzasadnionych przyczyn ekonomicznych. W szczególności dotyczy to sytuacji, gdy w drodze czynności, o których mowa w ust. 1, przenoszona jest własność udziałów (akcji) spółki wypłacającej dywidendę lub spółka osiąga przychód (dochód), wypłacany następnie w formie dywidendy lub innego przychodu z tytułu udziału w zyskach osób prawnych.
+2. Na potrzeby ust. 1 sposób działania nie jest sztuczny, jeżeli na podstawie istniejących okoliczności należy przyjąć, że podmiot działający rozsądnie i kierujący się zgodnymi z prawem celami zastosowałby ten sposób działania w dominującej mierze z uzasadnionych przyczyn ekonomicznych. Do przyczyn, o których mowa w zdaniu pierwszym, nie zalicza się celu skorzystania ze zwolnienia określonego w przepisach art. 20 ust. 3, art. 21 ust. 3 oraz art. 22 ust. 4, sprzecznego z przedmiotem lub celem tych przepisów.

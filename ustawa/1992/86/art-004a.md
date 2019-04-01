@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
 
@@ -12,25 +12,25 @@ Ilekroć w ustawie jest mowa o:
 
 - 5) programie restrukturyzacji na podstawie odrębnych ustaw - oznacza to restrukturyzację na podstawie ustaw:
 
-  - a) ustawy z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
+  - a) z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
 
-  - b) ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 2011),
+  - b) z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 2011),
 
-  - c) ustawy z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
+  - c) z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
 
-  - d) ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2017 r. poz. 680 i 1529),
+  - d) z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2018 r. poz. 1311 oraz z 2019 r. poz. 492),
 
-  - e) ustawy z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.),
+  - e) z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.),
 
-  - f) ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
+  - f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
 
-- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149 i 398);
+- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243 i 326);
 
 - 6) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
-- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62, 86 i 650);
+- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.);
 
-- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834);
+- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834 oraz z 2018 r. poz. 1693);
 
 - 9) (uchylony)
 
@@ -62,7 +62,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) spółce niebędącej osobą prawną - oznacza to spółkę inną niż określona w pkt 21;
 
-- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.);
+- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244);
 
 - 16) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
 
@@ -88,9 +88,13 @@ Ilekroć w ustawie jest mowa o:
 
 - 22) pochodnych instrumentach finansowych - oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c-i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
+- 22a) walucie wirtualnej - oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+
+- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075, 1499 i 2215 oraz z 2019 r. poz. 125);
+
 - 23) komercjalizowanej własności intelektualnej - oznacza to:
 
-  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2017 r. poz. 776),
+  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2017 r. poz. 776, z 2018 r. poz. 2302 oraz z 2019 r. poz. 501),
 
   - b) autorskie prawa majątkowe do programu komputerowego,
 
@@ -100,21 +104,27 @@ Ilekroć w ustawie jest mowa o:
 
 - 24) podmiocie komercjalizującym - oznacza to:
 
-  - a) uczelnię w rozumieniu ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650 i 730),
+  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.),
 
-  - b) spółkę utworzoną na podstawie art. 86a ust. 1 lub art. 86b ust. 1 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym,
+  - b) spółkę utworzoną na podstawie art. 149 ust. 1 lub art. 150 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
 
-  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2017 r. poz. 1869 i 2201),
+  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2018 r. poz. 1475 i 1669 oraz z 2019 r. poz. 534),
 
   - d) spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
 
-  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736),
+  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669 oraz z 2019 r. poz. 534),
 
   - f) spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
 
   - g) twórcę uprawnionego do praw lub wartości wymienionych w pkt 23 lit. a-c, a także zawarcia umowy licencyjnej, o której mowa w pkt 23 lit. d,
 
-  - h) międzynarodowy instytut naukowy utworzony na podstawie odrębnych przepisów, działający na terytorium Rzeczypospolitej Polskiej
+  - h) międzynarodowy instytut naukowy utworzony na podstawie odrębnych przepisów, działający na terytorium Rzeczypospolitej Polskiej,
+
+  - i) Centrum Łukasiewicz,
+
+  - j) instytuty działające w ramach Sieci Badawczej Łukasiewicz,
+
+  - k) spółkę utworzoną na podstawie art. 30 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534)
 
   - jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
 
@@ -124,21 +134,23 @@ Ilekroć w ustawie jest mowa o:
 
 - 27) badaniach naukowych - oznacza to:
 
-  - a) badania podstawowe - oryginalne prace badawcze, eksperymentalne lub teoretyczne podejmowane przede wszystkim w celu zdobywania nowej wiedzy o podstawach zjawisk i obserwowalnych faktów bez nastawienia na bezpośrednie zastosowanie komercyjne,
+  - a) badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
 
-  - b) badania stosowane - prace badawcze podejmowane w celu zdobycia nowej wiedzy, zorientowane przede wszystkim na zastosowanie w praktyce,
+  - b) badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-  - c) badania przemysłowe - badania mające na celu zdobycie nowej wiedzy oraz umiejętności w celu opracowywania nowych produktów, procesów i usług lub wprowadzania znaczących ulepszeń do istniejących produktów, procesów i usług; badania te uwzględniają tworzenie elementów składowych systemów złożonych, budowę prototypów w środowisku laboratoryjnym lub w środowisku symulującym istniejące systemy, szczególnie do oceny przydatności danych rodzajów technologii, a także budowę niezbędnych w tych badaniach linii pilotażowych, w tym do uzyskania dowodu w przypadku technologii generycznych;
+- 28) pracach rozwojowych - oznacza to prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-- 28) pracach rozwojowych - oznacza to nabywanie, łączenie, kształtowanie i wykorzystywanie dostępnej aktualnie wiedzy i umiejętności z dziedziny nauki, technologii i działalności gospodarczej oraz innej wiedzy i umiejętności do planowania produkcji oraz tworzenia i projektowania nowych, zmienionych lub ulepszonych produktów, procesów i usług, z wyłączeniem prac obejmujących rutynowe i okresowe zmiany wprowadzane do produktów, linii produkcyjnych, procesów wytwórczych, istniejących usług oraz innych operacji w toku, nawet jeżeli takie zmiany mają charakter ulepszeń, w szczególności:
+- 29) rzeczywistym właścicielu - oznacza to podmiot, który spełnia łącznie następujące warunki:
 
-  - a) opracowywanie prototypów i projektów pilotażowych oraz demonstracje, testowanie i walidację nowych lub ulepszonych produktów, procesów lub usług w otoczeniu stanowiącym model warunków rzeczywistego funkcjonowania, których głównym celem jest dalsze udoskonalenie techniczne produktów, procesów lub usług, których ostateczny kształt nie został określony,
+  - a) otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
 
-  - b) opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna;
+  - b) nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym prawnie lub faktycznie do przekazania całości lub części należności innemu podmiotowi,
 
-- 29) rzeczywistym właścicielu - oznacza to podmiot otrzymujący daną należność dla własnej korzyści, niebędący pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części danej należności innemu podmiotowi;
+  - c) prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności uzyskiwane są w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, przepis art. 24a ust. 18 stosuje się odpowiednio;
 
-- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 56, z późn. zm.);
+- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244);
+
+- 30a) alternatywnej spółce inwestycyjnej - oznacza to alternatywną spółkę inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych;
 
 - 31) nabytych wierzytelnościach banku hipotecznego - oznacza to nabyte przez bank hipoteczny, w celu emisji listów zastawnych, od innych banków wierzytelności z tytułu udzielonych przez nie kredytów;
 
@@ -150,4 +162,6 @@ Ilekroć w ustawie jest mowa o:
 
   - c) nabyte wierzytelności banku hipotecznego
 
-  - przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości.
+  - przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości;
+
+- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215).

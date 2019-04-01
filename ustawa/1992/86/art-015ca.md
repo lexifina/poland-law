@@ -1,3 +1,3 @@
 # Art. 15ca.
 
-W przypadku gdy koszty finansowania dłużnego w rozumieniu art. 15c ust. 12 przekraczają wartość finansowania, jaką podatnik mógłby uzyskać, gdyby takie finansowanie udzielone zostało podatnikowi przez podmioty niepowiązane z podatnikiem (rynkowa zdolność kredytowa podatnika), organ podatkowy może określić dochód podatnika w wysokości większej lub stratę w wysokości mniejszej, niż zadeklarowana przez podatnika. Przepisy art. 11 stosuje się odpowiednio, z tym że przy ustalaniu rynkowej zdolności kredytowej podatnika nie bierze się pod uwagę zabezpieczeń udzielonych podatnikowi przez podmioty powiązane ani zdolności kredytowej wynikającej z istnienia powiązań, o których mowa w tym przepisie.
+(uchylony)
