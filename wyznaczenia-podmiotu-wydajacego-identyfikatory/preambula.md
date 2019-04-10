@@ -1,0 +1,1 @@
+Na podstawie art. 10aa ust. 12 pkt 1 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2018 r. poz. 1446 i 2227 oraz z 2019 r. poz. 638) zarządza się, co następuje:
