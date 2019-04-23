@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/741",
+ "source_sha256": "f0fd70b470f92086d07d0458135d309c91b1d6dc2aa50fda4ee5c02b40f105d8",
+ "in_force": "2019-04-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/741",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/741/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/741/text/O/D20190741.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/741/text/I/D20190741.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/741/text/T/D20190741L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/741/text/U/D20190741Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/741",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 741,
+  "address": "WDU20190000741",
+  "displayAddress": "Dz.U. 2019 poz. 741",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-04-04",
+  "promulgation": "2019-04-23",
+  "expirationDate": "2023-07-10",
+  "changeDate": "2025-04-10T11:25:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "samorząd terytorialny",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/985"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190741.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190741.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20190741L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20190741Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
