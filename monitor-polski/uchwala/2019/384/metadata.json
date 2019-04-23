@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/384",
+ "source_sha256": "7820bcb5c5e3855ecfb35afdbcd903662d108e5ebd4e8154c479e3fee4731bdd",
+ "in_force": "2019-04-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/384",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/384/text/O/M20190384.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/384/text/I/M20190384.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/384",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 384,
+  "address": "WMP20190000384",
+  "displayAddress": "M.P. 2019 poz. 384",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 12 kwietnia 2019 r. w sprawie wyboru ławników Sądu Najwyższego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-12",
+  "promulgation": "2019-04-23",
+  "changeDate": "2019-04-24T11:43:30",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ławnicy"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 61 par. 2"
+    },
+    {
+     "id": "DU/2018/5",
+     "art": "art. 66"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190384.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190384.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
