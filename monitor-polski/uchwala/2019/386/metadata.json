@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/386",
+ "source_sha256": "45996ce250457843f2d2d38211698ee60fad4c32ec017f8ef207cf6bab18306b",
+ "in_force": "2019-04-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/386",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/386/text/O/M20190386.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/386/text/I/M20190386.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/386",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 386,
+  "address": "WMP20190000386",
+  "displayAddress": "M.P. 2019 poz. 386",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 12 kwietnia 2019 r. w sprawie zmian w składzie sekretarzy Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-12",
+  "promulgation": "2019-04-23",
+  "changeDate": "2019-04-24T11:43:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Regulamin Sejmu RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 6"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190386.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190386.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
