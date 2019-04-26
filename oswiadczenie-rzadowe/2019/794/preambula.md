@@ -1,0 +1,7 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 9 listopada 2018 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 23 czerwca 1994 r. (Dz. U. z 2019 r. poz. 4) Prezydent Rzeczypospolitej Polskiej dnia 12 lutego 2019 r. ratyfikował Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 23 czerwca 1994 r., zawarte w drodze wymiany not dyplomatycznych z dnia 14 marca 2018 r. oraz z dnia 18 czerwca 2018 r.
+
+Porozumienie wchodzi w życie dnia 21 maja 2019 r.
+
+Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii w sprawie popierania i wzajemnej ochrony inwestycji, sporządzona w Warszawie dnia 23 czerwca 1994 r., traci moc obowiązującą dnia 21 maja 2019 r.
+
+Zgodnie z pkt 2 porozumienia, w odniesieniu do inwestycji dokonanych przed datą utraty mocy Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 23 czerwca 1994 r., tj. przed dniem 21 maja 2019 r., żadne postanowienie tej umowy nie pozostaje w mocy.
