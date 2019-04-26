@@ -1,0 +1,5 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 7 czerwca 2018 r. o wypowiedzeniu Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Londynie dnia 8 grudnia 1987 r. (Dz. U. poz. 1414) Prezydent Rzeczypospolitej Polskiej dnia 19 listopada 2018 r. wypowiedział Umowę między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej w sprawie popierania i wzajemnej ochrony inwestycji, podpisaną w Londynie dnia 8 grudnia 1987 r., co zostało notyfikowane Rządowi Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej dnia 22 listopada 2018 r..
+
+Zgodnie z art. 13 zdanie drugie umowy traci ona moc obowiązującą dnia 22 listopada 2019 r.
+
+Zgodnie z art. 13 zdanie trzecie umowy, w odniesieniu do inwestycji dokonanych w czasie obowiązywania umowy, tj. przed dniem 22 listopada 2019 r., jej postanowienia zachowują moc do dnia 22 listopada 2034 r.
