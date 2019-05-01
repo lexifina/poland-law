@@ -1,0 +1,110 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/675",
+ "source_sha256": "162a95eb8355934487ad20afc6ca6976ba3f43b32c2db8fd9a404abeaeaaca78",
+ "in_force": "2019-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/675",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/675/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/675/text/O/D20190675.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/675/text/I/D20190675.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/675/text/T/D20190675L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/675/text/U/D20190675Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/675",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 675,
+  "address": "WDU20190000675",
+  "displayAddress": "Dz.U. 2019 poz. 675",
+  "title": "Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy - Prawo o miarach",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-03-15",
+  "promulgation": "2019-04-10",
+  "entryIntoForce": "2019-05-01",
+  "changeDate": "2024-03-14T19:58:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH"
+  ],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH",
+   "MIN. WŁAŚCIWY DS GOSPODARKI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "kasy rejestrujące",
+   "ewidencja",
+   "podatek od towarów i usług",
+   "miary i narzędzia pomiarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=2503",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/2503",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/2503",
+    "number": "2503",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2018/1206",
+     "date": "2021-05-02"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2022/2707",
+     "date": "2022-12-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/535",
+     "date": "2019-05-01"
+    },
+    {
+     "id": "DU/2001/636",
+     "date": "2019-05-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190675.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190675.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20190675L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20190675Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
