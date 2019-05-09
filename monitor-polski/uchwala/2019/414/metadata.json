@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/414",
+ "source_sha256": "7a215497e4e3ebf6b355e3bc70e522e9e5ecc700b798319f67d85da81bb630ef",
+ "in_force": "2019-05-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/414",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/414/text/O/M20190414.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/414/text/I/M20190414.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/414",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 414,
+  "address": "WMP20190000414",
+  "displayAddress": "M.P. 2019 poz. 414",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 kwietnia 2019 r. w sprawie wyboru sędziego Trybunału Konstytucyjnego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-26",
+  "promulgation": "2019-05-09",
+  "changeDate": "2019-05-10T10:25:19",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2016/2073"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/2016/2073",
+     "art": "art. 2 ust. 2 zdanie pierwsze"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 194 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190414.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190414.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
