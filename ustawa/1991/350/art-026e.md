@@ -6,17 +6,17 @@
 
 - 1) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 12 ust. 1, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na realizację działalności badawczo-rozwojowej pozostaje w ogólnym czasie pracy pracownika w danym miesiącu;
 
-- 1a) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu;
+- 1a) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a i c, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu;
 
 - 2) nabycie materiałów i surowców bezpośrednio związanych z prowadzoną działalnością badawczo-rozwojową;
 
 - 2a) nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych;
 
-- 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87), a także nabycie od takiej jednostki wyników prowadzonych przez nią badań naukowych, na potrzeby działalności badawczo-rozwojowej;
+- 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także nabycie od takiego podmiotu wyników prowadzonych przez niego badań naukowych, na potrzeby działalności badawczo-rozwojowej;
 
-- 4) odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 25 ust. 1 i 4;
+- 4) odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
 
-- 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 25;
+- 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
 
 - 5) koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na:
 
@@ -32,7 +32,7 @@
 
 3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością.
 
-3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
+3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141 i 1669 oraz z 2019 r. poz. 534), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
 
 - 1) dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od budowli, budynków i lokali będących odrębną własnością wykorzystywanych w prowadzonej działalności badawczo-rozwojowej;
 
@@ -76,13 +76,13 @@
 
 - 2) ciąży na nim obowiązek zwrotu pomocy wynikający z wcześniejszej decyzji Komisji Europejskiej uznającej pomoc za niezgodną z prawem i ze wspólnym rynkiem.
 
-3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, w terminie złożenia zeznania podatkowego, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
+3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, przed upływem terminu określonego na złożenie zeznania, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362 oraz z 2019 r. poz. 730).
 
 3j. Odliczenie, o którym mowa w ust. 3d, jest dokonywane w okresie stosowania rozporządzenia nr 651/2014.
 
 3k. Do kosztów kwalifikowanych stanowiących odpisy amortyzacyjne od środków trwałych i wartości niematerialnych i prawnych przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
 
-4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z jednostką naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki.
+4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z podmiotem, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
 
 5. Koszty kwalifikowane podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy obliczenia podatku.
 
@@ -99,3 +99,5 @@
 8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia - odpowiednio w całej kwocie lub w pozostałej części - dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
 
 9. Przepisu ust. 8 zdanie drugie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 26ea.
+
+10. Jeżeli podatnik zmarł przed upływem okresu określonego w ust. 8, nieodliczoną kwotę odlicza przedsiębiorstwo w spadku, jeżeli kwoty tej zmarły podatnik nie wykazał w zeznaniu zgodnie z art. 26ea. Nieodliczoną kwotę przedsiębiorstwo w spadku odlicza w okresie, w jakim prawo to przysługiwało zmarłemu podatnikowi.

@@ -22,7 +22,9 @@
 
 - 6) w razie nabycia, o którym mowa w art. 14 ust. 2e - wartość wierzytelności (należności) uregulowanej w wyniku wykonania świadczenia niepieniężnego, o którym mowa w tym przepisie; przepis ust. 3 stosuje się odpowiednio;
 
-- 7) w razie prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2a, działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład - wartość, o której mowa w art. 22 ust. 1n, nie wyższą jednak od wartości rynkowej składnika majątku.
+- 7) w razie prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2a, działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład - wartość, o której mowa w art. 22 ust. 1n;
+
+- 8) w razie gdy podatnik, o którym mowa w art. 3 ust. 1, przeniósł w celu wykorzystywania w prowadzonej na terytorium Rzeczypospolitej Polskiej działalności gospodarczej składnik majątku swojego zagranicznego zakładu, w tym w wyniku jego likwidacji, lub przeniósł w związku ze zmianą miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w celu wykorzystywania w tej działalności składnik majątku wykorzystywany w działalności gospodarczej prowadzonej poza terytorium Rzeczypospolitej Polskiej - wartość określoną zgodnie z art. 22 ust. 1na.
 
 1a. Przepis ust. 1 pkt 4 lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego (aportu) do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki.
 
@@ -62,13 +64,13 @@
 
 - jeżeli przed przerwą lub zmianą składniki majątku były wprowadzone do ewidencji (wykazu).
 
+13a. Przepis ust. 12 stosuje się odpowiednio w przypadku kontynuowania działalności po zmarłym przedsiębiorcy przez przedsiębiorstwo w spadku.
+
 14. W razie nabycia w drodze kupna lub przyjęcia do odpłatnego korzystania przedsiębiorstwa lub jego zorganizowanej części, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi:
 
 - 1) suma ich wartości rynkowej w przypadku wystąpienia dodatniej wartości firmy, ustalonej zgodnie z ust. 2;
 
-- 2) różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku niewystąpienia dodatniej wartości firmy.
-
-14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
+- 2) różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku niewystąpienia dodatniej wartości firmy. 14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
 
 14b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 12 stosuje się odpowiednio.
 

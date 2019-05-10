@@ -10,6 +10,6 @@
 
 2. Odliczeniu podlega kwota stanowiąca różnicę między podatkiem obliczonym zgodnie z art. 27 ust. 9 albo 9a a kwotą podatku obliczonego od dochodów ze źródeł, o których mowa w ust. 1, przy zastosowaniu do tych dochodów zasad określonych w art. 27 ust. 8.
 
-3. Odliczenia nie stosuje się, gdy dochody ze źródeł, o których mowa w ust. 1, uzyskane zostały w krajach i na terytoriach wymienionych w rozporządzeniu wydanym na podstawie art. 25a ust. 6.
+3. Odliczenia nie stosuje się, gdy dochody ze źródeł, o których mowa w ust. 1, uzyskane zostały w krajach i na terytoriach wymienionych w rozporządzeniu wydanym na podstawie art. 23v ust. 2.
 
 4. Przepisy ust. 1-3 stosuje się odpowiednio do podatku obliczanego zgodnie z art. 30c.

@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 22g ust. 3;
 
@@ -10,7 +10,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 4) zorganizowanej części przedsiębiorstwa - oznacza to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
 
-- 5) Ordynacji podatkowej - oznacza to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.);
+- 5) Ordynacji podatkowej - oznacza to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, 924 i 1018);
 
 - 6) działalności gospodarczej albo pozarolniczej działalności gospodarczej - oznacza to działalność zarobkową:
 
@@ -22,7 +22,7 @@ Ilekroć w ustawie jest mowa o:
 
   - prowadzoną we własnym imieniu bez względu na jej rezultat, w sposób zorganizowany i ciągły, z której uzyskane przychody nie są zaliczane do innych przychodów ze źródeł wymienionych w art. 10 ust. 1 pkt 1, 2 i 4-9;
 
-- 7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, 1000 i 1076);
+- 7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2019 r. poz. 1172);
 
 - 8) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego odpowiednio właściwy dla podatnika lub płatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
@@ -30,7 +30,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 10) (uchylony)
 
-- 11) papierach wartościowych - oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.);
+- 11) papierach wartościowych - oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730 i 875);
 
 - 12) dyskoncie - oznacza to różnicę między kwotą uzyskaną z wykupu papieru wartościowego przez emitenta a wydatkami poniesionymi na nabycie papieru wartościowego na rynku pierwotnym lub wtórnym, a w przypadku nabycia papieru wartościowego w drodze spadku lub darowizny - różnicę między kwotą uzyskaną z wykupu a wydatkami poniesionymi przez spadkodawcę lub darczyńcę na nabycie tego papieru wartościowego;
 
@@ -38,13 +38,19 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) funduszach kapitałowych - oznacza to fundusze inwestycyjne oraz fundusze zagraniczne, o których mowa w przepisach o funduszach inwestycyjnych, oraz ubezpieczeniowe fundusze kapitałowe działające na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej, z wyjątkiem funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
 
-- 15) ustawie o zryczałtowanym podatku dochodowym - oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157 i 2175 oraz z 2018 r. poz. 650 i 1291);
+- 15) ustawie o zryczałtowanym podatku dochodowym - oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2019 r. poz. 43);
 
-- 16) ustawie o działalności pożytku publicznego - oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650, 723 i 1365);
+- 16) ustawie o działalności pożytku publicznego - oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2019 r. poz. 688);
 
-- 17) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62, 86 i 650);
+- 17) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.);
 
-- 18) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834);
+- 18) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834 oraz z 2018 r. poz. 1693);
+
+- 18a) ustawie o wspieraniu termomodernizacji i remontów - oznacza to ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2018 r. poz. 966 oraz z 2019 r. poz. 51);
+
+- 18b) budynku mieszkalnym jednorodzinnym - oznacza to budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2019 r. poz. 1186);
+
+- 18c) przedsięwzięciu termomodernizacyjnym - oznacza to przedsięwzięcie termomodernizacyjne w rozumieniu art. 2 pkt 2 ustawy o wspieraniu termomodernizacji i remontów;
 
 - 19) (uchylony)
 
@@ -58,7 +64,7 @@ Ilekroć w ustawie jest mowa o:
 
   - d) pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;
 
-- 20) małym podatniku - oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 1 200 000 euro; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
+- 20) małym podatniku - oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 1 200 000 euro, a w przypadku przedsiębiorstwa w spadku również przychodu ze sprzedaży u zmarłego przedsiębiorcy; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
 
 - 21) certyfikacie rezydencji - oznacza to zaświadczenie o miejscu zamieszkania podatnika dla celów podatkowych wydane przez właściwy organ administracji podatkowej państwa miejsca zamieszkania podatnika;
 
@@ -74,7 +80,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 23) ustawie o emeryturach kapitałowych - oznacza to ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
 
-- 23a) umowie o pomocy przy zbiorach - oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2017 r. poz. 2336 oraz z 2018 r. poz. 650 i 858);
+- 23a) umowie o pomocy przy zbiorach - oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2019 r. poz. 299 i 303);
 
 - 24) PKWiU - oznacza to Polską Klasyfikację Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753);
 
@@ -106,9 +112,23 @@ Ilekroć w ustawie jest mowa o:
 
 - 33) wspólniku - oznacza to również akcjonariusza;
 
+- 33a) walucie wirtualnej - oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+
+- 33b) ustawie o podatku dochodowym od osób prawnych - oznacza to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865 i 1018);
+
+- 33c) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2019 r. poz. 1115);
+
+- 33d) rzeczywistym właścicielu - oznacza to podmiot, który spełnia łącznie następujące warunki:
+
+  - a) otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
+
+  - b) nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym prawnie lub faktycznie do przekazania całości lub części należności innemu podmiotowi,
+
+  - c) prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania - w przypadku należności uzyskiwanych w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, przepis art. 30f ust. 20 stosuje się odpowiednio;
+
 - 34) komercjalizowanej własności intelektualnej - oznacza to:
 
-  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2017 r. poz. 776),
+  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2017 r. poz. 776, z 2018 r. poz. 2302 oraz z 2019 r. poz. 501),
 
   - b) autorskie prawa majątkowe do programu komputerowego,
 
@@ -120,24 +140,26 @@ Ilekroć w ustawie jest mowa o:
 
 - 36) krótkiej sprzedaży - oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
 
-- 37) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149 i 398);
+- 37) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, 326 i 912);
 
 - 38) działalności badawczo-rozwojowej - oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
 
 - 39) badaniach naukowych - oznacza to:
 
-  - a) badania podstawowe - oryginalne prace badawcze, eksperymentalne lub teoretyczne podejmowane przede wszystkim w celu zdobywania nowej wiedzy o podstawach zjawisk i obserwowalnych faktów bez nastawienia na bezpośrednie zastosowanie komercyjne,
+  - a) badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.),
 
-  - b) badania stosowane - prace badawcze podejmowane w celu zdobycia nowej wiedzy, zorientowane przede wszystkim na zastosowanie w praktyce,
+  - b) badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-  - c) badania przemysłowe - badania mające na celu zdobycie nowej wiedzy oraz umiejętności w celu opracowywania nowych produktów, procesów i usług lub wprowadzania znaczących ulepszeń do istniejących produktów, procesów i usług; badania te uwzględniają tworzenie elementów składowych systemów złożonych, budowę prototypów w środowisku laboratoryjnym lub w środowisku symulującym istniejące systemy, szczególnie do oceny przydatności danych rodzajów technologii, a także budowę niezbędnych w tych badaniach linii pilotażowych, w tym do uzyskania dowodu w przypadku technologii generycznych;
+- 40) pracach rozwojowych - oznacza to prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-- 40) pracach rozwojowych - oznacza to nabywanie, łączenie, kształtowanie i wykorzystywanie dostępnej aktualnie wiedzy i umiejętności z dziedziny nauki, technologii i działalności gospodarczej oraz innej wiedzy i umiejętności do planowania produkcji oraz tworzenia i projektowania nowych, zmienionych lub ulepszonych produktów, procesów i usług, z wyłączeniem prac obejmujących rutynowe i okresowe zmiany wprowadzane do produktów, linii produkcyjnych, procesów wytwórczych, istniejących usług oraz innych operacji w toku, nawet jeżeli takie zmiany mają charakter ulepszeń, w szczególności:
+- 41) przepisach o systemie oświaty - oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761), przepisy ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2019 r. poz. 1148 i 1078) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245).
 
-  - a) opracowywanie prototypów i projektów pilotażowych oraz demonstracje, testowanie i walidację nowych lub ulepszonych produktów, procesów lub usług w otoczeniu stanowiącym model warunków rzeczywistego funkcjonowania, których głównym celem jest dalsze udoskonalenie techniczne produktów, procesów lub usług, których ostateczny kształt nie został określony,
+- 42) ustawie o CEIDG - oznacza to ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647, 1544, 1629 i 2244 oraz z 2019 r. poz. 60 i 730);
 
-  - b) opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna;
+- 43) przedsiębiorstwie w spadku - oznacza to przedsiębiorstwo w spadku w rozumieniu ustawy o zarządzie sukcesyjnym;
 
-- 41) przepisach o systemie oświaty - oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2017 r. poz. 2198, 2203 i 2361), przepisy ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000 i 1290) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203).
+- 44) zarządzie sukcesyjnym - oznacza to zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
 
-- 42) ustawie o CEIDG - oznacza to ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647).
+- 45) zmarłym przedsiębiorcy - oznacza to zmarłego przedsiębiorcę, o którym mowa w art. 1 ustawy o zarządzie sukcesyjnym;
+
+- 46) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215 oraz z 2019 r. poz. 1074).

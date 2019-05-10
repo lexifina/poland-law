@@ -32,7 +32,19 @@
 
 - 11) od dochodu uczestnika pracowniczego programu emerytalnego z tytułu zwrotu środków zgromadzonych w ramach programu, w rozumieniu przepisów o pracowniczych programach emerytalnych;
 
-- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270).
+- 11a) od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego w związku z wypłatą dokonaną na podstawie art. 98 ustawy o pracowniczych planach kapitałowych - w zakresie, w jakim uczestnik pracowniczego planu kapitałowego nie dokonał zwrotu wypłaconych środków w terminie wynikającym z umowy zawartej z wybraną instytucją finansową;
+
+- 11b) od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty środków, o których mowa w art. 99 ust. 1 pkt 2 ustawy o pracowniczych planach kapitałowych - jeżeli wypłata będzie wypłacana w mniejszej ilości rat niż 120 miesięcznych rat, albo z tytułu wypłaty jednorazowej - w przypadku określonym w art. 99 ust. 2 ustawy o pracowniczych planach kapitałowych;
+
+- 11c) od dochodu małżonka lub byłego małżonka uczestnika pracowniczego planu kapitałowego z tytułu zwrotu dokonanego na podstawie art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych;
+
+- 11d) od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego z tytułu zwrotu zgromadzonych środków dokonanego na podstawie art. 105 ustawy o pracowniczych planach kapitałowych;
+
+- 11e) od dochodu małżonka lub byłego małżonka, z tytułu wypłaty 75% środków, które zostały mu przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych, dokonanej po osiągnięciu przez niego 60 roku życia - jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
+
+- 11f) od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty 75% środków zgromadzonych na rachunku w pracowniczym planie kapitałowym, które zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 102 ust. 3 ustawy o pracowniczych planach kapitałowych - jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
+
+- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245 oraz z 2019 r. poz. 39, 730 i 752).
 
 2. Przepisy ust. 1 pkt 1-5 stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 
@@ -75,3 +87,17 @@
 10. (uchylony)
 
 11. Kwoty zryczałtowanego podatku obliczonego od przychodów (dochodów), o których mowa w ust. 1 pkt 1-5, uzyskanych poza granicami Rzeczypospolitej Polskiej oraz kwotę podatku zapłaconego za granicą, o której mowa w ust. 9, podatnicy są obowiązani wykazać w zeznaniu podatkowym, o którym mowa w art. 45 ust. 1 lub 1a.
+
+12. Dochód, o którym mowa w ust. 1 pkt 11a, stanowi kwota niedokonanego w terminie zwrotu wypłaconych środków pomniejszona o koszt nabycia odkupionych jednostek uczestnictwa lub umorzonych jednostek rozrachunkowych, przypadających na ten niedokonany zwrot. Za koszt, o którym mowa w zdaniu pierwszym, uważa się sumę wydatków na nabycie odkupionych jednostek uczestnictwa albo sumę wpłat na umorzone jednostki rozrachunkowe, z których dokonano wypłaty w trybie art. 98 ustawy o pracowniczych planach kapitałowych, ustaloną w takiej proporcji, jaką stanowiła kwota niedokonanego zwrotu do wartości wypłaconych środków. Dochód powstaje w dniu następującym po dniu, w którym upłynął termin zwrotu wypłaconych środków określony w umowie, o której mowa w art. 98 ust. 1 ustawy o pracowniczych planach kapitałowych.
+
+13. Dochód, o którym mowa w ust. 1 pkt 11b, stanowi kwota wypłaty z dokonanego odkupienia jednostek uczestnictwa lub umorzenia jednostek rozrachunkowych, pomniejszona o wydatki na nabycie odkupionych jednostek uczestnictwa lub wpłaty na umorzone jednostki rozrachunkowe, z których dokonano wypłaty.
+
+14. Dochód, o którym mowa w ust. 1 pkt 11c, stanowi kwota zwrotu z dokonanego odkupienia jednostek uczestnictwa lub umorzenia jednostek rozrachunkowych, pomniejszona o wydatki na nabycie odkupionych jednostek uczestnictwa lub wpłaty na umorzone jednostki rozrachunkowe, z których dokonano zwrotu.
+
+15. Dochód, o którym mowa w ust. 1 pkt 11d, stanowi kwota zwrotu z dokonanego odkupienia jednostek uczestnictwa lub umorzenia jednostek rozrachunkowych, pomniejszona o wydatki na nabycie odkupionych jednostek uczestnictwa lub wpłaty na umorzone jednostki rozrachunkowe, z których dokonano zwrotu.
+
+16. Dochód, o którym mowa w ust. 1 pkt 11e, stanowi kwota wypłaty pomniejszona o koszty przypadające na tę wypłatę stanowiące 75% wydatków na nabycie odkupionych jednostek uczestnictwa lub 75% wpłat na umorzone jednostki rozrachunkowe, z których środki pieniężne zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej.
+
+17. Dochód, o którym mowa w ust. 1 pkt 11f, stanowi kwota wypłaty pomniejszona o koszty przypadające na tę wypłatę stanowiące wydatki na nabycie odkupionych jednostek uczestnictwa lub wpłaty na umorzone jednostki rozrachunkowe, z których środki pieniężne zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej.
+
+18. Jeżeli odkupywane jednostki uczestnictwa zostały nabyte albo umarzane jednostki rozrachunkowe zostały przeliczone w wyniku konwersji, o której mowa w art. 2 ust. 1 pkt 12 ustawy o pracowniczych planach kapitałowych, wydatki na nabycie odkupionych jednostek uczestnictwa lub wpłaty na umorzone jednostki rozrachunkowe, o których mowa w ust. 12-17, stanowią wydatki na nabycie jednostek uczestnictwa lub wpłaty dokonywane na jednostki rozrachunkowe, w wysokości wydatków lub wpłat za jaką zostały nabyte jednostki uczestnictwa lub dokonane wpłaty na jednostki rozrachunkowe przed dokonaniem konwersji.

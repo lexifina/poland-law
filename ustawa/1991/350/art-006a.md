@@ -10,6 +10,6 @@
 
 - 1) stosuje się sposób opodatkowania określony w art. 6 ust. 2;
 
-- 2) stosuje się przepisy art. 6 ust. 3, 3a i 8-13;
+- 2) stosuje się przepisy art. 6 ust. 3, 3a, 8, 9 i 11-13;
 
 - 3) nie stosuje się przepisu art. 6 ust. 4.

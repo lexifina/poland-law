@@ -26,6 +26,8 @@
 
   - b) przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający,
 
+- 1a) wartość firmy, jeżeli w związku z przeniesieniem na terytorium Rzeczypospolitej Polskiej przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa wartość ta została opodatkowana w państwie członkowskim Unii Europejskiej podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da - w przypadku gdy przedsiębiorstwo lub jego zorganizowana część przenoszone są z tego państwa,
+
 - 2) koszty prac rozwojowych zakończonych wynikiem pozytywnym, który może być wykorzystany na potrzeby działalności gospodarczej podatnika, jeżeli:
 
   - a) produkt lub technologia wytwarzania są ściśle ustalone, a dotyczące ich koszty prac rozwojowych wiarygodnie określone, oraz

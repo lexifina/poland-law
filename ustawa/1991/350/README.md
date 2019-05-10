@@ -2,5 +2,5 @@
 
 Dz.U. 1991 nr 80 poz. 350 · <https://eli.gov.pl/api/acts/DU/1991/350>
 
-Tekst jednolity: Dz.U. 2018 poz. 1509 (2018-08-08), stan na 2018-07-19.
+Tekst jednolity: Dz.U. 2019 poz. 1387 (2019-07-25), stan na 2019-05-10.
 

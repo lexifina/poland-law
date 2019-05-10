@@ -2,13 +2,13 @@
 
 1. Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek, o którym mowa w ust. 3 i 3a, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, wybranej przez podatnika z wykazu, o którym mowa w ustawie o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1% podatku należnego wynikającego:
 
-- 1) z zeznania podatkowego złożonego w terminie określonym dla jego złożenia, albo
+- 1) z zeznania podatkowego złożonego przed upływem terminu określonego na jego złożenie, albo
 
 - 2) z korekty zeznania, o którym mowa w pkt 1, jeżeli została dokonana w ciągu miesiąca od upływu terminu dla złożenia zeznania podatkowego
 
 - po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
 
-2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106, 138, 650 i 1118) za traktowanie przesyłki listowej jako przesyłki poleconej.
+2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2018 r. poz. 2188 oraz z 2019 r. poz. 1051) za traktowanie przesyłki listowej jako przesyłki poleconej.
 
 3. Za wniosek uważa się wskazanie przez podatnika w zeznaniu podatkowym albo w korekcie zeznania, o których mowa w ust. 1, jednej organizacji pożytku publicznego poprzez podanie jej numeru wpisu do Krajowego Rejestru Sądowego oraz kwoty do przekazania na rzecz tej organizacji, w wysokości nieprzekraczającej 1% podatku należnego.
 
@@ -20,7 +20,7 @@
 
 5. Naczelnik urzędu skarbowego właściwy według siedziby organizacji pożytku publicznego, we wrześniu roku następującego po roku podatkowym przekazuje organizacji pożytku publicznego zbiorczą informację o:
 
-- 1) danych identyfikacyjnych (imię, nazwisko i adres), w tym obojga małżonków, którzy na wniosek podlegają łącznemu opodatkowaniu, oraz
+- 1) danych identyfikacyjnych (imię, nazwisko i adres, a w przypadku przedsiębiorstwa w spadku - dane tego przedsiębiorstwa), w tym obojga małżonków, którzy na wniosek podlegają łącznemu opodatkowaniu, oraz
 
 - 2) wysokości kwoty, o której mowa w ust. 1, przekazanej na rzecz tej organizacji,
 

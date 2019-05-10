@@ -1,0 +1,7 @@
+# Art. 45ce.
+
+1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2-4 i 6 Ordynacji podatkowej stosuje się odpowiednio.
+
+2. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu, o którym mowa w art. 274 § 3 Ordynacji podatkowej.
+
+3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.

@@ -22,4 +22,6 @@
 
 3d. Przepis ust. 3 stosuje się odpowiednio w przypadku określonym w art. 22g ust. 1 pkt 4 lit. a.
 
+3e. Przepis ust. 3 stosuje się odpowiednio w przypadku kontynuowania działalności po zmarłym przedsiębiorcy przez przedsiębiorstwo w spadku.
+
 4. Podatnicy mogą dokonywać odpisów amortyzacyjnych w równych ratach co miesiąc albo w równych ratach co kwartał, albo jednorazowo na koniec roku podatkowego, z uwzględnieniem art. 22i. Suma odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych dokonanych w pierwszym roku podatkowym, w którym środki te zostały wprowadzone do ewidencji, nie może przekroczyć wartości tych odpisów przypadających za okres od wprowadzenia ich do ewidencji (wykazu) do końca tego roku podatkowego.
