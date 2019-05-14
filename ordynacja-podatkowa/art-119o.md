@@ -6,7 +6,7 @@
 
 - 2) 1 osoba wskazana przez Prezesa Naczelnego Sądu Administracyjnego spośród sędziów Naczelnego Sądu Administracyjnego w stanie spoczynku;
 
-- 3) 2 osoby powołane spośród pracowników szkół wyższych, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158, 1452 i 2201);
+- 3) 2 osoby powołane spośród pracowników szkół wyższych, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669 oraz z 2019 r. poz. 534);
 
 - 4) 1 osoba wskazana przez Komisję Wspólną Rządu i Samorządu Terytorialnego jako przedstawiciel jednostek samorządu terytorialnego;
 
@@ -26,7 +26,7 @@
 
 - 4) ma pełną zdolność do czynności prawnych;
 
-- 5) nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe.
+- 5) nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe;
 
 - 6) jest nieskazitelnego charakteru.
 

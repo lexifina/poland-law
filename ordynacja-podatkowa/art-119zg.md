@@ -20,7 +20,7 @@ Ilekroć w niniejszym dziale jest mowa o:
 
 - 3) izbie rozliczeniowej - rozumie się przez to izbę rozliczeniową, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, która w roku kalendarzowym poprzedzającym o 2 lata rok kalendarzowy, w którym będą wykonywane obowiązki określone w niniejszym dziale, rozliczyła największą liczbę poleceń przelewu w złotych ze wszystkich izb rozliczeniowych działających na podstawie tego przepisu;
 
-- 3a) pełnomocniku do rachunku podmiotu kwalifikowanego - rozumie się przez to osobę umocowaną do składania dyspozycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm.) wydanej do rachunku podmiotu kwalifikowanego;
+- 3a) pełnomocniku do rachunku podmiotu kwalifikowanego - rozumie się przez to osobę umocowaną do składania dyspozycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego;
 
 - 4) podmiocie kwalifikowanym - rozumie się przez to:
 
@@ -48,8 +48,8 @@ Ilekroć w niniejszym dziale jest mowa o:
 
 - 9) wyłudzeniach skarbowych - rozumie się przez to:
 
-  - a) przestępstwa skarbowe, o których mowa w art. 54 § 1 i 2, art. 55 § 1 i 2, art. 56 § 1 i 2, art. 62 § 1-2a oraz art. 76 § 1 i 2 ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226 oraz z 2018 r. poz. 201),
+  - a) przestępstwa skarbowe, o których mowa w art. 54 § 1 i 2, art. 55 § 1 i 2, art. 56 § 1 i 2, art. 62 § 1-2a oraz art. 76 § 1 i 2 ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy,
 
-  - b) przestępstwa, o których mowa w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art. 277a § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20 i 305),
+  - b) przestępstwa, o których mowa w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art. 277a § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2018 r. poz. 1600 i 2077 oraz z 2019 r. poz. 730),
 
   - c) przestępstwa, o których mowa w art. 258 § 1-3 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, mające na celu popełnienie przestępstw skarbowych, o których mowa w lit. a, lub przestępstw, o których mowa w lit. b.

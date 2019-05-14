@@ -36,7 +36,7 @@
 
 - 1) datę ustanowienia pełnomocnika do rachunku podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego;
 
-- 2) zakres umocowania pełnomocnika do rachunku podmiotu kwalifikowanego.
+- 2) zakres umocowania pełnomocnika do rachunku podmiotu kwalifikowanego;
 
 § 3. Zestawienia, o których mowa w art. 119zp § 1 pkt 2 i art. 119zq pkt 3, obejmują:
 
@@ -54,7 +54,7 @@
 
 - 5) tytuł i opis transakcji;
 
-- 6) saldo początkowe i saldo końcowe zestawienia transakcji dotyczących rachunku podmiotu kwalifikowanego.
+- 6) saldo początkowe i saldo końcowe zestawienia transakcji dotyczących rachunku podmiotu kwalifikowanego;
 
 - 9) numer rachunku prowadzonego w celu automatycznej identyfikacji dyspozycji składanych z rachunku podmiotu kwalifikowanego (rachunek wirtualny), jeżeli dyspozycje dotyczą uznania takiego rachunku - w przypadku zestawień przekazywanych przez bank albo spółdzielczą kasę oszczędnościowo-kredytową prowadzące ten rachunek.
 

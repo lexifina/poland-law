@@ -4,7 +4,7 @@
 
 - 1) które nie stanowią pomocy publicznej;
 
-- 2) które stanowią pomoc de minimis - w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis;
+- 2) które stanowią pomoc de minimis - w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis ;
 
 - 3) które stanowią pomoc publiczną:
 

@@ -6,7 +6,7 @@
 
 - 1a) zastosowania się przez podatkową grupę kapitałową w rozumieniu przepisów o podatku dochodowym od osób prawnych do interpretacji indywidualnej wydanej przed powstaniem grupy, na wniosek spółki planującej utworzenie tej grupy, w zakresie działalności tej podatkowej grupy kapitałowej;
 
-- 2) zastosowania się przez oddział lub przedstawicielstwo do interpretacji indywidualnej dotyczącej działalności tego oddziału lub przedstawicielstwa wydanej przed powstaniem tego oddziału lub przedstawicielstwa na wniosek tworzącego je przedsiębiorcy.
+- 2) zastosowania się przez oddział lub przedstawicielstwo do interpretacji indywidualnej dotyczącej działalności tego oddziału lub przedstawicielstwa wydanej przed powstaniem tego oddziału lub przedstawicielstwa na wniosek tworzącego je przedsiębiorcy;
 
 - 3) zastosowania się przez przedsiębiorstwo w spadku do interpretacji indywidualnej wydanej przed śmiercią przedsiębiorcy na jego wniosek.
 

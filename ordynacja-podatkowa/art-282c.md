@@ -20,13 +20,13 @@
 
   - h) dotyczy podatku od wydobycia niektórych kopalin,
 
-  - i) ma charakter doraźny dotyczący sprawdzenia zachowania warunków zawieszenia działalności gospodarczej;
+  - i) ma charakter doraźny dotyczący sprawdzenia zachowania warunków zawieszenia działalności gospodarczej,
 
   - j) dotyczy zasadności zwrotu podatku w rozumieniu przepisów rozdziału 7b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz rozdziału 6a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
 
 - 2) organ podatkowy posiada informacje, z których wynika, że kontrolowany:
 
-  - a) został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395 i 398) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej - do każdego wspólnika,
+  - a) został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej - do każdego wspólnika,
 
   - b) jest zobowiązanym w postępowaniu egzekucyjnym w administracji,
 

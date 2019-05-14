@@ -12,6 +12,6 @@ Podwyższoną stawkę odsetek za zwłokę w wysokości 150% stawki odsetek za zw
 
   - c) złożonej po doręczeniu upoważnienia do przeprowadzenia kontroli celno-skarbowej
 
-  - jeżeli kwota zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku przekracza 25% kwoty należnej i jest wyższa niż pięciokrotna wysokość minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847), obowiązującego w dniu następującym po dniu upływu terminu płatności zobowiązania lub terminu zwrotu;
+  - jeżeli kwota zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku przekracza 25% kwoty należnej i jest wyższa niż pięciokrotna wysokość minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2018 r. poz. 2177), obowiązującego w dniu następującym po dniu upływu terminu płatności zobowiązania lub terminu zwrotu;
 
 - 3) ujawnienia przez organ podatkowy w toku czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego niezłożenia deklaracji, mimo ciążącego obowiązku oraz braku zapłaty podatku.
