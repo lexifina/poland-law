@@ -7,5 +7,3 @@
 § 3. Organ podatkowy orzeka w jednej decyzji o zakresie odpowiedzialności osób, o których mowa w § 1 i 2.
 
 § 4. Jeżeli deklaracja jest nieprawidłowa lub deklaracji nie złożono, organ podatkowy orzekając o zakresie odpowiedzialności jednocześnie ustala lub określa kwoty, o których mowa w art. 21 § 3 i 3a, art. 24 lub art. 74a.
-
-(uchylony)

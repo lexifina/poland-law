@@ -16,6 +16,8 @@ Ilekroć w niniejszym dziale jest mowa o:
 
   - c) oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe;
 
+- 2) blokadzie rachunku podmiotu kwalifikowanego - rozumie się przez to czasowe uniemożliwienie dysponowania środkami pieniężnymi zgromadzonymi na rachunku podmiotu kwalifikowanego prowadzonym przez bank lub spółdzielczą kasę oszczędnościowo-kredytową i korzystania z tych środków;
+
 - 3) izbie rozliczeniowej - rozumie się przez to izbę rozliczeniową, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, która w roku kalendarzowym poprzedzającym o 2 lata rok kalendarzowy, w którym będą wykonywane obowiązki określone w niniejszym dziale, rozliczyła największą liczbę poleceń przelewu w złotych ze wszystkich izb rozliczeniowych działających na podstawie tego przepisu;
 
 - 3a) pełnomocniku do rachunku podmiotu kwalifikowanego - rozumie się przez to osobę umocowaną do składania dyspozycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm.) wydanej do rachunku podmiotu kwalifikowanego;

@@ -20,7 +20,7 @@
 
   - e) numer telefonu i adres poczty elektronicznej podmiotu kwalifikowanego;
 
-- 5) dane identyfikacyjne pełnomocnika do rachunków podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego, a także jego beneficjenta rzeczywistego w rozumieniu art. 2 pkt 1a ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, jeżeli są dostępne, zawierające:
+- 5) dane identyfikacyjne pełnomocnika do rachunków podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego, a także jego beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, jeżeli są dostępne, zawierające:
 
   - a) imię i nazwisko,
 

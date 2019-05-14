@@ -1,6 +1,6 @@
 # Art. 119b.
 
-§ 1. Przepisu art. 119a nie stosuje się:
+§ 1. Decyzji wydawanej z zastosowaniem art. 119a nie wydaje się:
 
 - 1) (uchylony)
 

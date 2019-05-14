@@ -4,7 +4,7 @@
 
 # Art. 119g.
 
-§ 1. Szef Krajowej Administracji Skarbowej wszczyna postępowanie podatkowe lub, w drodze postanowienia, w całości lub w części przejmuje do dalszego prowadzenia postępowanie podatkowe lub kontrolę celno-skarbową, jeżeli w sprawach:
+§ 1. Szef Krajowej Administracji Skarbowej wszczyna postępowanie podatkowe lub, w drodze postanowienia, w całości lub w części na wniosek organu podatkowego przejmuje do dalszego prowadzenia postępowanie podatkowe, kontrolę podatkową lub kontrolę celno-skarbową, jeżeli w sprawach:
 
 - 1) określenia lub ustalenia wysokości zobowiązania podatkowego,
 

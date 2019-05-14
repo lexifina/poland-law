@@ -1,6 +1,6 @@
 # Art. 119x.
 
-§ 1. Wniosek o wydanie opinii zabezpieczającej powinien zawierać dane istotne z punktu widzenia skutków podatkowych czynności, w tym w szczególności:
+§ 1. Wniosek o wydanie opinii zabezpieczającej powinien zawierać dane istotne dla określenia podatkowych skutków czynności oraz zastosowania do tej czynności art. 119a § 1, w tym w szczególności:
 
 - 1) dane identyfikujące wnioskodawcę;
 

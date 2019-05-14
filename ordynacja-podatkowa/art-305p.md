@@ -1,4 +1,6 @@
-## Dział VIIA (uchylony)
+## Dział VIIA
+
+## (uchylony)
 
 ## Dział VIII Przepisy karne
 

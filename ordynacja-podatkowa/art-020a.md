@@ -1,4 +1,4 @@
-## Dział IIA Porozumienia w sprawach ustalenia cen transakcyjnych
+## Dział IIA Porozumienia w sprawach ustalenia cen transferowych
 
 # Art. 20a.
 
