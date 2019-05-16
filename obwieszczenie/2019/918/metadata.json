@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/918",
+ "source_sha256": "9e2b201b3ee25e86f84ddf8ebd9a5ad99e78eae8bcee76b801beb12111d70bd1",
+ "in_force": "2019-05-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/918",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/918/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/918/text/O/D20190918.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/918/text/I/D20190918.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/918",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 918,
+  "address": "WDU20190000918",
+  "displayAddress": "Dz.U. 2019 poz. 918",
+  "title": "Obwieszczenie Ministra Infrastruktury z dnia 11 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie sposobu prowadzenia rejestru oraz sposobu oznakowania pojazdów kolejowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-11",
+  "promulgation": "2019-05-16",
+  "changeDate": "2024-03-14T20:00:37",
+  "releasedBy": [
+   "MIN. INFRASTRUKTURY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pojazdy mechaniczne",
+   "transport kolejowy",
+   "koleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/211"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190918.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190918.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
