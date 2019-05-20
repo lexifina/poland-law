@@ -1,0 +1,11 @@
+W imieniu Rzeczypospolitej Polskiej
+
+Prezydent Rzeczypospolitej Polskiej
+
+podaje do powszechnej wiadomości:
+
+Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Finlandii o popieraniu i ochronie inwestycji, sporządzona w Helsinkach dnia 25 listopada 1996 r., zostaje wypowiedziana przez Rzeczpospolitą Polską.
+
+Na dowód czego został wydany akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
+
+Dano w Warszawie dnia 4 października 2018 r.
