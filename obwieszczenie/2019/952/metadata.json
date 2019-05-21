@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/952",
+ "source_sha256": "fb376a3dc3c8a1d837f5d0a27c6bceca3443a236978afc1c3827850649618fac",
+ "in_force": "2019-05-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/952",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/952/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/952/text/O/D20190952.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/952/text/I/D20190952.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/952/text/T/D20190952L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/952/text/U/D20190952Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/952",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 952,
+  "address": "WDU20190000952",
+  "displayAddress": "Dz.U. 2019 poz. 952",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie fizjoterapeuty",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-04-12",
+  "promulgation": "2019-05-21",
+  "changeDate": "2024-03-14T19:56:28",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fizjoterapeuci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/1994"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190952.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190952.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20190952L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20190952Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
