@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/459",
+ "source_sha256": "d3efc6f46934f3c25b143d2a55cb7a41a32148c1f0eab6ab8399027db1499f4f",
+ "in_force": "2019-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/459",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/459/text/O/M20190459.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/459/text/I/M20190459.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/459",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 459,
+  "address": "WMP20190000459",
+  "displayAddress": "M.P. 2019 poz. 459",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 9 maja 2019 r. nr 115.6.2019 w sprawie nadania tytułu profesora",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-05-09",
+  "promulgation": "2019-05-27",
+  "changeDate": "2019-10-14T00:00:00",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2019/984",
+     "date": "2019-05-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/1668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/1668",
+     "art": "art. 178 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190459.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190459.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
