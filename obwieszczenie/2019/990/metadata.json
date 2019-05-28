@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/990",
+ "source_sha256": "e840660db10a5276cac7dd4842cf46e42b32a8215b252d21b8f4961168fddf7b",
+ "in_force": "2019-05-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 218 words, parsed 50; at 50: 'informuje , co następuje : 1 . Komitetem wyborczym ,'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/990",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/990/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/990/text/O/D20190990.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/990/text/I/D20190990.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/990",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 990,
+  "address": "WDU20190000990",
+  "displayAddress": "Dz.U. 2019 poz. 990",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 maja 2019 r. w sprawie podania do publicznej wiadomości informacji, który spośród posłów do Parlamentu Europejskiego wybieranych w Rzeczypospolitej Polskiej na kadencję 2019-2024 nie obejmie mandatu na początku kadencji",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-05-27",
+  "promulgation": "2019-05-28",
+  "changeDate": "2024-03-14T20:02:52",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Parlament Europejski"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2019/708"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2019/708",
+     "art": "art. 3"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20190990.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20190990.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
