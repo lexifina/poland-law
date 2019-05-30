@@ -1,0 +1,1 @@
+Na podstawie art. 87 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2019 r. poz. 795 i 730) zarządza się, co następuje:
