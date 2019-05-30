@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1012",
+ "source_sha256": "6a7f12d4b8cb9a6dd18b60f15471a11f363f425630864e770632258d0f51f330",
+ "in_force": "2019-05-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1012",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1012/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1012/text/O/D20191012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1012/text/I/D20191012.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1012/text/T/D20191012L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1012",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1012,
+  "address": "WDU20190001012",
+  "displayAddress": "Dz.U. 2019 poz. 1012",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-05-16",
+  "promulgation": "2019-05-30",
+  "changeDate": "2024-03-14T19:54:47",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1999/884"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191012.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191012L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
