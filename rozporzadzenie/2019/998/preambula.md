@@ -1,0 +1,1 @@
+Na podstawie art. 43c ust. 8 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2018 r. poz. 2038, 2215 i 2243 oraz z 2019 r. poz. 875) zarządza się, co następuje:
