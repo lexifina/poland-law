@@ -1,0 +1,1 @@
+Na podstawie art. 34a ust. 4 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2018 r. poz. 1808 oraz z 2019 r. poz. 492 i 504) zarządza się, co następuje:
