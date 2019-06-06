@@ -1,0 +1,1 @@
+Na podstawie art. 47 ust. 4 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) zarządza się, co następuje:
