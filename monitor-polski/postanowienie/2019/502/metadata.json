@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/502",
+ "source_sha256": "ac51309a4b56ccb8e5463f7a5e81421ced7a136a8fb1331fff5bcb9d06f056fb",
+ "in_force": "2019-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/502",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/502/text/O/M20190502.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/502/text/I/M20190502.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/502",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 502,
+  "address": "WMP20190000502",
+  "displayAddress": "M.P. 2019 poz. 502",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 2019 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 7 z siedzibą Okręgowej Komisji Wyborczej w Chełmie",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-06-06",
+  "promulgation": "2019-06-10",
+  "changeDate": "2019-06-11T11:25:24",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190502.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190502.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
