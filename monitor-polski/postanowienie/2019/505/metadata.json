@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/505",
+ "source_sha256": "79c158aec4684a874b5be693c0d3833c89caf971075690c447c87296cde67d1e",
+ "in_force": "2019-06-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/505",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/505/text/O/M20190505.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/505/text/I/M20190505.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/505",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 505,
+  "address": "WMP20190000505",
+  "displayAddress": "M.P. 2019 poz. 505",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 czerwca 2019 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 31 z siedzibą Okręgowej Komisji Wyborczej w Katowicach",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-06-05",
+  "promulgation": "2019-06-11",
+  "changeDate": "2019-06-12T15:32:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190505.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190505.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
