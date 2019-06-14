@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1116",
+ "source_sha256": "e1a542b4f10afd77115c5c4a85bcec3c49afaaabf491dbcb88cc45d78d6706cc",
+ "in_force": "2019-06-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1116",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1116/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1116/text/O/D20191116.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1116/text/I/D20191116.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1116/text/T/D20191116L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1116/text/U/D20191116Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1116",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1116,
+  "address": "WDU20190001116",
+  "displayAddress": "Dz.U. 2019 poz. 1116",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-05-16",
+  "promulgation": "2019-06-14",
+  "expirationDate": "2022-12-14",
+  "changeDate": "2024-03-14T19:53:00",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo mieszkaniowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/1304"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191116.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191116.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191116L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191116Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
