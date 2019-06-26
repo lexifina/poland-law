@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1183",
+ "source_sha256": "c62fa4b3f27c86087315976e2bc245923cef79d220629cf096e9f290b26faae6",
+ "in_force": "2019-06-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1183",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1183/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1183/text/O/D20191183.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1183/text/I/D20191183.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1183/text/T/D20191183L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1183/text/U/D20191183Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1183",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1183,
+  "address": "WDU20190001183",
+  "displayAddress": "Dz.U. 2019 poz. 1183",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Akademii Nauk",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-06-06",
+  "promulgation": "2019-06-26",
+  "expirationDate": "2020-10-14",
+  "changeDate": "2024-03-14T19:59:27",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauka"
+  ],
+  "keywordsNames": [
+   "Polska Akademia Nauk"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/619"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191183.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191183.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191183L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191183Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
