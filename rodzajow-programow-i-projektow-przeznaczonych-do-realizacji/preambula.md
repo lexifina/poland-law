@@ -1,0 +1,1 @@
+Na podstawie art. 22 ust. 3 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2018 r. poz. 1271, 1669 i 2538 oraz z 2019 r. poz. 412 i 730) zarządza się, co następuje:
