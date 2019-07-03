@@ -1,0 +1,1 @@
+Na podstawie art. 32 pkt 3 ustawy z dnia 17 grudnia 2004 r. o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania (Dz. U. z 2005 r. poz. 67, z 2006 r. poz. 824 oraz z 2011 r. poz. 735) zarządza się, co następuje:
