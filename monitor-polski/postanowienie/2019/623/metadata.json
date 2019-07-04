@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/623",
+ "source_sha256": "a0d13812a6b0af0897f2c474bbcc76427af0fdb48b4a00d15aa5aaeb55d92ddf",
+ "in_force": "2019-07-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/623",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/623/text/O/M20190623.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/623/text/I/M20190623.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/623",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 623,
+  "address": "WMP20190000623",
+  "displayAddress": "M.P. 2019 poz. 623",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 27 kwietnia 2019 r. nr 112.19.2019 o nadaniu stopnia nadbrygadiera Państwowej Straży Pożarnej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-27",
+  "promulgation": "2019-07-04",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Państwowa Straż Pożarna",
+   "Straż Pożarna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/400"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/400",
+     "art": "art. 51 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190623.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190623.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
