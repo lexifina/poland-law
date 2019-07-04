@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/628",
+ "source_sha256": "08a16510df6402dfac215f2c65745493ea54896957e03c129d94b4a945e05c27",
+ "in_force": "2019-07-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/628",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/628/text/O/M20190628.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/628/text/I/M20190628.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/628",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 628,
+  "address": "WMP20190000628",
+  "displayAddress": "M.P. 2019 poz. 628",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 25 kwietnia 2019 r. nr 112.24.2019 w sprawie mianowania na stopień oficerski generała brygady",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-25",
+  "promulgation": "2019-07-04",
+  "changeDate": "2019-07-05T11:27:46",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190628.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190628.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
