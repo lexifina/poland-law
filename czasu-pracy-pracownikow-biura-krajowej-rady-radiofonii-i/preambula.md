@@ -1,0 +1,1 @@
+Na podstawie art. 48 ust. 1 pkt 4 w związku z art. 30 ust. 1 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 r. poz. 1915 oraz z 2019 r. poz. 1043) zarządza się, co następuje:
