@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 5 i 6 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. z 2014 r. poz. 1204, z 2015 r. poz. 1324, z 2018 r. poz. 1717 oraz z 2019 r. poz. 572 i 730) zarządza się, co następuje:
