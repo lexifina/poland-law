@@ -1,0 +1,1 @@
+Na podstawie art. 68 ust. 5 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1516 i 1669 oraz z 2019 r. poz. 1091) zarządza się, co następuje:
