@@ -1,0 +1,3 @@
+# Art. 2c.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wykaz robót budowlanych, z uwzględnieniem postanowień dyrektywy Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającej dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.), zwanej dalej „dyrektywą 2014/24/UE”, oraz dyrektywy Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającej dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.), zwanej dalej „dyrektywą 2014/25/UE”.

@@ -1,0 +1,5 @@
+# Art. 131bb.
+
+1. Do postępowań o udzielenie zamówień, których przedmiotem są usługi o charakterze niepriorytetowym określone w przepisach wydanych na podstawie ust. 2, nie stosuje się przepisów ustawy dotyczących terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub terminów składania ofert, obowiązku żądania wadium, obowiązku żądania dokumentów potwierdzających spełnianie warunków udziału w postępowaniu, zakazu ustalania kryteriów oceny ofert na podstawie właściwości wykonawcy oraz przesłanek wyboru trybu negocjacji z ogłoszeniem, dialogu konkurencyjnego oraz licytacji elektronicznej.
+
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz usług o charakterze priorytetowym i niepriorytetowym, z uwzględnieniem postanowień aaadyrektywy Parlamentu Europejskiego i Rady 2009/81/WE z aaadnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającej dyrektywy 2004/17/WE i 2004/18/WE.

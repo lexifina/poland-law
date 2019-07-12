@@ -1,0 +1,5 @@
+# Art. 15f.
+
+1. Zamawiający mogą, w drodze porozumienia, utworzyć wspólny podmiot z zamawiającymi posiadającymi siedzibę w innych państwach członkowskich Unii Europejskiej, w szczególności europejskie ugrupowanie współpracy terytorialnej, o którym mowa w rozporządzeniu (WE) nr 1082/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. w sprawie europejskiego ugrupowania współpracy terytorialnej (EUWT) (Dz. Urz. UE L 210 z 31.07.2006, str. 19, z późn. zm.).
+
+2. W przypadku, o którym mowa w ust. 1, właściwy organ wspólnego podmiotu wskazuje przepisy krajowe obowiązujące w jednym z państw członkowskich Unii Europejskiej, które będą miały zastosowanie do przygotowywania i przeprowadzenia postępowania o udzielenie zamówienia, zawierania umów ramowych oraz ustanawiania dynamicznego systemu zakupów przez wspólny podmiot, z tym że zastosowanie mogą mieć wyłącznie przepisy krajowe państwa członkowskiego Unii Europejskiej, w którym wspólny podmiot ma siedzibę albo prowadzi swoją działalność.

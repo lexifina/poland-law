@@ -1,0 +1,3 @@
+# Art. 4c.
+
+Rada Ministrów określi, w drodze rozporządzenia, na wniosek Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zagranicznych oraz ministrem właściwym do spraw gospodarki, tryb postępowania w sprawie oceny występowania podstawowego interesu bezpieczeństwa państwa, mając na uwadze obowiązek zapewnienia prawidłowego stosowania przepisu art. 346 Traktatu o funkcjonowaniu Unii Europejskiej oraz potrzebę zapewnienia bezpieczeństwa dostaw sprzętu wojskowego, a także właściwego wykonywania napraw i remontów posiadanego sprzętu wojskowego.

@@ -1,0 +1,3 @@
+# Art. 131da.
+
+Ogłoszenia w postępowaniu o udzielenie zamówienia w dziedzinach obronności i bezpieczeństwa przekazuje się Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 3 załącznika VI do aaadyrektywy Parlamentu Europejskiego i Rady 2009/81/WE z aaadnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień publicznych na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającej dyrektywy 2004/17/WE i 2004/18/WE.
