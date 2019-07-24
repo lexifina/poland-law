@@ -1,0 +1,1 @@
+Na podstawie art. 19b ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2019 r. poz. 212) zarządza się, co następuje:
