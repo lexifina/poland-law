@@ -1,0 +1,1 @@
+Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373 i 1394) zarządza się, co następuje:
