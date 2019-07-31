@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/724",
+ "source_sha256": "6f2aa5b18494d1cbd4ae1b6a6d0c47c70fc414559615a3298fb17df012dfc8e3",
+ "in_force": "2019-07-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/724",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/724/text/O/M20190724.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/724/text/I/M20190724.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/724",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 724,
+  "address": "WMP20190000724",
+  "displayAddress": "M.P. 2019 poz. 724",
+  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 lipca 2019 r. w sprawie wysokości dochodu za rok 2018 z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-07-24",
+  "promulgation": "2019-07-31",
+  "changeDate": "2020-02-14T00:00:00",
+  "releasedBy": [
+   "MIN. RODZINY, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ryczałt podatkowy",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2020/181"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2007/1378"
+    },
+    {
+     "id": "DU/2003/2255"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2007/1378",
+     "art": "art. 9 ust. 6a"
+    },
+    {
+     "id": "DU/2003/2255",
+     "art": "art. 5 ust. 7a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190724.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190724.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
