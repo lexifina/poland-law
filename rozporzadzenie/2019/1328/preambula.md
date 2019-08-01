@@ -1,0 +1,1 @@
+Na podstawie art. 34 ust. 1 pkt 1-5 i 8 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2019 r. poz. 238) zarządza się, co następuje:
