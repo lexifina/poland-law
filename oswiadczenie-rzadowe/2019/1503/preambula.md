@@ -1,0 +1,7 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 9 listopada 2018 r. o ratyfikacji Porozumienia między Rzecząpospolitą Polską a Republiką Czeską o zmianie i zakończeniu obowiązywania Umowy między Rzecząpospolitą Polską a Republiką Czeską o popieraniu i wzajemnej ochronie inwestycji, sporządzonej w Budapeszcie dnia 16 lipca 1993 r. (Dz. U. z 2019 r. poz. 6) Prezydent Rzeczypospolitej Polskiej dnia 12 lutego 2019 r. ratyfikował Porozumienie między Rzecząpospolitą Polską a Republiką Czeską o zmianie i zakończeniu obowiązywania Umowy między Rzecząpospolitą Polską a Republiką Czeską o popieraniu i wzajemnej ochronie inwestycji, sporządzonej w Budapeszcie dnia 16 lipca 1993 r., zawarte w drodze wymiany not dyplomatycznych z dnia 10 stycznia 2018 r. oraz z dnia 11 kwietnia 2018 r.
+
+Porozumienie wejdzie w życie dnia 25 września 2019 r.
+
+Umowa między Rzecząpospolitą Polską a Republiką Czeską o popieraniu i wzajemnej ochronie inwestycji, sporządzona w Budapeszcie dnia 16 lipca 1993 r., traci moc obowiązującą dnia 25 września 2019 r.
+
+Zgodnie z pkt 2 porozumienia w odniesieniu do inwestycji dokonanych przed utratą mocy Umowy między Rzecząpospolitą Polską a Republiką Czeską o popieraniu i wzajemnej ochronie inwestycji, sporządzonej w Budapeszcie dnia 16 lipca 1993 r., tj. przed dniem 25 września 2019 r., żadne postanowienie tej umowy nie pozostaje w mocy, w tym art. 12 ust. 3.
