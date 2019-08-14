@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/745",
+ "source_sha256": "4acf9211decc2275c96a7c5e428c6aaeed6407a1923375e9d28aa89deb97dc33",
+ "in_force": "2019-08-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/745",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/745/text/O/M20190745.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/745/text/I/M20190745.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/745",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 745,
+  "address": "WMP20190000745",
+  "displayAddress": "M.P. 2019 poz. 745",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 sierpnia 2019 r. w sprawie wyboru Marszałka Sejmu",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-08-09",
+  "promulgation": "2019-08-14",
+  "changeDate": "2019-08-16T09:51:52",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Marszałek Sejmu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 4 ust. 3"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 110 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190745.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190745.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
