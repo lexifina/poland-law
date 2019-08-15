@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1526",
+ "source_sha256": "54e7c601ccd023eeb735c460dd7f208a9d90e87cfa8a3730d0c3351fdbe055a0",
+ "in_force": "2019-08-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1526",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1526/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1526/text/O/D20191526.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1526/text/I/D20191526.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1526/text/T/D20191526L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1526",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1526,
+  "address": "WDU20190001526",
+  "displayAddress": "Dz.U. 2019 poz. 1526",
+  "title": "Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o ustanowieniu \"Programu modernizacji Służby Więziennej w latach 2017-2020\"",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-07-04",
+  "promulgation": "2019-08-14",
+  "entryIntoForce": "2019-08-15",
+  "changeDate": "2024-03-14T19:52:28",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "więziennictwo"
+  ],
+  "keywordsNames": [
+   "Służba Więzienna"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=3519",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/3519",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/3519",
+    "number": "3519",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/2176",
+     "date": "2019-08-15"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191526.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191526.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191526L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
