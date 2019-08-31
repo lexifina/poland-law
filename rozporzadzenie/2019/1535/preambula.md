@@ -1,0 +1,1 @@
+Na podstawie art. 142 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53, 125 i 1091) zarządza się, co następuje:
