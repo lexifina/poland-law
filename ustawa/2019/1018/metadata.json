@@ -1,0 +1,127 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1018",
+ "source_sha256": "56e10c417bcf9df8bafc6e3a76ba9db781e16b4f84df7c9fb3111dac00ea5eac",
+ "in_force": "2019-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1018",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1018/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1018/text/O/D20191018.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1018/text/I/D20191018.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1018/text/T/D20191018L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1018/text/U/D20191018Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1018",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1018,
+  "address": "WDU20190001018",
+  "displayAddress": "Dz.U. 2019 poz. 1018",
+  "title": "Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-04-12",
+  "promulgation": "2019-05-31",
+  "entryIntoForce": "2019-09-01",
+  "changeDate": "2024-03-14T19:51:48",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "identyfikacja podatkowa",
+   "administracja skarbowa",
+   "spółdzielcze kasy oszczędnościowo-kredytowe",
+   "podatki",
+   "ewidencja",
+   "podatek dochodowy",
+   "podatek od towarów i usług",
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [
+   "Krajowa Administracja Skarbowa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=3301",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/3301",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/3301",
+    "number": "3301",
+    "term": 8
+   }
+  ],
+  "comments": "art. 7 i art. 8 wchodzą w życie z dniem 31 maja 2019 r.\nart. 2, art. 3, art. 5 i art. 10 wchodzą w życie z dniem 1 stycznia 2020 r.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2019/1751",
+     "date": "2020-01-01"
+    },
+    {
+     "id": "DU/2019/1520",
+     "date": "2019-09-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2012/855",
+     "date": "2019-09-01"
+    },
+    {
+     "id": "DU/2004/535",
+     "date": "2019-09-01"
+    },
+    {
+     "id": "DU/1997/926",
+     "date": "2020-01-01"
+    },
+    {
+     "id": "DU/1995/702",
+     "date": "2019-09-01"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2020-01-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2020-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191018.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191018.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191018L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191018Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
