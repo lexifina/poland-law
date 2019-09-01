@@ -10,6 +10,12 @@
 
 § 2. Do przetwarzania danych, o których mowa w art. 119zp § 1 oraz art. 119zq, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, z tym że dane te mogą być przetwarzane w STIR bez wiedzy i zgody osoby, której dane te dotyczą.
 
+§ 2a. Dane, o których mowa w § 1, izba rozliczeniowa przetwarza przy wykorzystaniu STIR również w celu:
+
+- 1) stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa wart. 48 ust. 1 tej ustawy, zawartej z bankiem lub spółdzielczą kasą oszczędnościowo-kredytową;
+
+- 2) wykonywania przez izbę rozliczeniową na rzecz banków lub spółdzielczych kas oszczędnościowo-kredytowych czynności niezbędnych do zastosowania przez banki lub spółdzielcze kasy oszczędnościowo-kredytowe środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
 § 3. Dane przetwarzane na podstawie przepisów niniejszego działu są przechowywane przez izbę rozliczeniową, banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz Szefa Krajowej Administracji Skarbowej przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym otrzymały dane.
 
 § 4. Jeżeli w okresie, o którym mowa w § 3, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu podatku lub wyłudzenia skarbowego, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez Szefa Krajowej Administracji Skarbowej nie dłużej niż do upływu terminu przedawnienia.

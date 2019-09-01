@@ -10,6 +10,10 @@ Informacje i zestawienia, o których mowa w art. 119zp § 1 i art. 119zq, są ud
 
 - 4) Prezesa Urzędu Ochrony Danych Osobowych - w zakresie niezbędnym do realizacji ustawowych zadań określonych w przepisach o ochronie danych osobowych;
 
-- 5) Szefa Centralnego Biura Antykorupcyjnego - na zasadach i w trybie określonych w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2018 r. poz. 2104 i 2399 oraz z 2019 r. poz. 53 i 125);
+- 5) Szefa Centralnego Biura Antykorupcyjnego - w zakresie niezbędnym do realizacji ustawowych zadań - za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2018 r. poz. 2104 i 2399 oraz z 2019 r. poz. 53 i 125);
 
-- 6) Szefa Agencji Bezpieczeństwa Wewnętrznego - na zasadach i w trybie określonych w art. 34a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53 i 125).
+- 6) Szefa Agencji Bezpieczeństwa Wewnętrznego - w zakresie niezbędnym do realizacji ustawowych zadań - za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53 i 125);
+
+- 7) Generalnego Inspektora Informacji Finansowej - w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+
+- 8) Przewodniczącego Komisji Nadzoru Finansowego - w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2020 r. poz. 180, 284, 568 i 695).
