@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/782",
+ "source_sha256": "cc9ab7a15404ccfc189ac83b029e412e0e8135ec2b82f874ffcd79a38715dce2",
+ "in_force": "2019-09-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/782",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/782/text/O/M20190782.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/782/text/I/M20190782.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/782",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 782,
+  "address": "WMP20190000782",
+  "displayAddress": "M.P. 2019 poz. 782",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 30 sierpnia 2019 r. w sprawie powołania Prezesa Najwyższej Izby Kontroli",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-08-30",
+  "promulgation": "2019-09-02",
+  "changeDate": "2019-09-03T13:02:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Najwyższa Izba Kontroli"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1995/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 205 ust. 1"
+    },
+    {
+     "id": "DU/1995/59",
+     "art": "art. 14 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190782.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190782.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
