@@ -1,0 +1,1 @@
+Na podstawie art. 298 ust. 7 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2019 r. poz. 795, 730 i 1495) zarządza się, co następuje:
