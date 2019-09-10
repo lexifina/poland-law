@@ -1,0 +1,1 @@
+Na podstawie art. 53 ust. 10 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2020 r. poz. 1027) zarządza się, co następuje:
