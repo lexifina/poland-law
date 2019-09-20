@@ -2,5 +2,5 @@
 
 Dz.U. 1964 nr 9 poz. 59 · <https://eli.gov.pl/api/acts/DU/1964/59>
 
-Tekst jednolity: Dz.U. 2017 poz. 682 (2017-03-30), stan na 2016-09-17.
+Tekst jednolity: Dz.U. 2019 poz. 2086 (2019-10-30), stan na 2019-09-20.
 
