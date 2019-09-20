@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1793",
+ "source_sha256": "45367bb17c6e027ac90741bcde6597eb79b94979df1694354d63a51a352eaf79",
+ "in_force": "2019-09-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1793",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1793/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1793/text/O/D20191793.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1793/text/I/D20191793.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1793/text/T/D20191793L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1793/text/U/D20191793Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1793",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1793,
+  "address": "WDU20190001793",
+  "displayAddress": "Dz.U. 2019 poz. 1793",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 sierpnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Kosmicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-08-30",
+  "promulgation": "2019-09-20",
+  "expirationDate": "2020-11-04",
+  "changeDate": "2024-03-14T19:50:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Polska Agencja Kosmiczna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2014/1533"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191793.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191793.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191793L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191793Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
