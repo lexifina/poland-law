@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1712",
+ "source_sha256": "e8c8ce131b9593bed86188b77ac90f139d987ca753255f11cc580c3b2e1d324e",
+ "in_force": "2019-09-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1712",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1712/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1712/text/O/D20191712.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1712/text/I/D20191712.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1712/text/T/D20191712L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1712/text/U/D20191712Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1712",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1712,
+  "address": "WDU20190001712",
+  "displayAddress": "Dz.U. 2019 poz. 1712",
+  "title": "Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-07-19",
+  "promulgation": "2019-09-09",
+  "entryIntoForce": "2019-09-24",
+  "changeDate": "2024-03-14T19:50:13",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska",
+   "budowlane prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=3616",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/3616",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/3616",
+    "number": "3616",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2022/258",
+     "date": "2022-02-04"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2008/1227",
+     "date": "2019-09-24"
+    },
+    {
+     "id": "DU/2001/627",
+     "date": "2019-09-24"
+    },
+    {
+     "id": "DU/1994/414",
+     "date": "2019-09-24"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191712.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191712.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191712L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191712Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
