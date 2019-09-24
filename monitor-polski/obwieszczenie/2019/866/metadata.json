@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/866",
+ "source_sha256": "63cc2864a28d1f8810bcc060ce02a28117fa72571c77650804870e75484930b5",
+ "in_force": "2019-09-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/866",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/866/text/O/M20190866.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/866/text/I/M20190866.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/866",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 866,
+  "address": "WMP20190000866",
+  "displayAddress": "M.P. 2019 poz. 866",
+  "title": "Obwieszczenie Ministra Środowiska z dnia 30 sierpnia 2019 r. w sprawie wysokości stawek opłat za korzystanie ze środowiska na rok 2020",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-08-30",
+  "promulgation": "2019-09-24",
+  "changeDate": "2019-11-08T00:00:00",
+  "releasedBy": [
+   "MIN. ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2019/1059",
+     "date": "2019-10-30"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/627"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/627",
+     "art": "art. 291 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20190866.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20190866.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
