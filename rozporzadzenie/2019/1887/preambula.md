@@ -1,0 +1,1 @@
+Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, 1394, 1590, 1694, 1726 i 1818) zarządza się, co następuje:
