@@ -9,3 +9,5 @@
 - 2) ukrywanie się oskarżonego przyczyniło się do przedawnienia karalności zarzucanego mu czynu;
 
 - 3) umorzono przeciwko oskarżonemu postępowanie na podstawie art. 11 § 1.
+
+§ 3. W razie umorzenia postępowania ze względu na cofnięcie wniosku o ściganie po rozpoczęciu przewodu sądowego sąd może orzec, że koszty procesu ponosi w całości lub w części oskarżony.

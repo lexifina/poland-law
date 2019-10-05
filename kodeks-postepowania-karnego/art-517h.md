@@ -1,6 +1,6 @@
 # Art. 517h.
 
-§ 1. Wniosek o sporządzenie na piśmie i doręczenie uzasadnienia wyroku może być zgłoszony ustnie do protokołu rozprawy lub posiedzenia albo złożony na piśmie w terminie zawitym 3 dni od daty doręczenia wyroku.
+§ 1. Wniosek o sporządzenie na piśmie i doręczenie uzasadnienia wyroku może być złożony na piśmie w terminie zawitym 3 dni od daty ogłoszenia wyroku, a jeżeli ustawa przewiduje doręczenie wyroku - od daty jego doręczenia. Wniosek można również złożyć ustnie do protokołu rozprawy lub posiedzenia.
 
 § 2. Sąd sporządza uzasadnienie wyroku w terminie 3 dni od daty złożenia wniosku o sporządzenie uzasadnienia.
 

@@ -1,6 +1,6 @@
 # Art. 343a.
 
-§ 1. W wypadku złożenia przez oskarżonego, któremu zarzucono występek, wniosku, o którym mowa w art. 338a, o terminie posiedzenia zawiadamia się strony i pokrzywdzonego, przesyłając im odpis wniosku.
+§ 1. W wypadku złożenia przez oskarżonego wniosku, o którym mowa w art. 338a, o terminie posiedzenia zawiadamia się strony i pokrzywdzonego, przesyłając im odpis wniosku.
 
 § 2. Sąd może uwzględnić wniosek, jeżeli okoliczności popełnienia przestępstwa i wina nie budzą wątpliwości, a postawa oskarżonego wskazuje, że cele postępowania zostaną osiągnięte. Uwzględnienie wniosku jest możliwe tylko wówczas, gdy nie sprzeciwi się temu prokurator. Przepis art. 343 stosuje się odpowiednio.
 
