@@ -1,0 +1,4 @@
+# Wyrok Trybunału Konstytucyjnego z dnia 25 września 2019 r. sygn. akt SK 31/16
+
+Dz.U. 2019 poz. 1915 · <https://eli.gov.pl/api/acts/DU/2019/1915>
+
