@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1942",
+ "source_sha256": "57dbc485f36a0692c4370ed33783c040dfc0f8e72d902e798e43f020e3553d21",
+ "in_force": "2019-10-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1942",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1942/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1942/text/O/D20191942.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1942/text/I/D20191942.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1942/text/T/D20191942L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1942/text/U/D20191942Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1942",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1942,
+  "address": "WDU20190001942",
+  "displayAddress": "Dz.U. 2019 poz. 1942",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie informacji oświatowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-09-11",
+  "promulgation": "2019-10-11",
+  "expirationDate": "2021-03-30",
+  "changeDate": "2024-03-14T19:49:38",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informatyzacja",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/814"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191942.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191942.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191942L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191942Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
