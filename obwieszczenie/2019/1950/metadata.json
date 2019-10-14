@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1950",
+ "source_sha256": "84c23e6a0aedd0f4b1a2f67b0dffa234550c53c308f376b7caa5c2ee3b61f89a",
+ "in_force": "2019-10-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1950",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1950/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1950/text/O/D20191950.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1950/text/I/D20191950.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1950/text/T/D20191950L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1950/text/U/D20191950Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1950",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1950,
+  "address": "WDU20190001950",
+  "displayAddress": "Dz.U. 2019 poz. 1950",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-09-11",
+  "promulgation": "2019-10-14",
+  "expirationDate": "2020-08-25",
+  "changeDate": "2024-03-14T19:49:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "grzywny",
+   "kodeks karny",
+   "kary pieniężne i porządkowe",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/553"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191950.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191950.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191950L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191950Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
