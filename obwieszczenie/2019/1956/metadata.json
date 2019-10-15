@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1956",
+ "source_sha256": "fac0e7d9011e610b1b3970f0a8ce8b9502c29cb3cd5880073d38e33f089038de",
+ "in_force": "2019-10-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 44225 words, parsed 49; at 49: '13 października 2019 r . Dział I . Dane zbiorcze'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1956",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1956/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1956/text/O/D20191956.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1956/text/I/D20191956.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1956",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1956,
+  "address": "WDU20190001956",
+  "displayAddress": "Dz.U. 2019 poz. 1956",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 14 października 2019 r. o wynikach wyborów do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 13 października 2019 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-10-14",
+  "promulgation": "2019-10-15",
+  "changeDate": "2024-03-14T19:53:39",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "senatorowie",
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Senat"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 276"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191956.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191956.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
