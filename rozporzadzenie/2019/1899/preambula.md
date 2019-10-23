@@ -1,0 +1,1 @@
+Na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2019 r. poz. 784, 999, 1096 i 1590) zarządza się, co następuje.
