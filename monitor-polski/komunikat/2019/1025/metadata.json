@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/1025",
+ "source_sha256": "87ca385494edb26f596836fbeb0e5ecd742a0aeda7ce1ea2d8f6813975e2b0f0",
+ "in_force": "2019-10-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/1025",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/1025/text/O/M20191025.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/1025/text/I/M20191025.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/1025",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1025,
+  "address": "WMP20190001025",
+  "displayAddress": "M.P. 2019 poz. 1025",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 października 2019 r. w sprawie wskaźnika cen towarów nieżywnościowych trwałego użytku w III kwartale 2019 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-10-15",
+  "promulgation": "2019-10-24",
+  "changeDate": "2019-10-25T12:01:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "wskaźnik",
+   "podatek od spadków i darowizn"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1983/207"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1983/207",
+     "art": "art. 17 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20191025.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20191025.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
