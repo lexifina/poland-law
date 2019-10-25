@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie ustawy z dnia 19 lipca 2019 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o wzmocnieniu współpracy w dziedzinie zapobiegania i zwalczania poważnej przestępczości, podpisanej w Waszyngtonie dnia 12 czerwca 2019 r. (Dz. U. poz. 1525) Prezydent Rzeczypospolitej Polskiej dnia 30 sierpnia 2019 r. ratyfikował wyżej wymienioną umowę.
+
+Zgodnie z art. 23 umowy weszła ona w życie dnia 3 września 2019 r.
