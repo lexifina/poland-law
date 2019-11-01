@@ -2,6 +2,8 @@
 
 § 1. Dyrektor Krajowej Informacji Skarbowej, na wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, interpretację przepisów prawa podatkowego (interpretację indywidualną).
 
+§ 1a. W zakresie objętym wiążącymi informacjami stawkowymi, o których mowa w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, nie wydaje się interpretacji indywidualnych.
+
 § 2. Wniosek o interpretację indywidualną może dotyczyć zaistniałego stanu faktycznego lub zdarzeń przyszłych.
 
 § 2a. Przedmiotem wniosku o interpretację indywidualną nie mogą być przepisy prawa podatkowego:
@@ -38,7 +40,7 @@
 
 § 5d. Powzięcie uzasadnionego przypuszczenia, o którym mowa w § 5b, może wynikać również z łącznej oceny więcej niż jednego wniosku o wydanie interpretacji indywidualnej, nawet jeżeli zostały złożone przez różnych wnioskodawców.
 
-§ 5e. Na postanowienia wydane na podstawie § 5 i 5b przysługuje zażalenie.
+§ 5e. Na postanowienia wydane na podstawie § 1a, 5 i 5b przysługuje zażalenie.
 
 § 6. (uchylony)
 
