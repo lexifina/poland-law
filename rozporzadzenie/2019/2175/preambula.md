@@ -1,0 +1,1 @@
+Na podstawie art. 28a ust. 2 pkt 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2018 r. poz. 1983 oraz z 2019 r. poz. 115, 730, 1696 i 2020) zarządza się, co następuje:
