@@ -1,0 +1,1 @@
+Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2021 r. poz. 1646 oraz z 2022 r. poz. 1616) zarządza się, co następuje:
