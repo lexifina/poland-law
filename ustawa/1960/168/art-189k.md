@@ -32,7 +32,7 @@
 
 - 1) w zakresie warunków udzielania tej pomocy:
 
-  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149, 398, 1544 i 1629),
+  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, z późn. zm.),
 
   - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy wykonawcze wydane na podstawie art. 139a ust. 4 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne;
 
