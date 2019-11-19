@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/1106",
+ "source_sha256": "2f8e0175ddaf9a1a53e4a875daf1b3fac92fb0a4e505a48715227d1a6a6752e6",
+ "in_force": "2019-11-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/1106",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/1106/text/O/M20191106.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/1106/text/I/M20191106.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/1106",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1106,
+  "address": "WMP20190001106",
+  "displayAddress": "M.P. 2019 poz. 1106",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 6 listopada 2019 r. o wolnym stanowisku asesorskim w Wojewódzkim Sądzie Administracyjnym w Olsztynie",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-11-06",
+  "promulgation": "2019-11-19",
+  "changeDate": "2019-11-20T11:31:04",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stanowiska",
+   "asesorzy",
+   "sądy administracyjne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1269"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1269",
+     "art": "art. 6a par. 2a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20191106.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20191106.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
