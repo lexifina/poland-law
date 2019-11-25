@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/1136",
+ "source_sha256": "da665f53ecd919dfff94607d747f54aaf98f950a9f665d9818c51fd3b3296f4f",
+ "in_force": "2019-11-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/1136",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/1136/text/O/M20191136.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/1136/text/I/M20191136.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/1136",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1136,
+  "address": "WMP20190001136",
+  "displayAddress": "M.P. 2019 poz. 1136",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 22 listopada 2019 r. w sprawie wyboru posłów członków Krajowej Rady Sądownictwa",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-11-22",
+  "promulgation": "2019-11-25",
+  "changeDate": "2019-11-27T12:33:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2011/714"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/2011/714",
+     "art": "art. 9 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 187 ust. 1 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20191136.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20191136.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
