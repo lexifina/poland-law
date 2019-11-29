@@ -27,3 +27,5 @@
 § 3. Szef Krajowej Administracji Skarbowej wzywa wnoszącego wniosek o wydanie opinii zabezpieczającej niespełniający wymogów określonych w § 1 lub innych wymogów określonych przepisami prawa do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie wniosku bez rozpatrzenia.
 
 § 4. Szef Krajowej Administracji Skarbowej może zwrócić się o wyjaśnienie wątpliwości co do danych zawartych we wniosku lub zorganizować spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
+
+§ 5. Ze spotkania uzgodnieniowego sporządza się protokół. Przebieg spotkania uzgodnieniowego może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
