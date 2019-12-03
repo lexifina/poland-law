@@ -1,0 +1,1 @@
+Na podstawie art. 47 ust. 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495) zarządza się, co następuje:
