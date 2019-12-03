@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/2248",
+ "source_sha256": "d40b09778807b0bfe06c2598767503fa1e29dd529e215a86ea6f77945a817ca7",
+ "in_force": "2019-12-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: formula; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/2248",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/2248/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/2248/text/O/D20192248.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/2248/text/I/D20192248.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/2248/text/T/D20192248L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/2248",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 2248,
+  "address": "WDU20190002248",
+  "displayAddress": "Dz.U. 2019 poz. 2248",
+  "title": "Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-10-16",
+  "promulgation": "2019-11-18",
+  "entryIntoForce": "2019-12-03",
+  "changeDate": "2024-03-14T19:49:53",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "oświata i wychowanie",
+   "cyberbezpieczeństwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=3721",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/3721",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/3721",
+    "number": "3721",
+    "term": 8
+   }
+  ],
+  "comments": "art. 2 wchodzi w życie z dniem 19 listopada 2019 r.; art. 4 wchodzi w życie z dniem 1 stycznia 2020 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/1681",
+     "date": "2020-01-01"
+    },
+    {
+     "id": "DU/2018/2245",
+     "date": "2019-12-03"
+    },
+    {
+     "id": "DU/2018/1560",
+     "date": "2019-11-19"
+    },
+    {
+     "id": "DU/2017/59",
+     "date": "2019-12-03"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20192248.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20192248.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20192248L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
