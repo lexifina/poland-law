@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2019/1181",
+ "source_sha256": "6426cd6617eed0f762ad9b4336c47be85b60eb015642e986e3e5cb23be3172bd",
+ "in_force": "2019-12-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2019/1181",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2019/1181/text/O/M20191181.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2019/1181/text/I/M20191181.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2019/1181",
+  "publisher": "MP",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1181,
+  "address": "WMP20190001181",
+  "displayAddress": "M.P. 2019 poz. 1181",
+  "title": "Komunikat Prezesa Narodowego Funduszu Zdrowia z dnia 27 listopada 2019 r. w sprawie ogłoszenia rocznego planu finansowego Narodowego Funduszu Zdrowia na 2020 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-11-27",
+  "promulgation": "2019-12-18",
+  "changeDate": "2019-12-19T11:45:30",
+  "releasedBy": [
+   "PREZ. NARODOWEGO FUNDUSZU ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zdrowia",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [
+   "Narodowy Fundusz Zdrowia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/2135"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/2135",
+     "art": "art. 104 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20191181.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20191181.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
