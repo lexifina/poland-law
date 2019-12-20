@@ -1,0 +1,5 @@
+Na podstawie art. 18b ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395, z 2011 r. poz. 676 oraz z 2019 r. poz. 109 i 2020) obwieszcza się, że w jednolitym tekście polskim Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r., będącym załącznikiem do oświadczenia rządowego z dnia 18 lutego 2019 r. w sprawie wejścia w życie zmian do załączników A i B do Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r. (Dz. U. z 2019 r. poz. 769) prostuje się błędy stwierdzone w rysunku pt. „Grupa linii podziału toksyczności inhalacyjnej PAR” znajdującym się w Tomie I, w Załączniku A, w Części 2, Dziale 2.2.61, w Klasie 6.1 Materiały trujące, w punkcie 2.2.61.1.8 poprzez zastąpienie rysunku następującym rysunkiem:
+
+GRUPA LINII PODZIAŁU TOKSYCZNOŚCI INHALACYJNEJ PAR
+
+patrz oryginał
