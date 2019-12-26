@@ -1,0 +1,1 @@
+Na podstawie art. 2 ust. 9 ustawy z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2018 r. poz. 1378 oraz z 2019 r. poz. 1572) zarządza się, co następuje:
