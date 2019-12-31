@@ -1,0 +1,1 @@
+Na podstawie art. 13 ust. 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu olejami opałowymi (Dz. U. z 2018 r. poz. 2332 oraz z 2019 r. poz. 730, 1123 i 1556) zarządza się, co następuje:
