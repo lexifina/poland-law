@@ -42,7 +42,9 @@
 
 - 17) w przypadku faktur, o których mowa w art. 106d ust. 1 - wyraz „samofakturowanie”;
 
-- 18) w przypadku dostawy towarów lub wykonania usługi, dla których obowiązanym do rozliczenia podatku, podatku od wartości dodanej lub podatku o podobnym charakterze jest nabywca towaru lub usługi - wyrazy „odwrotne obciążenie”;
+- 18) w przypadku dostawy towarów lub wykonania usługi, dla których obowiązanym do rozliczenia podatku od wartości dodanej lub podatku o podobnym charakterze jest nabywca towaru lub usługi - wyrazy „odwrotne obciążenie”;
+
+- 18a) w przypadku faktur, w których kwota należności ogółem stanowi kwotę, o której mowa w art. 19 pkt 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, obejmujących dokonaną na rzecz podatnika dostawę towarów lub świadczenie usług, o których mowa w załączniku nr 15 do ustawy - wyrazy „mechanizm podzielonej płatności”;
 
 - 19) w przypadku dostawy towarów lub świadczenia usług zwolnionych od podatku na podstawie art. 43 ust. 1, art. 113 ust. 1 i 9 albo przepisów wydanych na podstawie art. 82 ust. 3 - wskazanie:
 
@@ -76,11 +78,13 @@
 
 4. Faktura nie zawiera:
 
-- 1) w przypadku dostawy towarów lub wykonania usługi, dla których obowiązanym do rozliczenia podatku, zgodnie z art. 17 ust. 1 pkt 7 i 8, jest nabywca towaru lub usługobiorca - danych określonych w ust. 1 pkt 12-14;
+- 1) (uchylony)
 
 - 2) w przypadku, o którym mowa w art. 16 - danych określonych w ust. 1 pkt 4;
 
-- 3) w przypadku, o którym mowa w art. 106b ust. 3 pkt 2 - danych określonych w ust. 1 pkt 12-14.
+- 3) w przypadku, o którym mowa w art. 106b ust. 3 pkt 2 - danych określonych w ust. 1 pkt 12-14;
+
+- 4) w przypadku, o którym mowa w art. 106a pkt 3, jeżeli usługodawcą jest podmiot zagraniczny, o którym mowa w art. 131 pkt 2, zidentyfikowany na potrzeby procedury szczególnej, o której mowa w dziale XII w rozdziale 7 - danych określonych w ust. 1 pkt 4.
 
 5. Faktura może nie zawierać:
 
@@ -101,3 +105,7 @@
 10. Podatnik może określić w fakturze również kwoty podatku dotyczące wartości poszczególnych dostarczonych towarów i wykonanych usług wykazanych w tej fakturze; w tym przypadku łączna kwota podatku może być ustalona w wyniku podsumowania jednostkowych kwot podatku.
 
 11. Kwoty podatku wykazuje się w złotych. Kwoty podatku wyrażone w walucie obcej wykazuje się w złotych przy zastosowaniu zasad przeliczania na złote przyjętych dla przeliczania kwot stosowanych do określenia podstawy opodatkowania. Kwoty wykazywane w fakturze zaokrągla się do pełnych groszy, przy czym końcówki poniżej 0,5 grosza pomija się, a końcówki od 0,5 grosza zaokrągla się do 1 grosza.
+
+12. W przypadku stwierdzenia, że podatnik wystawił fakturę z naruszeniem ust. 1 pkt 18a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty podatku przypadającej na dostawę towarów lub świadczenie usług wymienionych w załączniku nr 15 do ustawy, wykazanej na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+
+13. Przepisu ust. 12 nie stosuje się, jeżeli zapłata kwoty odpowiadającej kwocie podatku przypadającej na dostawę towarów lub świadczenie usług wymienionych w załączniku nr 15 do ustawy, wykazanej na fakturze, została dokonana z zastosowaniem mechanizmu podzielonej płatności.

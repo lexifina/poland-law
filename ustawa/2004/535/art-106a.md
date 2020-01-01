@@ -8,4 +8,6 @@ Przepisy niniejszego rozdziału stosuje się do:
 
   - a) państwa członkowskiego inne niż terytorium kraju, a osobą zobowiązaną do zapłaty podatku od wartości dodanej jest nabywca towaru lub usługobiorca i faktura dokumentująca te czynności nie jest wystawiana przez tego nabywcę lub usługobiorcę w imieniu i na rzecz podatnika,
 
-  - b) państwa trzeciego.
+  - b) państwa trzeciego;
+
+- 3) świadczenia usług telekomunikacyjnych, nadawczych i elektronicznych, dla których miejscem świadczenia jest miejsce określone zgodnie z art. 28k ust. 1, przez podatników zidentyfikowanych na potrzeby procedury szczególnej, o której mowa w dziale XII w rozdziałach 6a i 7, dla których państwem członkowskim identyfikacji jest Rzeczpospolita Polska.

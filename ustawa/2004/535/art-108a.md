@@ -6,6 +6,16 @@
 
 1. Podatnicy, którzy otrzymali fakturę z wykazaną kwotą podatku, przy dokonywaniu płatności kwoty należności wynikającej z tej faktury mogą zastosować mechanizm podzielonej płatności.
 
+1a. Przy dokonywaniu płatności za nabyte towary lub usługi wymienione w załączniku nr 15 do ustawy, udokumentowane fakturą, w której kwota należności ogółem stanowi kwotę, o której mowa w art. 19 pkt 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, podatnicy są obowiązani zastosować mechanizm podzielonej płatności.
+
+1b. Podatnik obowiązany do wystawienia faktury, o której mowa w art. 106e ust. 1 pkt 18a, jest obowiązany do przyjęcia płatności kwoty należności wynikającej z tej faktury z zastosowaniem mechanizmu podzielonej płatności.
+
+1c. Przepisy ust. 1-1b stosuje się odpowiednio do płatności, o których mowa w art. 19a ust. 8. W takim przypadku w komunikacie przelewu, o którym mowa w ust. 3, podatnik w miejsce informacji, o której mowa w ust. 3 pkt 3, wpisuje wyraz „zaliczka”.
+
+1d. W przypadku dokonania potrącenia, o którym mowa w art. 498 Kodeksu cywilnego, przepisów ust. 1a i 1b nie stosuje się w zakresie, w jakim kwoty należności są potrącane.
+
+1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2019 r. poz. 1445, 1572 i 2020), jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
+
 2. Zastosowanie mechanizmu podzielonej płatności polega na tym, że:
 
 - 1) zapłata kwoty odpowiadającej całości albo części kwoty podatku wynikającej z otrzymanej faktury jest dokonywana na rachunek VAT;
@@ -22,8 +32,22 @@
 
 - 4) numer, za pomocą którego dostawca towaru lub usługodawca jest zidentyfikowany na potrzeby podatku.
 
+3a. W przypadku wystawienia na rzecz podatnika przez jednego dostawcę lub usługodawcę w okresie nie krótszym niż jeden dzień i nie dłuższym niż jeden miesiąc więcej niż jednej faktury zapłata z zastosowaniem mechanizmu podzielonej płatności może dotyczyć więcej niż jednej faktury.
+
+3b. W przypadku, o którym mowa w ust. 3a, komunikat przelewu, o którym mowa w ust. 3:
+
+- 1) obejmuje wszystkie faktury wystawione dla podatnika przez jednego dostawcę lub usługodawcę w okresie nie krótszym niż jeden dzień i nie dłuższym niż jeden miesiąc;
+
+- 2) zawiera kwotę odpowiadającą sumie kwot podatku wykazanych w fakturach, o których mowa w pkt 1.
+
+3c. W przypadku, o którym mowa w ust. 3a, w komunikacie przelewu, o którym mowa w ust. 3, w miejsce informacji, o której mowa w ust. 3 pkt 3, wpisuje się okres, za który dokonywana jest płatność.
+
 4. W przypadkach określonych w art. 29a ust. 10 pkt 1-3 i ust. 14 zwrot całości albo części zapłaty może być dokonywany przy użyciu komunikatu przelewu, o którym mowa w ust. 3, w którym podatnik w miejsce informacji, o której mowa w ust. 3 pkt 4, wskazuje numer, za pomocą którego nabywca towaru lub usługobiorca jest zidentyfikowany na potrzeby podatku.
 
 5. W przypadku gdy płatność zostanie dokonana w sposób określony w ust. 2 na rzecz podatnika innego niż wskazany na fakturze, o której mowa w ust. 3 pkt 3, podatnik, na rzecz którego dokonano tej płatności, odpowiada solidarnie wraz z dostawcą tych towarów lub usługodawcą za nierozliczony przez dostawcę towarów lub usługodawcę podatek wynikający z tej dostawy towarów lub tego świadczenia usług do wysokości kwoty otrzymanej na rachunek VAT.
 
 6. Odpowiedzialność solidarna podatnika, o którym mowa w ust. 5, jest wyłączona w przypadku dokonania przez tego podatnika płatności na rachunek VAT dostawcy towarów lub usługodawcy wskazanego na fakturze, o której mowa w ust. 3 pkt 3, albo zwrotu otrzymanej płatności na rachunek VAT podatnika, od którego otrzymano tę płatność, niezwłocznie po powzięciu informacji o jej otrzymaniu, w kwocie otrzymanej na rachunek VAT. Przepis ust. 3 stosuje się odpowiednio.
+
+7. W przypadku stwierdzenia, że podatnik dokonał płatności z naruszeniem ust. 1a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty podatku przypadającej na nabyte towary lub usługi wymienione w załączniku nr 15 do ustawy, wykazane na fakturze, której dotyczy płatność. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+
+8. Przepisu ust. 7 nie stosuje się, jeżeli dostawca lub usługodawca rozliczył całą kwotę podatku wynikającą z faktury, która została zapłacona z naruszeniem ust. 1a.

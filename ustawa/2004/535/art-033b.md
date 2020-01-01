@@ -12,6 +12,6 @@
 
 - 1) zakres zadań wykonywanych przez naczelnika urzędu celno-skarbowego;
 
-- 2) specyfikę pojedynczych pozwoleń;
+- 2) specyfikę odprawy scentralizowanej;
 
 - 3) potrzebę zapewnienia kontroli prawidłowości rozliczania podatku.

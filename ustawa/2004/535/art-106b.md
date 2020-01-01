@@ -19,3 +19,5 @@
 - 2) sprzedaż zwolnioną, o której mowa w ust. 2, z zastrzeżeniem art. 117 pkt 1 i art. 118
 
 - jeżeli żądanie jej wystawienia zostało zgłoszone w terminie 3 miesięcy, licząc od końca miesiąca, w którym dostarczono towar lub wykonano usługę bądź otrzymano całość lub część zapłaty.
+
+4. Do świadczenia usług, o których mowa w art. 106a pkt 3, przepis ust. 3 pkt 1 stosuje się odpowiednio.

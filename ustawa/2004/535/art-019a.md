@@ -1,12 +1,16 @@
 # Art. 19a.
 
-1. Obowiązek podatkowy powstaje z chwilą dokonania dostawy towarów lub wykonania usługi, z zastrzeżeniem ust. 5 i 7-11, art. 14 ust. 6, art. 20 i art. 21 ust. 1.
+1. Obowiązek podatkowy powstaje z chwilą dokonania dostawy towarów lub wykonania usługi, z zastrzeżeniem ust. 1a, 5 i 7-11, art. 14 ust. 6, art. 20 i art. 21 ust. 1.
+
+1a. W przypadku, o którym mowa w art. 8a ust. 1 i 3, obowiązek podatkowy powstaje z chwilą dokonania transferu bonu jednego przeznaczenia.
 
 2. W odniesieniu do przyjmowanych częściowo usług, usługę uznaje się również za wykonaną, w przypadku wykonania części usługi, dla której to części określono zapłatę.
 
 3. Usługę, dla której w związku z jej świadczeniem ustalane są następujące po sobie terminy płatności lub rozliczeń, uznaje się za wykonaną z upływem każdego okresu, do którego odnoszą się te płatności lub rozliczenia, do momentu zakończenia świadczenia tej usługi. Usługę świadczoną w sposób ciągły przez okres dłuższy niż rok, dla której w związku z jej świadczeniem w danym roku nie upływają terminy płatności lub rozliczeń, uznaje się za wykonaną z upływem każdego roku podatkowego, do momentu zakończenia świadczenia tej usługi.
 
 4. Przepis ust. 3 stosuje się odpowiednio do dostawy towarów, z wyjątkiem dostawy towarów, o której mowa w art. 7 ust. 1 pkt 2.
+
+4a. W przypadku, o którym mowa w art. 8a ust. 1 i 3, dostawę towarów uznaje się za dokonaną, a usługę uznaje się za wykonaną z chwilą dokonania transferu bonu jednego przeznaczenia.
 
 5. Obowiązek podatkowy powstaje z chwilą:
 
@@ -28,15 +32,15 @@
 
   - a) świadczenia usług budowlanych lub budowlano-montażowych,
 
-  - b) dostawy książek drukowanych (PKWiU ex 58.11.1) - z wyłączeniem map i ulotek - oraz gazet, czasopism i magazynów, drukowanych (PKWiU ex 58.13.1 i PKWiU ex 58.14.1),
+  - b) dostawy książek drukowanych (CN ex 4901 10 00, 4901 91 00, ex 4901 99 00 i 4903 00 00) - z wyłączeniem map i ulotek - oraz gazet, czasopism i magazynów, drukowanych (CN 4902),
 
-  - c) czynności polegających na drukowaniu książek (PKWiU ex 58.11.1) - z wyłączeniem map i ulotek - oraz gazet, czasopism i magazynów (PKWiU ex 58.13.1 i PKWiU ex 58.14.1), z wyjątkiem usług, do których stosuje się art. 28b, stanowiących import usług;
+  - c) czynności polegających na drukowaniu książek (CN ex 4901 10 00, 4901 91 00, ex 4901 99 00 i 4903 00 00) - z wyłączeniem map i ulotek - oraz gazet, czasopism i magazynów (CN 4902), z wyjątkiem usług, do których stosuje się art. 28b, stanowiących import usług;
 
 - 4) wystawienia faktury z tytułu:
 
   - a) dostaw energii elektrycznej, cieplnej lub chłodniczej oraz gazu przewodowego,
 
-  - b) świadczenia usług: - telekomunikacyjnych, - wymienionych w poz. 140-153, 174 i 175 załącznika nr 3 do ustawy, - najmu, dzierżawy, leasingu lub usług o podobnym charakterze, - ochrony osób oraz usług ochrony, dozoru i przechowywania mienia, - stałej obsługi prawnej i biurowej, - dystrybucji energii elektrycznej, cieplnej lub chłodniczej oraz gazu przewodowego - z wyjątkiem usług, do których stosuje się art. 28b, stanowiących import usług.
+  - b) świadczenia usług: - telekomunikacyjnych, - wymienionych w poz. 24-37, 50 i 51 załącznika nr 3 do ustawy, - najmu, dzierżawy, leasingu lub usług o podobnym charakterze, - ochrony osób oraz usług ochrony, dozoru i przechowywania mienia, - stałej obsługi prawnej i biurowej, - dystrybucji energii elektrycznej, cieplnej lub chłodniczej oraz gazu przewodowego - z wyjątkiem usług, do których stosuje się art. 28b, stanowiących import usług.
 
 6. W przypadkach, o których mowa w ust. 5 pkt 1 i 2, obowiązek podatkowy powstaje w odniesieniu do otrzymanej kwoty.
 

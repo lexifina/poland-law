@@ -6,11 +6,11 @@
 
 1. Podatnik może skorygować podstawę opodatkowania oraz podatek należny z tytułu dostawy towarów lub świadczenia usług na terytorium kraju w przypadku wierzytelności, których nieściągalność została uprawdopodobniona. Korekta dotyczy również podstawy opodatkowania i kwoty podatku przypadającej na część kwoty wierzytelności, której nieściągalność została uprawdopodobniona.
 
-1a. Nieściągalność wierzytelności uważa się za uprawdopodobnioną, w przypadku gdy wierzytelność nie została uregulowana lub zbyta w jakiejkolwiek formie w ciągu 150 dni od dnia upływu terminu jej płatności określonego w umowie lub na fakturze.
+1a. Nieściągalność wierzytelności uważa się za uprawdopodobnioną, w przypadku gdy wierzytelność nie została uregulowana lub zbyta w jakiejkolwiek formie w ciągu 90 dni od dnia upływu terminu jej płatności określonego w umowie lub na fakturze.
 
 2. Przepis ust. 1 stosuje się w przypadku gdy spełnione są następujące warunki:
 
-- 1) dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149, 398, 1544 i 1629), postępowania upadłościowego lub w trakcie likwidacji;
+- 1) dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, z późn. zm.), postępowania upadłościowego lub w trakcie likwidacji;
 
 - 2) (uchylony)
 

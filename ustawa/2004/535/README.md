@@ -2,5 +2,5 @@
 
 Dz.U. 2004 nr 54 poz. 535 · <https://eli.gov.pl/api/acts/DU/2004/535>
 
-Tekst jednolity: Dz.U. 2018 poz. 2174 (2018-11-21), stan na 2018-10-01.
+Tekst jednolity: Dz.U. 2020 poz. 106 (2020-01-23), stan na 2020-01-01.
 

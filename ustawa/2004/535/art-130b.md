@@ -1,6 +1,6 @@
 # Art. 130b.
 
-1. Podatnik świadczący usługi telekomunikacyjne, usługi nadawcze lub usługi elektroniczne, dla których miejscem świadczenia jest miejsce określone zgodnie z art. 28k, na rzecz osób niebędących podatnikami, o których mowa w art. 28a, mających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu w państwie członkowskim konsumpcji, może złożyć zgłoszenie informujące o zamiarze skorzystania z procedury szczególnej rozliczania VAT w państwie członkowskim, w którym posiada:
+1. Podatnik świadczący usługi telekomunikacyjne, usługi nadawcze lub usługi elektroniczne, dla których miejscem świadczenia jest miejsce określone zgodnie z art. 28k ust. 1, na rzecz osób niebędących podatnikami, o których mowa w art. 28a, mających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu w państwie członkowskim konsumpcji, może złożyć zgłoszenie informujące o zamiarze skorzystania z procedury szczególnej rozliczania VAT w państwie członkowskim, w którym posiada:
 
 - 1) siedzibę działalności gospodarczej albo
 

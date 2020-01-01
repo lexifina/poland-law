@@ -1,11 +1,11 @@
 # Art. 30a.
 
-1. Do ustalenia podstawy opodatkowania w przypadku wewnątrzwspólnotowego nabycia towarów, w tym również dokonywanego na podstawie art. 12a ust. 4-6, stosuje się odpowiednio art. 29a ust. 1, 6, 7, 10 i 11.
+1. Do ustalenia podstawy opodatkowania w przypadku wewnątrzwspólnotowego nabycia towarów, w tym dokonywanego na podstawie art. 12 ust. 4-6 , stosuje się odpowiednio przepisy art. 29a ust. 1-1b, 6, 7, 10 i 11.
 
 2. Do ustalenia podstawy opodatkowania w przypadkach, o których mowa w art. 11, stosuje się odpowiednio art. 29a ust. 2.
 
-2a. Do ustalenia podstawy opodatkowania - w celu obliczenia i wpłacenia kwot podatku - w przypadku wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 103 ust. 5a, można stosować odpowiednio tylko przepis art. 29a ust. 1 albo 2, z tym że w celu określenia kwoty zapłaty lub ceny nabycia przyjmuje się ceny paliw silnikowych udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+2a. Do ustalenia podstawy opodatkowania - w celu obliczenia i wpłacenia kwot podatku - w przypadku wewnątrzwspólnotowego nabycia towarów, o których mowa w art. 103 ust. 5aa, do określenia kwoty zapłaty, ceny nabycia lub kosztu wytworzenia można przyjąć ceny towarów udostępnione zgodnie z ust. 2b, jeżeli zostaną udostępnione. W takim przypadku stosuje się odpowiednio tylko przepis art. 29a ust. 1 albo 2.
 
-2b. Ceny paliw silnikowych, o których mowa w ust. 2a, udostępnia się, na okresy dwutygodniowe, ostatniego dnia roboczego tygodnia poprzedzającego ten okres, uwzględniając ceny hurtowe paliw silnikowych w Rzeczypospolitej Polskiej.
+2b. Ceny towarów, o których mowa w ust. 2a, mogą być udostępniane przez ministra właściwego do spraw finansów publicznych, w formie komunikatu, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego, na okres miesiąca, ostatniego dnia roboczego poprzedzającego ten miesiąc. Przy określaniu cen tych towarów uwzględnia się ich ceny hurtowe w Rzeczypospolitej Polskiej.
 
 3. Jeżeli po dokonaniu wewnątrzwspólnotowego nabycia towarów nabywca otrzymuje zwrot podatku akcyzowego zapłaconego na terytorium państwa członkowskiego, z którego wysłano lub transportowano towary, podstawę opodatkowania obniża się o kwotę zwróconego podatku akcyzowego, przy czym ma on obowiązek udowodnić na podstawie posiadanych dokumentów, że otrzymał zwrot podatku akcyzowego.

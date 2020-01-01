@@ -2,6 +2,20 @@
 
 1. Podstawą opodatkowania, z zastrzeżeniem ust. 2-5, art. 30a-30c, art. 32, art. 119 oraz art. 120 ust. 4 i 5, jest wszystko, co stanowi zapłatę, którą dokonujący dostawy towarów lub usługodawca otrzymał lub ma otrzymać z tytułu sprzedaży od nabywcy, usługobiorcy lub osoby trzeciej, włącznie z otrzymanymi dotacjami, subwencjami i innymi dopłatami o podobnym charakterze mającymi bezpośredni wpływ na cenę towarów dostarczanych lub usług świadczonych przez podatnika.
 
+1a. Podstawa opodatkowania z tytułu dostawy towarów lub świadczenia usług dokonanych w zamian za bon różnego przeznaczenia realizowany w całości, w odniesieniu do tego bonu, jest równa:
+
+- 1) wynagrodzeniu zapłaconemu za ten bon różnego przeznaczenia, pomniejszonemu o kwotę podatku związaną z dostarczonymi towarami lub świadczonymi usługami;
+
+- 2) wartości pieniężnej wskazanej na tym bonie różnego przeznaczenia lub w powiązanej dokumentacji, pomniejszonej o kwotę podatku związaną z dostarczonymi towarami lub świadczonymi usługami - w przypadku gdy informacje dotyczące wynagrodzenia są niedostępne.
+
+1b. Podstawa opodatkowania z tytułu dostawy towarów lub świadczenia usług dokonanych w zamian za bon różnego przeznaczenia realizowany w części, w odniesieniu do tego bonu, jest równa odpowiedniej części:
+
+- 1) wynagrodzenia zapłaconego za ten bon różnego przeznaczenia, pomniejszonej o kwotę podatku związaną z dostarczonymi towarami lub świadczonymi usługami;
+
+- 2) wartości pieniężnej wskazanej na tym bonie różnego przeznaczenia lub w powiązanej dokumentacji, pomniejszonej o kwotę podatku związaną z dostarczonymi towarami lub świadczonymi usługami - w przypadku gdy informacje dotyczące wynagrodzenia są niedostępne.
+
+1c. W przypadku, o którym mowa w ust. 1a i 1b, przepisy ust. 2 i 5 stosuje się odpowiednio.
+
 2. W przypadku dostawy towarów, o której mowa w art. 7 ust. 2, podstawą opodatkowania jest cena nabycia towarów lub towarów podobnych, a gdy nie ma ceny nabycia - koszt wytworzenia, określone w momencie dostawy tych towarów.
 
 3. Przepis ust. 2 stosuje się odpowiednio do wewnątrzwspólnotowej dostawy towarów, o której mowa w art. 13 ust. 3, z zastrzeżeniem ust. 4.
@@ -56,7 +70,7 @@
 
 - 2) dostawy towarów i świadczenia usług, dla których miejsce opodatkowania znajduje się poza terytorium kraju;
 
-- 3) sprzedaży: energii elektrycznej, cieplnej lub chłodniczej, gazu przewodowego, usług dystrybucji energii elektrycznej, cieplnej lub chłodniczej, usług dystrybucji gazu przewodowego, usług telekomunikacyjnych oraz usług wymienionych w poz. 140-153, 174 i 175 załącznika nr 3 do ustawy;
+- 3) sprzedaży: energii elektrycznej, cieplnej lub chłodniczej, gazu przewodowego, usług dystrybucji energii elektrycznej, cieplnej lub chłodniczej, usług dystrybucji gazu przewodowego, usług telekomunikacyjnych oraz usług wymienionych w poz. 24-37, 50 i 51 załącznika nr 3 do ustawy;
 
 - 4) gdy podatnik nie uzyskał potwierdzenia mimo udokumentowanej próby doręczenia faktury korygującej i z posiadanej dokumentacji wynika, że nabywca towaru lub usługobiorca wie, że transakcja została zrealizowana zgodnie z warunkami określonymi w fakturze korygującej.
 
