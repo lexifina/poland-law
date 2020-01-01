@@ -1,0 +1,1 @@
+Na podstawie art. 162 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, 1078, 1287, 1680 i 1681) i art. 95 ust. 11 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287) zarządza się, co następuje:
