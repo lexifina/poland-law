@@ -1,0 +1,1 @@
+Na podstawie art. 94n ust. 3 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2019 r. poz. 1421, 1571, 2200 i 2217) zarządza się, co następuje:
