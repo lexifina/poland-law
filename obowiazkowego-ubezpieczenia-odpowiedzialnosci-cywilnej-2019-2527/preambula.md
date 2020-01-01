@@ -1,0 +1,1 @@
+Na podstawie art. 17a ust. 2 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2016 r. poz. 883 oraz z 2019 r. poz. 55, 730, 912, 1495 i 1802) zarządza się, co następuje:
