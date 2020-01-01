@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 8 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2019 r. poz. 623, 1798 i 2217) zarządza się, co następuje:
