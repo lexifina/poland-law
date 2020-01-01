@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2019/1681",
+ "source_sha256": "36ef2d9aa2c1501d2250a1ab793b29b0ba661a614e26b8f2b136c10152af2bda",
+ "in_force": "2020-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2019/1681",
+  "html": "https://eli.gov.pl/api/acts/DU/2019/1681/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2019/1681/text/O/D20191681.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2019/1681/text/I/D20191681.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2019/1681/text/T/D20191681L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2019/1681/text/U/D20191681Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2019/1681",
+  "publisher": "DU",
+  "year": 2019,
+  "volume": 0,
+  "pos": 1681,
+  "address": "WDU20190001681",
+  "displayAddress": "Dz.U. 2019 poz. 1681",
+  "title": "Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-07-19",
+  "promulgation": "2019-09-03",
+  "entryIntoForce": "2020-01-01",
+  "changeDate": "2024-03-14T20:00:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=3548",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term8/prints/3548",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term8/processes/3548",
+    "number": "3548",
+    "term": 8
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2019/2248",
+     "date": "2020-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/59",
+     "date": "2020-01-01"
+    },
+    {
+     "id": "DU/2017/2203",
+     "date": "2020-01-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20191681.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20191681.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20191681L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20191681Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
