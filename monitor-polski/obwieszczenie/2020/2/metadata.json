@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/2",
+ "source_sha256": "29b7b5881d28ef184cb977783541712d1de1dbd72ae49c303fa6dc089b5672ab",
+ "in_force": "2020-01-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/2/text/O/M20200002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/2/text/I/M20200002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/2",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 2,
+  "address": "WMP20200000002",
+  "displayAddress": "M.P. 2020 poz. 2",
+  "title": "Obwieszczenie Ministra Rozwoju z dnia 23 grudnia 2019 r. w sprawie wysokości odsetek ustawowych za opóźnienie w transakcjach handlowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-12-23",
+  "promulgation": "2020-01-02",
+  "changeDate": "2020-01-03T10:27:39",
+  "releasedBy": [
+   "MIN. ROZWOJU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki",
+   "handlowe prawo",
+   "cywilne postępowanie",
+   "terminy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2013/403"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2013/403",
+     "art": "art. 11c"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
