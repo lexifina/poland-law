@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/12",
+ "source_sha256": "980cac0c57ad89e8ff13cddce616699fb93f092b84f820ff4c797ded0fee9cc8",
+ "in_force": "2020-01-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/12/text/O/M20200012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/12/text/I/M20200012.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/12",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 12,
+  "address": "WMP20200000012",
+  "displayAddress": "M.P. 2020 poz. 12",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 20 grudnia 2019 r. w sprawie wskazania członków Państwowej Komisji Wyborczej",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2019-12-20",
+  "promulgation": "2020-01-07",
+  "changeDate": "2020-01-08T11:21:39",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komisje wyborcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31b ust. 9"
+    },
+    {
+     "id": "DU/2011/112",
+     "art": "art. 57 par. 2 pkt 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
