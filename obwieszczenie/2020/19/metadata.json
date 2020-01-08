@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/19",
+ "source_sha256": "636f06996a69d242e534c85f269593cafc0412793b68bde4584656e28efdf0e7",
+ "in_force": "2020-01-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/19",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/19/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/19/text/O/D20200019.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/19/text/I/D20200019.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/19/text/T/D20200019L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/19/text/U/D20200019Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/19",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 19,
+  "address": "WDU20200000019",
+  "displayAddress": "Dz.U. 2020 poz. 19",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 listopada 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny skarbowy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-11-22",
+  "promulgation": "2020-01-08",
+  "expirationDate": "2021-03-05",
+  "changeDate": "2024-04-25T10:10:40",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny skarbowy",
+   "karne skarbowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32013R0952",
+    "date": "2013-10-09",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny"
+   },
+   {
+    "address": "32013R0952R(01)",
+    "date": "2013-10-09",
+    "title": "Sprostowanie do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (wersja przekształcona)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1999/930"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200019.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200019.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200019L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200019Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
