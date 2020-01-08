@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/22",
+ "source_sha256": "75a899f3708b7ddf158242900ed90041a086245ad730a9fbc9c6c75f50c0bec6",
+ "in_force": "2020-01-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/22",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/22/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/22/text/O/D20200022.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/22/text/I/D20200022.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/22/text/T/D20200022L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/22/text/U/D20200022Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/22",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 22,
+  "address": "WDU20200000022",
+  "displayAddress": "Dz.U. 2020 poz. 22",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 listopada 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu termomodernizacji i remontów",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-11-22",
+  "promulgation": "2020-01-08",
+  "expirationDate": "2021-03-26",
+  "changeDate": "2024-03-14T13:03:54",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "termomodernizacja",
+   "remonty"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32015R1188",
+    "date": "2015-04-28",
+    "title": "Rozporządzenie Komisji (UE) 2015/1188 z dnia 28 kwietnia 2015 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla miejscowych ogrzewaczy pomieszczeń (Tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "32015R1589",
+    "date": "2015-07-13",
+    "title": "Rozporządzenie Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiające szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "32006R1998",
+    "date": "2006-12-15",
+    "title": "ROZPORZĄDZENIE KOMISJI (WE) NR 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1459"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200022.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200022.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200022L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200022Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
