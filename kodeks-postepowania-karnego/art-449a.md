@@ -1,6 +1,6 @@
 # Art. 449a.
 
-§ 1. Jeżeli jest to niezbędne dla prawidłowego wyrokowania w sprawie, sąd odwoławczy przed wydaniem orzeczenia może zwrócić akta sprawy sądowi pierwszej instancji w celu uzupełnienia uzasadnienia zaskarżonego wyroku, jednocześnie szczegółowo wskazując kwestie, o które należy uzupełnić uzasadnienie.
+§ 1. Jeżeli jest to niezbędne dla prawidłowego wyrokowania w sprawie, sąd odwoławczy przed wydaniem orzeczenia może zwrócić akta sprawy sądowi pierwszej instancji w celu uzupełnienia uzasadnienia zaskarżonego wyroku, jednocześnie szczegółowo wskazując kwestie, o które należy uzupełnić uzasadnienie. Kwestie te mogą dotyczyć uzupełnienia zakresu uzasadnienia o inne części wyroku w wypadkach, o których mowa w art. 423 § 1a, lub uzupełnienia treści zawartych w uzasadnieniu w tym zakresie, w jakim zostało ono sporządzone.
 
 § 2. Do uzupełnienia uzasadnienia stosuje się odpowiednio przepisy dotyczące sporządzania, doręczania i zaskarżania uzasadnienia wyroku.
 

@@ -1,6 +1,6 @@
 # Art. 148a.
 
-§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.
+§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.
 
 § 2. Przepis § 1 zdanie pierwsze nie dotyczy miejsca pracy świadka będącego funkcjonariuszem publicznym, składającego zeznania w związku z pełnioną funkcją, chyba że przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu orzekającego przeprowadzającego czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone w protokole.
 
