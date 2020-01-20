@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/86",
+ "source_sha256": "445ec373dbc91fba09d9db8a84b295e738708c8b30bd40bb044277ccf94c88cc",
+ "in_force": "2020-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/86",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/86/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/86/text/O/D20200086.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/86/text/I/D20200086.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/86",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 86,
+  "address": "WDU20200000086",
+  "displayAddress": "Dz.U. 2020 poz. 86",
+  "title": "Obwieszczenie Ministra Finansów z dnia 23 grudnia 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie warunków emitowania obligacji skarbowych oferowanych w sprzedaży hurtowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-12-23",
+  "promulgation": "2020-01-20",
+  "expirationDate": "2025-04-04",
+  "changeDate": "2026-10-02T10:44:15",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "obligacje",
+   "finanse publiczne",
+   "sprzedaż"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/1089"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200086.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200086.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
