@@ -16,7 +16,7 @@
 
 4. Waloryzacja kwartalna polega na pomnożeniu kwoty składek, środków, odsetek za zwłokę i opłaty prolongacyjnej zewidencjonowanych na subkoncie przez wskaźnik kwartalnej waloryzacji, o którym mowa w ust. 7. W wyniku przeprowadzonej waloryzacji stan subkonta nie może ulec obniżeniu.
 
-5. Wskaźnik kwartalnej waloryzacji jest obliczany na podstawie ostatnio ogłoszonego wskaźnika rocznej waloryzacji, o którym mowa w art. 40c ust. 6, według następującego wzoru: \( WKW = {{WRW - 100\% } \over 4} + 100\% \) - gdzie poszczególne symbole oznaczają: WKW - wskaźnik kwartalnej waloryzacji, WRW - wskaźnik rocznej waloryzacji, o którym mowa w art. 40c ust. 6.
+5. Wskaźnik kwartalnej waloryzacji jest obliczany na podstawie ostatnio ogłoszonego wskaźnika rocznej waloryzacji, o którym mowa w art. 40c ust. 6, według następującego wzoru: [wzór] - gdzie poszczególne symbole oznaczają: WKW - wskaźnik kwartalnej waloryzacji, WRW - wskaźnik rocznej waloryzacji, o którym mowa w art. 40c ust. 6.
 
 6. Wskaźnik kwartalnej waloryzacji ustala się z dokładnością do setnych części procentu.
 
