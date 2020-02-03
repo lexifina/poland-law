@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2020/164",
- "source_sha256": "d7a29babfee53c061f0dd254213a54f197c073e9439be00bad255554071db4fe",
+ "source_sha256": "2562957b2a927d65702da30a9be89a82af6e6cfa06c3686290eee4e0d9b8eda2",
  "in_force": "2020-02-03",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -24,11 +24,12 @@
   "displayAddress": "Dz.U. 2020 poz. 164",
   "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 grudnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o narodowym zasobie archiwalnym i archiwach",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2019-12-13",
   "promulgation": "2020-02-03",
-  "changeDate": "2026-02-04T14:52:29",
+  "expirationDate": "2026-11-17",
+  "changeDate": "2026-11-19T08:46:57",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -54,16 +55,6 @@
   ],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2025/1173",
-     "date": "2025-07-25"
-    },
-    {
-     "id": "DU/2020/1747",
-     "date": "2020-10-07"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
