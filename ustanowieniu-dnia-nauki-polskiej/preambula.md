@@ -1,0 +1,1 @@
+Uznając dokonania polskich naukowców, ich dążenie do poznania prawdy i przekazywanie wiedzy kolejnym pokoleniom oraz dostrzegając fundamentalną rolę nauki w tworzeniu cywilizacji, uchwala się, co następuje:
