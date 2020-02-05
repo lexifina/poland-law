@@ -1,0 +1,110 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/177",
+ "source_sha256": "cfb9a7bcbadcae57a0904725175527dc8e03c4a3b95ef63a99ffcf55f7d546fc",
+ "in_force": "2020-02-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/177",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/177/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/177/text/O/D20200177.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/177/text/I/D20200177.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/177/text/T/D20200177L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/177/text/U/D20200177Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/177",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 177,
+  "address": "WDU20200000177",
+  "displayAddress": "Dz.U. 2020 poz. 177",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 grudnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o infrastrukturze informacji przestrzennej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2019-12-13",
+  "promulgation": "2020-02-05",
+  "expirationDate": "2021-02-01",
+  "changeDate": "2024-03-14T13:07:24",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informatyzacja",
+   "planowanie przestrzenne"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32008R1205",
+    "date": "2008-12-03",
+    "title": "ROZPORZĄDZENIE KOMISJI (WE) NR 1205/2008 z dnia 3 grudnia 2008 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie metadanych (Tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "32007L0002",
+    "date": "2007-03-14",
+    "title": "DYREKTYWA 2007/2/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 14 marca 2007 r. ustanawiająca infrastrukturę informacji przestrzennej we Wspólnocie Europejskiej (INSPIRE)"
+   },
+   {
+    "address": "31996D1692",
+    "date": "1996-07-23",
+    "title": "DECYZJA NR 1692/96 PARLAMENTU EUROPEJSKIEGO I RADY z dnia 23 lipca 1996 r. w sprawie wspólnotowych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej"
+   },
+   {
+    "address": "32016R0679",
+    "date": "2016-04-27",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/489"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200177.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200177.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200177L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200177Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
