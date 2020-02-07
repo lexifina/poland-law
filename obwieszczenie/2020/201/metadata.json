@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/201",
+ "source_sha256": "d5ccb7279606e151de1b3fa16b492ec695e3b1ebe0398bac7e46ca0105c399a8",
+ "in_force": "2020-02-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/201",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/201/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/201/text/O/D20200201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/201/text/I/D20200201.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/201",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 201,
+  "address": "WDU20200000201",
+  "displayAddress": "Dz.U. 2020 poz. 201",
+  "title": "Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 21 stycznia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowego Centrum Badań i Rozwoju",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-01-21",
+  "promulgation": "2020-02-07",
+  "changeDate": "2024-03-14T13:07:40",
+  "releasedBy": [
+   "MIN. NAUKI I SZKOLNICTWA WYŻSZEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Narodowe Centrum Badań i Rozwoju"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1153"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
