@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/168",
+ "source_sha256": "28f9a25872c8aaa4496cd971dd25a14e637f761ac1613089f9056efb775c7fb6",
+ "in_force": "2020-02-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/168",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/168/text/O/M20200168.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/168/text/I/M20200168.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/168",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 168,
+  "address": "WMP20200000168",
+  "displayAddress": "M.P. 2020 poz. 168",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 lutego 2020 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 33 z siedzibą Okręgowej Komisji Wyborczej w Kielcach",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-02-06",
+  "promulgation": "2020-02-10",
+  "changeDate": "2020-02-11T11:23:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200168.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200168.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
