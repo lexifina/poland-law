@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/172",
+ "source_sha256": "162ff7c8853e1f367c98d2fa3ed273d68e1c4f78dd5b5c0f232566d5e7d12805",
+ "in_force": "2020-02-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/172",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/172/text/O/M20200172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/172/text/I/M20200172.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/172",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 172,
+  "address": "WMP20200000172",
+  "displayAddress": "M.P. 2020 poz. 172",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 11 lutego 2020 r. w sprawie realnego wzrostu przeciętnego wynagrodzenia w 2019 r. w stosunku do 2018 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-02-11",
+  "promulgation": "2020-02-11",
+  "changeDate": "2020-02-12T11:08:57",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 94 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200172.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
