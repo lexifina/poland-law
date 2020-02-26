@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/222",
+ "source_sha256": "d68271572ff9f954d65c105408be9d69f7c3328790481c7afad3c3c0a6326b8a",
+ "in_force": "2020-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/222/text/O/M20200222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/222/text/I/M20200222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/222",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 222,
+  "address": "WMP20200000222",
+  "displayAddress": "M.P. 2020 poz. 222",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 28 stycznia 2020 r. nr 110.9.2020 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-01-28",
+  "promulgation": "2020-02-26",
+  "changeDate": "2026-10-02T12:07:45",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Mauretania"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
