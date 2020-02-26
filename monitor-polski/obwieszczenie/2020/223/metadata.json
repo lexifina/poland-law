@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/223",
+ "source_sha256": "5a444b536fbf3a864ad70b7f466a539cc707e82846ba777f8a4ae4ef1e70f498",
+ "in_force": "2020-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/223",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/223/text/O/M20200223.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/223/text/I/M20200223.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/223",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 223,
+  "address": "WMP20200000223",
+  "displayAddress": "M.P. 2020 poz. 223",
+  "title": "Obwieszczenie Ministra Finansów z dnia 18 lutego 2020 r. w sprawie średniej ważonej detalicznej ceny sprzedaży papierosów oraz średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia w roku 2019",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-02-18",
+  "promulgation": "2020-02-26",
+  "changeDate": "2020-02-28T13:50:31",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "sprzedaż",
+   "tytoń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2009/11"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2009/11",
+     "art": "art. 99 ust. 14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200223.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200223.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
