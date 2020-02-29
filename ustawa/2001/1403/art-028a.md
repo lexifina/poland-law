@@ -1,0 +1,7 @@
+# Art. 28a.
+
+1. Na kierownicze stanowisko w urzędzie obsługującym ministra właściwego do spraw zagranicznych, będące wyższym stanowiskiem w służbie cywilnej, może zostać powołany członek personelu dyplomatyczno-konsularnego lub inna osoba spełniająca wymagania określone w art. 12 ust. 1 pkt 2-5, którzy spełniają dodatkowo wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
+
+2. Na stanowisko zastępcy dyrektora biura w urzędzie obsługującym ministra właściwego do spraw zagranicznych może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone w art. 12 ust. 1 pkt 4 i 5, którzy spełniają dodatkowo wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
+
+3. Na stanowiska dyrektorów biur do spraw budżetu i finansów, administracyjnych i majątkowych placówek zagranicznych, a także informatyki w urzędzie obsługującym ministra właściwego do spraw zagranicznych może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone w art. 12 ust. 1 pkt 4 i 5, którzy spełniają dodatkowo wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
