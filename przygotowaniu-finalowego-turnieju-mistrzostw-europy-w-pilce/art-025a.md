@@ -1,0 +1,5 @@
+# Art. 25a.
+
+1. Jeżeli z decyzji o pozwoleniu na budowę przedsięwzięcia Euro 2012 wynika obowiązek dokonania przebudowy istniejących urządzeń infrastruktury technicznej wojewoda, na wniosek spółki celowej lub innego właściwego podmiotu, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzanie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. Przepisy art. 124 ust. 2-7 oraz art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+
+2. Do egzekucji obowiązków wynikających z decyzji, o której mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
