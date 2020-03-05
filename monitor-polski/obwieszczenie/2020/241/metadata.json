@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/241",
+ "source_sha256": "d42b54bf7f87667b00a3bd63c99ad83b55f1c9a5193144a4e2a33d4d20ee4aec",
+ "in_force": "2020-03-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/241",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/241/text/O/M20200241.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/241/text/I/M20200241.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/241",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 241,
+  "address": "WMP20200000241",
+  "displayAddress": "M.P. 2020 poz. 241",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 7 lutego 2020 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Sprawiedliwości lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-02-07",
+  "promulgation": "2020-03-05",
+  "changeDate": "2020-03-06T11:41:03",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania"
+  ],
+  "keywordsNames": [
+   "Min. Sprawiedliwości"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200241.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200241.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
