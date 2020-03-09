@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) w związku z art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.) zarządza się, co następuje:
