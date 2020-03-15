@@ -1,0 +1,1 @@
+Na podstawie art. 50 pkt 3 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. z 2023 r. poz. 2298) zarządza się, co następuje:
