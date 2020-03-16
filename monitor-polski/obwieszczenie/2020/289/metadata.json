@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/289",
+ "source_sha256": "5837d5dd5e13fba031a4814cb1c119d4971baf731adb4f018806e4173f97bf95",
+ "in_force": "2020-03-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/289",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/289/text/O/M20200289.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/289/text/I/M20200289.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/289",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 289,
+  "address": "WMP20200000289",
+  "displayAddress": "M.P. 2020 poz. 289",
+  "title": "Obwieszczenie Ministra Rozwoju z dnia 5 marca 2020 r. w sprawie włączenia kwalifikacji rynkowej \"Obsługa obrabiarek skrawających sterowanych numerycznie (CNC)\" do Zintegrowanego Systemu Kwalifikacji",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-03-05",
+  "promulgation": "2020-03-16",
+  "changeDate": "2020-03-17T13:05:01",
+  "releasedBy": [
+   "MIN. ROZWOJU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kwalifikacje"
+  ],
+  "keywordsNames": [
+   "Zintegrowany System Kwalifikacji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2016/64"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2016/64",
+     "art": "art. 25 ust. 1 i 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200289.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200289.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
