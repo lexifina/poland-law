@@ -1,0 +1,1 @@
+Na podstawie art. 34a ust. 4 pkt 2 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2020 r. poz. 122) zarządza się, co następuje:
