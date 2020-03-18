@@ -1,0 +1,1 @@
+Na podstawie art. 43 ust. 3 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz. 322) zarządza się, co następuje:
