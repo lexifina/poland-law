@@ -1,0 +1,4 @@
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2020 r. zmieniające rozporządzenie w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego
+
+Dz.U. 2020 poz. 486 · <https://eli.gov.pl/api/acts/DU/2020/486>
+
