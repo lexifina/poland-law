@@ -1,0 +1,1 @@
+Na podstawie art. 46 ust. 2 i 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495 oraz z 2020 r. poz. 284, 322 i 374) zarządza się, co następuje:
