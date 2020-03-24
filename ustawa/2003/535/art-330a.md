@@ -7,3 +7,5 @@
 3. Oświadczenie o przejęciu będzie uwzględnione tylko wtedy, gdy wierzyciel jednocześnie z wnioskiem złoży całą cenę. Własność ruchomości przechodzi na wierzyciela z chwilą zawiadomienia go przez syndyka o przyznaniu mu przejętej rzeczy.
 
 4. Jeżeli fundusze masy upadłości wystarczają na zaspokojenie wszystkich wierzycieli z wyższej i równorzędnej kategorii zaspokojenia i zobowiązań, o których mowa w art. 230, nabywca może zaliczyć swoją wierzytelność na cenę nabycia.
+
+5. Przepis art. 317 ust. 3 stosuje się odpowiednio.

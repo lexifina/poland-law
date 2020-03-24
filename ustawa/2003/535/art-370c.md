@@ -1,6 +1,6 @@
 # Art. 370c.
 
-1. W okresie wykonywania planu spłaty wierzycieli niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałych przed ogłoszeniem upadłości, z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w art. 370f ust. 2, oraz wierzytelności, których upadły nie ujawnił, jeżeli wierzyciel nie brał udziału w postępowaniu.
+1. W okresie wykonywania planu spłaty wierzycieli niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności wynikających z zobowiązań upadłego, o których mowa w art. 369 ust. 1, z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w art. 370f ust. 2.
 
 2. W okresie wykonywania planu spłaty wierzycieli upadły nie może dokonywać czynności prawnych, które mogłyby pogorszyć jego zdolność do wykonania planu spłaty wierzycieli.
 
