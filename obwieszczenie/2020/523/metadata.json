@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/523",
+ "source_sha256": "c172f7cc7533f484aa5062a0fef2b664e76e053ad888f36a2d364227fdb34f0a",
+ "in_force": "2020-03-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/523",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/523/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/523/text/O/D20200523.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/523/text/I/D20200523.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/523/text/T/D20200523L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/523/text/U/D20200523Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/523",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 523,
+  "address": "WDU20200000523",
+  "displayAddress": "Dz.U. 2020 poz. 523",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 lutego 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny wykonawczy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-02-28",
+  "promulgation": "2020-03-25",
+  "expirationDate": "2021-01-11",
+  "changeDate": "2024-03-14T13:16:46",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/557"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200523.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200523.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200523L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200523Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
