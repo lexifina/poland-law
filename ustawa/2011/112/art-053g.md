@@ -10,13 +10,13 @@
 
 - 4) instrukcja głosowania korespondencyjnego;
 
-- 5) nakładka lub nakładki na kartę lub karty do głosowania sporządzone w alfabecie Braille’a - jeżeli wyborca zażądał ich przesłania;
+- 5) nakładka lub nakładki na kartę lub karty do głosowania sporządzone w alfabecie Braille’a - jeżeli wyborca niepełnosprawny zażądał ich przesłania;
 
 - 6) oświadczenie o osobistym i tajnym oddaniu głosu na karcie do głosowania.
 
 § 1a. Obwodowa komisja wyborcza ds. przeprowadzenia głosowania w obwodzie opieczętowuje karty do głosowania swoją pieczęcią.
 
-§ 2. Na formularzu oświadczenia, o którym mowa w § 1 pkt 6, umieszcza się imię (imiona), nazwisko oraz numer ewidencyjny PESEL wyborcy niepełnosprawnego.
+§ 2. Na formularzu oświadczenia, o którym mowa w § 1 pkt 6, umieszcza się imię (imiona), nazwisko oraz numer ewidencyjny PESEL wyborcy.
 
 § 3. Na kopercie na pakiet wyborczy oraz na kopercie zwrotnej umieszcza się oznaczenie „przesyłka wyborcza”.
 

@@ -2,5 +2,5 @@
 
 Dz.U. 2011 nr 21 poz. 112 · <https://eli.gov.pl/api/acts/DU/2011/112>
 
-Tekst jednolity: Dz.U. 2019 poz. 684 (2019-04-12), stan na 2019-02-13.
+Tekst jednolity: Dz.U. 2020 poz. 1319 (2020-07-30), stan na 2020-03-31.
 
