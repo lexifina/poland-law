@@ -1,0 +1,1 @@
+Na podstawie art. 40 ust. 1 i 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234) zarządza się, co następuje:
