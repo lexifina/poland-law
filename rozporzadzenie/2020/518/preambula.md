@@ -1,0 +1,1 @@
+Na podstawie art. 289 ust. 11 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2019 r. poz. 795, z późn. zm.) zarządza się, co następuje:
