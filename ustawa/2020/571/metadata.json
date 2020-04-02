@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/571",
+ "source_sha256": "af1f26d61760f7790f330917bebc75dda92c1c37fc12006da8bdd22b50f49d33",
+ "in_force": "2020-04-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/571",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/571/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/571/text/O/D20200571.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/571/text/I/D20200571.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/571/text/T/D20200571L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/571/text/U/D20200571Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/571",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 571,
+  "address": "WDU20200000571",
+  "displayAddress": "Dz.U. 2020 poz. 571",
+  "title": "Ustawa budżetowa na rok 2020 z dnia 14 lutego 2020 r.",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-02-14",
+  "promulgation": "2020-04-01",
+  "entryIntoForce": "2020-04-02",
+  "validFrom": "2020-01-01",
+  "expirationDate": "2020-12-31",
+  "changeDate": "2024-03-14T13:19:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "dochód",
+   "budżetowe prawo",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=112",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/112",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/112",
+    "number": "112",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2020/1919",
+     "date": "2020-11-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200571.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200571.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200571L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200571Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
