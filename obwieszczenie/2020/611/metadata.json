@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/611",
+ "source_sha256": "2b4880075d2ed12e30bbf34e94f4778263eee0ce70fd4245a2899f54b2ff48ce",
+ "in_force": "2020-04-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/611",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/611/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/611/text/O/D20200611.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/611/text/I/D20200611.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/611/text/T/D20200611L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/611/text/U/D20200611Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/611",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 611,
+  "address": "WDU20200000611",
+  "displayAddress": "Dz.U. 2020 poz. 611",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-03-26",
+  "promulgation": "2020-04-07",
+  "expirationDate": "2022-01-25",
+  "changeDate": "2024-03-14T13:18:11",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "ochrona",
+   "lokal",
+   "budownictwo mieszkaniowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/733"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200611.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200611.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200611L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200611Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
