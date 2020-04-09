@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/638",
+ "source_sha256": "f88dfceebd432e8e677c3075426fb519e6020340c0c6244104ffd8b30eb398c9",
+ "in_force": "2020-04-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/638",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/638/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/638/text/O/D20200638.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/638/text/I/D20200638.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/638/text/T/D20200638L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/638/text/U/D20200638Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/638",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 638,
+  "address": "WDU20200000638",
+  "displayAddress": "Dz.U. 2020 poz. 638",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zwierząt",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-03-26",
+  "promulgation": "2020-04-09",
+  "expirationDate": "2022-03-09",
+  "changeDate": "2024-03-14T13:08:29",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zwierzęta",
+   "ochrona zwierząt"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/724"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200638.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200638.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200638L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200638Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
