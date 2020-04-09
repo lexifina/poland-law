@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/341",
+ "source_sha256": "2b6fc80216e2662b8f546a171cf3a0eb6501c7e24927a6c88a99d9f2106ec302",
+ "in_force": "2020-04-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/341",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/341/text/O/M20200341.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/341/text/I/M20200341.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/341",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 341,
+  "address": "WMP20200000341",
+  "displayAddress": "M.P. 2020 poz. 341",
+  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2020 r. o zmianie wykazu wymogów określonych w przepisach Unii Europejskiej z uwzględnieniem przepisów krajowych wdrażających te przepisy",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-03-19",
+  "promulgation": "2020-04-09",
+  "changeDate": "2020-04-10T11:42:27",
+  "releasedBy": [
+   "MIN. ROLNICTWA I ROZWOJU WSI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolne prawo",
+   "rolnictwo"
+  ],
+  "keywordsNames": [
+   "Unia Europejska"
+  ],
+  "directives": [
+   {
+    "address": "31991L0676",
+    "date": "1991-12-12",
+    "title": "Dyrektywa Rady 91/676/EWG z dnia 12 grudnia 1991 r. dotycząca ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "MP/2015/329",
+     "date": "2020-04-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2015/308"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2015/308",
+     "art": "art. 45 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200341.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200341.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
