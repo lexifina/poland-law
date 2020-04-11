@@ -1,0 +1,1 @@
+Na podstawie art. 12 ust. 1 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2019 r. poz. 548 oraz z 2020 r. poz. 568) zarządza się, co następuje:
