@@ -1,0 +1,1 @@
+Na podstawie art. 33 ust. 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2019 r. poz. 1482, 1622, 1818 i 2473 oraz z 2020 r. poz. 278) zarządza się, co następuje:
