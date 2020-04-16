@@ -1,0 +1,1 @@
+Na podstawie art. 57 ust. 7 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2018 r. poz. 1967 oraz z 2020 r. poz. 148 i 285) zarządza się, co następuje:
