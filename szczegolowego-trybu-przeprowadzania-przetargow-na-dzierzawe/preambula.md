@@ -1,0 +1,1 @@
+Na podstawie art. 39a ust. 1 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) zarządza się, co następuje:
