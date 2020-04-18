@@ -1,5 +1,7 @@
 # Art. 297c.
 
+§ 2. Udostępnienie, o którym mowa w § 1, może następować za pośrednictwem systemu teleinformatycznego.
+
 Dane, informacje i dokumenty, o których mowa w dziale IIIB, w tym zawierające dane stanowiące tajemnicę bankową lub tajemnicę zawodową, Szef Krajowej Administracji Skarbowej udostępnia wyłącznie:
 
 - 1) organom Krajowej Administracji Skarbowej - w celu realizacji ich ustawowych zadań;
