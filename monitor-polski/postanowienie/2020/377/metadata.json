@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/377",
+ "source_sha256": "4e85463a3d4ae05075c3d934388f85a22f62d37f5efd0523529f243f7be45d21",
+ "in_force": "2020-04-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/377",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/377/text/O/M20200377.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/377/text/I/M20200377.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/377",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 377,
+  "address": "WMP20200000377",
+  "displayAddress": "M.P. 2020 poz. 377",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 28 lutego 2020 r. nr 115.2.2020 w sprawie nadania tytułu profesora",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-02-28",
+  "promulgation": "2020-04-22",
+  "changeDate": "2021-04-29T00:00:00",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2021/413",
+     "date": "2021-02-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/1668"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/1668",
+     "art": "art. 178 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200377.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200377.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
