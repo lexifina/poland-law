@@ -1,0 +1,1 @@
+Na podstawie art. 6 ustawy z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. poz. 1320, z 2002 r. poz. 1571 oraz z 2020 r. poz. 374 i 568) zarządza się, co następuje:
