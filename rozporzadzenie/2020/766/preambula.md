@@ -1,0 +1,1 @@
+Na podstawie art. 35 ust. 11 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2019 r. poz. 1405 oraz z 2020 r. poz. 567) zarządza się, co następuje:
