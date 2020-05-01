@@ -1,0 +1,1 @@
+Na podstawie art. 35 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362, z 2019 r. poz. 730 i 1063 oraz z 2020 r. poz. 284) zarządza się, co następuje:
