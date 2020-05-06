@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/808",
+ "source_sha256": "fac7e35259dea9abaeb0bb60844f28f069f93db0ea7347cbf6bbc656c94e1b7c",
+ "in_force": "2020-05-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/808",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/808/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/808/text/O/D20200808.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/808/text/I/D20200808.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/808/text/T/D20200808L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/808/text/U/D20200808Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/808",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 808,
+  "address": "WDU20200000808",
+  "displayAddress": "Dz.U. 2020 poz. 808",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy osobom uprawnionym do alimentów",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-03-26",
+  "promulgation": "2020-05-06",
+  "expirationDate": "2021-05-10",
+  "changeDate": "2024-03-14T13:11:57",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "alimenty",
+   "fundusz alimentacyjny",
+   "kodeks rodzinny i opiekuńczy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2007/1378"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200808.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200808.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200808L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200808Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
