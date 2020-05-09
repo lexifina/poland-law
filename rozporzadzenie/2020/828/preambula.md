@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 5 ustawy z dnia 6 kwietnia 2020 r. o szczególnych zasadach przeprowadzania wyborów powszechnych na Prezydenta Rzeczypospolitej Polskiej zarządzonych w 2020 r. (Dz. U. poz. 827) zarządza się, co następuje:
