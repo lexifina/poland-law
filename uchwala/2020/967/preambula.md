@@ -1,0 +1,1 @@
+Na podstawie art. 293 § 1 w związku z § 3 oraz w związku z art. 160 § 1 pkt 1 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504 oraz z 2020 r. poz. 568) Państwowa Komisja Wyborcza uchwala, co następuje:
