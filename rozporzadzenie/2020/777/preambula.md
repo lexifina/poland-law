@@ -1,0 +1,1 @@
+Na podstawie art. 19 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508) zarządza się, co następuje:
