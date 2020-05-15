@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/865",
+ "source_sha256": "76bff2cca06229581e879c508a313215f040c4931e895c517a31f1e3cc8742c4",
+ "in_force": "2020-05-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/865",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/865/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/865/text/O/D20200865.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/865/text/I/D20200865.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/865/text/T/D20200865L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/865",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 865,
+  "address": "WDU20200000865",
+  "displayAddress": "Dz.U. 2020 poz. 865",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-05-07",
+  "promulgation": "2020-05-15",
+  "changeDate": "2024-03-14T13:08:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2018/1546"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200865.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200865.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200865L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
