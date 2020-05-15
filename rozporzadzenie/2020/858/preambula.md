@@ -1,0 +1,1 @@
+Na podstawie art. 32a ust. 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2020 r. poz. 95 i 695) zarządza się, co następuje:
