@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/902",
+ "source_sha256": "826debfa3b51546b6efdc3804212f366f74842c3beea2252d22f6c2a569b0820",
+ "in_force": "2020-05-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/902",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/902/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/902/text/O/D20200902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/902/text/I/D20200902.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/902/text/T/D20200902L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/902/text/U/D20200902Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/902",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 902,
+  "address": "WDU20200000902",
+  "displayAddress": "Dz.U. 2020 poz. 902",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o muzeach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-05-04",
+  "promulgation": "2020-05-21",
+  "expirationDate": "2022-02-15",
+  "changeDate": "2024-03-14T13:21:04",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "działalność kulturalna",
+   "kultura i sztuka",
+   "muzea"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/24"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20200902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20200902.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20200902L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20200902Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
