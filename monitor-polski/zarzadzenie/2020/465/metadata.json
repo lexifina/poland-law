@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/465",
+ "source_sha256": "b7736c65c000d0bd13a0c5bc52c43ea013599be3c0dcb628f51935e8c931ad58",
+ "in_force": "2020-05-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/465",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/465/text/O/M20200465.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/465/text/I/M20200465.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/465",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 465,
+  "address": "WMP20200000465",
+  "displayAddress": "M.P. 2020 poz. 465",
+  "title": "Zarządzenie nr 76 Prezesa Rady Ministrów z dnia 25 maja 2020 r. w sprawie nadania statutu Ministerstwu Zdrowia",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-05-25",
+  "promulgation": "2020-05-27",
+  "entryIntoForce": "2020-05-28",
+  "repealDate": "2020-10-13",
+  "changeDate": "2020-10-13T09:41:32",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Zdrowia"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2020/924",
+     "date": "2020-10-13"
+    }
+   ],
+   "Akty uchylone": [
+    {
+     "id": "MP/2019/657",
+     "date": "2020-05-28"
+    },
+    {
+     "id": "MP/2019/129",
+     "date": "2020-05-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 39 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200465.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200465.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
