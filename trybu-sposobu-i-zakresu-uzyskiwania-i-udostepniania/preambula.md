@@ -1,0 +1,1 @@
+Na podstawie art. 14 ust. 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2024 r. poz. 560 i 1228) zarządza się, co następuje:
