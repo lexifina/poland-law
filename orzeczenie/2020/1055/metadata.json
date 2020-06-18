@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1055",
+ "source_sha256": "b633622274a66919da303c33fd76638201de55ea511f5dfa9b6dec6366f84b17",
+ "in_force": "2020-06-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 234 words, parsed 138; at 138: '2 Konstytucji , orzeka : I Art . 4 ustawy'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1055",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1055/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1055/text/O/D20201055.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1055/text/I/D20201055.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1055",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1055,
+  "address": "WDU20200001055",
+  "displayAddress": "Dz.U. 2020 poz. 1055",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2020 r. sygn. akt K 3/19",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-06-10",
+  "promulgation": "2020-06-18",
+  "entryIntoForce": "2020-06-18",
+  "changeDate": "2024-03-14T13:16:50",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielcze prawo"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/1596",
+     "date": "2021-06-18"
+    }
+   ],
+   "Odesłania": [
+    {
+     "id": "DU/2016/2072"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/2017/1596"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201055.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201055.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
