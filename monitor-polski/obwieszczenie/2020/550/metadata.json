@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/550",
+ "source_sha256": "23954ae0b7f738aae5c4588c00938a4d7cd8bfccde9e202d1c4e84b0375f44aa",
+ "in_force": "2020-06-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/550",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/550/text/O/M20200550.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/550/text/I/M20200550.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/550",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 550,
+  "address": "WMP20200000550",
+  "displayAddress": "M.P. 2020 poz. 550",
+  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 17 czerwca 2020 r. w sprawie wskaźnika waloryzacji składek na ubezpieczenie emerytalne za I kwartał 2020 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-06-17",
+  "promulgation": "2020-06-23",
+  "changeDate": "2020-06-24T12:37:04",
+  "releasedBy": [
+   "MIN. RODZINY, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "waloryzacja",
+   "wskaźnik",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1118"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1118",
+     "art": "art. 25 ust. 12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200550.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200550.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
