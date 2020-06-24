@@ -1,0 +1,3 @@
+# Art. 91a.
+
+Wydaniu wyroku łącznego nie stoi na przeszkodzie, że poszczególne kary wymierzone za należące do ciągu przestępstw lub zbiegające się przestępstwa zostały już w całości albo w części wykonane. Przepis art. 71 § 2 stosuje się odpowiednio.
