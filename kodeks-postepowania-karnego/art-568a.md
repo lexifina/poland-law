@@ -10,4 +10,4 @@
 
 - 2) w wyroku łącznym - w pozostałych wypadkach.
 
-§ 2. Do kary łącznej orzeczonej w wyroku skazującym stosuje się odpowiednio art. 575-577. Jeżeli zachodzą warunki do orzeczenia nowej kary łącznej wyłącznie w odniesieniu do kar wymierzonych w tym samym wyroku skazującym, właściwy do wydania wyroku łącznego jest sąd, który wydał ten wyrok skazujący.
+§ 2. Do kary łącznej orzeczonej w wyroku skazującym stosuje się odpowiednio art. 575 § 1 i 2, art. 576 i art. 577. Jeżeli zachodzą warunki do orzeczenia nowej kary łącznej wyłącznie w odniesieniu do kar wymierzonych w tym samym wyroku skazującym, właściwy do wydania wyroku łącznego jest sąd, który wydał ten wyrok skazujący.
