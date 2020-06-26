@@ -1,0 +1,1 @@
+Na podstawie art. 89 ust. 6 ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695, 875, 979 i 1086) zarządza się, co następuje:
