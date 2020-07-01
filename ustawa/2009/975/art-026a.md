@@ -1,0 +1,3 @@
+# Art. 26a.
+
+Jeżeli naruszenie, o którym mowa w art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 40a ust. 1 pkt 3 lub 4 lub ust. 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2019 r. poz. 2178 oraz z 2020 r. poz. 285) lub art. 58b ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2019 r. poz. 915 oraz z 2020 r. poz. 285), karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.

@@ -1,0 +1,3 @@
+# Art. 26b.
+
+Jeżeli naruszenie, o którym mowa w art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2, dotyczy świeżych owoców i warzyw, których jakość handlowa jest objęta zakresem regulacji przepisów Unii Europejskiej, i naruszenie to wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2019 r. poz. 935 oraz z 2020 r. poz. 285) lub art. 58b ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu.
