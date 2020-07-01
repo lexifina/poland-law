@@ -12,4 +12,6 @@
 
 - 5) (uchylony)
 
+- 6) do podmiotu, który zawarł porozumienie podatkowe, o którym mowa w art. 20zb pkt 3, w zakresie objętym tym porozumieniem.
+
 § 2. (uchylony)

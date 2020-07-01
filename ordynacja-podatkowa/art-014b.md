@@ -24,7 +24,7 @@
 
 § 4. Wnioskujący o wydanie interpretacji indywidualnej składa oświadczenie pod rygorem odpowiedzialności karnej za fałszywe zeznania, że elementy stanu faktycznego objęte wnioskiem o wydanie interpretacji w dniu złożenia wniosku nie są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej oraz że w tym zakresie sprawa nie została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego. W razie złożenia fałszywego oświadczenia wydana interpretacja indywidualna nie wywołuje skutków prawnych.
 
-§ 5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego.
+§ 5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego albo w porozumieniu podatkowym, o którym mowa w art. 20zb.
 
 § 5a. Jeżeli przedstawione we wniosku stan faktyczny lub zdarzenie przyszłe odpowiadają zagadnieniu będącemu przedmiotem interpretacji ogólnej wydanej w takim samym stanie prawnym, wydaje się postanowienie o stwierdzeniu, że do stanu faktycznego lub zdarzenia przyszłego opisanych we wniosku ma zastosowanie interpretacja ogólna, z jednoczesnym stwierdzeniem bezprzedmiotowości wniosku. W tym przypadku w postanowieniu wskazuje się oznaczenie interpretacji ogólnej wraz z podaniem miejsca jej publikacji. Na wydane postanowienie przysługuje zażalenie.
 
@@ -41,6 +41,8 @@
 § 5d. Powzięcie uzasadnionego przypuszczenia, o którym mowa w § 5b, może wynikać również z łącznej oceny więcej niż jednego wniosku o wydanie interpretacji indywidualnej, nawet jeżeli zostały złożone przez różnych wnioskodawców.
 
 § 5e. Na postanowienia wydane na podstawie § 1a, 5 i 5b przysługuje zażalenie.
+
+§ 5f. Dyrektor Krajowej Informacji Skarbowej wydaje interpretację indywidualną po zasięgnięciu opinii Szefa Krajowej Administracji Skarbowej, jeżeli umowę o współdziałanie, o której mowa w art. 20s, zawarł wnioskodawca, a w przypadku wniosku wspólnego - jeden z wnioskodawców.
 
 § 6. (uchylony)
 

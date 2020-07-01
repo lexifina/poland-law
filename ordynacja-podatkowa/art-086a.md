@@ -142,7 +142,11 @@
 
 § 4. Kryterium kwalifikowanego korzystającego uważa się za spełnione, jeżeli przychody lub koszty korzystającego albo wartość aktywów tego podmiotu w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych, przekroczyły w roku poprzedzającym lub w bieżącym roku obrotowym równowartość 10 000 000 euro lub jeżeli udostępniane lub wdrażane uzgodnienie dotyczy rzeczy lub praw o wartości rynkowej przekraczającej równowartość 2 500 000 euro lub jeżeli korzystający jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych z takim podmiotem. W przypadku podmiotów, które nie prowadzą ksiąg rachunkowych, przychody i koszty ustala się odpowiednio zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawą z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w odpowiednich latach podatkowych, a wartość aktywów - zgodnie z ich wartością rynkową w odpowiednich latach kalendarzowych.
 
-§ 5. Obowiązek przekazania informacji o schemacie podatkowym nie powstaje, gdy schemat podatkowy, inny niż schemat podatkowy transgraniczny, dotyczy korzystającego, dla którego nie jest spełnione kryterium kwalifikowanego korzystającego.
+§ 5. Obowiązek przekazania informacji o schemacie podatkowym nie powstaje, gdy schemat podatkowy, inny niż schemat podatkowy transgraniczny, dotyczy wyłącznie:
+
+- 1) korzystającego, dla którego nie jest spełnione kryterium kwalifikowanego korzystającego, lub
+
+- 2) korzystającego, który jest stroną umowy o współdziałanie, jeżeli w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej potwierdził wykonywanie przez niego obowiązków, o których mowa w niniejszym rozdziale.
 
 § 6. W przypadku gdy korzystającym jest spółka wchodząca w skład podatkowej grupy kapitałowej w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, przepisy niniejszego rozdziału stosuje się odpowiednio.
 

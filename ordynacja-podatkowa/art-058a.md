@@ -23,3 +23,5 @@
 § 3. W przypadkach, o których mowa w § 1 pkt 1-3, organ podatkowy może odstąpić od ustalenia dodatkowego zobowiązania podatkowego, jeżeli na podstawie istniejących okoliczności oraz faktów należy przyjąć, że w momencie dokonywania czynności, których dotyczy decyzja, podatnik pozostawał w błędnym, ale usprawiedliwionym przekonaniu o zgodności uzyskanej przez niego w danych okolicznościach korzyści podatkowej z przedmiotem i celem ustawy podatkowej lub jej przepisu (dobra wiara).
 
 § 4. Na ocenę, że podatnik działał w dobrej wierze, może wskazywać w szczególności nieprowadzenie przez niego działalności gospodarczej lub prowadzenie jej w niewielkiej skali, wskutek czego nie można było rozsądnie oczekiwać, że w odniesieniu do czynności, których dotyczy decyzja, o której mowa w § 1, będzie on korzystał z profesjonalnych porad dotyczących ich skutków podatkowych.
+
+§ 5. Na ocenę, że podatnik działał w dobrej wierze, może wskazywać również wywiązywanie się z obowiązków wynikających z umowy o współdziałanie, jeżeli zdarzenie lub czynność skutkujące zastosowaniem przepisów, o których mowa w § 1 pkt 1-3, wystąpiły w okresie trwania tej umowy.
