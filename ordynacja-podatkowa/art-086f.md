@@ -22,11 +22,13 @@
 
 - 10) wskazanie etapu, na jakim zgodnie z wiedzą przekazującego informację znajduje się schemat podatkowy, w szczególności informacji o terminach jego udostępniania lub wdrażania lub o dacie czynności w ramach uzgodnienia;
 
-- 11) wskazanie znanych przekazującemu informację danych identyfikujących, o których mowa w pkt 1, dla podmiotów uczestniczących, mających uczestniczyć w schemacie podatkowym lub na które może mieć wpływ schemat podatkowy, oraz państw i terytoriów, w których podmioty te posiadają miejsce zamieszkania, siedzibę, zarząd lub których schemat ten może dotyczyć;
+- 11) wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację podmiotów uczestniczących, mających uczestniczyć w schemacie podatkowym lub na które może mieć wpływ schemat podatkowy, oraz państw i terytoriów, w których podmioty te posiadają miejsce zamieszkania, siedzibę lub zarząd, lub których schemat ten może dotyczyć;
 
-- 12) wskazanie innych znanych podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, jeżeli występują;
+- 12) wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację innych podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, jeżeli występują;
 
-- 13) adres elektroniczny, na który ma zostać doręczone potwierdzenie nadania NSP, o którym mowa w art. 86g § 2, przy czym wskazanie adresu traktuje się na równi z wyrażeniem zgody na doręczanie potwierdzenia nadania NSP wyłącznie za pomocą środków komunikacji elektronicznej.
+- 13) adres elektroniczny, na który będą doręczane potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g-86i, przy czym wskazanie tego adresu traktuje się na równi z wyrażeniem zgody na ich doręczanie wyłącznie za pomocą środków komunikacji elektronicznej;
+
+- 14) wskazanie NSP nadanego przez inne państwo członkowskie Unii Europejskiej w odniesieniu do schematu podatkowego transgranicznego - w przypadku gdy NSP został nadany temu schematowi przez inne państwo członkowskie Unii Europejskiej.
 
 § 2. Jeżeli promotor lub wspomagający jest obowiązany do zachowania prawnie chronionej tajemnicy zawodowej i nie został zwolniony przez korzystającego z obowiązku jej zachowania, przekazywana przez niego informacja o schemacie podatkowym, który jest schematem podatkowym standaryzowanym, nie zawiera danych identyfikujących korzystającego, któremu udostępniony został schemat podatkowy, oraz informacji, o których mowa w § 1 pkt 11 i 12.
 

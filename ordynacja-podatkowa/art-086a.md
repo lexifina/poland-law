@@ -26,7 +26,7 @@
 
   - b) niepowstanie obowiązku lub odsunięcie w czasie powstania obowiązku sporządzania i przekazywania informacji podatkowych, w tym informacji o schematach podatkowych;
 
-- 5) NSP - rozumie się przez to numer schematu podatkowego;
+- 5) NSP - rozumie się przez to numer schematu podatkowego; 5a) NZSPT - rozumie się przez to numer zgłoszenia schematu podatkowego transgranicznego nadawany przez Szefa Krajowej Administracji Skarbowej w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych;
 
 - 6) ogólnej cesze rozpoznawczej - rozumie się przez to właściwość uzgodnienia polegającą na tym, że spełniony jest co najmniej jeden z poniższych warunków:
 
@@ -175,3 +175,11 @@
 - 5) wykorzystywane są podmioty, porozumienia umowne lub struktury, które prowadzą lub których celem jest doprowadzenie do braku raportowania o przynajmniej jednym posiadaczu rachunku lub przynajmniej jednej osobie kontrolującej w ramach automatycznej wymiany informacji o rachunkach finansowych;
 
 - 6) wykorzystywana jest nieskuteczność lub niedoskonałość procedur należytej staranności stosowanych przez instytucje finansowe w celu wywiązania się z obowiązków raportowania informacji o rachunkach finansowych, włączając wykorzystanie państw z nieadekwatnymi lub nieefektywnymi systemami egzekwowania przepisów dotyczących przeciwdziałania praniu pieniędzy lub posiadających nieefektywne przepisy dotyczące przejrzystości w odniesieniu do osób prawnych, jednostek organizacyjnych niemających osobowości prawnej lub porozumień prawnych.
+
+§ 10. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
+- 1) listę krajów i terytoriów wskazanych w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, które nie zostały ujęte w wykazie krajów i terytoriów stosujących szkodliwą konkurencję podatkową wydawanym na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych,
+
+- 2) dzień przyjęcia wykazu, o którym mowa w pkt 1, przez Radę Unii Europejskiej
+
+- w terminie 7 dni od dnia przyjęcia tego wykazu.

@@ -4,6 +4,8 @@
 
 § 2. Promotor informuje pisemnie korzystającego o NSP tego schematu podatkowego, załączając potwierdzenie nadania NSP, niezwłocznie po jego otrzymaniu.
 
+§ 2a. W przypadku, o którym mowa w art. 86g § 2c, promotor przekazuje korzystającemu NSP wraz z załącznikiem zawierającym wyłącznie dane identyfikujące tego korzystającego.
+
 § 3. W przypadku gdy w terminie, o którym mowa w § 1, schemat podatkowy nie posiada jeszcze NSP, promotor informuje o tym pisemnie korzystającego oraz przekazuje mu dane, o których mowa w art. 86f, dotyczące schematu podatkowego.
 
 § 4. W przypadku gdy przekazanie przez promotora informacji o schemacie podatkowym innym niż schemat podatkowy standaryzowany naruszałoby obowiązek zachowania prawnie chronionej tajemnicy zawodowej i promotor nie został zwolniony przez korzystającego z obowiązku jej zachowania w tym zakresie, promotor niezwłocznie:

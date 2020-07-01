@@ -10,9 +10,17 @@
 
 § 3. Jeżeli korzystający posiada dane, o których mowa w art. 86f, dotyczące schematu podatkowego, które odbiegają od danych zawartych w otrzymanym przez niego potwierdzeniu nadania NSP lub informacji, o której mowa w art. 86f § 4, w informacji, o której mowa w § 1, korzystający modyfikuje te dane dla zapewnienia ich zgodności ze stanem rzeczywistym.
 
-§ 4. Przekazywana informacja, o której mowa w § 1, w tym zawierająca dane wskazane w § 2 lub 3, podpisywana jest przez podatnika będącego osobą fizyczną. W przypadku podatników będących osobami prawnymi informacja, o której mowa w § 1, podpisywana jest przez wszystkich członków organu zarządzającego podatnika. Dowód złożenia podpisów przez te osoby przekazywany jest za pomocą środków komunikacji elektronicznej do Szefa Krajowej Administracji Skarbowej przez jedną z osób, które podpisały te dokumenty.
+§ 4. Przekazywana informacja, o której mowa w § 1, w tym zawierająca dane wskazane w § 2 lub 3, jest podpisywana przez:
 
-§ 5. W przypadku podatników będących jednostkami organizacyjnymi niemającymi osobowości prawnej informacja, o której mowa w § 1, zawiera oświadczenie, zgodnie z którym wszyscy uprawnieni do reprezentacji, a w przypadku spółek niebędących osobami prawnymi - także wspólnicy posiadający co najmniej 10% udziału w zyskach spółki niebędącej osobą prawną, poświadczą prawdziwość danych zawartych w tej informacji. W zakresie przekazania tych dokumentów do Szefa Krajowej Administracji Skarbowej przepis § 4 zdania drugie i trzecie stosuje się odpowiednio.
+- 1) osobę fizyczną - w przypadku podatnika będącego osobą fizyczną,
+
+- 2) osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale - w przypadku podatnika będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
+
+- 3) osobę uprawnioną do reprezentacji - w przypadku pozostałych podatników
+
+- przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika.
+
+§ 5. (uchylony)
 
 § 6. W przypadku korzystającego wchodzącego w skład podatkowej grupy kapitałowej w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych informację, o której mowa w § 1, korzystający przekazuje w terminie złożenia deklaracji podatkowej dotyczącej danego okresu rozliczeniowego podatkowej grupy kapitałowej.
 
