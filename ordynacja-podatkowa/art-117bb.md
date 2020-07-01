@@ -1,1 +1,3 @@
-Przepisów art. 117ba nie stosuje się do transakcji, w odniesieniu do których podatnik dokonał zapłaty z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w art. 108a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+# Art. 117bb.
+
+(uchylony)

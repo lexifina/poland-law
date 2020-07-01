@@ -1,13 +1,15 @@
 # Art. 61b.
 
-§ 1. Wpłata podatku dochodowego od osób fizycznych, podatku dochodowego od osób prawnych, podatku od towarów i usług oraz niepodatkowych należności budżetowych jest dokonywana na rachunek urzędu skarbowego przy użyciu indywidualnego rachunku podatkowego identyfikującego podatnika lub płatnika (indywidualny rachunek podatkowy).
+§ 1. Wpłata podatków, opłat oraz niepodatkowych należności budżetowych dokonywana na rachunek urzędu skarbowego jest realizowana przy użyciu rachunku bankowego urzędu skarbowego albo identyfikującego podatnika, płatnika lub urząd skarbowy indywidualnego rachunku podatkowego (mikrorachunek podatkowy).
 
-§ 2. Struktura numeru indywidualnego rachunku podatkowego jest zgodna z formatem Numeru Rachunku Bankowego i zawiera:
+§ 2. Struktura mikrorachunku podatkowego jest zgodna z formatem Numeru Rachunku Bankowego i zawiera:
 
-- 1) sumę kontrolną;
+- 1) liczbę kontrolną;
 
 - 2) numer rozliczeniowy jednostki organizacyjnej banku;
 
-- 3) identyfikator podatkowy.
+- 3) numer porządkowy rachunku bankowego, w skład którego wchodzi identyfikator podatkowy podatnika lub płatnika albo kod urzędu skarbowego.
 
-§ 3. Numer indywidualnego rachunku podatkowego jest udostępniany, po podaniu identyfikatora podatkowego, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych lub w urzędzie skarbowym.
+§ 3. Numer mikrorachunku podatkowego jest udostępniany, po podaniu identyfikatora podatkowego podatnika lub płatnika, za pośrednictwem portalu podatkowego lub w urzędzie skarbowym.
+
+§ 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje podatków, opłat lub niepodatkowych należności budżetowych, których wpłata jest realizowana przy użyciu mikrorachunku podatkowego, mając na względzie uwarunkowania techniczne i organizacyjne umożliwiające przekazywanie należności przy użyciu tego mikrorachunku.
