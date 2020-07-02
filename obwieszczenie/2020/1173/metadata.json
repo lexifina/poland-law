@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1173",
+ "source_sha256": "75d95291f49a7c67db41f7aa22c8f7fff8ed60a39f6e36ee9237f7e74d4afc83",
+ "in_force": "2020-07-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1173",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1173/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1173/text/O/D20201173.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1173/text/I/D20201173.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/1173/text/T/D20201173L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/1173/text/U/D20201173Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1173",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1173,
+  "address": "WDU20200001173",
+  "displayAddress": "Dz.U. 2020 poz. 1173",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 czerwca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach zaufania oraz identyfikacji elektronicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-06-02",
+  "promulgation": "2020-07-02",
+  "changeDate": "2024-03-14T13:17:54",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "informatyzacja",
+   "podpis elektroniczny",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32014R0910",
+    "date": "2014-07-23",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylające dyrektywę 1999/93/WE"
+   },
+   {
+    "address": "31999L0093",
+    "date": "1999-12-13",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady 1999/93/WE z dnia 13 grudnia 1999 w sprawie wspólnotowych ram w zakresie podpisów elektronicznych"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/1579"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201173.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201173.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20201173L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20201173Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
