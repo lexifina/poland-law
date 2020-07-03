@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/604",
+ "source_sha256": "58ec3ab87b15fb716d92acfd507b1a13eeedd929f7d4b46a2f21ead8d31422fc",
+ "in_force": "2020-07-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/604",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/604/text/O/M20200604.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/604/text/I/M20200604.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/604",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 604,
+  "address": "WMP20200000604",
+  "displayAddress": "M.P. 2020 poz. 604",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 10 czerwca 2020 r. w sprawie informacji finansowych partii politycznych o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach w 2019 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-06-10",
+  "promulgation": "2020-07-03",
+  "changeDate": "2020-07-06T11:33:40",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "subwencje",
+   "partie polityczne",
+   "sprawozdanie roczne",
+   "sprawozdanie finansowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/604"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/604",
+     "art": "art. 34 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200604.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200604.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
