@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/616",
+ "source_sha256": "09c01b81272f094976dc1d2b46e4ae62ba63da67a64ba30708280593b30f9f55",
+ "in_force": "2020-07-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/616",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/616/text/O/M20200616.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/616/text/I/M20200616.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/616",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 616,
+  "address": "WMP20200000616",
+  "displayAddress": "M.P. 2020 poz. 616",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 6 lipca 2020 r. w sprawie wskaźników zmian cen dla lokali mieszkalnych w pierwszym kwartale 2020 r. z podziałem na województwa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-06",
+  "promulgation": "2020-07-08",
+  "changeDate": "2025-07-08T11:15:54",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "lokal",
+   "wskaźnik",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/741"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/741",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200616.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200616.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
