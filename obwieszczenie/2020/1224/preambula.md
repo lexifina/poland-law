@@ -1,0 +1,1 @@
+Na podstawie art. 17 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) w rozporządzeniu Rady Ministrów z dnia 5 czerwca 2020 r. w sprawie legalnych jednostek miar (Dz. U. poz. 1024) w § 2 w pkt 2 zamiast wyrazów „wyrażonej w jednostce mˢ-¹” powinny być wyrazy „wyrażonej w jednostce m s-¹”.
