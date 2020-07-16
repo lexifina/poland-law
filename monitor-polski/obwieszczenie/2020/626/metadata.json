@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/626",
+ "source_sha256": "8b65795536923f69d1b575f757be30e85062af58335643cda9d4788873a8df15",
+ "in_force": "2020-07-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/626",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/626/text/O/M20200626.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/626/text/I/M20200626.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/626",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 626,
+  "address": "WMP20200000626",
+  "displayAddress": "M.P. 2020 poz. 626",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 14 lipca 2020 r. w sprawie wysokości odsetek ustawowych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-14",
+  "promulgation": "2020-07-16",
+  "changeDate": "2020-07-17T15:25:02",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki ustawowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/93",
+     "art": "art. 359 par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200626.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200626.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
