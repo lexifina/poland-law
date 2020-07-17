@@ -1,0 +1,1 @@
+Na podstawie art. 6 ust. 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2019 r. poz. 2169 oraz z 2020 r. poz. 284) zarządza się, co następuje:
