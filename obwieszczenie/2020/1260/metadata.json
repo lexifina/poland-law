@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1260",
+ "source_sha256": "7800f7daaa63922caa69b444f4b3a52053548061d153023a2b35e0aab7d73748",
+ "in_force": "2020-07-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 2589 words, parsed 91; at 91: 'prostuje się następujące błędy : 1 ) w art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1260",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1260/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1260/text/O/D20201260.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1260/text/I/D20201260.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1260",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1260,
+  "address": "WDU20200001260",
+  "displayAddress": "Dz.U. 2020 poz. 1260",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 16 lipca 2020 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-16",
+  "promulgation": "2020-07-17",
+  "changeDate": "2024-03-14T13:21:02",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Kazachstan"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 18b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1995/586"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201260.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201260.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
