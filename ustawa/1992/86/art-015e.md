@@ -24,7 +24,7 @@
 
 8. W przypadku podatników, o których mowa w art. 3 ust. 2, prowadzących działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład przy obliczaniu kwoty, o której mowa w ust. 1, uwzględnia się odpisy amortyzacyjne oraz przychody i koszty, w tym koszty finansowania dłużnego, przypisane do tego zagranicznego zakładu.
 
-9. Kwota kosztów, o których mowa w ust. 1, nieodliczona w danym roku podatkowym podlega odliczeniu w kolejnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-8 i 10-16 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
+9. Kwota kosztów, o których mowa w ust. 1, nieodliczona w danym roku podatkowym podlega odliczeniu w kolejnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-8 i 10-15 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
 
 10. Za koszty poniesione pośrednio na rzecz podmiotów, o których mowa w ust. 1, uważa się koszty poniesione na rzecz podmiotu niepowiązanego w rozumieniu art. 11a ust. 1 pkt 3 z podatnikiem, jeżeli rzeczywistym właścicielem należności z tytułów, o których mowa w ust. 1, lub jej części jest podmiot powiązany w rozumieniu art. 11a ust. 1 pkt 4 z podatnikiem lub podmiot mający miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2.
 
@@ -44,6 +44,10 @@
 
 14. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów poniesionych przez spółkę tworzącą podatkową grupę kapitałową na rzecz innych spółek z tej podatkowej grupy kapitałowej.
 
-15. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów usług, opłat i należności, o których mowa w ust. 1, w zakresie, w jakim decyzja w sprawie porozumienia, o której mowa w art. 20a Ordynacji podatkowej, obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłaty i należności w okresie, którego ta decyzja dotyczy.
+15. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów usług, opłat i należności, o których mowa w ust. 1, w zakresie, w jakim:
 
-16. Przepis ust. 15 stosuje się również do roku podatkowego, w którym wydano decyzję, o której mowa w tym przepisie, oraz do roku podatkowego poprzedzającego ten rok podatkowy.
+- 1) uprzednie porozumienie cenowe, o którym mowa w art. 11a ust. 1 pkt 7, obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłaty i należności w okresie, którego to porozumienie dotyczy, lub
+
+- 2) porozumienie podatkowe, o którym mowa w art. 20zb pkt 2 Ordynacji podatkowej, obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłaty i należności w okresie, którego to porozumienie dotyczy.
+
+16. (uchylony)

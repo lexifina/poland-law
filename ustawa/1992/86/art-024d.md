@@ -16,7 +16,7 @@
 
 - 6) prawo z rejestracji produktu leczniczego i produktu leczniczego weterynaryjnego dopuszczonych do obrotu,
 
-- 7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432),
+- 7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432 oraz z 2020 r. poz. 288),
 
 - 8) autorskie prawo do programu komputerowego
 

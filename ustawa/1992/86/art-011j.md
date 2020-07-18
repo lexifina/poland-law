@@ -4,9 +4,9 @@
 
 - 1) oceny zgodności warunków ustalonych przez podmioty powiązane z warunkami, jakie ustaliłyby między sobą podmioty niepowiązane, w tym kryteria porównywalności tych warunków,
 
-- 2) określania wysokości dochodu (straty) podatnika w drodze oszacowania z zastosowaniem metod, o których mowa w art. 11d ust. 1-3, w tym określania wynagrodzenia z tytułu przeniesienia pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub kategorii ryzyka,
+- 2) określania wysokości dochodu (straty) podatnika w drodze oszacowania z zastosowaniem metod, o których mowa w art. 11d ust. 1-3, w tym określania wynagrodzenia z tytułu przeniesienia pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub kategorii ryzyka
 
-- 3) eliminowania podwójnego opodatkowania w przypadku korekty zysków podmiotów powiązanych
+- 3) (uchylony)
 
 - mając na uwadze zapewnienie prawidłowości weryfikacji cen transferowych dokonywanej przez podatników i organy podatkowe oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
 

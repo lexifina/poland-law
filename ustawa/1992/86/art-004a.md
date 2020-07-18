@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
 
@@ -14,23 +14,23 @@ Ilekroć w ustawie jest mowa o:
 
   - a) z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
 
-  - b) z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 2011),
+  - b) z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 2011, z 2019 r. poz. 2020 oraz z 2020 r. poz. 284),
 
   - c) z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
 
-  - d) z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2018 r. poz. 1311 oraz z 2019 r. poz. 492),
+  - d) z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2020 r. poz. 292, 400 i 462),
 
   - e) z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.),
 
   - f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
 
-- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243 i 326);
+- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2020 r. poz. 814);
 
 - 6) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
-- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.);
+- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, 568, 1065 i 1106);
 
-- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2017 r. poz. 1834 oraz z 2018 r. poz. 1693);
+- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711);
 
 - 9) (uchylony)
 
@@ -44,7 +44,7 @@ Ilekroć w ustawie jest mowa o:
 
   - d) pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;
 
-- 10) małym podatniku - oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 1 200 000 euro; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
+- 10) małym podatniku - oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 2 000 000 euro; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
 
 - 11) zagranicznym zakładzie - oznacza to:
 
@@ -62,7 +62,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) spółce niebędącej osobą prawną - oznacza to spółkę inną niż określona w pkt 21;
 
-- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244);
+- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2020 r. poz. 89, 284, 288 i 568);
 
 - 16) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
 
@@ -90,11 +90,11 @@ Ilekroć w ustawie jest mowa o:
 
 - 22a) walucie wirtualnej - oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
-- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075, 1499 i 2215 oraz z 2019 r. poz. 125);
+- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2020 r. poz. 971, 875 i 1086);
 
 - 23) komercjalizowanej własności intelektualnej - oznacza to:
 
-  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2017 r. poz. 776, z 2018 r. poz. 2302 oraz z 2019 r. poz. 501),
+  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2020 r. poz. 286, 288 i 1086),
 
   - b) autorskie prawa majątkowe do programu komputerowego,
 
@@ -104,15 +104,15 @@ Ilekroć w ustawie jest mowa o:
 
 - 24) podmiocie komercjalizującym - oznacza to:
 
-  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.),
+  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086),
 
   - b) spółkę utworzoną na podstawie art. 149 ust. 1 lub art. 150 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
 
-  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2018 r. poz. 1475 i 1669 oraz z 2019 r. poz. 534),
+  - c) Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2019 r. poz. 1183, 1655 i 2227 oraz z 2020 r. poz. 695 i 1086),
 
   - d) spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
 
-  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669 oraz z 2019 r. poz. 534),
+  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2019 r. poz. 1350 i 2227 oraz z 2020 r. poz. 284),
 
   - f) spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
 
@@ -124,7 +124,7 @@ Ilekroć w ustawie jest mowa o:
 
   - j) instytuty działające w ramach Sieci Badawczej Łukasiewicz,
 
-  - k) spółkę utworzoną na podstawie art. 30 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534)
+  - k) spółkę utworzoną na podstawie art. 30 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534 i 2227 oraz z 2020 r. poz. 284, 695 i 875)
 
   - jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
 
@@ -148,7 +148,7 @@ Ilekroć w ustawie jest mowa o:
 
   - c) prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności uzyskiwane są w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, przepis art. 24a ust. 18 stosuje się odpowiednio;
 
-- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244);
+- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2020 r. poz. 95 i 695);
 
 - 30a) alternatywnej spółce inwestycyjnej - oznacza to alternatywną spółkę inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych;
 
@@ -164,4 +164,6 @@ Ilekroć w ustawie jest mowa o:
 
   - przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości;
 
-- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215).
+- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215, z 2019 r. poz. 1074 i 1572 oraz z 2020 r. poz. 568 i 1086);
+
+- 34) ustawie o przeciwdziałaniu nadmiernym opóźnieniom - oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2020 r. poz. 935 i 1086).

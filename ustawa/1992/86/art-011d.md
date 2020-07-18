@@ -16,7 +16,7 @@
 
 3. Przy wyborze metody najbardziej odpowiedniej w danych okolicznościach uwzględnia się w szczególności warunki, jakie zostały ustalone lub narzucone pomiędzy podmiotami powiązanymi, dostępność informacji niezbędnych do prawidłowego zastosowania metody oraz specyficzne kryteria jej zastosowania.
 
-4. Określając wysokość dochodu (straty), organ podatkowy stosuje metodę przyjętą przez podmiot powiązany, chyba że zastosowanie innej metody jest bardziej odpowiednie w danych okolicznościach.
+4. Określając wysokość dochodu (straty), organ podatkowy stosuje metodę przyjętą przez podmiot powiązany, chyba że zastosowanie metody innej niż przyjęta przez podmiot powiązany jest bardziej odpowiednie w danych okolicznościach.
 
 5. W przypadku gdy zgodnie z art. 11c ust. 4 organ podatkowy:
 

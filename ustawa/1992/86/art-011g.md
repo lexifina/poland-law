@@ -2,7 +2,7 @@
 
 1. W przypadku transakcji kontrolowanej dotyczącej pożyczki organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości oprocentowania tej pożyczki, jeżeli łącznie są spełnione następujące warunki:
 
-- 1) oprocentowanie pożyczki na dzień zawarcia umowy jest ustalane w oparciu o rodzaj bazowej stopy procentowej i marżę, określone w obwieszczeniu ministra właściwego do spraw finansów publicznych aktualnym na dzień zawarcia tej umowy;
+- 1) oprocentowanie pożyczki w ujęciu rocznym na dzień zawarcia umowy jest ustalane w oparciu o rodzaj bazowej stopy procentowej i marżę, określone w obwieszczeniu ministra właściwego do spraw finansów publicznych aktualnym na dzień zawarcia tej umowy;
 
 - 2) nie przewidziano wypłaty innych niż odsetki opłat związanych z udzieleniem lub obsługą pożyczki, w tym prowizji lub premii;
 

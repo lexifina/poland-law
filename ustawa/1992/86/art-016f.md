@@ -1,6 +1,6 @@
 # Art. 16f.
 
-1. Podatnicy, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, dokonują odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 16a ust. 1 i ust. 2 pkt 1−3 oraz w art. 16b.
+1. Podatnicy, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, dokonują odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 16a ust. 1 i ust. 2 pkt 1-3 oraz w art. 16b.
 
 2. Podatnicy będący armatorami, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, mogą dokonywać odpisów amortyzacyjnych od zamówionego przez nich taboru transportu morskiego w budowie, o którym mowa w art. 16a ust. 2 pkt 4.
 

@@ -32,7 +32,7 @@
 
 3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością.
 
-3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141 i 1669 oraz z 2019 r. poz. 534), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
+3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2019 r. poz. 1402 oraz z 2020 r. poz. 568), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
 
 - 1) dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od budowli, budynków i lokali będących odrębną własnością wykorzystywanych w prowadzonej działalności badawczo-rozwojowej;
 
@@ -54,7 +54,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3, w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
 
-- 2) 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014
+- 2) 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014
 
 - stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
@@ -62,7 +62,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
 
-- 2) 50% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014.
+- 2) 50% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014.
 
 3g. Intensywność pomocy publicznej nie może przekroczyć wartości określonych w:
 
@@ -76,7 +76,7 @@
 
 - 2) ciąży na nim obowiązek zwrotu pomocy wynikający z wcześniejszej decyzji Komisji Europejskiej uznającej pomoc za niezgodną z prawem i ze wspólnym rynkiem.
 
-3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, w terminie złożenia zeznania podatkowego, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
+3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, w terminie złożenia zeznania podatkowego, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708).
 
 3j. Odliczenie, o którym mowa w ust. 3d, jest dokonywane w okresie stosowania rozporządzenia nr 651/2014.
 
