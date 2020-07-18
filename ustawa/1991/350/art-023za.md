@@ -10,4 +10,4 @@
 
   - b) umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości - przewidywana na dzień zawarcia umowy, przekracza 100 000 zł lub równowartość tej kwoty.
 
-2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej.
+2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.

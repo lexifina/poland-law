@@ -70,7 +70,9 @@
 
 - 1) suma ich wartości rynkowej w przypadku wystąpienia dodatniej wartości firmy, ustalonej zgodnie z ust. 2;
 
-- 2) różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku niewystąpienia dodatniej wartości firmy. 14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
+- 2) różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku niewystąpienia dodatniej wartości firmy.
+
+14a. Przepis ust. 12 stosuje się odpowiednio w razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze wkładu niepieniężnego.
 
 14b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 12 stosuje się odpowiednio.
 

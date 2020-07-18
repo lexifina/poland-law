@@ -22,4 +22,4 @@
 
 - 2) brak porównywalnych transakcji występujących pomiędzy podmiotami niepowiązanymi w porównywalnych okolicznościach.
 
-6. W okresie obowiązywania decyzji w sprawie porozumienia, o której mowa w art. 20a Ordynacji podatkowej, organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z warunkami i metodami uznanymi w tej decyzji.
+6. W okresie obowiązywania uprzedniego porozumienia cenowego organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.

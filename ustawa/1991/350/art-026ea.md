@@ -2,7 +2,7 @@
 
 1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności gospodarczej poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 26e ust. 1, przysługuje kwota stanowiąca:
 
-- 1) 18% nieodliczonego na podstawie art. 26e ust. 1 odliczenia - w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
+- 1) iloczyn najniższej stawki podatkowej określonej w skali, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e ust. 1 odliczenia - w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
 
 - 2) 19% nieodliczonego na podstawie art. 26e ust. 1 odliczenia - w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
 

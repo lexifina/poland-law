@@ -16,7 +16,7 @@
 
 - 6) prawo z rejestracji produktu leczniczego i produktu leczniczego weterynaryjnego dopuszczonych do obrotu,
 
-- 7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432),
+- 7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432 oraz z 2020 r. poz. 288),
 
 - 8) autorskie prawo do programu komputerowego
 
@@ -24,7 +24,7 @@
 
 3. Podstawę opodatkowania stanowi suma kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej osiągniętych w roku podatkowym.
 
-4. Wysokość kwalifikowanego dochodu z kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn dochodu z kwalifikowanego prawa własności intelektualnej osiągniętego w roku podatkowym i wskaźnika obliczonego według wzoru: \( {{(a + b) * 1,3} \over {a + b + c + d}} \) w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na: a - prowadzoną bezpośrednio przez podatnika działalność badawczo-rozwojową związaną z kwalifikowanym prawem własności intelektualnej, b - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, c - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, d - nabycie przez podatnika kwalifikowanego prawa własności intelektualnej.
+4. Wysokość kwalifikowanego dochodu z kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn dochodu z kwalifikowanego prawa własności intelektualnej osiągniętego w roku podatkowym i wskaźnika obliczonego według wzoru: (a + b) ∗ 1,3 a + b + c + d w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na: a - prowadzoną bezpośrednio przez podatnika działalność badawczo-rozwojową związaną z kwalifikowanym prawem własności intelektualnej, b - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, c - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, d - nabycie przez podatnika kwalifikowanego prawa własności intelektualnej.
 
 5. Do kosztów, o których mowa w ust. 4, nie zalicza się kosztów, które nie są bezpośrednio związane z kwalifikowanym prawem własności intelektualnej, w szczególności odsetek, opłat finansowych oraz kosztów związanych z nieruchomościami.
 

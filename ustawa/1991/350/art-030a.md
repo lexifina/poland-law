@@ -44,7 +44,7 @@
 
 - 11f) od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty 75% środków zgromadzonych na rachunku w pracowniczym planie kapitałowym, które zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 102 ust. 3 ustawy o pracowniczych planach kapitałowych - jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
 
-- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245 oraz z 2019 r. poz. 39, 730 i 752).
+- 12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252, 568 i 1222).
 
 2. Przepisy ust. 1 pkt 1-5 stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 

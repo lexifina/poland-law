@@ -62,7 +62,11 @@
 
 8. Jeżeli kwota przysługującego odliczenia na podstawie ust. 2, 3 i 4 jest wyższa od kwoty odliczonej z tytułu, o którym mowa w ust. 1, w zeznaniu, o którym mowa w art. 45 ust. 1, podatnikowi przysługuje kwota stanowiąca różnicę między kwotą przysługującego podatnikowi odliczenia a kwotą odliczoną w zeznaniu podatkowym.
 
-9. Kwota stanowiąca różnicę, o której mowa w ust. 8, nie może przekroczyć kwoty składek na ubezpieczenia społeczne, o których mowa w art. 26 ust. 1 pkt 2 i 2a, oraz składek na ubezpieczenie zdrowotne, o których mowa w art. 27b ust. 1 i 2, podlegających odliczeniu, pomniejszonych o składki odliczone w zeznaniu, o którym mowa w art. 45 ust. 1a pkt 2, lub na podstawie ustawy o zryczałtowanym podatku dochodowym.
+9. Kwota stanowiąca różnicę, o której mowa w ust. 8, nie może przekroczyć kwoty składek na ubezpieczenia społeczne, o których mowa w art. 26 ust. 1 pkt 2 i 2a, oraz składek na ubezpieczenie zdrowotne, o których mowa w art. 27b ust. 1 i 2:
+
+- 1) podlegających odliczeniu, pomniejszonych o składki odliczone w zeznaniu, o którym mowa w art. 45 ust. 1a pkt 2, lub na podstawie ustawy o zryczałtowanym podatku dochodowym;
+
+- 2) zapłaconych ze środków podatnika od przychodów zwolnionych od podatku na podstawie art. 21 ust. 1 pkt 148.
 
 10. W przypadku odliczenia z tytułu, o którym mowa w ust. 1, przysługującego pozostającym przez cały rok podatkowy w związku małżeńskim obojgu:
 
