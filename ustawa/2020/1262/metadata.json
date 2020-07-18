@@ -1,0 +1,151 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1262",
+ "source_sha256": "5fd563666896b97bdee62d471fe089d89a786d88b7d71ea5d44c11f0014b286b",
+ "in_force": "2020-07-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1262",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1262/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1262/text/O/D20201262.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1262/text/I/D20201262.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/1262/text/T/D20201262L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/1262/text/U/D20201262Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1262",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1262,
+  "address": "WDU20200001262",
+  "displayAddress": "Dz.U. 2020 poz. 1262",
+  "title": "Ustawa z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-15",
+  "promulgation": "2020-07-17",
+  "entryIntoForce": "2020-07-18",
+  "changeDate": "2026-06-18T08:29:09",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "turystyka",
+   "pomoc dla rodzin",
+   "pomoc finansowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=422",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/422",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/422",
+    "number": "422",
+    "term": 9
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=423",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/423",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/423",
+    "number": "423",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2025/1806",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2022/218",
+     "date": "2022-02-15"
+    },
+    {
+     "id": "DU/2022/2014",
+     "date": "2022-09-30"
+    },
+    {
+     "id": "DU/2021/2368",
+     "date": "2021-12-22"
+    },
+    {
+     "id": "DU/2021/159",
+     "date": "2021-01-26"
+    },
+    {
+     "id": "DU/2020/1639",
+     "date": "2020-10-01"
+    },
+    {
+     "id": "DU/2020/1493",
+     "date": "2020-07-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2020/568",
+     "date": "2020-07-18"
+    },
+    {
+     "id": "DU/2019/1572",
+     "date": "2020-07-18"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2020-07-18"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2020-07-18"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2026/759"
+    },
+    {
+     "id": "DU/2023/35"
+    },
+    {
+     "id": "DU/2022/1038"
+    },
+    {
+     "id": "DU/2021/839"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201262.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201262.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20201262L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20201262Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
