@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/641",
+ "source_sha256": "2ffbfc2fb7309d590c23fde5e4a7ccfd0daa33cad4e558a3d229ceeddc120572",
+ "in_force": "2020-07-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/641",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/641/text/O/M20200641.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/641/text/I/M20200641.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/641",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 641,
+  "address": "WMP20200000641",
+  "displayAddress": "M.P. 2020 poz. 641",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 17 lipca 2020 r. w sprawie wskaźnika zmian cen skupu podstawowych produktów rolnych w I półroczu 2020 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-17",
+  "promulgation": "2020-07-20",
+  "changeDate": "2020-07-21T13:03:47",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty rolne",
+   "ceny",
+   "wskaźnik",
+   "skup i kontraktacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/464"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/464",
+     "art": "art. 39a ust. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200641.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200641.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
