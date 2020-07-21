@@ -1,0 +1,1 @@
+Na podstawie art. 30 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 1529 i 1726) zarządza się, co następuje:
