@@ -36,6 +36,8 @@ Ilekroć w niniejszym dziale jest mowa o:
 
   - a) rachunek rozliczeniowy, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, podmiotu kwalifikowanego,
 
+  - b) rachunek lokaty terminowej podmiotu kwalifikowanego,
+
   - c) rachunek członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym,
 
   - d) rachunek VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzony dla rachunku, o którym mowa w lit. a albo c;

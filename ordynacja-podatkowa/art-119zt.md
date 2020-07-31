@@ -6,7 +6,7 @@ Informacje i zestawienia, o których mowa w art. 119zp § 1 i art. 119zq, są ud
 
 - 2) Prezesa Najwyższej Izby Kontroli - w zakresie niezbędnym do przeprowadzenia postępowania kontrolnego określonego w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2019 r. poz. 489);
 
-- 3) Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Biura Ochrony Rządu i ich posiadających pisemne upoważnienie funkcjonariuszy lub żołnierzy - w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- 3) Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich posiadających pisemne upoważnienie funkcjonariuszy lub żołnierzy - w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
 
 - 4) Prezesa Urzędu Ochrony Danych Osobowych - w zakresie niezbędnym do realizacji ustawowych zadań określonych w przepisach o ochronie danych osobowych;
 

@@ -32,6 +32,28 @@
 
 § 4a. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa nie ujawniają podmiotowi kwalifikowanemu informacji o przekazaniu żądania lub dokonaniu blokady rachunku podmiotu kwalifikowanego.
 
+§ 4b. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują podmiot kwalifikowany o przekazaniu żądania lub dokonaniu blokady rachunku podmiotu kwalifikowanego wyłącznie na jego wniosek, po uprzednim potwierdzeniu przez Szefa Krajowej Administracji Skarbowej, że wszystkie przekazane żądania blokady rachunków tego podmiotu kwalifikowanego zostały wykonane.
+
+§ 4c. W przypadku złożenia dyspozycji przeprowadzenia transakcji dotyczących rachunku podmiotu kwalifikowanego będącego przedmiotem blokady bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie informują Szefa Krajowej Administracji Skarbowej o:
+
+- 1) dacie i godzinie złożenia dyspozycji;
+
+- 2) treści transakcji będącej przedmiotem dyspozycji w zakresie określonym w art. 119zr § 3.
+
+§ 4d. Niezwłocznie po otrzymaniu wniosku, o którym mowa w § 4b, bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują Szefa Krajowej Administracji Skarbowej o:
+
+- 1) dacie i godzinie złożenia wniosku;
+
+- 2) adresie poczty elektronicznej, z którego złożono wniosek, jeżeli jest dostępny - w przypadku gdy wniosek został złożony za pośrednictwem poczty elektronicznej;
+
+- 3) adresie IP, z którego nastąpiło logowanie, jeżeli jest dostępny - w przypadku gdy wniosek został złożony za pośrednictwem serwisu internetowego służącego do obsługi rachunku podmiotu kwalifikowanego lub w inny sposób umożliwiający identyfikację tego adresu;
+
+- 4) numerze telefonu, za pośrednictwem którego został złożony wniosek, jeżeli jest dostępny - w przypadku gdy wniosek został złożony telefonicznie;
+
+- 5) adresie placówki banku, spółdzielczej kasy oszczędnościowo-kredytowej albo ich oddziału, w których został złożony wniosek - w przypadku gdy wniosek został złożony osobiście;
+
+- 6) adresie nadawcy, jeżeli jest dostępny - w przypadku gdy wniosek został złożony za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe.
+
 § 5. Blokada rachunku podmiotu kwalifikowanego jest skuteczna również w odniesieniu do rachunku podmiotu kwalifikowanego, którego podmiot kwalifikowany jest współposiadaczem.
 
 § 6. Szef Krajowej Administracji Skarbowej niezwłocznie po otrzymaniu informacji, o której mowa w § 4 pkt 3 lit. a, w odniesieniu do wszystkich żądań dotyczących podmiotu kwalifikowanego przekazanych do momentu otrzymania tej informacji, przekazuje temu podmiotowi zawiadomienie o blokadzie jego rachunku zawierające dane określone w tych żądaniach.
@@ -44,4 +66,4 @@
 
 § 8. Do ograniczenia zakresu oraz uchylenia blokady rachunku podmiotu kwalifikowanego przepisy § 2-6 stosuje się odpowiednio.
 
-§ 9. Minister właściwy do spraw finansów publicznych przeprowadza, nie rzadziej niż raz na kwartał, kontrolę przestrzegania przepisów § 1, 2, 6 i 7 przez Szefa Krajowej Administracji Skarbowej, a w przypadku upoważnienia, zgodnie z przepisami wydanymi na podstawie art. 119zze, innego organu Krajowej Administracji Skarbowej - przez ten organ.
+§ 9. Minister właściwy do spraw finansów publicznych przeprowadza, nie rzadziej niż raz na kwartał, kontrolę przestrzegania przepisów § 1, 2, 6 i 7 przez Szefa Krajowej Administracji Skarbowej, a w przypadku upoważnienia, zgodnie z przepisami wydanymi na podstawie art. 119zma, innego organu Krajowej Administracji Skarbowej - przez ten organ.

@@ -22,6 +22,26 @@
 
 § 3. Składający wniosek o wydanie interpretacji indywidualnej obowiązany jest do wyczerpującego przedstawienia zaistniałego stanu faktycznego albo zdarzenia przyszłego oraz do przedstawienia własnego stanowiska w sprawie oceny prawnej tego stanu faktycznego albo zdarzenia przyszłego.
 
+§ 3a. W przypadku gdy przedstawiony we wniosku o wydanie interpretacji indywidualnej stan faktyczny lub zdarzenie przyszłe obejmuje transakcję, zespół transakcji lub inne zdarzenia:
+
+- 1) z udziałem osoby fizycznej, osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej:
+
+  - a) które mają miejsce zamieszkania, siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, lub
+
+  - b) które prowadzą działalność gospodarczą poza terytorium Rzeczypospolitej Polskiej za pośrednictwem zagranicznego zakładu, a transakcja, zespół transakcji lub inne zdarzenia stanowią część lub całość działalności gospodarczej zagranicznego zakładu, lub
+
+  - c) będących stronami transakcji, zespołu transakcji lub uczestnikami zdarzenia mającymi miejsce zamieszkania, siedzibę lub zarząd w więcej niż jednym państwie lub terytorium, lub
+
+- 2) mające skutki transgraniczne
+
+− składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić.
+
+§ 3b. Obowiązek, o którym mowa w § 3a, nie obejmuje wniosków o wydanie interpretacji indywidualnej:
+
+- 1) dotyczących wyłącznie indywidualnej sprawy osoby fizycznej;
+
+- 2) w zakresie podatku akcyzowego oraz podatku od towarów i usług.
+
 § 4. Wnioskujący o wydanie interpretacji indywidualnej składa oświadczenie pod rygorem odpowiedzialności karnej za fałszywe zeznania, że elementy stanu faktycznego objęte wnioskiem o wydanie interpretacji w dniu złożenia wniosku nie są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej oraz że w tym zakresie sprawa nie została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego. W razie złożenia fałszywego oświadczenia wydana interpretacja indywidualna nie wywołuje skutków prawnych.
 
 § 5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego albo w porozumieniu podatkowym, o którym mowa w art. 20zb.

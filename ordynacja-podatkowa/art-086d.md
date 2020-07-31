@@ -1,6 +1,6 @@
 # Art. 86d.
 
-§ 1. Promotor lub korzystający zlecający wspomagającemu wykonanie czynności pozostających w zakresie jego działania w odniesieniu do schematu podatkowego informują go pisemnie o NSP tego schematu podatkowego, załączając potwierdzenie nadania NSP, najpóźniej w dniu poprzedzającym wykonanie tych czynności. Przepis art. 86b § 3 stosuje się odpowiednio.
+§ 1. Promotor lub korzystający zlecający wspomagającemu wykonanie czynności pozostających w zakresie jego działania w odniesieniu do schematu podatkowego informują go pisemnie o NSP tego schematu podatkowego, załączając potwierdzenie nadania NSP, najpóźniej w dniu poprzedzającym wykonanie tych czynności. Przepisy art. 86b § 2a i 3 stosuje się odpowiednio.
 
 § 2. Jeżeli wspomagający:
 

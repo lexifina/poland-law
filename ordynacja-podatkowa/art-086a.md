@@ -84,7 +84,7 @@
 
 - 13) szczególnej cesze rozpoznawczej - rozumie się przez to właściwość uzgodnienia polegającą na tym, że spełniony jest co najmniej jeden z poniższych warunków:
 
-  - a) obejmuje ono podlegające zaliczeniu do kosztów uzyskania przychodów transgraniczne płatności pomiędzy podmiotami powiązanymi oraz: - odbiorca płatności nie ma miejsca zamieszkania, siedziby ani zarządu w żadnym z państw, - odbiorca płatności posiada miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, określonych na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych,
+  - a) obejmuje ono podlegające zaliczeniu do kosztów uzyskania przychodów transgraniczne płatności pomiędzy podmiotami powiązanymi oraz: - odbiorca płatności nie ma miejsca zamieszkania, siedziby ani zarządu w żadnym z państw, - odbiorca płatności posiada miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wskazanych w aktach wykonawczych wydanych na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych oraz w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej,
 
   - b) w odniesieniu do tego samego środka trwałego lub wartości niematerialnej i prawnej dokonywane są odpisy amortyzacyjne w więcej niż jednym państwie,
 

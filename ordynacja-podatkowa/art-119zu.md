@@ -8,7 +8,7 @@
 
 - 3) informacje dostępne publicznie.
 
-§ 2. Do przetwarzania danych, o których mowa w art. 119zp § 1 oraz art. 119zq, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, z tym że dane te mogą być przetwarzane w STIR bez wiedzy i zgody osoby, której dane te dotyczą.
+§ 2. (uchylony)
 
 § 2a. Dane, o których mowa w § 1, izba rozliczeniowa przetwarza przy wykorzystaniu STIR również w celu:
 

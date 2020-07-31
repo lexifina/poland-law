@@ -6,7 +6,7 @@
 
 § 1. Szef Krajowej Administracji Skarbowej dokonuje analizy ryzyka wykorzystywania działalności banków i spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi, uwzględniając posiadane dane, w tym wskaźnik ryzyka oraz informacje i zestawienia, o których mowa w art. 119zq oraz art. 119zs.
 
-§ 2. Wskaźnik ryzyka ustala izba rozliczeniowa automatycznie w STIR, nie rzadziej niż raz dziennie.
+§ 2. Wskaźnik ryzyka ustala izba rozliczeniowa w STIR nie rzadziej niż raz dziennie, opierając się na zautomatyzowanym przetwarzaniu, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
 
 § 3. Wskaźnik ryzyka jest ustalany w odniesieniu do podmiotu kwalifikowanego na podstawie opracowanych przez izbę rozliczeniową algorytmów, uwzględniających najlepsze praktyki sektora bankowego i spółdzielczych kas oszczędnościowo-kredytowych w zakresie przeciwdziałania wykorzystywaniu ich działalności do przestępstw oraz przestępstw skarbowych, a także:
 
@@ -21,3 +21,5 @@
 - 5) kryteria powiązań - polegające na istnieniu powiązań podmiotu kwalifikowanego z podmiotami, co do których występuje ryzyko, że uczestniczą w działaniach mających związek z wyłudzeniami skarbowymi lub organizują takie działania.
 
 § 4. Najlepsze praktyki, o których mowa w § 3, mogą być zgłaszane izbie rozliczeniowej przez banki i spółdzielcze kasy oszczędnościowo-kredytowe wskazane odpowiednio przez bankowe izby gospodarcze, o których mowa w art. 121 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową.
+
+§ 5. Przetwarzanie, o którym mowa w § 2, może opierać się na danych osobowych ujawniających pochodzenie rasowe lub etniczne oraz danych biometrycznych, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
