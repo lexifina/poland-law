@@ -8,7 +8,7 @@
 
 - 3) (uchylony)
 
-- 4) do podatku od towarów i usług oraz do opłat i niepodatkowych należności budżetowych.
+- 4) do podatku od towarów i usług oraz do opłat i niepodatkowych należności budżetowych;
 
 - 5) (uchylony)
 

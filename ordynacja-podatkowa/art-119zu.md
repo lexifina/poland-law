@@ -4,7 +4,7 @@
 
 - 1) dane przekazane na podstawie art. 119zp § 1;
 
-- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2019 r. poz. 63 i 730);
+- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170);
 
 - 3) informacje dostępne publicznie.
 

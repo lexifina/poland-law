@@ -10,7 +10,7 @@
 
 § 1a. Dyrektor Krajowej Informacji Skarbowej może z urzędu:
 
-- 1) zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, 1467, 1544 i 1629 oraz z 2019 r. poz. 11 i 60);
+- 1) zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325);
 
 - 2) stwierdzić wygaśniecie interpretacji indywidualnej, jeżeli jest ona niezgodna z interpretacją ogólną wydaną w takim samym stanie prawnym;
 

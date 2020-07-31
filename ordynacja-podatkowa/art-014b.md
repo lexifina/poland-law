@@ -54,7 +54,7 @@
 
 - 2) być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
 
-- 3) stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.).
+- 3) stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
 § 5c. Organ uprawniony do wydania interpretacji indywidualnej zwraca się do Szefa Krajowej Administracji Skarbowej o opinię w zakresie, o którym mowa w § 5b, chyba że stan faktyczny lub zdarzenie przyszłe odpowiadają zagadnieniu, które było przedmiotem uzyskanej uprzednio opinii Szefa Krajowej Administracji Skarbowej. Opinię Szefa Krajowej Administracji Skarbowej, której przedmiotem jest zagadnienie odpowiadające stanowi faktycznemu lub zdarzeniu przyszłemu przedstawionemu we wniosku o wydanie interpretacji indywidualnej, wraz z wnioskiem organu uprawnionego do wydania interpretacji indywidualnej o jej wydanie, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty w nich wskazane, dołącza się do akt sprawy.
 
