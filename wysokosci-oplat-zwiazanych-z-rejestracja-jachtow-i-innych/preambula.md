@@ -1,0 +1,1 @@
+Na podstawie art. 18 ust. 10 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. poz. 1137 oraz z 2019 r. poz. 1716) zarządza się, co następuje:
