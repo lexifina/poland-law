@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/682",
+ "source_sha256": "76d40e02beee57c3d4e92886cac2412e67ccb37a1156b8f9a5409a95cadac72f",
+ "in_force": "2020-08-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/682",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/682/text/O/M20200682.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/682/text/I/M20200682.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/682",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 682,
+  "address": "WMP20200000682",
+  "displayAddress": "M.P. 2020 poz. 682",
+  "title": "Obwieszczenie Ministra Finansów z dnia 30 lipca 2020 r. w sprawie ogłoszenia obowiązujących w 2021 r. maksymalnych stawek opłat za usunięcie, przechowywanie i strzeżenie środka transportu lub towaru w wyznaczonym miejscu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-30",
+  "promulgation": "2020-08-04",
+  "changeDate": "2020-08-05T10:44:38",
+  "releasedBy": [
+   "MIN. FINANSÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stawki",
+   "pojazdy mechaniczne",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2017/708"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2017/708",
+     "art": "art. 20 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200682.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200682.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
