@@ -1,0 +1,109 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1298",
+ "source_sha256": "696133cee577f95b1535deb38f5d59e5ac5a58dc626e2f2eca7b19841046afd0",
+ "in_force": "2020-08-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1298",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1298/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1298/text/O/D20201298.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1298/text/I/D20201298.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/1298/text/T/D20201298L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/1298/text/U/D20201298Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1298",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1298,
+  "address": "WDU20200001298",
+  "displayAddress": "Dz.U. 2020 poz. 1298",
+  "title": "Ustawa z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-16",
+  "promulgation": "2020-07-27",
+  "entryIntoForce": "2020-08-11",
+  "changeDate": "2026-02-11T13:29:38",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc publiczna",
+   "przedsiębiorstwa",
+   "restrukturyzacja"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32015R1589",
+    "date": "2015-07-13",
+    "title": "Rozporządzenie Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiające szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=300",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/300",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/300",
+    "number": "300",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2025/769",
+     "date": "2025-07-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/978",
+     "date": "2020-08-11"
+    },
+    {
+     "id": "DU/1960/168",
+     "date": "2020-08-11"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2026/113"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201298.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201298.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20201298L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20201298Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
