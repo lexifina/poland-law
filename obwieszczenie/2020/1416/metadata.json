@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1416",
+ "source_sha256": "5f357c67de90fd440e7d10cafb0cf90e66856b22a9b191f05de23e23e5588933",
+ "in_force": "2020-08-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 1089 words, parsed 83; at 83: 'prostuje się następujące błędy : 1 ) w art .'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1416",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1416/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1416/text/O/D20201416.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1416/text/I/D20201416.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1416",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1416,
+  "address": "WDU20200001416",
+  "displayAddress": "Dz.U. 2020 poz. 1416",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 5 sierpnia 2020 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-08-05",
+  "promulgation": "2020-08-19",
+  "changeDate": "2024-03-14T13:04:08",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "unikanie podwójnego opodatkowania",
+   "podatki",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [
+   "Bułgaria"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/443",
+     "art": "art. 18b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1995/679"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201416.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201416.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
