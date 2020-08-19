@@ -1,0 +1,1 @@
+Na podstawie art. 107zc ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944) zarządza się, co następuje:
