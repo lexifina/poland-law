@@ -1,0 +1,1 @@
+Na podstawie art. 13 ust. 5 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2020 r. poz. 1346) zarządza się, co następuje:
