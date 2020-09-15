@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2020 r. poz. 357, 945 i 1493) zarządza się, co następuje:
