@@ -1,0 +1,1 @@
+Na podstawie art. 50 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292, 1559, 1773, 1834 i 1981) zarządza się, co następuje:
