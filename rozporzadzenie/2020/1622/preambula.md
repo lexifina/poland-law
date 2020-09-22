@@ -1,0 +1,1 @@
+Na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2017 r. poz. 2000, z 2019 r. poz. 2303 oraz z 2020 r. poz. 284) zarządza się, co następuje:
