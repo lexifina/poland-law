@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/858",
+ "source_sha256": "f14da74109807e84457ae1e88c600d588d460f9832f07ad65e058a62084a1c34",
+ "in_force": "2020-09-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/858",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/858/text/O/M20200858.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/858/text/I/M20200858.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/858",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 858,
+  "address": "WMP20200000858",
+  "displayAddress": "M.P. 2020 poz. 858",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 17 września 2020 r. o wolnym stanowisku asesorskim w Wojewódzkim Sądzie Administracyjnym w Łodzi",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-09-17",
+  "promulgation": "2020-09-24",
+  "changeDate": "2020-09-25T11:30:01",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "asesorzy",
+   "sądy administracyjne",
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1269"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1269",
+     "art": "art. 6a par. 2a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200858.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200858.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
