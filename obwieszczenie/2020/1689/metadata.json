@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1689",
+ "source_sha256": "987d26ff28a4a829d959a9da3da1f3ea4a6dbecded972eba55b8fe006ae9a8b9",
+ "in_force": "2020-10-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1689",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1689/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1689/text/O/D20201689.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1689/text/I/D20201689.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/1689/text/T/D20201689L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/1689/text/U/D20201689Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1689",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1689,
+  "address": "WDU20200001689",
+  "displayAddress": "Dz.U. 2020 poz. 1689",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłatach abonamentowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-09-17",
+  "promulgation": "2020-10-01",
+  "expirationDate": "2025-11-20",
+  "changeDate": "2025-11-21T09:49:59",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "opłaty",
+   "ulgi"
+  ],
+  "keywordsNames": [
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/728"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201689.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201689.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20201689L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20201689Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
