@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/902",
+ "source_sha256": "953d27add2573852b91d166512c4b76fd2d9e3b6999b4a75352642298d7b47e0",
+ "in_force": "2020-10-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/902",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/902/text/O/M20200902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/902/text/I/M20200902.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/902",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 902,
+  "address": "WMP20200000902",
+  "displayAddress": "M.P. 2020 poz. 902",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 5 października 2020 r. w sprawie wskaźników zmian cen dla lokali mieszkalnych w drugim kwartale 2020 r. z podziałem na województwa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-10-05",
+  "promulgation": "2020-10-08",
+  "changeDate": "2025-07-08T11:14:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "lokal",
+   "wskaźnik",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/741"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/741",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200902.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
