@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/912",
+ "source_sha256": "08f0cf91724ab20268141dc3ec2aa7d38f9d728d0bbac0d5382a47b433364cd5",
+ "in_force": "2020-10-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/912",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/912/text/O/M20200912.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/912/text/I/M20200912.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/912",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 912,
+  "address": "WMP20200000912",
+  "displayAddress": "M.P. 2020 poz. 912",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 25 czerwca 2020 r. nr 112.33.2020 w sprawie mianowania na stopień generała broni",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-06-25",
+  "promulgation": "2020-10-09",
+  "changeDate": "2020-10-12T12:43:26",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200912.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200912.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
