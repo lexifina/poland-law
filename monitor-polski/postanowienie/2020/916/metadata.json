@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/916",
+ "source_sha256": "b9ddb521d0ba6a79f2b226c6627aac0695d2d66b9a0423cc80c5267c3c573d29",
+ "in_force": "2020-10-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/916",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/916/text/O/M20200916.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/916/text/I/M20200916.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/916",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 916,
+  "address": "WMP20200000916",
+  "displayAddress": "M.P. 2020 poz. 916",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 lipca 2020 r. nr 112.44.2020 o mianowaniu na stopień nadinspektora Policji",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-24",
+  "promulgation": "2020-10-09",
+  "changeDate": "2020-10-12T12:43:26",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie policyjne"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1990/179"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1990/179",
+     "art": "art. 48 ust. 3"
+    },
+    {
+     "id": "DU/1990/179",
+     "art": "art. 52 ust. 1a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200916.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200916.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
