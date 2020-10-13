@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/930",
+ "source_sha256": "d1b1d5f67eeb76187e2a617d8af2f6b4a5bbe1e60cecf128bb24ecdc767d59a5",
+ "in_force": "2020-10-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/930",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/930/text/O/M20200930.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/930/text/I/M20200930.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/930",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 930,
+  "address": "WMP20200000930",
+  "displayAddress": "M.P. 2020 poz. 930",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 lipca 2020 r. nr 112.42.2020 o nadaniu stopnia nadbrygadiera Państwowej Straży Pożarnej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-07-24",
+  "promulgation": "2020-10-13",
+  "changeDate": "2022-03-28T12:21:57",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Straż Pożarna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1991/400"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1991/400",
+     "art": "art. 51 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200930.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200930.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
