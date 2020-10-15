@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1805",
+ "source_sha256": "13b16b1adb6c9688b504bd0d688b6e44451ce28d6a0a5b5e8aea3509cef22f26",
+ "in_force": "2020-10-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1805",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1805/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1805/text/O/D20201805.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1805/text/I/D20201805.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1805",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1805,
+  "address": "WDU20200001805",
+  "displayAddress": "Dz.U. 2020 poz. 1805",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-10-08",
+  "promulgation": "2020-10-15",
+  "changeDate": "2024-03-14T13:13:03",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "postępowanie egzekucyjne w administracji"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/237"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201805.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201805.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
