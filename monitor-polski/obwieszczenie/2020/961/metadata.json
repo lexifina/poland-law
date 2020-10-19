@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/961",
+ "source_sha256": "0bf0d55fa2d6e48ff46c36e3b54bcc04ce012a637548d693b5784a4eb96b6e45",
+ "in_force": "2020-10-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/961",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/961/text/O/M20200961.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/961/text/I/M20200961.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/961",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 961,
+  "address": "WMP20200000961",
+  "displayAddress": "M.P. 2020 poz. 961",
+  "title": "Obwieszczenie Ministra Klimatu z dnia 9 września 2020 r. w sprawie wysokości stawek opłat za korzystanie ze środowiska na rok 2021",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-09-09",
+  "promulgation": "2020-10-19",
+  "changeDate": "2020-11-02T00:00:00",
+  "releasedBy": [
+   "MIN. KLIMATU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska",
+   "stawki",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/627"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/627",
+     "art": "art. 291 ust. 2"
+    }
+   ],
+   "Sprostowanie": [
+    {
+     "id": "MP/2020/1015"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20200961.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20200961.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
