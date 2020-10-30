@@ -1,0 +1,1 @@
+Na podstawie art. 28 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2019 r. poz. 2412 oraz z 2020 r. poz. 288 i 321) zarządza się, co następuje:
