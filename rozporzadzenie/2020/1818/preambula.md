@@ -1,0 +1,1 @@
+Na podstawie art. 29 ust. 8 pkt 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1541 i 2020 oraz z 2020 r. poz. 374) zarządza się, co następuje:
