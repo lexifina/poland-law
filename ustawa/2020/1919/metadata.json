@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1919",
+ "source_sha256": "1958a77c9afd9401e63651751bbcaacdf1010f97819b39388cee6bfa6cb0ac91",
+ "in_force": "2020-11-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (32 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1919",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1919/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1919/text/O/D20201919.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1919/text/I/D20201919.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/1919/text/T/D20201919L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1919",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1919,
+  "address": "WDU20200001919",
+  "displayAddress": "Dz.U. 2020 poz. 1919",
+  "title": "Ustawa z dnia 28 października 2020 r. o zmianie ustawy budżetowej na rok 2020",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-10-28",
+  "promulgation": "2020-10-31",
+  "entryIntoForce": "2020-11-01",
+  "changeDate": "2024-03-14T13:04:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowa gospodarka",
+   "budżet",
+   "finanse publiczne",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=572",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/572",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/572",
+    "number": "572",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2020/571",
+     "date": "2020-11-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201919.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201919.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20201919L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
