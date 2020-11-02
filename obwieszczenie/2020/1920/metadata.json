@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/1920",
+ "source_sha256": "6dec39c647d69a4371b23d82f7095d2a829674761905210df6af298622f842ec",
+ "in_force": "2020-11-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/1920",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/1920/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/1920/text/O/D20201920.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/1920/text/I/D20201920.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/1920/text/T/D20201920L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/1920/text/U/D20201920Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/1920",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1920,
+  "address": "WDU20200001920",
+  "displayAddress": "Dz.U. 2020 poz. 1920",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-10-27",
+  "promulgation": "2020-11-02",
+  "expirationDate": "2025-03-10",
+  "changeDate": "2025-03-12T10:08:22",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "czas pracy",
+   "święta",
+   "dni wolne od pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1951/28"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20201920.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20201920.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20201920L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20201920Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
