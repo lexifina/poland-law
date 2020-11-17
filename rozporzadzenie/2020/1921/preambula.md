@@ -1,0 +1,1 @@
+Na podstawie art. 29 ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2020 r. poz. 426, 568 i 875) zarządza się, co następuje:
