@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/1067",
+ "source_sha256": "734b666c91736d7034fd0f204279d2db747e5917884959dc0b0e1757ef5c6a7d",
+ "in_force": "2020-11-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/1067",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/1067/text/O/M20201067.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/1067/text/I/M20201067.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/1067",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1067,
+  "address": "WMP20200001067",
+  "displayAddress": "M.P. 2020 poz. 1067",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 19 listopada 2020 r. w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2019 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-11-19",
+  "promulgation": "2020-11-23",
+  "changeDate": "2020-11-24T11:35:31",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne",
+   "województwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1995/654"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1995/654",
+     "art": "art. 30 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20201067.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20201067.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
