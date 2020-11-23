@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/1064",
+ "source_sha256": "66a4d6c1dbacf8c4577ab2614c3aa23ea91c15a937ac1671d734b2f7c07c6f08",
+ "in_force": "2020-11-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/1064",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/1064/text/O/M20201064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/1064/text/I/M20201064.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/1064",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1064,
+  "address": "WMP20200001064",
+  "displayAddress": "M.P. 2020 poz. 1064",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 listopada 2020 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 1 z siedzibą Okręgowej Komisji Wyborczej w Legnicy",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-11-18",
+  "promulgation": "2020-11-23",
+  "changeDate": "2020-11-24T11:35:31",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20201064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20201064.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
