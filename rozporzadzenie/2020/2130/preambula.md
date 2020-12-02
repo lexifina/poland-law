@@ -1,0 +1,1 @@
+Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2019 r. poz. 59 oraz z 2020 r. poz. 322, 374, 567, 1337 i 2112) zarządza się, co następuje:
