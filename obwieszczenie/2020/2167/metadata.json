@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/2167",
+ "source_sha256": "7a52a4b574d60d14edc60f50f173cb7148dd969771f54d0fd7987cfb48052ac9",
+ "in_force": "2020-12-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/2167",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/2167/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/2167/text/O/D20202167.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/2167/text/I/D20202167.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/2167/text/T/D20202167L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/2167/text/U/D20202167Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/2167",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 2167,
+  "address": "WDU20200002167",
+  "displayAddress": "Dz.U. 2020 poz. 2167",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o fundacjach",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-11-18",
+  "promulgation": "2020-12-04",
+  "expirationDate": "2023-01-22",
+  "changeDate": "2024-03-14T13:09:34",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1984/97"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20202167.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20202167.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20202167L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20202167Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
