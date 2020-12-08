@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/1120",
+ "source_sha256": "04c4deb8d651322db9a9a99a4799243146688afa5f06dd5f6137c01e050b3a31",
+ "in_force": "2020-12-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/1120",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/1120/text/O/M20201120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/1120/text/I/M20201120.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/1120",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1120,
+  "address": "WMP20200001120",
+  "displayAddress": "M.P. 2020 poz. 1120",
+  "title": "Zarządzenie nr 240 Prezesa Rady Ministrów z dnia 4 grudnia 2020 r. zmieniające zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów",
+  "type": "Zarządzenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2020-12-04",
+  "promulgation": "2020-12-07",
+  "entryIntoForce": "2020-12-08",
+  "repealDate": "2022-01-01",
+  "changeDate": "2022-01-03T09:56:54",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Komitet Ekonomiczny Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2021/1203",
+     "date": "2022-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "MP/2016/946",
+     "date": "2020-12-08"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 12 ust. 1 pkt 1 i ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20201120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20201120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
