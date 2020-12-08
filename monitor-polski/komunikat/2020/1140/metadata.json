@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2020/1140",
+ "source_sha256": "e25e58c8ab065e5874903df3e0bd04711ee75101d11b8539dfa03f04062413a1",
+ "in_force": "2020-12-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2020/1140",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2020/1140/text/O/M20201140.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2020/1140/text/I/M20201140.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2020/1140",
+  "publisher": "MP",
+  "year": 2020,
+  "volume": 0,
+  "pos": 1140,
+  "address": "WMP20200001140",
+  "displayAddress": "M.P. 2020 poz. 1140",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 2 grudnia 2020 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-12-02",
+  "promulgation": "2020-12-08",
+  "changeDate": "2020-12-09T10:54:46",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20201140.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20201140.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
