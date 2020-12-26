@@ -1,0 +1,1 @@
+Na podstawie art. 36 ust. 5 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2019 r. poz. 2181 oraz z 2020 r. poz. 284, 875 i 1709) zarządza się, co następuje:
