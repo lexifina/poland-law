@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2020/2398",
+ "source_sha256": "80637ba5292c08b3dae93c120bf44833b88be8c45d515c6704237aa8e65fee44",
+ "in_force": "2020-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2020/2398",
+  "html": "https://eli.gov.pl/api/acts/DU/2020/2398/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2020/2398/text/O/D20202398.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2020/2398/text/I/D20202398.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2020/2398/text/T/D20202398L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2020/2398/text/U/D20202398Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2020/2398",
+  "publisher": "DU",
+  "year": 2020,
+  "volume": 0,
+  "pos": 2398,
+  "address": "WDU20200002398",
+  "displayAddress": "Dz.U. 2020 poz. 2398",
+  "title": "Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-11-27",
+  "promulgation": "2020-12-29",
+  "entryIntoForce": "2020-12-31",
+  "changeDate": "2026-01-21T09:23:25",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "muzea",
+   "kopalnie",
+   "dotacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=768",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/768",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/768",
+    "number": "768",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/36",
+     "date": "2026-01-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2013/1160",
+     "date": "2020-12-31"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20202398.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20202398.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20202398L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20202398Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
