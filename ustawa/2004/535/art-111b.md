@@ -1,6 +1,6 @@
 # Art. 111b.
 
-1. Ewidencja sprzedaży, o której mowa w art. 111 ust. 1, w odniesieniu do niektórych grup podatników lub rodzajów czynności może być prowadzona przy użyciu kas rejestrujących mających postać oprogramowania, spełniających wymagania, o których mowa w przepisach wydanych na podstawie ust. 3 pkt 2.
+1. Ewidencja sprzedaży, o której mowa w art. 111 ust. 1, w odniesieniu do określonych grup podatników lub rodzajów czynności może być prowadzona przy użyciu kas rejestrujących mających postać oprogramowania, spełniających wymagania, o których mowa w przepisach wydanych na podstawie ust. 3 pkt 2.
 
 2. Do kas rejestrujących, o których mowa w ust. 1, przepisy art. 111 i art. 111a stosuje się odpowiednio.
 

@@ -30,7 +30,9 @@
 
 11. Wpływy z kar pieniężnych, o których mowa w ust. 8 i 10, stanowią dochód budżetu państwa. Karę pieniężną uiszcza się, bez wezwania naczelnika urzędu skarbowego, na rachunek bankowy właściwego urzędu skarbowego w terminie 14 dni od dnia doręczenia decyzji o jej wymierzeniu.
 
-12. Przepisy art. 111 ust. 1, 1b-3, ust. 3a pkt 1-4, 6-9, 11 i 13, ust. 3b, 3c, 3d, ust. 6a zdanie drugie, ust. 6c-6f i 6g-6i stosuje się odpowiednio.
+11a. W zakresie nieuregulowanym w ust. 8-11 do kar pieniężnych stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej.
+
+12. Przepisy art. 111 ust. 1, 1b-3, ust. 3a pkt 1 lit. a, pkt 2-4, 6-9, 11 i 13, ust. 3b-3d, ust. 6a zdanie drugie, ust. 6c-6f i 6g-6i stosuje się odpowiednio.
 
 13. Podmioty prowadzące serwis kas rejestrujących z elektronicznym i papierowym zapisem kopii są obowiązane składać do właściwego dla podatnika naczelnika urzędu skarbowego wykazy obowiązkowych przeglądów technicznych tych kas w terminie do 15. dnia miesiąca następującego po miesiącu, w którym został dokonany przegląd. Wykaz ten zawiera imię i nazwisko lub nazwę i numer identyfikacji podatkowej podmiotu prowadzącego serwis i podatnika, numer ewidencyjny i numer unikatowy kasy rejestrującej oraz datę dokonania przeglądu.
 

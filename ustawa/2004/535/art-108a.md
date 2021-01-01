@@ -6,15 +6,15 @@
 
 1. Podatnicy, którzy otrzymali fakturę z wykazaną kwotą podatku, przy dokonywaniu płatności kwoty należności wynikającej z tej faktury mogą zastosować mechanizm podzielonej płatności.
 
-1a. Przy dokonywaniu płatności za nabyte towary lub usługi wymienione w załączniku nr 15 do ustawy, udokumentowane fakturą, w której kwota należności ogółem stanowi kwotę, o której mowa w art. 19 pkt 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, podatnicy są obowiązani zastosować mechanizm podzielonej płatności.
+1a. Przy dokonywaniu płatności za nabyte towary lub usługi wymienione w załączniku nr 15 do ustawy, udokumentowane fakturą, w której kwota należności ogółem przekracza kwotę 15 000 zł lub jej równowartość wyrażoną w walucie obcej, podatnicy są obowiązani zastosować mechanizm podzielonej płatności. Do przeliczania na złote kwot wyrażonych w walucie obcej stosuje się zasady przeliczania kwot stosowane w celu określenia podstawy opodatkowania.
 
 1b. Podatnik obowiązany do wystawienia faktury, o której mowa w art. 106e ust. 1 pkt 18a, jest obowiązany do przyjęcia płatności kwoty należności wynikającej z tej faktury z zastosowaniem mechanizmu podzielonej płatności.
 
 1c. Przepisy ust. 1-1b stosuje się odpowiednio do płatności, o których mowa w art. 19a ust. 8. W takim przypadku w komunikacie przelewu, o którym mowa w ust. 3, podatnik w miejsce informacji, o której mowa w ust. 3 pkt 3, wpisuje wyraz „zaliczka”.
 
-1d. W przypadku dokonania potrącenia, o którym mowa w art. 498 Kodeksu cywilnego, przepisów ust. 1a i 1b nie stosuje się w zakresie, w jakim kwoty należności są potrącane.
+1d. W przypadku dokonania potrącenia wierzytelności przepisów ust. 1a i 1b nie stosuje się w zakresie, w jakim kwoty należności są potrącane.
 
-1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2019 r. poz. 1445, 1572 i 2020), jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
+1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275), jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
 
 2. Zastosowanie mechanizmu podzielonej płatności polega na tym, że:
 
@@ -41,6 +41,14 @@
 - 2) zawiera kwotę odpowiadającą sumie kwot podatku wykazanych w fakturach, o których mowa w pkt 1.
 
 3c. W przypadku, o którym mowa w ust. 3a, w komunikacie przelewu, o którym mowa w ust. 3, w miejsce informacji, o której mowa w ust. 3 pkt 3, wpisuje się okres, za który dokonywana jest płatność.
+
+3d. W przypadku wpłaty kwoty odpowiadającej kwocie podatku oraz należności celnych na rzecz przedstawiciela bezpośredniego lub pośredniego w rozumieniu przepisów celnych w komunikacie przelewu, o którym mowa w ust. 3, w miejsce informacji, o których mowa w ust. 3:
+
+- 1) pkt 1 i 2 - wskazuje się kwotę odpowiadającą kwocie podatku oraz należności celnych, która ma zostać zapłacona w mechanizmie podzielonej płatności;
+
+- 2) pkt 3 - wskazuje się numer dokumentu związanego z płatnością wystawionego przez przedstawiciela bezpośredniego lub pośredniego w rozumieniu przepisów celnych;
+
+- 3) pkt 4 - wskazuje się numer, za pomocą którego przedstawiciel bezpośredni lub pośredni w rozumieniu przepisów celnych jest zidentyfikowany na potrzeby podatku.
 
 4. W przypadkach określonych w art. 29a ust. 10 pkt 1-3 i ust. 14 zwrot całości albo części zapłaty może być dokonywany przy użyciu komunikatu przelewu, o którym mowa w ust. 3, w którym podatnik w miejsce informacji, o której mowa w ust. 3 pkt 4, wskazuje numer, za pomocą którego nabywca towaru lub usługobiorca jest zidentyfikowany na potrzeby podatku.
 

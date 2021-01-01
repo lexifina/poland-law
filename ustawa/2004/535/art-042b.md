@@ -6,7 +6,7 @@
 
 - 2) podmiotu innego niż wymieniony w pkt 1, dokonującego lub zamierzającego dokonywać czynności, o których mowa w art. 42a;
 
-- 3) zamawiającego w rozumieniu ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843) - w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym.
+- 3) zamawiającego w rozumieniu ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086) - w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym.
 
 2. Wniosek o wydanie WIS zawiera:
 
@@ -39,5 +39,9 @@
 7. Do wniosku o wydanie WIS można dołączyć dokumenty odnoszące się do towaru albo usługi, w szczególności fotografie, plany, schematy, katalogi, atesty, instrukcje, informacje od producenta lub inne dostępne dokumenty umożliwiające organowi wydającemu WIS dokonanie właściwej klasyfikacji towaru albo usługi.
 
 8. Na wezwanie organu wydającego WIS wnioskodawca jest obowiązany do dostarczenia, w terminie 7 dni od dnia doręczenia wezwania, próbki towaru, w przypadku gdy jest to niezbędne dla dokonania prawidłowej klasyfikacji towaru. W przypadku niedostarczenia próbki towaru w terminie określonym w wezwaniu organ wydający WIS wydaje postanowienie o pozostawieniu wniosku o wydanie WIS bez rozpatrzenia.
+
+8a. Nie wydaje się WIS, jeżeli zakres przedmiotowy wniosku o wydanie WIS, w dniu złożenia tego wniosku, jest przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego.
+
+8b. W przypadku, o którym mowa w ust. 8a, wydaje się postanowienie, na które służy zażalenie.
 
 9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku o wydanie WIS, mając na względzie ujednolicenie formy składanych wniosków oraz zapewnienie sprawnej obsługi wnioskodawców.

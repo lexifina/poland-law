@@ -21,3 +21,9 @@
 - jeżeli żądanie jej wystawienia zostało zgłoszone w terminie 3 miesięcy, licząc od końca miesiąca, w którym dostarczono towar lub wykonano usługę bądź otrzymano całość lub część zapłaty.
 
 4. Do świadczenia usług, o których mowa w art. 106a pkt 3, przepis ust. 3 pkt 1 stosuje się odpowiednio.
+
+5. W przypadku sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej potwierdzonej paragonem fiskalnym fakturę na rzecz podatnika podatku lub podatku od wartości dodanej wystawia się wyłącznie, jeżeli paragon potwierdzający dokonanie tej sprzedaży zawiera numer, za pomocą którego nabywca towarów lub usług jest zidentyfikowany na potrzeby podatku lub podatku od wartości dodanej.
+
+6. W przypadku stwierdzenia, że podatnik wystawił fakturę z naruszeniem ust. 5, organ podatkowy ustala temu podatnikowi dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 100% kwoty podatku wykazanego na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+
+7. Przepisów ust. 5 i 6 nie stosuje się do podatników świadczących usługi taksówek osobowych, z wyłączeniem wynajmu samochodów osobowych z kierowcą (PKWiU 49.32.11.0).

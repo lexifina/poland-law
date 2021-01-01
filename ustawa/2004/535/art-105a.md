@@ -20,7 +20,7 @@
 
 - 4) (uchylony)
 
-- 5) do nabycia towarów, udokumentowanego fakturą, w której kwota należności ogółem stanowi kwotę, o której mowa w art. 19 pkt 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495);
+- 5) do nabycia towarów udokumentowanego fakturą, w której kwota należności ogółem przekracza kwotę 15 000 zł lub jej równowartość wyrażoną w walucie obcej, przy czym do przeliczania na złote kwot wyrażonych w walucie obcej stosuje się zasady przeliczania kwot stosowane w celu określenia podstawy opodatkowania;
 
 - 6) do nabycia towarów, za które podatnik dokonał zapłaty z zastosowaniem mechanizmu podzielonej płatności.
 

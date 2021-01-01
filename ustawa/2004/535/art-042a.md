@@ -8,7 +8,7 @@ Wiążąca informacja stawkowa, zwana dalej „WIS”, jest decyzją wydawaną n
 
 - 1) opis towaru albo usługi będących przedmiotem WIS;
 
-- 2) klasyfikację towaru według działu, pozycji, podpozycji lub kodu Nomenklatury scalonej (CN) albo według sekcji, działu, grupy lub klasy Polskiej Klasyfikacji Obiektów Budowlanych albo usługi według działu, grupy, klasy, kategorii, podkategorii lub pozycji Polskiej Klasyfikacji Wyrobów i Usług niezbędną do:
+- 2) klasyfikację towaru według działu, pozycji, podpozycji lub kodu Nomenklatury scalonej (CN) albo według działu, grupy, klasy, kategorii, podkategorii lub pozycji Polskiej Klasyfikacji Wyrobów i Usług albo według sekcji, działu, grupy lub klasy Polskiej Klasyfikacji Obiektów Budowlanych albo usługi według działu, grupy, klasy, kategorii, podkategorii lub pozycji Polskiej Klasyfikacji Wyrobów i Usług, niezbędną do:
 
   - a) określenia stawki podatku właściwej dla towaru albo usługi,
 

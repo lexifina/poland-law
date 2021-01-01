@@ -10,4 +10,12 @@
 
 - 4) stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4%.
 
+1a. Jeżeli w roku następującym po roku, dla którego osiągnięte zostały wartości, o których mowa w ust. 1, zostaną spełnione warunki, o których mowa w art. 112d ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, stosowanie stawek, o których mowa w ust. 1, przedłuża się do końca roku następującego po roku, w którym:
+
+- 1) kwota wydatków jest obliczana zgodnie z art. 112aa ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w związku ze spełnieniem warunków, o których mowa w art. 112d ust. 4 tej ustawy, oraz
+
+- 2) wartość relacji, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, jest nie większa niż 43% oraz wartość, o której mowa w art. 112aa ust. 5 tej ustawy, jest nie mniejsza niż -6%.
+
 2. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, koniec okresu obowiązywania stawek podatku, o których mowa w ust. 1, w terminie do dnia 31 października roku następującego po roku, dla którego zostały spełnione warunki określone w ust. 1.
+
+3. W przypadku wystąpienia przesłanek, o których mowa w ust. 1a, termin, o którym mowa w ust. 2, przedłuża się do dnia 31 października roku następującego po roku, w którym są spełnione warunki, o których mowa w ust. 1a.

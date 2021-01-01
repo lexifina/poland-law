@@ -1,6 +1,6 @@
 # Art. 30a.
 
-1. Do ustalenia podstawy opodatkowania w przypadku wewnątrzwspólnotowego nabycia towarów, w tym dokonywanego na podstawie art. 12 ust. 4-6 , stosuje się odpowiednio przepisy art. 29a ust. 1-1b, 6, 7, 10 i 11.
+1. Do ustalenia podstawy opodatkowania w przypadku wewnątrzwspólnotowego nabycia towarów stosuje się odpowiednio przepisy art. 29a ust. 1-1b, 6, 7, 10, 11 i 17.
 
 2. Do ustalenia podstawy opodatkowania w przypadkach, o których mowa w art. 11, stosuje się odpowiednio art. 29a ust. 2.
 

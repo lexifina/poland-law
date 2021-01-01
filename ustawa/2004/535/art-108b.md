@@ -26,6 +26,22 @@
 
   - b) wystąpi zaległość podatkowa z tytułu podatków i należności, o których mowa w art. 62b ust. 2 pkt 2 lit. a ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, lub zostanie ustalone dodatkowe zobowiązanie podatkowe.
 
-6. Podatnik będący państwową jednostką budżetową dysponuje środkami zgromadzonymi na rachunkach VAT prowadzonych dla rachunków rozliczeniowych, o których mowa w art. 196 ust. 1 pkt 2 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622, 1649 i 2020), na podstawie przepisów tej ustawy.
+6. Podatnik będący państwową jednostką budżetową dysponuje środkami zgromadzonymi na rachunkach VAT prowadzonych dla rachunków rozliczeniowych, o których mowa w art. 196 ust. 1 pkt 2 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305), na podstawie przepisów tej ustawy.
 
 7. W przypadku rozwiązania spółki cywilnej lub spółki handlowej niemającej osobowości prawnej z wnioskiem, o którym mowa w ust. 1, mogą wystąpić również osoby, które były wspólnikami tych spółek. Przepisy ust. 2-5 stosuje się odpowiednio.
+
+8. Z wnioskiem, o którym mowa w ust. 1, może wystąpić również podmiot niebędący podatnikiem:
+
+- 1) posiadający środki na rachunku VAT, przy czym przepisy ust. 2-5 stosuje się odpowiednio;
+
+- 2) nieposiadający siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, przy czym przepisy ust. 2-4 stosuje się odpowiednio.
+
+9. W przypadku, o którym mowa w ust. 8:
+
+- 1) pkt 1, właściwym organem podatkowym jest naczelnik urzędu skarbowego:
+
+  - a) właściwy według adresu miejsca zamieszkania - w przypadku osoby fizycznej,
+
+  - b) właściwy według adresu siedziby - w przypadku podmiotu niebędącego osobą fizyczną;
+
+- 2) pkt 2, właściwym organem podatkowym jest naczelnik drugiego urzędu skarbowego.

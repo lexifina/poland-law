@@ -18,7 +18,7 @@
 
 - 2) nie złożył deklaracji podatkowej oraz nie wpłacił kwoty zobowiązania podatkowego
 
-- naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego określa odpowiednio wysokość tych kwot w prawidłowej wysokości oraz ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty zaniżenia zobowiązania podatkowego albo kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
+- naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego określa odpowiednio wysokość tych kwot w prawidłowej wysokości oraz ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty zaniżenia zobowiązania podatkowego, kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
 
 2. Jeżeli po zakończeniu kontroli podatkowej lub kontroli celno-skarbowej w przypadkach, o których mowa w:
 
@@ -26,9 +26,9 @@
 
 - 2) ust. 1 pkt 2, podatnik złożył deklarację podatkową i najpóźniej w dniu złożenia tej deklaracji wpłacił kwotę zobowiązania podatkowego
 
-- wysokość dodatkowego zobowiązania podatkowego wynosi 20% kwoty zaniżenia zobowiązania podatkowego albo kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
+- wysokość dodatkowego zobowiązania podatkowego wynosi 20% kwoty zaniżenia zobowiązania podatkowego, kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
 
-2a. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 1, podatnik skorygował deklarację zgodnie z art. 62 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768, 730, 1520, 1556 i 2200) i najpóźniej w dniu złożenia tej korekty deklaracji wpłacił kwotę zobowiązania podatkowego lub zwrócił nienależną kwotę zwrotu, wysokość dodatkowego zobowiązania podatkowego wynosi 15% kwoty zaniżenia zobowiązania podatkowego albo kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
+2a. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 1, podatnik skorygował deklarację zgodnie z art. 62 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422 i 464) i najpóźniej w dniu złożenia tej korekty deklaracji wpłacił kwotę zobowiązania podatkowego lub zwrócił nienależną kwotę zwrotu, wysokość dodatkowego zobowiązania podatkowego wynosi 15% kwoty zaniżenia zobowiązania podatkowego, kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
 
 3. Przepisów ust. 1-2a nie stosuje się:
 

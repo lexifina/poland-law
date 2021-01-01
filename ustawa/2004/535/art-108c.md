@@ -1,6 +1,6 @@
 # Art. 108c.
 
-1. Do wysokości kwoty odpowiadającej kwocie podatku wynikającej z otrzymanej faktury, zapłaconej z zastosowaniem mechanizmu podzielonej płatności, przepisów art. 112b ust. 1 pkt 1 i ust. 2 pkt 1 oraz art. 112c nie stosuje się.
+1. Do wysokości kwoty odpowiadającej kwocie podatku wynikającej z otrzymanej faktury, zapłaconej z zastosowaniem mechanizmu podzielonej płatności, przepisów art. 112b ust. 1 pkt 1, ust. 2 pkt 1 i ust. 2a oraz art. 112c nie stosuje się.
 
 2. Do zaległości w podatku powstałej za okres rozliczeniowy, za który podatnik w złożonej deklaracji podatkowej wykazał kwotę podatku naliczonego, której co najmniej 95% wynika z otrzymanych przez podatnika faktur, które zostały zapłacone z zastosowaniem mechanizmu podzielonej płatności, przepisu art. 56b Ordynacji podatkowej nie stosuje się.
 

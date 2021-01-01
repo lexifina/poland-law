@@ -26,7 +26,9 @@
 
   - e) prawniczych,
 
-  - f) związanych z działalnością obiektów służących poprawie kondycji fizycznej - wyłącznie w zakresie wstępu.
+  - f) związanych z działalnością obiektów służących poprawie kondycji fizycznej - wyłącznie w zakresie wstępu;
+
+- 4) do dnia 31 grudnia 2021 r. - do sprzedaży towarów w systemie zwrotu podatku podróżnym, o którym mowa w przepisach działu XII rozdziału 6.
 
 2. Przepis ust. 1 stosuje się tylko do kas rejestrujących, przy zastosowaniu których jest prowadzona ewidencja sprzedaży w zakresie sprzedaży towarów lub świadczenia usług wymienionych w ust. 1.
 
@@ -36,7 +38,9 @@
 
 - 2) 1 lipca 2020 r. - dla podatników, o których mowa w ust. 1 pkt 2;
 
-- 3) 1 stycznia 2021 r. - dla podatników, o których mowa w ust. 1 pkt 3.
+- 3) 1 stycznia 2021 r. - dla podatników, o których mowa w ust. 1 pkt 3;
+
+- 4) 1 stycznia 2022 r. - dla podatników, o których mowa w ust. 1 pkt 4.
 
 4. Terminy określone w ust. 1 i 3 mogą zostać przedłużone w przypadku niewystarczających możliwości techniczno-organizacyjnych przesyłania danych między kasami rejestrującymi a Centralnym Repozytorium Kas.
 
