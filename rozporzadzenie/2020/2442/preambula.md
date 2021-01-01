@@ -1,0 +1,1 @@
+Na podstawie art. 41 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293 oraz z 2020 r. poz. 2023 i 2369) zarządza się, co następuje:
