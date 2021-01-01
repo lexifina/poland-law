@@ -1,0 +1,1 @@
+Na podstawie art. 17 § 2, art. 18 § 2, art. 22 § 6, art. 48 § 3, art. 67e i art. 75 § 7 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122, 2123 i 2320) zarządza się, co następuje:
