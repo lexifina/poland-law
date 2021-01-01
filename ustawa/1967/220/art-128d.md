@@ -1,0 +1,3 @@
+# Art. 128d.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb przyznawania i wypłacania zasiłków na utrzymanie członków rodziny, o których mowa w art. 128 ust. 1 i art. 128a ust. 1. Rozporządzenie powinno określać szczegółowy wykaz podmiotów uprawnionych do pobierania zasiłku, organy upoważnione do wydania decyzji o przyznaniu zasiłku, dokumenty wymagane do wydania decyzji o przyznaniu zasiłku, sposób postępowania z dokumentacją przy przeniesieniu żołnierza do innej jednostki wojskowej lub osoby odbywającej zasadniczą służbę w obronie cywilnej do innej jednostki organizacyjnej, a także termin wypłaty oraz okres pobierania zasiłku.

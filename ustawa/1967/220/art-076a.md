@@ -1,0 +1,7 @@
+# Art. 76a.
+
+1. Osobę posiadającą stopień policyjny, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Więziennej lub Straży Granicznej, powołaną na jej wniosek lub za jej zgodą do odbycia ćwiczeń wojskowych lub pełnienia służby przygotowawczej, okresowej służby wojskowej lub służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny, można mianować na stopień wojskowy określony dla stanowiska służbowego, na które została wyznaczona, równorzędny z posiadanym stopniem w odpowiedniej służbie, jeżeli przemawiają za tym potrzeby Sił Zbrojnych.
+
+2. Osobę, o której mowa w ust. 1, powołaną na jej wniosek lub za jej zgodą do odbycia ćwiczeń wojskowych lub pełnienia służby przygotowawczej, okresowej służby wojskowej lub służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny, mianuje się na odpowiedni stopień wojskowy na zasadach określonych dla żołnierzy rezerwy w czasie odbywania tych ćwiczeń lub pełnienia tej służby, jeśli spełnia warunki do tego mianowania.
+
+3. Rada Ministrów określi, w drodze rozporządzenia, stopnie policyjne, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Więziennej lub Straży Granicznej odpowiadające poszczególnym stopniom wojskowym. Rozporządzenie powinno uwzględniać równorzędność pierwszych stopni w poszczególnych korpusach.

@@ -1,0 +1,7 @@
+# Art. 132a.
+
+1. Żołnierzom, którzy odbyli zasadniczą służbę wojskową w ustalonym czasie jej trwania na stanowiskach służbowych lub funkcjach wojskowych odpowiadających ich kwalifikacjom nabytym przed powołaniem do tej służby, wypłaca się ekwiwalent pieniężny z tytułu poniesionych przed powołaniem do tej służby kosztów związanych z uzyskaniem kwalifikacji przydatnych w Siłach Zbrojnych, zrewaloryzowany o prognozowany w ustawie budżetowej na dany rok wskaźnik cen towarów i usług konsumpcyjnych obowiązujący w dniu zwolnienia żołnierza ze służby.
+
+2. Ekwiwalent pieniężny, o którym mowa w ust. 1, wypłaca na wniosek żołnierza wojskowy komendant uzupełnień w ciągu czternastu dni od dnia złożenia wniosku, pod warunkiem że wniosek został złożony nie później niż w terminie trzydziestu dni od dnia zwolnienia żołnierza z zasadniczej służby wojskowej. Należności te są pokrywane z części budżetu państwa, której dysponentem jest Minister Obrony Narodowej.
+
+3. Podstawę wypłaty należności z tytułu uzyskania kwalifikacji stanowi umowa zawarta między wojskowym komendantem uzupełnień a osobą podlegającą obowiązkowi odbycia zasadniczej służby wojskowej, na podstawie której osoba ta zobowiązała się do uzyskania przed powołaniem do tej służby określonych kwalifikacji, a wojskowy komendant uzupełnień zobowiązał się do powołania jej do tej służby na stanowisko służbowe lub funkcję wojskową odpowiadające uzyskanym kwalifikacjom.
