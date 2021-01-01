@@ -4,7 +4,7 @@
 
 § 1. Sąd penitencjarny może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
 
-- 1) wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą jednego roku, a nie zachodzą warunki przewidziane w art. 64 § 2 Kodeksu karnego;
+- 1) wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą jednego roku i 6 miesięcy, a nie zachodzą warunki przewidziane w art. 64 § 2 Kodeksu karnego;
 
 - 2) jest to wystarczające do osiągnięcia celów kary;
 
@@ -22,4 +22,4 @@
 
 § 5. Na postanowienie, o którym mowa w § 4, osobie, która nie wyraziła zgody, przysługuje zażalenie.
 
-§ 6. Przepisy § 1-5 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno, nieprzekraczających w sumie jednego roku.
+§ 6. Przepisy § 1-5 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno, nieprzekraczających w sumie jednego roku i 6 miesięcy.
