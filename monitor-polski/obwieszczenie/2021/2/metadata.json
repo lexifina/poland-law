@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/2",
+ "source_sha256": "e908f48df38b40270986ec47091e4ee1e0a973dd712ef0786d0243468aca98d5",
+ "in_force": "2021-01-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/2/text/O/M20210002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/2/text/I/M20210002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/2",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 2,
+  "address": "WMP20210000002",
+  "displayAddress": "M.P. 2021 poz. 2",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 10 grudnia 2020 r. o wolnym stanowisku sędziego w Wojewódzkim Sądzie Administracyjnym w Łodzi",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-12-10",
+  "promulgation": "2021-01-04",
+  "changeDate": "2021-01-05T11:24:22",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1269"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1269",
+     "art": "art. 29 par. 1 pkt 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
