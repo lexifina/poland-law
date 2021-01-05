@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2021/24",
- "source_sha256": "9c016d9fd6aa1fdd7cf91262c84f1e1f6841e76a1aaa712f08be5b7d9b2568a1",
+ "source_sha256": "ab3ac63186835c8612a1418ed0db4ef31afa76bdb38de787bf0f5a8c15e59827",
  "in_force": "2021-01-05",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -24,11 +24,12 @@
   "displayAddress": "Dz.U. 2021 poz. 24",
   "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach biobójczych",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2020-12-02",
   "promulgation": "2021-01-05",
-  "changeDate": "2026-02-17T11:58:18",
+  "expirationDate": "2026-11-15",
+  "changeDate": "2026-11-17T10:04:19",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -83,16 +84,6 @@
   ],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2025/1716",
-     "date": "2025-11-07"
-    },
-    {
-     "id": "DU/2025/1709",
-     "date": "2025-11-07"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
