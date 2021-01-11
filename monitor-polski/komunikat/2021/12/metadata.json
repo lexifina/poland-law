@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/12",
+ "source_sha256": "fa50e956a97975cbc9e06d565b456f9ca2a78b8a0caec5f69b3f61bc7e15001e",
+ "in_force": "2021-01-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/12",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/12/text/O/M20210012.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/12/text/I/M20210012.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/12",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 12,
+  "address": "WMP20210000012",
+  "displayAddress": "M.P. 2021 poz. 12",
+  "title": "Komunikat Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 grudnia 2020 r. o zmianach wprowadzonych do Programu Operacyjnego Polska Cyfrowa na lata 2014-2020",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-12-18",
+  "promulgation": "2021-01-11",
+  "changeDate": "2021-01-12T11:59:59",
+  "releasedBy": [
+   "MIN. FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cyfryzacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2006/1658"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2006/1658",
+     "art": "art. 14kb pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210012.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210012.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
