@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/20",
+ "source_sha256": "6c2f9f25e4806112260dd2d94bde9e6b875c820bb1704272896bcfa1a01a6fc3",
+ "in_force": "2021-01-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/20",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/20/text/O/M20210020.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/20/text/I/M20210020.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/20",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 20,
+  "address": "WMP20210000020",
+  "displayAddress": "M.P. 2021 poz. 20",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 25 listopada 2020 r. nr 110.49.2020 w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-11-25",
+  "promulgation": "2021-01-12",
+  "changeDate": "2021-01-13T10:56:21",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyplomatyczne stosunki",
+   "dyplomatyczne przedstawicielstwa"
+  ],
+  "keywordsNames": [
+   "Federacja Rosyjska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 133 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210020.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210020.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
