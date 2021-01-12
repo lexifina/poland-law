@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/24",
+ "source_sha256": "a27e8adaf5de25fa3192ae5f73fa52e0c7d6ad76d3fbaad2d69cb296ddb26395",
+ "in_force": "2021-01-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/24",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/24/text/O/M20210024.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/24/text/I/M20210024.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/24",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 24,
+  "address": "WMP20210000024",
+  "displayAddress": "M.P. 2021 poz. 24",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 11 stycznia 2021 r. w sprawie wskaźników zmian cen dla lokali mieszkalnych w trzecim kwartale 2020 r. z podziałem na województwa",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-01-11",
+  "promulgation": "2021-01-12",
+  "changeDate": "2025-07-08T11:14:16",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "lokal",
+   "wskaźnik",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/741"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/741",
+     "art": "art. 5 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210024.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210024.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
