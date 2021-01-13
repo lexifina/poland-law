@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/27",
+ "source_sha256": "4870b942d0441eac84c4e4755bc3d0474d589b7cfc7975dde64d2950cb7f5fd4",
+ "in_force": "2021-01-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/27",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/27/text/O/M20210027.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/27/text/I/M20210027.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/27",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 27,
+  "address": "WMP20210000027",
+  "displayAddress": "M.P. 2021 poz. 27",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 21 grudnia 2020 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-12-21",
+  "promulgation": "2021-01-13",
+  "changeDate": "2021-01-14T11:28:41",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "sądy okręgowe",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 20a par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210027.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210027.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
