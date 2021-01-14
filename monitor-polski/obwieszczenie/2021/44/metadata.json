@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/44",
+ "source_sha256": "66642cb3cc7be0f4ceb682cc2d7cc2dff0e1eba06ea24663fd74ef8c17bdb448",
+ "in_force": "2021-01-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/44",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/44/text/O/M20210044.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/44/text/I/M20210044.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/44",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 44,
+  "address": "WMP20210000044",
+  "displayAddress": "M.P. 2021 poz. 44",
+  "title": "Obwieszczenie Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. w sprawie wysokości opłaty od wniosku o włączenie kwalifikacji rynkowej do Zintegrowanego Systemu Kwalifikacji",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-01-12",
+  "promulgation": "2021-01-14",
+  "changeDate": "2021-01-15T11:31:48",
+  "releasedBy": [
+   "MIN. EDUKACJI I NAUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłaty"
+  ],
+  "keywordsNames": [
+   "Zintegrowany System Kwalifikacji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2016/64"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2016/64",
+     "art": "art. 17 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210044.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210044.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
