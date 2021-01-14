@@ -1,0 +1,1 @@
+Na podstawie art. 24 ust. 7 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2020 r. poz. 357, 945, 1493, 1875 i 2401) zarządza się, co następuje:
