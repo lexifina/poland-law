@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/49",
+ "source_sha256": "42ac8e61e69f9ba9f443867fba82801dd0c1bba92ed92b5eb5716f021111333b",
+ "in_force": "2021-01-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/49",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/49/text/O/M20210049.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/49/text/I/M20210049.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/49",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 49,
+  "address": "WMP20210000049",
+  "displayAddress": "M.P. 2021 poz. 49",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 18 grudnia 2020 r. nr 1130.60.2020 o powołaniu do pełnienia urzędu na stanowisku sędziego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2020-12-18",
+  "promulgation": "2021-01-15",
+  "changeDate": "2021-01-18T12:01:13",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "sądy administracyjne",
+   "sędziowie",
+   "sądy okręgowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 179"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210049.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210049.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
