@@ -1,0 +1,3 @@
+# Art. 52e.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, zakres, tryb i sposób przeprowadzania egzaminu referendarskiego oraz tryb powoływania i działania zespołu egzaminacyjnego i komisji egzaminacyjnej, a także wzór dyplomu złożenia egzaminu referendarskiego, mając na uwadze potrzebę przeprowadzenia obu etapów egzaminu referendarskiego, konieczność zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego tego egzaminu oraz zapewnienia jednakowych warunków jego składania wszystkim zdającym, a także umieszczenie na dyplomie liczby punktów uzyskanych z egzaminu referendarskiego.
