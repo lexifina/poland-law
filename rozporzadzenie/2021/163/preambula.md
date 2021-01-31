@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 11 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2020 r. poz. 859) zarządza się, co następuje:
