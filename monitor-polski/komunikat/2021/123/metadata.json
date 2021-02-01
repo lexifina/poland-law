@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/123",
+ "source_sha256": "13355f748a017724a870e5ee8ba2de5f36fa0f6be865dd8b48d1a6674c9baf49",
+ "in_force": "2021-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/123",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/123/text/O/M20210123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/123/text/I/M20210123.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/123",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 123,
+  "address": "WMP20210000123",
+  "displayAddress": "M.P. 2021 poz. 123",
+  "title": "Komunikat Prezesa Państwowej Agencji Atomistyki z dnia 28 stycznia 2021 r. w sprawie sytuacji radiacyjnej kraju w IV kwartale 2020 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-01-28",
+  "promulgation": "2021-02-01",
+  "changeDate": "2021-02-03T14:09:10",
+  "releasedBy": [
+   "PREZ. PAŃSTWOWEJ AGENCJI ATOMISTYKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "promieniowanie",
+   "atomowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/18"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/18",
+     "art": "art. 81"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210123.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
