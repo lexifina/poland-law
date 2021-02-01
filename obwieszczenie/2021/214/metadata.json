@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/214",
+ "source_sha256": "7e3c8c6f6e6f010f5ebf135ea33700e5593b76c17775e543e3ab1d8f86b7f1e1",
+ "in_force": "2021-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/214",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/214/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/214/text/O/D20210214.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/214/text/I/D20210214.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/214/text/T/D20210214L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/214/text/U/D20210214Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/214",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 214,
+  "address": "WDU20210000214",
+  "displayAddress": "Dz.U. 2021 poz. 214",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o infrastrukturze informacji przestrzennej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-01-22",
+  "promulgation": "2021-02-01",
+  "expirationDate": "2025-02-26",
+  "changeDate": "2025-02-28T09:25:12",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "geodezja i kartografia",
+   "planowanie przestrzenne"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32008R1205",
+    "date": "2008-12-03",
+    "title": "ROZPORZĄDZENIE KOMISJI (WE) NR 1205/2008 z dnia 3 grudnia 2008 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie metadanych (Tekst mający znaczenie dla EOG)"
+   },
+   {
+    "address": "32007L0002",
+    "date": "2007-03-14",
+    "title": "DYREKTYWA 2007/2/WE PARLAMENTU EUROPEJSKIEGO I RADY z dnia 14 marca 2007 r. ustanawiająca infrastrukturę informacji przestrzennej we Wspólnocie Europejskiej (INSPIRE)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/489"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210214.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210214.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20210214L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20210214Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
