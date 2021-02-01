@@ -1,0 +1,1 @@
+Na podstawie art. 15ggb ust. 1, art. 15zt ust. 1, art. 15zze⁵ ust. 1 oraz art. 31zy ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) zarządza się, co następuje:
