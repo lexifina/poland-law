@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/262",
+ "source_sha256": "8a97212fb27462e32f7e6c585bc15e620e1e2c9fbeb012b937d13df99632dfb5",
+ "in_force": "2021-02-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 236 words, parsed 89; at 89: 'prostuje się następujące błędy : 1 ) w tytule artykułu'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/262",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/262/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/262/text/O/D20210262.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/262/text/I/D20210262.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/262",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 262,
+  "address": "WDU20210000262",
+  "displayAddress": "Dz.U. 2021 poz. 262",
+  "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 2 lutego 2021 r. o sprostowaniu błędów",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-02-02",
+  "promulgation": "2021-02-09",
+  "changeDate": "2024-03-14T12:30:32",
+  "releasedBy": [
+   "MIN. SPRAW ZAGRANICZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "unikanie podwójnego opodatkowania",
+   "umowy międzynarodowe",
+   "sprostowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/443"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/443",
+     "art": "art. 18b"
+    }
+   ],
+   "Sprostowanie dla aktów": [
+    {
+     "id": "DU/1993/92"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210262.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210262.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
