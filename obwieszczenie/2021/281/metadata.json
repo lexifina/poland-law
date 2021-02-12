@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/281",
+ "source_sha256": "47e34f1bd493e2e82c4141b9c356b2719d2aa9407d59d831e8b4f54fc3dc3890",
+ "in_force": "2021-02-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/281",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/281/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/281/text/O/D20210281.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/281/text/I/D20210281.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/281/text/T/D20210281L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/281/text/U/D20210281Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/281",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 281,
+  "address": "WDU20210000281",
+  "displayAddress": "Dz.U. 2021 poz. 281",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks wykroczeń",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-01-22",
+  "promulgation": "2021-02-12",
+  "expirationDate": "2021-11-05",
+  "changeDate": "2024-03-14T12:35:35",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wykroczeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1971/114"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210281.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210281.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20210281L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20210281Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
