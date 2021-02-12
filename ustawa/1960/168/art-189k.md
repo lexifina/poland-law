@@ -32,10 +32,10 @@
 
 - 1) w zakresie warunków udzielania tej pomocy:
 
-  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, z późn. zm.),
+  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2020 r. poz. 814 i 1298),
 
-  - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy wykonawcze wydane na podstawie art. 139a ust. 4 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne;
+  - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298);
 
-- 2) w zakresie trybu udzielania tej pomocy - przepisy wykonawcze wydane na podstawie art. 139a ust. 4 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne.
+- 2) w zakresie trybu udzielania tej pomocy - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców.
 
 § 5. Rada Ministrów może określić, w drodze rozporządzenia, inne niż restrukturyzacja przeznaczenie pomocy, o której mowa w § 3 pkt 3 lit. c, udzielanej w formie ulg w wykonaniu administracyjnej kary pieniężnej oraz warunki i tryb udzielania tych ulg, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
