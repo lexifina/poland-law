@@ -1,0 +1,3 @@
+# § 8a.
+
+Pełnomocnictwo ogólne oraz zawiadomienie o zmianie, odwołaniu lub wypowiedzeniu pełnomocnictwa ogólnego może zostać złożone, z wykorzystaniem profilu użytkownika, ze skutkiem na koncie podmiotu, przez użytkownika będącego osobą umocowaną w sposób, o którym mowa w § 7 ust. 1, uprawnioną do działania w imieniu podmiotu w zakresie zgłoszenia pełnomocnictwa ogólnego, a w przypadku braku umocowania do działania w imieniu tego podmiotu, pod warunkiem złożenia do Szefa Krajowej Administracji Skarbowej pełnomocnictwa, z którego wynika umocowanie do działania w imieniu tego podmiotu w zakresie zgłoszenia pełnomocnictwa ogólnego.
