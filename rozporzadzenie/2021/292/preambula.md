@@ -1,0 +1,1 @@
+Na podstawie art. 24 ust. 4 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 2140) zarządza się, co następuje:
