@@ -1,0 +1,1 @@
+Na podstawie art. 21c ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401 oraz z 2021 r. poz. 159, 180 i 255) zarządza się, co następuje:
