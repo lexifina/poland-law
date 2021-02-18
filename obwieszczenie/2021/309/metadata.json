@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/309",
+ "source_sha256": "8b20a3147f84062d8fa1c49c86ee5125a0c23b6ca7542527b18f1a62ef8915a0",
+ "in_force": "2021-02-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/309",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/309/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/309/text/O/D20210309.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/309/text/I/D20210309.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/309",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 309,
+  "address": "WDU20210000309",
+  "displayAddress": "Dz.U. 2021 poz. 309",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 1 lutego 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-02-01",
+  "promulgation": "2021-02-18",
+  "expirationDate": "2022-08-11",
+  "changeDate": "2024-03-14T12:35:00",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "dokumenty",
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2004/443"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210309.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210309.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
