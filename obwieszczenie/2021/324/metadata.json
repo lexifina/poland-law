@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/324",
+ "source_sha256": "bc2cdafa91824dceebaf21f96b3360f4768f6abcd99707b2d467ce27d9045ff5",
+ "in_force": "2021-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/324",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/324/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/324/text/O/D20210324.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/324/text/I/D20210324.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/324/text/T/D20210324L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/324/text/U/D20210324Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/324",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 324,
+  "address": "WDU20210000324",
+  "displayAddress": "Dz.U. 2021 poz. 324",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo własności przemysłowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-01-20",
+  "promulgation": "2021-02-19",
+  "expirationDate": "2023-06-22",
+  "changeDate": "2024-03-14T12:24:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "własność przemysłowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/508"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210324.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210324.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20210324L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20210324Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
