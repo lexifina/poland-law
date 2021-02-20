@@ -30,7 +30,7 @@
 
 11. Przepisy niniejszego artykułu nie mają zastosowania do osób, które lub do których:
 
-- 1) w poprzednim roku kalendarzowym miały zastosowanie przepisy dotyczące zryczałtowanego podatku dochodowego w formie karty podatkowej i które korzystały ze zwolnienia sprzedaży od podatku od towarów i usług na podstawie art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106);
+- 1) w poprzednim roku kalendarzowym miały zastosowanie przepisy dotyczące zryczałtowanego podatku dochodowego w formie karty podatkowej i które korzystały ze zwolnienia sprzedaży od podatku od towarów i usług na podstawie art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, z późn. zm.);
 
 - 2) spełniają warunki określone w art. 18a;
 
