@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/221",
+ "source_sha256": "9058bd46bb99c47b941a86f4cf3bcfdf9d1f41fb96f94aa48fb8fb25425e96bc",
+ "in_force": "2021-02-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/221",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/221/text/O/M20210221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/221/text/I/M20210221.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/221",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 221,
+  "address": "WMP20210000221",
+  "displayAddress": "M.P. 2021 poz. 221",
+  "title": "Obwieszczenie Ministra Rodziny i Polityki Społecznej z dnia 23 lutego 2021 r. w sprawie wysokości opłaty za wydanie duplikatu Karty Dużej Rodziny oraz wysokości kosztów gminy związanych z przyznaniem tej Karty oraz wydaniem jej duplikatu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-02-23",
+  "promulgation": "2021-02-26",
+  "changeDate": "2021-03-01T14:22:06",
+  "releasedBy": [
+   "MIN. RODZINY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "duplikat",
+   "dokumenty"
+  ],
+  "keywordsNames": [
+   "Karta Dużej Rodziny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2014/1863"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2014/1863",
+     "art": "art. 30 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210221.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
