@@ -1,0 +1,1 @@
+Na podstawie art. 82 ust. 7 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2020 r. poz. 2080) zarządza się, co następuje:
