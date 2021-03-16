@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/280",
+ "source_sha256": "99dec8b51f52fd7b28c4d9990b7ec9a54b106dded3fb6909470b8b5c6ff185ce",
+ "in_force": "2021-03-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/280",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/280/text/O/M20210280.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/280/text/I/M20210280.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/280",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 280,
+  "address": "WMP20210000280",
+  "displayAddress": "M.P. 2021 poz. 280",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 11 marca 2021 r. nr 127.1.2021 o wolnych stanowiskach sędziego w Sądzie Najwyższym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-03-11",
+  "promulgation": "2021-03-16",
+  "changeDate": "2021-03-17T10:29:09",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 31 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210280.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210280.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
