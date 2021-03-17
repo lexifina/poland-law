@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/484",
+ "source_sha256": "4277d8d45ed20d7081f5bbd6cb5a0105bca162f065babb8e8b6aa6f9820ad6c9",
+ "in_force": "2021-03-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/484",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/484/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/484/text/O/D20210484.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/484/text/I/D20210484.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/484/text/T/D20210484L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/484/text/U/D20210484Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/484",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 484,
+  "address": "WDU20210000484",
+  "displayAddress": "Dz.U. 2021 poz. 484",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-02-23",
+  "promulgation": "2021-03-17",
+  "expirationDate": "2021-10-05",
+  "changeDate": "2024-03-14T12:35:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo wodne",
+   "budowlane prawo",
+   "inwestycje",
+   "powodzie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/963"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210484.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210484.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20210484L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20210484Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
