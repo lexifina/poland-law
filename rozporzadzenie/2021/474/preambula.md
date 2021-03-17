@@ -1,0 +1,1 @@
+Na podstawie art. 8 ust. 6 ustawy z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. z 2019 r. poz. 2188) zarządza się, co następuje:
