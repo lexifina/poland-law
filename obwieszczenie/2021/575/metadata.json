@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/575",
+ "source_sha256": "d8d5352837ab248d907eba7af86e968d4eb39b3883ddadd78ce6aa9090f1b9e9",
+ "in_force": "2021-03-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/575",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/575/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/575/text/O/D20210575.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/575/text/I/D20210575.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/575/text/T/D20210575L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/575/text/U/D20210575Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/575",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 575,
+  "address": "WDU20210000575",
+  "displayAddress": "Dz.U. 2021 poz. 575",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Ochrony Państwa",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-02-23",
+  "promulgation": "2021-03-30",
+  "expirationDate": "2023-01-10",
+  "changeDate": "2024-03-14T12:34:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Służba Ochrony Państwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2018/138"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210575.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210575.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20210575L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20210575Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
