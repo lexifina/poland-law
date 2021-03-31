@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/315",
+ "source_sha256": "2720319ebca891b9e0749db4c5c0e6ee60bd697d506f12afca19cde92b559b3a",
+ "in_force": "2021-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/315",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/315/text/O/M20210315.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/315/text/I/M20210315.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/315",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 315,
+  "address": "WMP20210000315",
+  "displayAddress": "M.P. 2021 poz. 315",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Biuru Rzecznika Finansowego",
+  "type": "Obwieszczenie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-03-29",
+  "promulgation": "2021-03-31",
+  "repealDate": "2023-07-01",
+  "changeDate": "2023-07-03T11:24:09",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Rzecznik Finansowy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2015/1055"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "MP/2023/584",
+     "date": "2023-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210315.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210315.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
