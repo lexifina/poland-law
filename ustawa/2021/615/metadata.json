@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/615",
+ "source_sha256": "f488a3710b6da7a50d1957ee207507d88112f8ca4ed31af8634a63725cc0aad4",
+ "in_force": "2021-04-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/615",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/615/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/615/text/O/D20210615.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/615/text/I/D20210615.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/615/text/T/D20210615L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/615",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 615,
+  "address": "WDU20210000615",
+  "displayAddress": "Dz.U. 2021 poz. 615",
+  "title": "Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.",
+  "type": "Ustawa",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-03-30",
+  "promulgation": "2021-04-01",
+  "entryIntoForce": "2021-04-02",
+  "changeDate": "2024-03-14T12:37:19",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka",
+   "powszechny spis ludności",
+   "ewidencja ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=913",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/913",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/913",
+    "number": "913",
+    "term": 9
+   }
+  ],
+  "comments": "art. 1 pkt 11 wchodzi w życie z dniem 1 maja 2021 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/1775",
+     "date": "2021-04-02"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210615.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210615.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20210615L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
