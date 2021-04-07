@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735 oraz z 2021 r. poz. 159 i 255) zarządza się, co następuje:
