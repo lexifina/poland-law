@@ -1,0 +1,1 @@
+Na podstawie art. 31 ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 (Dz. U. poz. 694 i 2327) zarządza się, co następuje:
