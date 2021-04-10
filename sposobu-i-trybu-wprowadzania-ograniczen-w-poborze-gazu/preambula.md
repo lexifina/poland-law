@@ -1,0 +1,1 @@
+Na podstawie art. 55 ust. 1 i 2 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2020 r. poz. 411 oraz z 2021 r. poz. 255) zarządza się, co następuje:
