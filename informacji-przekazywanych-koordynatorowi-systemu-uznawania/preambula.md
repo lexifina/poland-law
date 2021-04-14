@@ -1,0 +1,1 @@
+Na podstawie art. 52 ust. 2 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2020 r. poz. 220 oraz z 2021 r. poz. 78) zarządza się, co następuje:
