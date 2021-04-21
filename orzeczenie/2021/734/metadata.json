@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/734",
+ "source_sha256": "664b9e0cff82655fee1caf746a3b652ec2727838898af1acce303db8cf4e8d69",
+ "in_force": "2021-04-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: words differ (table, formula or annex?): official 499 words, parsed 83; at 83: 'skarg konstytucyjnych Jarosława Czyżanowskiego : 1 ) z 7 czerwca'; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/734",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/734/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/734/text/O/D20210734.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/734/text/I/D20210734.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/734",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 734,
+  "address": "WDU20210000734",
+  "displayAddress": "Dz.U. 2021 poz. 734",
+  "title": "Wyrok Trybunału Konstytucyjnego z dnia 15 kwietnia 2021 r. sygn. akt SK 97/19",
+  "type": "Orzeczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-04-15",
+  "promulgation": "2021-04-21",
+  "entryIntoForce": "2021-04-21",
+  "changeDate": "2024-03-14T12:23:42",
+  "releasedBy": [
+   "TRYBUNAŁ KONSTYTUCYJNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania cywilnego",
+   "konstytucja"
+  ],
+  "keywordsNames": [
+   "Trybunał Konstytucyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Odesłania": [
+    {
+     "id": "DU/2016/2072"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Orzeczenie TK dla aktu": [
+    {
+     "id": "DU/1964/296"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20210734.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20210734.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
