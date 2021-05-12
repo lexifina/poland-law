@@ -1,0 +1,1 @@
+Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802) zarządza się, co następuje:
