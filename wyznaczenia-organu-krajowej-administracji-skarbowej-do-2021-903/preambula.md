@@ -1,0 +1,1 @@
+Na podstawie art. 71a ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2020 r. poz. 971, 875, 1086 i 2320 oraz z 2021 r. poz. 187 i 815) zarządza się, co następuje:
