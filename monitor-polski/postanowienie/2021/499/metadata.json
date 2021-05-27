@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/499",
+ "source_sha256": "9fcc9ec28d7b1fb202f361d0e6c47a94be399e0237822f850fd697ffe6d0bbf5",
+ "in_force": "2021-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/499",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/499/text/O/M20210499.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/499/text/I/M20210499.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/499",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 499,
+  "address": "WMP20210000499",
+  "displayAddress": "M.P. 2021 poz. 499",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2021 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 34 z siedzibą Okręgowej Komisji Wyborczej w Elblągu",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-05-27",
+  "promulgation": "2021-05-27",
+  "changeDate": "2021-05-28T10:32:59",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210499.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210499.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
