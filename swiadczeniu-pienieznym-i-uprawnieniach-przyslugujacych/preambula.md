@@ -1,0 +1,1 @@
+Uznając, że przymusowe zatrudnianie żołnierzy zastępczej służby wojskowej w kopalniach węgla, kamieniołomach, zakładach wydobywania rud uranu i batalionach budowlanych stanowiło szczególny rodzaj represji z przyczyn politycznych, uchwala się, co następuje:
