@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/514",
+ "source_sha256": "f03c7f217ebdc1828549a791dbd898d940b38b060217cfc70165c0e87d62fae9",
+ "in_force": "2021-06-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/514",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/514/text/O/M20210514.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/514/text/I/M20210514.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/514",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 514,
+  "address": "WMP20210000514",
+  "displayAddress": "M.P. 2021 poz. 514",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 24 maja 2021 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-05-24",
+  "promulgation": "2021-06-01",
+  "changeDate": "2021-06-02T10:20:28",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 20a par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210514.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210514.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
