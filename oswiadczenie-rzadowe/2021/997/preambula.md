@@ -1,0 +1,3 @@
+Podaje się niniejszym do wiadomości, że na podstawie aaaustawy z dnia 10 grudnia 2020 r. o wypowiedzeniu aaaPorozumienia Prowizorycznego w sprawach handlowych i nawigacyjnych między Polską a Bułgarją, podpisanego w Sofji dnia 29 kwietnia 1925 roku (Dz. U. z 2021 r. poz. 5) Prezydent Rzeczypospolitej Polskiej dnia 25 marca 2021 r. wypowiedział aaaPorozumienie Prowizoryczne w sprawach handlowych i nawigacyjnych między Polską a Bułgarją, podpisane w Sofji dnia 29 kwietnia 1925 roku, co zostało notyfikowane Rządowi Republiki Bułgarii dnia 14 kwietnia 2021 r.
+
+Zgodnie z art. XVIII ust. 3 porozumienia traci ono moc obowiązującą dnia 14 lipca 2021 r.
