@@ -1,0 +1,1 @@
+Na podstawie art. 25 ust. 5 ustawy z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych (Dz. U. poz. 2491) zarządza się, co następuje:
