@@ -1,0 +1,1 @@
+Na podstawie art. 29 ust. 1 pkt 1 i ust. 1a pkt 2 i 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013 (Dz. U. z 2020 r. poz. 1371 oraz z 2021 r. poz. 904) zarządza się, co następuje:
