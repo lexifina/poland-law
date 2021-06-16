@@ -1,8 +1,8 @@
 # Art. 52w.
 
-1. Prawo do zmniejszenia dochodu stanowiącego podstawę obliczenia zaliczki, o którym mowa w art. 44 ust. 17 pkt 1, przysługuje w 2020 r. począwszy od okresu rozliczeniowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do okresu rozliczeniowego, w którym wierzytelność została uregulowana lub zbyta.
+1. W roku podatkowym, w którym obowiązywał stan epidemii ogłoszony z powodu COVID-19, zmniejszenia, o którym mowa w art. 44 ust. 17 pkt 1 oraz art. 26i ust. 1 pkt 1, albo zwiększenia, o którym mowa w art. 26i ust. 2 pkt 1, dokonuje się począwszy od odpowiednio okresu rozliczeniowego lub roku podatkowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do końca okresu, w którym wierzytelność została uregulowana lub zbyta.
 
-2. Podatnicy, którzy na 2020 r. wybrali uproszczoną formę wpłacania zaliczek, o której mowa w art. 44 ust. 6b,mogą zmniejszyć zaliczkę, o której mowa w art. 44 ust. 6i, należną za miesiąc, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do okresu, w którym wierzytelność została uregulowana lub zbyta, o:
+2. Podatnicy, którzy na 2020 r. wybrali uproszczoną formę wpłacania zaliczek, o której mowa w art. 44 ust. 6b, mogą zmniejszyć zaliczkę, o której mowa w art. 44 ust. 6i, należną za miesiąc, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do okresu, w którym wierzytelność została uregulowana lub zbyta, o:
 
 - 1) 17% wartości wierzytelności, o której mowa w ust. 1 - w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
 

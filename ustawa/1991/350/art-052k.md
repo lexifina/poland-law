@@ -1,6 +1,6 @@
 # Art. 52k.
 
-1. Podatnicy, którzy z powodu COVID-19, o którym mowa w ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.), zwanej dalej „ustawą o COVID-19”:
+1. Podatnicy, którzy z powodu COVID-19, o którym mowa w ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.), zwanej dalej „ustawą o COVID-19”:
 
 - 1) ponieśli w 2020 r. stratę z pozarolniczej działalności gospodarczej oraz
 

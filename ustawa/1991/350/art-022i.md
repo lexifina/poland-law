@@ -23,3 +23,9 @@
 6. W przypadku podwyższenia stawek amortyzacyjnych, podanych w Wykazie stawek amortyzacyjnych przy zastosowaniu współczynników określonych w ust. 2, należy dla poszczególnych środków trwałych stosować jeden wybrany współczynnik, przez który mnoży się stawkę amortyzacyjną właściwą dla danego środka trwałego, przyjętą z Wykazu stawek amortyzacyjnych.
 
 7. Wyjaśnienia dotyczące warunków używania budynków i budowli, określenia szczególnej sprawności technicznej maszyn, urządzeń i środków transportu oraz maszyn i urządzeń poddanych szybkiemu postępowi technicznemu, o których mowa w ust. 2, zawarte są w objaśnieniach do Wykazu stawek amortyzacyjnych.
+
+8. Przepisów ust. 4 i 5 nie stosuje się do środków trwałych wykorzystywanych przez podatników w działalności, z której przychody podlegają:
+
+- 1) zwolnieniu z opodatkowania podatkiem dochodowym - w okresie korzystania z takiego zwolnienia;
+
+- 2) opodatkowaniu ryczałtem od przychodów ewidencjonowanych, podatkiem tonażowym lub zryczałtowanym podatkiem od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych - w okresie tego opodatkowania.

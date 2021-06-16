@@ -1,13 +1,9 @@
 # Art. 23za.
 
-1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy:
+1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji innej niż transakcja kontrolowana z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi - za rok obrotowy, przekracza 100 000 zł. Przepisy art. 23w ust. 3-5, art. 23x, art. 23zc ust. 1 i art. 23zd stosuje się odpowiednio.
 
-- 1) dokonujący, bezpośrednio lub pośrednio, zapłaty należności na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli łączna kwota wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w tym roku świadczeń przekracza 100 000 zł lub równowartość tej kwoty, lub
+1a. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji kontrolowanej lub transakcji innej niż transakcja kontrolowana, jeżeli rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową oraz wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi - za rok obrotowy, przekracza 500 000 zł. Przepisy art. 23w ust. 3-5, art. 23x, art. 23zc ust. 1 i art. 23zd stosuje się odpowiednio.
 
-- 2) zawierający z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową:
+1b. Na potrzeby ust. 1a domniemywa się, że rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli druga strona transakcji, o których mowa w ust. 1a, dokonuje w roku podatkowym lub roku obrotowym rozliczeń z podmiotem mającym siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową. Przy ustalaniu tych okoliczności podatnik lub spółka niebędąca osobą prawną są obowiązani do dochowania należytej staranności.
 
-  - a) umowę spółki niebędącej osobą prawną, jeżeli łączna wartość wniesionych przez wspólników wkładów przekracza 100 000 zł lub równowartość tej kwoty, lub
-
-  - b) umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości - przewidywana na dzień zawarcia umowy, przekracza 100 000 zł lub równowartość tej kwoty.
-
-2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
+2. Wartość transakcji, o której mowa w ust. 1 i 1a, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.

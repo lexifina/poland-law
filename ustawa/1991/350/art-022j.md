@@ -24,13 +24,13 @@
 
 2. Środki trwałe, o których mowa w ust. 1 pkt 1 i 2, uznaje się za:
 
-- 1) używane - jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane co najmniej przez okres 6 miesięcy, lub
+- 1) używane - jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 6 miesięcy, lub
 
 - 2) ulepszone - jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ich ulepszenie stanowiły co najmniej 20% wartości początkowej.
 
 3. Środki trwałe, o których mowa w ust. 1 pkt 3, uznaje się za:
 
-- 1) używane - jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane co najmniej przez okres 60 miesięcy, lub
+- 1) używane - jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 60 miesięcy, lub
 
 - 2) ulepszone - jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ulepszenie stanowiły co najmniej 30% wartości początkowej.
 
@@ -48,4 +48,4 @@
 
 - 2) platform wiertniczych lub produkcyjnych
 
-- z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.
+− z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.

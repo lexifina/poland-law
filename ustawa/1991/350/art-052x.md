@@ -1,10 +1,10 @@
 # Art. 52x.
 
-1. Od podstawy obliczenia podatku ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, w celu obliczenia podatku lub zaliczki, podatnik może odliczyć darowizny rzeczowe, których przedmiotem są komputery przenośne będące laptopami lub tabletami, przekazane od dnia 1 stycznia 2020 r. do dnia 30 września 2020 r.:
+1. Od podstawy obliczenia podatku ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, w celu obliczenia podatku lub zaliczki, podatnik może odliczyć darowizny rzeczowe, których przedmiotem są komputery przenośne będące laptopami lub tabletami, przekazane od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19:
 
 - 1) organom prowadzącym placówki oświatowe;
 
-- 2) organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, lub operatorowi OSE, o którym mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. poz. 2184, z 2019 r. poz. 1815 oraz z 2020 r. poz. 695), z przeznaczeniem na cele dalszego nieodpłatnego przekazania organom prowadzącym placówki oświatowe lub placówkom oświatowym.
+- 2) organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, lub operatorowi OSE, o którym mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2021 r. poz. 989), z przeznaczeniem na cele dalszego nieodpłatnego przekazania organom prowadzącym placówki oświatowe lub placówkom oświatowym.
 
 2. Przez placówkę oświatową rozumie się:
 
@@ -22,7 +22,13 @@
 
 - 2) w maju 2020 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
 
-- 3) od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+- 3) od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. - odliczeniu podlega kwota odpowiadająca wartości darowizny;
+
+- 4) od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+- 5) od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+- 6) od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
 
 5. Odliczeniu podlegają darowizny nieodliczone na podstawie art. 26 ust. 1 pkt 9 i art. 52n oraz art. 11, art. 57b i art. 57e ustawy o zryczałtowanym podatku dochodowym.
 

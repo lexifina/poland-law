@@ -1,8 +1,8 @@
 # Art. 52u.
 
-1. Podatnicy, o których mowa w art. 30ca, osiągający w 2020 r. kwalifikowane dochody z kwalifikowanych praw własności intelektualnej, które wykorzystywane są do przeciwdziałania COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, mogą stosować w trakcie roku podatkowego do opodatkowania tych dochodów stawkę podatku, o której mowa w tym przepisie, przy obliczaniu zaliczek na podatek dochodowy.
+1. Podatnicy, o których mowa w art. 30ca, osiągający w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, kwalifikowane dochody z kwalifikowanych praw własności intelektualnej, które wykorzystywane są do przeciwdziałania COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, mogą stosować w trakcie roku podatkowego do opodatkowania tych dochodów stawkę podatku, o której mowa w tym przepisie, przy obliczaniu zaliczek na podatek dochodowy.
 
-2. Wysokość zaliczek, o których mowa w ust. 1, oblicza się w następujący sposób:
+2. W 2020 r. wysokość zaliczek, o których mowa w ust. 1, oblicza się w następujący sposób:
 
 - 1) pierwszą zaliczkę oblicza się od sumy kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej, osiągniętych od dnia 1 marca 2020 r., z zastosowaniem stawki, o której mowa w art. 30ca ust. 1;
 

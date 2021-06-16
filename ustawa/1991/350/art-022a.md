@@ -20,4 +20,4 @@
 
 - zwane także środkami trwałymi;
 
-- 4) tabor transportu morskiego w budowie (PKWiU 30.11).
+- 4) tabor transportu morskiego w budowie (PKWiU ex 30.11).

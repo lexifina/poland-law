@@ -6,4 +6,4 @@
 
 3. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 23y ust. 1, a w przypadku grupowej dokumentacji cen transferowych - po upływie terminu, o którym mowa w art. 23zb ust. 1.
 
-4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników, o których mowa w art. 23za ust. 1, w zakresie należności i umów wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1 i 1a, w zakresie transakcji wskazanych w tych przepisach. Przepisy ust. 2 i 3 stosuje się odpowiednio.

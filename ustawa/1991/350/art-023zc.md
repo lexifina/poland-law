@@ -14,6 +14,8 @@
 
 - 4) informacje finansowe.
 
+1a. W przypadku transakcji, o których mowa w art. 23za ust. 1 i 1a, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
+
 2. Grupowa dokumentacja cen transferowych zawiera następujące elementy dotyczące grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy o rachunkowości:
 
 - 1) opis tej grupy;
