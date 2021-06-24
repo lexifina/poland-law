@@ -1,0 +1,1 @@
+Na podstawie art. 2 ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2020 r. poz. 764) zarządza się, co następuje:
