@@ -2,5 +2,5 @@
 
 Dz.U. 2015 poz. 978 · <https://eli.gov.pl/api/acts/DU/2015/978>
 
-Tekst jednolity: Dz.U. 2020 poz. 814 (2020-05-07), stan na 2020-03-24.
+Tekst jednolity: Dz.U. 2021 poz. 1588 (2021-08-30), stan na 2021-07-01.
 
