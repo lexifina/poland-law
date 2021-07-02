@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1206",
+ "source_sha256": "e2660be2b5fbbb964ed28dec787649bc91ef9fc55ba8869bc9374de17b6f4ced",
+ "in_force": "2021-07-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1206",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1206/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1206/text/O/D20211206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1206/text/I/D20211206.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1206",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1206,
+  "address": "WDU20210001206",
+  "displayAddress": "Dz.U. 2021 poz. 1206",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 8 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie archiwizacji akt spraw sądów wojskowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-06-08",
+  "promulgation": "2021-07-02",
+  "expirationDate": "2022-09-13",
+  "changeDate": "2024-03-14T12:24:19",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy wojskowe",
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1857"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
