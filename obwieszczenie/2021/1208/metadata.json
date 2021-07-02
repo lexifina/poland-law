@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1208",
+ "source_sha256": "810782f998a7f48f4867139a5d047b1028596f61f98dc6f6d93de2b7f4726250",
+ "in_force": "2021-07-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1208",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1208/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1208/text/O/D20211208.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1208/text/I/D20211208.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1208/text/T/D20211208L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/1208/text/U/D20211208Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1208",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1208,
+  "address": "WDU20210001208",
+  "displayAddress": "Dz.U. 2021 poz. 1208",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach mieszkaniowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-06-02",
+  "promulgation": "2021-07-02",
+  "expirationDate": "2023-03-08",
+  "changeDate": "2024-03-14T12:24:19",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielczość mieszkaniowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/27"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211208.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211208.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211208L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20211208Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
