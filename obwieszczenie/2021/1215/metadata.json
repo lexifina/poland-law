@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1215",
+ "source_sha256": "f8d698d7aab28e25b6a78656cf3281e367f0ba3792add5d2fc6c9e1221fc9632",
+ "in_force": "2021-07-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1215",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1215/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1215/text/O/D20211215.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1215/text/I/D20211215.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1215/text/T/D20211215L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1215",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1215,
+  "address": "WDU20210001215",
+  "displayAddress": "Dz.U. 2021 poz. 1215",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zbieraniu i wykorzystywaniu danych rachunkowych z gospodarstw rolnych",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-06-15",
+  "promulgation": "2021-07-05",
+  "repealDate": "2025-04-09",
+  "changeDate": "2025-04-09T09:09:11",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarstwa rolne",
+   "rolne prawo",
+   "rolnicy",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2025/368",
+     "date": "2025-04-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/20"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211215.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211215.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211215L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
