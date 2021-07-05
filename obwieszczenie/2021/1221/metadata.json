@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1221",
+ "source_sha256": "c777cfe690cd82ef1b45987f59722ae97f2e711fa545389708d98c9e46807181",
+ "in_force": "2021-07-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1221",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1221/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1221/text/O/D20211221.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1221/text/I/D20211221.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1221/text/T/D20211221L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/1221/text/U/D20211221Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1221",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1221,
+  "address": "WDU20210001221",
+  "displayAddress": "Dz.U. 2021 poz. 1221",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-06-16",
+  "promulgation": "2021-07-05",
+  "expirationDate": "2022-01-24",
+  "changeDate": "2024-03-14T12:37:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "wojsko"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/804"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211221.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211221.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211221L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20211221Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
