@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1213",
+ "source_sha256": "cae8c764699d3fe2013731fce61dc22a5783f28857e8c67910527bc3b1b64763",
+ "in_force": "2021-07-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1213",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1213/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1213/text/O/D20211213.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1213/text/I/D20211213.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1213/text/T/D20211213L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1213",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1213,
+  "address": "WDU20210001213",
+  "displayAddress": "Dz.U. 2021 poz. 1213",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobach budowlanych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-06-15",
+  "promulgation": "2021-07-05",
+  "changeDate": "2024-03-14T12:37:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wyroby",
+   "budowlane materiały"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31989L0106",
+    "date": "1988-12-21",
+    "title": "DYREKTYWA RADY 89/106/EWG z dnia 21 grudnia 1988 r. w sprawie zbliżenia ustaw, rozporządzeń i przepisów administracyjnych państw członkowskich dotyczących wyrobów budowlanych"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2004/881"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211213.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211213.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211213L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
