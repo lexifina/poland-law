@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1229",
+ "source_sha256": "1a2b0762b94f2787323073f1326d011ad0afba93e392007d2f337df1203e14dc",
+ "in_force": "2021-07-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1229",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1229/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1229/text/O/D20211229.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1229/text/I/D20211229.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1229",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1229,
+  "address": "WDU20210001229",
+  "displayAddress": "Dz.U. 2021 poz. 1229",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 22 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie aplikacji legislacyjnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-06-22",
+  "promulgation": "2021-07-06",
+  "expirationDate": "2024-09-09",
+  "changeDate": "2024-09-11T08:22:04",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna",
+   "aplikacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/587"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211229.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211229.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
