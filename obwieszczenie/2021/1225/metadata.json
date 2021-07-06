@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1225",
+ "source_sha256": "3c91a84443ef35d653e2264d7009dbeeadc3af0b6c66aa4fb57fc5d0f6f562f5",
+ "in_force": "2021-07-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1225",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1225/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1225/text/O/D20211225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1225/text/I/D20211225.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1225",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1225,
+  "address": "WDU20210001225",
+  "displayAddress": "Dz.U. 2021 poz. 1225",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 10 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-06-10",
+  "promulgation": "2021-07-06",
+  "changeDate": "2024-03-14T12:38:12",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola",
+   "transplantacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2018/2046"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211225.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
