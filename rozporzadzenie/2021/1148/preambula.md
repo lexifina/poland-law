@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 2 pkt 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2017 r. poz. 1867) zarządza się, co następuje:
