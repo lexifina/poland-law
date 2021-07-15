@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1297",
+ "source_sha256": "9283ee347f42f3f08ad5c6357cd156ad29de4e0ff7d36de16b4a6e2e04ce5d52",
+ "in_force": "2021-07-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1297",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1297/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1297/text/O/D20211297.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1297/text/I/D20211297.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1297/text/T/D20211297L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/1297/text/U/D20211297Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1297",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1297,
+  "address": "WDU20210001297",
+  "displayAddress": "Dz.U. 2021 poz. 1297",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-06-25",
+  "promulgation": "2021-07-15",
+  "expirationDate": "2023-03-16",
+  "changeDate": "2024-03-14T12:26:31",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zdrowia",
+   "specjalizacja zawodowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2017/599"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211297.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211297.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211297L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20211297Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
