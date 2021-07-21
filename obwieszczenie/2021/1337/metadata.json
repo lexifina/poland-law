@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1337",
+ "source_sha256": "4e3909b13e188c49c30b0be5179c54836fc3d30c120bf0ecffaa6ba5f15ad46b",
+ "in_force": "2021-07-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1337",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1337/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1337/text/O/D20211337.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1337/text/I/D20211337.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1337",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1337,
+  "address": "WDU20210001337",
+  "displayAddress": "Dz.U. 2021 poz. 1337",
+  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 1 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-07-01",
+  "promulgation": "2021-07-21",
+  "changeDate": "2026-08-20T15:42:05",
+  "releasedBy": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "weterani",
+   "ochrona zdrowia psychicznego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2012/291"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211337.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211337.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
