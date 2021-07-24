@@ -1,0 +1,1 @@
+Na podstawie art. 7c ust. 2 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2020 r. poz. 859 oraz z 2021 r. poz. 255 i 694) zarządza się, co następuje:
