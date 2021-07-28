@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/700",
+ "source_sha256": "3f86432b745f9db12cd751b34e40dd92d037c623e72c43ca3ee11ea6af128843",
+ "in_force": "2021-07-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/700",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/700/text/O/M20210700.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/700/text/I/M20210700.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/700",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 700,
+  "address": "WMP20210000700",
+  "displayAddress": "M.P. 2021 poz. 700",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 23 lipca 2021 r. w sprawie wyrażenia zgody na powołanie Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu",
+  "type": "Uchwała",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-07-23",
+  "promulgation": "2021-07-28",
+  "changeDate": "2021-07-29T11:13:56",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/1016"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/1016",
+     "art": "art. 10 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210700.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210700.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
