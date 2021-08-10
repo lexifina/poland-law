@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1445",
+ "source_sha256": "7a7369f8af3e415b9a5cf12777a27c5c98056587edb195bc7b6cbea5e6acfb3f",
+ "in_force": "2021-08-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1445",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1445/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1445/text/O/D20211445.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1445/text/I/D20211445.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1445/text/T/D20211445L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1445",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1445,
+  "address": "WDU20210001445",
+  "displayAddress": "Dz.U. 2021 poz. 1445",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-07-21",
+  "promulgation": "2021-08-10",
+  "repealDate": "2022-07-01",
+  "changeDate": "2024-03-14T12:25:32",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokal",
+   "ochrona",
+   "budownictwo mieszkaniowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/1377"
+    }
+   ],
+   "Uchylenia wynikające z": [
+    {
+     "id": "DU/2021/1177",
+     "date": "2022-07-01"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211445.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211445.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211445L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
