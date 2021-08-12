@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/735",
+ "source_sha256": "99c5b5d563de4285f67d3682bbde8ef31d41613af31a9a65fb19410750a2e513",
+ "in_force": "2021-08-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/735",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/735/text/O/M20210735.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/735/text/I/M20210735.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/735",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 735,
+  "address": "WMP20210000735",
+  "displayAddress": "M.P. 2021 poz. 735",
+  "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 6 sierpnia 2021 r. w sprawie wysokości kwoty wymienionej w art. 262 § 1 ustawy - Ordynacja podatkowa na rok 2022",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-08-06",
+  "promulgation": "2021-08-12",
+  "changeDate": "2022-01-28T14:13:24",
+  "releasedBy": [
+   "MIN. FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/926"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/926",
+     "art": "art. 262a par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210735.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210735.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
