@@ -1,0 +1,1 @@
+Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. z 2021 r. poz. 2137 oraz z 2022 r. poz. 88) zarządza się, co następuje:
