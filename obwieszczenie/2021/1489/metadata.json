@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1489",
+ "source_sha256": "34fd42e9cefacb36dced50ab2042e84afe1fb3594df7523f8587a6c609e6c503",
+ "in_force": "2021-08-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1489",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1489/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1489/text/O/D20211489.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1489/text/I/D20211489.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1489/text/T/D20211489L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1489",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1489,
+  "address": "WDU20210001489",
+  "displayAddress": "Dz.U. 2021 poz. 1489",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dyscyplinie wojskowej",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-07-21",
+  "promulgation": "2021-08-16",
+  "repealDate": "2022-04-23",
+  "changeDate": "2024-03-14T12:32:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dyscyplinarne postępowanie",
+   "służba wojskowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2022/655",
+     "date": "2022-04-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/1474"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211489.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211489.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211489L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
