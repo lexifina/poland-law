@@ -1,0 +1,1 @@
+Na podstawie art. 37a ust. 33 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2020 r. poz. 2268 oraz z 2021 r. poz. 802 i 1005) zarządza się, co następuje:
