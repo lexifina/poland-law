@@ -62,7 +62,7 @@
 
   - jeżeli są dostępne;
 
-- 5) wskazanie numeru rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzonego dla rachunku rozliczeniowego, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, albo rachunku członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym.
+- 5) wskazanie numeru rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzonego dla rachunku rozliczeniowego, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, albo rachunku członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym;
 
 - 6) wskazanie, czy rachunek wymieniony w art. 119zg pkt 5 lit. a i c jest rachunkiem, o którym mowa w art. 15 ust. 1hb pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 

@@ -20,7 +20,7 @@
 
 - 2) właściwemu dla podmiotu kwalifikowanego naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego oraz prokuratorowi zawiadomienie o przedłużeniu terminu blokady rachunku podmiotu kwalifikowanego zawierające dane określone w postanowieniu.
 
-§ 4. Żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego jest skuteczne, jeżeli zostanie przekazane do banku lub spółdzielczej kasy oszczędnościowo-kredytowej w okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w art. 119zv § 2 pkt 2. Przepisy art. 119zv § 4-5 stosuje się odpowiednio.
+§ 4. Żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego jest skuteczne, jeżeli zostanie przekazane do banku lub spółdzielczej kasy oszczędnościowo-kredytowej w okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w art. 119zv § 2 pkt 2. Przepisy art. 119zv § 4‒5 stosuje się odpowiednio.
 
 § 4a. Szef Krajowej Administracji Skarbowej, niezwłocznie po otrzymaniu informacji o przedłużeniu blokady rachunku podmiotu kwalifikowanego, doręcza podmiotowi kwalifikowanemu postanowienie, o którym mowa w § 1, oraz informację o dacie i godzinie przekazania bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądania przedłużenia terminu blokady rachunku podmiotu kwalifikowanego.
 
@@ -30,4 +30,4 @@
 
 - 2) uchyla blokadę rachunku podmiotu kwalifikowanego, jeżeli stwierdzi, że ustała przesłanka blokady rachunku podmiotu kwalifikowanego.
 
-§ 6. Do postanowienia, o którym mowa w § 5, przepisy § 2, 3 i 4a oraz art. 119zv § 4-5 stosuje się odpowiednio.
+§ 6. Do postanowienia, o którym mowa w § 5, przepisy § 2, 3 i 4a oraz art. 119zv § 4‒5 stosuje się odpowiednio.

@@ -6,7 +6,7 @@
 
 - 2) 1 osoba wskazana przez Prezesa Naczelnego Sądu Administracyjnego spośród sędziów Naczelnego Sądu Administracyjnego w stanie spoczynku;
 
-- 3) 2 osoby powołane spośród pracowników szkół wyższych, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2019 r. poz. 1350 i 2227 oraz z 2020 r. poz. 284);
+- 3) 2 osoby powołane spośród pracowników szkół wyższych, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383 oraz z 2021 r. poz. 1192);
 
 - 4) 1 osoba wskazana przez Komisję Wspólną Rządu i Samorządu Terytorialnego jako przedstawiciel jednostek samorządu terytorialnego;
 

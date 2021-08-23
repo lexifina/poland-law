@@ -4,7 +4,7 @@ Przepisów niniejszego działu nie stosuje się do rachunków:
 
 - 1) podmiotów kwalifikowanych prowadzonych przez Narodowy Bank Polski;
 
-- 2) banków spółdzielczych prowadzonych przez bank zrzeszający w rozumieniu art. 2 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2020 r. poz. 449 i 695);
+- 2) banków spółdzielczych prowadzonych przez bank zrzeszający w rozumieniu art. 2 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2021 r. poz. 102 i 680);
 
 - 3) banków prowadzonych przez inne banki;
 
