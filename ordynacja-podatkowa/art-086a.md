@@ -26,7 +26,9 @@
 
   - b) niepowstanie obowiązku lub odsunięcie w czasie powstania obowiązku sporządzania i przekazywania informacji podatkowych, w tym informacji o schematach podatkowych;
 
-- 5) NSP - rozumie się przez to numer schematu podatkowego; 5a) NZSPT - rozumie się przez to numer zgłoszenia schematu podatkowego transgranicznego nadawany przez Szefa Krajowej Administracji Skarbowej w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych;
+- 5) NSP - rozumie się przez to numer schematu podatkowego;
+
+- 5a) NZSPT - rozumie się przez to numer zgłoszenia schematu podatkowego transgranicznego nadawany przez Szefa Krajowej Administracji Skarbowej w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych;
 
 - 6) ogólnej cesze rozpoznawczej - rozumie się przez to właściwość uzgodnienia polegającą na tym, że spełniony jest co najmniej jeden z poniższych warunków:
 
