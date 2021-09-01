@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/789",
+ "source_sha256": "ef5e70710ea40a41ef60671f40d0cae079af4844eae35593f745397af1e6b958",
+ "in_force": "2021-09-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/789",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/789/text/O/M20210789.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/789/text/I/M20210789.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/789",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 789,
+  "address": "WMP20210000789",
+  "displayAddress": "M.P. 2021 poz. 789",
+  "title": "Obwieszczenie Ministra Rodziny i Polityki Społecznej z dnia 27 sierpnia 2021 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Rodziny i Polityki Społecznej lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-08-27",
+  "promulgation": "2021-09-01",
+  "changeDate": "2021-09-02T11:45:45",
+  "releasedBy": [
+   "MIN. RODZINY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "jednostki budżetowe"
+  ],
+  "keywordsNames": [
+   "Min. Rodziny i Polityki Społecznej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210789.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210789.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
