@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/814",
+ "source_sha256": "c9fa4909febebaa01ca13f6c0a57aaf5f486b8b7e7ceedf3c05e194addc79d74",
+ "in_force": "2021-09-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/814",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/814/text/O/M20210814.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/814/text/I/M20210814.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/814",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 814,
+  "address": "WMP20210000814",
+  "displayAddress": "M.P. 2021 poz. 814",
+  "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 30 sierpnia 2021 r. w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2022",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-08-30",
+  "promulgation": "2021-09-08",
+  "changeDate": "2021-09-09T11:50:41",
+  "releasedBy": [
+   "MIN. KLIMATU I ŚRODOWISKA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona środowiska",
+   "hałas i wibracje",
+   "stawki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/627"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/627",
+     "art": "art. 291 ust. 2"
+    },
+    {
+     "id": "DU/2001/627",
+     "art": "art. 312"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210814.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210814.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
