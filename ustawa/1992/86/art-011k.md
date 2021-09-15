@@ -14,13 +14,15 @@
 
 - 4) 2 000 000 zł - w przypadku innej transakcji niż określona w pkt 1-3.
 
+2a. W przypadku transakcji kontrolowanych z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową próg dokumentacyjny wynosi 100 000 zł, niezależnie od rodzaju transakcji.
+
 3. Progi dokumentacyjne są ustalane odrębnie dla:
 
 - 1) każdej transakcji kontrolowanej o charakterze jednorodnym niezależnie od przyporządkowania transakcji kontrolowanej do transakcji towarowych, finansowych, usługowych albo innych transakcji;
 
 - 2) strony kosztowej i przychodowej.
 
-4. Wartość transakcji kontrolowanej o charakterze jednorodnym, o której mowa w ust. 2 i 3, jest ustalana bez względu na liczbę dokumentów księgowych, dokonanych lub otrzymanych płatności oraz podmiotów powiązanych, z którymi zawierana jest transakcja kontrolowana.
+4. Wartość transakcji kontrolowanej o charakterze jednorodnym, o której mowa w ust. 2-3, jest ustalana bez względu na liczbę dokumentów księgowych, dokonanych lub otrzymanych płatności oraz podmiotów powiązanych, z którymi zawierana jest transakcja kontrolowana.
 
 5. Przy ocenie, czy transakcja kontrolowana ma charakter jednorodny, uwzględnia się:
 

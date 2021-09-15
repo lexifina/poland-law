@@ -16,4 +16,4 @@
 
 4. Oświadczenie o sporządzeniu lokalnej dokumentacji cen transferowych składa się za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
 
-5. Przepisy ust. 1-4 stosuje się odpowiednio do podatników obowiązanych do sporządzania lokalnej dokumentacji cen transferowych na podstawie art. 11o ust. 1.
+5. Przepisy ust. 1-4 stosuje się odpowiednio do podatników i spółek niebędących osobami prawnymi obowiązanych do sporządzania lokalnej dokumentacji cen transferowych na podstawie art. 11o ust. 1 lub 1a.

@@ -16,7 +16,7 @@
 
 - 6) prawo z rejestracji produktu leczniczego i produktu leczniczego weterynaryjnego dopuszczonych do obrotu,
 
-- 7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432 oraz z 2020 r. poz. 288),
+- 7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213),
 
 - 8) autorskie prawo do programu komputerowego
 
@@ -30,7 +30,7 @@
 
 6. W przypadku gdy wartość wskaźnika, o którym mowa w ust. 4, jest większa od 1, przyjmuje się, że wartość ta wynosi 1.
 
-7. Dochodem (stratą) z kwalifikowanego prawa własności intelektualnej jest osiągnięty przez podatnika w roku podatkowym dochód (strata):
+7. Dochodem (stratą) z kwalifikowanego prawa własności intelektualnej jest osiągnięty przez podatnika w roku podatkowym dochód (strata) ustalony zgodnie z art. 7 ust. 2:
 
 - 1) z opłat lub należności wynikających z umowy licencyjnej, która dotyczy kwalifikowanego prawa własności intelektualnej;
 
@@ -40,7 +40,7 @@
 
 - 4) z odszkodowania za naruszenie praw wynikających z kwalifikowanego prawa własności intelektualnej, jeżeli zostało uzyskane w postępowaniu spornym, w tym postępowaniu sądowym albo arbitrażu.
 
-8. Do ustalenia dochodów, o których mowa w ust. 7 pkt 3, przepis art. 11c stosuje się odpowiednio.
+8. Do ustalenia dochodów (strat), o których mowa w ust. 7 pkt 3, przepis art. 11c stosuje się odpowiednio.
 
 9. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowany dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 4-6 dla tego samego rodzaju produktu lub usługi lub dla tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 

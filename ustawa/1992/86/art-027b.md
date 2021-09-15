@@ -6,7 +6,9 @@
 
 - 1) podatkowych grup kapitałowych, bez względu na wysokość osiągniętych przychodów;
 
-- 2) podatników innych niż podatkowe grupy kapitałowe, u których wartość przychodu uzyskana w roku podatkowym, o którym mowa w ust. 1, przekroczyła równowartość 50 mln euro przeliczonych na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym roku kalendarzowego poprzedzającego rok podania indywidualnych danych podatników do publicznej wiadomości.
+- 2) podatników innych niż podatkowe grupy kapitałowe, u których wartość przychodu uzyskana w roku podatkowym, o którym mowa w ust. 1, przekroczyła równowartość 50 mln euro przeliczonych na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym roku kalendarzowego poprzedzającego rok podania indywidualnych danych podatników do publicznej wiadomości;
+
+- 3) spółek nieruchomościowych, w tym spółek nieruchomościowych wchodzących w skład podatkowej grupy kapitałowej.
 
 3. Indywidualne dane podatnika, o których mowa w ust. 1, obejmują:
 

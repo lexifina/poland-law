@@ -4,7 +4,7 @@
 
 2. Podatkowa grupa kapitałowa jest podatnikiem, jeżeli spełnione są łącznie następujące warunki:
 
-- 1) podatkową grupę kapitałową mogą tworzyć wyłącznie spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, mające siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli:
+- 1) podatkową grupę kapitałową mogą tworzyć wyłącznie spółki z ograniczoną odpowiedzialnością, proste spółki akcyjne lub spółki akcyjne, mające siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli:
 
   - a) przeciętny kapitał zakładowy, określony w sposób, o którym mowa w ust. 2b, przypadający na każdą z tych spółek, jest nie niższy niż 500 000 zł,
 

@@ -22,6 +22,12 @@
 
 3d. Przepis ust. 3 stosuje się odpowiednio w przypadku określonym w art. 16g ust. 1 pkt 4a lit. a oraz w pkt 4b lit. a.
 
+3e. Podatnik, który zakończył stosowanie opodatkowania ryczałtem od dochodów spółek kapitałowych:
+
+- 1) dokonuje odpisów amortyzacyjnych z uwzględnieniem dotychczasowej wysokości odpisów uwzględnionych w wyniku finansowym netto podatnika za dowolny rok okresu opodatkowania ryczałtem od dochodów spółek kapitałowych oraz
+
+- 2) kontynuuje metodę i okres amortyzacji oraz stosuje stawkę, przyjęte w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych, albo dokonuje wyboru jednej z metod amortyzacji, stawki oraz okresu amortyzacji określonych w art. 16i-16m dla poszczególnych środków trwałych lub wartości niematerialnych i prawnych przed rozpoczęciem ich amortyzacji, przy czym wybrane metodę, stawkę oraz okres stosuje się do pełnego zamortyzowania środka trwałego lub wartości niematerialnej i prawnej.
+
 4. Podatnicy mogą dokonywać odpisów amortyzacyjnych w równych ratach co miesiąc albo w równych ratach co kwartał, albo jednorazowo na koniec roku podatkowego, z uwzględnieniem art. 16i. Suma odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych dokonanych w pierwszym roku podatkowym, w którym środki te zostały wprowadzone do ewidencji, nie może przekroczyć wartości tych odpisów przypadających za okres od wprowadzenia ich do ewidencji do końca tego roku podatkowego.
 
 5. Przepisu ust. 3 nie stosuje się do podziału podmiotów, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie także majątek pozostający w podmiocie dzielonym, nie stanowi zorganizowanej części przedsiębiorstwa. W takim przypadku odpisów amortyzacyjnych od przejmowanych składników majątkowych dokonuje się na zasadach określonych w art. 16i-16m.

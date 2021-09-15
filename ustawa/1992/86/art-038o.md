@@ -1,6 +1,8 @@
 # Art. 38o.
 
-1. Prawo do zmniejszenia dochodu stanowiącego podstawę obliczenia zaliczki, o którym mowa w art. 25 ust. 19 pkt 1, przysługuje w 2020 r. począwszy od okresu rozliczeniowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do okresu rozliczeniowego, w którym wierzytelność została uregulowana lub zbyta.
+1. Zmniejszenia, o których mowa w art. 25 ust. 19 pkt 1 oraz art. 18f ust. 1 pkt 1, albo zwiększenia, o którym mowa w art. 18f ust. 2 pkt 1, dokonuje się począwszy od odpowiednio okresu rozliczeniowego lub roku podatkowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do końca okresu, w którym wierzytelność została uregulowana lub zbyta.
+
+1a. Przepis ust. 1 stosuje się nie dłużej niż do końca roku kalendarzowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przy czym w przypadku podatników, których rok podatkowy jest inny niż kalendarzowy, uprawnieniu, o którym mowa w art. 18f ust. 1 pkt 1 i ust. 2 pkt 1, podlegają wierzytelności objęte do końca tego roku kalendarzowego uprawnieniem, o którym mowa w art. 25 ust. 19 pkt 2 i ust. 25.
 
 2. Podatnicy, którzy na 2020 r. wybrali uproszczoną formę wpłacania zaliczek, o której mowa w art. 25 ust. 6, mogą zmniejszyć zaliczkę należną za miesiąc, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do okresu, w którym wierzytelność została uregulowana lub zbyta, o:
 

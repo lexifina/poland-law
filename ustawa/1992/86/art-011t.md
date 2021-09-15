@@ -22,11 +22,11 @@
 
 - 6) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 2-5.
 
-3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników, o których mowa w art. 11o ust. 1, w zakresie należności i umów wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio.
+3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 11o ust. 1 i 1a, w zakresie transakcji wskazanych w tych przepisach. Przepis ust. 2 stosuje się odpowiednio.
 
 4. W przypadku transakcji kontrolowanych, o których mowa w art. 11n pkt 1, w informacji o cenach transferowych nie uwzględnia się informacji oraz wyjaśnień, o których mowa w ust. 2 pkt 3, 5 i 6.
 
-5. W przypadku spółek niemających osobowości prawnej podmiotem obowiązanym do przekazania informacji o cenach transferowych jest wyznaczony wspólnik. Wyznaczenie wspólnika nie zwalnia pozostałych wspólników z odpowiedzialności za nieprzekazanie informacji o cenach transferowych.
+5. W przypadku spółek niebędących osobami prawnymi podmiotem obowiązanym do przekazania informacji o cenach transferowych jest wyznaczony wspólnik. Wyznaczenie wspólnika nie zwalnia pozostałych wspólników z odpowiedzialności za nieprzekazanie informacji o cenach transferowych.
 
 6. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
 

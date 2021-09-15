@@ -54,7 +54,7 @@
 
 - 5) towarzystwo, zarządzającego alternatywną spółką inwestycyjną, spółkę zarządzającą oraz zarządzającego z Unii Europejskiej, o których mowa odpowiednio w art. 2 pkt 3, 3a, 10 i 10c ustawy o funduszach inwestycyjnych;
 
-- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895 i 1180);
+- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2021 r. poz. 1130);
 
 - 7) krajowy zakład reasekuracji oraz zagraniczny zakład reasekuracji w rozumieniu odpowiednio art. 3 ust. 1 pkt 19 i 56 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
 
@@ -68,7 +68,7 @@
 
 - 12) pracodawcę zagranicznego w rozumieniu art. 8 pkt 10 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
 
-- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2020 r. poz. 686);
+- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2020 r. poz. 686 i 2320);
 
 - 14) fundusze inwestycyjne otwarte oraz alternatywne fundusze inwestycyjne utworzone na podstawie ustawy o funduszach inwestycyjnych;
 
@@ -76,7 +76,7 @@
 
 - 16) centralny depozyt papierów wartościowych w rozumieniu art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2019 r. poz. 1083).
+17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2019 r. poz. 1083, z 2020 r. poz. 2320 oraz z 2021 r. poz. 1655).
 
 18. Koszty finansowania dłużnego wyłączone w roku podatkowym z kosztów uzyskania przychodów zgodnie z ust. 1 podlegają zaliczeniu do takich kosztów w następnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-17 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
 

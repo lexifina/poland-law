@@ -16,8 +16,6 @@
 
 - 2) budynki i budowle wybudowane na cudzym gruncie,
 
-- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 17a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający
+- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 17a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający - zwane także środkami trwałymi;
 
-- zwane także środkami trwałymi;
-
-- 4) tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) wprowadzonej rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753) w grupowaniu o symbolu 30.11 „Statki i konstrukcje pływające”.
+- 4) tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) wprowadzonej rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676, z 2017 r. poz. 2453, z 2018 r. poz. 2440, z 2019 r. poz. 2554 oraz z 2020 r. poz. 556) w grupowaniu o symbolu ex 30.11 „Statki i konstrukcje pływające”, przy czym oznaczenie „ex” oznacza, że zakres wyrobów i usług jest węższy niż określony w grupowaniu.

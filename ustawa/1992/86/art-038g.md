@@ -1,22 +1,30 @@
 # Art. 38g.
 
-1. Od podstawy opodatkowania ustalonej zgodnie z art. 18 ust. 1 w celu obliczenia podatku lub zaliczki podatnik może odliczyć nieodliczone na podstawie art. 18 ust. 1 pkt 1 i 8 darowizny przekazane od dnia 1 stycznia 2020 r. do dnia 30 września w 2020 r. na przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19:
+1. Od podstawy opodatkowania ustalonej zgodnie z art. 18 ust. 1 w celu obliczenia podatku lub zaliczki podatnik może odliczyć nieodliczone na podstawie art. 18 ust. 1 pkt 1 i 8 darowizny przekazane od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19:
 
-- 1) podmiotom wykonującym działalność leczniczą, wpisanym do wykazu, o którym mowa w art. 7 ustawy o COVID-19;
+- 1) podmiotom wykonującym działalność leczniczą, wpisanym do ogłoszonego w Biuletynie Informacji Publicznej Narodowego Funduszu Zdrowia wykazu podmiotów udzielających świadczeń opieki zdrowotnej, w tym transportu sanitarnego, wykonywanych w związku z przeciwdziałaniem COVID-19;
 
-- 2) Agencji Rezerw Materiałowych z przeznaczeniem na cele wykonywania zadań ustawowych;
+- 2) Rządowej Agencji Rezerw Strategicznych z przeznaczeniem na cele wykonywania zadań ustawowych;
 
-- 3) Centralnej Bazy Rezerw Sanitarno-Przeciwepidemicznych z przeznaczeniem na cele wykonywania działalności statutowej;
+- 3) Centralnej Bazie Rezerw Sanitarno-Przeciwepidemicznych z przeznaczeniem na cele wykonywania działalności statutowej;
 
-- 4) domom dla matek z małoletnimi dziećmi i kobiet w ciąży, noclegowniom, schroniskom dla osób bezdomnych, w tym z usługami opiekuńczymi, ośrodkom wsparcia, rodzinnym domom pomocy oraz domom pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2019 r. poz. 1507, 1622, 1690, 1818 i 2473).
+- 4) domom dla matek z małoletnimi dziećmi i kobiet w ciąży, noclegowniom, schroniskom dla osób bezdomnych, w tym z usługami opiekuńczymi, ośrodkom wsparcia, rodzinnym domom pomocy oraz domom pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369 oraz z 2021 r. poz. 794 i 803);
+
+- 5) Funduszowi Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), zwanemu dalej „Funduszem COVID”.
 
 2. W przypadku darowizny, o której mowa w ust. 1, przekazanej:
 
-- 1) do dnia 30 kwietnia 2020 r.- odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+- 1) do dnia 30 kwietnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
 
 - 2) w maju 2020 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
 
-- 3) od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+- 3) od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. - odliczeniu podlega kwota odpowiadająca wartości darowizny;
+
+- 4) od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+- 5) od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+- 6) od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
 
 2a. Odliczenie, o którym mowa w ust. 1 i ust. 2 pkt 1 i 2, przysługuje również w przypadku, gdy przekazanie darowizny nastąpiło przy udziale organizacji, o której mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, jeżeli:
 

@@ -8,7 +8,7 @@
 
 - 3) jest położony na terytorium Rzeczypospolitej Polskiej
 
-- zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
+‒ zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
 
 2. Zwalnia się od podatku od przychodów z budynków przychód ze środka trwałego będącego budynkiem mieszkalnym oddanym do używania w ramach realizacji programów rządowych i samorządowych dotyczących budownictwa społecznego, jeżeli zwolnienie to stanowi rekompensatę spełniającą warunki określone w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 

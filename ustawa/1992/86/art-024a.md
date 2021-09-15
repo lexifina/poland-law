@@ -32,11 +32,11 @@
 
 - 4) podmiot powiązany - oznacza:
 
-  - a) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podatnik posiada co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku,
+  - a) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podatnik posiada, bezpośrednio lub pośrednio, co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku,
 
-  - b) osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, posiadającą w podatniku co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku,
+  - b) osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, posiadającą w podatniku, bezpośrednio lub pośrednio, co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku,
 
-  - c) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podmiot wskazany w lit. b posiada co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku.
+  - c) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podmiot wskazany w lit. b posiada, bezpośrednio lub pośrednio, co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku.
 
 2a. W przypadku gdy na podstawie okoliczności faktycznych nie można ustalić, że podmiot, o którym mowa w ust. 2 pkt 1 lit. e, spełnia przesłanki uznania za zagraniczną jednostkę, domniemywa się, że podmiot ten stanowi zagraniczną jednostkę, jeżeli podatnik jest założycielem lub fundatorem tego podmiotu oraz, odpłatnie albo nieodpłatnie, przekazał majątek temu podmiotowi, chyba że założyciel (fundator) wykaże, że wyzbył się on w sposób definitywny i nieodwołalny powierzonego majątku. W takim przypadku podmiot, o którym mowa w ust. 2 pkt 1 lit. e, uznaje się za zagraniczną jednostkę, gdy podatnik jest lub może stać się beneficjentem tego podmiotu.
 
@@ -44,7 +44,7 @@
 
 3. Zagraniczną jednostką kontrolowaną jest:
 
-- 1) zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w rozporządzeniu wydanym na podstawie art. 11j ust. 2 albo
+- 1) zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2 lub w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej, albo
 
 - 2) zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium państwa innego niż wskazane w pkt 1, z którym:
 

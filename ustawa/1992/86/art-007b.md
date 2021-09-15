@@ -30,6 +30,8 @@
 
   - m) przychody uzyskane w następstwie przekształceń, łączenia lub podziałów podmiotów, w tym: - przychody osoby prawnej lub spółki, o której mowa w art. 1 ust. 3, przejmującej w następstwie łączenia lub podziału majątek lub część majątku innej osoby prawnej lub spółki, - przychody wspólnika spółki łączonej lub dzielonej, - przychody spółki dzielonej,
 
+  - n) przychód ze zmniejszenia kapitału akcyjnego w prostej spółce akcyjnej;
+
 - 2) przychody z tytułu wniesienia do osoby prawnej lub spółki, o której mowa w art. 1 ust. 3, wkładu niepieniężnego;
 
 - 3) inne, niż określone w pkt 1 i 2, przychody z udziału (akcji) w osobie prawnej lub spółce, o której mowa w art. 1 ust. 3, w tym:

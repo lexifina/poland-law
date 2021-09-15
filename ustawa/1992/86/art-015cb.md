@@ -21,3 +21,5 @@
 8. Przepis ust. 7 stosuje się odpowiednio do przychodów spółki proporcjonalnie odpowiadających tej części kosztów uzyskania przychodów, która odpowiada zwróconej kwocie dopłaty - w przypadku zwrotu części dopłaty, o której mowa w ust. 1.
 
 9. W przypadku gdy spółka, o której mowa w ust. 1, zostanie przejęta w wyniku łączenia albo podziału albo przekształcona w spółkę niebędącą osobą prawną przed upływem terminu, o którym mowa w ust. 5, na dzień poprzedzający dzień przejęcia albo przekształcenia ustala się przychód w wysokości odpowiadającej odliczonym, zgodnie z ust. 1, kosztom uzyskania przychodów.
+
+10. Przepisu ust. 1 nie stosuje się, jeżeli podatnik lub podmiot z nim powiązany w rozumieniu art. 11a ust. 1 pkt 4 dokonał czynności prawnej albo powiązanych czynności prawnych bez uzasadnionych przyczyn ekonomicznych, głównie w celu uznania kwoty określonej w ust. 1 za koszt uzyskania przychodów. Do uzasadnionych przyczyn ekonomicznych nie zalicza się przypadku, gdy korzyść uzyskana w roku podatkowym lub w latach następnych wynika z zaliczenia do kosztów uzyskania przychodów.
