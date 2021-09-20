@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/854",
+ "source_sha256": "b2280f7a72b9fa59fb9e3e35c89d0fcfdac7d9ab4e9834fa933c8dcf7cd81f2d",
+ "in_force": "2021-09-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/854",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/854/text/O/M20210854.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/854/text/I/M20210854.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/854",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 854,
+  "address": "WMP20210000854",
+  "displayAddress": "M.P. 2021 poz. 854",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 13 września 2021 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-09-13",
+  "promulgation": "2021-09-20",
+  "changeDate": "2021-09-21T11:34:15",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20210854.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20210854.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
