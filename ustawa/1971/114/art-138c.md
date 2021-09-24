@@ -14,6 +14,8 @@
 
 podlega karze grzywny.
 
-§ 3. Kto przyjmuje od konsumenta weksel lub czek niezawierający klauzuli „nie na zlecenie” w celu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy o kredyt konsumencki, podlega karze grzywny.
+§ 3. Kto przyjmuje od konsumenta czek niezawierający zastrzeżenia „nie na zlecenie” lub innego równoznacznego wcelu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy o kredyt konsumencki, podlega karze grzywny.
 
-§ 4. Jeżeli przedsiębiorcą jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w przepisach § 1-3 ponosi osoba kierująca przedsiębiorstwem lub osoba upoważniona do zawierania umów z konsumentami.
+§ 3a. Kto przyjmuje od konsumenta weksel niezawierający zastrzeżenia „nie na zlecenie” lub innego równoznacznego wcelu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy zawartej z konsumentem, podlega karze grzywny.
+
+§ 4. Jeżeli przedsiębiorcą jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w przepisach § 1-3a ponosi osoba kierująca przedsiębiorstwem lub osoba upoważniona do zawierania umów z konsumentami.
