@@ -1,0 +1,5 @@
+Jednocześnie podaje się do wiadomości, że od dnia 4 września 2021 r. porozumienie obowiązuje w relacjach między Rzecząpospolitą Polską a Republiką Litewską.
+
+Jednocześnie podaje się do wiadomości, że na podstawie art. 2 ust. I i 2 w związku z art. 4 ust. 2 porozumienia dnia 4 września 2021 r. tracą moc obowiązującą wszystkie postanowienia Umowy między Rzecząpospolitą Polską a Republiką Litewską w sprawie wzajemnego popierania i ochrony inwestycji, sporządzonej w Warszawie dnia 28 września 1992 r. (Dz. U. z 1993 r. poz. 543).
+
+Z uwagi na powyższe, od dnia 4 września 2021 r. nie mają zastosowania data utraty mocy obowiązującej umowy, określona na podstawie jej art. 13 ust. l, oraz data końcowa stosowania Klauzuli Przedłużonego Obowiązywania Traktatu (art. 13 ust. 2 umowy), podane w oświadczeniu rządowym z dnia 11 kwietnia 2019 r. w sprawie wypowiedzenia przez Rzeczpospolitą Polską Umowy między Rzecząpospolitą Polską a Republiką Litewską w sprawie wzajemnego popierania i ochrony inwestycji, sporządzonej w Warszawie dnia 28 września 1992 r. (Dz. U. z 2019 r. poz. 942).
