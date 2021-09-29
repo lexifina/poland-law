@@ -1,0 +1,5 @@
+Jednocześnie podaje się do wiadomości, że od dnia 28 sierpnia 2021 r. porozumienie obowiązuje w relacjach między Rzecząpospolitą Polską a Republiką Francuską.
+
+Jednocześnie podaje się do wiadomości, że na podstawie art. 3 w związku z art. 4 ust. 2 porozumienia dnia 28 sierpnia 2021 r. traci moc obowiązującą Klauzula Przedłużonego Obowiązywania Traktatu w Umowie między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Francuskiej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Paryżu dnia 14 lutego 1989 r. (Dz. U. z 1990 r. poz. 220) - art. 12 zdanie czwarte umowy.
+
+Z uwagi na powyższe, od dnia 28 sierpnia 2021 r. nie ma zastosowania data końcowa stosowania Klauzuli Przedłużonego Obowiązywania Traktatu podana w oświadczeniu rządowym z dnia 22 marca 2019 r. w sprawie wypowiedzenia przez Rzeczpospolitą Polską Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Francuskiej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Paryżu dnia 14 lutego 1989 r. (Dz. U. z 2019 r. poz. 792).
