@@ -1,0 +1,1 @@
+Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292 i 1559) zarządza się, co następuje:
