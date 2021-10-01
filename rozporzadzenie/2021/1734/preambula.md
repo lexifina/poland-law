@@ -1,0 +1,1 @@
+Na podstawie art. 9 ust. 1 pkt 4 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2021 r. poz. 396) zarządza się, co następuje:
