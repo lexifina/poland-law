@@ -1,0 +1,1 @@
+Na podstawie art. 230 ust. 2 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946) oraz art. 5 ust. 1 i 3 w związku z art. 3 ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. z 2017 r. poz. 1928) zarządza się, co następuje:
