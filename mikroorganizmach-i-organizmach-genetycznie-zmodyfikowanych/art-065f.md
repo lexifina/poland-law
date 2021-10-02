@@ -1,0 +1,7 @@
+# Art. 65f.
+
+1. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, bez wymaganego zezwolenia na prowadzenie zakładu inżynierii genetycznej, o którym mowa w art. 15a ust. 2, w którym jest prowadzone zamknięte użycie GMM zaliczonych do I lub II kategorii, lub zamknięte użycie GMO, zgłoszenia zamkniętego użycia GMM zaliczonych do I kategorii, o którym mowa w art. 15e pkt 1, zgłoszenia zamkniętego użycia GMM zaliczonych do II kategorii, o którym mowa w art. 15l ust. 1, zgody na zamknięte użycie GMM, o której mowa w art. 15e pkt 2, zaliczonych do II kategorii, lub zgody na zamknięte użycie GMO, o której mowa w art. 21 ust. 1, albo nie spełniając warunków określonych w tych zezwoleniach, zgłoszeniach albo zgodach, dokonuje zamkniętego użycia GMM zaliczonych do I lub II kategorii albo zamkniętego użycia GMO, podlega karze grzywny.
+
+2. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew sprzeciwowi, o którym mowa w art. 15f ust. 5, dokonuje zamkniętego użycia GMM zaliczonych do I kategorii.
+
+3. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew decyzji nakazującej zaprzestanie prowadzenia działań zamkniętego użycia GMM albo zawieszenie prowadzenia tych działań, o której mowa w art. 15m ust. 1 pkt 3, dokonuje zamkniętego użycia GMM.

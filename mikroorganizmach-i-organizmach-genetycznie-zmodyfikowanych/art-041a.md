@@ -1,0 +1,3 @@
+# Art. 41a.
+
+Wprowadzenie do obrotu nie wymaga uzyskania zezwolenia, o którym mowa w art. 41, jeżeli produkt GMO został wprowadzony do obrotu na podstawie przepisów rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy albo na podstawie decyzji wydanej przez państwo członkowskie inne niż Rzeczpospolita Polska zgodnie z przepisami wdrażającymi część C dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG.
