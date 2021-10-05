@@ -4,7 +4,7 @@
 
 - 1) przedstawienia dokumentów, w zakresie objętym postępowaniem lub kontrolą u podatnika, w celu sprawdzenia ich prawidłowości i rzetelności;
 
-- 2) przekazania, za pomocą środków komunikacji elektronicznej lub na informatycznym nośniku danych, wyciągu z ksiąg podatkowych i dowodów księgowych zapisanego w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2, jeżeli kontrahent podatnika prowadzi księgi podatkowe przy użyciu programów komputerowych; przepis art. 168 § 3a pkt 1 stosuje się odpowiednio.
+- 2) przekazania, za pomocą środków komunikacji elektronicznej lub na informatycznym nośniku danych, wyciągu z ksiąg podatkowych i dowodów księgowych zapisanego w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2, jeżeli kontrahent podatnika prowadzi księgi podatkowe przy użyciu programów komputerowych.
 
 § 1a. Z czynności sprawdzających u kontrahenta podatnika sporządza się protokół.
 

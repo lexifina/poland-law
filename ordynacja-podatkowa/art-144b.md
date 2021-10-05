@@ -1,6 +1,8 @@
 # Art. 144b.
 
-§ 1. W przypadku pism wydanych w formie dokumentu elektronicznego, które zostały opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, doręczenie może polegać na doręczeniu wydruku pisma odzwierciedlającego treść tego pisma, jeżeli strona nie wnosiła o doręczanie pism za pomocą środków komunikacji elektronicznej lub nie wyraziła zgody na doręczanie pism w taki sposób.
+§ 1. W przypadku pism utrwalonych w postaci elektronicznej, które zostały opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, doręczenie może polegać na doręczeniu wydruku pisma odzwierciedlającego treść tego pisma.
+
+§ 1a. Organ podatkowy oznacza pismo utrwalone w postaci elektronicznej klauzulą: „Tajemnica skarbowa”.
 
 § 2. Wydruk pisma, o którym mowa w § 1, zawiera:
 
