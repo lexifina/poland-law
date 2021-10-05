@@ -32,4 +32,4 @@
 
 § 11. Datą doręczenia pism, o których mowa w § 10, jest data określona w urzędowym poświadczeniu odbioru.
 
-§ 12. Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń, doręczane przez sąd w formie dokumentu elektronicznego opatrzone są kwalifikowanym podpisem elektronicznym.
+§ 12. Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń, doręczane przez sąd w formie dokumentu elektronicznego, są opatrzone kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.
