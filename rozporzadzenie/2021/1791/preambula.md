@@ -1,0 +1,1 @@
+Na podstawie art. 8 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2020 r. poz. 517 oraz z 2021 r. poz. 794) zarządza się, co następuje:
