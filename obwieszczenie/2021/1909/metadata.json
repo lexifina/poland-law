@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1909",
+ "source_sha256": "6a0414064e3897cde7661be1bbe92adfd8926b21ceb463bf62dfdeb50bca307c",
+ "in_force": "2021-10-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1909",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1909/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1909/text/O/D20211909.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1909/text/I/D20211909.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/1909/text/T/D20211909L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/1909/text/U/D20211909Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1909",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1909,
+  "address": "WDU20210001909",
+  "displayAddress": "Dz.U. 2021 poz. 1909",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Rejestrze Zadłużonych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-09-17",
+  "promulgation": "2021-10-21",
+  "expirationDate": "2025-11-20",
+  "changeDate": "2025-11-21T09:37:10",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowy Rejestr Zadłużonych"
+  ],
+  "directives": [
+   {
+    "address": "32015R0848",
+    "date": "2015-05-20",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/848 z dnia 20 maja 2015 r. w sprawie postępowania upadłościowego"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/55"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211909.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211909.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20211909L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20211909Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
