@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/1900",
+ "source_sha256": "0638596d96b229318c3ace7bd43ce9e2d5b5c674969ed36fea0888bb5cbc93e5",
+ "in_force": "2021-10-22",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (40 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/1900",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/1900/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/1900/text/O/D20211900.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/1900/text/I/D20211900.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/1900",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1900,
+  "address": "WDU20210001900",
+  "displayAddress": "Dz.U. 2021 poz. 1900",
+  "title": "Ustawa z dnia 1 października 2021 r. o zmianie ustawy budżetowej na rok 2021",
+  "type": "Ustawa",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-10-01",
+  "promulgation": "2021-10-21",
+  "entryIntoForce": "2021-10-22",
+  "expirationDate": "2021-12-31",
+  "changeDate": "2024-03-14T12:38:53",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "budżetowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=1585",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/1585",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/1585",
+    "number": "1585",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2021/190",
+     "date": "2021-10-22"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20211900.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20211900.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
