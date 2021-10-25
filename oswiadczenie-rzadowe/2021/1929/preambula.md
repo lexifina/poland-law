@@ -1,0 +1,7 @@
+Podaje się do wiadomości, że zgodnie z art. 16 ust. 2 Porozumienia o wygaśnięciu dwustronnych traktatów inwestycyjnych między państwami członkowskimi Unii Europejskiej, sporządzonego w Brukseli dnia 5 maja 2020 r., Republika Grecka staje się dnia 29 października 2021 r. stroną wyżej wymienionego porozumienia.
+
+Jednocześnie podaje się do wiadomości, że od dnia 29 października 2021 r. porozumienie obowiązuje w relacjach między Rzecząpospolitą Polską a Republiką Grecką.
+
+Jednocześnie podaje się do wiadomości, że na podstawie art. 3 w związku z art. 4 ust. 2 porozumienia dnia 29 października 2021 r. traci moc obowiązującą Klauzula Przedłużonego Obowiązywania Traktatu w Umowie między Rzecząpospolitą Polską a Republiką Grecji w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Atenach dnia 14 października 1992 r. (Dz. U. z 1995 r. poz. 275) - art. 13 ust. 2 zdanie czwarte umowy.
+
+Z uwagi na powyższe, od dnia 29 października 2021 r. nie ma zastosowania data końcowa stosowania Klauzuli Przedłużonego Obowiązywania Traktatu podana w oświadczeniu rządowym z dnia 9 kwietnia 2019 r. w sprawie wypowiedzenia przez Rzeczpospolitą Polską Umowy między Rzecząpospolitą Polską a Republiką Grecji w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Atenach dnia 14 października 1992 r. (Dz. U. z 2019 r. poz. 940 oraz z 2020 r. poz. 582).
