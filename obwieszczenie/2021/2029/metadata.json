@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/2029",
+ "source_sha256": "4b172c99870f34f5a103ad0f38f2e1d91eba48de7dc12b6ca8aa93161355d873",
+ "in_force": "2021-11-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/2029",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/2029/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/2029/text/O/D20212029 .pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/2029/text/I/D20212029 .pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/2029/text/T/D20212029L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/2029",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 2029,
+  "address": "WDU20210002029",
+  "displayAddress": "Dz.U. 2021 poz. 2029",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 października 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-10-14",
+  "promulgation": "2021-11-09",
+  "changeDate": "2024-03-14T12:25:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia",
+   "świadczenia pieniężne",
+   "kombatanci",
+   "osoby represjonowane",
+   "obywatelstwo",
+   "deportowani",
+   "administracyjne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2020/1428"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20212029 .pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20212029 .pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20212029L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
