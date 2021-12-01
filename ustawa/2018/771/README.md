@@ -2,5 +2,5 @@
 
 Dz.U. 2018 poz. 771 · <https://eli.gov.pl/api/acts/DU/2018/771>
 
-Tekst jednolity: Dz.U. 2021 poz. 850 (2021-05-05), stan na 2021-01-01.
+Tekst jednolity: Dz.U. 2022 poz. 1168 (2022-06-01), stan na 2021-12-01.
 
