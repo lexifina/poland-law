@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/1135",
+ "source_sha256": "43a010e9b598a0084e4a53889eeb37224653f04846b0b1919d563e71204e64a9",
+ "in_force": "2021-12-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/1135",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/1135/text/O/M20211135.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/1135/text/I/M20211135.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/1135",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1135,
+  "address": "WMP20210001135",
+  "displayAddress": "M.P. 2021 poz. 1135",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 6 października 2021 r. nr 112.75.2021 w sprawie mianowania na stopień generała brygady",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-10-06",
+  "promulgation": "2021-12-07",
+  "changeDate": "2021-12-08T11:00:33",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie wojskowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1967/220"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 134 ust. 5"
+    },
+    {
+     "id": "DU/1967/220",
+     "art": "art. 76 ust. 4 i ust. 8b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20211135.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20211135.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
