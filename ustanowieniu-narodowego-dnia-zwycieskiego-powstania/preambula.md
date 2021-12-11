@@ -1,0 +1,1 @@
+W hołdzie bohaterom - uczestnikom narodowego zrywu z lat 1918-1919, którzy wyzwolili Wielkopolskę spod panowania niemieckiego i przyłączyli ją do odrodzonej Rzeczypospolitej - stanowi się, co następuje:
