@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2021/1173",
+ "source_sha256": "4bccb9e9f536af482ea1ab827812e10f03bf6b3e18c2e7ff64be8d30efb5681e",
+ "in_force": "2021-12-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2021/1173",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2021/1173/text/O/M20211173.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2021/1173/text/I/M20211173.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2021/1173",
+  "publisher": "MP",
+  "year": 2021,
+  "volume": 0,
+  "pos": 1173,
+  "address": "WMP20210001173",
+  "displayAddress": "M.P. 2021 poz. 1173",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 8 grudnia 2021 r. o wolnym stanowisku asesorskim w Wojewódzkim Sądzie Administracyjnym w Warszawie",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-12-08",
+  "promulgation": "2021-12-14",
+  "changeDate": "2021-12-15T11:05:46",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "asesorzy",
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1269"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1269",
+     "art": "art. 6a par. 2a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20211173.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20211173.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
