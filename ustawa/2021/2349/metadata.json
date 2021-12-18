@@ -1,0 +1,111 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2021/2349",
+ "source_sha256": "ded67bfd86e44be80c1fe400a24a8da8fa833573d3a9879b6f46a0a50dfcbf03",
+ "in_force": "2021-12-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2021/2349",
+  "html": "https://eli.gov.pl/api/acts/DU/2021/2349/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2021/2349/text/O/D20212349.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2021/2349/text/I/D20212349.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2021/2349/text/T/D20212349L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2021/2349/text/U/D20212349Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2021/2349",
+  "publisher": "DU",
+  "year": 2021,
+  "volume": 0,
+  "pos": 2349,
+  "address": "WDU20210002349",
+  "displayAddress": "Dz.U. 2021 poz. 2349",
+  "title": "Ustawa z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-12-09",
+  "promulgation": "2021-12-17",
+  "entryIntoForce": "2021-12-18",
+  "changeDate": "2024-03-14T12:37:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek akcyzowy",
+   "akcyza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=1811",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/1811",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/1811",
+    "number": "1811",
+    "term": 9
+   }
+  ],
+  "comments": "art. 5 wchodzi w życie z dniem 1 stycznia 2022 r.",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2022/1137",
+     "date": "2022-05-28"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2021/2105",
+     "date": "2022-01-01"
+    },
+    {
+     "id": "DU/2021/1803",
+     "date": "2021-12-18"
+    },
+    {
+     "id": "DU/2019/1572",
+     "date": "2021-12-18"
+    },
+    {
+     "id": "DU/2016/1155",
+     "date": "2021-12-18"
+    },
+    {
+     "id": "DU/2009/11",
+     "date": "2021-12-18"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20212349.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20212349.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20212349L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20212349Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
