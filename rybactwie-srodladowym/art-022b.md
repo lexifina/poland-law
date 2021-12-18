@@ -1,0 +1,5 @@
+# Art. 22b.
+
+1. Państwowa Straż Rybacka jest uprawniona do przetwarzania informacji, w tym danych osobowych, w zakresie niezbędnym do prowadzenia postępowań kwalifikacyjnych do służby w Państwowej Straży Rybackiej, przenoszenia do służby w Państwowej Straży Rybackiej oraz w zakresie wynikającym z przebiegu stosunku służbowego funkcjonariuszy Państwowej Straży Rybackiej, także po jego ustaniu, w tym ma prawo przetwarzać dane osobowe, o których mowa w art. 9 i art. 10 rozporządzenia (UE) 2016/679, z wyłączeniem danych dotyczących kodu genetycznego oraz danych daktyloskopijnych.
+
+2. Do przetwarzania danych osobowych, o których mowa w ust. 1, nie stosuje się art. 13 ust. 1 lit. d i e oraz art. 16 rozporządzenia (UE) 2016/679 w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na dopuszczeniu do ich przetwarzania wyłącznie pracowników posiadających pisemne upoważnienie wydane przez administratora danych oraz pisemnym zobowiązaniu pracowników do zachowania przetwarzanych danych w poufności.
