@@ -1,0 +1,1 @@
+Na podstawie art. 287 ust. 10 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842, z późn. zm.) zarządza się, co następuje:
