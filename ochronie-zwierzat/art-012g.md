@@ -1,0 +1,9 @@
+# Art. 12g.
+
+1. Podmiot prowadzący ubojnię gromadzi, pod nadzorem urzędowego lekarza weterynarii w rozumieniu przepisów o kontroli weterynaryjnej w handlu, dane dotyczące gospodarstwa, z którego pochodzą kurczęta brojlery, kurnika, w którym są utrzymywane kurczęta brojlery, i liczby kurcząt brojlerów padłych podczas transportu do ubojni oraz dane i informacje, o których mowa w art. 12f ust. 3 pkt 2 i 3.
+
+2. Urzędowy lekarz weterynarii po przeprowadzeniu kontroli, o której mowa w art. 5 rozporządzenia (WE) nr 854/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące organizacji urzędowych kontroli w odniesieniu do produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi (Dz. Urz. UE L 139 z 30.04.2004, str. 206, z późn. zm.; Dz. Urz. Polskie wydanie specjalne, rozdz. 3, t. 45, str. 75), i na podstawie wyników badania poubojowego, określa poziom dobrostanu kurcząt brojlerów, w tym częstotliwość występowania przypadków kontaktowego zapalenia skóry, zarobaczenia i chorób ogólnoustrojowych w kurniku, w którym są utrzymywane kurczęta brojlery, lub w gospodarstwie, z którego pochodziły kurczęta brojlery poddane ubojowi.
+
+3. W przypadku gdy wyniki badania poubojowego lub dane i informacje, o których mowa w art. 12f ust. 3 pkt 2 i 3, wskazują na niski poziom dobrostanu, urzędowy lekarz weterynarii przekazuje informacje zawierające wyniki badania poubojowego posiadaczowi kurnika lub opiekunom oraz powiatowemu lekarzowi weterynarii, właściwemu ze względu na lokalizację kurnika, w którym są utrzymywane kurczęta brojlery.
+
+4. Posiadacz kurnika lub opiekunowie podejmują, pod nadzorem powiatowego lekarza weterynarii właściwego ze względu na lokalizację kurnika, działania mające na celu poprawę dobrostanu kurcząt brojlerów.

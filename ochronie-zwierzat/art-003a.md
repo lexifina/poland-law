@@ -1,0 +1,9 @@
+# Art. 3a.
+
+Do postępowań w sprawach:
+
+- 1) o których mowa w art. 10, art. 13 oraz art. 24a,
+
+- 2) dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji wydanej na podstawie art. 10, art. 13 lub art. 24a oraz w sprawach wznowienia postępowania zakończonego wydaniem takiej decyzji
+
+- nie stosuje się przepisów art. 29 i art. 32 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803) oraz działu III ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541).
