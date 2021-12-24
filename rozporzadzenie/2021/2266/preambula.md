@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 4 ustawy z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. z 2019 r. poz. 2188 oraz z 2021 r. poz. 2227) zarządza się, co następuje:
