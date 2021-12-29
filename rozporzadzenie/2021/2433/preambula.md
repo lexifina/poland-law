@@ -1,0 +1,1 @@
+Na podstawie art. 32 ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 (Dz. U. z 2021 r. poz. 986) zarządza się, co następuje:
