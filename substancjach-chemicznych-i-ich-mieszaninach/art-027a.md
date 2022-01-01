@@ -1,0 +1,3 @@
+# Art. 27a.
+
+W przypadku gdy dalszy użytkownik substancji w jej postaci własnej lub jako składnika mieszaniny wbrew przepisom art. 37 ust. 4 rozporządzenia nr 1907/2006 nie sporządza wymaganego raportu bezpieczeństwa chemicznego, Prezes Biura może, na wniosek państwowego powiatowego inspektora sanitarnego składany za pośrednictwem Głównego Inspektora Sanitarnego lub na wniosek Głównego Inspektora Ochrony Środowiska, zakazać, w drodze decyzji, wprowadzania takiej substancji do obrotu lub stosowania na terytorium Rzeczypospolitej Polskiej do czasu sporządzenia wymaganego raportu bezpieczeństwa chemicznego lub określić termin, po którym taka decyzja zostanie wydana, w przypadku gdy wymagany raport bezpieczeństwa chemicznego nie zostanie sporządzony w tym terminie.
