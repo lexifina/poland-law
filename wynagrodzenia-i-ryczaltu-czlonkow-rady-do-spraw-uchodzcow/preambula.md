@@ -1,0 +1,1 @@
+Na podstawie art. 89za ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 1264 i 1383 oraz z 2023 r. poz. 185) zarządza się, co następuje:
