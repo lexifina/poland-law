@@ -16,4 +16,6 @@
 
 § 2. W razie uznania stanowiska zainteresowanego za nieprawidłowe w zakresie opisanym w § 1 pkt 2 lit. a-c organ podatkowy wskazuje w decyzji prawidłowe stanowisko wraz z uzasadnieniem faktycznym i prawnym.
 
+§ 2a. Organ podatkowy odmawia w decyzji określenia sposobu cofnięcia skutków unikania opodatkowania w zakresie korzyści podatkowych, które mogą zostać osiągnięte w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, jeżeli odnośnie do tych korzyści nie zostały spełnione warunki określone w art. 119zfd § 1a.
+
 § 3. Jeżeli w decyzji nie określono skutków podatkowych stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, decyzja może ponadto określać uprawnienia zainteresowanego podmiotu, o którym mowa w art. 119zfm.

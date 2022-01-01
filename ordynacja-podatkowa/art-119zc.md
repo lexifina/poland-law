@@ -4,10 +4,10 @@
 
 § 2. Opłata podlega zwrotowi w przypadku:
 
-- 1) wycofania wniosku - w połowie;
+- 1) wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia - w połowie;
 
 - 2) uiszczenia jej w kwocie wyższej niż należna - w odpowiedniej części.
 
-§ 3. Zwrot nienależnie uiszczonej opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej.
+§ 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej.
 
 § 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.

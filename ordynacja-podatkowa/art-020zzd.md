@@ -1,0 +1,1 @@
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego, porozumienie inwestycyjne i inne pisma sporządzane na podstawie niniejszego działu przed zawarciem porozumienia inwestycyjnego i w okresie jego obowiązywania są utrwalane w postaci elektronicznej.

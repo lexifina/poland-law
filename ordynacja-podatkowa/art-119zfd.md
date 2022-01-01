@@ -28,6 +28,8 @@
 
   - c) stanu prawnego, jaki zaistniałby, gdyby wskazany przepis ustawy podatkowej nie miał zastosowania.
 
+§ 1a. We wniosku zainteresowany może zwrócić się o określenie w decyzji sposobu cofnięcia skutków unikania opodatkowania w zakresie korzyści podatkowych, które mogą zostać osiągnięte w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, jeżeli zachodzi uzasadnione przez zainteresowanego prawdopodobieństwo, że korzyści te będą osiągane cyklicznie w związku z czynnością określoną w § 1 pkt 1 lit. a, w sposób analogiczny do korzyści podatkowej, o której mowa w § 1 pkt 1 lit. c.
+
 § 2. Do wniosku należy załączyć istotną dokumentację:
 
 - 1) dotyczącą czynności określonej w § 1 pkt 1, w tym również opisującą zamiary i cele podmiotów w niej uczestniczących;

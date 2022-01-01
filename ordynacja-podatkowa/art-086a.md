@@ -150,7 +150,7 @@
 
 - 2) korzystającego, który jest stroną umowy o współdziałanie, jeżeli w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej potwierdził wykonywanie przez niego obowiązków, o których mowa w niniejszym rozdziale.
 
-§ 5a. Obowiązek przekazania informacji o schemacie podatkowym, innym niż schemat podatkowy transgraniczny, w zakresie podatku dochodowego od osób prawnych nie powstaje w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych zgodnie z przepisami rozdziału 6b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+§ 5a. Obowiązek przekazania informacji o schemacie podatkowym, innym niż schemat podatkowy transgraniczny, w zakresie podatku dochodowego od osób prawnych nie powstaje w okresie opodatkowania ryczałtem od dochodów spółek zgodnie z przepisami rozdziału 6b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
 § 6. W przypadku gdy korzystającym jest spółka wchodząca w skład podatkowej grupy kapitałowej w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, przepisy niniejszego rozdziału stosuje się odpowiednio.
 

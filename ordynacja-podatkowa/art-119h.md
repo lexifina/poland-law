@@ -6,4 +6,6 @@
 
 § 3. Występując o opinię, Szef Krajowej Administracji Skarbowej przekazuje akta sprawy Radzie. O wystąpieniu o opinię Szef Krajowej Administracji Skarbowej niezwłocznie informuje stronę.
 
+§ 3a. W przypadku, o którym mowa w § 3 zdanie pierwsze, w postępowaniu przed Radą czynności, o których mowa w rozdziale 10 działu IV, wykonuje Szef Krajowej Administracji Skarbowej.
+
 § 4. Przepisu § 2 nie stosuje się, jeżeli decyzja organu podatkowego pierwszej instancji została wydana z zastosowaniem art. 119a § 7.

@@ -12,17 +12,19 @@
 
 § 3. Jeżeli czynność prowadząca do unikania opodatkowania została uprzednio oceniona w ramach odmowy wydania opinii zabezpieczającej, opłata od wniosku o wydanie decyzji wynosi 75% różnicy opłaty obliczonej na podstawie § 1 i opłaty uiszczonej na podstawie art. 119zc § 1, jednak nie mniej niż 1000 zł.
 
+§ 3a. W przypadku złożenia przez zainteresowanego wniosku określonego w art. 119zfd § 1a opłatę obliczoną na podstawie § 1 i 3 zwiększa się o 35%.
+
 § 4. Opłata podlega zwrotowi w przypadku:
 
-- 1) wycofania wniosku - w połowie;
+- 1) wycofania wniosku w terminie 2 miesięcy od dnia jego złożenia - w połowie;
 
 - 2) uiszczenia jej w kwocie wyższej niż należna - w odpowiedniej części.
 
 § 5. Opłatę należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Zwrot nienależnie uiszczonej opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania decyzji.
 
-§ 6. W przypadku uznania, że uzyskana przez zainteresowanego korzyść podatkowa jest większa od tej, którą wskazano we wniosku o wydanie decyzji, Szef Krajowej Administracji Skarbowej ustala, w drodze postanowienia, wysokość opłaty uzupełniającej, obliczonej zgodnie z § 1 lub 3.
+§ 6. W przypadku uznania, że osiągnięta przez zainteresowanego korzyść podatkowa jest wyższa od tej, którą wskazano we wniosku o wydanie decyzji, w toku postępowania Szef Krajowej Administracji Skarbowej ustala, w drodze postanowienia, wysokość opłaty uzupełniającej, obliczonej zgodnie z § 1, 3 lub 3a.
 
-§ 7. Opłaty, o których mowa w § 1, 3 i 6, stanowią dochód budżetu państwa.
+§ 7. Opłaty stanowią dochód budżetu państwa.
 
 § 8. Jeżeli w wydanej decyzji Szef Krajowej Administracji Skarbowej określił skutki podatkowe stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, zwraca się 60% uiszczonej opłaty, jeżeli zainteresowany, który unikał opodatkowania:
 

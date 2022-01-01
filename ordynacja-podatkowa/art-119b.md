@@ -14,4 +14,6 @@
 
 - 6) do podmiotu, który zawarł porozumienie podatkowe, o którym mowa w art. 20zb pkt 3, w zakresie objętym tym porozumieniem.
 
+- 7) do podmiotu, który jest stroną zawartego porozumienia inwestycyjnego, w części dotyczącej art. 20zt pkt 2 - w zakresie objętym tym porozumieniem.
+
 § 2. (uchylony)
