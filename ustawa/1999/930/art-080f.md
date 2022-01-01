@@ -12,13 +12,13 @@ podlega karze grzywny do 720 stawek dziennych.
 
 § 3. Karze określonej w § 1 podlega również, kto wbrew obowiązkowi:
 
-- 1) nie informuje pisemnie podmiotu obowiązanego do przekazania schematu podatkowego o tym obowiązku lub robi to po terminie;
+- 1) nie informuje na piśmie podmiotu obowiązanego do przekazania schematu podatkowego o tym obowiązku lub robi to po terminie;
 
 - 2) nie przekazuje podmiotowi obowiązanemu do przekazania schematu podatkowego danych, o których mowa w art. 86f § 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, dotyczących schematu podatkowego lub robi to po terminie;
 
-- 3) nie informuje pisemnie podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, o tym, że nie przekaże informacji o schemacie podatkowym lub robi to po terminie;
+- 3) nie informuje na piśmie podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, o tym, że nie przekaże informacji o schemacie podatkowym lub robi to po terminie;
 
-- 4) nie występuje do podmiotu zlecającego czynności z odrębnym pismem o przekazanie mu pisemnego oświadczenia, że uzgodnienie nie stanowi schematu podatkowego, lub robi to po terminie.
+- 4) nie występuje do podmiotu zlecającego czynności z odrębnym pismem o przekazanie mu oświadczenia na piśmie, że uzgodnienie nie stanowi schematu podatkowego, lub robi to po terminie.
 
 § 4. Kto wbrew art. 86i § 4 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa posługuje się unieważnionym NSP, podlega karze grzywny do 240 stawek dziennych.
 

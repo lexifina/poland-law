@@ -1,6 +1,6 @@
 # Art. 57a.
 
-§ 1. Komornik sądowy, który wbrew obowiązkowi, o którym mowa w art. 149 ust. 2 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2020 r. poz. 121 i 288), nie przekazuje na rachunek właściwego urzędu skarbowego podlegających przekazaniu opłat egzekucyjnych albo przekazuje je w niewłaściwej wysokości, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
+§ 1. Komornik sądowy, który wbrew obowiązkowi, o którym mowa w art. 149 ust. 2 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850 i 1090), nie przekazuje na rachunek właściwego urzędu skarbowego podlegających przekazaniu opłat egzekucyjnych albo przekazuje je w niewłaściwej wysokości, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
 
 § 2. Jeżeli kwota należności, o których mowa w § 1, jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
 

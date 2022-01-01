@@ -1,5 +1,9 @@
 # Art. 56c.
 
-§ 1. Kto wbrew obowiązkowi nie składa właściwemu organowi podatkowemu oświadczenia, o którym mowa w art. 23y ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w art. 11m ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.), albo składa to oświadczenie po terminie lub poświadcza w nim informacje niezgodne ze stanem rzeczywistym, podlega karze grzywny do 720 stawek dziennych.
+§ 1. Kto wbrew obowiązkowi nie sporządza lokalnej dokumentacji cen transferowych, o której mowa w art. 23w ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w art. 11k ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, albo nie dołącza do lokalnej dokumentacji cen transferowych grupowej dokumentacji cen transferowych, o której mowa w art. 23zb ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w art. 11p ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych podlega karze grzywny do 720 stawek dziennych.
 
-§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
+§ 2. Tej samej karze podlega, kto sporządza dokumentację, o której mowa w § 1, niezgodnie ze stanem rzeczywistym.
+
+§ 3. Kto wbrew obowiązkowi dokumentację, o której mowa w § 1, sporządza po terminie, podlega karze grzywny do 240 stawek dziennych.
+
+§ 4. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1-3 podlega karze grzywny za wykroczenie skarbowe.

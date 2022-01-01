@@ -1,6 +1,6 @@
 # Art. 80c.
 
-§ 1. Kto, działając w imieniu lub interesie raportującej instytucji finansowej, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2020 r. poz. 343 i 1106), nie dopełnia obowiązku:
+§ 1. Kto, działając w imieniu lub interesie raportującej instytucji finansowej, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2021 r. poz. 626 i 2105), nie dopełnia obowiązku:
 
 - 1) stosowania zasad i procedur należytej staranności oraz procedur sprawozdawczych,
 
