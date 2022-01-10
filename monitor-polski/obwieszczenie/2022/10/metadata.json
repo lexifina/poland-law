@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/10",
+ "source_sha256": "c205d4b0c1a924da8ad28716a559ec62c45f5a6282386087d75efda88fd5f412",
+ "in_force": "2022-01-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/10",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/10/text/O/M20220010.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/10/text/I/M20220010.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/10",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 10,
+  "address": "WMP20220000010",
+  "displayAddress": "M.P. 2022 poz. 10",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 10 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Zespołu do spraw Programowania Prac Rządu",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-12-10",
+  "promulgation": "2022-01-10",
+  "expirationDate": "2023-03-13",
+  "changeDate": "2023-03-14T13:07:11",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Rada Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2021/220"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220010.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220010.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
