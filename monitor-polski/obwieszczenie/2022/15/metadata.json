@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/15",
+ "source_sha256": "c43ebf15edc4ca2c6bef2ad99c12d40235750dacb4c1b9439e84fe184d50a159",
+ "in_force": "2022-01-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/15",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/15/text/O/M20220015.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/15/text/I/M20220015.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/15",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 15,
+  "address": "WMP20220000015",
+  "displayAddress": "M.P. 2022 poz. 15",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 30 grudnia 2021 r. o wolnych stanowiskach sędziowskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2021-12-30",
+  "promulgation": "2022-01-12",
+  "changeDate": "2022-01-13T10:59:09",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/1070"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/1070",
+     "art": "art. 20a par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220015.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220015.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
