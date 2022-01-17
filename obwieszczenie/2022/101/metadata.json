@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/101",
+ "source_sha256": "5279d5f8f1d1a2626fabdb51ba005a7feea73bfa579b57618be20225c6fce151",
+ "in_force": "2022-01-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/101",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/101/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/101/text/O/D20220101.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/101/text/I/D20220101.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/101/text/T/D20220101L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/101/text/U/D20220101Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/101",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 101,
+  "address": "WDU20220000101",
+  "displayAddress": "Dz.U. 2022 poz. 101",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-12-02",
+  "promulgation": "2022-01-17",
+  "expirationDate": "2023-07-17",
+  "changeDate": "2024-03-14T12:13:49",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kredyty i pożyczki",
+   "stopa procentowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1922"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220101.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220101.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220101L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220101Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
