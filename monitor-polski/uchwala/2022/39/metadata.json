@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/39",
+ "source_sha256": "6d9c2d2c66a4a7e652bd9ac656bdeeced9aa634ec552c86b62bbb26386deafdd",
+ "in_force": "2022-01-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/39",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/39/text/O/M20220039.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/39/text/I/M20220039.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/39",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 39,
+  "address": "WMP20220000039",
+  "displayAddress": "M.P. 2022 poz. 39",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 12 stycznia 2022 r. w sprawie powołania członków Rady Polityki Pieniężnej",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-01-12",
+  "promulgation": "2022-01-19",
+  "changeDate": "2022-01-20T15:48:04",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Rada Polityki Pieniężnej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/938"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/938",
+     "art": "art. 13 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 227 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220039.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220039.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
