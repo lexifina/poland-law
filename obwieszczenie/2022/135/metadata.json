@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/135",
+ "source_sha256": "3997542f1d3b78f8ccac9fcfcf9e2634baa84116e7eb6e52a39be4b9a64b8421",
+ "in_force": "2022-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/135",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/135/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/135/text/O/D20220135.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/135/text/I/D20220135.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/135/text/T/D20220135L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/135/text/U/D20220135Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/135",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 135,
+  "address": "WDU20220000135",
+  "displayAddress": "Dz.U. 2022 poz. 135",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej w województwie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2021-11-17",
+  "promulgation": "2022-01-20",
+  "expirationDate": "2023-01-27",
+  "changeDate": "2025-10-17T09:19:58",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "województwa",
+   "administracja rządowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/206"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220135.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220135.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220135L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220135Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
