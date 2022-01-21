@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/63",
+ "source_sha256": "8c638db924ce983167ad4cad8623c77c6a43369cc7b6a67f0997d99c1581f456",
+ "in_force": "2022-01-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/63",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/63/text/O/M20220063.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/63/text/I/M20220063.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/63",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 63,
+  "address": "WMP20220000063",
+  "displayAddress": "M.P. 2022 poz. 63",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Miar z dnia 18 stycznia 2022 r. w sprawie wzorców jednostek miar spełniających warunki określone dla państwowych wzorców jednostek miar",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-01-18",
+  "promulgation": "2022-01-21",
+  "changeDate": "2022-01-24T11:41:08",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "miary i narzędzia pomiarowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2001/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2001/636",
+     "art": "art. 16 ust. 1 pkt 1 lit. b"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220063.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220063.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
