@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/110",
+ "source_sha256": "690dbb96d0bdff8ee257c5d439f24057ac72d307e8d08b1930524493a25c4532",
+ "in_force": "2022-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/110",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/110/text/O/M20220110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/110/text/I/M20220110.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/110",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 110,
+  "address": "WMP20220000110",
+  "displayAddress": "M.P. 2022 poz. 110",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 24 stycznia 2022 r. w sprawie wysokości odsetek ustawowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-01-24",
+  "promulgation": "2022-01-28",
+  "changeDate": "2022-04-11T12:10:58",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki ustawowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/93",
+     "art": "art. 359 par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220110.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
