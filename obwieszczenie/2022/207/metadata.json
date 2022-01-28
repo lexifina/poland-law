@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/207",
+ "source_sha256": "5d7d9755dd53e833f4ba8d6193a0aca49b69e872b2c8cadab66ff1e34cedd36d",
+ "in_force": "2022-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/207",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/207/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/207/text/O/D20220207.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/207/text/I/D20220207.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/207/text/T/D20220207L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/207",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 207,
+  "address": "WDU20220000207",
+  "displayAddress": "Dz.U. 2022 poz. 207",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-01-13",
+  "promulgation": "2022-01-28",
+  "changeDate": "2024-03-14T12:17:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1996/356"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220207.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220207.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220207L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
