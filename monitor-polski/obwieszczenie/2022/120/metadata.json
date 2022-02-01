@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/120",
+ "source_sha256": "43f23128ab71f9d6934dd2aaf703c5949cfdc083eded0dec74666d16639f8c64",
+ "in_force": "2022-02-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/120",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/120/text/O/M20220120.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/120/text/I/M20220120.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/120",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 120,
+  "address": "WMP20220000120",
+  "displayAddress": "M.P. 2022 poz. 120",
+  "title": "Obwieszczenie Ministra Edukacji i Nauki z dnia 28 stycznia 2022 r. w sprawie prognozy zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-01-28",
+  "promulgation": "2022-02-01",
+  "changeDate": "2022-02-14T11:33:10",
+  "releasedBy": [
+   "MIN. EDUKACJI I NAUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca",
+   "szkolnictwo zawodowe",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2017/59"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2017/59",
+     "art": "art. 46b ust. 1 i 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220120.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220120.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
