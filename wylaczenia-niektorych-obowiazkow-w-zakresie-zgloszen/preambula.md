@@ -1,0 +1,1 @@
+Na podstawie art. 7b ust. 2 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104) zarządza się, co następuje:
