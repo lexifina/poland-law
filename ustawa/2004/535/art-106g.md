@@ -16,4 +16,10 @@
 
 - zachowując je jednocześnie w swojej dokumentacji.
 
-4. W przypadku wewnątrzwspólnotowej dostawy nowych środków transportu na rzecz nabywcy, o którym mowa w art. 13 ust. 2 pkt 4, podatnik, w terminie 14 dni od dnia dokonania dostawy, przesyła kopię wystawionej faktury lub dane w niej zawarte do wyznaczonej jednostki, o której mowa w art. 97 ust. 17.
+3a. Faktura ustrukturyzowana jest udostępniana i otrzymywana za pomocą oprogramowania interfejsowego, o którym mowa w art. 106nc ust. 1.
+
+3b. Jeżeli odbiorca faktury nie wyraził akceptacji, o której mowa w art. 106na ust. 2, faktura ustrukturyzowana może być przesłana temu podmiotowi w postaci z nim uzgodnionej. Przepisy ust. 1-3 stosuje się odpowiednio.
+
+3c. Dostęp do faktury ustrukturyzowanej jest możliwy przez podanie danych tej faktury określonych w przepisach wydanych na podstawie art. 106r pkt 4.
+
+4. W przypadku wewnątrzwspólnotowej dostawy nowych środków transportu na rzecz nabywcy, o którym mowa w art. 13 ust. 2 pkt 4, podatnik, w terminie 14 dni od dnia dokonania dostawy, przesyła kopię wystawionej faktury lub dane w niej zawarte do wyznaczonej jednostki, o której mowa w art. 97 ust. 17. Przepisu nie stosuje się do faktur ustrukturyzowanych.

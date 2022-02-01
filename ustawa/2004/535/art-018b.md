@@ -8,7 +8,7 @@
 
 - 3) przez ostatnie 24 miesiące nie zalegała z wpłatami poszczególnych podatków stanowiących dochód budżetu państwa, przekraczającymi odrębnie w każdym podatku odpowiednio 3% kwoty należnych zobowiązań podatkowych w poszczególnych podatkach; udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
 
-- 4) przez ostatnie 24 miesiące osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem władz zarządzających, głównym księgowym, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz. U. z 2021 r. poz. 408) za popełnienie przestępstwa skarbowego;
+- 4) przez ostatnie 24 miesiące osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem władz zarządzających, głównym księgowym, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz. U. z 2021 r. poz. 408, 694, 2105 i 2427) za popełnienie przestępstwa skarbowego;
 
 - 5) jest uprawniona do zawodowego wykonywania doradztwa podatkowego zgodnie z przepisami o doradztwie podatkowym lub do usługowego prowadzenia ksiąg rachunkowych zgodnie z przepisami o rachunkowości.
 
@@ -20,7 +20,7 @@
 
 3. Przepisu ust. 1 pkt 5 nie stosuje się do agencji celnej, jeżeli podatnik ustanawiający ten podmiot przedstawicielem podatkowym dokonuje na terytorium kraju wyłącznie importu towarów, których miejscem przeznaczenia jest terytorium państwa członkowskiego inne niż terytorium kraju i wywóz z terytorium kraju jest dokonywany przez importera tych towarów w ramach wewnątrzwspólnotowej dostawy towarów.
 
-4. Przedstawiciela podatkowego ustanawia się w drodze pisemnej umowy, która powinna zawierać:
+4. Przedstawiciela podatkowego ustanawia się w drodze sporządzonej na piśmie umowy, która powinna zawierać:
 
 - 1) nazwy stron umowy oraz ich adresy i dane identyfikacyjne na potrzeby odpowiednio podatku, podatku od wartości dodanej lub podatku o podobnym charakterze;
 

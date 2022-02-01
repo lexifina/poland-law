@@ -6,7 +6,7 @@
 
 3. Podatnik jest obowiązany w terminie, o którym mowa w ust. 2, do wpłacenia kwot podatku wykazanych w deklaracjach importowych, z zastrzeżeniem art. 33a.
 
-4. W przypadku, o którym mowa w ust. 1, przepisy art. 33 ust. 2, 3, 6 i 7 stosuje się odpowiednio.
+4. W przypadku, o którym mowa w ust. 1, przepisy art. 33 ust. 2a, 3, 6 i 7 stosuje się odpowiednio.
 
 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór deklaracji importowej, wraz z objaśnieniami co do sposobu jej wypełnienia, miejsce i sposób składania deklaracji importowej oraz właściwość miejscową naczelnika urzędu celno-skarbowego, o którym mowa w ust. 1, uwzględniając:
 

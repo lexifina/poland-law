@@ -10,21 +10,29 @@
 
 2. Przepis ust. 1 stosuje się w przypadku gdy spełnione są następujące warunki:
 
-- 1) dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2020 r. poz. 814 i 1298), postępowania upadłościowego lub w trakcie likwidacji;
+- 1) (uchylony)
 
 - 2) (uchylony)
 
 - 3) na dzień poprzedzający dzień złożenia deklaracji podatkowej, w której dokonuje się korekty, o której mowa w ust. 1:
 
-  - a) wierzyciel i dłużnik są podatnikami zarejestrowanymi jako podatnicy VAT czynni,
+  - a) wierzyciel jest podatnikiem zarejestrowanym jako podatnik VAT czynny;
 
-  - b) dłużnik nie jest w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne, postępowania upadłościowego lub w trakcie likwidacji;
+  - b) (uchylona)
 
 - 4) (uchylony)
 
-- 5) od daty wystawienia faktury dokumentującej wierzytelność nie upłynęły 2 lata, licząc od końca roku, w którym została wystawiona.
+- 5) od daty wystawienia faktury dokumentującej wierzytelność nie upłynęły 3 lata, licząc od końca roku, w którym została wystawiona.
 
 - 6) (uchylony)
+
+2a. W przypadku dostawy towaru lub świadczenia usług dokonanych na rzecz podmiotu innego niż podatnik, o którym mowa w art. 15 ust. 1, zarejestrowany jako podatnik VAT czynny, korekta, o której mowa w ust. 1, może zostać dokonana, jeżeli:
+
+- 1) wierzytelność została potwierdzona prawomocnym orzeczeniem sądu i skierowana na drogę postępowania egzekucyjnego lub
+
+- 2) wierzytelność została wpisana do rejestru długów prowadzonego na poziomie krajowym, lub
+
+- 3) wobec dłużnika ogłoszono upadłość konsumencką na podstawie odrębnych przepisów.
 
 3. Korekta, o której mowa w ust. 1, może nastąpić w rozliczeniu za okres, w którym nieściągalność wierzytelności uznaje się za uprawdopodobnioną, pod warunkiem że do dnia złożenia przez wierzyciela deklaracji podatkowej za ten okres wierzytelność nie została uregulowana lub zbyta w jakiejkolwiek formie.
 

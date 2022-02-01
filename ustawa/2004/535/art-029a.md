@@ -70,9 +70,13 @@
 
 - 2) dostawy towarów i świadczenia usług, dla których miejsce opodatkowania znajduje się poza terytorium kraju;
 
-- 3) sprzedaży: energii elektrycznej, cieplnej lub chłodniczej, gazu przewodowego, usług dystrybucji energii elektrycznej, cieplnej lub chłodniczej, usług dystrybucji gazu przewodowego, usług telekomunikacyjnych oraz usług wymienionych w poz. 24-37, 50 i 51 załącznika nr 3 do ustawy.
+- 3) sprzedaży: energii elektrycznej, cieplnej lub chłodniczej, gazu przewodowego, usług dystrybucji energii elektrycznej, cieplnej lub chłodniczej, usług dystrybucji gazu przewodowego, usług telekomunikacyjnych oraz usług wymienionych w poz. 24-37, 50 i 51 załącznika nr 3 do ustawy;
 
 - 4) (uchylony)
+
+- 5) wystawienia faktury korygującej w postaci faktury ustrukturyzowanej.
+
+15a. W przypadku importu usług oraz dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 podatnikiem jest ich nabywca, gdy podstawa opodatkowania uległa obniżeniu, korekty tej podstawy dokonuje się w rozliczeniu za okres rozliczeniowy, w którym zaistniała przyczyna obniżenia podstawy opodatkowania.
 
 16. (uchylony)
 

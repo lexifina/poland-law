@@ -24,7 +24,7 @@
 
 - 11) wartość dostarczonych towarów lub wykonanych usług, objętych transakcją, bez kwoty podatku (wartość sprzedaży netto);
 
-- 12) stawkę podatku;
+- 12) stawkę podatku albo stawkę podatku od wartości dodanej w przypadku korzystania z procedur szczególnych, o których mowa w dziale XII w rozdziałach 6a, 7 i 9;
 
 - 13) sumę wartości sprzedaży netto, z podziałem na sprzedaż objętą poszczególnymi stawkami podatku i sprzedaż zwolnioną od podatku;
 
@@ -84,7 +84,9 @@
 
 - 3) w przypadku, o którym mowa w art. 106b ust. 3 pkt 2 - danych określonych w ust. 1 pkt 12-14;
 
-- 4) w przypadku, o którym mowa w art. 106a pkt 3, jeżeli usługodawcą jest podmiot zagraniczny, o którym mowa w art. 131 pkt 2, zidentyfikowany na potrzeby procedury szczególnej, o której mowa w dziale XII w rozdziale 7 - danych określonych w ust. 1 pkt 4.
+- 4) w przypadku, o którym mowa w art. 106a pkt 3, jeżeli usługodawcą jest podmiot zagraniczny, o którym mowa w art. 131 pkt 2, zidentyfikowany na potrzeby procedury szczególnej, o której mowa w dziale XII w rozdziale 7 - danych określonych w ust. 1 pkt 4;
+
+- 5) w przypadku, o którym mowa w art. 106a pkt 4 - danych określonych w ust. 1 pkt 4.
 
 5. Faktura może nie zawierać:
 
@@ -94,7 +96,7 @@
 
 - 3) w przypadku gdy kwota należności ogółem nie przekracza kwoty 450 zł albo kwoty 100 euro, jeżeli kwota ta określona jest w euro - danych określonych w ust. 1 pkt 3 dotyczących nabywcy i danych określonych w ust. 1 pkt 8, 9 i 11-14, pod warunkiem że zawiera dane pozwalające określić dla poszczególnych stawek podatku kwotę podatku.
 
-6. Przepisu ust. 5 pkt 3 nie stosuje się w przypadku sprzedaży wysyłkowej z terytorium kraju i sprzedaży wysyłkowej na terytorium kraju, sprzedaży, dla której nie jest na fakturze podawany numer, o którym mowa w ust. 1 pkt 5, wewnątrzwspólnotowej dostawy towarów oraz w przypadku, o którym mowa w art. 106a pkt 2 lit. a.
+6. Przepisu ust. 5 pkt 3 nie stosuje się w przypadku wewnątrzwspólnotowej sprzedaży towarów na odległość, sprzedaży na odległość towarów importowanych, sprzedaży, dla której nie jest na fakturze podawany numer, o którym mowa w ust. 1 pkt 5, wewnątrzwspólnotowej dostawy towarów oraz w przypadku, o którym mowa w art. 106a pkt 2 lit. a.
 
 7. Kwotę podatku w odniesieniu do dostarczanych towarów lub świadczonych usług objętych daną stawką podatku podatnik może obliczyć według następującego wzoru: \( KP = {{WB \times SP} \over {100 + SP}} \) gdzie: KP - oznacza kwotę podatku, WB - oznacza wartość dostarczonych towarów lub wykonanych usług objętych stawką podatku, uwzględniającą kwotę podatku (wartość sprzedaży brutto), SP - oznacza stawkę podatku.
 

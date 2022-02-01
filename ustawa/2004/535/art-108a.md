@@ -14,7 +14,7 @@
 
 1d. W przypadku dokonania potrącenia wierzytelności przepisów ust. 1a i 1b nie stosuje się w zakresie, w jakim kwoty należności są potrącane.
 
-1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275), jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
+1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2022 r. poz. 407), jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
 
 2. Zastosowanie mechanizmu podzielonej płatności polega na tym, że:
 

@@ -20,6 +20,10 @@
 
   - b) zgodnie z danymi zawartymi w fakturze będącej w posiadaniu nabywcy lub dłużnika.
 
-2. Faktura wystawiona ponownie powinna zawierać wyraz „DUPLIKAT” oraz datę jej wystawienia.
+2. Faktura wystawiona ponownie:
+
+- 1) zawiera datę wystawienia;
+
+- 2) może zawierać wyraz „DUPLIKAT”.
 
 3. Do faktur wystawionych ponownie przepisu art. 106g ust. 4 nie stosuje się.

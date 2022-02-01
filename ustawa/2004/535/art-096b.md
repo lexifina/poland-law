@@ -28,7 +28,7 @@
 
 - 6) adres siedziby - w przypadku podmiotu niebędącego osobą fizyczną;
 
-- 7) adres stałego miejsca prowadzenia działalności albo adres miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności - w odniesieniu do osoby fizycznej;
+- 7) adres stałego miejsca prowadzenia działalności albo adres miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności ‒ w odniesieniu do osoby fizycznej;
 
 - 8) imiona i nazwiska osób wchodzących w skład organu uprawnionego do reprezentowania podmiotu oraz ich numery identyfikacji podatkowej;
 
@@ -47,6 +47,8 @@
   - b) potwierdzonych przy wykorzystaniu STIR w rozumieniu art. 119zg pkt 6 Ordynacji podatkowej, z wyjątkiem rachunków prowadzonych przez Narodowy Bank Polski.
 
 3a. (uchylony)
+
+3b. Informacje o numerach rachunków, o których mowa w ust. 3 pkt 13 lit. a, będących rachunkami, o których mowa w art. 119zh pkt 2-9 Ordynacji podatkowej, są przekazywane do Szefa Krajowej Administracji Skarbowej przy wykorzystaniu STIR w rozumieniu art. 119zg pkt 6 Ordynacji podatkowej. Przepisy art. 119zp § 1 pkt 1, § 2 pkt 1 lit. a i b, art. 119zq pkt 1 oraz art. 119zr § 1 i 2 Ordynacji podatkowej stosuje się odpowiednio.
 
 4. Wykaz w zakresie dotyczącym podmiotów, o których mowa w:
 

@@ -12,4 +12,6 @@
 
 - 1) kwalifikowanego podpisu elektronicznego lub
 
-- 2) elektronicznej wymiany danych (EDI) zgodnie z umową w sprawie europejskiego modelu wymiany danych elektronicznych, jeżeli zawarta umowa dotycząca tej wymiany przewiduje stosowanie procedur gwarantujących autentyczność pochodzenia faktury i integralność jej danych.
+- 2) elektronicznej wymiany danych (EDI) zgodnie z umową w sprawie europejskiego modelu wymiany danych elektronicznych, jeżeli zawarta umowa dotycząca tej wymiany przewiduje stosowanie procedur gwarantujących autentyczność pochodzenia faktury i integralność jej danych, lub
+
+- 3) Krajowego Systemu e-Faktur - w odniesieniu do faktur ustrukturyzowanych otrzymanych przy użyciu Krajowego Systemu e-Faktur.

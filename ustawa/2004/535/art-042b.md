@@ -6,7 +6,7 @@
 
 - 2) podmiotu innego niż wymieniony w pkt 1, dokonującego lub zamierzającego dokonywać czynności, o których mowa w art. 42a;
 
-- 3) zamawiającego w rozumieniu ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086) - w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym.
+- 3) zamawiającego w rozumieniu ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598, 2054 i 2269 oraz z 2022 r. poz. 25) - w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym.
 
 2. Wniosek o wydanie WIS zawiera:
 
@@ -42,6 +42,8 @@
 
 8a. Nie wydaje się WIS, jeżeli zakres przedmiotowy wniosku o wydanie WIS, w dniu złożenia tego wniosku, jest przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego.
 
-8b. W przypadku, o którym mowa w ust. 8a, wydaje się postanowienie, na które służy zażalenie.
+8aa. Nie wydaje się WIS, jeżeli zakres przedmiotowy wniosku o wydanie WIS, w dniu złożenia tego wniosku, jest przedmiotem zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zt pkt 4 Ordynacji podatkowej.
+
+8b. W przypadku, o którym mowa w ust. 8a i 8aa, wydaje się postanowienie, na które służy zażalenie.
 
 9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku o wydanie WIS, mając na względzie ujednolicenie formy składanych wniosków oraz zapewnienie sprawnej obsługi wnioskodawców.

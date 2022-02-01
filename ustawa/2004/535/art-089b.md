@@ -4,7 +4,7 @@
 
 1a. Przepisu ust. 1 nie stosuje się, jeżeli dłużnik uregulował należność najpóźniej w ostatnim dniu okresu rozliczeniowego, w którym upłynął 90 dzień od dnia upływu terminu płatności tej należności.
 
-1b. Przepisu ust. 1 nie stosuje się również w przypadku, gdy dłużnik w ostatnim dniu miesiąca, w którym upływa 90 dzień od dnia upływu terminu płatności, jest w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne, postępowania upadłościowego lub w trakcie likwidacji.
+1b. (uchylony)
 
 2. W przypadku częściowego uregulowania należności w terminie 90 dni od dnia upływu terminu jej płatności określonego w umowie lub na fakturze, korekta dotyczy podatku naliczonego przypadającego na nieuregulowaną część należności. Przepis ust. 1a stosuje się odpowiednio.
 

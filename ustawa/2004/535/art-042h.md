@@ -12,7 +12,7 @@
 
 - 3) utraty zgodności z interpretacją Nomenklatury scalonej (CN) wynikającą z:
 
-  - a) not wyjaśniających, o których mowa w art. 9 ust. 1 lit. a tiret drugie rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej,
+  - a) not wyjaśniających, o których mowa w ust. 1 lit. a tiret drugie art. 9 rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej,
 
   - b) wyroku Trybunału Sprawiedliwości Unii Europejskiej,
 

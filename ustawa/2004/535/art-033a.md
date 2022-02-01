@@ -30,7 +30,9 @@
 
 6. (uchylony)
 
-7. Podatnik, który wybrał rozliczenie podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1 i nie rozliczył tego podatku w całości lub w części na tych zasadach, traci prawo do rozliczania podatku w deklaracji podatkowej w odniesieniu do kwoty podatku należnej z tytułu importu towarów, której nie rozliczył w deklaracji podatkowej. Podatnik jest obowiązany do zapłaty kwoty podatku wraz z odsetkami naczelnikowi urzędu skarbowego właściwemu do poboru kwoty należności celnych przywozowych wynikających z długu celnego.
+6a. W przypadku gdy podatnik nie rozliczył w całości lub w części podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1, może dokonać korekty deklaracji podatkowej w terminie 4 miesięcy, licząc od miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy z tytułu importu tych towarów.
+
+7. Podatnik, który wybrał rozliczenie podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1 i nie rozliczył tego podatku w całości lub w części na tych zasadach w terminie, o którym mowa w ust. 6a, traci prawo do rozliczania w deklaracji podatkowej podatku należnego z tytułu importu towarów wykazanego w zgłoszeniu celnym, w odniesieniu do którego nie rozliczył w całości podatku w deklaracji podatkowej. Podatnik jest obowiązany do zapłaty kwoty podatku wraz z odsetkami naczelnikowi urzędu skarbowego właściwemu do poboru kwoty należności celnych przywozowych wynikających z długu celnego.
 
 8. W przypadku gdy zgłoszenie celne dotyczące towarów, o których mowa w ust. 1, jest dokonywane przez przedstawiciela bezpośredniego lub pośredniego w rozumieniu przepisów celnych, przepis ust. 7 stosuje się odpowiednio, z tym że obowiązek zapłaty kwoty podatku wraz z odsetkami ciąży solidarnie na podatniku oraz na działającym na jego rzecz przedstawicielu.
 

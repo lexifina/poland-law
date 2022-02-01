@@ -1,6 +1,6 @@
 # Art. 13f.
 
-1. Podatnik lub podatnik podatku od wartości dodanej prowadzący magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, w terminie 14 dni od dnia pierwszego wprowadzenia towarów do magazynu w tej procedurze, składa, zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695, 1517 i 2320), za pomocą środków komunikacji elektronicznej, zawiadomienie o prowadzeniu magazynu wykorzystywanego w procedurze magazynu typu call-off stock.
+1. Podatnik lub podatnik podatku od wartości dodanej prowadzący magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, w terminie 14 dni od dnia pierwszego wprowadzenia towarów do magazynu w tej procedurze, składa, zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070), za pomocą środków komunikacji elektronicznej, zawiadomienie o prowadzeniu magazynu wykorzystywanego w procedurze magazynu typu call-off stock.
 
 2. Zawiadomienie, o którym mowa w ust. 1, zawiera następujące dane:
 

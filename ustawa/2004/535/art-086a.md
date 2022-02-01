@@ -14,7 +14,7 @@
 
 - 3) należnego, w przypadku, o którym mowa w art. 33a;
 
-- 4) wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34.
+- 4) wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b, oraz z decyzji, o których mowa w art. 33 ust. 2-3 oraz art. 34.
 
 2. Do wydatków związanych z pojazdami samochodowymi, o których mowa w ust. 1, zalicza się wydatki dotyczące:
 
@@ -146,14 +146,12 @@
 
   - chyba że zachodzi przypadek, o którym mowa w ust. 4 pkt 1.
 
-12. Podatnicy wykorzystujący wyłącznie do działalności gospodarczej pojazdy samochodowe, dla których są obowiązani prowadzić ewidencję przebiegu pojazdu, mają obowiązek złożyć naczelnikowi urzędu skarbowego informację o tych pojazdach w terminie 7 dni od dnia, w którym poniosą pierwszy wydatek związany z tymi pojazdami.
+12. Podatnicy wykorzystujący wyłącznie do działalności gospodarczej pojazdy samochodowe, dla których są obowiązani prowadzić ewidencję przebiegu pojazdu, mają obowiązek złożyć naczelnikowi urzędu skarbowego informację o tych pojazdach w terminie do 25. dnia miesiąca następującego po miesiącu, w którym poniosą pierwszy wydatek związany z tymi pojazdami, nie później jednak niż w dniu przesłania ewidencji, o której mowa w art. 109 ust. 3.
 
-13. W przypadku niezłożenia w terminie informacji, o której mowa w ust. 12, uznaje się, że pojazd samochodowy jest wykorzystywany wyłącznie do działalności gospodarczej podatnika dopiero od dnia jej złożenia.
+13. W przypadku niezłożenia w terminie informacji, o której mowa w ust. 12, uznaje się, że pojazd samochodowy jest wykorzystywany wyłącznie do działalności gospodarczej podatnika dopiero od pierwszego dnia miesiąca, w którym podatnik złoży tę informację.
 
-14. W przypadku zmiany wykorzystywania pojazdu samochodowego podatnik jest obowiązany do aktualizacji informacji, o której mowa w ust. 12, najpóźniej przed dniem, w którym dokonuje tej zmiany.
+14. W przypadku zmiany wykorzystywania pojazdu samochodowego podatnik jest obowiązany do aktualizacji informacji, o której mowa w ust. 12, najpóźniej do końca miesiąca, w którym dokonał tej zmiany.
 
 15. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 12, uwzględniając potrzebę zawarcia w niej danych pozwalających na identyfikację pojazdu samochodowego, w szczególności marki, modelu pojazdu i jego numeru rejestracyjnego, jak również daty poniesienia pierwszego wydatku związanego z danym pojazdem, oraz uwzględniając potrzebę umożliwienia prawidłowej aktualizacji złożonej informacji.
 
-16. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż określone w ust. 9 pojazdy samochodowe, o których mowa w ust. 4 pkt 2, uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, wymagania dla tych pojazdów samochodowych oraz dokumenty potwierdzające spełnienie wymagań, uwzględniając specyfikę ich konstrukcji oraz ich zastosowanie, a w przypadku pojazdów mających więcej niż jeden rząd siedzeń - również wymóg, aby dopuszczalna masa całkowita była większa niż 3 tony.
-
-17. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 5 przypadki, w których nie stosuje się warunku prowadzenia ewidencji przebiegu pojazdu, uwzględniając specyfikę prowadzonej przez podatnika działalności gospodarczej oraz konieczność przeciwdziałania nadużyciom wynikającym z wykorzystywania pojazdów do celów innych niż związane z działalnością gospodarczą.
+16. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż określone w ust. 9 pojazdy samochodowe, o których mowa w ust. 4 pkt 2, uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, wymagania dla tych pojazdów samochodowych oraz dokumenty potwierdzające spełnienie wymagań, uwzględniając specyfikę ich konstrukcji oraz ich zastosowanie, a w przypadku pojazdów mających więcej niż jeden rząd siedzeń - również wymóg, aby dopuszczalna masa całkowita była większa niż 3 tony. 17. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 5 przypadki, w których nie stosuje się warunku prowadzenia ewidencji przebiegu pojazdu, uwzględniając specyfikę prowadzonej przez podatnika działalności gospodarczej oraz konieczność przeciwdziałania nadużyciom wynikającym z wykorzystywania pojazdów do celów innych niż związane z działalnością gospodarczą.
