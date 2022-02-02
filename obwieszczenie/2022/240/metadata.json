@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/240",
+ "source_sha256": "7f98cbbada89e855c0a7b362ccb449e5bbfc85da2117302de93a0033b690003c",
+ "in_force": "2022-02-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/240",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/240/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/240/text/O/D20220240.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/240/text/I/D20220240.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/240/text/T/D20220240L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/240/text/U/D20220240Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/240",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 240,
+  "address": "WDU20220000240",
+  "displayAddress": "Dz.U. 2022 poz. 240",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rencie socjalnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-01-28",
+  "promulgation": "2022-02-02",
+  "expirationDate": "2023-10-12",
+  "changeDate": "2024-03-14T12:18:09",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "renta socjalna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1268"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220240.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220240.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220240L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220240Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
