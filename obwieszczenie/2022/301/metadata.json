@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/301",
+ "source_sha256": "3065498a1aabbca9cb107ecdce5fb4407cd23ef3cfb157f65766e2b776274002",
+ "in_force": "2022-02-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/301",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/301/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/301/text/O/D20220301.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/301/text/I/D20220301.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/301/text/T/D20220301L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/301",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 301,
+  "address": "WDU20220000301",
+  "displayAddress": "Dz.U. 2022 poz. 301",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nauczycielskich świadczeniach kompensacyjnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-01-13",
+  "promulgation": "2022-02-08",
+  "expirationDate": "2024-02-22",
+  "changeDate": "2024-03-14T12:07:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele",
+   "świadczenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/800"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220301.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220301.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220301L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
