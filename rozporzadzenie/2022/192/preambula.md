@@ -1,0 +1,1 @@
+Na podstawie art. 8 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2021 r. poz. 1638) zarządza się, co następuje:
