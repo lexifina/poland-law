@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/372",
+ "source_sha256": "6491762ce9e3b0c0f873bfc43dfe63f193068aa8dc0c1d08e3364c553c77ee8d",
+ "in_force": "2022-02-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/372",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/372/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/372/text/O/D20220372.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/372/text/I/D20220372.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/372/text/T/D20220372L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/372/text/U/D20220372Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/372",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 372,
+  "address": "WDU20220000372",
+  "displayAddress": "Dz.U. 2022 poz. 372",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-01-13",
+  "promulgation": "2022-02-14",
+  "expirationDate": "2023-06-27",
+  "changeDate": "2024-03-14T12:15:41",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "partie polityczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/604"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220372.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220372.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220372L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220372Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
