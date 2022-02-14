@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/227",
+ "source_sha256": "77b91f712c5734cc52b8931a1f246f3b430f547e54909a29e4c99b9309e0c067",
+ "in_force": "2022-02-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/227",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/227/text/O/M20220227.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/227/text/I/M20220227.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/227",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 227,
+  "address": "WMP20220000227",
+  "displayAddress": "M.P. 2022 poz. 227",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 3 lutego 2022 r. nr 1131.3.2022 o powołaniu Prezesa Naczelnego Sądu Administracyjnego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-02-03",
+  "promulgation": "2022-02-14",
+  "changeDate": "2022-02-15T12:40:52",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Naczelny Sąd Administracyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 185"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220227.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220227.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
