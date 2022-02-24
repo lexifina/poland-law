@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/461",
+ "source_sha256": "632b51531244e1c56b8423e6f1374af6f03074a992a5a487544c8989384fef86",
+ "in_force": "2022-02-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/461",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/461/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/461/text/O/D20220461.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/461/text/I/D20220461.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/461/text/T/D20220461L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/461/text/U/D20220461Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/461",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 461,
+  "address": "WDU20220000461",
+  "displayAddress": "Dz.U. 2022 poz. 461",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kształtowaniu ustroju rolnego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-01-13",
+  "promulgation": "2022-02-24",
+  "expirationDate": "2022-12-12",
+  "changeDate": "2024-03-14T12:17:43",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarstwa rolne",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/592"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220461.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220461.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220461L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220461Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
