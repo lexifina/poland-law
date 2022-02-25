@@ -1,0 +1,1 @@
+Na podstawie art. 46a i art. 46b pkt 1-6 i 8-13 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64) zarządza się, co następuje:
