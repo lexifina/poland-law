@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/502",
+ "source_sha256": "cd532e7e5b2fbe7a8331aad3af356cd4e6c4fb1b25993ea8e4b3bfd16b63cdc7",
+ "in_force": "2022-03-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/502",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/502/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/502/text/O/D20220502.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/502/text/I/D20220502.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/502/text/T/D20220502L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/502/text/U/D20220502Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/502",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 502,
+  "address": "WDU20220000502",
+  "displayAddress": "Dz.U. 2022 poz. 502",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-01-28",
+  "promulgation": "2022-03-02",
+  "expirationDate": "2023-01-11",
+  "changeDate": "2024-03-14T12:13:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [
+   "Służba Kontrwywiadu Wojskowego",
+   "Służba Wywiadu Wojskowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/709"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220502.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220502.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220502L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220502Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
