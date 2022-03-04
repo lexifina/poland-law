@@ -1,0 +1,1 @@
+Na podstawie art. 50 ust. 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173 i 240) zarządza się, co następuje:
