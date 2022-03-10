@@ -1,0 +1,3 @@
+# § 11d.
+
+Właściwy organ samorządu województwa albo samorządowa jednostka po zakończeniu sprawdzenia spełniania warunków przyznania pomocy niezwłocznie aktualizuje i podaje do publicznej wiadomości listę, o której mowa w § 11b ust. 1, na stronie internetowej urzędu marszałkowskiego albo samorządowej jednostki oraz w urzędzie marszałkowskim albo w samorządowej jednostce, wskazując wnioski o przyznanie pomocy spełniające warunki przyznania pomocy.
