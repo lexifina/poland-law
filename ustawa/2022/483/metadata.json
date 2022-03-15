@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/483",
+ "source_sha256": "c6801bf15c166660cbbddfbb2d82cf51c988cfddc93bded941bc9a648437a326",
+ "in_force": "2022-03-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/483",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/483/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/483/text/O/D20220483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/483/text/I/D20220483.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/483/text/T/D20220483L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/483",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 483,
+  "address": "WDU20220000483",
+  "displayAddress": "Dz.U. 2022 poz. 483",
+  "title": "Ustawa z dnia 27 stycznia 2022 r. o zmianie ustawy o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-01-27",
+  "promulgation": "2022-02-28",
+  "entryIntoForce": "2022-03-15",
+  "changeDate": "2024-03-14T12:21:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "inwestycje",
+   "sektor naftowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=1912",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/1912",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/1912",
+    "number": "1912",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2022/2816"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/630",
+     "date": "2022-03-15"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220483.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220483L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
