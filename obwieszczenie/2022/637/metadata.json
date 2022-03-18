@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/637",
+ "source_sha256": "9ab51f7bba9c3d1d5ebbd70e1f0618d087e9c4eaab84a807178c340bccd1d5c8",
+ "in_force": "2022-03-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/637",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/637/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/637/text/O/D20220637.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/637/text/I/D20220637.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/637/text/T/D20220637L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/637/text/U/D20220637Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/637",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 637,
+  "address": "WDU20220000637",
+  "displayAddress": "Dz.U. 2022 poz. 637",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rezerwach strategicznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-03-03",
+  "promulgation": "2022-03-18",
+  "expirationDate": "2022-07-19",
+  "changeDate": "2024-03-14T12:06:01",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rezerwy strategiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2021/255"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220637.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220637.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220637L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220637Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
