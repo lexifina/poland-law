@@ -1,0 +1,1 @@
+Na podstawie art. 20 pkt 3a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
