@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/762",
+ "source_sha256": "3fe1b6f6d498ba2721d4cca2f9bba7ff602049158325ed25cc8c7d90824fe78d",
+ "in_force": "2022-04-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/762",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/762/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/762/text/O/D20220762.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/762/text/I/D20220762.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/762/text/T/D20220762L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/762/text/U/D20220762Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/762",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 762,
+  "address": "WDU20220000762",
+  "displayAddress": "Dz.U. 2022 poz. 762",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Trybunale Stanu",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-03-23",
+  "promulgation": "2022-04-06",
+  "changeDate": "2024-03-14T12:14:04",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Trybunał Stanu"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2024/95",
+     "date": "2024-01-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/84"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220762.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220762.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220762L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220762Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
