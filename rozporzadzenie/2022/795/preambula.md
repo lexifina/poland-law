@@ -1,0 +1,1 @@
+Na podstawie art. 59 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, 682, 683 i 684) zarządza się, co następuje:
