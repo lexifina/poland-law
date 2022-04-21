@@ -1,0 +1,9 @@
+# Art. 47ja.
+
+1. Przewodniczący Krajowej Rady może, w drodze decyzji, po dokonaniu wezwania, o którym mowa w art. 10 ust. 3, wykreślić z wykazu podmiot dostarczający audiowizualną usługę medialną na żądanie, w której w ciągu 12 kolejnych miesięcy co najmniej dwukrotnie zostały zamieszczone audycje lub inne przekazy zagrażające prawidłowemu fizycznemu, psychicznemu lub moralnemu rozwojowi małoletnich, w szczególności zawierające treści pornograficzne lub w sposób nieuzasadniony eksponujące przemoc bez stosowania skutecznych zabezpieczeń technicznych lub innych odpowiednich środków, mających na celu ochronę małoletnich przed ich odbiorem.
+
+2. Przewodniczący Krajowej Rady nie dokonuje wykreślenia, o którym mowa w ust. 1, jeżeli podmiot dostarczający audiowizualną usługę medialną na żądanie po otrzymaniu wezwania, o którym mowa w art. 10 ust. 3, wdroży skuteczne zabezpieczenia techniczne lub inne odpowiednie środki, mające na celu ochronę małoletnich w terminie określonym w tym wezwaniu.
+
+3. Jeżeli dostawca jest ustanowiony w innym państwie członkowskim Unii Europejskiej, Przewodniczący Krajowej Rady może zakazać, w drodze decyzji, dostarczania na terytorium Rzeczypospolitej Polskiej audiowizualnej usługi medialnej na żądanie, w której w ciągu ostatnich 12 miesięcy co najmniej dwukrotnie zostały zamieszczone treści zagrażające prawidłowemu fizycznemu, psychicznemu lub moralnemu rozwojowi małoletnich, w szczególności zawierające treści pornograficzne lub w sposób nieuzasadniony eksponujące przemoc bez stosowania skutecznych zabezpieczeń technicznych lub innych odpowiednich środków, mających na celu ochronę małoletnich przed ich odbiorem. Art. 46a stosuje się odpowiednio.
+
+4. W przypadku wydania decyzji, o której mowa w ust. 1, nie nakłada się kary, o której mowa w art. 53c, w odniesieniu do naruszenia stanowiącego podstawę do wydania tej decyzji.
