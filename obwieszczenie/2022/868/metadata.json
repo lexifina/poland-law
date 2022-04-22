@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/868",
+ "source_sha256": "64d8cf9aec797d8019496c273325035e44b8f447f6934ec4dbaafcdcb5f5cf0a",
+ "in_force": "2022-04-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/868",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/868/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/868/text/O/D20220868.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/868/text/I/D20220868.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/868/text/T/D20220868L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/868/text/U/D20220868Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/868",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 868,
+  "address": "WDU20220000868",
+  "displayAddress": "Dz.U. 2022 poz. 868",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie informacji oświatowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-03-23",
+  "promulgation": "2022-04-22",
+  "expirationDate": "2022-12-13",
+  "changeDate": "2024-03-14T12:10:12",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informatyzacja",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/814"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20220868.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20220868.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20220868L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20220868Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
