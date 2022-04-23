@@ -1,0 +1,5 @@
+Sejm Rzeczypospolitej Polskiej uznaje szczególne zasługi dla Polski tych wszystkich obywateli polskich, którzy walczyli o suwerenność i niepodległość Ojczyzny, nie szczędząc życia i zdrowia na polach walki zbrojnej - w formacjach Wojska Polskiego, armii sojuszniczych, a także w podziemnych organizacjach niepodległościowych i w działalności cywilnej - z narażeniem na represje.
+
+Sejm stwierdza, że władze III Rzeszy Niemieckiej, ówczesne władze Związku Socjalistycznych Republik Radzieckich i komunistyczny aparat represji w Polsce są winni cierpień zadanych wielu obywatelom Państwa Polskiego ze względów narodowościowych, politycznych i religijnych. Spowodowały one śmierć wielu milionów, a dla wielu stały się przyczyną trwałej utraty zdrowia.
+
+Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich rodaków oraz szczególna troska i opieka ze strony instytucji państwowych, samorządów terytorialnych i organizacji społecznych. Dając wyraz tym intencjom - uchwala się, co następuje:
