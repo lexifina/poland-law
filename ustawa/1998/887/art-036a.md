@@ -6,4 +6,4 @@
 
 3. Za okres zawieszenia wykonywania działalności gospodarczej przedsiębiorca będący płatnikiem składek wyłącznie za siebie nie ma obowiązku składania deklaracji rozliczeniowej oraz opłacania składek na ubezpieczenia społeczne przewidzianych w ustawie.
 
-4. Wznowienie wykonywania działalności gospodarczej nie wymaga ponownego zgłoszenia do ubezpieczenia.
+4. Wznowienie wykonywania działalności gospodarczej nie wymaga ponownego zgłoszenia do obowiązkowych ubezpieczeń emerytalnego, rentowych i wypadkowego, a w przypadku osób, które do dnia zawieszenia działalności podlegały dobrowolnemu ubezpieczeniu chorobowemu - także do tego ubezpieczenia.
