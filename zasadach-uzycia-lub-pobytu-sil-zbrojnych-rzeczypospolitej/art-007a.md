@@ -1,0 +1,3 @@
+# Art. 7a.
+
+Żołnierze pełniący służbę w jednostce wojskowej, o której mowa w art. 2 pkt 1, użytej poza granicami państwa mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia dozwolonego na mocy wiążących Rzeczpospolitą Polską ratyfikowanych umów międzynarodowych oraz międzynarodowego prawa zwyczajowego, w sposób oraz w granicach zasad określonych przez organ organizacji międzynarodowej, któremu jednostka została podporządkowana na czas operacji, z uwzględnieniem celu jej użycia poza granicami państwa oraz zastrzeżeń zgłoszonych przez upoważniony organ państwowy.
