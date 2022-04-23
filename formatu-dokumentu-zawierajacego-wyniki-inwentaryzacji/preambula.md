@@ -1,0 +1,1 @@
+Na podstawie art. 66 ust. 8 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 2373 i 2389) zarządza się, co następuje:
