@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/485",
+ "source_sha256": "4c6befc0f460c68735d760eefeb468809b645b6fa4d4a7ec0ea7906da3f0103f",
+ "in_force": "2022-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/485",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/485/text/O/M20220485.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/485/text/I/M20220485.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/485",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 485,
+  "address": "WMP20220000485",
+  "displayAddress": "M.P. 2022 poz. 485",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 12 maja 2022 r. w sprawie wyboru członków Krajowej Rady Sądownictwa",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-05-12",
+  "promulgation": "2022-05-19",
+  "changeDate": "2022-05-20T11:54:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Rada Sądownictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 29a"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 187 ust. 1 pkt 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220485.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220485.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
