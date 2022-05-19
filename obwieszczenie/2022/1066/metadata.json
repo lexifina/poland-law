@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1066",
+ "source_sha256": "616d48344fd10b8497a7a5653885d2babfee506f1bdecab252594e04caef795a",
+ "in_force": "2022-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1066",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1066/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1066/text/O/D20221066.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1066/text/I/D20221066.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1066/text/T/D20221066L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1066/text/U/D20221066Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1066",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1066,
+  "address": "WDU20220001066",
+  "displayAddress": "Dz.U. 2022 poz. 1066",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 kwietnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-04-28",
+  "promulgation": "2022-05-19",
+  "expirationDate": "2023-01-17",
+  "changeDate": "2024-03-14T12:04:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kinematografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1111"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221066.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221066.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221066L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221066Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
