@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/484",
+ "source_sha256": "f5689bf52eddb5c3bcbcfe7de95733c40692c3af3da86fba45b94582dc7e5a07",
+ "in_force": "2022-05-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/484",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/484/text/O/M20220484.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/484/text/I/M20220484.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/484",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 484,
+  "address": "WMP20220000484",
+  "displayAddress": "M.P. 2022 poz. 484",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 12 maja 2022 r. w sprawie powołania Prezesa Narodowego Banku Polskiego",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-05-12",
+  "promulgation": "2022-05-19",
+  "changeDate": "2022-05-20T11:53:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Prezes Narodowego Banku Polskiego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 27 ust. 1"
+    },
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/1997/483",
+     "art": "art. 227 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220484.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220484.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
