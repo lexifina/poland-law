@@ -1,0 +1,3 @@
+# Art. 9a.
+
+Krajowa Rada Diagnostów Laboratoryjnych udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu diagnosty laboratoryjnego osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 41 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
