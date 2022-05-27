@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1125",
+ "source_sha256": "3c836151dc7bb5033b7e1cad03348951488823d5acd294b31e4580197e4843c7",
+ "in_force": "2022-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1125",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1125/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1125/text/O/D20221125.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1125/text/I/D20221125.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1125/text/T/D20221125L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1125/text/U/D20221125Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1125",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1125,
+  "address": "WDU20220001125",
+  "displayAddress": "Dz.U. 2022 poz. 1125",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kosztach sądowych w sprawach cywilnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-04-07",
+  "promulgation": "2022-05-27",
+  "expirationDate": "2023-06-19",
+  "changeDate": "2024-07-01T09:42:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koszty sądowe w sprawach cywilnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1398"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221125.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221125.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221125L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221125Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
