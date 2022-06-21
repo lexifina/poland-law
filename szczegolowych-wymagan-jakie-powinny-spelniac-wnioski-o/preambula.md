@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 6a ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2017 r. poz. 1867 oraz z 2022 r. poz. 1270) zarządza się, co następuje:
