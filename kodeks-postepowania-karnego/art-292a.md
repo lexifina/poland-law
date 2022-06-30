@@ -1,6 +1,6 @@
 # Art. 292a.
 
-§ 1. Zabezpieczenie wykonania orzeczenia, o którym mowa w art. 291 § 1, może nastąpić również przez ustanowienie przymusowego zarządu przedsiębiorstwa i wyznaczenie zarządcy. W postanowieniu określa się przedsiębiorstwo lub jego zorganizowaną część oraz wskazuje się zarządcę spośród osób posiadających licencję doradcy restrukturyzacyjnego, o której mowa w ustawie z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2020 r. poz. 242 i 2320).
+§ 1. Zabezpieczenie wykonania orzeczenia, o którym mowa w art. 291 § 1, może nastąpić również przez ustanowienie przymusowego zarządu przedsiębiorstwa i wyznaczenie zarządcy. W postanowieniu określa się przedsiębiorstwo lub jego zorganizowaną część oraz wskazuje się zarządcę spośród osób posiadających licencję doradcy restrukturyzacyjnego, o której mowa w ustawie z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2020 r. poz. 242 i 2320 oraz z 2021 r. poz. 1080).
 
 § 2. W postępowaniu przygotowawczym postanowienie o zabezpieczeniu przez ustanowienie przymusowego zarządu wydaje prokurator. Postanowienie podlega zatwierdzeniu przez sąd.
 

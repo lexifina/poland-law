@@ -6,4 +6,4 @@
 
 § 3. Oskarżyciel publiczny w wypadku niemożności dotrzymania zakreślonego terminu może zwrócić się do sądu o jego przedłużenie.
 
-§ 4. Jeżeli oskarżyciel publiczny w wyznaczonym terminie nie przedstawi stosownych dowodów, sąd rozstrzyga na korzyść oskarżonego wątpliwości wynikające z nieprzeprowadzenia tych dowodów
+§ 4. Jeżeli oskarżyciel publiczny w wyznaczonym terminie nie przedstawi stosownych dowodów, sąd rozstrzyga na korzyść oskarżonego wątpliwości wynikające z nieprzeprowadzenia tych dowodów.
