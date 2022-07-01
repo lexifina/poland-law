@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1394",
+ "source_sha256": "56efd8edae88e17dd4dcb866458221a63d50dff8fa0d978e2c6c313cb2c14995",
+ "in_force": "2022-07-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1394",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1394/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1394/text/O/D20221394.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1394/text/I/D20221394.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1394/text/T/D20221394L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1394/text/U/D20221394Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1394",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1394,
+  "address": "WDU20220001394",
+  "displayAddress": "Dz.U. 2022 poz. 1394",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach publicznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-06-23",
+  "promulgation": "2022-07-01",
+  "expirationDate": "2023-05-25",
+  "changeDate": "2024-03-14T12:12:34",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/53"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221394.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221394.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221394L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221394Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
