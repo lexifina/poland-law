@@ -1,0 +1,1 @@
+Na podstawie art. 49 ust. 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177) zarządza się, co następuje:
