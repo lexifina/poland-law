@@ -1,0 +1,1 @@
+Na podstawie art. 187 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) zarządza się, co następuje:
