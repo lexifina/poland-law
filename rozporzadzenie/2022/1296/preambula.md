@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 4a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666 i 1292 oraz z 2022 r. poz. 655, 830 i 974) zarządza się, co następuje:
