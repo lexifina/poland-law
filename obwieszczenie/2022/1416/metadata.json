@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1416",
+ "source_sha256": "4da0e47d7e2679a2252521d1d4488207090b6af6973b67939fd1777db48c15b4",
+ "in_force": "2022-07-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1416",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1416/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1416/text/O/D20221416.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1416/text/I/D20221416.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1416/text/T/D20221416L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1416/text/U/D20221416Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1416",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1416,
+  "address": "WDU20220001416",
+  "displayAddress": "Dz.U. 2022 poz. 1416",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o środkach przymusu bezpośredniego i broni palnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-06-09",
+  "promulgation": "2022-07-06",
+  "expirationDate": "2023-01-30",
+  "changeDate": "2025-04-28T10:31:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przymus bezpośredni",
+   "broń palna",
+   "broń, amunicja i materiały wybuchowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/628"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221416.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221416.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221416L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221416Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
