@@ -4,6 +4,8 @@
 
 - 1) dane identyfikujące inwestora;
 
+- 2) adres do doręczeń elektronicznych, chyba że inwestor wyraził zgodę na doręczanie pism za pośrednictwem konta w e-Urzędzie Skarbowym;
+
 - 3) opis planowanej lub rozpoczętej inwestycji;
 
 - 4) deklarowaną wartość inwestycji i wyjaśnienie sposobu jej ustalenia;

@@ -14,7 +14,7 @@
 
   - b) postępowanie egzekucyjne w administracji, również w zakresie innych niż podatkowe zobowiązań wnioskodawcy,
 
-  - c) postępowanie w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe;
+  - c) (uchylona)
 
 - 2) dotyczące:
 

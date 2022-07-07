@@ -66,4 +66,4 @@
 
 § 8. Do ograniczenia zakresu oraz uchylenia blokady rachunku podmiotu kwalifikowanego przepisy § 2-6 stosuje się odpowiednio.
 
-§ 9. Minister właściwy do spraw finansów publicznych przeprowadza, nie rzadziej niż raz na kwartał, kontrolę przestrzegania przepisów § 1, 2, 6 i 7 przez Szefa Krajowej Administracji Skarbowej, a w przypadku upoważnienia, zgodnie z przepisami wydanymi na podstawie art. 119zma, innego organu Krajowej Administracji Skarbowej - przez ten organ.
+§ 9. Minister właściwy do spraw finansów publicznych przeprowadza, nie rzadziej niż raz na kwartał, kontrolę przestrzegania przepisów § 1, 2, 6 i 7 przez Szefa Krajowej Administracji Skarbowej, a w przypadku upoważnienia, zgodnie z przepisami wydanymi na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, innego organu Krajowej Administracji Skarbowej - przez ten organ.

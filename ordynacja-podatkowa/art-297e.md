@@ -14,6 +14,10 @@
 
 - 6) ministrowi właściwemu do spraw zagranicznych - w zakresie niezbędnym do podejmowania środków ograniczających w związku z działaniami destabilizującymi sytuację w Ukrainie,
 
+- 7) prokuratorowi - w zakresie niezbędnym do realizacji zadań określonych w art. 3 § 1 pkt 1 i 8 ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259),
+
+- 8) Przewodniczącemu Komisji Nadzoru Finansowego - w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym
+
 - dane niezawarte w aktach spraw podatkowych inne niż określone w art. 297c, jeżeli znajdują się w Centralnym Rejestrze Danych Podatkowych.
 
 § 2. Dane, o których mowa w § 1, mogą być udostępniane również za pośrednictwem systemu teleinformatycznego.

@@ -1,5 +1,7 @@
 # Art. 3f.
 
+(uchylony)
+
 § 1. Uwierzytelnianie podatników, płatników, inkasentów, ich następców prawnych oraz osób trzecich na portalu podatkowym wymaga użycia danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, profilu zaufanego, profilu osobistego albo innego środka identyfikacji elektronicznej, wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2020 r. poz. 1173 i 2320), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w portalu podatkowym.
 
 § 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres i warunki korzystania z portalu podatkowego, mając na względzie potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych we wnioskach, deklaracjach i pismach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.

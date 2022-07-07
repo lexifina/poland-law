@@ -10,6 +10,6 @@
 
 - 3) numer porządkowy rachunku bankowego, w skład którego wchodzi identyfikator podatkowy podatnika lub płatnika albo kod urzędu skarbowego.
 
-§ 3. Numer mikrorachunku podatkowego jest udostępniany, po podaniu identyfikatora podatkowego podatnika lub płatnika, za pośrednictwem portalu podatkowego lub w urzędzie skarbowym.
+§ 3. Numer mikrorachunku podatkowego jest udostępniany, po podaniu identyfikatora podatkowego podatnika lub płatnika, za pośrednictwem konta w e-Urzędzie Skarbowym lub w urzędzie skarbowym.
 
 § 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje podatków, opłat lub niepodatkowych należności budżetowych, których wpłata jest realizowana przy użyciu mikrorachunku podatkowego, mając na względzie uwarunkowania techniczne i organizacyjne umożliwiające przekazywanie należności przy użyciu tego mikrorachunku.
