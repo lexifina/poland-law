@@ -1,0 +1,3 @@
+# Art. 22a.
+
+Minister właściwy do spraw rynków rolnych, po uzyskaniu opinii Rady, o której mowa w art. 21 ust. 1, w przypadku gdy wniosek o rejestrację i zastrzeżenie do tego wniosku są zasadne, a z zastrzeżenia wynika, że wnoszący zastrzeżenie wykorzystywał nazwę, która ma zostać zarejestrowana jako nazwa pochodzenia lub oznaczenie geograficzne, przez co najmniej 5 lat poprzedzających dzień ogłoszenia w dzienniku urzędowym ministra właściwego do spraw rynków rolnych danych i informacji, o których mowa w art. 14 ust. 1, może, w drodze decyzji, zezwolić wnoszącemu zastrzeżenie na używanie nazwy w okresie przejściowym, o którym mowa w art. 15 ust. 4 rozporządzenia nr 1151/2012, i oddalić zastrzeżenie.
