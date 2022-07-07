@@ -32,7 +32,7 @@
 
 - 1) w zakresie warunków udzielania tej pomocy:
 
-  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2020 r. poz. 814 i 1298),
+  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2021 r. poz. 1588 i 2140 oraz z 2022 r. poz. 655),
 
   - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298);
 

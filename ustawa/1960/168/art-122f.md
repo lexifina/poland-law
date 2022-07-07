@@ -18,7 +18,7 @@
 
 - 6) pouczenie o możliwości wniesienia zażalenia;
 
-- 7) podpis z podaniem imienia i nazwiska oraz stanowiska służbowego pracownika organu upoważnionego do wydania zaświadczenia, a jeżeli zaświadczenie zostało wydane w formie dokumentu elektronicznego - kwalifikowany podpis elektroniczny.
+- 7) podpis z podaniem imienia i nazwiska oraz stanowiska służbowego pracownika organu upoważnionego do wydania zaświadczenia.
 
 § 4. Zaświadczenie o milczącym załatwieniu sprawy doręcza się wszystkim stronom w sprawie załatwionej milcząco.
 
