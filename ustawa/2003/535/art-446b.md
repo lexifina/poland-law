@@ -20,4 +20,4 @@
 
 6. Listy zastawne w części zaspokojonej zgodnie z ust. 5 umarza się.
 
-7. Środki, o których mowa w ust. 5, są przekazywane wierzycielom z listów zastawnych w najbliższym terminie płatności odsetek określonym w warunkach emisji, jednak nie wcześniej niż po upływie 14 dni od dnia uprawomocnienia się postanowienia sędziego-komisarza, o którym mowa w art. 168 ust. 5.
+7. Środki, o których mowa w ust. 5, są przekazywane wierzycielom z listów zastawnych w najbliższym terminie płatności odsetek określonym w warunkach emisji, jednak nie wcześniej niż po upływie dwóch miesięcy od dnia złożenia sprawozdania syndyka. Jeżeli sędzia-komisarz wydał postanowienie, o którym mowa w art. 168 ust. 5b, środki, o których mowa w ust. 5, są przekazywane nie wcześniej niż po upływie 14 dni od dnia uprawomocnienia się tego postanowienia.

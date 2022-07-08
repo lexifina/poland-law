@@ -13,3 +13,5 @@
 - 4) ukrywał majątek lub czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli.
 
 3. W przypadku uchylenia planu spłaty zobowiązania upadłego nie podlegają umorzeniu.
+
+4. Przepis art. 370d ust. 4 stosuje się odpowiednio.

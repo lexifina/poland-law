@@ -8,7 +8,7 @@
 
 4. Skargę wnosi się w terminie tygodniowym od dnia doręczenia zarządzenia syndyka o zwrocie zgłoszenia wierzytelności wraz z uzasadnieniem.
 
-5. Skargę wnosi się do syndyka. Syndyk w terminie trzech dni od dnia otrzymania skargi przekazuje sędziemu-komisarzowi skargę wraz ze zgłoszeniem wierzytelności oraz z odpisem zarządzenia o zwrocie zgłoszenia wierzytelności, chyba że skargę w całości uwzględnia. O uwzględnieniu skargi syndyk zawiadamia skarżącego.
+5. Skargę wnosi się do syndyka. Syndyk za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe w terminie trzech dni od dnia otrzymania skargi przekazuje sędziemu-komisarzowi skargę wraz ze zgłoszeniem wierzytelności oraz zarządzeniem o zwrocie zgłoszenia wierzytelności, chyba że skargę w całości uwzględnia. O uwzględnieniu skargi syndyk zawiadamia skarżącego.
 
 6. Sędzia-komisarz rozpoznaje skargę w terminie tygodniowym od dnia jej wpływu do sędziego-komisarza, a gdy skarga zawiera braki formalne, które podlegają uzupełnieniu lub jeżeli od skargi nie uiszczono należnej opłaty, w terminie tygodniowym od dnia jej uzupełnienia lub opłacenia.
 
