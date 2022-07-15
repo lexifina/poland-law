@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/693",
+ "source_sha256": "7235457b2d0608f9612d55776977dbabcbbda70a9893f416b480defdbafc55a8",
+ "in_force": "2022-07-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/693",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/693/text/O/M20220693.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/693/text/I/M20220693.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/693",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 693,
+  "address": "WMP20220000693",
+  "displayAddress": "M.P. 2022 poz. 693",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 15 czerwca 2022 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Sprawiedliwości lub przez niego nadzorowanych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-06-15",
+  "promulgation": "2022-07-15",
+  "changeDate": "2022-08-25T00:00:00",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania"
+  ],
+  "keywordsNames": [
+   "Min. Sprawiedliwości"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "MP/2022/829",
+     "date": "2022-09-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/492"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/492",
+     "art": "art. 33 ust. 1d"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220693.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220693.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
