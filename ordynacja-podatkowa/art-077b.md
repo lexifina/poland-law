@@ -4,7 +4,9 @@
 
 - 1) w przypadku gdy podatnik, płatnik lub inkasent jest obowiązany do posiadania rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, wyłącznie na ten rachunek wskazany przez podatnika, płatnika lub inkasenta;
 
-- 2) w przypadku gdy podatnik, płatnik lub inkasent nie jest obowiązany do posiadania rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na wskazany rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej podatnika, płatnika lub inkasenta albo przekazem pocztowym, chyba że podatnik, płatnik lub inkasent zażądają zwrotu nadpłaty w kasie.
+- 2) w przypadku gdy podatnik mający miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, płatnik lub inkasent nie jest obowiązany do posiadania rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na wskazany rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej podatnika, płatnika lub inkasenta albo przekazem pocztowym, chyba że podatnik, płatnik lub inkasent zażądają zwrotu nadpłaty w kasie;
+
+- 3) w przypadku gdy podatnik mający miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej nie jest obowiązany do posiadania rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, wyłącznie na wskazany rachunek bankowy podatnika.
 
 § 2. Za dzień zwrotu nadpłaty uważa się dzień:
 
