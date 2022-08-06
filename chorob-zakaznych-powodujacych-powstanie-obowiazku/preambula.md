@@ -1,0 +1,1 @@
+Na podstawie art. 34 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770 oraz z 2023 r. poz. 605) zarządza się, co następuje:
