@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/762",
+ "source_sha256": "d440fff044a75842f99ccd27b5b84a1cf7a4271bcbdc57b75778814b4ff56c8e",
+ "in_force": "2022-08-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/762",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/762/text/O/M20220762.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/762/text/I/M20220762.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/762",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 762,
+  "address": "WMP20220000762",
+  "displayAddress": "M.P. 2022 poz. 762",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 4 sierpnia 2022 r. w sprawie powołania członka Krajowej Rady Radiofonii i Telewizji",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-08-04",
+  "promulgation": "2022-08-09",
+  "changeDate": "2022-08-10T11:39:12",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowa Rada Radiofonii i Telewizji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1993/34"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 214 ust. 1"
+    },
+    {
+     "id": "DU/1993/34",
+     "art": "art. 7 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220762.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220762.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
