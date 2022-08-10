@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1683",
+ "source_sha256": "98f597cdd87aa6a6cbfc082c717de66d1e0891c4904598b92d807f2934e96f77",
+ "in_force": "2022-08-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1683",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1683/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1683/text/O/D20221683.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1683/text/I/D20221683.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1683/text/T/D20221683L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1683/text/U/D20221683Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1683",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1683,
+  "address": "WDU20220001683",
+  "displayAddress": "Dz.U. 2022 poz. 1683",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Rejestrze Sądowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-06-23",
+  "promulgation": "2022-08-10",
+  "expirationDate": "2023-04-12",
+  "changeDate": "2024-03-14T12:07:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rejestry",
+   "sądy powszechne"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32017L1132",
+    "date": "2017-06-14",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Tekst mający znaczenie dla EOG. )"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/769"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221683.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221683.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221683L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221683Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
