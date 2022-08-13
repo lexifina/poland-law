@@ -1,0 +1,1 @@
+Na podstawie art. 47 ust. 3 pkt 2 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116, 1383 i 1700) zarządza się, co następuje:
