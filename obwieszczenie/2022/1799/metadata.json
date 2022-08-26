@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1799",
+ "source_sha256": "8fec39e95326c5806822a34e2c39ffafc72c5f1eb41654a60a1a10956792a073",
+ "in_force": "2022-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1799",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1799/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1799/text/O/D20221799.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1799/text/I/D20221799.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1799/text/T/D20221799L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1799/text/U/D20221799Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1799",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1799,
+  "address": "WDU20220001799",
+  "displayAddress": "Dz.U. 2022 poz. 1799",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o notariacie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-07-22",
+  "promulgation": "2022-08-26",
+  "expirationDate": "2024-07-08",
+  "changeDate": "2024-07-09T09:15:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "notariusze",
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/91"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221799.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221799.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221799L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221799Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
