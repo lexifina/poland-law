@@ -1,0 +1,7 @@
+Podaje się do wiadomości, że zgodnie z art. 16 ust. 2 Porozumienia o wygaśnięciu dwustronnych traktatów inwestycyjnych między państwami członkowskimi Unii Europejskiej, sporządzonego w Brukseli dnia 5 maja 2020 r., Królestwo Belgii i Wielkie Księstwo Luksemburga stają się dnia 26 sierpnia 2022 r. stronami wyżej wymienionego porozumienia.
+
+Jednocześnie podaje się do wiadomości, że od dnia 26 sierpnia 2022 r. porozumienie obowiązuje w relacjach między Rzecząpospolitą Polską a Królestwem Belgii i Wielkim Księstwem Luksemburga.
+
+Jednocześnie podaje się do wiadomości, że na podstawie art. 3 oraz art. 4 ust. 2 w związku z art. 12 ust. 2 porozumienia dnia 26 sierpnia 2022 r. traci moc obowiązującą Klauzula Przedłużonego Obowiązywania Traktatu w Umowie między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Królestwa Belgii i Rządem Wielkiego Księstwa Luksemburga w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 19 maja 1987 r. (Dz. U. z 2001 r. poz. 153 oraz z 2015 r. poz. 1562) - art. 10 ust. 2 umowy.
+
+Z uwagi na powyższe, od dnia 26 sierpnia 2022 r. nie ma zastosowania data końcowa stosowania Klauzuli Przedłużonego Obowiązywania Traktatu podana w oświadczeniu rządowym z dnia 22 marca 2019 r. w sprawie wypowiedzenia przez Rzeczpospolitą Polską Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Królestwa Belgii i Rządem Wielkiego Księstwa Luksemburga w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 19 maja 1987 r. (Dz. U. z 2019 r. poz. 790).
