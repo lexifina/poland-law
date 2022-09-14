@@ -1,0 +1,118 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1250",
+ "source_sha256": "d8568ba48f2342c9eb9fe5ed39887bf69eed0d9d490ebe4cee728df76303fc61",
+ "in_force": "2022-09-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1250",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1250/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1250/text/O/D20221250.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1250/text/I/D20221250.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1250/text/T/D20221250L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1250",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1250,
+  "address": "WDU20220001250",
+  "displayAddress": "Dz.U. 2022 poz. 1250",
+  "title": "Ustawa z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-05-12",
+  "promulgation": "2022-06-13",
+  "entryIntoForce": "2022-09-14",
+  "changeDate": "2024-03-14T12:04:21",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "porty morskie",
+   "administracja morska",
+   "zanieczyszczenia",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=2223",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/2223",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/2223",
+    "number": "2223",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2020/1344",
+     "date": "2022-09-14"
+    },
+    {
+     "id": "DU/2010/1508",
+     "date": "2022-09-14"
+    },
+    {
+     "id": "DU/2002/1361",
+     "date": "2022-09-14"
+    }
+   ],
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2022/1750"
+    },
+    {
+     "id": "DU/2022/1741"
+    },
+    {
+     "id": "DU/2022/1603"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2013/21",
+     "date": "2022-09-14"
+    },
+    {
+     "id": "DU/1995/243",
+     "date": "2022-09-14"
+    },
+    {
+     "id": "DU/1991/131",
+     "date": "2022-09-14"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221250.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221250.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221250L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
