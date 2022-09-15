@@ -1,0 +1,1 @@
+Na podstawie art. 3h ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2019 r. poz. 1140 oraz z 2022 r. poz. 1570 i 1616) zarządza się, co następuje:
