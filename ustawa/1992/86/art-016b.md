@@ -2,11 +2,11 @@
 
 1. Amortyzacji podlegają, z zastrzeżeniem art. 16c, nabyte od innego podmiotu, nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
 
-- 1) spółdzielcze własnościowe prawo do lokalu mieszkalnego,
+- 1) (uchylony)
 
 - 2) spółdzielcze prawo do lokalu użytkowego,
 
-- 3) prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
+- 3) (uchylony)
 
 - 4) autorskie lub pokrewne prawa majątkowe,
 

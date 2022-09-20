@@ -1,6 +1,12 @@
 # Art. 15c.
 
-1. Podatnicy, o których mowa w art. 3 ust. 1, są obowiązani wyłączyć z kosztów uzyskania przychodów koszty finansowania dłużnego w części, w jakiej nadwyżka kosztów finansowania dłużnego przewyższa 30% kwoty odpowiadającej nadwyżce sumy przychodów ze wszystkich źródeł przychodów pomniejszonej o przychody o charakterze odsetkowym nad sumą kosztów uzyskania przychodów pomniejszonych o wartość zaliczonych w roku podatkowym do kosztów uzyskania przychodów odpisów amortyzacyjnych, o których mowa w art. 16a-16m, oraz kosztów finansowania dłużnego nieuwzględnionych w wartości początkowej środka trwałego lub wartości niematerialnej i prawnej.
+1. Podatnicy, o których mowa w art. 3 ust. 1, są obowiązani wyłączyć z kosztów uzyskania przychodów koszty finansowania dłużnego w części, w jakiej nadwyżka kosztów finansowania dłużnego przekracza wyższą ze wskazanych kwot:
+
+- 1) kwotę 3 000 000 zł albo
+
+- 2) kwotę obliczoną według następującego wzoru: [(P - Po) - (K - Am - Kfd)] × 30% w którym poszczególne symbole oznaczają: P - zsumowaną wartość przychodów ze wszystkich źródeł przychodów, z których dochody podlegają opodatkowaniu podatkiem dochodowym, Po - przychody o charakterze odsetkowym, K - sumę kosztów uzyskania przychodów bez pomniejszeń wynikających z niniejszego ustępu, Am - odpisy amortyzacyjne, o których mowa w art. 16a-16m, zaliczone w roku podatkowym do kosztów uzyskania przychodów, Kfd - zaliczone w roku podatkowym do kosztów uzyskania przychodów koszty finansowania dłużnego nieuwzględnione w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, przed dokonaniem pomniejszeń wynikających z niniejszego ustępu.
+
+1a. W przypadku gdy rok podatkowy podatnika jest dłuższy albo krótszy niż 12 miesięcy, kwotę, o której mowa w ust. 1 pkt 1, oblicza się, mnożąc kwotę 250 000 zł przez liczbę rozpoczętych miesięcy roku podatkowego podatnika.
 
 2. W przypadku podatkowych grup kapitałowych kwota obliczona zgodnie z ust. 1 zwiększa dochód (zmniejsza stratę) podatkowej grupy kapitałowej. Przepis ust. 7 stosuje się odpowiednio.
 
@@ -8,7 +14,7 @@
 
 4. Do przychodów i kosztów, o których mowa w ust. 1 i 3, przepis art. 7 ust. 3 stosuje się odpowiednio.
 
-5. W celu wyliczenia limitu, o którym mowa w ust. 1, oraz przy wyliczaniu nadwyżki kosztów finansowania dłużnego koszty uzyskania przychodów oblicza się bez uwzględnienia pomniejszeń wynikających z zastosowania ust. 1 oraz art. 15e ust. 1.
+5. W celu wyliczenia limitu, o którym mowa w ust. 1, oraz przy wyliczaniu nadwyżki kosztów finansowania dłużnego koszty uzyskania przychodów oblicza się bez uwzględnienia pomniejszeń wynikających z zastosowania ust. 1.
 
 6. Przez przychody o charakterze odsetkowym oraz koszty, o których mowa w ust. 1, rozumie się również przychody i koszty przypisane podatnikowi zgodnie z art. 5.
 
@@ -34,13 +40,9 @@
 
 13. Przez przychody o charakterze odsetkowym rozumie się przychody z tytułu odsetek, w tym odsetek skapitalizowanych, oraz inne przychody równoważne ekonomicznie odsetkom odpowiadające kosztom finansowania dłużnego.
 
-14. Przepisu ust. 1 nie stosuje się do:
+14. Przepisu ust. 1 nie stosuje się do przedsiębiorstw finansowych.
 
-- 1) nadwyżki kosztów finansowania dłużnego w części nieprzekraczającej w roku podatkowym kwoty 3 000 000 zł; jeżeli rok podatkowy podatnika jest dłuższy albo krótszy niż 12 miesięcy, kwotę tego progu oblicza się, mnożąc kwotę 250 000 zł przez liczbę rozpoczętych miesięcy roku podatkowego podatnika;
-
-- 2) przedsiębiorstw finansowych.
-
-15. W przypadku podatkowej grupy kapitałowej kwota wskazana w ust. 14 pkt 1 odnosi się do podatkowej grupy kapitałowej.
+15. W przypadku podatkowej grupy kapitałowej kwota wskazana w ust. 1 pkt 1 odnosi się do podatkowej grupy kapitałowej.
 
 16. Przez przedsiębiorstwo finansowe rozumie się:
 
@@ -54,7 +56,7 @@
 
 - 5) towarzystwo, zarządzającego alternatywną spółką inwestycyjną, spółkę zarządzającą oraz zarządzającego z Unii Europejskiej, o których mowa odpowiednio w art. 2 pkt 3, 3a, 10 i 10c ustawy o funduszach inwestycyjnych;
 
-- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2021 r. poz. 1130);
+- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2022 r. poz. 2283);
 
 - 7) krajowy zakład reasekuracji oraz zagraniczny zakład reasekuracji w rozumieniu odpowiednio art. 3 ust. 1 pkt 19 i 56 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
 
@@ -68,7 +70,7 @@
 
 - 12) pracodawcę zagranicznego w rozumieniu art. 8 pkt 10 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
 
-- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2020 r. poz. 686 i 2320);
+- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2021 r. poz. 2139 oraz z 2022 r. poz. 904);
 
 - 14) fundusze inwestycyjne otwarte oraz alternatywne fundusze inwestycyjne utworzone na podstawie ustawy o funduszach inwestycyjnych;
 
@@ -76,7 +78,7 @@
 
 - 16) centralny depozyt papierów wartościowych w rozumieniu art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2019 r. poz. 1083, z 2020 r. poz. 2320 oraz z 2021 r. poz. 1655).
+17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2022 r. poz. 246 i 2339).
 
 18. Koszty finansowania dłużnego wyłączone w roku podatkowym z kosztów uzyskania przychodów zgodnie z ust. 1 podlegają zaliczeniu do takich kosztów w następnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-17 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
 

@@ -6,6 +6,8 @@ Amortyzacji nie podlegają:
 
 - 2) budynki, lokale, budowle i urządzenia zaliczane do spółdzielczych zasobów mieszkaniowych lub służących działalności społeczno-wychowawczej prowadzonej przez spółdzielnie mieszkaniowe,
 
+- 2a) budynki mieszkalne, lokale mieszkalne stanowiące odrębną nieruchomość, spółdzielcze własnościowe prawo do lokalu mieszkalnego oraz prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
+
 - 3) dzieła sztuki i eksponaty muzealne,
 
 - 4) wartość firmy, jeżeli wartość ta powstała w inny sposób niż określony w art. 16b ust. 2 pkt 2 i 2a,

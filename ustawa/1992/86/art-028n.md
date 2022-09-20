@@ -4,15 +4,17 @@
 
 1. Podstawę opodatkowania ryczałtem stanowi:
 
-- 1) suma dochodu z tytułu podzielonego zysku i dochodu z tytułu zysku przeznaczonego na pokrycie strat ustalona w miesiącu, w którym podjęto uchwałę o podziale lub pokryciu wyniku finansowego netto;
+- 1) suma dochodu z tytułu podzielonego zysku i dochodu z tytułu zysku przeznaczonego na pokrycie strat ustalona w roku podatkowym, w którym podjęto uchwałę o podziale lub pokryciu wyniku finansowego netto;
 
 - 2) suma dochodu z tytułu ukrytych zysków i dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą ustalona w miesiącu, w którym wykonano świadczenie lub dokonano wypłaty lub wydatku;
 
 - 3) dochód z tytułu zmiany wartości składników majątku osiągnięty w miesiącu, w którym nastąpiło łączenie, podział, przekształcenie podmiotów lub wniesienie wkładu niepieniężnego;
 
-- 4) dochód z tytułu zysku netto osiągnięty w roku podatkowym, w którym zakończył opodatkowanie ryczałtem.
+- 4) dochód z tytułu zysku netto osiągnięty w roku podatkowym, w którym zakończył opodatkowanie ryczałtem;
 
-2. Podział lub pokrycie wyniku finansowego netto podatnika są dokonywane do końca szóstego miesiąca następującego po ostatnim dniu roku podatkowego, za który sporządzone jest sprawozdanie finansowe. Jeżeli uchwała o podziale lub pokryciu wyniku finansowego netto podjęta zostanie w terminie późniejszym, przyjmuje się, że uchwała ta została podjęta ostatniego dnia tego szóstego miesiąca.
+- 5) dochód z tytułu nieujawnionych operacji gospodarczych osiągnięty w roku podatkowym.
+
+2. (uchylony)
 
 3. Przy obliczaniu podstawy opodatkowania podatnik opodatkowany ryczałtem uwzględnia zdarzenia zaistniałe przed pierwszym rokiem opodatkowania ryczałtem, jeżeli rozliczenie tych zdarzeń jest kontynuowane zgodnie z przyjętymi przez tego podatnika zasadami rachunkowości.
 

@@ -22,4 +22,4 @@
 
 - 2) brak porównywalnych transakcji występujących pomiędzy podmiotami niepowiązanymi w porównywalnych okolicznościach.
 
-6. W okresie obowiązywania uprzedniego porozumienia cenowego organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.
+6. Za okres objęty uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1 Ordynacji podatkowej, albo porozumieniem podatkowym, o którym mowa w art. 20zb pkt 2 Ordynacji podatkowej, organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.

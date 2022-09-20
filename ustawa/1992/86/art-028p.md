@@ -4,4 +4,4 @@
 
 2. Jeżeli dochód stanowiący podstawę opodatkowania, o której mowa w art. 28n ust. 1 pkt 1 i 4, nie odpowiada pełnej wysokości zysku netto osiągniętego za rok podatkowy, odliczenia, o którym mowa w ust. 1, dokonuje się proporcjonalnie do udziału tego dochodu w zysku netto.
 
-3. Jeżeli podatnik dokonał wypłaty zaliczki na poczet przewidywanej dywidendy, zgodnie z odrębnymi przepisami, od ryczałtu obliczonego po odliczeniach, o których mowa w ust. 2, odlicza się kwotę ryczałtu należnego od wypłaconej zaliczki.
+3. Jeżeli podatnik dokonał wypłaty zaliczki na poczet przewidywanej dywidendy, zgodnie z odrębnymi przepisami, od ryczałtu obliczonego po odliczeniach, o których mowa w ust. 2, odlicza się kwotę ryczałtu należnego od wypłaconej zaliczki. Odliczenia dokonuje się od ryczałtu należnego od zysku, na poczet którego zaliczka została wypłacona, proporcjonalnie do kwoty zysku przeznaczonej do wypłaty.

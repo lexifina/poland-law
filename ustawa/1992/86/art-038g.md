@@ -8,7 +8,7 @@
 
 - 3) Centralnej Bazie Rezerw Sanitarno-Przeciwepidemicznych z przeznaczeniem na cele wykonywania działalności statutowej;
 
-- 4) domom dla matek z małoletnimi dziećmi i kobiet w ciąży, noclegowniom, schroniskom dla osób bezdomnych, w tym z usługami opiekuńczymi, ośrodkom wsparcia, rodzinnym domom pomocy oraz domom pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369 oraz z 2021 r. poz. 794 i 803);
+- 4) domom dla matek z małoletnimi dziećmi i kobiet w ciąży, noclegowniom, schroniskom dla osób bezdomnych, w tym z usługami opiekuńczymi, ośrodkom wsparcia, rodzinnym domom pomocy oraz domom pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.);
 
 - 5) Funduszowi Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), zwanemu dalej „Funduszem COVID”.
 

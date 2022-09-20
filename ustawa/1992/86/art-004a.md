@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
 
@@ -18,19 +18,19 @@ Ilekroć w ustawie jest mowa o:
 
   - c) z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
 
-  - d) z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2021 r. poz. 146),
+  - d) z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2021 r. poz. 146 oraz z 2022 r. poz. 655, 1534 i 1846),
 
-  - e) ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
+  - e) z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
 
-  - f) ustawa z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
+  - f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
 
-- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2021 r. poz. 1588);
+- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309);
 
 - 6) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
-- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.);
+- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.);
 
-- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275 oraz z 2021 r. poz. 868);
+- 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2022 r. poz. 407 i 1079);
 
 - 9) (uchylony)
 
@@ -62,7 +62,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) spółce niebędącej osobą prawną - oznacza to spółkę inną niż określona w pkt 21;
 
-- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505 i 1595);
+- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933 i 2185);
 
 - 16) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
 
@@ -94,11 +94,11 @@ Ilekroć w ustawie jest mowa o:
 
 - 22a) walucie wirtualnej - oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
-- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2021 r. poz. 1132, 1163 i 1535);
+- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, 655, 835, 2180 i 2185);
 
 - 23) komercjalizowanej własności intelektualnej - oznacza to:
 
-  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324),
+  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324 oraz z 2022 r. poz. 2185),
 
   - b) autorskie prawa majątkowe do programu komputerowego,
 
@@ -108,7 +108,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 24) podmiocie komercjalizującym - oznacza to:
 
-  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619 i 1630),
+  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.),
 
   - b) spółkę utworzoną na podstawie art. 149 ust. 1 lub art. 150 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
 
@@ -116,7 +116,7 @@ Ilekroć w ustawie jest mowa o:
 
   - d) spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
 
-  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383 oraz z 2021 r. poz. 1192),
+  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498),
 
   - f) spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
 
@@ -148,13 +148,15 @@ Ilekroć w ustawie jest mowa o:
 
   - a) otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
 
-  - b) nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym prawnie lub faktycznie do przekazania całości lub części należności innemu podmiotowi,
+  - b) nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części należności innemu podmiotowi,
 
-  - c) prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności uzyskiwane są w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, przepis art. 24a ust. 18 stosuje się odpowiednio;
+  - c) prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, uwzględnia się charakter oraz skalę działalności prowadzonej przez ten podmiot w zakresie otrzymanej należności;
 
-- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2021 r. poz. 605 i 1595);
+- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523, 1488, 1933 i 2185);
 
 - 30a) alternatywnej spółce inwestycyjnej - oznacza to alternatywną spółkę inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych;
+
+- 30b) alternatywnej spółce inwestycyjnej wdrażającej instrument finansowy - oznacza to alternatywną spółkę inwestycyjną, za pośrednictwem której podmiot wdrażający instrument finansowy, o którym mowa w rozdziale 10 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2020 r. poz. 818) lub w rozdziale 10 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 (Dz. U. poz. 1079), dokonuje wdrożenia instrumentu finansowego poprzez wniesienie wkładu pieniężnego do tej spółki;
 
 - 31) nabytych wierzytelnościach banku hipotecznego - oznacza to nabyte przez bank hipoteczny, w celu emisji listów zastawnych, od innych banków wierzytelności z tytułu udzielonych przez nie kredytów;
 
@@ -168,9 +170,9 @@ Ilekroć w ustawie jest mowa o:
 
   - przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości;
 
-- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342);
+- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342 oraz z 2022 r. poz. 1079);
 
-- 34) ustawie o przeciwdziałaniu nadmiernym opóźnieniom - oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2021 r. poz. 424);
+- 34) ustawie o przeciwdziałaniu nadmiernym opóźnieniom - oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2022 r. poz. 893 i 2414);
 
 - 35) spółce nieruchomościowej - oznacza to podmiot inny niż osoba fizyczna, obowiązany do sporządzania bilansu na podstawie przepisów o rachunkowości, w którym:
 

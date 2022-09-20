@@ -1,6 +1,6 @@
 # Art. 38e.
 
-1. Podatnik może od dochodu z innych źródeł przychodów niż zyski kapitałowe ustalonego zgodnie z art. 7 odliczyć wydatki, pomniejszone o podatek od towarów i usług, które zostały poniesione w 2018 r. na nabycie towarów lub usług, w tym na nabycie lub ulepszenie środków trwałych lub na nabycie wartości niematerialnych i prawnych, umożliwiających podłączenie do Elektronicznej Platformy Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych, o której mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666 i 1292).
+1. Podatnik może od dochodu z innych źródeł przychodów niż zyski kapitałowe ustalonego zgodnie z art. 7 odliczyć wydatki, pomniejszone o podatek od towarów i usług, które zostały poniesione w 2018 r. na nabycie towarów lub usług, w tym na nabycie lub ulepszenie środków trwałych lub na nabycie wartości niematerialnych i prawnych, umożliwiających podłączenie do Elektronicznej Platformy Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych, o której mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555 i 2280).
 
 2. Odliczenie stosuje się do podatnika prowadzącego aptekę ogólnodostępną lub punkt apteczny lub podatnika będącego wspólnikiem spółki niebędącej osobą prawną prowadzącej aptekę ogólnodostępną lub punkt apteczny.
 
@@ -18,6 +18,6 @@
 
 7. Użyte w niniejszym artykule określenie:
 
-- 1) apteka ogólnodostępna - oznacza aptekę ogólnodostępną w rozumieniu art. 87 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 974 i 981);
+- 1) apteka ogólnodostępna - oznacza aptekę ogólnodostępną w rozumieniu art. 87 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301);
 
 - 2) punkt apteczny - oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne.

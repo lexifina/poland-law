@@ -14,7 +14,7 @@
 
 - 4) informacje finansowe.
 
-1a. W przypadku transakcji, o których mowa w art. 11o ust. 1 i 1a, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
+1a. W przypadku transakcji, o których mowa w art. 11o ust. 1, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
 
 2. Grupowa dokumentacja cen transferowych zawiera następujące elementy dotyczące grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy o rachunkowości:
 
@@ -26,6 +26,16 @@
 
 - 4) informacje finansowe i podatkowe tej grupy.
 
-3. W przypadku transakcji kontrolowanych spełniających kryteria, o których mowa w art. 11f i art. 11g, lokalna dokumentacja cen transferowych może nie zawierać analizy porównawczej lub analizy zgodności.
+3. (uchylony)
+
+3a. W przypadku:
+
+- 1) transakcji kontrolowanych zawieranych przez podmioty powiązane będące mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców,
+
+- 2) transakcji innych niż transakcje kontrolowane, o których mowa w art. 11o ust. 1
+
+- lokalna dokumentacja cen transferowych może nie zawierać analizy porównawczej lub analizy zgodności.
+
+3b. Przepis ust. 3a pkt 1 ma zastosowanie w przypadku przedsiębiorcy, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców.
 
 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.

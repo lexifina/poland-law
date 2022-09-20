@@ -10,4 +10,4 @@
 
 - 2) wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia
 
-- jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatkowania dochodów ze zbycia tego składnika majątku.
+- jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku.

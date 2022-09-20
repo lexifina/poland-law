@@ -40,9 +40,11 @@
 
 - 4) z odszkodowania za naruszenie praw wynikających z kwalifikowanego prawa własności intelektualnej, jeżeli zostało uzyskane w postępowaniu spornym, w tym postępowaniu sądowym albo arbitrażu.
 
-8. Do ustalenia dochodów (strat), o których mowa w ust. 7 pkt 3, przepis art. 11c stosuje się odpowiednio.
+8. Do ustalenia dochodów (strat), o których mowa w ust. 7 pkt 3, przepisy art. 11c i art. 11d stosuje się odpowiednio.
 
 9. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowany dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 4-6 dla tego samego rodzaju produktu lub usługi lub dla tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
+
+9a. Od dochodu z kwalifikowanego prawa własności intelektualnej podatnik może odliczyć koszty kwalifikowane określone w art. 18d ust. 2-3b, które doprowadziły do wytworzenia, rozwinięcia lub ulepszenia przez podatnika tego prawa, przy czym przepisy art. 18d ust. 1 zdanie drugie i ust. 3c-9 stosuje się odpowiednio.
 
 10. O wysokość straty z kwalifikowanych praw własności intelektualnej poniesionej w roku podatkowym obniża się dochód osiągnięty w najbliższych kolejno następujących po sobie 5 latach podatkowych z tego samego kwalifikowanego prawa własności intelektualnej, tego samego rodzaju produktu lub usługi lub tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 

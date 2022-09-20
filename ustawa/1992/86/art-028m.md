@@ -6,7 +6,7 @@
 
 - 1) wysokości zysku netto wypracowanego w okresie opodatkowania ryczałtem w części, w jakiej zysk ten został uchwałą o podziale lub pokryciu wyniku finansowego netto przeznaczony:
 
-  - a) do wypłaty udziałowcom albo akcjonariuszom (dochód z tytułu podzielonego zysku) lub
+  - a) do wypłaty udziałowcom, akcjonariuszom albo wspólnikom (dochód z tytułu podzielonego zysku) lub
 
   - b) na pokrycie strat powstałych w okresie poprzedzającym okres opodatkowania ryczałtem (dochód z tytułu zysku przeznaczonego na pokrycie strat);
 
@@ -20,11 +20,11 @@
 
 - 6) wartości przychodów i kosztów podlegających zgodnie z przepisami o rachunkowości zarachowaniu w roku podatkowym i uwzględnieniu w zysku (stracie) netto, które nie zostały uwzględnione w tym zysku (stracie) netto (dochód z tytułu nieujawnionych operacji gospodarczych).
 
-2. Przepis ust. 1 pkt 1 stosuje się odpowiednio do wypłaty zaliczki na poczet przewidywanej dywidendy.
+2. Przepis ust. 1 pkt 1 stosuje się odpowiednio do wypłaty zaliczki na poczet przewidywanej dywidendy „(podzielonego zysku)”.
 
-3. Przez ukryte zyski, o których mowa w ust. 1 pkt 2, rozumie się świadczenia pieniężne, niepieniężne, odpłatne, nieodpłatne lub częściowo odpłatne, wykonane w związku z prawem do udziału w zysku, inne niż podzielony zysk, których beneficjentem, bezpośrednio lub pośrednio, jest udziałowiec albo akcjonariusz lub podmiot powiązany bezpośrednio lub pośrednio z podatnikiem lub z tym udziałowcem lub akcjonariuszem, w szczególności:
+3. Przez ukryte zyski, o których mowa w ust. 1 pkt 2, rozumie się świadczenia pieniężne, niepieniężne, odpłatne, nieodpłatne lub częściowo odpłatne, wykonane w związku z prawem do udziału w zysku, inne niż podzielony zysk, których beneficjentem, bezpośrednio lub pośrednio, jest udziałowiec, akcjonariusz albo wspólnik lub podmiot powiązany bezpośrednio lub pośrednio z podatnikiem lub z tym udziałowcem, akcjonariuszem albo wspólnikiem, w szczególności:
 
-- 1) kwotę pożyczki (kredytu) udzielonej przez podatnika udziałowcowi albo akcjonariuszowi lub podmiotowi powiązanemu z udziałowcem albo akcjonariuszem oraz odsetki, prowizje, wynagrodzenia i opłaty od pożyczki (kredytu) udzielonej przez te podmioty podatnikowi;
+- 1) kwotę pożyczki (kredytu) udzielonej przez podatnika udziałowcowi, akcjonariuszowi albo wspólnikowi, w tym za pośrednictwem tworzonych z zysku funduszy, lub podmiotowi powiązanemu z udziałowcem, akcjonariuszem lub wspólnikiem oraz odsetki, prowizje, wynagrodzenia i opłaty od pożyczki (kredytu) udzielonej przez te podmioty podatnikowi;
 
 - 2) świadczenia wykonane na rzecz:
 
@@ -36,13 +36,21 @@
 
 - 4) nadwyżkę zwróconej kwoty dopłaty, wniesionej do spółki zgodnie z odrębnymi przepisami, ponad kwotę wniesionej dopłaty, przy czym jeżeli dopłata została wniesiona w walucie obcej, przeliczenia tej kwoty na złote dokonuje się według średniego kursu waluty obcej ogłaszanego przez Narodowy Bank Polski na dzień odpowiednio zwrócenia dopłaty i faktycznego jej wniesienia;
 
-- 5) wypłacone z zysku wynagrodzenie z tytułu umorzenia udziału (akcji) lub ze zmniejszenia wartości udziału (akcji);
+- 5) wypłacone z zysku wynagrodzenie z tytułu umorzenia udziału (akcji), ze zmniejszenia wartości udziału (akcji), z wystąpienia wspólnika ze spółki, ze zmniejszenia udziału kapitałowego wspólnika w spółce;
 
 - 6) równowartość zysku przeznaczonego na podwyższenie kapitału zakładowego;
 
 - 7) darowizny, w tym prezenty i ofiary wszelkiego rodzaju;
 
-- 8) wydatki na reprezentację.
+- 8) wydatki na reprezentację;
+
+- 9) dopłaty wypłacone w przypadku połączenia lub podziału podmiotów;
+
+- 10) odsetki od udziału kapitałowego, wypłacane na rzecz wspólnika przez spółkę;
+
+- 11) zysk przeznaczony na uzupełnienie udziału kapitałowego wspólnika spółki;
+
+- 12) świadczenia pieniężne i niepieniężne wypłacone w przypadku zmniejszenia udziału kapitałowego wspólnika w spółce.
 
 4. Do ukrytych zysków, o których mowa w ust. 1 pkt 2, nie zalicza się:
 
@@ -54,7 +62,7 @@
 
   - b) w wysokości 50% - w przypadku składników majątku, które nie są wykorzystywane wyłącznie na cele działalności gospodarczej;
 
-- 3) kwoty pożyczki (kredytu) zwróconej przez podatnika udziałowcowi albo akcjonariuszowi lub podmiotowi powiązanemu, z wyłączeniem odsetek, prowizji, wynagrodzeń i opłat.
+- 3) kwoty pożyczki (kredytu) zwróconej przez podatnika udziałowcowi akcjonariuszowi lub wspólnikowi lub podmiotowi powiązanemu, z wyłączeniem odsetek, prowizji, wynagrodzeń i opłat.
 
 5. W przypadku, o którym mowa w ust. 4 pkt 2 lit. a, ciężar dowodu, że składnik majątku jest wykorzystywany wyłącznie na cele działalności gospodarczej, spoczywa na podatniku.
 
@@ -64,6 +72,6 @@
 
 - 2) zgodnie z art. 11c - w przypadkach innych niż określone w pkt 1.
 
-7. Przez wartość podatkową składnika majątku, o której mowa w ust. 1 pkt 4, rozumie się wartość niezaliczoną uprzednio w jakiejkolwiek formie do kosztów uzyskania przychodów w rozumieniu art. 15 lub w rozumieniu art. 22 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, jaka zostałaby przyjęta przez podatnika za taki koszt, gdyby składnik ten został przez niego odpłatnie zbyty.
+7. Przez wartość podatkową składnika majątku, o której mowa w ust. 1 pkt 4, rozumie się wartość niezaliczoną uprzednio w jakiejkolwiek formie do kosztów lub wartość obciążającą wynik finansowy netto w jakiejkolwiek innej formie, jaka zostałaby przyjęta przez podatnika za taki koszt, gdyby składnik ten został przez niego odpłatnie zbyty.
 
 8. Wartość nieodpłatnych i częściowo odpłatnych świadczeń, o której mowa w ust. 3, określa się zgodnie z art. 12 ust. 5-6a.

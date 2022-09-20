@@ -2,7 +2,7 @@
 
 1. Do przychodów Agencji Rozwoju Przemysłu Spółki Akcyjnej nie zalicza się:
 
-- 1) wartości skarbowych papierów wartościowych otrzymanych w 2020 r. na podstawie art. 21b ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2021 r. poz. 1010);
+- 1) wartości skarbowych papierów wartościowych otrzymanych w 2020 r. na podstawie art. 21b ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2022 r. poz. 2183 i 2185);
 
 - 2) przychodów z tytułu zbycia papierów wartościowych, o których mowa w pkt 1.
 

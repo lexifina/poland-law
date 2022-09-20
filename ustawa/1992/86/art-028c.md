@@ -1,6 +1,6 @@
 ## Rozdział 6b
 
-## Ryczałt od dochodów spółek kapitałowych
+## Ryczałt od dochodów spółek
 
 ## Oddział 1 Przepisy ogólne
 
@@ -14,4 +14,6 @@ Ilekroć w niniejszym rozdziale jest mowa o:
 
 - 3) wyniku finansowym netto - oznacza to wynik finansowy netto ustalany na podstawie przepisów o rachunkowości;
 
-- 4) zysku (stracie) netto - oznacza to zysk (stratę) netto ustalany na podstawie przepisów o rachunkowości.
+- 4) zysku (stracie) netto - oznacza to zysk (stratę) netto ustalany na podstawie przepisów o rachunkowości;
+
+- 5) rozdysponowanym dochodzie z tytułu zysku netto - oznacza to część dochodu z tytułu zysku netto, która została przeznaczona do dystrybucji w jakiejkolwiek formie, w tym do wypłaty wspólnikom, na pokrycie strat powstałych w okresie innym niż okres opodatkowania ryczałtem, na wypłatę wynagrodzeń związanych z udziałami, na podwyższenie kapitału zakładowego.

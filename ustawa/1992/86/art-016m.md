@@ -14,4 +14,4 @@
 
 3. Podatnicy ustalają stawki amortyzacyjne dla poszczególnych wartości niematerialnych i prawnych na cały okres amortyzacji przed rozpoczęciem dokonywania odpisów amortyzacyjnych.
 
-4. Odpisów amortyzacyjnych od własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej dokonuje się przy zastosowaniu rocznej stawki amortyzacyjnej w wysokości 2,5%.
+4. Odpisów amortyzacyjnych od spółdzielczego prawa do lokalu użytkowego dokonuje się przy zastosowaniu rocznej stawki amortyzacyjnej w wysokości 2,5%.

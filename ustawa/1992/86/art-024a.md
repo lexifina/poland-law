@@ -20,7 +20,7 @@
 
   - g) wydzieloną organizacyjnie lub prawnie część zagranicznej spółki lub innego podmiotu mającego osobowość prawną albo niemającego osobowości prawnej
 
-  - nieposiadające siedziby, zarządu ani rejestracji na terytorium Rzeczypospolitej Polskiej, w których podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych, stanowiących lub zarządzających lub prawo do uczestnictwa w zysku, w tym ich ekspektatywę, lub w których w przyszłości będzie uprawniony do nabycia takich praw, w tym jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub nad którymi podatnik sprawuje kontrolę faktyczną;
+  - nieposiadające siedziby, zarządu ani rejestracji na terytorium Rzeczypospolitej Polskiej, w których podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych, stanowiących lub zarządzających lub prawo do uczestnictwa w zysku, w tym ich ekspektatywę, lub w których w przyszłości będzie uprawniony do nabycia takich praw, w tym jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub nad którymi podatnik sprawuje kontrolę faktyczną;
 
 - 1a) prawo do uczestnictwa w zysku - oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
 
@@ -44,7 +44,7 @@
 
 3. Zagraniczną jednostką kontrolowaną jest:
 
-- 1) zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2 lub w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej, albo
+- 1) zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2 lub w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej albo
 
 - 2) zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium państwa innego niż wskazane w pkt 1, z którym:
 
@@ -56,17 +56,43 @@
 
 - 3) zagraniczna jednostka spełniająca łącznie następujące warunki:
 
-  - a) w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi, posiada bezpośrednio lub pośrednio ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
+  - a) w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
 
-  - b) co najmniej 33% przychodów tej jednostki osiągniętych w roku podatkowym, o którym mowa w ust. 6, pochodzi: - z dywidend i innych przychodów z udziału w zyskach osób prawnych, - ze zbycia udziałów (akcji), - z wierzytelności, - z odsetek i pożytków od wszelkiego rodzaju pożyczek, - z części odsetkowej raty leasingowej, - z poręczeń i gwarancji, - z praw autorskich lub praw własności przemysłowej, w tym z tytułu zbycia tych praw, - ze zbycia i realizacji praw z instrumentów finansowych, - z działalności ubezpieczeniowej, bankowej lub innej działalności finansowej, - z transakcji z podmiotami powiązanymi, w przypadku gdy jednostka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma,
+  - b) co najmniej 33% przychodów tej jednostki osiągniętych w roku podatkowym, o którym mowa w ust. 6, pochodzi: - z dywidend i innych przychodów z udziału w zyskach osób prawnych, - ze zbycia udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną, tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze, - z wierzytelności, - z tytułu usług doradczych, księgowych, badania rynku, usług prawnych, usług reklamowych, zarządzania i kontroli, przetwarzania danych, usług rekrutacji pracowników i pozyskiwania personelu oraz świadczeń o podobnym charakterze, - z tytułu najmu, podnajmu, dzierżawy, poddzierżawy i innych umów o podobnym charakterze, - z odsetek i pożytków od wszelkiego rodzaju pożyczek, - z części odsetkowej raty leasingowej, - z poręczeń i gwarancji, - z praw autorskich lub praw własności przemysłowej, w tym z tytułu zbycia tych praw, - z praw autorskich lub praw własności przemysłowej uwzględnionych w cenie sprzedaży produktu lub usługi, - ze zbycia i realizacji praw z instrumentów finansowych, - z działalności ubezpieczeniowej, bankowej lub innej działalności finansowej, - z transakcji z podmiotami powiązanymi, w przypadku gdy jednostka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma,
 
-  - c) faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy niż różnica między podatkiem dochodowym od osób prawnych, który byłby od niej należny, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1, a podatkiem dochodowym faktycznie przez nią zapłaconym w państwie jej siedziby, zarządu, zarejestrowania lub położenia; przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu.
+  - c) faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25% od podatku dochodowego od osób prawnych, który byłby od niej należny z zastosowaniem stawki podatku, o której mowa w art. 19 ust. 1 pkt 1, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu, albo
+
+- 4) zagraniczna jednostka spełniająca łącznie następujące warunki:
+
+  - a) w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
+
+  - b) faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25% od podatku dochodowego od osób prawnych, który byłby od niej należny przy zastosowaniu stawki podatku, o której mowa w art. 19 ust. 1 pkt 1, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu,
+
+  - c) przychody tej jednostki, o których mowa w pkt 3 lit. b, są niższe niż 30% sumy wartości posiadanych: - udziałów (akcji) w innej spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną, tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej, należności będących następstwem posiadania tych udziałów (akcji), praw o podobnym charakterze do tych udziałów (akcji), ogółu praw i obowiązków lub tytułów uczestnictwa, - nieruchomości lub ruchomości będących własnością albo współwłasnością podatnika lub używanych przez niego na podstawie umowy leasingu, - wartości niematerialnych i prawnych, - należności z tytułów, o których mowa w pkt 3 lit. b, wobec podmiotów powiązanych,
+
+  - d) aktywa, o których mowa w lit. c, stanowią co najmniej 50% wartości aktywów takiej jednostki, przy czym przy ustalaniu tej proporcji w wartości aktywów, o których mowa w lit. c, nie uwzględnia się udziałów (akcji) w innej spółce: - niemającej siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej oraz - nieposiadającej, bezpośrednio lub pośrednio, udziałów (akcji) w spółce mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, albo
+
+- 5) zagraniczna jednostka spełniająca łącznie następujące warunki:
+
+  - a) w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
+
+  - b) dochód jednostki przekracza dochód obliczony według wzoru: (b + c + d) × 20% w którym poszczególne litery oznaczają: b - wartość bilansową aktywów jednostki, c - roczne koszty zatrudnienia jednostki, d - zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
+
+  - c) mniej niż 75% przychodów tej jednostki pochodzi z transakcji dokonywanych z podmiotami niepowiązanymi mającymi miejsce zamieszkania, siedzibę, zarząd, rejestrację lub położenie w tym samym państwie co ta jednostka,
+
+  - d) faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25% od podatku dochodowego od osób prawnych, który byłby od niej należny z zastosowaniem stawki podatku, o której mowa w art. 19 ust. 1 pkt 1, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu.
 
 3a. Przy wyliczaniu różnicy, o której mowa w ust. 3 pkt 3 lit. c, nie uwzględnia się zagranicznego zakładu zagranicznej jednostki kontrolowanej, który nie podlega opodatkowaniu lub jest zwolniony z podatku w państwie siedziby zagranicznej jednostki kontrolowanej.
 
 3b. Sprawowanie kontroli, o której mowa w ust. 3 pkt 3 lit. a, wobec podatkowej grupy kapitałowej, o której mowa w ust. 2 pkt 1 lit. f, ustala się poprzez odniesienie się do spółki dominującej lub wobec wszystkich spółek z grupy.
 
 3c. W przypadku spółki z podatkowej grupy kapitałowej, o której mowa w ust. 2 pkt 1 lit. f, przez faktycznie zapłacony podatek dochodowy przez tę spółkę na potrzeby ust. 3 pkt 3 lit. c należy rozumieć podatek, który zostałby przez tę spółkę zapłacony, gdyby ta spółka nie była częścią tej podatkowej grupy kapitałowej.
+
+3d. Przez innych podatników mających miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, o których mowa w ust. 2 pkt 1, rozumie się podatników posiadających bezpośrednio co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku.
+
+3e. Za przychody, o których mowa w ust. 3 pkt 3 lit. b, uważa się również przychody przypisane zgodnie z art. 5.
+
+3f. Wartość bilansową aktywów jednostki oraz odpisów amortyzacyjnych, o których mowa w ust. 3 pkt 5 lit. b, określa się na koniec roku, za który ma być zapłacony podatek.
 
 4. Podstawę opodatkowania, o której mowa w ust. 1, stanowi kwota odpowiadająca dochodowi zagranicznej jednostki kontrolowanej proporcjonalnie do okresu, w którym jednostka zagraniczna była kontrolowana przez podatnika w jej roku podatkowym, albo do okresu, o którym mowa w ust. 8 albo 9, w takiej części, jaka odpowiada posiadanym prawom do uczestnictwa w zysku tej jednostki, po odliczeniu kwot:
 
@@ -78,7 +104,11 @@
 
 5. Kwoty nieodliczone zgodnie z ust. 4 w danym roku podatkowym podlegają odliczeniu w następnych, kolejno po sobie następujących pięciu latach podatkowych.
 
-6. Dochodem, o którym mowa w ust. 4, jest uzyskana w roku podatkowym nadwyżka sumy przychodów nad kosztami ich uzyskania, ustalonymi zgodnie z przepisami ustawy, bez względu na rodzaj źródeł przychodów, ustalona na ostatni dzień roku podatkowego zagranicznej jednostki kontrolowanej. Jeżeli zagraniczna jednostka kontrolowana nie ma ustalonego roku podatkowego albo rok ten przekracza okres kolejnych, następujących po sobie 12 miesięcy, przyjmuje się, że rokiem podatkowym zagranicznej jednostki kontrolowanej jest rok podatkowy podatnika. Dochód zagranicznej jednostki kontrolowanej nie podlega pomniejszeniu o straty poniesione w latach poprzednich.
+6. Dochodem, o którym mowa w ust. 4, z zastrzeżeniem ust. 6a i 6b, jest uzyskana w roku podatkowym nadwyżka sumy przychodów nad kosztami ich uzyskania, ustalonymi zgodnie z przepisami ustawy, bez względu na rodzaj źródeł przychodów, ustalona na ostatni dzień roku podatkowego zagranicznej jednostki kontrolowanej. Jeżeli zagraniczna jednostka kontrolowana nie ma ustalonego roku podatkowego albo rok ten przekracza okres kolejnych, następujących po sobie 12 miesięcy, przyjmuje się, że rokiem podatkowym zagranicznej jednostki kontrolowanej jest rok podatkowy podatnika. Dochód zagranicznej jednostki kontrolowanej nie podlega pomniejszeniu o straty poniesione w latach poprzednich.
+
+6a. W przypadku, o którym mowa w ust. 3 pkt 4, dochodem jednostki jest 8% wartości aktywów tej jednostki, o których mowa w ust. 3 pkt 4 lit. c. Zdania pierwszego nie stosuje się, jeżeli w podstawie opodatkowania, o której mowa w ust. 1, został uwzględniony dochód tej zagranicznej jednostki, o którym mowa w ust. 4 lub 4a, w związku ze spełnieniem warunków określonych w ust. 3 pkt 1-3 albo 5.
+
+6b. Wartość aktywów, o których mowa w ust. 6a, określa się na podstawie ich wartości bilansowej ustalonej na podstawie przepisów o rachunkowości na koniec roku, za który ma być zapłacony podatek.
 
 7. Jeżeli nie jest możliwe ustalenie wysokości prawa do uczestnictwa w zysku zagranicznej jednostki kontrolowanej albo nastąpiło wyłączenie lub ograniczenie tego prawa, dla jego ustalenia przyjmuje się najwyższy, określony procentowo, udział podatnika w kapitale lub prawie głosu w organach kontrolnych, stanowiących lub zarządzających tej jednostki.
 
@@ -94,7 +124,7 @@
 
 - 2) jednostka zależna jest podatnikiem, o którym mowa w art. 3 ust. 1, albo istnieje podstawa prawna, wynikająca z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego państwa, w którym jednostka zależna będąca zagraniczną jednostką posiada rezydencję podatkową lub jest zarejestrowana lub położona.
 
-12. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną jednostkę kontrolowaną w państwie jej siedziby lub zarządu, rejestracji albo położenia lub w innym państwie w proporcji, w jakiej pozostaje dochód ustalony zgodnie z ust. 4 lub 4a do dochodu tej jednostki ustalonego zgodnie z ust. 6. Przepisy art. 20 ust. 8 i art. 22b stosuje się odpowiednio.
+12. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną jednostkę kontrolowaną w państwie jej siedziby lub zarządu, rejestracji albo położenia lub w innym państwie w proporcji, w jakiej pozostaje dochód ustalony zgodnie z ust. 4 lub 4a do dochodu tej jednostki ustalonego zgodnie z ust. 6 albo 6a. Przepisy art. 20 ust. 8 i art. 22b stosuje się odpowiednio.
 
 13. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych jednostek, o których mowa w ust. 3 pkt 1 i 2 oraz pkt 3 lit. a, a w przypadku zagranicznych jednostek posiadających siedzibę lub zarząd na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Obszaru Gospodarczego - rejestru zagranicznych jednostek spełniających warunki określone w ust. 3 pkt 3.
 

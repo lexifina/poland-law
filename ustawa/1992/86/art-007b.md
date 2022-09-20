@@ -16,7 +16,7 @@
 
   - f) równowartość zysku osoby prawnej oraz spółki, o której mowa w art. 1 ust. 3, przeznaczonego na podwyższenie jej kapitału zakładowego, równowartość nadwyżki bilansowej spółdzielni przeznaczonej na podwyższenie funduszu udziałowego oraz równowartość kwot przekazanych na ten kapitał (fundusz) z innych kapitałów (funduszy) takiej osoby prawnej lub spółki,
 
-  - g) dopłaty otrzymane w przypadku połączenia lub podziału spółek przez wspólników spółki przejmowanej, spółek łączonych lub dzielonych,
+  - g) dopłaty otrzymane w przypadku połączenia lub podziału podmiotów przez osoby posiadające prawo do uczestnictwa w zysku podmiotu przejmowanego, łączonego lub dzielonego lub
 
   - h) przychody wspólnika spółki dzielonej, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie - majątek przejmowany na skutek podziału lub majątek pozostający w spółce, nie stanowią zorganizowanej części przedsiębiorstwa,
 
@@ -31,6 +31,10 @@
   - m) przychody uzyskane w następstwie przekształceń, łączenia lub podziałów podmiotów, w tym: - przychody osoby prawnej lub spółki, o której mowa w art. 1 ust. 3, przejmującej w następstwie łączenia lub podziału majątek lub część majątku innej osoby prawnej lub spółki, - przychody wspólnika spółki łączonej lub dzielonej, - przychody spółki dzielonej,
 
   - n) przychód ze zmniejszenia kapitału akcyjnego w prostej spółce akcyjnej;
+
+- 1a) przychody uzyskane w następstwie przekształceń, łączenia lub podziału podmiotów;
+
+- 1b) przychody uzyskane w następstwie likwidacji spółki niebędącej osobą prawną, wystąpienia wspólnika z takiej spółki lub zmniejszenia udziału kapitałowego w takiej spółce, jeżeli Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia otrzymanych składników majątku;
 
 - 2) przychody z tytułu wniesienia do osoby prawnej lub spółki, o której mowa w art. 1 ust. 3, wkładu niepieniężnego;
 

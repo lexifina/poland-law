@@ -1,6 +1,6 @@
 # Art. 11p.
 
-1. Podmioty powiązane konsolidowane metodą pełną lub proporcjonalną, które są obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku obrotowego, jeżeli należą do grupy podmiotów powiązanych:
+1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych, dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
 
 - 1) dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
 

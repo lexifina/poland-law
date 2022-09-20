@@ -2,11 +2,11 @@
 
 1. Podatnik opodatkowany ryczałtem traci prawo do tego opodatkowania z końcem:
 
-- 1) ostatniego roku podatkowego okresu, o którym mowa w art. 28f ust. 1 albo 2 - w przypadku gdy podatnik złoży informację o rezygnacji z opodatkowania ryczałtem;
+- 1) roku podatkowego okresu, o którym mowa w art. 28f ust. 1 albo 2 - w przypadku gdy podatnik złoży informację o rezygnacji z opodatkowania ryczałtem;
 
-- 2) ostatniego roku podatkowego odpowiednio dwuletniego albo czteroletniego okresu, w którym podatnik nie poniósł nakładów na cele inwestycyjne w wysokości określonej w art. 28g ust. 1 albo wydatków na wynagrodzenia w wysokości określonej w art. 28g ust. 6;
+- 2) (uchylony)
 
-- 3) roku podatkowego, w którym podatnik nie spełnił któregokolwiek z warunków, o których mowa w art. 28j ust. 1 pkt 1-3;
+- 3) roku podatkowego, w którym podatnik nie spełnił któregokolwiek z warunków, o których mowa w art. 28j ust. 1 pkt 2 i 3;
 
 - 4) roku poprzedzającego rok podatkowy, w którym:
 

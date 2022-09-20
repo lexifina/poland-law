@@ -1,6 +1,6 @@
 # Art. 18f.
 
-1. Podstawa opodatkowania ustalona zgodnie z art. 18 lub art. 24d ust. 3 oraz po uprzednim odliczeniu kwot określonych w art. 18d:
+1. Podstawa opodatkowania ustalona zgodnie z art. 18 lub art. 24d ust. 3 oraz po uprzednim odliczeniu kwot określonych w art. 18d, art. 18db, art. 18ea-18ef i art. 38eb:
 
 - 1) może być zmniejszona o zaliczaną do przychodów należnych wartość wierzytelności o zapłatę świadczenia pieniężnego w rozumieniu art. 4 pkt 1a ustawy o przeciwdziałaniu nadmiernym opóźnieniom, która nie została uregulowana lub zbyta, przy czym zmniejszenia dokonuje się w zeznaniu podatkowym składanym za rok podatkowy, w którym upłynęło 90 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie;
 

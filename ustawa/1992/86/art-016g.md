@@ -36,7 +36,7 @@
 
 - 8) w razie gdy podatnik, o którym mowa w art. 3 ust. 1, przeniósł na terytorium Rzeczypospolitej Polskiej składnik majątku swojego zagranicznego zakładu, w tym w wyniku jego likwidacji, lub przeniósł, w związku ze zmianą miejsca siedziby lub zarządu (rezydencji podatkowej), na terytorium Rzeczypospolitej Polskiej składnik majątku wykorzystywany w działalności prowadzonej poza terytorium Rzeczypospolitej Polskiej - wartość, o której mowa w art. 15 ust. 1ya.
 
-1a. Przepis ust. 1 pkt 4a lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki.
+1a. Przepis ust. 1 pkt 4a lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną, wystąpienia z takiej spółki albo zmniejszenia udziału kapitałowego w takiej spółce.
 
 2. Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, albo nominalną wartością wydanych udziałów (akcji) w zamian za wkład niepieniężny a wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki albo spółki niebędącej osobą prawną przedsiębiorstwa lub jego zorganizowanej części, odpowiednio z dnia kupna, przyjęcia do odpłatnego korzystania albo wniesienia do spółki albo spółki niebędącej osobą prawną.
 
@@ -52,7 +52,9 @@
 
 8. W razie gdy składnik majątku stanowi współwłasność podatnika, wartość początkową tego składnika ustala się w takiej proporcji jego wartości, w jakiej pozostaje udział podatnika we własności tego składnika majątku. Art. 5 ust. 1 stosuje się odpowiednio.
 
-9. W razie przekształcenia formy prawnej, podziału albo połączenia podmiotów, z zastrzeżeniem ust. 19, dokonywanych na podstawie odrębnych przepisów - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 9 ust. 1, podmiotu przekształcanego, połączonego albo podzielonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.
+9. W razie przekształcenia formy prawnej, podziału albo połączenia podmiotów, z zastrzeżeniem ust. 19, dokonywanych na podstawie odrębnych przepisów - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 9 ust. 1, podmiotu przekształcanego, połączonego albo podzielonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi, w tym również powstałych z przekształcenia spółki.
+
+9a. Przepis ust. 9 może stosować podatnik dokonujący transgranicznego przejęcia składników majątku w następstwie łączenia lub podziału podmiotów, w zakresie przejmowanych składników majątku podmiotów podlegających do dnia przejęcia opodatkowaniu od całości swoich dochodów, bez względu na miejsce ich osiągnięcia w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, które nie są przypisane do zagranicznego zakładu tego podmiotu położonego na terytorium Rzeczypospolitej Polskiej.
 
 10. W razie nabycia w drodze kupna lub przyjęcia do odpłatnego korzystania przedsiębiorstwa lub jego zorganizowanej części, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi:
 
@@ -64,7 +66,7 @@
 
 10b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części albo komercjalizowanej własności intelektualnej wnoszonej przez podmiot komercjalizujący, przepis ust. 9 stosuje się odpowiednio.
 
-10c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 9 stosuje się odpowiednio.
+10c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 9 stosuje się odpowiednio.
 
 11. W razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze spadku lub darowizny, łączna wartość początkowa nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi sumę ich wartości rynkowej, nie wyższą jednak od różnicy pomiędzy wartością przychodów, o której mowa w art. 12 ust. 5, uwzględnionych w podstawie opodatkowania podatkiem dochodowym w roku podatkowym, w którym nabyto to przedsiębiorstwo lub jego zorganizowaną część, a wartością składników zwiększających aktywa spadkobiercy lub obdarowanego, niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi.
 
@@ -86,6 +88,6 @@
 
 20. W razie zmiany formy opodatkowania odpowiednio z podatku tonażowego albo zryczałtowanego podatku od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, na podatek dochodowy podatnicy w ewidencji, o której mowa w art. 9, uwzględniają odpisy amortyzacyjne przypadające za okres opodatkowania w formie podatku tonażowego lub zryczałtowanego podatku od wartości sprzedanej produkcji.
 
-21. W przypadku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową, podatnicy w ewidencji, o której mowa w art. 9, uwzględniają również odpisy amortyzacyjne przypadające za okres opodatkowania osoby fizycznej zgodnie z ustawą z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2020 r. poz. 1905, 2123 i 2320 oraz z 2021 r. poz. 255, 1163 i 1243). Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.
+21. W przypadku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową, podatnicy w ewidencji, o której mowa w art. 9, uwzględniają również odpisy amortyzacyjne przypadające za okres opodatkowania osoby fizycznej zgodnie z ustawą z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2021 r. poz. 1993, z późn. zm.). Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.
 
-22. Podatnik, który zakończył stosowanie opodatkowania ryczałtem od dochodów spółek kapitałowych, w ewidencji, o której mowa w art. 9, uwzględnia odpisy amortyzacyjne dokonane zgodnie z przepisami o rachunkowości, przypadające za okres opodatkowania ryczałtem od dochodów spółek kapitałowych.
+22. Podatnik, który zakończył stosowanie opodatkowania ryczałtem od dochodów spółek, w ewidencji, o której mowa w art. 9, uwzględnia odpisy amortyzacyjne dokonane zgodnie z przepisami o rachunkowości, przypadające za okres opodatkowania ryczałtem od dochodów spółek.

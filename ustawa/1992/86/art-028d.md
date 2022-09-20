@@ -1,6 +1,6 @@
 # Art. 28d.
 
-1. Podatnik opodatkowany ryczałtem od dochodów spółek kapitałowych, zwanym dalej w niniejszym rozdziale „ryczałtem”, jest obowiązany do prowadzenia ksiąg rachunkowych oraz sporządzania sprawozdań finansowych na podstawie przepisów o rachunkowości w sposób zapewniający prawidłowe określenie:
+1. Podatnik opodatkowany ryczałtem od dochodów spółek, zwanym dalej w niniejszym rozdziale „ryczałtem”, jest obowiązany do prowadzenia ksiąg rachunkowych oraz sporządzania sprawozdań finansowych na podstawie przepisów o rachunkowości w sposób zapewniający prawidłowe określenie:
 
 - 1) wysokości zysku (straty) netto, podstawy opodatkowania i wysokości należnego podatku oraz
 

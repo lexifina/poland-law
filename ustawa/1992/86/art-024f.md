@@ -8,9 +8,9 @@
 
 2. Opodatkowaniu podatkiem od dochodów z niezrealizowanych zysków podlega:
 
-- 1) przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, w wyniku którego Rzeczpospolita Polska w całości albo w części traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku, przy czym przenoszony składnik majątku pozostaje własnością tego samego podmiotu;
+- 1) przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, w wyniku którego Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku, przy czym przenoszony składnik majątku pozostaje własnością tego samego podmiotu;
 
-- 2) zmiana rezydencji podatkowej przez podatnika podlegającego w Rzeczypospolitej Polskiej obowiązkowi podatkowemu od całości swoich dochodów (nieograniczonemu obowiązkowi podatkowemu), w wyniku której Rzeczpospolita Polska w całości albo w części traci prawo do opodatkowania dochodów ze zbycia składnika majątku będącego własnością tego podatnika, w związku z przeniesieniem jego siedziby lub zarządu do innego państwa.
+- 2) zmiana rezydencji podatkowej przez podatnika podlegającego w Rzeczypospolitej Polskiej obowiązkowi podatkowemu od całości swoich dochodów (nieograniczonemu obowiązkowi podatkowemu), w wyniku której Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia składnika majątku będącego własnością tego podatnika, w związku z przeniesieniem jego siedziby lub zarządu do innego państwa, w tym w związku z transgranicznym przekształceniem.
 
 3. Przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, o którym mowa w ust. 2 pkt 1, obejmuje w szczególności sytuację, w której:
 
