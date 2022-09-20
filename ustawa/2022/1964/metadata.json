@@ -1,0 +1,112 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/1964",
+ "source_sha256": "418093c4556a89b82604960e0d4e35cda03430d821b1a4fb574e81ac6ec961cd",
+ "in_force": "2022-09-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/1964",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/1964/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/1964/text/O/D20221964.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/1964/text/I/D20221964.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/1964/text/T/D20221964L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/1964/text/U/D20221964Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/1964",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1964,
+  "address": "WDU20220001964",
+  "displayAddress": "Dz.U. 2022 poz. 1964",
+  "title": "Ustawa z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-09-15",
+  "promulgation": "2022-09-19",
+  "entryIntoForce": "2022-09-20",
+  "changeDate": "2024-12-06T10:57:01",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "ochotnicza straż pożarna",
+   "związek metropolitalny",
+   "finanse publiczne",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=2542",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/2542",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/2542",
+    "number": "2542",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2024/1756",
+     "date": "2024-11-30"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2022/1265",
+     "date": "2022-09-20"
+    },
+    {
+     "id": "DU/2021/2490",
+     "date": "2022-09-20"
+    },
+    {
+     "id": "DU/2017/730",
+     "date": "2022-09-20"
+    },
+    {
+     "id": "DU/2009/1240",
+     "date": "2022-09-20"
+    },
+    {
+     "id": "DU/2003/1966",
+     "date": "2022-09-20"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20221964.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20221964.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20221964L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20221964Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
