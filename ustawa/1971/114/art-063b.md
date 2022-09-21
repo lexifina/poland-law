@@ -1,6 +1,6 @@
 # Art. 63b.
 
-§ 1. Kto umieszcza reklamę, o której mowa w art. 4 pkt 23 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595) z naruszeniem warunków jej sytuowania określonych w art. 42a tej ustawy, o gabarytach większych niż dopuszczalne lub wykonane z wyrobów innych niż dopuszczalne, podlega karze ograniczenia wolności albo grzywny.
+§ 1. Kto umieszcza reklamę, o której mowa w art. 4 pkt 23 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768 i 1783) z naruszeniem warunków jej sytuowania określonych w art. 42a tej ustawy, o gabarytach większych niż dopuszczalne lub wykonane z wyrobów innych niż dopuszczalne, podlega karze ograniczenia wolności albo grzywny.
 
 § 2. Podżeganie i pomocnictwo są karalne.
 

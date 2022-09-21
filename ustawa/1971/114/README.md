@@ -2,5 +2,5 @@
 
 Dz.U. 1971 nr 12 poz. 114 · <https://eli.gov.pl/api/acts/DU/1971/114>
 
-Tekst jednolity: Dz.U. 2021 poz. 2008 (2021-11-05), stan na 2021-09-24.
+Tekst jednolity: Dz.U. 2022 poz. 2151 (2022-10-20), stan na 2022-09-21.
 
