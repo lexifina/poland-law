@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/913",
+ "source_sha256": "ce7af8eb0b826c07f6a96d913f1330698febd9aa7024c0882e2fa4b3a66b7fea",
+ "in_force": "2022-09-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/913",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/913/text/O/M20220913.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/913/text/I/M20220913.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/913",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 913,
+  "address": "WMP20220000913",
+  "displayAddress": "M.P. 2022 poz. 913",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 22 września 2022 r. w sprawie wysokości przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego w 2021 r.",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-09-22",
+  "promulgation": "2022-09-23",
+  "changeDate": "2022-09-26T10:38:10",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gospodarstwa rolne",
+   "statystyka",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1984/268"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1984/268",
+     "art": "art. 18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220913.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220913.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
