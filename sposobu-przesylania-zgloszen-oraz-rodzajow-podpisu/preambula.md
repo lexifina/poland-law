@@ -1,0 +1,1 @@
+Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 2500 oraz z 2023 r. poz. 614, 1234 i 1723) zarządza się, co następuje:
