@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/2008",
+ "source_sha256": "077c1722c7a5b1d10eca1760bb176b655ea1e1ae65b82324bc13c4ddb6d4ba8b",
+ "in_force": "2022-09-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/2008",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/2008/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/2008/text/O/D20222008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/2008/text/I/D20222008.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/2008/text/T/D20222008L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/2008/text/U/D20222008Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/2008",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 2008,
+  "address": "WDU20220002008",
+  "displayAddress": "Dz.U. 2022 poz. 2008",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gwarantowanym kredycie mieszkaniowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-09-05",
+  "promulgation": "2022-09-28",
+  "expirationDate": "2023-05-05",
+  "changeDate": "2024-03-14T12:05:40",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kredyt mieszkaniowy",
+   "poręczenia państwowe",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [
+   "Bank Gospodarstwa Krajowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2021/2133"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20222008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20222008.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20222008L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20222008Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
