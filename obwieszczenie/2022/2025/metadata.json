@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/2025",
+ "source_sha256": "9e24a073064b3dcd4cbdc4265cc2b25247e10fa12caf7bd9d1daa6865c522eb6",
+ "in_force": "2022-09-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/2025",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/2025/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/2025/text/O/D20222025.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/2025/text/I/D20222025.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/2025/text/T/D20222025L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/2025/text/U/D20222025Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/2025",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 2025,
+  "address": "WDU20220002025",
+  "displayAddress": "Dz.U. 2022 poz. 2025",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Banku Polskim",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-09-05",
+  "promulgation": "2022-09-30",
+  "changeDate": "2026-08-26T14:53:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Narodowy Bank Polski"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/340",
+     "date": "2026-01-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/938"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20222025.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20222025.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20222025L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20222025Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
