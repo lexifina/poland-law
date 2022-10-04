@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/949",
+ "source_sha256": "a2d3b12bdd0473cfc05e40878448aac8c530fc71a664a08e8ffee59b6e93f838",
+ "in_force": "2022-10-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/949",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/949/text/O/M20220949.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/949/text/I/M20220949.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/949",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 949,
+  "address": "WMP20220000949",
+  "displayAddress": "M.P. 2022 poz. 949",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 29 września 2022 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-09-29",
+  "promulgation": "2022-10-04",
+  "changeDate": "2026-10-06T13:43:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220949.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220949.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
