@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/982",
+ "source_sha256": "904fa7dadb324e5b64b77009969d38bf8eca1199a120a9c4338c578d81ffc0b0",
+ "in_force": "2022-10-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/982",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/982/text/O/M20220982.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/982/text/I/M20220982.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/982",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 982,
+  "address": "WMP20220000982",
+  "displayAddress": "M.P. 2022 poz. 982",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 września 2022 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych i Administracji",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-09-29",
+  "promulgation": "2022-10-14",
+  "repealDate": "2024-09-06",
+  "changeDate": "2024-09-06T09:57:25",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Ministerstwo Spraw Wewnętrznych i Administracji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2024/805",
+     "date": "2024-09-06"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2015/1294"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20220982.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20220982.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
