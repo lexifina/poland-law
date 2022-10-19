@@ -1,0 +1,1 @@
+Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558, 1700 i 1812) zarządza się, co następuje:
