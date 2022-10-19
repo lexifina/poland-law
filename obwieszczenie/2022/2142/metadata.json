@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/2142",
+ "source_sha256": "7b245b3acd21447a22b869003d759a5b5b7dfa67c4cc336ca52dbef881fa6801",
+ "in_force": "2022-10-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/2142",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/2142/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/2142/text/O/D20222142.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/2142/text/I/D20222142.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/2142/text/T/D20222142L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/2142/text/U/D20222142Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/2142",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 2142,
+  "address": "WDU20220002142",
+  "displayAddress": "Dz.U. 2022 poz. 2142",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłacie skarbowej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-09-14",
+  "promulgation": "2022-10-19",
+  "expirationDate": "2023-10-02",
+  "changeDate": "2024-03-14T12:20:58",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opłata skarbowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/1635"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20222142.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20222142.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20222142L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20222142Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
