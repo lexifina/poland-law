@@ -1,0 +1,1 @@
+Na podstawie art. 6a ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2022 r. poz. 1315, 1576 i 1967) zarządza się, co następuje:
