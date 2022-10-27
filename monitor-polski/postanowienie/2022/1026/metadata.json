@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/1026",
+ "source_sha256": "528e8ebef8eeb09ee34285f13e788b3c18a58cb643e6af53568cc55e7f522189",
+ "in_force": "2022-10-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/1026",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/1026/text/O/M20221026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/1026/text/I/M20221026.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/1026",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1026,
+  "address": "WMP20220001026",
+  "displayAddress": "M.P. 2022 poz. 1026",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 27 sierpnia 2022 r. nr 1130.64.2022 o powołaniu do pełnienia urzędu na stanowisku sędziego",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-08-27",
+  "promulgation": "2022-10-27",
+  "changeDate": "2022-10-28T12:20:41",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sąd apelacyjny",
+   "sądy okręgowe",
+   "sędziowie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 179"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20221026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20221026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
