@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/1030",
+ "source_sha256": "70556f8a932f93d8c66cd92aec59ea9dd16d7ab501fe38ba286e539de5b6791c",
+ "in_force": "2022-10-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/1030",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/1030/text/O/M20221030.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/1030/text/I/M20221030.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/1030",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1030,
+  "address": "WMP20220001030",
+  "displayAddress": "M.P. 2022 poz. 1030",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 7 września 2022 r. w sprawie ogłoszenia jednolitego tekstu uchwały Rady Ministrów w sprawie Krajowego planu gospodarki odpadami 2022",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-09-07",
+  "promulgation": "2022-10-28",
+  "repealDate": "2023-07-13",
+  "changeDate": "2023-07-13T09:12:40",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odpady",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2023/702",
+     "date": "2023-07-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2016/784"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20221030.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20221030.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
