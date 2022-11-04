@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/2042",
+ "source_sha256": "a1e19169a63f22194cff69a37764b8ae7546f4404a3f534a386a31e173c99b52",
+ "in_force": "2022-11-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/2042",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/2042/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/2042/text/O/D20222042.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/2042/text/I/D20222042.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/2042/text/T/D20222042L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/2042/text/U/D20222042Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/2042",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 2042,
+  "address": "WDU20220002042",
+  "displayAddress": "Dz.U. 2022 poz. 2042",
+  "title": "Ustawa z dnia 15 września 2022 r. o zmianie ustawy - Prawo pocztowe",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-09-15",
+  "promulgation": "2022-10-04",
+  "entryIntoForce": "2022-11-04",
+  "changeDate": "2026-02-03T15:29:15",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "poczta"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=2561",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/2561",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/2561",
+    "number": "2561",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2018/978",
+     "date": "2023-03-05"
+    },
+    {
+     "id": "DU/2017/1202",
+     "date": "2023-03-05"
+    },
+    {
+     "id": "DU/2013/544",
+     "date": "2023-03-05"
+    },
+    {
+     "id": "DU/2013/543",
+     "date": "2022-11-04"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "DU/2025/1533",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2024/467",
+     "date": "2024-03-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2012/1529",
+     "date": "2022-11-04"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20222042.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20222042.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20222042L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20222042Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
