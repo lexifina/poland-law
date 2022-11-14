@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/1086",
+ "source_sha256": "fb7f14a17cfb149a7629de6e6cec2b4271606c8e35aab14c1979743ac4bc33ad",
+ "in_force": "2022-11-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/1086",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/1086/text/O/M20221086.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/1086/text/I/M20221086.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/1086",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1086,
+  "address": "WMP20220001086",
+  "displayAddress": "M.P. 2022 poz. 1086",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 31 października 2022 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Międzyresortowego Zespołu do opracowania regulacji dotyczących podmiotów inwestujących w najem nieruchomości",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-10-31",
+  "promulgation": "2022-11-14",
+  "repealDate": "2024-05-29",
+  "changeDate": "2024-05-29T10:02:00",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "najem",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2024/400",
+     "date": "2024-05-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2021/407"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20221086.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20221086.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
