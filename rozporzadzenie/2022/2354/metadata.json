@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2022/2354",
- "source_sha256": "3de5f231fa470b3e30038f6fcbde2b59986dff728cab59b3b4d3952d6b9c08c9",
+ "source_sha256": "ba5670f38f30f3ecc6d275bee68883cc01e09cac13d75fc4bd0ef0a13af60779",
  "in_force": "2022-11-19",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
  "text_status": "metadata only: annex (1 more part(s) after the act); the official text is linked (links), not transcribed here yet",
@@ -22,12 +22,13 @@
   "displayAddress": "Dz.U. 2022 poz. 2354",
   "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 listopada 2022 r. w sprawie stawek opłat za czynności przeprowadzone w ramach kontroli jakości handlowej artykułów rolno-spożywczych oraz prawidłowości wprowadzania do obrotu i oznakowania materiałów i wyrobów przeznaczonych do kontaktu z żywnością",
   "type": "Rozporządzenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2022-11-08",
   "promulgation": "2022-11-18",
   "entryIntoForce": "2022-11-19",
-  "changeDate": "2024-03-14T12:18:36",
+  "repealDate": "2026-11-20",
+  "changeDate": "2026-11-20T09:43:35",
   "releasedBy": [
    "MIN. ROLNICTWA I ROZWOJU WSI"
   ],
@@ -45,6 +46,12 @@
   "directives": [],
   "prints": [],
   "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2026/1529",
+     "date": "2026-11-20"
+    }
+   ],
    "Podstawa prawna": [
     {
      "id": "DU/2001/44"
