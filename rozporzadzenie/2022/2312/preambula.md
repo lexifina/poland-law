@@ -1,0 +1,1 @@
+Na podstawie art. 28a ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218, 1700 i 2185) zarządza się, co następuje:
