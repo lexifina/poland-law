@@ -1,0 +1,1 @@
+Na podstawie art. 46 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328) zarządza się, co następuje:
