@@ -1,0 +1,1 @@
+Na podstawie art. 37a ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, 1079, 1250, 1604, 2185 i 2515) zarządza się, co następuje:
