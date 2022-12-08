@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2022/1206",
+ "source_sha256": "1c6e7824d201f0b2c94e0957a9505e02ac686893d4287f09fb4b8e72e8515a94",
+ "in_force": "2022-12-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2022/1206",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2022/1206/text/O/M20221206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2022/1206/text/I/M20221206.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2022/1206",
+  "publisher": "MP",
+  "year": 2022,
+  "volume": 0,
+  "pos": 1206,
+  "address": "WMP20220001206",
+  "displayAddress": "M.P. 2022 poz. 1206",
+  "title": "Obwieszczenie Prezesa Naczelnego Sądu Administracyjnego z dnia 2 grudnia 2022 r. o wolnym stanowisku asesorskim w Wojewódzkim Sądzie Administracyjnym we Wrocławiu",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-12-02",
+  "promulgation": "2022-12-08",
+  "changeDate": "2022-12-09T11:58:53",
+  "releasedBy": [
+   "PREZ. NACZELNEGO SĄDU ADMINISTRACYJNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy administracyjne",
+   "asesorzy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1269"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1269",
+     "art": "art. 6a par. 2a"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20221206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20221206.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
