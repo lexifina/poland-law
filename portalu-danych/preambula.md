@@ -1,0 +1,1 @@
+Na podstawie art. 34 ust. 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) zarządza się, co następuje:
