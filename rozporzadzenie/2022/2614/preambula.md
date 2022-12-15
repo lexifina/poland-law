@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 2 ustawy z dnia 24 lutego 2022 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 526) zarządza się, co następuje:
