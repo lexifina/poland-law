@@ -8,7 +8,7 @@
 
 2. Podstawę obliczenia daniny solidarnościowej stanowi nadwyżka ponad 1 000 000 zł sumy dochodów podlegających opodatkowaniu na zasadach określonych w art. 27 ust. 1, 9 i 9a, art. 30b, art. 30c oraz art. 30f po ich pomniejszeniu o:
 
-- 1) kwoty składek, o których mowa w art. 26 ust. 1 pkt 2 i 2a,
+- 1) kwoty składek, o których mowa w art. 26 ust. 1 pkt 2 i 2a, oraz składek, o których mowa w art. 30c ust. 2 pkt 2,
 
 - 2) kwoty, o których mowa w art. 30f ust. 5
 
@@ -26,4 +26,4 @@
 
 5. Deklaracja o wysokości daniny solidarnościowej zawiera dane umożliwiające prawidłową identyfikację osoby fizycznej i urzędu skarbowego, do którego kierowana jest deklaracja, oraz poprawne rozliczenie daniny solidarnościowej.
 
-6. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, w formie dokumentu elektronicznego, wzór deklaracji o wysokości daniny solidarnościowej.
+6. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, na piśmie utrwalonym w postaci elektronicznej, wzór deklaracji o wysokości daniny solidarnościowej.

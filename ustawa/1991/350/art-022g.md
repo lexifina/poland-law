@@ -2,7 +2,7 @@
 
 1. Za wartość początkową środków trwałych oraz wartości niematerialnych i prawnych, z uwzględnieniem ust. 2-18, uważa się:
 
-- 1) w razie odpłatnego nabycia - cenę ich nabycia;
+- 1) w razie odpłatnego nabycia - cenę ich nabycia, a jeżeli były używane przez podatnika przed wprowadzeniem ich do ewidencji środków trwałych oraz wartości niematerialnych i prawnych i nie były wcześniej amortyzowane - cenę ich nabycia, nie wyższą jednak od ich wartości rynkowej;
 
 - 1a) w razie częściowo odpłatnego nabycia - cenę ich nabycia powiększoną o wartość przychodu, określonego w art. 11 ust. 2b;
 
@@ -26,7 +26,7 @@
 
 - 8) w razie gdy podatnik, o którym mowa w art. 3 ust. 1, przeniósł w celu wykorzystywania w prowadzonej na terytorium Rzeczypospolitej Polskiej działalności gospodarczej składnik majątku swojego zagranicznego zakładu, w tym w wyniku jego likwidacji, lub przeniósł w związku ze zmianą miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w celu wykorzystywania w tej działalności składnik majątku wykorzystywany w działalności gospodarczej prowadzonej poza terytorium Rzeczypospolitej Polskiej - wartość określoną zgodnie z art. 22 ust. 1na.
 
-1a. Przepis ust. 1 pkt 4 lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego (aportu) do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki.
+1a. Przepis ust. 1 pkt 4 lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego (aportu) do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną, wystąpienia z takiej spółki albo zmniejszenia udziału kapitałowego w takiej spółce.
 
 2. Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki niebędącej osobą prawną przedsiębiorstwa lub jego zorganizowanej części, odpowiednio z dnia kupna, przyjęcia do odpłatnego korzystania albo wniesienia do takiej spółki.
 
@@ -44,11 +44,11 @@
 
 9. Jeżeli podatnik nie może ustalić kosztu wytworzenia, o którym mowa w ust. 4, wartość początkową środków trwałych ustala się w wysokości określonej z uwzględnieniem cen rynkowych, o których mowa w ust. 8, przez biegłego, powołanego przez podatnika.
 
-10. Podatnicy mogą ustalić wartość początkową budynków mieszkalnych lub lokali mieszkalnych: wynajmowanych, wydzierżawianych albo używanych przez właściciela na cele prowadzonej przez niego działalności gospodarczej, przyjmując w każdym roku podatkowym wartość stanowiącą iloczyn metrów kwadratowych wynajmowanej, wydzierżawianej lub używanej przez właściciela powierzchni użytkowej tego budynku lub lokalu i kwoty 988 zł, przy czym za powierzchnię użytkową uważa się powierzchnię przyjętą dla celów podatku od nieruchomości.
+10. Podatnicy mogą ustalić wartość początkową spółdzielczego prawa do lokalu użytkowego, wynajmowanego, wydzierżawianego albo używanego przez właściciela na cele prowadzonej przez niego działalności gospodarczej, przyjmując w każdym roku podatkowym wartość stanowiącą iloczyn metrów kwadratowych wynajmowanej, wydzierżawianej lub używanej przez właściciela powierzchni użytkowej tego lokalu i kwoty 988 zł, przy czym za powierzchnię użytkową uważa się powierzchnię przyjętą dla celów podatku od nieruchomości.
 
 11. W razie gdy składnik majątku stanowi współwłasność podatnika, wartość początkową tego składnika ustala się w takiej proporcji jego wartości, w jakiej pozostaje udział podatnika we własności tego składnika majątku; zasada ta nie ma zastosowania do składników majątku stanowiących wspólność majątkową małżonków, chyba że małżonkowie wykorzystują składnik majątku w działalności gospodarczej prowadzonej odrębnie.
 
-12. W razie zmiany formy prawnej, a także połączenia albo podziału podmiotów dokonywanych na podstawie odrębnych przepisów - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) podmiotu o zmienionej formie prawnej, podzielonego albo połączonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi.
+12. W razie zmiany formy prawnej, a także połączenia albo podziału podmiotów dokonywanych na podstawie odrębnych przepisów - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) podmiotu o zmienionej formie prawnej, podzielonego albo połączonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi, w tym również powstałych z przekształcenia spółki.
 
 13. Przepis ust. 12 stosuje się odpowiednio w razie:
 
@@ -76,7 +76,7 @@
 
 14b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 12 stosuje się odpowiednio.
 
-14c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 12 stosuje się odpowiednio.
+14c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 12 stosuje się odpowiednio.
 
 15. W razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze spadku lub darowizny, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi suma ich wartości rynkowej, nie wyższa jednak od różnicy pomiędzy wartością tego przedsiębiorstwa albo jego zorganizowaną częścią a wartością składników mienia, niebędących środkami trwałymi ani wartościami niematerialnymi i prawnymi, określoną dla celów podatku od spadków i darowizn.
 

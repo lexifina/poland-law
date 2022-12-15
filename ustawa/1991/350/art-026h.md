@@ -6,7 +6,7 @@
 
 3. Wysokość wydatków ustala się na podstawie faktur wystawionych przez podatnika podatku od towarów i usług niekorzystającego ze zwolnienia od tego podatku.
 
-4. Jeżeli poniesione wydatki były opodatkowane podatkiem od towarów i usług, za kwotę wydatku uważa się wydatek wraz z podatkiem od towarów i usług, o ile podatek ten nie został odliczony na podstawie ustawy o podatku od towarów i usług.
+4. Jeżeli poniesione wydatki były opodatkowane podatkiem od towarów i usług, za kwotę wydatku uważa się wydatek wraz z podatkiem od towarów i usług, o ile podatek ten nie został odliczony na podstawie ustawy o podatku od towarów i usług. Za datę poniesienia wydatku uważa się dzień wystawienia faktury.
 
 5. Odliczeniu nie podlegają wydatki w części, w jakiej zostały:
 

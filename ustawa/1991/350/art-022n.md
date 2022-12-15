@@ -30,7 +30,11 @@
 
 - 13) datę likwidacji oraz jej przyczynę albo datę zbycia.
 
-3. Nie podlegają objęciu ewidencją budynki mieszkalne, lokale mieszkalne i własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, których wartość początkową ustala się zgodnie z art. 22g ust. 10.
+3. Nie podlegają objęciu ewidencją:
+
+- 1) budynki mieszkalne, lokale mieszkalne stanowiące odrębną nieruchomość, grunty lub prawo użytkowania wieczystego gruntu, związane z tym budynkiem lub lokalem, spółdzielcze własnościowe prawo do lokalu mieszkalnego oraz prawo do domu jednorodzinnego w spółdzielni mieszkaniowej;
+
+- 2) spółdzielcze prawo do lokalu użytkowego, którego wartość początkową ustala się zgodnie z art. 22g ust. 10.
 
 4. Zapisów dotyczących środków trwałych oraz wartości niematerialnych i prawnych dokonuje się w ewidencji najpóźniej w miesiącu przekazania ich do używania. Późniejszy termin wprowadzenia uznaje się za ujawnienie środka trwałego, o którym mowa w art. 22h ust. 1 pkt 4.
 

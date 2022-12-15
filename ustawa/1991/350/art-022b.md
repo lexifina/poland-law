@@ -2,11 +2,11 @@
 
 1. Amortyzacji podlegają, z zastrzeżeniem art. 22c, nabyte od innego podmiotu, nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
 
-- 1) spółdzielcze własnościowe prawo do lokalu mieszkalnego,
+- 1) (uchylony)
 
 - 2) spółdzielcze prawo do lokalu użytkowego,
 
-- 3) prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
+- 3) (uchylony)
 
 - 4) autorskie lub pokrewne prawa majątkowe,
 
@@ -36,6 +36,4 @@
 
   - c) z dokumentacji dotyczącej prac rozwojowych wynika, że koszty prac rozwojowych zostaną pokryte spodziewanymi przychodami ze sprzedaży tych produktów lub zastosowania technologii,
 
-- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający
-
-- zwane także wartościami niematerialnymi i prawnymi.
+- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający - zwane także wartościami niematerialnymi i prawnymi.

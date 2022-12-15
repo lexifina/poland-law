@@ -2,9 +2,9 @@
 
 # Art. 23w.
 
-1. Podmioty powiązane są obowiązane do sporządzania lokalnej dokumentacji cen transferowych za rok podatkowy w celu wykazania, że ceny transferowe zostały ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
+1. Podmioty powiązane są obowiązane do sporządzania w postaci elektronicznej lokalnej dokumentacji cen transferowych, za rok podatkowy, w terminie do końca dziesiątego miesiąca po zakończeniu roku podatkowego, w celu wykazania, że ceny transferowe zostały ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
 
-2. Lokalna dokumentacja cen transferowych jest sporządzana dla transakcji kontrolowanej o charakterze jednorodnym, której wartość, pomniejszona o podatek od towarów i usług, przekracza w roku podatkowym następujące progi dokumentacyjne:
+2. Lokalna dokumentacja cen transferowych jest sporządzana dla transakcji kontrolowanej o charakterze jednorodnym, której wartość przekracza w roku podatkowym następujące progi dokumentacyjne:
 
 - 1) 10 000 000 zł - w przypadku transakcji towarowej;
 
@@ -14,7 +14,11 @@
 
 - 4) 2 000 000 zł - w przypadku innej transakcji niż określona w pkt 1-3.
 
-2a. W przypadku transakcji kontrolowanych z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową próg dokumentacyjny wynosi 100 000 zł, niezależnie od rodzaju transakcji.
+2a. W przypadku transakcji kontrolowanych z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, próg dokumentacyjny wynosi:
+
+- 1) 2 500 000 zł - w przypadku transakcji finansowej;
+
+- 2) 500 000 zł - w przypadku transakcji innej niż transakcja finansowa.
 
 3. Progi dokumentacyjne są ustalane odrębnie dla:
 

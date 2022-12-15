@@ -1,6 +1,6 @@
 # Art. 30b.
 
-1. Od dochodów uzyskanych z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów, z odpłatnego zbycia udziałów (akcji), z odpłatnego zbycia udziałów w spółdzielni oraz z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część, podatek dochodowy wynosi 19% uzyskanego dochodu.
+1. Od dochodów uzyskanych z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów, z odpłatnego zbycia udziałów (akcji), z odpłatnego zbycia udziałów w spółdzielni oraz z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny, podatek dochodowy wynosi 19% uzyskanego dochodu.
 
 1a. Od dochodów uzyskanych z odpłatnego zbycia walut wirtualnych podatek dochodowy wynosi 19% uzyskanego dochodu.
 
@@ -42,7 +42,7 @@
 
 6. Po zakończeniu roku podatkowego podatnik jest obowiązany w zeznaniu, o którym mowa w art. 45 ust. 1a pkt 1, wykazać dochody uzyskane w roku podatkowym z:
 
-- 1) odpłatnego zbycia papierów wartościowych, w tym również dochody, o których mowa w art. 24 ust. 14, dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających, z odpłatnego zbycia udziałów (akcji) oraz z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielniach, w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część,
+- 1) odpłatnego zbycia papierów wartościowych, w tym również dochody, o których mowa w art. 24 ust. 14, dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających, z odpłatnego zbycia udziałów (akcji) oraz z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielniach, w zamian za wkład niepieniężny,
 
 - 2) odpłatnego zbycia walut wirtualnych
 

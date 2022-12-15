@@ -1,6 +1,6 @@
 # Art. 42f.
 
-1. W okresie, o którym mowa w art. 1a ust. 2 pkt 1 albo 2, za płatnika, o którym mowa w art. 31 i art. 41, uznaje się przedsiębiorstwo w spadku.
+1. W okresie, o którym mowa w art. 1a ust. 2 pkt 1 albo 2, za płatnika, o którym mowa w art. 31, art. 35 ust. 1 pkt 8 i art. 41, uznaje się przedsiębiorstwo w spadku.
 
 2. W okresie, o którym mowa w art. 1a ust. 2 pkt 1 albo 2, na przedsiębiorstwie w spadku ciążą również obowiązki określone w art. 42a.
 

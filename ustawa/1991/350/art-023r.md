@@ -14,7 +14,9 @@
 
   - a) rodzaj i wysokość kosztów uwzględnionych w kalkulacji,
 
-  - b) sposób zastosowania i uzasadnienie wyboru kluczy alokacji dla wszystkich podmiotów powiązanych korzystających z usług.
+  - b) sposób zastosowania i uzasadnienie wyboru kluczy alokacji dla wszystkich podmiotów powiązanych korzystających z usług,
+
+  - c) opis transakcji, w tym analizę funkcji, ryzyk i aktywów.
 
 2. Przepis ust. 1 ma zastosowanie do usług wymienionych w załączniku nr 4 do ustawy, które spełniają łącznie następujące warunki:
 
@@ -24,4 +26,4 @@
 
 - 3) wartość tych usług świadczonych przez usługodawcę na rzecz podmiotów niepowiązanych nie przekracza 2% wartości tych usług świadczonych na rzecz podmiotów powiązanych i niepowiązanych;
 
-- 4) nie są przedmiotem dalszej odprzedaży przez usługobiorcę, z wyłączeniem odprzedaży usług nabytych we własnym imieniu, ale na rzecz innego podmiotu powiązanego (refakturowanie).
+- 4) nie są przedmiotem dalszej odprzedaży przez usługobiorcę, z wyłączeniem transakcji, o których mowa w art. 23z pkt 9.

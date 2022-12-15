@@ -1,3 +1,3 @@
-# Art. 37.
+# Art. 53a.
 
 (uchylony)

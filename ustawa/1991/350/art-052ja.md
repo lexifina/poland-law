@@ -1,0 +1,31 @@
+# Art. 52ja.
+
+1. Podatnik może od dochodu z pozarolniczej działalności gospodarczej lub dochodu z działów specjalnych produkcji rolnej, ustalonego za 2021 r. zgodnie z art. 9, art. 23m-23u, art. 24 ust. 1-2b i 3b-3e lub art. 24b ust. 1 i 2, odliczyć poniesione w tym roku:
+
+- 1) wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
+
+- 2) opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595),
+
+- 3) opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania
+
+- pomniejszone o podatek od towarów i usług.
+
+2. Odliczenie od dochodu z działów specjalnych produkcji rolnej stosuje się, jeżeli dochód ten został ustalony na podstawie ksiąg rachunkowych lub podatkowej księgi przychodów i rozchodów.
+
+3. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną - ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
+
+4. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu od dochodu opodatkowanego na zasadach określonych w art. 27 lub art. 30c, przy czym suma odliczeń nie może przekroczyć kwoty podlegającej odliczeniu określonej zgodnie z ust. 3.
+
+5. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie ani nie zostały odliczone od przychodu na podstawie ustawy o zryczałtowanym podatku dochodowym.
+
+6. Odliczenia dokonuje się w zeznaniu składanym za 2021 r.
+
+7. W przypadku skorzystania z odliczenia wydatków lub opłat, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+8. Użyte w niniejszym artykule określenie:
+
+- 1) opłata elektroniczna - oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+
+- 2) urządzenie pokładowe - oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
+
+- 3) zewnętrzny system lokalizacyjny - oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS.

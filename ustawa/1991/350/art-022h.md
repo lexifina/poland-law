@@ -18,7 +18,7 @@
 
 3b. W przypadku otrzymania w związku z likwidacją osoby prawnej lub spółki środków trwałych oraz wartości niematerialnych i prawnych, które uprzednio zostały wniesione do tej osoby prawnej lub spółki jako wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, przepis ust. 3 stosuje się odpowiednio.
 
-3c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem wspólnika z takiej spółki, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 3 stosuje się odpowiednio.
+3c. W przypadku otrzymania, w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, środków trwałych oraz wartości niematerialnych i prawnych przepis ust. 3 stosuje się odpowiednio.
 
 3d. Przepis ust. 3 stosuje się odpowiednio w przypadku określonym w art. 22g ust. 1 pkt 4 lit. a.
 

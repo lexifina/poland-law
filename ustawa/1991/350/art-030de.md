@@ -10,7 +10,7 @@
 
 - 2) podatnik właściwie regulował zobowiązania podatkowe w podatku dochodowym od osób fizycznych, w tym w zakresie obowiązków płatnika podatku dochodowego od należności wypłacanych z tytułów wymienionych w art. 12 ust. 1 i 6, art. 13 pkt 2 i 4-9 oraz art. 18, a jeżeli występowały zaległości w tych płatnościach - czy stanowiły one istotną wartość mogącą mieć wpływ na ocenę wypłacalności i rzetelności podatnika;
 
-- 3) podatnik posiada udziały w zagranicznej jednostce kontrolowanej;
+- 3) (uchylony)
 
 - 4) w ostatnich 5 latach podatkowych toczyło się lub toczy się na dzień składania wniosku o rozłożenie podatku na raty, wobec podatnika, postępowanie w oparciu o przepisy regulujące unikanie lub uchylanie się od opodatkowania;
 

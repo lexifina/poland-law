@@ -6,9 +6,9 @@
 
 - 2) z praw majątkowych w zakresie praw autorskich i praw pokrewnych w rozumieniu odrębnych przepisów, z wykonywanej poza terytorium Rzeczypospolitej Polskiej działalności artystycznej, literackiej, naukowej, oświatowej i publicystycznej, z wyjątkiem dochodów (przychodów) uzyskanych z tytułu korzystania z tych praw lub rozporządzania nimi
 
-- ma prawo odliczyć od podatku dochodowego, obliczonego zgodnie z art. 27, pomniejszonego o kwotę składki, o której mowa w art. 27b, kwotę obliczoną zgodnie z ust. 2.
+- ma prawo odliczyć od podatku dochodowego, obliczonego zgodnie z art. 27, kwotę obliczoną zgodnie z ust. 2.
 
-2. Odliczeniu podlega kwota stanowiąca różnicę między podatkiem obliczonym zgodnie z art. 27 ust. 9 albo 9a a kwotą podatku obliczonego od dochodów ze źródeł, o których mowa w ust. 1, przy zastosowaniu do tych dochodów zasad określonych w art. 27 ust. 8. Odliczenie to nie może jednak przekroczyć wysokości kwoty zmniejszającej podatek, o której mowa w art. 27 ust. 1a pkt 1.
+2. Odliczeniu podlega kwota stanowiąca różnicę między podatkiem obliczonym zgodnie z art. 27 ust. 9 albo 9a a kwotą podatku obliczonego od dochodów ze źródeł, o których mowa w ust. 1, przy zastosowaniu do tych dochodów zasad określonych w art. 27 ust. 8. Odliczenie to nie może jednak przekroczyć kwoty 1360 zł.
 
 3. Odliczenia nie stosuje się, gdy dochody ze źródeł, o których mowa w ust. 1, uzyskane zostały w krajach i na terytoriach wymienionych w rozporządzeniu wydanym na podstawie art. 23v ust. 2.
 

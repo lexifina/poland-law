@@ -16,8 +16,6 @@
 
 - 2) budynki i budowle wybudowane na cudzym gruncie,
 
-- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający
-
-- zwane także środkami trwałymi;
+- 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników - jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający - zwane także środkami trwałymi;
 
 - 4) tabor transportu morskiego w budowie (PKWiU ex 30.11).

@@ -4,7 +4,7 @@
 
 - 1) organom prowadzącym placówki oświatowe;
 
-- 2) organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, lub operatorowi OSE, o którym mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2021 r. poz. 989), z przeznaczeniem na cele dalszego nieodpłatnego przekazania organom prowadzącym placówki oświatowe lub placówkom oświatowym.
+- 2) organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, lub operatorowi OSE, o którym mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2021 r. poz. 989 oraz z 2022 r. poz. 1002), z przeznaczeniem na cele dalszego nieodpłatnego przekazania organom prowadzącym placówki oświatowe lub placówkom oświatowym.
 
 2. Przez placówkę oświatową rozumie się:
 

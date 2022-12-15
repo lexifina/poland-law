@@ -24,7 +24,7 @@
 
 3. Podstawę opodatkowania stanowi suma kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej osiągniętych w roku podatkowym.
 
-4. Wysokość kwalifikowanego dochodu z kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn dochodu z kwalifikowanego prawa własności intelektualnej osiągniętego w roku podatkowym i wskaźnika obliczonego według wzoru: \( {{(a + b) * 1,3} \over {a + b + c + d}} \) w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na: a - prowadzoną bezpośrednio przez podatnika działalność badawczo-rozwojową związaną z kwalifikowanym prawem własności intelektualnej, b - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, c - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, d - nabycie przez podatnika kwalifikowanego prawa własności intelektualnej.
+4. Wysokość kwalifikowanego dochodu z kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn dochodu z kwalifikowanego prawa własności intelektualnej osiągniętego w roku podatkowym i wskaźnika obliczonego według wzoru: \( {{\left( {a + b} \right) * 1,3} \over {a + b + c + d}} \) w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na: a - prowadzoną bezpośrednio przez podatnika działalność badawczo-rozwojową związaną z kwalifikowanym prawem własności intelektualnej, b - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, c - nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, d - nabycie przez podatnika kwalifikowanego prawa własności intelektualnej.
 
 5. Do kosztów, o których mowa w ust. 4, nie zalicza się kosztów, które nie są bezpośrednio związane z kwalifikowanym prawem własności intelektualnej, w szczególności odsetek, opłat finansowych oraz kosztów związanych z nieruchomościami.
 
@@ -40,9 +40,11 @@
 
 - 4) z odszkodowania za naruszenie praw wynikających z kwalifikowanego prawa własności intelektualnej, jeżeli zostało uzyskane w postępowaniu spornym, w tym postępowaniu sądowym albo arbitrażu.
 
-8. Do ustalenia dochodów (strat), o których mowa w ust. 7 pkt 3, przepis art. 23o stosuje się odpowiednio.
+8. Do ustalenia dochodów (strat), o których mowa w ust. 7 pkt 3, przepisy art. 23o i art. 23p stosuje się odpowiednio.
 
 9. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowany dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 4-6 dla tego samego rodzaju produktu lub usługi lub dla tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
+
+9a. Od dochodu z kwalifikowanego prawa własności intelektualnej podatnik może odliczyć koszty kwalifikowane określone w art. 26e ust. 2-3b, które doprowadziły do wytworzenia, rozwinięcia lub ulepszenia przez podatnika tego prawa, przy czym przepisy art. 26e ust. 1 zdanie drugie i ust. 3c-10 stosuje się odpowiednio.
 
 10. O wysokość straty z kwalifikowanych praw własności intelektualnej poniesionej w roku podatkowym obniża się dochód osiągnięty w najbliższych kolejno następujących po sobie 5 latach podatkowych z tego samego kwalifikowanego prawa własności intelektualnej, tego samego rodzaju produktu lub usługi lub tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 

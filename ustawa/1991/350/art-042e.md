@@ -8,11 +8,7 @@
 
 - 2) składki na ubezpieczenie społeczne, o których mowa w art. 26 ust. 1 pkt 2 lit. b, potrącone w danym miesiącu, zgodnie z odrębnymi przepisami.
 
-3. Zaliczkę obliczoną w sposób określony w ust. 1 i 2 zmniejsza się o kwotę:
-
-- 1) o której mowa w art. 32 ust. 3; przepis art. 27 ust. 1b pkt 2 stosuje się odpowiednio;
-
-- 2) składki na ubezpieczenie zdrowotne, o której mowa w art. 27b, pobranej w danym miesiącu ze środków podatnika.
+3. Zaliczkę obliczoną w sposób określony w ust. 1 i 2 zmniejsza się o kwotę, o której mowa w art. 32 ust. 3. Przepis art. 32 ust. 2a stosuje się odpowiednio.
 
 4. Kwoty pobranych zaliczek na podatek płatnik przekazuje w terminie do 20 dnia miesiąca następującego po miesiącu, w którym pobrano zaliczki, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania płatnika wykonuje swoje zadania, a jeżeli płatnik nie jest osobą fizyczną, według siedziby bądź miejsca prowadzenia działalności, gdy płatnik nie posiada siedziby.
 

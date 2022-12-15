@@ -20,7 +20,11 @@
 
   - b) podmioty, na które wywiera znaczący wpływ: - ten sam inny podmiot lub - małżonek, krewny lub powinowaty do drugiego stopnia osoby fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
 
-  - c) spółkę niemającą osobowości prawnej i jej wspólników, lub
+  - c) spółkę niebędącą osobą prawną i jej wspólnika, lub
+
+  ca) spółkę, o której mowa w art. 5a pkt 28 lit. c, i jej komplementariusza, lub
+
+  cb) spółkę, o której mowa w art. 5a pkt 28 lit. e, i jej wspólnika, lub
 
   - d) podatnika i jego zagraniczny zakład;
 
@@ -28,7 +32,7 @@
 
 - 6) transakcji kontrolowanej - oznacza to identyfikowane na podstawie rzeczywistych zachowań stron działania o charakterze gospodarczym, w tym przypisywanie dochodów do zagranicznego zakładu, których warunki zostały ustalone lub narzucone w wyniku powiązań;
 
-- 7) uprzednim porozumieniu cenowym - oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200).
+- 7) uprzednim porozumieniu cenowym - oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200 oraz z 2021 r. poz. 2105).
 
 2. Przez wywieranie znaczącego wpływu, o którym mowa w ust. 1 pkt 4 lit. a i b, rozumie się:
 
@@ -38,7 +42,7 @@
 
   - b) praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub
 
-  - c) udziałów lub praw do udziału w zyskach lub majątku lub ich ekspektatywy, w tym jednostek uczestnictwa i certyfikatów inwestycyjnych, lub
+  - c) udziałów lub praw do udziału w zyskach, stratach lub majątku, lub ich ekspektatywy, w tym jednostek uczestnictwa i certyfikatów inwestycyjnych, lub
 
 - 2) faktyczną zdolność osoby fizycznej do wpływania na podejmowanie kluczowych decyzji gospodarczych przez osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, lub
 
@@ -53,3 +57,5 @@
 - 3) sumie wielkości posiadanych pośrednio udziałów lub praw - w przypadku gdy podmioty, pomiędzy którymi wielkość posiadanego pośrednio udziału lub prawa jest ustalana, łączy więcej niż jeden posiadany pośrednio udział lub prawo.
 
 4. Jeżeli pomiędzy podmiotami występują relacje, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mające na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich, to podmioty, pomiędzy którymi występują takie relacje, uznaje się za podmioty powiązane.
+
+5. Na potrzeby niniejszego rozdziału przyjmuje się, że rok obrotowy spółki niebędącej osobą prawną jest jej rokiem podatkowym.

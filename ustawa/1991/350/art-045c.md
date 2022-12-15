@@ -8,7 +8,7 @@
 
 - po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
 
-2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) za traktowanie przesyłki listowej jako przesyłki poleconej.
+2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) za traktowanie przesyłki listowej jako przesyłki poleconej.
 
 3. Za wniosek uważa się wskazanie przez podatnika w zeznaniu podatkowym albo w korekcie zeznania, o których mowa w ust. 1, jednej organizacji pożytku publicznego poprzez podanie jej numeru wpisu do Krajowego Rejestru Sądowego oraz kwoty do przekazania na rzecz tej organizacji, w wysokości nieprzekraczającej 1% podatku należnego.
 
@@ -28,7 +28,7 @@
 
 - jeżeli podatnik w zeznaniu podatkowym lub w korekcie zeznania, o których mowa w ust. 1, wyraził zgodę na przekazanie organizacji pożytku publicznego danych wymienionych w pkt 1 i 2, lub wskazał cel szczegółowy, o którym mowa w pkt 3.
 
-6. Naczelnik urzędu skarbowego odstępuje od przekazania 1% podatku na rzecz organizacji pożytku publicznego, jeżeli:
+6. Naczelnik urzędu skarbowego odstępuje od przekazania 1% podatku na rzecz organizacji pożytku publicznego, jeżeli: Naczelnik urzędu skarbowego odstępuje od przekazania 1,5% podatku na rzecz organizacji pożytku publicznego, jeżeli: ⁵²³)
 
 - 1) organizacja nie podała, zgodnie z ustawą o działalności pożytku publicznego, numeru rachunku bankowego właściwego do przekazania 1% podatku lub numer tego rachunku jest nieprawidłowy;
 
@@ -42,4 +42,4 @@
 
 8. Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1% podatku, może upoważnić, w drodze rozporządzenia, podległy organ, inny niż określony w ust. 1, do realizacji zadania, o którym mowa w ust. 1.
 
-9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 3a, wraz z objaśnieniami co do sposobu jego wypełniania, terminu i miejsca składania, mając na celu umożliwienie identyfikacji podatnika i urzędu skarbowego, do którego kierowane jest oświadczenie, oraz poprawne przekazanie 1% podatku należnego.
+9. (uchylony)

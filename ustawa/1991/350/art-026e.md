@@ -32,7 +32,7 @@
 
 3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością.
 
-3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2021 r. poz. 706), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
+3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2022 r. poz. 2474), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
 
 - 1) dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od budowli, budynków i lokali będących odrębną własnością wykorzystywanych w prowadzonej działalności badawczo-rozwojowej;
 
@@ -42,7 +42,7 @@
 
 3c. Wysokość kosztów kwalifikowanych, o których mowa w ust. 3a, nie może przekroczyć 10% przychodów podatnika, o którym mowa w ust. 3a, osiągniętych w roku podatkowym ze źródła określonego w art. 10 ust. 1 pkt 3.
 
-3d. W przypadku podatników, o których mowa w ust. 3a, będących mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2-3, natomiast w przypadku pozostałych podatników, o których mowa w ust. 3a, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3:
+3d. W przypadku podatników, o których mowa w ust. 3a, będących mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-5, ust. 2a i 3, natomiast w przypadku pozostałych podatników, o których mowa w ust. 3a, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a, ust. 2a i 3:
 
 - 1) jest dokonywane zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, w formie i na warunkach, o których mowa w art. 5 ust. 2 lit. d rozporządzenia nr 651/2014;
 
@@ -52,17 +52,17 @@
 
 3e. W przypadku podatników, o których mowa w ust. 3a, odliczenie:
 
-- 1) kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3, w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
+- 1) kosztów wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a i ust. 2a i 3 w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
 
-- 2) 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014
+- 2) 100% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014
 
 - stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
 3f. W przypadku podatników, o których mowa w ust. 3a, kwota, o którą został pomniejszony w roku podatkowym podatek dochodowy z tytułu odliczenia:
 
-- 1) kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1-4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
+- 1) kosztów wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
 
-- 2) 50% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014.
+- 2) 100% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014.
 
 3g. Intensywność pomocy publicznej nie może przekroczyć wartości określonych w:
 
@@ -76,7 +76,7 @@
 
 - 2) ciąży na nim obowiązek zwrotu pomocy wynikający z wcześniejszej decyzji Komisji Europejskiej uznającej pomoc za niezgodną z prawem i ze wspólnym rynkiem.
 
-3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, przed upływem terminu określonego na złożenie zeznania, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743).
+3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, przed upływem terminu określonego na złożenie zeznania, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 
 3j. Odliczenie, o którym mowa w ust. 3d, jest dokonywane w okresie stosowania rozporządzenia nr 651/2014.
 
@@ -90,14 +90,14 @@
 
 7. Kwota kosztów kwalifikowanych nie może przekroczyć:
 
-- 1) w przypadku gdy podatnik, o którym mowa w ust. 3a, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców - 150% kosztów, o których mowa w ust. 2-3a;
+- 1) w przypadku gdy podatnik, o którym mowa w ust. 3a, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców - 200% kosztów, o których mowa w ust. 2-3a;
 
-- 2) w przypadku pozostałych podatników, o których mowa w ust. 3a - 150% kosztów, o których mowa w ust. 2 pkt 1-4a, ust. 2a-3a, oraz 100% kosztów, o których mowa w ust. 2 pkt 5;
+- 2) w przypadku pozostałych podatników, o których mowa w ust. 3a - 200% kosztów, o których mowa w ust. 2 pkt 1-4a i ust. 2a-3a, oraz 100% kosztów, o których mowa w ust. 2 pkt 5;
 
-- 3) w przypadku pozostałych podatników - 100% kosztów, o których mowa w ust. 2-3.
+- 3) w przypadku pozostałych podatników - 100% kosztów, o których mowa w ust. 2 pkt 2-5, ust. 2a i 3, oraz 200% kosztów, o których mowa w ust. 2 pkt 1 i 1a.
 
-8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia - odpowiednio w całej kwocie lub w pozostałej części - dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia - odpowiednio w całej kwocie lub w pozostałej części - dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Dokonując odliczenia, o którym mowa w zdaniu drugim, uwzględnia się kwoty pomniejszeń, o których mowa w art. 26eb ust. 1.
 
-9. Przepisu ust. 8 zdanie drugie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 26ea.
+9. Przepisu ust. 8 zdanie drugie i trzecie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 26ea.
 
 10. Jeżeli podatnik zmarł przed upływem okresu określonego w ust. 8, nieodliczoną kwotę odlicza przedsiębiorstwo w spadku, jeżeli kwoty tej zmarły podatnik nie wykazał w zeznaniu zgodnie z art. 26ea. Nieodliczoną kwotę przedsiębiorstwo w spadku odlicza w okresie, w jakim prawo to przysługiwało zmarłemu podatnikowi.

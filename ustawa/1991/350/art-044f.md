@@ -30,11 +30,13 @@
 
 - 4) oświadczenie podatnika, że w odniesieniu do czynności, w związku z którą składany jest wniosek o zwrot podatku, podatnik jest podmiotem, na którym ciąży obowiązek podatkowy, a także oświadczenie podatnika, że podatnik albo jego zagraniczny zakład jest rzeczywistym właścicielem wypłacanych należności - w przypadku, o którym mowa w ust. 2 pkt 1;
 
-- 5) oświadczenie podatnika, że prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania podatnika dla celów podatkowych, z którą wiąże się uzyskany przychód - w przypadku, o którym mowa w ust. 2 pkt 1, gdy należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przepis art. 30f ust. 20 stosuje się odpowiednio;
+- 5) oświadczenie podatnika, że prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania podatnika dla celów podatkowych, z którą wiąże się uzyskany przychód - w przypadku, o którym mowa w ust. 2 pkt 1, gdy należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą;
 
 - 6) dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku - w przypadku, o którym mowa w ust. 2 pkt 2;
 
 - 7) uzasadnienie wnioskodawcy, że spełnione są warunki będące przedmiotem oświadczeń, o których mowa w pkt 4 i 5.
+
+4a. Przepisy ust. 4 pkt 4 i 5 stosuje się w przypadku, gdy z przepisów odrębnych lub umów o unikaniu podwójnego opodatkowania wynika obowiązek badania spełnienia przesłanek, o których mowa w tych przepisach.
 
 5. W sprawie zwrotu podatku organ podatkowy wydaje decyzję, w której określa kwotę zwrotu, z zastrzeżeniem ust. 10.
 
@@ -46,7 +48,7 @@
 
 - 1) wystąpieniu z wnioskiem o udzielenie informacji podatkowych do właściwego organu innego państwa, w tym w zakresie spełniania przez podatnika warunków będących przedmiotem oświadczeń, o których mowa w ust. 4 odpowiednio w pkt 4 i 5;
 
-- 2) weryfikacji zgodności danych wskazanych we wniosku oraz danych posiadanych przez organ podatkowy lub uzyskanych na wniosek, o którym mowa w pkt 1, z warunkami niepobrania podatku, zastosowania zwolnienia lub stawki podatku, wynikającymi z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska, oraz na ustaleniu, czy podatnik, o którym mowa w art. 3 ust. 2a, prowadzi rzeczywistą działalność gospodarczą w kraju, w którym ma miejsce zamieszkania dla celów podatkowych, przy czym przepis art. 30f ust. 20 stosuje się odpowiednio.
+- 2) weryfikacji zgodności danych wskazanych we wniosku oraz danych posiadanych przez organ podatkowy lub uzyskanych na wniosek, o którym mowa w pkt 1, z warunkami niepobrania podatku, zastosowania zwolnienia lub stawki podatku, wynikającymi z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska, oraz na ustaleniu, czy podatnik, o którym mowa w art. 3 ust. 2a, prowadzi rzeczywistą działalność gospodarczą w kraju, w którym ma miejsce zamieszkania dla celów podatkowych.
 
 9. W przypadku gdy uzasadniają to okoliczności sprawy, w szczególności gdy pomimo podjętych działań nie zostały wyjaśnione wątpliwości dotyczące spełniania przez podatnika warunków niepobrania podatku, zastosowania zwolnienia lub stawki podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania, weryfikacja zasadności wniosku o zwrot podatku może obejmować również przeprowadzenie kontroli podatkowej na terytorium państwa miejsca zamieszkania podatnika dla celów podatkowych.
 

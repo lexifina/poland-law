@@ -1,6 +1,6 @@
 # Art. 26i.
 
-1. Podstawa obliczenia podatku ustalona zgodnie z art. 26 ust. 1, art. 30c ust. 2 lub art. 30ca ust. 3 oraz po uprzednim odliczeniu kwot określonych w art. 26e:
+1. Podstawa obliczenia podatku ustalona zgodnie z art. 26 ust. 1, art. 30c ust. 2 lub art. 30ca ust. 3 oraz po uprzednim odliczeniu kwot określonych w art. 26e, art. 26ga, art. 26gb, art. 26h-26hd i art. 52jb:
 
 - 1) może być zmniejszona o zaliczaną do przychodów należnych wartość wierzytelności o zapłatę świadczenia pieniężnego w rozumieniu art. 4 pkt 1a ustawy o przeciwdziałaniu nadmiernym opóźnieniom, która nie została uregulowana lub zbyta, przy czym zmniejszenia dokonuje się w zeznaniu podatkowym składanym za rok podatkowy, w którym upłynęło 90 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie;
 
