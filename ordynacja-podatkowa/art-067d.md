@@ -14,4 +14,4 @@
 
 § 3. Przepisy § 1 pkt 3 i 4 i § 2 stosuje się odpowiednio do umarzania zaległości płatnika lub inkasenta.
 
-§ 4. W przypadku, o którym mowa w § 1 pkt 3, organ podatkowy może umorzyć zaległość podatkową, jeżeli umorzenie nie będzie stanowiło pomocy publicznej lub będzie stanowiło pomoc de minimis w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis .
+§ 4. W przypadku, o którym mowa w § 1 pkt 3, organ podatkowy może umorzyć zaległość podatkową, jeżeli umorzenie nie będzie stanowiło pomocy publicznej lub będzie stanowiło pomoc de minimis wzakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis .

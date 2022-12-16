@@ -4,9 +4,9 @@
 
 # Art. 171a.
 
-§ 1. W aktach sprawy zakłada się metrykę sprawy w formie pisemnej lub elektronicznej.
+§ 1. W aktach sprawy zakłada się metrykę sprawy.
 
-§ 2. W treści metryki sprawy wskazuje się wszystkie osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu podatkowym oraz określa się wszystkie podejmowane przez te osoby czynności wraz z odpowiednim odesłaniem do dokumentów zachowanych w formie pisemnej lub elektronicznej określających te czynności.
+§ 2. W treści metryki sprawy wskazuje się wszystkie osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu podatkowym oraz określa się wszystkie podejmowane przez te osoby czynności wraz z odpowiednim odesłaniem do dokumentów określających te czynności.
 
 § 3. Metryka sprawy, wraz z dokumentami do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
 

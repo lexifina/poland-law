@@ -26,7 +26,7 @@
 
 - 12) wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację innych podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, jeżeli występują;
 
-- 13) adres elektroniczny, na który będą doręczane potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g-86i, przy czym wskazanie tego adresu traktuje się na równi z wyrażeniem zgody na ich doręczanie wyłącznie za pomocą środków komunikacji elektronicznej;
+- 13) adres do doręczeń elektronicznych, na który będą doręczane potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g-86i, przy czym wskazanie tego adresu traktuje się na równi z wyrażeniem zgody na ich doręczanie wyłącznie za pomocą środków komunikacji elektronicznej;
 
 - 14) wskazanie NSP nadanego przez inne państwo członkowskie Unii Europejskiej w odniesieniu do schematu podatkowego transgranicznego - w przypadku gdy NSP został nadany temu schematowi przez inne państwo członkowskie Unii Europejskiej.
 

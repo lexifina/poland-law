@@ -1,3 +1,5 @@
+# Art. 20zu.
+
 § 1. Wniosek o zawarcie porozumienia inwestycyjnego może złożyć inwestor albo grupa inwestorów, w szczególności utworzone w związku z inwestycją konsorcjum, spółka, oddział lub przedstawicielstwo.
 
 § 2. Wniosek o zawarcie porozumienia inwestycyjnego, oprócz spełnienia wymogów określonych w art. 20zt, zawiera:

@@ -20,7 +20,7 @@
 
 - 2) uiszczenia jej w kwocie wyższej niż należna - w odpowiedniej części.
 
-§ 5. Opłatę należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Zwrot nienależnie uiszczonej opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania decyzji.
+§ 5. Opłatę należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Zwrot opłaty, o którym mowa w § 4, następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania decyzji.
 
 § 6. W przypadku uznania, że osiągnięta przez zainteresowanego korzyść podatkowa jest wyższa od tej, którą wskazano we wniosku o wydanie decyzji, w toku postępowania Szef Krajowej Administracji Skarbowej ustala, w drodze postanowienia, wysokość opłaty uzupełniającej, obliczonej zgodnie z § 1, 3 lub 3a.
 

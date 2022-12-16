@@ -30,7 +30,7 @@
 
 - 6) jest nieskazitelnego charakteru.
 
-§ 3. Podmiot wskazujący członka Rady ocenia spełnianie przez niego przesłanek określonych w § 2 pkt 1 i 6. Osoby, o których mowa w § 1 pkt 3, minister właściwy do spraw finansów publicznych powołuje po zasięgnięciu pisemnej opinii podmiotów zatrudniających te osoby.
+§ 3. Podmiot wskazujący członka Rady ocenia spełnianie przez niego przesłanek określonych w § 2 pkt 1 i 6. Osoby, o których mowa w § 1 pkt 3, minister właściwy do spraw finansów publicznych powołuje po zasięgnięciu przedstawionej na piśmie opinii podmiotów zatrudniających te osoby.
 
 § 4. Przed powołaniem w skład Rady osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w § 2 pkt 2-5.
 

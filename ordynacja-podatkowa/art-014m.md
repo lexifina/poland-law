@@ -16,4 +16,4 @@
 
 § 3. Na wniosek podatnika, który zastosował się do interpretacji, w decyzji określającej lub ustalającej wysokość zobowiązania podatkowego organ podatkowy określa również wysokość podatku objętego zwolnieniem, o którym mowa w § 1, albo - w przypadku uiszczenia podatku w zakresie objętym tym zwolnieniem - określa wysokość nadpłaty.
 
-§ 4. Organ podatkowy informuje podatnika w formie pisemnej o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informacje, z jakim dniem kończy się okres zwolnienia z obowiązku płacenia podatku wynikającego z uchylonej przez orzeczenie interpretacji.
+§ 4. Organ podatkowy informuje podatnika na piśmie o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informacje, z jakim dniem kończy się okres zwolnienia z obowiązku płacenia podatku wynikającego z uchylonej przez orzeczenie interpretacji.

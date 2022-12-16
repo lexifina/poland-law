@@ -1,6 +1,6 @@
 # Art. 181a.
 
-§ 1. Podanie lub deklaracja odwzorowane cyfrowo są równoważne pod względem skutków prawnych podaniu i deklaracji złożonym w formie pisemnej.
+§ 1. Podanie lub deklaracja odwzorowane cyfrowo są równoważne pod względem skutków prawnych podaniu i deklaracji złożonym na piśmie.
 
 § 2. Przepis § 1 nie wyłącza możliwości przeprowadzenia dowodu przeciwko podaniu lub deklaracji odwzorowanym cyfrowo.
 

@@ -10,7 +10,7 @@
 
 - 3) zostanie rozwiązana umowa o współdziałanie.
 
-§ 3. Z zastrzeżeniem art. 20z, rozwiązanie porozumienia podatkowego następuje z dniem złożenia, w formie pisemnej, drugiej stronie wypowiedzenia tego porozumienia wraz z uzasadnieniem. Podatnik w wypowiedzeniu porozumienia może wskazać inny niż wynikający ze zdania pierwszego termin rozwiązania porozumienia, poprzedzający dzień złożenia tego wypowiedzenia.
+§ 3. Z zastrzeżeniem art. 20z, rozwiązanie porozumienia podatkowego następuje z dniem złożenia, na piśmie, drugiej stronie wypowiedzenia tego porozumienia wraz z uzasadnieniem. Podatnik w wypowiedzeniu porozumienia może wskazać inny niż wynikający ze zdania pierwszego termin rozwiązania porozumienia, poprzedzający dzień złożenia tego wypowiedzenia.
 
 § 4. Rozwiązanie porozumienia podatkowego na podstawie § 2 pkt 1 wywołuje skutki prawne od dnia jego zawarcia.
 

@@ -26,7 +26,7 @@
 
 § 1f. Korektę, o której mowa w § 1a, składa się wraz z uzasadnieniem przyczyn korekty.
 
-§ 2. Korekta złożona w przypadku, o którym mowa w § 1 pkt 1, nie wywołuje skutków prawnych. Organ podatkowy zawiadamia pisemnie składającego korektę o jej bezskuteczności.
+§ 2. Korekta złożona w przypadku, o którym mowa w § 1 pkt 1, nie wywołuje skutków prawnych. Organ podatkowy zawiadamia na piśmie składającego korektę o jej bezskuteczności.
 
 § 2a. Korekta złożona wraz z wnioskiem o stwierdzenie nadpłaty nie wywołuje skutków prawnych w razie odmowy stwierdzenia nadpłaty w całości lub w części oraz w razie umorzenia postępowania w związku z wycofaniem wniosku. W uzasadnieniu wydanej decyzji organ podatkowy wskazuje bezskuteczność takiej korekty.
 

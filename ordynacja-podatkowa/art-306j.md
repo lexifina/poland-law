@@ -2,7 +2,7 @@
 
 Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-- 1) tryb wydawania zaświadczeń, uwzględniając w szczególności odpowiednią organizację czynności związanych z wydawaniem zaświadczeń oraz możliwość doręczania zaświadczeń w formie dokumentu elektronicznego;
+- 1) tryb wydawania zaświadczeń, uwzględniając w szczególności odpowiednią organizację czynności związanych z wydawaniem zaświadczeń oraz możliwość doręczania zaświadczeń w postaci elektronicznej;
 
 - 2) właściwość miejscową i rzeczową organów podatkowych do wydawania zaświadczeń, uwzględniając rodzaj zobowiązania podatkowego;
 

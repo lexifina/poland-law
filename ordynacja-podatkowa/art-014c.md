@@ -6,4 +6,4 @@
 
 § 3. Interpretacja indywidualna zawiera pouczenie o treści art. 14na oraz o prawie wniesienia skargi do sądu administracyjnego.
 
-§ 4. Interpretację indywidualną wydaną w formie dokumentu elektronicznego opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+§ 4. (uchylony)

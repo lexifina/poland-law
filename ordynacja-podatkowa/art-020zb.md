@@ -4,7 +4,7 @@
 
 # Art. 20zb.
 
-Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym stroną umowy o współdziałanie, w formie pisemnej, porozumienie podatkowe w zakresie objętym tą umową w sprawie:
+Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym stroną umowy o współdziałanie, na piśmie, porozumienie podatkowe w zakresie objętym tą umową w sprawie:
 
 - 1) interpretacji przepisów prawa podatkowego;
 

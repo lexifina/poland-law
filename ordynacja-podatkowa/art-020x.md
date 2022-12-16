@@ -10,6 +10,6 @@
 
 - wskazując przyczyny jej wypowiedzenia wraz z uzasadnieniem.
 
-§ 3. Rozwiązanie umowy o współdziałanie następuje z dniem złożenia, w formie pisemnej, drugiej stronie wypowiedzenia tej umowy, chyba że z treści tego wypowiedzenia wynika późniejszy termin.
+§ 3. Rozwiązanie umowy o współdziałanie następuje z dniem złożenia, na piśmie, drugiej stronie wypowiedzenia tej umowy, chyba że z treści tego wypowiedzenia wynika późniejszy termin.
 
 § 4. W przypadku rozwiązania umowy o współdziałanie dane podatnika są niezwłocznie usuwane z ewidencji, o której mowa w art. 20za.

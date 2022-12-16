@@ -4,4 +4,4 @@
 
 § 2. Wyrażenie zgody, o której mowa w § 1, może nastąpić wyłącznie ze względu na ważny interes publiczny oraz gdy jest to konieczne dla osiągnięcia celów kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego lub jeżeli ujawnienie tych informacji urzeczywistni prawo obywateli do ich rzetelnego informowania o działaniach organów podatkowych i jawności życia publicznego.
 
-§ 3. Wyrażenie zgody, o której mowa w § 1, następuje w formie pisemnej, na uzasadniony wniosek naczelnika urzędu skarbowego, naczelnika urzędu celno-skarbowego lub dyrektora izby administracji skarbowej.
+§ 3. Wyrażenie zgody, o której mowa w § 1, następuje na piśmie, na uzasadniony wniosek naczelnika urzędu skarbowego, naczelnika urzędu celno-skarbowego lub dyrektora izby administracji skarbowej.

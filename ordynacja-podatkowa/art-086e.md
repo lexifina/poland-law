@@ -1,6 +1,6 @@
 # Art. 86e.
 
-§ 1. W przypadku gdy więcej niż jeden podmiot jest obowiązany do przekazania informacji o schemacie podatkowym, wykonanie tego obowiązku przez jednego z nich zwalnia pozostałych, którzy zostali wskazani w informacji o schemacie podatkowym i pisemnie poinformowani o NSP tego schematu podatkowego, z załączeniem potwierdzenia nadania NSP. Przepis art. 86b § 3 stosuje się odpowiednio.
+§ 1. W przypadku gdy więcej niż jeden podmiot jest obowiązany do przekazania informacji o schemacie podatkowym, wykonanie tego obowiązku przez jednego z nich zwalnia pozostałych, którzy zostali wskazani w informacji o schemacie podatkowym i poinformowani na piśmie o NSP tego schematu podatkowego, z załączeniem potwierdzenia nadania NSP. Przepis art. 86b § 3 stosuje się odpowiednio.
 
 § 2. W przypadkach, o których mowa w art. 86b § 8, art. 86c § 3 oraz art. 86d § 7, gdy odpowiednio promotor, korzystający lub wspomagający udowodni, że schemat podatkowy transgraniczny został poprawnie przekazany właściwym organom w innym państwie członkowskim Unii Europejskiej na podstawie przepisów tego państwa implementujących wymogi wynikające z przepisu art. 8ab dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG, jest on zwolniony z obowiązku przekazania Szefowi Krajowej Administracji Skarbowej informacji o tym schemacie podatkowym. Przepis art. 86b § 3 stosuje się odpowiednio.
 

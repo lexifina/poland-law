@@ -38,7 +38,7 @@
 
 § 6. Prawo dostępu do akt sprawy wydania interpretacji ogólnej nie obejmuje danych identyfikujących stronę postępowania, w którym wydano decyzję, postanowienie lub interpretację indywidualną, wskazaną we wniosku o wydanie interpretacji ogólnej.
 
-§ 7. Na pisemne żądanie ministra właściwego do spraw finansów publicznych organy podatkowe przekazują niezwłocznie akta dotyczące wskazanych we wniosku o wydanie interpretacji ogólnej decyzji, postanowień oraz interpretacji indywidualnych.
+§ 7. Na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych organy podatkowe przekazują niezwłocznie akta dotyczące wskazanych we wniosku o wydanie interpretacji ogólnej decyzji, postanowień oraz interpretacji indywidualnych.
 
 § 8. Opłata podlega zwrotowi wyłącznie w przypadku wydania interpretacji ogólnej. Zwrot opłaty następuje w terminie 7 dni od dnia opublikowania interpretacji ogólnej.
 

@@ -16,7 +16,7 @@
 
 - 6) uznania kwoty na rachunku depozytowym organu podatkowego;
 
-- 7) pisemnego, nieodwołalnego upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania środkami pieniężnymi zgromadzonymi na rachunku lokaty terminowej.
+- 7) sporządzonego na piśmie, nieodwołalnego upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania środkami pieniężnymi zgromadzonymi na rachunku lokaty terminowej.
 
 § 3. W razie złożenia wniosku o zabezpieczenie w formie określonej w § 2 zabezpieczenie w trybie przepisów o postępowaniu egzekucyjnym w administracji, w zakresie objętym tym wnioskiem, może nastąpić po wydaniu postanowienia o odmowie przyjęcia zabezpieczenia.
 

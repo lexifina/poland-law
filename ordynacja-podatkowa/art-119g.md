@@ -20,7 +20,7 @@
 
 § 2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, Szef Krajowej Administracji Skarbowej na wniosek właściwego organu podatkowego może wyłącznie przejąć postępowanie podatkowe.
 
-§ 3. Przejmując kontrolę podatkową lub kontrolę celno-skarbową, Szef Krajowej Administracji Skarbowej z urzędu ją zawiesza i jednocześnie wszczyna postępowanie podatkowe. Do zawieszonej kontroli podatkowej lub kontroli celno-skarbowej przepisy art. 201 § 3 i art. 206 stosuje się odpowiednio.
+§ 3. Przejmując kontrolę podatkową lub kontrolę celno-skarbową, Szef Krajowej Administracji Skarbowej z urzędu ją zawiesza i jednocześnie wszczyna postępowanie podatkowe. Do zawieszonej kontroli podatkowej lub kontroli celno-skarbowej przepisów art. 201 § 3 i art. 205 § 2 nie stosuje się.
 
 § 4. W postanowieniu, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej wskazuje, w jakim zakresie przejmuje postępowanie podatkowe, kontrolę podatkową lub kontrolę celno-skarbową.
 

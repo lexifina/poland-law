@@ -24,4 +24,4 @@
 
 § 6. Wydanie wypisu z rejestru zastawów i zaświadczenia nie narusza przepisów o tajemnicy skarbowej.
 
-§ 7. Wypisy i zaświadczenia mogą być sporządzane w postaci elektronicznej, zgodnie z art. 152a.
+§ 7. (uchylony)
