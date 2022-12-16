@@ -1,0 +1,1 @@
+Na podstawie art. 23 ust. 3 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku (Dz. U. poz. 2243) zarządza się, co następuje:
