@@ -10,7 +10,7 @@ Ilekroć w niniejszym dziale jest mowa o:
 
 - 1) banku - rozumie się przez to:
 
-  - a) bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.),
+  - a) bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2022 r. poz. 2324 i 2339),
 
   - b) oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe,
 
@@ -52,6 +52,6 @@ Ilekroć w niniejszym dziale jest mowa o:
 
   - a) przestępstwa skarbowe, o których mowa w art. 54 § 1 i 2, art. 55 § 1 i 2, art. 56 § 1 i 2, art. 62 § 1-2a oraz art. 76 § 1 i 2 ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy,
 
-  - b) przestępstwa, o których mowa w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art. 277a § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023),
+  - b) przestępstwa, o których mowa w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art. 277a § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855 i 2339),
 
   - c) przestępstwa, o których mowa w art. 258 § 1-3 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, mające na celu popełnienie przestępstw skarbowych, o których mowa w lit. a, lub przestępstw, o których mowa w lit. b.

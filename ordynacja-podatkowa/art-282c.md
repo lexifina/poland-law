@@ -26,7 +26,7 @@
 
 - 2) organ podatkowy posiada informacje, z których wynika, że kontrolowany:
 
-  - a) został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej - do każdego wspólnika,
+  - a) został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej - do każdego wspólnika,
 
   - b) jest zobowiązanym w postępowaniu egzekucyjnym w administracji,
 

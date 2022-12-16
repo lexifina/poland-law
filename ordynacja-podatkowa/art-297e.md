@@ -8,9 +8,9 @@
 
 - 3) ministrowi właściwemu do spraw wewnętrznych - w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego,
 
-- 4) Policji - w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655),
+- 4) Policji - w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.),
 
-- 5) Straży Granicznej - w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486, 1728, 1898, 2191 i 2333 oraz z 2022 r. poz. 655),
+- 5) Straży Granicznej - w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115 i 1855),
 
 - 6) ministrowi właściwemu do spraw zagranicznych - w zakresie niezbędnym do podejmowania środków ograniczających w związku z działaniami destabilizującymi sytuację w Ukrainie,
 

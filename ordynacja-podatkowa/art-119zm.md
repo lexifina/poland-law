@@ -18,4 +18,4 @@
 
 - jeżeli znajdują się w posiadaniu Szefa Krajowej Administracji Skarbowej.
 
-§ 2. Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w § 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023).
+§ 2. Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w § 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375 i 1855).

@@ -6,6 +6,6 @@
 
 - 2) za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji - nie nalicza się odsetek za zwłokę.
 
-§ 2. Przepis §1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
+§ 2. Przepis § 1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
 
 § 3. W przypadku, o którym mowa w § 1 pkt 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.

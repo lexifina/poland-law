@@ -34,7 +34,7 @@
 
 - 2) mające skutki transgraniczne
 
-− składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić.
+- składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić.
 
 § 3b. Obowiązek, o którym mowa w § 3a, nie obejmuje wniosków o wydanie interpretacji indywidualnej:
 
