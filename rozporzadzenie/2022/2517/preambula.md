@@ -1,0 +1,1 @@
+Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, 1260, 1261, 1783, 1846 i 2185) zarządza się, co następuje:
