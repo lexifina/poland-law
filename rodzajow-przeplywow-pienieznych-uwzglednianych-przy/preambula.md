@@ -1,0 +1,1 @@
+Na podstawie art. 11 ust. 9 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2022 r. poz. 1050 i 2687) zarządza się, co następuje:
