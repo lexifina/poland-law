@@ -1,0 +1,1 @@
+Na podstawie art. 7 ustawy z dnia 5 sierpnia 2022 r. o zmianie niektórych ustaw w celu wzmocnienia bezpieczeństwa gazowego państwa w związku z sytuacją na rynku gazu (Dz. U. poz. 1723) zarządza się, co następuje:
