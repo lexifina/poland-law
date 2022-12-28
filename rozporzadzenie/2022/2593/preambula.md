@@ -1,0 +1,1 @@
+Na podstawie art. 13 ust. 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2021 r. poz. 1857 oraz z 2022 r. poz. 835) zarządza się, co następuje:
