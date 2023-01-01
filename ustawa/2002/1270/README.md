@@ -2,5 +2,5 @@
 
 Dz.U. 2002 nr 153 poz. 1270 · <https://eli.gov.pl/api/acts/DU/2002/1270>
 
-Tekst jednolity: Dz.U. 2022 poz. 329 (2022-02-09), stan na 2021-10-05.
+Tekst jednolity: Dz.U. 2023 poz. 259 (2023-02-08), stan na 2023-01-01.
 
