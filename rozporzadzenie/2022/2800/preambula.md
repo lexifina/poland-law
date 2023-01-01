@@ -1,0 +1,1 @@
+Na podstawie art. 20 ust. 12 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2022 r. poz. 187, 1488 i 2640) zarządza się, co następuje:
