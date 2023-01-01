@@ -1,0 +1,3 @@
+# Art. 12b.
+
+Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego ustala, czy w ciągu ostatnich 3 lat właściwy organ innego państwa lub państw członkowskich Unii Europejskiej odmówił wydania zezwolenia na obrót towarem o znaczeniu strategicznym o zasadniczo identycznych parametrach oraz do tego samego końcowego użytkownika lub odbiorcy co we wniosku o zezwolenie. W takim przypadku organ kontroli obrotu konsultuje się z właściwym organem państwa członkowskiego Unii Europejskiej, który odmówił wydania takiego zezwolenia, a jeżeli organ kontroli obrotu wyda zezwolenie - informuje o tym ten organ, dołączając szczegółowe uzasadnienie swojej decyzji.
