@@ -6,4 +6,6 @@
 
 § 3. Skazany nie może posiadać w celi albo przekazywać do depozytu w trakcie pobytu w zakładzie karnym przedmiotów, których wymiary lub ilość naruszają obowiązujący porządek albo utrudniają konwojowanie. Przedmioty te przesyła się, na koszt skazanego, do wskazanej przez niego osoby, instytucji lub organizacji. W uzasadnionym wypadku przedmioty te mogą być przesłane na koszt zakładu karnego.
 
-§ 4. Skazany nie może posiadać, poza depozytem, środków łączności oraz przedmiotów i dokumentów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa w zakładzie karnym.
+§ 4. Skazany, w tym również przebywający poza terenem zakładu karnego w związku z zatrudnieniem, nie może posiadać, poza depozytem, środków łączności oraz przedmiotów i dokumentów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa w zakładzie karnym lub bezpieczeństwa osób w nim przebywających.
+
+§ 5. Zakaz określony w § 4 nie dotyczy skazanych przebywających poza terenem zakładu karnego w związku z zatrudnieniem w odniesieniu do środków łączności, przedmiotów i dokumentów niezbędnych do wykonywania pracy, udostępnionych im na czas jej wykonywania przez podmiot zatrudniający.

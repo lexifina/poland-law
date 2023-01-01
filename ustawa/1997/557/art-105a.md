@@ -2,7 +2,9 @@
 
 § 1. Widzenie trwa 60 minut. W tym samym dniu skazanemu udziela się tylko jednego widzenia, z zastrzeżeniem art. 90 pkt 6 i art. 91 pkt 8.
 
-§ 2. W widzeniu mogą uczestniczyć nie więcej niż dwie osoby pełnoletnie, chyba że dyrektor zakładu karnego, w uzasadnionych wypadkach, wyrazi zgodę na udział większej liczby osób. Liczba osób niepełnoletnich nie podlega ograniczeniu. Osoby niepełnoletnie mogą korzystać z widzeń tylko pod opieką osób pełnoletnich.
+§ 2. W widzeniu mogą uczestniczyć nie więcej niż dwie osoby pełnoletnie, chyba że dyrektor zakładu karnego, w uzasadnionych wypadkach, wyrazi zgodę na udział większej liczby osób. Liczba osób małoletnich nie podlega ograniczeniu. Osoby małoletnie mogą korzystać z widzeń tylko pod opieką osób pełnoletnich.
+
+§ 2a. Osoba małoletnia do lat 15 korzysta z widzenia ze skazanym pod opieką pozostającego na wolności przedstawiciela ustawowego lub pełnoletniej osoby najbliższej, a w przypadku gdy uprawniony do opieki nad osobą małoletnią podczas widzenia nie uzyskał zgody na widzenie, nie chce lub nie może z niego skorzystać - pod opieką funkcjonariusza lub pracownika zakładu karnego wyznaczonego przez dyrektora zakładu karnego.
 
 § 3. Skazani, o których mowa w art. 87a, mają prawo do dodatkowego widzenia z dziećmi.
 
