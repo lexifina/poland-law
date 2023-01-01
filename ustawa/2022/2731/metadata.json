@@ -1,0 +1,108 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2022/2731",
+ "source_sha256": "404c3c9e8390f3102abbc084a451703a0d9d0f4bad0f93eea4f81adfcc99cd5f",
+ "in_force": "2023-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF (newest unified text); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2022/2731",
+  "html": "https://eli.gov.pl/api/acts/DU/2022/2731/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2022/2731/text/O/D20222731.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2022/2731/text/I/D20222731.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2022/2731/text/T/D20222731L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2022/2731/text/U/D20222731Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2022/2731",
+  "publisher": "DU",
+  "year": 2022,
+  "volume": 0,
+  "pos": 2731,
+  "address": "WDU20220002731",
+  "displayAddress": "Dz.U. 2022 poz. 2731",
+  "title": "Ustawa z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji",
+  "type": "Ustawa",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-12-15",
+  "promulgation": "2022-12-22",
+  "entryIntoForce": "2023-01-01",
+  "changeDate": "2026-02-27T14:36:13",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze"
+  ],
+  "keywordsNames": [
+   "Państwowy Instytut Medyczny",
+   "Min. Spraw Wewnętrznych i Administracji"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=2722",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/2722",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/2722",
+    "number": "2722",
+    "term": 9
+   }
+  ],
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/160",
+     "date": "2026-02-27"
+    },
+    {
+     "id": "DU/2024/1897",
+     "date": "2025-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/1592",
+     "date": "2023-01-01"
+    },
+    {
+     "id": "DU/1997/152",
+     "date": "2023-01-01"
+    }
+   ],
+   "Inf. o tekście jednolitym": [
+    {
+     "id": "DU/2025/447"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20222731.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20222731.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20222731L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20222731Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
