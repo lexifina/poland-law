@@ -1,0 +1,1 @@
+Na podstawie art. 38 ust. 7a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2022 r. poz. 2555 i 2674) zarządza się, co następuje:
