@@ -2,5 +2,5 @@
 
 Dz.U. 1960 nr 30 poz. 168 · <https://eli.gov.pl/api/acts/DU/1960/168>
 
-Tekst jednolity: Dz.U. 2022 poz. 2000 (2022-09-27), stan na 2022-07-07.
+Tekst jednolity: Dz.U. 2023 poz. 775 (2023-04-25), stan na 2023-01-01.
 
