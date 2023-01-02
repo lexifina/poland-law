@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/2",
+ "source_sha256": "88c4c3b5b18ca1eafafdef6edf4337ca2b3d26b75002790344f6ed715df9de76",
+ "in_force": "2023-01-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/2/text/O/M20230002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/2/text/I/M20230002.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/2",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 2,
+  "address": "WMP20230000002",
+  "displayAddress": "M.P. 2023 poz. 2",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Ekonomicznego Rady Ministrów",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-12-29",
+  "promulgation": "2023-01-02",
+  "repealDate": "2024-02-06",
+  "changeDate": "2024-02-06T10:58:07",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "komitety"
+  ],
+  "keywordsNames": [
+   "Komitet Ekonomiczny Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2024/92",
+     "date": "2024-02-06"
+    }
+   ],
+   "Akty zmieniające": [
+    {
+     "id": "MP/2023/460",
+     "date": "2023-04-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2021/1203"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230002.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
