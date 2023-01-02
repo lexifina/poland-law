@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/3",
+ "source_sha256": "695a6f82023d202972f19f979d957f85a5434bcc32df3d8cdabbb1e354705c0d",
+ "in_force": "2023-01-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/3",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/3/text/O/M20230003.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/3/text/I/M20230003.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/3",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 3,
+  "address": "WMP20230000003",
+  "displayAddress": "M.P. 2023 poz. 3",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 20 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-12-20",
+  "promulgation": "2023-01-02",
+  "repealDate": "2024-02-22",
+  "changeDate": "2024-02-22T10:50:45",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Kancelaria Prezesa Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2024/142",
+     "date": "2024-02-22"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2016/7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230003.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230003.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
