@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/8",
+ "source_sha256": "d0ba1619b713d4556717e15941cf08a3b1cdfb0e25750ea006c7b34dee14a6fc",
+ "in_force": "2023-01-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/8",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/8/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/8/text/O/D20230008.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/8/text/I/D20230008.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/8/text/T/D20230008L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/8",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 8,
+  "address": "WDU20230000008",
+  "displayAddress": "Dz.U. 2023 poz. 8",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-11-16",
+  "promulgation": "2023-01-02",
+  "changeDate": "2024-03-14T12:43:18",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kościół katolicki",
+   "kościoły"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/252"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230008.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230008.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230008L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
