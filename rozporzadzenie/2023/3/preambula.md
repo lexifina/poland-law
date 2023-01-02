@@ -1,0 +1,1 @@
+Na podstawie art. 22 ust. 2 pkt 13 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230) i art. 122 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.) zarządza się, co następuje:
