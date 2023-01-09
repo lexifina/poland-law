@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/47",
+ "source_sha256": "a6f3b91ec57fe7f95d6203508f763b48c5cd579adceca44215ac0aa7c9e64c11",
+ "in_force": "2023-01-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/47",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/47/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/47/text/O/D20230047.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/47/text/I/D20230047.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/47/text/T/D20230047L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/47",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 47,
+  "address": "WDU20230000047",
+  "displayAddress": "Dz.U. 2023 poz. 47",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-12-14",
+  "promulgation": "2023-01-09",
+  "changeDate": "2024-03-14T12:56:44",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kościół katolicki",
+   "kościoły"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/253"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230047.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230047.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230047L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
