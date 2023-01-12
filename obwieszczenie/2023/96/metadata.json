@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/96",
+ "source_sha256": "fb377204848d1db413a38ac23b7c7d59ecdc2e9159164a2f3e5897bcafd42da4",
+ "in_force": "2023-01-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/96",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/96/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/96/text/O/D20230096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/96/text/I/D20230096.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/96/text/T/D20230096L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/96/text/U/D20230096Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/96",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 96,
+  "address": "WDU20230000096",
+  "displayAddress": "Dz.U. 2023 poz. 96",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centrum Dialogu im. Juliusza Mieroszewskiego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-12-14",
+  "promulgation": "2023-01-12",
+  "expirationDate": "2024-09-16",
+  "changeDate": "2024-09-18T09:24:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "współpraca zagraniczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/408"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230096.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230096L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230096Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
