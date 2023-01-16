@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/122",
+ "source_sha256": "c70e85389e8522b961a7aa4ad2a45e1c33ccdb54c88e8f14a31f7f276df02b3c",
+ "in_force": "2023-01-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/122",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/122/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/122/text/O/D20230122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/122/text/I/D20230122.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/122/text/T/D20230122L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/122/text/U/D20230122Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/122",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 122,
+  "address": "WDU20230000122",
+  "displayAddress": "Dz.U. 2023 poz. 122",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzaniu kryzysowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-12-01",
+  "promulgation": "2023-01-16",
+  "expirationDate": "2026-04-27",
+  "changeDate": "2026-04-29T09:15:27",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2007/590"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230122.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230122L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230122Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
