@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/123",
+ "source_sha256": "1c80bca5d0c8e16a9a312e7a2b648162b7bbf1956b49c99175af53814768aacd",
+ "in_force": "2023-01-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/123",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/123/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/123/text/O/D20230123.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/123/text/I/D20230123.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/123/text/T/D20230123L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/123",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 123,
+  "address": "WDU20230000123",
+  "displayAddress": "Dz.U. 2023 poz. 123",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłatach w sprawach karnych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-01-11",
+  "promulgation": "2023-01-16",
+  "changeDate": "2024-03-14T12:40:41",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne postępowanie w sprawach o wykroczenia",
+   "sądowe koszty i opłaty",
+   "skazani",
+   "karne postępowanie",
+   "karne skarbowe prawo",
+   "opłaty",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1973/152"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230123.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230123.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230123L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
