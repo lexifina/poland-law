@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/130",
+ "source_sha256": "92624bb6054fb2320f2315ea80edcaec53d4727c3fa27cfdd1188d8d4aef8785",
+ "in_force": "2023-01-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/130",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/130/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/130/text/O/D20230130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/130/text/I/D20230130.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/130/text/T/D20230130L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/130",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 130,
+  "address": "WDU20230000130",
+  "displayAddress": "Dz.U. 2023 poz. 130",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2022-12-15",
+  "promulgation": "2023-01-17",
+  "changeDate": "2024-03-14T12:44:47",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kinematografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2005/1111"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230130.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230130L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
