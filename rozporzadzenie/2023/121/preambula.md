@@ -1,0 +1,1 @@
+Na podstawie art. 31 w związku z art. 33 ust. 2 ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych (Dz. U. z 2022 r. poz. 1758) zarządza się, co następuje:
