@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/146",
+ "source_sha256": "57f0f28f1ef7ae0eb8c047ced0c5afc144caab95296854491fef7709ae51af20",
+ "in_force": "2023-01-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/146",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/146/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/146/text/O/D20230146.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/146/text/I/D20230146.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/146/text/T/D20230146L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/146/text/U/D20230146Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/146",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 146,
+  "address": "WDU20230000146",
+  "displayAddress": "Dz.U. 2023 poz. 146",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o księgach wieczystych i hipotece",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2022-12-15",
+  "promulgation": "2023-01-19",
+  "expirationDate": "2023-09-25",
+  "changeDate": "2024-03-14T12:45:10",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/147"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230146.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230146.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230146L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230146Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
