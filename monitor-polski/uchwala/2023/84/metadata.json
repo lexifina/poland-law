@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/84",
+ "source_sha256": "b268666e606cccda6d1060c8e81a85cdc4e4092d488659fb29c9d437b2f338a9",
+ "in_force": "2023-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/84",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/84/text/O/M20230084.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/84/text/I/M20230084.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/84",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 84,
+  "address": "WMP20230000084",
+  "displayAddress": "M.P. 2023 poz. 84",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2023 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej posła Tomasza Treli",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-01-13",
+  "promulgation": "2023-01-20",
+  "changeDate": "2026-10-06T14:13:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230084.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230084.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
