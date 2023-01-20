@@ -1,0 +1,75 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/83",
+ "source_sha256": "63ea27cc5e93072829006c79b0e877e6f61cefc3b43ccb58121d14bb9c7fb69c",
+ "in_force": "2023-01-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/83",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/83/text/O/M20230083.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/83/text/I/M20230083.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/83",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 83,
+  "address": "WMP20230000083",
+  "displayAddress": "M.P. 2023 poz. 83",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2023 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej poseł Gabrieli Lenartowicz",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-01-13",
+  "promulgation": "2023-01-20",
+  "changeDate": "2026-10-06T14:14:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230083.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230083.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
