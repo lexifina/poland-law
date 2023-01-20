@@ -1,0 +1,1 @@
+Na podstawie art. 15 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328 oraz z 2023 r. poz. 347) zarządza się, co następuje:
