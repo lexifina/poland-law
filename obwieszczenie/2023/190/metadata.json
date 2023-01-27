@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/190",
+ "source_sha256": "ab34ef5304eda1c98c767d9dd4e5fe830a1819d8b993315024813e88dc6baeb2",
+ "in_force": "2023-01-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/190",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/190/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/190/text/O/D20230190.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/190/text/I/D20230190.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/190/text/T/D20230190L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/190/text/U/D20230190Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/190",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 190,
+  "address": "WDU20230000190",
+  "displayAddress": "Dz.U. 2023 poz. 190",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej w województwie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-01-11",
+  "promulgation": "2023-01-27",
+  "expirationDate": "2025-04-02",
+  "changeDate": "2025-04-03T10:52:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "województwa",
+   "administracja rządowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/206"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230190.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230190.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230190L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230190Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
