@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/194",
+ "source_sha256": "fc799a6f84adb98c91f219db917b22430829a09daf40935a71ba446670439dcc",
+ "in_force": "2023-01-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/194",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/194/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/194/text/O/D20230194.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/194/text/I/D20230194.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/194/text/T/D20230194L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/194/text/U/D20230194Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/194",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 194,
+  "address": "WDU20230000194",
+  "displayAddress": "Dz.U. 2023 poz. 194",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochotniczych strażach pożarnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-01-11",
+  "promulgation": "2023-01-30",
+  "expirationDate": "2024-02-21",
+  "changeDate": "2024-03-14T12:43:25",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochotnicza straż pożarna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2021/2490"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230194.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230194.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230194L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230194Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
