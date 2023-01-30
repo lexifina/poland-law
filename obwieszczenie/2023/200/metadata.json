@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/200",
+ "source_sha256": "e100c2ee72b111622ace68982157a463a3d1881b00e47c52eaf5f2a60fe5cc44",
+ "in_force": "2023-01-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/200",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/200/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/200/text/O/D20230200.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/200/text/I/D20230200.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/200/text/T/D20230200L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/200/text/U/D20230200Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/200",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 200,
+  "address": "WDU20230000200",
+  "displayAddress": "Dz.U. 2023 poz. 200",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnianiu osób pozbawionych wolności",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-01-13",
+  "promulgation": "2023-01-30",
+  "expirationDate": "2023-08-08",
+  "changeDate": "2024-03-14T12:43:26",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "skazani",
+   "zatrudnianie",
+   "więziennictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/777"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230200.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230200.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230200L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230200Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
