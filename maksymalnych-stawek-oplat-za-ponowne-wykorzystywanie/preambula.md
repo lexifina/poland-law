@@ -1,0 +1,1 @@
+Na podstawie art. 19 ust. 3 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) zarządza się, co następuje:
