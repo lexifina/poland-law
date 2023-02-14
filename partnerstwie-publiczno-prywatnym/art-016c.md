@@ -1,0 +1,3 @@
+# Art. 16c.
+
+Minister właściwy do spraw rozwoju regionalnego, w celu realizacji zadań określonych w niniejszym rozdziale, może, w każdym czasie, zwrócić się do podmiotu publicznego z żądaniem udzielenia informacji dotyczących wykonywania umowy o partnerstwie publiczno-prywatnym, a podmiot publiczny jest obowiązany niezwłocznie takich informacji udzielić. Jeżeli udzielenie informacji nie jest możliwe w terminie 30 dni od dnia otrzymania żądania, podmiot publiczny zawiadamia o tym ministra właściwego do spraw rozwoju regionalnego, podając przyczynę nieudzielenia informacji i wskazując dodatkowy termin ich udzielenia.
