@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/204",
+ "source_sha256": "8cc3302170f2fbd7d56330a91348088ac489aa64db75a15bf4602692b74aa324",
+ "in_force": "2023-02-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/204",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/204/text/O/M20230204.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/204/text/I/M20230204.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/204",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 204,
+  "address": "WMP20230000204",
+  "displayAddress": "M.P. 2023 poz. 204",
+  "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 14 lutego 2023 r. w sprawie wskaźnika waloryzacji podstawy wymiaru zasiłku chorobowego przyjętej do obliczenia świadczenia rehabilitacyjnego w II kwartale 2023 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-02-14",
+  "promulgation": "2023-02-16",
+  "changeDate": "2023-02-20T12:00:49",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zasiłek chorobowy",
+   "wskaźnik"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1999/636"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1999/636",
+     "art": "art. 19 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230204.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230204.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
