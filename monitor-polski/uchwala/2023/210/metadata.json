@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/210",
+ "source_sha256": "291bdeaa3adbd17dcf375e34ce1ad2564c8aff7c6dfc4b5d5818a7d5bd81b63a",
+ "in_force": "2023-02-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/210",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/210/text/O/M20230210.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/210/text/I/M20230210.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/210",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 210,
+  "address": "WMP20230000210",
+  "displayAddress": "M.P. 2023 poz. 210",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 8 lutego 2023 r. w sprawie wyrażenia przez Sejm Rzeczypospolitej Polskiej zgody na pociągnięcie do odpowiedzialności karnej poseł Magdaleny Filiks",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-02-08",
+  "promulgation": "2023-02-17",
+  "changeDate": "2026-10-06T13:43:40",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "mandaty poselskie i senatorskie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 105 ust. 2"
+    },
+    {
+     "id": "DU/1996/350",
+     "art": "art. 7"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230210.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230210.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
