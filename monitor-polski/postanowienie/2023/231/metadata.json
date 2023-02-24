@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/231",
+ "source_sha256": "a5090831448b75f6dd83af0fcf31caafb65c7646a856becf41c4f5d647e78e25",
+ "in_force": "2023-02-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/231",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/231/text/O/M20230231.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/231/text/I/M20230231.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/231",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 231,
+  "address": "WMP20230000231",
+  "displayAddress": "M.P. 2023 poz. 231",
+  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 8 lutego 2023 r. nr 1131.5.2023 o powołaniu Sekretarza Generalnego Akademii Kopernikańskiej",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-02-08",
+  "promulgation": "2023-02-24",
+  "changeDate": "2023-02-24T14:42:19",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauka",
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [
+   "Akademia Kopernikańska"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2022/1459"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2022/1459",
+     "art": "art. 63 ust. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230231.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230231.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
