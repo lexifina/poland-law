@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/234",
+ "source_sha256": "3a1d2d8c8efef1e0e5afe67baaeef14a49a40ca4986884339d2ad047f43473d4",
+ "in_force": "2023-02-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/234",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/234/text/O/M20230234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/234/text/I/M20230234.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/234",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 234,
+  "address": "WMP20230000234",
+  "displayAddress": "M.P. 2023 poz. 234",
+  "title": "Obwieszczenie Prokuratora Generalnego z dnia 15 lutego 2023 r. o wolnych stanowiskach prokuratorskich",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-02-15",
+  "promulgation": "2023-02-27",
+  "changeDate": "2023-02-28T12:56:47",
+  "releasedBy": [
+   "PROKURATOR GENERALNY"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2016/177"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2016/177",
+     "art": "art. 81 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230234.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
