@@ -1,0 +1,1 @@
+Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289 i 347) zarządza się, co następuje:
