@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/415",
+ "source_sha256": "8403c60d47993fa7ef90ae3547b5f53522d994ad862a1826aa3d3e460b836bbf",
+ "in_force": "2023-03-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/415",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/415/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/415/text/O/D20230415.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/415/text/I/D20230415.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/415/text/T/D20230415L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/415/text/U/D20230415Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/415",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 415,
+  "address": "WDU20230000415",
+  "displayAddress": "Dz.U. 2023 poz. 415",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kontroli niektórych inwestycji",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-01-27",
+  "promulgation": "2023-03-06",
+  "expirationDate": "2024-10-02",
+  "changeDate": "2024-10-03T09:57:58",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kontrola",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/1272"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230415.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230415.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230415L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230415Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
