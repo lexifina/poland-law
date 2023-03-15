@@ -1,0 +1,1 @@
+Na podstawie art. 17 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 2001 i 2727 oraz z 2023 r. poz. 412) zarządza się, co następuje:
