@@ -1,0 +1,3 @@
+# Art. 3aa.
+
+W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią - nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią - 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona.
