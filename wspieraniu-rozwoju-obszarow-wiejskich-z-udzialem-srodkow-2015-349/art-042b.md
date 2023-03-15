@@ -1,0 +1,11 @@
+# Art. 42b.
+
+1. W przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 1-7, pkt 8 lit. a - w zakresie kosztów założenia, o których mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013 - oraz pkt 8 lit. b, pkt 9, 13 i 14, oraz w przypadku pomocy technicznej, wnioski o przyznanie pomocy oraz pomocy technicznej, wnioski o płatność oraz inne dokumenty składane do Agencji lub podmiotu wdrażającego mogą być składane w postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, jeżeli w ogłoszeniu o naborze wniosków o przyznanie pomocy albo w ogłoszeniu o zamówieniu publicznym, albo w komunikacie zamieszczonym na stronie internetowej agencji płatniczej lub podmiotu wdrażającego została przewidziana taka możliwość.
+
+2. Wnioski o przyznanie pomocy oraz pomocy technicznej, wnioski o płatność oraz inne dokumenty składane do Agencji lub podmiotu wdrażającego, składane w postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, są sporządzone na formularzach i w formacie danych udostępnionych na stronie internetowej administrowanej przez Agencję lub w formatach danych określonych w ogłoszeniu o naborze wniosków o przyznanie pomocy albo w ogłoszeniu o zamówieniu publicznym, albo w komunikacie zamieszczonym na stronie internetowej agencji płatniczej lub podmiotu wdrażającego.
+
+3. Dokument złożony w postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, powinien być opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu administracyjnego ze wskazaniem w treści dokumentu osoby opatrującej dokument pieczęcią.
+
+4. Przepisy ust. 1-3 stosuje się również do wniosków o przyznanie pomocy oraz innych dokumentów składanych do LGD, z tym że te wnioski i dokumenty są składane za pośrednictwem podmiotu wdrażającego.
+
+5. (uchylony)
