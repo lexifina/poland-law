@@ -1,0 +1,7 @@
+# Art. 38o.
+
+1. Minister właściwy do spraw rynków rolnych dokonuje oceny wniosku, o którym mowa w art. 164 ust. 1 rozporządzenia nr 1308/2013.
+
+2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, poziom reprezentatywności, o którym mowa w art. 164 ust. 3 akapit drugi rozporządzenia nr 1308/2013, mając na względzie zapewnienie właściwego funkcjonowania porozumień, decyzji lub praktyk uzgodnionych w ramach uznanej organizacji producentów lub ich zrzeszenia rozszerzonych na producentów niebędących członkami tych organizacji oraz ochrony interesów podmiotów działających na rynku.
+
+3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania danego rynku oraz niezakłócania konkurencji na danym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
