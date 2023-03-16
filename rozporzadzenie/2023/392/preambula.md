@@ -1,0 +1,1 @@
+Na podstawie art. 11t ust. 11 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600) zarządza się, co następuje:
