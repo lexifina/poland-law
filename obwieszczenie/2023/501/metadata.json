@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/501",
+ "source_sha256": "3b6294813baaa63f986b664ea951eb6aeddb7636ec8eb36c6bcd2826568e3628",
+ "in_force": "2023-03-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/501",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/501/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/501/text/O/D20230501.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/501/text/I/D20230501.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/501/text/T/D20230501L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/501/text/U/D20230501Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/501",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 501,
+  "address": "WDU20230000501",
+  "displayAddress": "Dz.U. 2023 poz. 501",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rzeczach znalezionych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-01-27",
+  "promulgation": "2023-03-16",
+  "changeDate": "2026-06-17T14:38:32",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "znalezione rzeczy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/184",
+     "date": "2026-01-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/397"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230501.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230501.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230501L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230501Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
