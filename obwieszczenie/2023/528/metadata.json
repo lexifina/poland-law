@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/528",
+ "source_sha256": "70914f73df0271657ac3e496da8327f88a69d1bc59d6b4509dda3c647bb4e7b4",
+ "in_force": "2023-03-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/528",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/528/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/528/text/O/D20230528.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/528/text/I/D20230528.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/528/text/T/D20230528L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/528/text/U/D20230528Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/528",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 528,
+  "address": "WDU20230000528",
+  "displayAddress": "Dz.U. 2023 poz. 528",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-01-27",
+  "promulgation": "2023-03-21",
+  "expirationDate": "2023-10-08",
+  "changeDate": "2024-03-14T12:58:42",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informacje gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/530"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230528.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230528.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230528L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230528Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
