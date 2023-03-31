@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/623",
+ "source_sha256": "73ae1920e198ac1ef52dc7ef04a4e479ed194398d80036cf05057570553eee1a",
+ "in_force": "2023-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/623",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/623/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/623/text/O/D20230623.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/623/text/I/D20230623.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/623/text/T/D20230623L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/623/text/U/D20230623Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/623",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 623,
+  "address": "WDU20230000623",
+  "displayAddress": "Dz.U. 2023 poz. 623",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od niektórych instytucji finansowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-03-10",
+  "promulgation": "2023-03-31",
+  "changeDate": "2026-10-08T13:19:03",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "budżet",
+   "stawki"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32015R2365",
+    "date": "2015-11-25",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/2365 z dnia 25 listopada 2015 r. w sprawie przejrzystości transakcji finansowanych z użyciem papierów wartościowych i ponownego wykorzystania oraz zmiany rozporządzenia (UE) nr 648/2012 (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/68"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230623.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230623.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230623L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20230623Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
