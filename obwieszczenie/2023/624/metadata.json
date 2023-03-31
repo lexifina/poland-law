@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/624",
+ "source_sha256": "dfb4b4c344572901117b3c37882b18fc93864e195b4e2e6a93fc5be0e4e47a64",
+ "in_force": "2023-03-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/624",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/624/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/624/text/O/D20230624.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/624/text/I/D20230624.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/624/text/T/D20230624L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/624",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 624,
+  "address": "WDU20230000624",
+  "displayAddress": "Dz.U. 2023 poz. 624",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-03-10",
+  "promulgation": "2023-03-31",
+  "changeDate": "2024-03-14T12:53:22",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "kierownicze stanowiska państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1981/101"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20230624.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20230624.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20230624L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
