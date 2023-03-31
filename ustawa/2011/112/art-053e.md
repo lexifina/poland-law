@@ -16,7 +16,7 @@
 
 § 8. W przypadku nieobecności wyborcy pod wskazanym adresem doręczający umieszcza zawiadomienie o terminie powtórnego doręczenia w oddawczej skrzynce pocztowej lub, gdy nie jest to możliwe, na drzwiach mieszkania wyborcy. Termin powtórnego doręczenia nie może być dłuższy niż 1 dzień od dnia pierwszego doręczenia.
 
-§ 9. Pakiety wyborcze niedoręczone w trybie określonym w § 4 i 6-8 są przekazywane obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie do zakończenia głosowania. Jeżeli przekazanie pakietów wyborczych obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie do zakończenia głosowania nie było możliwe pakiety takie przekazywane są właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego.
+§ 9. Pakiety wyborcze niedoręczone w trybie określonym w § 4 i 6-8 są przekazywane obwodowej komisji wyborczej do zakończenia głosowania. Jeżeli przekazanie pakietów wyborczych obwodowej komisji wyborczej do zakończenia głosowania nie było możliwe pakiety takie przekazywane są właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego.
 
 § 9a. Urzędnik wyborczy niezwłocznie informuje wójta o wysłanych pakietach wyborczych.
 

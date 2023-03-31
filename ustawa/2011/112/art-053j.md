@@ -4,7 +4,7 @@
 
 - 1) szczegółowy sposób doręczania pakietów wyborczych wyborcom podlegających w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych,
 
-- 2) szczegółowy sposób i tryb odbierania kopert zwrotnych od wyborców niepełnosprawnych, wyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, oraz wyborców podlegających w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, oraz dostarczania ich do obwodowych komisji wyborczych ds. przeprowadzenia głosowania w obwodzie,
+- 2) szczegółowy sposób i tryb odbierania kopert zwrotnych od wyborców niepełnosprawnych, wyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, oraz wyborców podlegających w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, oraz dostarczania ich do obwodowych komisji wyborczych,
 
 - 3) tryb przekazywania pakietów wyborczych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 53e § 9 zdanie drugie,
 
@@ -16,9 +16,9 @@
 
 § 3. Państwowa Komisja Wyborcza określi, w drodze uchwały, sposób postępowania z:
 
-- 1) kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie do zakończenia głosowania,
+- 1) kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej do zakończenia głosowania,
 
-- 2) kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie po zakończeniu głosowania,
+- 2) kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej po zakończeniu głosowania,
 
 - 3) kopertami zwrotnymi zawierającymi niezaklejone koperty na kartę do głosowania,
 
