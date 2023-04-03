@@ -1,0 +1,1 @@
+Na podstawie art. 11q ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185, 326 i 412) zarządza się, co następuje:
