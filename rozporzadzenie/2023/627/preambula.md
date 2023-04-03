@@ -1,0 +1,1 @@
+Na podstawie art. 23zc ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, 2687 i 2745 oraz z 2023 r. poz. 28, 185 i 326) zarządza się, co następuje:
