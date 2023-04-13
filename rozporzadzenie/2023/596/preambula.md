@@ -1,0 +1,1 @@
+Na podstawie art. 50a ust. 9 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, z późn. zm.) zarządza się, co następuje:
