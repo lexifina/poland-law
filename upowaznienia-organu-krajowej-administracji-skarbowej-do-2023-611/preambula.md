@@ -1,0 +1,1 @@
+Na podstawie art. 21b ust. 8 ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2022 r. poz. 2540) zarządza się, co następuje:
