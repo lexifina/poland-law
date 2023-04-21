@@ -1,0 +1,19 @@
+# Art. 11e.
+
+1. Członkom rodziny ratownika górskiego, którego śmierć nastąpiła w związku z wykonywaniem działań ratowniczych podejmowanych w ramach ratownictwa górskiego w warunkach zagrażających życiu i zdrowiu, przysługuje świadczenie pieniężne na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658).
+
+2. Do ustalenia wysokości świadczenia pieniężnego stosuje się obowiązujące na dzień 31 grudnia roku poprzedzającego datę złożenia wniosku przeciętne uposażenie, o którym mowa w art. 85 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240, 347 i 641).
+
+3. Prawo do świadczenia pieniężnego oraz jego wysokość ustala w formie decyzji organ emerytalny określony przez ministra właściwego do spraw wewnętrznych.
+
+4. Świadczenie pieniężne wypłaca organ emerytalny, o którym mowa w ust. 3.
+
+5. Do spraw załatwianych w formie decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy art. 5, art. 7, art. 8 ust. 2 i 5-11, art. 9 ust. 2, art. 10 i art. 11 ustawy, o której mowa w ust. 1.
+
+6. Do wniosku o przyznanie świadczenia pieniężnego załącza się:
+
+- 1) zaświadczenie podmiotu uprawnionego do wykonywania ratownictwa górskiego potwierdzające, że śmierć ratownika górskiego nastąpiła wskutek okoliczności, o których mowa w ust. 1;
+
+- 2) aktualny odpis aktu stanu cywilnego potwierdzający zaistnienie okoliczności uzasadniających złożenie wniosku;
+
+- 3) inny dokument urzędowy potwierdzający zaistnienie okoliczności innych niż wymienione w pkt 1 i 2 uzasadniających złożenie wniosku.
