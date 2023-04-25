@@ -1,0 +1,1 @@
+Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
