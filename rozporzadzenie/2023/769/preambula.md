@@ -1,0 +1,1 @@
+Na podstawie art. 27a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2020 r. poz. 7 oraz z 2023 r. poz. 326) zarządza się, co następuje:
