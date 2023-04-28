@@ -1,0 +1,3 @@
+# Art. 40b.
+
+Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub 4 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 56 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych, lub art. 24 ust. 1 pkt 4, 5 lub 6 lub ust. 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej, karę pieniężną nakłada się na podstawie przepisów niniejszej ustawy.
