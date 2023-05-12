@@ -16,7 +16,7 @@
 
 - 1) nie stanowią pomocy publicznej;
 
-- 2) stanowią pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie - w zakresie i na zasadach określonych w bezpośrednio obowiązujących przepisach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis;
+- 2) stanowią pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie - w zakresie i na zasadach określonych w bezpośrednio obowiązujących przepisach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis ;
 
 - 3) stanowią pomoc publiczną:
 
@@ -32,7 +32,7 @@
 
 - 1) w zakresie warunków udzielania tej pomocy:
 
-  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309),
+  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309 oraz z 2023 r. poz. 1723 i 1860),
 
   - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298);
 
