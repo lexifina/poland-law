@@ -8,7 +8,7 @@
 
 § 4. Akta sprawy udostępnia się stronom postępowania. Strony mają prawo przeglądać akta sprawy i otrzymywać odpisy, kopie lub wyciągi z tych akt.
 
-§ 5. Sąd, w odniesieniu do akt w postaci elektronicznej, udostępnia stronom akta sprawy w swoim systemie teleinformatycznym, po uwierzytelnieniu strony w sposób określony w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57).
+§ 5. Sąd, w odniesieniu do akt w postaci elektronicznej, udostępnia stronom akta sprawy w swoim systemie teleinformatycznym, po uwierzytelnieniu strony w sposób określony w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234).
 
 § 5a. Pełnomocnik, w celu uzyskania dostępu do akt sprawy w postaci elektronicznej, przed uwierzytelnieniem w sposób, o którym mowa w § 5, podaje sądowi swój numer PESEL, jeżeli jest obowiązany do jego posiadania albo posiada go, nie mając takiego obowiązku.
 
