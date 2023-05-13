@@ -1,0 +1,9 @@
+# Art. 12b.
+
+1. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, przedsiębiorca jest obowiązany do zwrotu pomocy publicznej, udzielonej zgodnie z ustawą. Do dnia zwrotu tej pomocy przedsiębiorcy nie może zostać udzielone nowe zezwolenie.
+
+2. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, o którym mowa w art. 16 ust. 1, minister właściwy do spraw gospodarki przekazuje naczelnikowi urzędu skarbowego właściwemu dla przedsiębiorcy w sprawach podatku dochodowego kopię wydanej decyzji w terminie 14 dni, licząc od dnia, w którym decyzja ta stała się prawomocna.
+
+3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy publicznej podlegającą zwrotowi pomniejszoną odpowiednio o kwotę podatku należnego, o którym mowa w art. 21 ust. 5c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) albo art. 17 ust. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+
+4. W kwocie pomocy publicznej podlegającej zwrotowi, o której mowa w ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowych. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetki liczone są za okres od dnia udzielenia pomocy publicznej do dnia wydania decyzji o uchyleniu, a zakresie pozostałej pomocy publicznej podlegającej zwrotowi do dnia jej zwrotu. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetek nie nalicza się.
