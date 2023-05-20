@@ -1,0 +1,5 @@
+# Art. 13g.
+
+1. Prezes Urzędu może w toku postępowania żądać od podmiotów, o których mowa w art. 2, także w przypadku gdy nie są stronami transakcji handlowej, prowadzących księgi podatkowe przy użyciu programów komputerowych, przekazania całości lub części tych ksiąg oraz dowodów księgowych za pomocą środków komunikacji elektronicznej lub na informatycznych nośnikach danych, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, wskazując rodzaj ksiąg podatkowych oraz okres, którego dotyczą.
+
+2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób przekazywania za pomocą środków komunikacji elektronicznej ksiąg podatkowych, części tych ksiąg oraz dowodów księgowych w postaci elektronicznej oraz wymagania techniczne dla informatycznych nośników danych, na których księgi, części tych ksiąg oraz dowody księgowe mogą być zapisane i przekazywane, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w księgach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.

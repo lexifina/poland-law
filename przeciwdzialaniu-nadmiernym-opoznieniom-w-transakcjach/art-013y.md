@@ -1,0 +1,3 @@
+# Art. 13y.
+
+W przypadku uchylenia albo stwierdzenia nieważności decyzji o nałożeniu administracyjnej kary pieniężnej, o której mowa w art. 13t albo art. 13v, albo zmiany tej decyzji polegającej na obniżeniu jej wysokości, uiszczona kara albo jej odpowiednia część podlega zwrotowi w terminie 30 dni od dnia doręczenia wezwania do jej zwrotu. Jeżeli uchylenia decyzji lub stwierdzenia jej nieważności dokonał sąd administracyjny, do wezwania dołącza się odpis wyroku sądu i, w uzasadnionym przypadku, postanowienie stwierdzające jego prawomocność. W przypadku zwrotu kary lub jej odpowiedniej części odsetek nie nalicza się.
