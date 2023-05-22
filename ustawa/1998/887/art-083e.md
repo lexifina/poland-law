@@ -2,7 +2,7 @@
 
 1. Wniosek o dokument, o którym mowa w art. 19 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, zwany dalej „dokumentem poświadczającym”, jest zgłaszany do Zakładu w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych udostępnionego bezpłatnie przez Zakład w systemie teleinformatycznym.
 
-2. Dokument poświadczający Zakład wystawia w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Zakładu przez udostępnienie go na profilu informacyjnym osoby składającej wniosek, utworzonym w systemie teleinformatycznym udostępnionym przez Zakład. Przepis art. 71ab stosuje się odpowiednio.
+2. Dokument poświadczający Zakład wystawia w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Zakładu przez udostępnienie go na profilu informacyjnym osoby składającej wniosek, utworzonym w systemie teleinformatycznym udostępnionym przez Zakład. Przepisy art. 71ab ust. 4-6 stosuje się odpowiednio.
 
 3. Odmowa wydania dokumentu poświadczającego następuje w drodze decyzji.
 

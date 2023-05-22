@@ -2,7 +2,7 @@
 
 1. Zakład informuje ubezpieczonego o przekazaniu przez płatnika składek raportu informacyjnego w informacji o stanie konta, o której mowa w art. 50 ust. 1, przesyłanej za rok, w którym raport informacyjny został przekazany.
 
-2. Jeżeli do osoby uprawnionej do świadczenia, za którą został przekazany przez płatnika składek raport informacyjny, nie jest wysyłana informacja o stanie konta, Zakład informuje osobę, za którą został przekazany raport informacyjny, o przekazaniu tego raportu wraz z rocznym obliczeniem podatku lub imienną informacją o wysokości uzyskanego dochodu, o których mowa w art. 34 ust. 7 i 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.), przesyłanych za rok, w którym raport informacyjny został złożony.
+2. Jeżeli do osoby uprawnionej do świadczenia, za którą został przekazany przez płatnika składek raport informacyjny, nie jest wysyłana informacja o stanie konta, Zakład informuje osobę, za którą został przekazany raport informacyjny, o przekazaniu tego raportu wraz z rocznym obliczeniem podatku lub imienną informacją o wysokości uzyskanego dochodu, o których mowa w art. 34 ust. 7 i 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.), przesyłanych za rok, w którym raport informacyjny został złożony.
 
 3. Ubezpieczonemu albo osobie, o której mowa w ust. 2, którzy utworzyli profil informacyjny w systemie teleinformatycznym Zakładu, udostępnia się w tym systemie informację o przekazaniu przez płatnika składek raportu informacyjnego.
 
