@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/1006",
+ "source_sha256": "748708a705426b6639c253df8a5e74ed1ed8d156e18926032f736bf50d03d621",
+ "in_force": "2023-05-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/1006",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/1006/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/1006/text/O/D20231006.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/1006/text/I/D20231006.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/1006/text/T/D20231006L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/1006/text/U/D20231006Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/1006",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1006,
+  "address": "WDU20230001006",
+  "displayAddress": "Dz.U. 2023 poz. 1006",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach publicznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-04-07",
+  "promulgation": "2023-05-25",
+  "expirationDate": "2024-04-14",
+  "changeDate": "2024-04-16T10:05:45",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/53"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20231006.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20231006.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20231006L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20231006Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
