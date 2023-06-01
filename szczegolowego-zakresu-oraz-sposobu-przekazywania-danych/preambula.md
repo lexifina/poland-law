@@ -1,0 +1,1 @@
+Na podstawie art. 87 ust. 11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770 oraz z 2023 r. poz. 605, 650 i 658) zarządza się, co następuje:
