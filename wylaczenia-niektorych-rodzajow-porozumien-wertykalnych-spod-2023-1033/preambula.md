@@ -1,0 +1,1 @@
+Na podstawie art. 8 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275, z 2022 r. poz. 2581 i 2640 oraz z 2023 r. poz. 852) zarządza się, co następuje:
