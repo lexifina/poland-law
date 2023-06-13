@@ -1,0 +1,4 @@
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 19 maja 2023 r. w sprawie udzielania pomocy de minimis na dywersyfikację działalności mikroprzedsiębiorców, małych lub średnich przedsiębiorców w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+
+Dz.U. 2023 poz. 1020 · <https://eli.gov.pl/api/acts/DU/2023/1020>
+
