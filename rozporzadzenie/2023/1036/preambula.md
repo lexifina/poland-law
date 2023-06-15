@@ -1,0 +1,1 @@
+Na podstawie art. 41 § 1 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614 i 1030) zarządza się, co następuje:
