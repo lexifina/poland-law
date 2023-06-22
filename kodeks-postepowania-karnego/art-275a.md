@@ -8,4 +8,4 @@
 
 § 4. Środek przewidziany w § 1 stosuje się na okres nie dłuższy niż 3 miesiące. Jeżeli nie ustały przesłanki jego stosowania sąd pierwszej instancji właściwy do rozpoznania sprawy, na wniosek prokuratora, może przedłużyć jego stosowanie na dalsze okresy, nie dłuższe niż 3 miesiące.
 
-§ 5. Wydając postanowienie o nakazie okresowego opuszczenia przez oskarżonego lokalu zajmowanego wspólnie z pokrzywdzonym, można, na wniosek oskarżonego, wskazać mu miejsce pobytu w placówkach zapewniających miejsca noclegowe. Placówkami wskazanymi do umieszczenia oskarżonego nie mogą być placówki pobytu ofiar przemocy w rodzinie.
+§ 5. Wydając postanowienie o nakazie okresowego opuszczenia przez oskarżonego lokalu zajmowanego wspólnie z pokrzywdzonym, można, na wniosek oskarżonego, wskazać mu miejsce pobytu w placówkach zapewniających miejsca noclegowe. Placówkami wskazanymi do umieszczenia oskarżonego nie mogą być placówki pobytu osób doznających przemocy domowej.
