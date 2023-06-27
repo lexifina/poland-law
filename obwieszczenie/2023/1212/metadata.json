@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/1212",
+ "source_sha256": "dd2d1d54a1fc61afec0154e57dc367642eaab35c505bc6130d9fbf0550512e7d",
+ "in_force": "2023-06-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/1212",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/1212/text/O/D20231212.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/1212/text/I/D20231212.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/1212/text/T/D20231212L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/1212/text/U/D20231212Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/1212",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1212,
+  "address": "WDU20230001212",
+  "displayAddress": "Dz.U. 2023 poz. 1212",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dochodzeniu roszczeń w postępowaniu grupowym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-05-25",
+  "promulgation": "2023-06-27",
+  "expirationDate": "2024-10-06",
+  "changeDate": "2024-10-08T09:33:01",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania",
+   "cywilne prawo",
+   "wierzytelności",
+   "cywilne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/44"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20231212.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20231212.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20231212L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20231212Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
