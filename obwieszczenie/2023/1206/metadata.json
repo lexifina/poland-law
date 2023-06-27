@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/1206",
+ "source_sha256": "84cb2b7521c100ea1600b0f0f31cecb74010729f1c1da132b82d49ab64080edc",
+ "in_force": "2023-06-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/1206",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/1206/text/O/D20231206.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/1206/text/I/D20231206.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/1206/text/T/D20231206L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/1206",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1206,
+  "address": "WDU20230001206",
+  "displayAddress": "Dz.U. 2023 poz. 1206",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-05-11",
+  "promulgation": "2023-06-27",
+  "changeDate": "2023-06-28T11:49:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona danych osobowych",
+   "karne postępowanie",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/125"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20231206.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20231206.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20231206L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
