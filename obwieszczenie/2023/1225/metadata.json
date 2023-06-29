@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/1225",
+ "source_sha256": "0a71b01fe6f341ea898d376560bd98f4b8494371b42de9c8ceaa27235fa6f0fd",
+ "in_force": "2023-06-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/1225",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/1225/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/1225/text/O/D20231225.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/1225/text/I/D20231225.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/1225",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1225,
+  "address": "WDU20230001225",
+  "displayAddress": "Dz.U. 2023 poz. 1225",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie szpitalnego oddziału ratunkowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-05-25",
+  "promulgation": "2023-06-29",
+  "expirationDate": "2024-03-08",
+  "changeDate": "2024-03-14T12:54:32",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "szpitale"
+  ],
+  "keywordsNames": [
+   "Państwowe Ratownictwo Medyczne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/1213"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20231225.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20231225.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
