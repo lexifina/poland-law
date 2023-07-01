@@ -1,0 +1,1 @@
+Na podstawie art. 17 ust. 7 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328, z 2022 r. poz. 1002 i 1715 oraz z 2023 r. poz. 1123 i 1234) zarządza się, co następuje:
