@@ -46,4 +46,4 @@
 
 7. W przypadku gdy płatności z tytułu dostaw towarów lub świadczenia usług dokonywano w innych walutach niż euro, do ich przeliczenia na euro stosuje się kurs wymiany opublikowany przez Europejski Bank Centralny w ostatnim dniu danego okresu rozliczeniowego, a jeżeli nie zostanie opublikowany w tym dniu - kurs wymiany opublikowany następnego dnia.
 
-8. Podatnicy są obowiązani do wpłacania kwot VAT w euro, wskazując deklarację VAT, której dotyczy wpłata, w terminie, o którym mowa w ust. 2, na rachunek bankowy właściwego urzędu skarbowego.
+8. Podatnicy są obowiązani do wpłacania kwot VAT w euro, wskazując deklarację VAT, której dotyczy wpłata, w terminie, o którym mowa w ust. 2, na rachunek bankowy właściwego urzędu skarbowego. Przepis ust. 3 stosuje się odpowiednio.

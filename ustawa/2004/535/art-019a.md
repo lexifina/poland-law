@@ -24,7 +24,7 @@
 
   - a) wydania towarów przez komitenta komisantowi na podstawie umowy komisu,
 
-  - b) przeniesienia z nakazu organu władzy publicznej lub podmiotu działającego w imieniu takiego organu lub przeniesienia z mocy prawa własności towarów w zamian za odszkodowanie,
+  - b) przeniesienia z nakazu organu władzy publicznej lub podmiotu działającego w imieniu takiego organu lub przeniesienia z mocy prawa prawa własności towarów w zamian za odszkodowanie,
 
   - c) dokonywanej w trybie egzekucji dostawy towarów, o której mowa w art. 18,
 

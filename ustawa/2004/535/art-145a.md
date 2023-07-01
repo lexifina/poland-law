@@ -18,7 +18,11 @@
 
 7. Potwierdzenia o spełnieniu funkcji, kryteriów i warunków technicznych dla kas rejestrujących przez:
 
-- 1) kasy rejestrujące z elektronicznym zapisem kopii - są wydawane na okres do dnia 31 grudnia 2022 r.;
+- 1) kasy rejestrujące z elektronicznym zapisem kopii:
+
+  - a) inne niż o zastosowaniu specjalnym - są wydawane na okres do dnia 31 grudnia 2022 r.,
+
+  - b) o zastosowaniu specjalnym - są wydawane na okres do dnia 31 grudnia 2023 r.;
 
 - 2) kasy rejestrujące z papierowym zapisem kopii - są wydawane na okres do dnia 31 sierpnia 2019 r.
 
@@ -40,7 +44,7 @@
 
 15. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-- 1) sposób prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących z elektronicznym lub papierowym zapisem kopii, w tym kas o zastosowaniu specjalnym dla specyficznego rodzaju działalności, oraz warunki i sposób używania przez podatników kas rejestrujących z elektronicznym lub papierowym zapisem kopii, w tym sposób zakończenia używania tych kas w przypadku zakończenia działalności gospodarczej lub pracy tych kas, oraz szczególne przypadki i sposób wystawiania dokumentów w postaci innej niż wydruk przy zastosowaniu tych kas, uwzględniając potrzebę właściwego prowadzenia ewidencji sprzedaży przy zastosowaniu tych kas przez podatników oraz potrzebę przeciwdziałania nieewidencjonowaniu sprzedaży przy ich zastosowaniu, jak również zapewnienia kontroli prawidłowości rozliczania podatku i prawidłowości końcowego rozliczenia pracy tych kas;
+- 1) sposób prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących z elektronicznym lub papierowym zapisem kopii, w tym kas o zastosowaniu specjalnym dla specyficznego rodzaju działalności, oraz warunki i sposób używania przez podatników kas rejestrujących z elektronicznym lub papierowym zapisem kopii, w tym sposób zakończenia używania tych kas w przypadku zakończenia działalności gospodarczej lub pracy tych kas, oraz sposób wystawiania dokumentów z kas rejestrujących i szczególne przypadki wydawania nabywcy dowodu sprzedaży, uwzględniając potrzebę właściwego prowadzenia ewidencji sprzedaży przy zastosowaniu tych kas przez podatników oraz potrzebę przeciwdziałania nieewidencjonowaniu sprzedaży przy ich zastosowaniu, jak również zapewnienia kontroli prawidłowości rozliczania podatku i prawidłowości końcowego rozliczenia pracy tych kas;
 
 - 2) termin zgłoszenia kasy rejestrującej z elektronicznym lub papierowym zapisem kopii do naczelnika urzędu skarbowego w celu otrzymania numeru ewidencyjnego, rodzaje dokumentów, które są składane w związku z używaniem takiej kasy, sposób ich składania oraz wzory tych dokumentów, uwzględniając potrzebę zapewnienia prawidłowego prowadzenia ewidencji sprzedaży przy zastosowaniu takich kas oraz zapewnienia kontroli prawidłowości rozliczania podatku;
 

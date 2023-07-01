@@ -1,6 +1,6 @@
 # Art. 146dc.
 
-W okresie od dnia 1 lutego 2022 r. do dnia 31 lipca 2022 r. dla:
+W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
 
 - 1) benzyn silnikowych (CN 2710 12 45 lub 2710 12 49) oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach,
 

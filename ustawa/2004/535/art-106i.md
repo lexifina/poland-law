@@ -1,6 +1,6 @@
 # Art. 106i.
 
-1. Fakturę wystawia się nie później niż 15. dnia miesiąca następującego po miesiącu, w którym dokonano dostawy towaru lub wykonano usługę, z zastrzeżeniem ust. 2‒9.
+1. Fakturę wystawia się nie później niż 15. dnia miesiąca następującego po miesiącu, w którym dokonano dostawy towaru lub wykonano usługę, z zastrzeżeniem ust. 2-9.
 
 2. Jeżeli przed dokonaniem dostawy towaru lub wykonaniem usługi otrzymano całość lub część zapłaty, o której mowa w art. 106b ust. 1 pkt 4, fakturę wystawia się nie później niż 15. dnia miesiąca następującego po miesiącu, w którym otrzymano całość lub część zapłaty od nabywcy.
 

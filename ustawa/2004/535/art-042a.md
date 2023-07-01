@@ -14,4 +14,4 @@ Wiążąca informacja stawkowa, zwana dalej „WIS”, jest decyzją wydawaną n
 
   - b) stosowania przepisów ustawy oraz przepisów wykonawczych wydanych na jej podstawie - w przypadku, o którym mowa w art. 42b ust. 4;
 
-- 3) stawkę podatku właściwą dla towaru albo usługi.
+- 3) stawkę podatku właściwą dla towaru albo usługi, z wyjątkiem przypadku, o którym mowa w art. 42b ust. 4.

@@ -14,6 +14,6 @@
 
 3. W przypadku importu towarów przeliczenia na złote dokonuje się zgodnie z przepisami celnymi.
 
-4. W przypadku usług wstępu na imprezy masowe w rozumieniu ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r. poz. 2171 oraz z 2021 r. poz. 2490) kwoty stosowane do określenia podstawy opodatkowania wyrażone w walucie obcej mogą być przeliczane na złote zgodnie z przepisami celnymi stosowanymi na potrzeby obliczania wartości celnej importowanych towarów.
+4. W przypadku usług wstępu na imprezy masowe w rozumieniu ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2023 r. poz. 616) kwoty stosowane do określenia podstawy opodatkowania wyrażone w walucie obcej mogą być przeliczane na złote zgodnie z przepisami celnymi stosowanymi na potrzeby obliczania wartości celnej importowanych towarów.
 
 5. Na potrzeby stosowania art. 7a ust. 1, art. 45 ust. 1 pkt 11, art. 48 ust. 2, art. 52 ust. 3, art. 56 ust. 1 i 2, art. 138a pkt 2 i art. 138i ust. 1 kwotę wyrażoną w euro przelicza się przy zastosowaniu kursu wymiany obowiązującego w pierwszym dniu roboczym października poprzedniego roku podatkowego, opublikowanego przez Europejski Bank Centralny, przy czym wyrażone w złotych kwoty wynikające z przeliczenia zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych.
