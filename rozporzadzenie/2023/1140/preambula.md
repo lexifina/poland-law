@@ -1,0 +1,1 @@
+Na podstawie art. 122 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094 i 1113) zarządza się, co następuje:
