@@ -1,0 +1,1 @@
+Na podstawie art. 40 ust. 8 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803) zarządza się, co następuje:
