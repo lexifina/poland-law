@@ -1,0 +1,1 @@
+Na podstawie art. 43hc ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2022 r. poz. 187, 1488 i 2640 oraz z 2023 r. poz. 556, 825 i 1285) zarządza się, co następuje:
