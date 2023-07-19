@@ -1,0 +1,3 @@
+# § 6a.
+
+W latach szkolnych 2021/2022-2023/2024 w oddziale przygotowawczym, o którym mowa w art. 165 ust. 11 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005), zorganizowanym w branżowej szkole I stopnia lub technikum uczeń będący obywatelem Ukrainy, o którym mowa w § 1, może również uczęszczać na zajęcia przeznaczone na osiągnięcie wybranych efektów kształcenia określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, dostosowane pod względem zakresu treści nauczania oraz metod i form ich realizacji do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia.
