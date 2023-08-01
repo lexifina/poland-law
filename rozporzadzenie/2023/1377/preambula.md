@@ -1,0 +1,1 @@
+Na podstawie art. 10 ustawy z dnia 7 czerwca 2001 r. o ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja (Dz. U. poz. 726 oraz z 2021 r. poz. 2448) zarządza się, co następuje:
