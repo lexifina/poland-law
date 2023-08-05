@@ -1,0 +1,1 @@
+Na podstawie art. 1 ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760 i 1193) zarządza się, co następuje:
