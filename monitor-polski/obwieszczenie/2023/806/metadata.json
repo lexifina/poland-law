@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/806",
+ "source_sha256": "8cc9ec21e2cce0e8ec05977a3a57a7edced422e2b8eeaea12359fe04f3a1aaf2",
+ "in_force": "2023-08-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/806",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/806/text/O/M20230806.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/806/text/I/M20230806.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/806",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 806,
+  "address": "WMP20230000806",
+  "displayAddress": "M.P. 2023 poz. 806",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 24 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Sterującego do spraw Projektu Cyfryzacja Miejsc Pamięci",
+  "type": "Obwieszczenie",
+  "status": "uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-07-24",
+  "promulgation": "2023-08-07",
+  "repealDate": "2024-04-04",
+  "changeDate": "2024-04-04T09:22:14",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cyfryzacja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Akty uchylające": [
+    {
+     "id": "MP/2024/246",
+     "date": "2024-04-04"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2021/824"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230806.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230806.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
