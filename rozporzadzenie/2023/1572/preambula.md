@@ -1,0 +1,1 @@
+Na podstawie art. 106 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240, 347, 641, 1088 i 1560) zarządza się, co następuje:
