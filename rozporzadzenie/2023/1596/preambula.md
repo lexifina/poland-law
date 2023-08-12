@@ -1,0 +1,1 @@
+Na podstawie art. 3 ust. 11 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104 i 1523) zarządza się, co następuje:
