@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2023/1604",
- "source_sha256": "7e8f0da4e8f8368123a5b84633f4033fbedcf843b32aeb1c61281f8af735a91e",
+ "source_sha256": "d69ef648199d7dbd00ef8eece03707ea6481491813dc6423dae9082d5bbe7258",
  "in_force": "2023-08-14",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -28,7 +28,8 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2023-07-07",
   "promulgation": "2023-08-14",
-  "changeDate": "2026-02-04T15:07:37",
+  "repealDate": "2027-12-31",
+  "changeDate": "2026-11-24T10:46:27",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -43,6 +44,12 @@
   "directives": [],
   "prints": [],
   "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2026/1542",
+     "date": "2027-12-31"
+    }
+   ],
    "Nowelizacje po tekście jednolitym": [
     {
      "id": "DU/2025/1173",
