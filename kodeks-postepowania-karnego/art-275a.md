@@ -1,6 +1,6 @@
 # Art. 275a.
 
-§ 1. Tytułem środka zapobiegawczego można nakazać oskarżonemu o przestępstwo popełnione z użyciem przemocy na szkodę osoby wspólnie zamieszkującej okresowe opuszczenie lokalu zajmowanego wspólnie z pokrzywdzonym, jeżeli zachodzi uzasadniona obawa, że oskarżony ponownie popełni przestępstwo z użyciem przemocy wobec tej osoby, zwłaszcza gdy popełnieniem takiego przestępstwa groził.
+§ 1. Tytułem środka zapobiegawczego można nakazać oskarżonemu o przestępstwo popełnione z użyciem przemocy na szkodę osoby wspólnie zamieszkującej okresowe opuszczenie lokalu zajmowanego wspólnie z pokrzywdzonym i jego najbliższego otoczenia lub zakazać mu zbliżania się do pokrzywdzonego na wskazaną odległość, jeżeli zachodzi uzasadniona obawa, że oskarżony ponownie popełni przestępstwo z użyciem przemocy wobec tej osoby, zwłaszcza gdy popełnieniem takiego przestępstwa groził.
 
 § 2. W postępowaniu przygotowawczym środek przewidziany w § 1 stosuje się na wniosek Policji albo z urzędu.
 
