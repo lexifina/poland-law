@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/865",
+ "source_sha256": "61f85d46ec730a86baa3e5564a58a5f994eb4f7d24fccec75978732edf13c811",
+ "in_force": "2023-08-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/865",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/865/text/O/M20230865.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/865/text/I/M20230865.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/865",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 865,
+  "address": "WMP20230000865",
+  "displayAddress": "M.P. 2023 poz. 865",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 24 lipca 2023 r. nr 127.3.2023 o wolnych stanowiskach sędziego w Naczelnym Sądzie Administracyjnym",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-07-24",
+  "promulgation": "2023-08-18",
+  "changeDate": "2023-08-21T13:15:53",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Naczelny Sąd Administracyjny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 31 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20230865.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20230865.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
