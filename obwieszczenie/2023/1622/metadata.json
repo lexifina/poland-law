@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/1622",
+ "source_sha256": "0ceabc8a71b1fd537f3128c92ec518d0aa3c60ea3178e4bea38841bbb72cd1dd",
+ "in_force": "2023-08-31",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/1622",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/1622/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/1622/text/O/D20231622.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/1622/text/I/D20231622.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/1622/text/T/D20231622L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/1622/text/U/D20231622Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/1622",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1622,
+  "address": "WDU20230001622",
+  "displayAddress": "Dz.U. 2023 poz. 1622",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dozorze technicznym",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-07-07",
+  "promulgation": "2023-08-31",
+  "expirationDate": "2024-08-06",
+  "changeDate": "2024-08-07T10:12:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dozór techniczny"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32009L0126",
+    "date": "2009-10-21",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 2009/126/WE z dnia 21 października 2009 r. w sprawie odzyskiwania oparów paliwa na etapie II podczas tankowania pojazdów silnikowych na stacjach paliw"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1321"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20231622.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20231622.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20231622L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20231622Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
