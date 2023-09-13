@@ -1,0 +1,1 @@
+Na podstawie art. 60 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, 1113, 1501 i 1506) zarządza się, co następuje:
