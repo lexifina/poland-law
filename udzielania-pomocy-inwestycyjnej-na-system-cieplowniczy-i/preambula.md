@@ -1,0 +1,1 @@
+Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 (Dz. U. poz. 1079) zarządza się, co następuje:
