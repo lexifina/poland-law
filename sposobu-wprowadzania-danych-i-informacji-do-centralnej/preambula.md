@@ -1,0 +1,1 @@
+Na podstawie art. 27c ust. 5 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, 1561, 1576, 1967 i 2456) zarządza się, co następuje:
