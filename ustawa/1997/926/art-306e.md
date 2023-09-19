@@ -12,7 +12,7 @@
 
   - a) postępowanie mające na celu ujawnienie jego zaległości podatkowych i określenie ich wysokości,
 
-  - b) postępowanie egzekucyjne w administracji, również w zakresie innych niż podatkowe zobowiązań wnioskodawcy,
+  - b) postępowanie egzekucyjne w administracji, również w zakresie innych niż podatkowe zobowiązań wnioskodawcy;
 
   - c) (uchylona)
 

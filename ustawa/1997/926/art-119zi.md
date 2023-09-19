@@ -34,4 +34,6 @@
 
 - 3) informacji i zestawień, o których mowa w art. 119zp § 1, art. 119zq i art. 119zs § 1;
 
-- 4) informacji objętych żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zo § 9, art. 119zv § 3, art. 119zw § 3 i art. 119zz § 2.
+- 4) informacji objętych żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zo § 9, art. 119zv § 3, art. 119zw § 3 i art. 119zz § 2;
+
+- 5) informacji rejestrowanych, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej.

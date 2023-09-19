@@ -8,8 +8,6 @@
 
 - 3) informacje i zestawienia, o których mowa w art. 119zp § 1, art. 119zq i art. 119zs § 1,
 
-- 4) informacje objęte żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zo § 9, art. 119zv § 3, art. 119zw § 3 i art. 119zz § 2,
-
-podlega karze pozbawienia wolności do lat 5.
+- 4) informacje objęte żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zo § 9, art. 119zv § 3, art. 119zw § 3 i art. 119zz § 2, podlega karze pozbawienia wolności do lat 5.
 
 § 2. Jeżeli sprawca czynu określonego w § 1 działa nieumyślnie, podlega grzywnie.

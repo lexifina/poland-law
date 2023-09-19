@@ -6,6 +6,6 @@
 
 § 3. Inwestorzy ponoszą solidarną odpowiedzialność za wniesienie opłaty głównej.
 
-§ 4. Opłata główna jest wnoszona przez inwestora na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni do dnia zawarcia porozumienia inwestycyjnego. W przypadku nieuiszczenia w terminie opłaty głównej porozumienie inwestycyjne nie wywołuje skutków prawnych.
+§ 4. Opłata główna jest wnoszona przez inwestora na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni od dnia zawarcia porozumienia inwestycyjnego. W przypadku nieuiszczenia w terminie opłaty głównej porozumienie inwestycyjne nie wywołuje skutków prawnych.
 
 § 5. Opłata główna stanowi dochód budżetu państwa.

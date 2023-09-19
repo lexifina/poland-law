@@ -27,3 +27,5 @@
 - 2) osób, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki;
 
 - 3) spółek, które tworzyły podatkową grupę kapitałową w rozumieniu przepisów o podatku dochodowym od osób prawnych w chwili utraty przez tę podatkową grupę kapitałową statusu podatnika;
+
+- 4) przedstawiciela grupy VAT w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, po utracie przez tę grupę statusu podatnika.

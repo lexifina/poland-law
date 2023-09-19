@@ -2,7 +2,7 @@
 
 § 1. Dyrektor Krajowej Informacji Skarbowej, na wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, interpretację przepisów prawa podatkowego (interpretację indywidualną).
 
-§ 1a. W zakresie objętym wiążącymi informacjami stawkowymi, o których mowa w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, nie wydaje się interpretacji indywidualnych.
+§ 1a. W zakresie objętym wiążącymi informacjami stawkowymi, o których mowa w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, oraz wiążącymi informacjami akcyzowymi, o których mowa w przepisach ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, nie wydaje się interpretacji indywidualnych.
 
 § 2. Wniosek o interpretację indywidualną może dotyczyć zaistniałego stanu faktycznego lub zdarzeń przyszłych.
 
@@ -12,7 +12,7 @@
 
 - 2) mające na celu przeciwdziałanie unikaniu opodatkowania, które odnoszą się do nadużycia przepisów prawa podatkowego, prowadzenia rzeczywistej działalności gospodarczej lub podejmowania działań w sposób sztuczny lub bez uzasadnienia ekonomicznego, w tym:
 
-  - a) zawarte w dziale IIIA w rozdziale 1,
+  - a) zawarte w dziale IIIA w rozdziale 1 i dziale IIIC,
 
   - b) zawarte w art. 5a pkt 33d, art. 24 ust. 19 i 20, art. 30f ust. 18, 20 i 20a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 4a pkt 29, art. 12 ust. 13 i 14, art. 22c, art. 24a ust. 16, 18 i 18a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
 

@@ -22,6 +22,6 @@
 
 § 5. (uchylony)
 
-§ 6. W przypadku korzystającego wchodzącego w skład podatkowej grupy kapitałowej w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych informację, o której mowa w § 1, korzystający przekazuje w terminie złożenia deklaracji podatkowej dotyczącej danego okresu rozliczeniowego podatkowej grupy kapitałowej.
+§ 6. W przypadku korzystającego wchodzącego w skład podatkowej grupy kapitałowej w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych lub grupy VAT w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług informację, o której mowa w § 1, korzystający przekazuje w terminie złożenia deklaracji podatkowej dotyczącej danego okresu rozliczeniowego odpowiednio podatkowej grupy kapitałowej albo grupy VAT.
 
 § 7. Informacja, o której mowa w § 1, składana jest pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia i zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.

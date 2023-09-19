@@ -16,7 +16,7 @@
 
   - d) różnica pomiędzy polskim podatkiem dochodowym, który byłby należny w związku z wykonaniem uzgodnienia od korzystającego nieposiadającego siedziby, zarządu ani miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, gdyby był on podatnikiem, o którym mowa w art. 3 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 3 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, a podlegającym faktycznej zapłacie podatkiem dochodowym w państwie siedziby, zarządu lub miejsca zamieszkania korzystającego w związku z wykonaniem uzgodnienia, przekracza łącznie w trakcie roku kalendarzowego kwotę 5 000 000 zł;
 
-- 2) instytucji finansowej - oznacza to instytucję finansową w rozumieniu art. 24 ust. 1 pkt 8 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2021 r. poz. 626 i 2105 oraz z 2022 r. poz. 1301) lub instytucję finansową w rozumieniu art. 1 ust. 1 lit. g umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158);
+- 2) instytucji finansowej - oznacza to instytucję finansową w rozumieniu art. 24 ust. 1 pkt 8 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241) lub instytucję finansową w rozumieniu art. 1 ust. 1 lit. g umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158);
 
 - 3) korzystającym - rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, której udostępniane jest lub u której wdrażane jest uzgodnienie, lub która jest przygotowana do wdrożenia uzgodnienia lub dokonała czynności służącej wdrożeniu takiego uzgodnienia;
 
@@ -152,7 +152,7 @@
 
 § 5a. Obowiązek przekazania informacji o schemacie podatkowym, innym niż schemat podatkowy transgraniczny, w zakresie podatku dochodowego od osób prawnych nie powstaje w okresie opodatkowania ryczałtem od dochodów spółek zgodnie z przepisami rozdziału 6b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
-§ 6. W przypadku gdy korzystającym jest spółka wchodząca w skład podatkowej grupy kapitałowej w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, przepisy niniejszego rozdziału stosuje się odpowiednio.
+§ 6. W przypadku gdy korzystającym jest spółka wchodząca w skład podatkowej grupy kapitałowej w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych lub członek grupy VAT w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przepisy niniejszego rozdziału stosuje się odpowiednio.
 
 § 7. Przy ustalaniu podmiotu powiązanego uznaje się, że:
 

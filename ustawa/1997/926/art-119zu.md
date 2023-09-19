@@ -4,7 +4,9 @@
 
 - 1) dane przekazane na podstawie art. 119zp § 1;
 
-- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 166, 1301 i 1933);
+- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 2500 oraz z 2023 r. poz. 614, 1234 i 1723);
+
+- 2a) informacje rejestrowane, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej;
 
 - 3) informacje dostępne publicznie.
 
@@ -12,9 +14,9 @@
 
 § 2a. Dane, o których mowa w § 1, izba rozliczeniowa przetwarza przy wykorzystaniu STIR również w celu:
 
-- 1) stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa wart. 48 ust. 1 tej ustawy, zawartej z bankiem lub spółdzielczą kasą oszczędnościowo-kredytową;
+- 1) stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa w art. 48 ust. 1 tej ustawy, zawartej z bankiem, spółdzielczą kasą oszczędnościowo-kredytową lub instytucją zobowiązaną, o której mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej;
 
-- 2) wykonywania przez izbę rozliczeniową na rzecz banków lub spółdzielczych kas oszczędnościowo-kredytowych czynności niezbędnych do zastosowania przez banki lub spółdzielcze kasy oszczędnościowo-kredytowe środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+- 2) wykonywania przez izbę rozliczeniową na rzecz banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji zobowiązanych, o których mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej, czynności niezbędnych do zastosowania przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje zobowiązane, o których mowa w art. 3 pkt 2 tej ustawy, środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 
 § 3. Dane przetwarzane na podstawie przepisów niniejszego działu są przechowywane przez izbę rozliczeniową, banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz Szefa Krajowej Administracji Skarbowej przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym otrzymały dane.
 

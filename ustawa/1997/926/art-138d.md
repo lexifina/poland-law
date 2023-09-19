@@ -2,7 +2,7 @@
 
 § 1. Pełnomocnictwo ogólne upoważnia do działania we wszystkich sprawach podatkowych oraz w innych sprawach należących do właściwości organów podatkowych.
 
-§ 1a. Pełnomocnictwo ogólne dotyczy również działania we wszystkich sprawach związanych z opłatą za przejazd autostradą w rozumieniu ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 659, 1079, 1726 i 1768) lub opłatą elektroniczną w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768, 1783 i 2185).
+§ 1a. Pełnomocnictwo ogólne dotyczy również działania we wszystkich sprawach związanych z opłatą elektroniczną w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2023 r. poz. 645, 760, 1193 i 1688).
 
 § 2. Za pełnomocnika ogólnego strony w sprawach podatkowych uznaje się kuratora wyznaczonego przez sąd na wniosek organu podatkowego, o którym mowa w art. 138.
 

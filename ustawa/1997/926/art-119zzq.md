@@ -1,0 +1,3 @@
+# Art. 119zzq.
+
+Opinię albo odmowę jej wydania przesyła się do sądu rejestrowego, o którym mowa w art. 516¹² § 1, art. 550¹⁵ § 1 lub art. 580¹³ § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych, a odpis tego pisma przesyła się do wiadomości wnioskodawcy. Postanowienie kończące sprawę przesyła się do wnioskodawcy, a gdy stało się ono ostateczne, przesyła się je do sądu rejestrowego, a jego odpis - do wiadomości wnioskodawcy. Odpisy pism w sprawie kierowanych do wnioskodawcy lub organów, o których mowa w art. 119zzn § 1, a także pism kierowanych do Szefa Krajowej Administracji Skarbowej przesyła się do wiadomości sądu rejestrowego.

@@ -6,7 +6,9 @@
 
 - 2) przekazywania danych i informacji o wskaźniku ryzyka do Centralnego Rejestru Danych Podatkowych oraz do systemów teleinformatycznych banków i spółdzielczych kas oszczędnościowo-kredytowych;
 
-- 3) pośredniczenia w przekazywaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi.
+- 3) pośredniczenia w przekazywaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi;
+
+- 4) pośredniczenia w przekazywaniu przez instytucje zobowiązane, o których mowa w art. 3 pkt 2 ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180), informacji rejestrowanych, o których mowa w tej ustawie, do Systemu Informacji Finansowej.
 
 § 2. STIR może być wykorzystywany również w przypadku, gdy odrębne przepisy umożliwiają wykorzystywanie do realizacji celów określonych w tych przepisach systemu teleinformatycznego bez wskazania podmiotu prowadzącego ten system.
 

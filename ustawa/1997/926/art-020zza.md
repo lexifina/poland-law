@@ -16,7 +16,7 @@
 
 - 1) orzecznictwo Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej lub Naczelnego Sądu Administracyjnego;
 
-- 2) wystąpienie przesłanek, o których mowa w art. 7ha pkt 1 i 2, pkt 3 lit. a i c ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym - w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 3;
+- 2) wystąpienie przesłanek, o których mowa w art. 7ha ust. 1 pkt 1 i 2, pkt 3 lit. a i c ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym - w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 3;
 
 - 3) wystąpienie przesłanek, o których mowa w art. 42h ust. 3 pkt 1 i 2, pkt 3 lit. a i c oraz pkt 4 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług - w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 4.
 

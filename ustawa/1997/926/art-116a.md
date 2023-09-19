@@ -1,6 +1,6 @@
 # Art. 116a.
 
-§ 1. Za zaległości podatkowe innych osób prawnych niż wymienione w art. 116 odpowiadają solidarnie całym swoim majątkiem członkowie organów zarządzających tymi osobami. Przepis art. 116 stosuje się odpowiednio.
+§ 1. Za zaległości podatkowe innych osób prawnych niż wymienione w art. 116 i fundacji rodzinnej w organizacji odpowiadają solidarnie całym swoim majątkiem członkowie organów zarządzających tymi podmiotami. Przepis art. 116 stosuje się odpowiednio.
 
 § 2. Za zaległości podatkowe stowarzyszenia powstałe przed jego wpisem do właściwego rejestru odpowiadają solidarnie osoby działające na rzecz stowarzyszenia do chwili wpisu.
 
