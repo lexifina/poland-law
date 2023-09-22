@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/1028",
+ "source_sha256": "2fc98466e2d6f6fa69f16d510bd4a698614fa1b7665ec8f5746796b0c3c9b4c3",
+ "in_force": "2023-09-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/1028",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/1028/text/O/M20231028.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/1028/text/I/M20231028.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/1028",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1028,
+  "address": "WMP20230001028",
+  "displayAddress": "M.P. 2023 poz. 1028",
+  "title": "Obwieszczenie Ministra Edukacji i Nauki z dnia 28 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Ministra Edukacji Narodowej w sprawie nadania statutu Centralnej Komisji Egzaminacyjnej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-08-28",
+  "promulgation": "2023-09-22",
+  "changeDate": "2025-08-20T00:00:00",
+  "releasedBy": [
+   "MIN. EDUKACJI I NAUKI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Centralna Komisja Egzaminacyjna"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "MP/2025/772",
+     "date": "2025-08-14"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2015/1046"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20231028.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20231028.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
