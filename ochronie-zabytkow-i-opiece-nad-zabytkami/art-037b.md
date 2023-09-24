@@ -1,0 +1,7 @@
+# Art. 37b.
+
+1. Pracami konserwatorskimi oraz pracami restauratorskimi, prowadzonymi przy zabytkach będących parkami wpisanymi do rejestru albo innego rodzaju zorganizowaną zielenią wpisaną do rejestru kieruje osoba, która ukończyła studia drugiego stopnia lub jednolite studia magisterskie, których program obejmuje zajęcia lub grupy zajęć umożliwiające nabycie wiedzy i umiejętności w tym zakresie, oraz która po rozpoczęciu studiów drugiego stopnia lub po zaliczeniu szóstego semestru jednolitych studiów magisterskich, przez co najmniej 9 miesięcy brała udział w pracach konserwatorskich lub pracach restauratorskich prowadzonych przy tego rodzaju zabytkach wpisanych do rejestru, lub była zatrudniona przy tych pracach w muzeum będącym instytucją kultury.
+
+2. Przepis ust. 1 stosuje się do osób, które samodzielnie wykonują prace konserwatorskie oraz prace restauratorskie, prowadzone przy zabytkach będących parkami wpisanymi do rejestru albo innego rodzaju zorganizowaną zielenią wpisaną do rejestru.
+
+3. Prace o charakterze technicznym w zakresie, o którym mowa w ust. 1, samodzielnie wykonuje osoba, która posiada świadectwo ukończenia szkoły średniej zawodowej oraz tytuł zawodowy albo wykształcenie średnie lub średnie branżowe i dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodach związanych z pielęgnacją zieleni, albo przez co najmniej 9 miesięcy brała udział w tego rodzaju pracach prowadzonych przy zabytkach wpisanych do rejestru lub była zatrudniona przy tych pracach w muzeum będącym instytucją kultury.
