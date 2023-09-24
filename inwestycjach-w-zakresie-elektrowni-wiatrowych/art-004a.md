@@ -1,0 +1,35 @@
+# Art. 4a.
+
+1. W przypadku lokalizowania elektrowni wiatrowej odległość tej elektrowni od sieci elektroenergetycznej najwyższych napięć jest równa lub większa od trzykrotności maksymalnej średnicy wirnika wraz z łopatami albo równa lub większa od dwukrotności maksymalnej całkowitej wysokości elektrowni wiatrowej, określonych w planie miejscowym, w zależności od tego, która z tych wartości jest większa.
+
+2. W przypadku budowy lub przebudowy elektrowni wiatrowej odległość tej elektrowni od sieci elektroenergetycznej najwyższych napięć jest równa lub większa od trzykrotności średnicy wirnika wraz z łopatami albo równa lub większa od dwukrotności całkowitej wysokości elektrowni wiatrowej, w zależności od tego, która z tych wartości jest większa.
+
+3. W przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć na podstawie planu miejscowego, decyzji WZ, decyzji LICP albo decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, a także jej budowy lub przebudowy na podstawie pozwolenia na budowę albo zgłoszenia, o którym mowa w przepisach prawa budowlanego, odległość tej sieci od elektrowni wiatrowej jest równa lub większa od trzykrotności maksymalnej średnicy wirnika wraz z łopatami albo równa lub większa od dwukrotności maksymalnej całkowitej wysokości elektrowni wiatrowej, określonej w planie miejscowym, decyzji WZ albo decyzji LICP, w zależności od tego, która z tych wartości jest większa.
+
+4. W przypadku lokalizowania, budowy lub przebudowy sieci elektroenergetycznej najwyższych napięć, jeżeli maksymalna średnica wirnika wraz z łopatami i maksymalna całkowita wysokość elektrowni wiatrowej nie są określone w planie miejscowym, decyzji WZ albo decyzji LICP, operator we wniosku o wszczęcie postępowania w sprawie wydania decyzji albo w zgłoszeniu, o których mowa w ust. 3, albo we wniosku, o którym mowa w art. 17 pkt 1 albo 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, wskazuje odległość sieci elektroenergetycznej najwyższych napięć od elektrowni wiatrowej.
+
+5. W szczególnie uzasadnionych przypadkach, we wniosku o wszczęcie postępowania w sprawie wydania decyzji albo w zgłoszeniu, o których mowa w ust. 3, albo we wniosku, o którym mowa w art. 17 pkt 1 albo 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, operator może wskazać odległość sieci elektroenergetycznej najwyższych napięć od elektrowni wiatrowej mniejszą niż odległość, o której mowa w ust. 3. We wniosku operator przedstawia uzasadnienie dla wskazanej odległości.
+
+6. Przez odległość, o której mowa w ust. 1-5, rozumie się najkrótsze odcinki między:
+
+- 1) rzutem poziomym istniejącej sieci elektroenergetycznej najwyższych napięć, albo
+
+- 2) granicą terenu objętego wnioskiem, na podstawie którego wszczęto postępowanie w sprawie wydania decyzji o środowiskowych uwarunkowaniach, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, o ile nie zostało wszczęte postępowanie w sprawie wydania decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, ani pozwolenia na budowę, lub o ile te decyzje nie zostały wydane, albo nie zostały wniesione zgłoszenia, o których mowa w przepisach prawa budowlanego, albo
+
+- 3) granicą terenu objętego wnioskami o wydanie decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, albo granicą terenu objętego tymi decyzjami, o ile zostały wydane, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, o ile nie zostało wniesione zgłoszenie, o którym mowa w przepisach prawa budowlanego, albo wszczęte postępowanie w sprawie wydania pozwolenia na budowę, lub o ile ta decyzja nie została wydana, albo
+
+- 4) granicą terenu objętego zgłoszeniem, o którym mowa w przepisach prawa budowlanego, wnioskiem o wydanie pozwolenia na budowę, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, albo
+
+- 5) linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza realizację inwestycji w zakresie sieci elektroenergetycznych najwyższych napięć,
+
+a:
+
+- 6) okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub zlokalizowanej elektrowni wiatrowej - w przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć, wydawania dla niej pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa w przepisach prawa budowlanego, gdy dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
+
+- 7) linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej, albo granicą terenu objętego decyzją WZ, albo decyzją LICP, na którym jest możliwa lokalizacja elektrowni wiatrowej, albo okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej elektrowni wiatrowej, w zależności od tego, która odległość jest mniejsza - w przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć lub wydawania dla niej pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa w przepisach prawa budowlanego, jeżeli nie dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
+
+- 8) linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej - w przypadku lokalizowania elektrowni wiatrowej, albo
+
+- 9) okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub planowanej elektrowni wiatrowej - w przypadku wydawania pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa w przepisach prawa budowlanego, dla elektrowni wiatrowej.
+
+7. Organ wydający decyzję o środowiskowych uwarunkowaniach, przy wydawaniu tej decyzji dla sieci elektroenergetycznej najwyższych napięć lub dla elektrowni wiatrowej, nie uwzględnia odległości określonych i wskazanych zgodnie z ust. 1-5.
