@@ -1,0 +1,3 @@
+# Art. 44e.
+
+Osoba lub osoby kierujące wydzieloną jednostką organizacyjną nie mogą jednocześnie świadczyć pracy lub wykonywać innych zajęć na jakiejkolwiek podstawie u przedsiębiorcy telekomunikacyjnego, o którym mowa w art. 44b ust. 1, lub w innej niż wydzielona jednostka organizacyjna jednostce organizacyjnej przedsiębiorcy telekomunikacyjnego, o którym mowa w art. 44b ust. 1, lub w spółce od niego zależnej, wobec niego dominującej lub z nim powiązanej w rozumieniu ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych, ani pełnić funkcji w ich organach lub pełnić na rzecz tych podmiotów funkcji doradczych.

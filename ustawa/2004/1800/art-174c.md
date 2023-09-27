@@ -1,0 +1,3 @@
+# Art. 174c.
+
+Prezes Urzędu Ochrony Danych Osobowych, kierując wystąpienie, o którym mowa w art. 52 ust. 1 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych, do dostawcy publicznie dostępnych usług telekomunikacyjnych uwzględnia wytyczne Komisji Europejskiej dotyczące realizacji obowiązku powiadomienia abonenta lub użytkownika końcowego będącego osobą fizyczną o naruszeniu jego danych osobowych i wskazuje okoliczności, formę i sposób takiego powiadomienia. Prezes Urzędu Ochrony Danych Osobowych może udostępniać wystąpienia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, o ile nie będą one zawierać informacji stanowiących tajemnicę przedsiębiorstwa.

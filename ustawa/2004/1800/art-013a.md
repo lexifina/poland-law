@@ -1,0 +1,3 @@
+# Art. 13a.
+
+Przepisy art. 10 ust. 4-6, 8-10 i 12-14 oraz art. 11 i art. 12 stosuje się odpowiednio do wpisów dotyczących działalności, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji. Oświadczenie, o którym mowa w art. 10 ust. 5, w przypadku składającego wniosek o wpis do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji powinno wskazywać również, iż znane mu są i spełnia on warunki wykonywania działalności, której dotyczy wniosek, wynikające z ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych.

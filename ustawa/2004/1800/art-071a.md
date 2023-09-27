@@ -1,0 +1,3 @@
+# Art. 71a.
+
+Abonent, o którym mowa w art. 71, żądając przeniesienia przydzielonego numeru może rozwiązać umowę z dotychczasowym dostawcą usług bez zachowania terminów wypowiedzenia określonych w rozwiązywanej umowie. W takim przypadku abonent jest obowiązany do uiszczenia opłaty dotychczasowemu dostawcy usług w wysokości nieprzekraczającej opłaty abonamentowej za okres wypowiedzenia, nie wyższej jednak niż opłata abonamentowa za jeden okres rozliczeniowy, powiększonej o roszczenie związane z ulgą przyznaną abonentowi obliczoną proporcjonalnie do czasu pozostającego do zakończenia trwania umowy.
