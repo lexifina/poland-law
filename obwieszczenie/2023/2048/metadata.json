@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2023/2048",
+ "source_sha256": "a8873a4fbf9176dd3275c1f5d6b7dcf1f51f915c7e7d17eaa10fe3465a7474b0",
+ "in_force": "2023-09-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2023/2048",
+  "html": "https://eli.gov.pl/api/acts/DU/2023/2048/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2023/2048/text/O/D20232048.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2023/2048/text/I/D20232048.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2023/2048/text/T/D20232048L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2023/2048/text/U/D20232048Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2023/2048",
+  "publisher": "DU",
+  "year": 2023,
+  "volume": 0,
+  "pos": 2048,
+  "address": "WDU20230002048",
+  "displayAddress": "Dz.U. 2023 poz. 2048",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o sporcie",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-09-04",
+  "promulgation": "2023-09-28",
+  "expirationDate": "2024-10-07",
+  "changeDate": "2024-10-08T09:37:37",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kultura fizyczna",
+   "sport"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/857"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20232048.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20232048.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20232048L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20232048Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
