@@ -1,0 +1,1 @@
+Na podstawie art. 26 ustawy z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2022 r. poz. 2464 oraz z 2023 r. poz. 1720) zarządza się, co następuje:
