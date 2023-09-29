@@ -1,0 +1,3 @@
+# Art. 19b.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa NBP, określi, w drodze rozporządzenia, kryteria oceny zasad funkcjonowania systemu płatności, szczegółowy zakres informacji i danych oraz rodzaj dokumentów, które należy dołączyć do wniosku o udzielenie zezwolenia na prowadzenie systemu płatności, oraz szczegółowy zakres informacji i danych, o których mowa w art. 17b i art. 18 ust. 6a, mając na względzie konieczność sprawdzenia prawidłowości, bezpieczeństwa i sprawności funkcjonowania systemu płatności oraz kompletności i wiarygodności przekazywanych informacji i dokumentów.
