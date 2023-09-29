@@ -28,7 +28,7 @@
 
 - 2) instrumenty finansowe - oznacza instrumenty finansowe wymienione w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
-- 3) jednostka zależna - oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale lub co najmniej 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50% prawa do uczestnictwa w zysku;
+- 3) jednostka zależna - oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, pkt 4 lit. b-d lub pkt 5 lit. b-d, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale lub co najmniej 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50% prawa do uczestnictwa w zysku;
 
 - 4) podmiot powiązany - oznacza:
 
@@ -82,7 +82,7 @@
 
   - d) faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25% od podatku dochodowego od osób prawnych, który byłby od niej należny z zastosowaniem stawki podatku, o której mowa w art. 19 ust. 1 pkt 1, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu.
 
-3a. Przy wyliczaniu różnicy, o której mowa w ust. 3 pkt 3 lit. c, nie uwzględnia się zagranicznego zakładu zagranicznej jednostki kontrolowanej, który nie podlega opodatkowaniu lub jest zwolniony z podatku w państwie siedziby zagranicznej jednostki kontrolowanej.
+3a. Przy wyliczaniu różnicy, o której mowa w ust. 3 pkt 3 lit. c, pkt 4 lit. b i pkt 5 lit. d, nie uwzględnia się zagranicznego zakładu zagranicznej jednostki kontrolowanej, który nie podlega opodatkowaniu lub jest zwolniony z podatku w państwie siedziby zagranicznej jednostki kontrolowanej.
 
 3b. Sprawowanie kontroli, o której mowa w ust. 3 pkt 3 lit. a, wobec podatkowej grupy kapitałowej, o której mowa w ust. 2 pkt 1 lit. f, ustala się poprzez odniesienie się do spółki dominującej lub wobec wszystkich spółek z grupy.
 
@@ -92,7 +92,7 @@
 
 3e. Za przychody, o których mowa w ust. 3 pkt 3 lit. b, uważa się również przychody przypisane zgodnie z art. 5.
 
-3f. Wartość bilansową aktywów jednostki oraz odpisów amortyzacyjnych, o których mowa w ust. 3 pkt 5 lit. b, określa się na koniec roku, za który ma być zapłacony podatek.
+3f. Wartość bilansową aktywów jednostki oraz odpisów amortyzacyjnych, o których mowa w ust. 3 pkt 5 lit. b, określa się na ostatni dzień roku podatkowego. Jeżeli przed końcem tego roku podatkowego jednostka zbyła aktywa odpowiadające co najmniej 25% wartości bilansowej wszystkich aktywów określonej na ostatni dzień poprzedniego roku podatkowego, wartość bilansową zbytych aktywów określa się na dzień poprzedzający dzień ich zbycia i uwzględnia się w wartości, o której mowa w ust. 3 pkt 5 lit. b, w proporcji, w jakiej pozostaje liczba dni, w których te zbyte aktywa były własnością jednostki w roku podatkowym, do całkowitej liczby dni w tym roku.
 
 4. Podstawę opodatkowania, o której mowa w ust. 1, stanowi kwota odpowiadająca dochodowi zagranicznej jednostki kontrolowanej proporcjonalnie do okresu, w którym jednostka zagraniczna była kontrolowana przez podatnika w jej roku podatkowym, albo do okresu, o którym mowa w ust. 8 albo 9, w takiej części, jaka odpowiada posiadanym prawom do uczestnictwa w zysku tej jednostki, po odliczeniu kwot:
 
@@ -110,6 +110,12 @@
 
 6b. Wartość aktywów, o których mowa w ust. 6a, określa się na podstawie ich wartości bilansowej ustalonej na podstawie przepisów o rachunkowości na koniec roku, za który ma być zapłacony podatek.
 
+6c. Dla celów ustalania dochodu, o którym mowa w ust. 6:
+
+- 1) uwzględnia się również przychody i koszty przypisane zgodnie z art. 5;
+
+- 2) nie stosuje się ulg i zwolnień wynikających z ustawy, z wyjątkiem określonych w niniejszym artykule.
+
 7. Jeżeli nie jest możliwe ustalenie wysokości prawa do uczestnictwa w zysku zagranicznej jednostki kontrolowanej albo nastąpiło wyłączenie lub ograniczenie tego prawa, dla jego ustalenia przyjmuje się najwyższy, określony procentowo, udział podatnika w kapitale lub prawie głosu w organach kontrolnych, stanowiących lub zarządzających tej jednostki.
 
 8. W przypadku zagranicznej jednostki kontrolowanej, o której mowa w ust. 3 pkt 1, dla ustalenia prawa do uczestnictwa w zysku zagranicznej jednostki kontrolowanej przyjmuje się, że podatnikowi albo podatnikowi wspólnie z innymi podatnikami, o których mowa w art. 3 ust. 1, lub podatnikami, o których mowa w art. 3 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, przysługiwały, przez cały rok podatkowy, o którym mowa w ust. 6, wszystkie prawa do uczestnictwa w zysku tej jednostki. W przypadku braku przeciwnego dowodu przyjmuje się, że udziały tych podatników związane z prawem do uczestnictwa w zysku są równe.
@@ -118,7 +124,7 @@
 
 10. W przypadku zagranicznej jednostki kontrolowanej, o której mowa w ust. 3 pkt 2, przepisu ust. 1 nie stosuje się, jeżeli podatnik wykaże, że nie jest spełniony co najmniej jeden z warunków określonych w ust. 3 pkt 3. Przepis ust. 13 stosuje się.
 
-11. Podatek do zapłaty przez podatnika z tytułu kontroli nad zagraniczną jednostką kontrolowaną, obliczony zgodnie z ust. 4 i 4a, pomniejsza się o podatek zapłacony przez jednostkę zależną na podstawie przepisów o kontrolowanych spółkach lub jednostkach zagranicznych obowiązujących w państwie siedziby, zarządu, rejestracji lub położenia jednostki zależnej, jeżeli jednostka zależna:
+11. Podatek obliczony zgodnie z ust. 1 przez podatnika z tytułu kontroli nad zagraniczną jednostką kontrolowaną pomniejsza się o podatek zapłacony przez jednostkę zależną na podstawie przepisów o kontrolowanych spółkach lub jednostkach zagranicznych, obowiązujących w państwie siedziby, zarządu, rejestracji lub położenia jednostki zależnej, w części, jaka odpowiada posiadanym prawom do uczestnictwa w zysku tej jednostki zależnej, jeżeli ta jednostka zależna:
 
 - 1) posiada bezpośrednio lub pośrednio co najmniej 50% prawa do uczestnictwa w zysku w tej zagranicznej jednostce kontrolowanej oraz
 
@@ -134,9 +140,7 @@
 
 15. W celu obliczenia udziału pośredniego przepis art. 11a ust. 3 stosuje się odpowiednio.
 
-16. Przepisów ust. 1, 13a i 14 nie stosuje się, jeżeli zagraniczna jednostka kontrolowana, podlegająca opodatkowaniu od całości swoich dochodów w państwie członkowskim Unii Europejskiej lub w państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzi w tym państwie istotną rzeczywistą działalność gospodarczą.
-
-17. (uchylony)
+16. Przepisów ust. 1, 13a i 14 nie stosuje się, jeżeli zagraniczna jednostka kontrolowana, podlegająca opodatkowaniu od całości swoich dochodów w państwie członkowskim Unii Europejskiej lub w państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzi w tym państwie istotną rzeczywistą działalność gospodarczą. 17. (uchylony)
 
 18. Przy ocenie, czy zagraniczna jednostka kontrolowana prowadzi rzeczywistą działalność gospodarczą, bierze się pod uwagę w szczególności, czy:
 

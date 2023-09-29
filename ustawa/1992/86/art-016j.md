@@ -49,3 +49,5 @@
 - 2) platform wiertniczych lub produkcyjnych
 
 - z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.
+
+12. Minister właściwy do spraw finansów publicznych, w terminie do dnia 31 grudnia każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wartości wskaźników, o których mowa w ust. 11.

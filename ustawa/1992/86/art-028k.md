@@ -22,7 +22,7 @@
 
 - 6) podatników, którzy:
 
-  - a) zostali podzieleni przez wydzielenie albo
+  - a) zostali podzieleni przez wydzielenie albo wyodrębnienie albo
 
   - b) wnieśli tytułem wkładu do innego podmiotu, w tym na poczet kapitału: - uprzednio prowadzone przez siebie przedsiębiorstwo, zorganizowaną część przedsiębiorstwa albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty 10 000 euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w pierwszym dniu roboczym miesiąca poprzedzającego miesiąc, w którym wniesiono te składniki majątku, w zaokrągleniu do 1000 zł, przy czym wartość tych składników oblicza się, stosując odpowiednio przepisy art. 14, lub - składniki majątku uzyskane przez tego podatnika w wyniku likwidacji innych podatników, jeżeli ten podatnik posiadał udziały (akcje) tych innych likwidowanych podatników - w roku podatkowym, w którym dokonano podziału albo wniesiono wkład, oraz w roku podatkowym bezpośrednio po nim następującym, nie krócej jednak niż przez okres 24 miesięcy od dnia dokonania podziału albo wniesienia wkładu.
 

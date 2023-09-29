@@ -40,7 +40,7 @@
 
 7. Minister właściwy do spraw finansów publicznych odmawia, w drodze decyzji, usunięcia lub sprostowania indywidualnych danych podatnika podanych do publicznej wiadomości, jeżeli spowodowałoby to niezgodność ze stanem faktycznym.
 
-8. Indywidualne dane podatnika podane do publicznej wiadomości podlegają kwartalnej aktualizacji według stanu na pierwszy dzień miesiąca, w którym kończy się dany kwartał roku kalendarzowego.
+8. Indywidualne dane podatnika podane do publicznej wiadomości podlegają aktualizacji raz do roku w terminie, o którym mowa w ust. 1, według stanu na dzień, o którym mowa w tym przepisie.
 
 9. Indywidualne dane podatnika podane do publicznej wiadomości są publikowane przez okres 5 lat, licząc od końca roku kalendarzowego, w którym zostały opublikowane.
 

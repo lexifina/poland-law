@@ -8,6 +8,8 @@
 
 1a. W przypadku gdy rok podatkowy podatnika jest dłuższy albo krótszy niż 12 miesięcy, kwotę, o której mowa w ust. 1 pkt 1, oblicza się, mnożąc kwotę 250 000 zł przez liczbę rozpoczętych miesięcy roku podatkowego podatnika.
 
+1b. Przepis ust. 1 pkt 1 nie ma zastosowania do kosztów finansowania dłużnego związanych z uzyskaniem, bezpośrednio lub pośrednio, środków finansowych od fundacji rodzinnej.
+
 2. W przypadku podatkowych grup kapitałowych kwota obliczona zgodnie z ust. 1 zwiększa dochód (zmniejsza stratę) podatkowej grupy kapitałowej. Przepis ust. 7 stosuje się odpowiednio.
 
 3. Przez nadwyżkę kosztów finansowania dłużnego rozumie się kwotę, o jaką poniesione przez podatnika koszty finansowania dłużnego, podlegające zaliczeniu do kosztów uzyskania przychodów w roku podatkowym, przewyższają uzyskane przez podatnika w tym roku podatkowym podlegające opodatkowaniu przychody o charakterze odsetkowym.
@@ -56,7 +58,7 @@
 
 - 5) towarzystwo, zarządzającego alternatywną spółką inwestycyjną, spółkę zarządzającą oraz zarządzającego z Unii Europejskiej, o których mowa odpowiednio w art. 2 pkt 3, 3a, 10 i 10c ustawy o funduszach inwestycyjnych;
 
-- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2022 r. poz. 2283);
+- 6) krajowy zakład ubezpieczeń oraz zagraniczny zakład ubezpieczeń w rozumieniu odpowiednio art. 3 ust. 1 pkt 18 i 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614, 825, 1723, 1843 i 1941);
 
 - 7) krajowy zakład reasekuracji oraz zagraniczny zakład reasekuracji w rozumieniu odpowiednio art. 3 ust. 1 pkt 19 i 56 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
 
@@ -70,7 +72,7 @@
 
 - 12) pracodawcę zagranicznego w rozumieniu art. 8 pkt 10 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
 
-- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2021 r. poz. 2139 oraz z 2022 r. poz. 904);
+- 13) zarządzającego zagranicznego w rozumieniu art. 2 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2023 r. poz. 710 i 1941);
 
 - 14) fundusze inwestycyjne otwarte oraz alternatywne fundusze inwestycyjne utworzone na podstawie ustawy o funduszach inwestycyjnych;
 
@@ -78,7 +80,7 @@
 
 - 16) centralny depozyt papierów wartościowych w rozumieniu art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2022 r. poz. 246 i 2339).
+17. Za przedsiębiorstwo finansowe nie uważa się instytucji pożyczkowych, o których mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028, 1285, 1394 i 1723).
 
 18. Koszty finansowania dłużnego wyłączone w roku podatkowym z kosztów uzyskania przychodów zgodnie z ust. 1 podlegają zaliczeniu do takich kosztów w następnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1-17 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.
 

@@ -16,9 +16,9 @@
 
   - f) równowartość zysku osoby prawnej oraz spółki, o której mowa w art. 1 ust. 3, przeznaczonego na podwyższenie jej kapitału zakładowego, równowartość nadwyżki bilansowej spółdzielni przeznaczonej na podwyższenie funduszu udziałowego oraz równowartość kwot przekazanych na ten kapitał (fundusz) z innych kapitałów (funduszy) takiej osoby prawnej lub spółki,
 
-  - g) dopłaty otrzymane w przypadku połączenia lub podziału podmiotów przez osoby posiadające prawo do uczestnictwa w zysku podmiotu przejmowanego, łączonego lub dzielonego lub
+  - g) dopłaty otrzymane w przypadku połączenia lub podziału podmiotów lub
 
-  - h) przychody wspólnika spółki dzielonej, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie - majątek przejmowany na skutek podziału lub majątek pozostający w spółce, nie stanowią zorganizowanej części przedsiębiorstwa,
+  - h) przychody wspólnika spółki dzielonej, z wyjątkiem podziału przez wyodrębnienie, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie - majątek przejmowany na skutek podziału lub majątek pozostający w spółce, nie stanowią zorganizowanej części przedsiębiorstwa,
 
   - i) zapłata, o której mowa w art. 12 ust. 4d,
 

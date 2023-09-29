@@ -54,7 +54,7 @@
 
 4. Do ukrytych zysków, o których mowa w ust. 1 pkt 2, nie zalicza się:
 
-- 1) wynagrodzeń z tytułów, o których mowa w art. 12 ust. 1 oraz art. 13 pkt 7, 8 i 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz zasiłków pieniężnych z ubezpieczenia społecznego wypłaconych osobie fizycznej - w części, w jakiej suma tych wynagrodzeń i zasiłków wypłacona w danym miesiącu tej osobie nie przekracza pięciokrotności średniego miesięcznego wynagrodzenia wypłacanego przez podatnika z tytułów, o których mowa w art. 12 ust. 1 oraz art. 13 pkt 7, 8 i 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, nie więcej jednak niż pięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, przy czym średnie i przeciętne miesięczne wynagrodzenie ustala się za miesiąc poprzedzający miesiąc dokonania wypłat osobie fizycznej;
+- 1) wynagrodzeń z tytułów, o których mowa w art. 12 ust. 1 oraz art. 13 pkt 7, 8 i 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz zasiłków pieniężnych z ubezpieczenia społecznego wypłaconych osobie fizycznej - w części, w jakiej suma tych wynagrodzeń i zasiłków wypłacona w danym miesiącu tej osobie nie przekracza pięciokrotności średniego miesięcznego wynagrodzenia wypłacanego przez podatnika z tytułów, o których mowa w art. 12 ust. 1 oraz art. 13 pkt 7, 8 i 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, nie więcej jednak niż pięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, przy czym średnie miesięczne wynagrodzenie ustala się za miesiąc poprzedzający miesiąc dokonania wypłat osobie fizycznej;
 
 - 2) wydatków i odpisów amortyzacyjnych oraz odpisów z tytułu trwałej utraty wartości, związanych z używaniem samochodów osobowych, środków transportu lotniczego, taboru pływającego oraz innych składników majątku:
 
@@ -64,7 +64,13 @@
 
 - 3) kwoty pożyczki (kredytu) zwróconej przez podatnika udziałowcowi akcjonariuszowi lub wspólnikowi lub podmiotowi powiązanemu, z wyłączeniem odsetek, prowizji, wynagrodzeń i opłat.
 
-5. W przypadku, o którym mowa w ust. 4 pkt 2 lit. a, ciężar dowodu, że składnik majątku jest wykorzystywany wyłącznie na cele działalności gospodarczej, spoczywa na podatniku.
+4a. Do wydatków niezwiązanych z działalnością gospodarczą, o których mowa w ust. 1 pkt 3, nie zalicza się wydatków i odpisów amortyzacyjnych oraz odpisów z tytułu trwałej utraty wartości, związanych z używaniem samochodów osobowych, środków transportu lotniczego, taboru pływającego oraz innych składników majątku:
+
+- 1) w pełnej wysokości - w przypadku składników majątku wykorzystywanych wyłącznie na cele działalności gospodarczej;
+
+- 2) w wysokości 50% - w przypadku składników majątku, które nie są wykorzystywane wyłącznie na cele działalności gospodarczej.
+
+5. W przypadkach, o których mowa w ust. 4 pkt 2 lit. a oraz ust. 4a pkt 1, ciężar dowodu, że składnik majątku jest wykorzystywany wyłącznie na cele działalności gospodarczej, spoczywa na podatniku.
 
 6. Wartość rynkową składnika majątku, o której mowa w ust. 1 pkt 4, określa się:
 

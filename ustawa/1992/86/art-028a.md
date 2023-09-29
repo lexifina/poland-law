@@ -2,7 +2,7 @@
 
 1. Minister właściwy do spraw finansów publicznych udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu ustalone wzory:
 
-- 1) deklaracji i informacji, o których mowa w art. 18ee ust. 10, art. 24f ust. 12, art. 24j ust. 1, art. 26 ust. 3 i 6, art. 26a, art. 28r ust. 1 oraz art. 38eb ust. 7;
+- 1) deklaracji i informacji, o których mowa w art. 18ee ust. 10, art. 24f ust. 12, art. 24j ust. 1, art. 24s ust. 1, art. 26 ust. 3 i 6, art. 26a, art. 28r ust. 1 oraz art. 38eb ust. 7;
 
 - 2) zeznań, o których mowa w art. 27 ust. 1 i 2a;
 

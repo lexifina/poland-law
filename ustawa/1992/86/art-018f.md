@@ -6,7 +6,9 @@
 
 - 2) podlega zwiększeniu o zaliczaną do kosztów uzyskania przychodów wartość zobowiązania do zapłaty świadczenia pieniężnego w rozumieniu art. 4 pkt 1a ustawy o przeciwdziałaniu nadmiernym opóźnieniom, które nie zostało uregulowane, przy czym zwiększenia dokonuje się w zeznaniu podatkowym składanym za rok podatkowy, w którym upłynęło 90 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie.
 
-2. Jeżeli podatnik poniósł stratę, o której mowa w art. 7 ust. 2, z którą związana jest transakcja handlowa w rozumieniu ustawy o przeciwdziałaniu nadmiernym opóźnieniom, kwota straty:
+1a. Jeżeli podatnik uzyskuje dochody opodatkowane różnymi stawkami, zwiększeń i zmniejszeń, o których mowa w ust. 1, dokonuje się od każdej podstawy opodatkowania w takim stosunku, w jakim w roku podatkowym pozostają dochody opodatkowane różnymi stawkami w ogólnej kwocie dochodów.
+
+2. Jeżeli podatnik poniósł stratę ze źródła, z którym związana jest transakcja handlowa w rozumieniu art. 4 pkt 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom, kwota straty:
 
 - 1) może być zwiększona o zaliczaną do przychodów należnych wartość wierzytelności o zapłatę świadczenia pieniężnego, w rozumieniu art. 4 pkt 1a ustawy o przeciwdziałaniu nadmiernym opóźnieniom, która nie została uregulowana lub zbyta, przy czym zwiększenia dokonuje się w zeznaniu podatkowym składanym za rok podatkowy, w którym upłynęło 90 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie;
 
@@ -50,4 +52,4 @@
 
 18. Przepisów ust. 1 i 2 nie stosuje się do transakcji handlowych dokonywanych między podmiotami powiązanymi w rozumieniu art. 11a ust. 1 pkt 4.
 
-19. Podatnicy dokonujący zwiększenia lub zmniejszenia, o których mowa w ust. 1-4 albo ust. 7 i 8, obowiązani są wykazać w zeznaniu podatkowym wierzytelności lub zobowiązania, z którymi związane są te zwiększenia lub zmniejszenia.
+19. (uchylony)

@@ -1,6 +1,6 @@
 # Art. 38f.
 
-1. Podatnicy, którzy z powodu COVID-19, w rozumieniu ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.), zwanej dalej „ustawą o COVID-19”:
+1. Podatnicy, którzy z powodu COVID-19, w rozumieniu ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2023 r. poz. 1327, 1429, 1723, 1860 i 2029), zwanej dalej „ustawą o COVID-19”:
 
 - 1) ponieśli stratę w roku podatkowym, który rozpoczął się przed dniem 1 stycznia 2020 r. a zakończy się po dniu 31 grudnia 2019 r., lub rozpoczął się po dniu 31 grudnia 2019 r. a przed dniem 1 stycznia 2021 r. oraz
 

@@ -2,5 +2,5 @@
 
 Dz.U. 1992 nr 21 poz. 86 · <https://eli.gov.pl/api/acts/DU/1992/86>
 
-Tekst jednolity: Dz.U. 2022 poz. 2587 (2022-12-13), stan na 2022-09-20.
+Tekst jednolity: Dz.U. 2023 poz. 2805 (2023-12-29), stan na 2023-09-29.
 

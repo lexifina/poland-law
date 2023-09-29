@@ -1,6 +1,6 @@
 ## Oddział 6
 
-## (uchylony))
+## (uchylony)
 
 ## Oddział 7 Obowiązki informacyjne
 

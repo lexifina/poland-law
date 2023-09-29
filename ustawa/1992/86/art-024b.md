@@ -8,7 +8,7 @@
 
 - 3) jest położony na terytorium Rzeczypospolitej Polskiej
 
-‒ zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
+- zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
 
 2. Zwalnia się od podatku od przychodów z budynków przychód ze środka trwałego będącego budynkiem mieszkalnym oddanym do używania w ramach realizacji programów rządowych i samorządowych dotyczących budownictwa społecznego, jeżeli zwolnienie to stanowi rekompensatę spełniającą warunki określone w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 
@@ -40,9 +40,9 @@
 
 14. Kwotę zapłaconego i nieodliczonego w roku podatkowym podatku od przychodów z budynków odlicza się od podatku obliczonego zgodnie z art. 19 za rok podatkowy. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 27 ust. 1.
 
-15. Kwota podatku od przychodów z budynków nieodliczona na podstawie ust. 14 podlega zwrotowi na wniosek podatnika, jeżeli organ podatkowy nie stwierdzi nieprawidłowości wysokości zobowiązania podatkowego lub straty, obliczonych zgodnie z art. 19 w złożonym zeznaniu podatkowym, oraz podatku od przychodów z budynków, w szczególności jeżeli koszty finansowania dłużnego poniesione w związku z nabyciem lub wytworzeniem budynku, jak również inne przychody i koszty ustalone zostały na warunkach rynkowych.
+15. Kwota podatku od przychodów z budynków nieodliczona na podstawie ust. 14 podlega zwrotowi na wniosek podatnika bez wydawania decyzji o zwrocie podatku, jeżeli wniosek nie budzi wątpliwości.
 
-16. Jeżeli organ podatkowy określi zobowiązanie podatkowe lub stratę w innej wysokości niż wynikająca z zeznania podatkowego, o którym mowa w ust. 15, podatnikowi przysługuje prawo do zwrotu w wysokości:
+16. Jeżeli organ podatkowy określi zobowiązanie podatkowe lub stratę w innej wysokości niż wynikająca z zeznania podatkowego, podatnikowi przysługuje prawo do zwrotu w wysokości:
 
 - 1) różnicy pomiędzy kwotą zapłaconego i nieodliczonego podatku od przychodów z budynków a kwotą podatku określoną przez organ podatkowy zgodnie z art. 19 - w przypadku określenia przez organ podatkowy zobowiązania podatkowego, albo
 
@@ -51,3 +51,5 @@
 17. W przypadku gdy budynek został oddany do używania na podstawie umowy leasingu w rozumieniu art. 17a pkt 1, przepisy ust. 1-16 stosuje się wyłącznie do podmiotu dokonującego odpisów amortyzacyjnych zgodnie z art. 16a-16m.
 
 18. Przepisy ust. 1-17 stosuje się również w przypadku, gdy podatnik bez uzasadnionych przyczyn ekonomicznych przeniesie w całości albo w części własność albo współwłasność budynku albo odda do używania budynek na podstawie umowy leasingu w rozumieniu art. 17f, w celu uniknięcia podatku od przychodów z budynków. W takim przypadku u podmiotu, na który zostały przeniesione własność albo współwłasność budynku albo jego części, albo podmiotu, który przyjął do używania budynek na podstawie tej umowy, nie ustala się przychodu, o którym mowa w ust. 1, w zakresie dotyczącym tego budynku albo jego części.
+
+19. Przepisy ust. 1-14 stosuje się odpowiednio do fundacji rodzinnej.

@@ -32,7 +32,7 @@
 
 3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością.
 
-3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2021 r. poz. 706 oraz z 2022 r. poz. 1079), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
+3a. W przypadku podatników posiadających status centrum badawczo-rozwojowego, o którym mowa w art. 17 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2022 r. poz. 2474), za koszty kwalifikowane, oprócz kosztów wymienionych w ust. 2-3, uznaje się także:
 
 - 1) dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od budowli, budynków i lokali będących odrębną własnością wykorzystywanych w prowadzonej działalności badawczo-rozwojowej;
 

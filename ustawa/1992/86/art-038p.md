@@ -4,7 +4,7 @@
 
 - 1) organom prowadzącym placówki oświatowe;
 
-- 2) organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, lub operatorowi OSE, o którym mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2021 r. poz. 989 oraz z 2022 r. poz. 1002), z przeznaczeniem na cele dalszego nieodpłatnego przekazania organom prowadzącym placówki oświatowe lub placówkom oświatowym.
+- 2) organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, lub operatorowi OSE, o którym mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2022 r. poz. 2454), z przeznaczeniem na cele dalszego nieodpłatnego przekazania organom prowadzącym placówki oświatowe lub placówkom oświatowym.
 
 2. Przez placówkę oświatową rozumie się:
 
@@ -12,7 +12,7 @@
 
 - 2) uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-- 3) placówki opiekuńczo-wychowawcze w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140).
+- 3) placówki opiekuńczo-wychowawcze w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2023 r. poz. 1426 i 1429).
 
 3. Odliczenie stosuje się w przypadku, gdy przedmiotem darowizny są komputery, o których mowa w ust. 1, kompletne, zdatne do użytku i wyprodukowane nie wcześniej niż 3 lata przed dniem ich przekazania.
 

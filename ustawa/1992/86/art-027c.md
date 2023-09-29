@@ -26,7 +26,7 @@
 
   - c) wiążącej informacji stawkowej, o której mowa w art. 42a ustawy o podatku od towarów i usług,
 
-  - d) wiążącej informacji akcyzowej, o której mowa w art. 7d ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, 1137, 1488, 1967, 2180 i 2236),
+  - d) wiążącej informacji akcyzowej, o której mowa w art. 7d ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723),
 
 - 5) informacje dotyczące dokonywania rozliczeń podatkowych podatnika na terytoriach lub w krajach stosujących szkodliwą konkurencję podatkową wskazanych w aktach wykonawczych wydanych na podstawie art. 11j ust. 2 i na podstawie art. 23v ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej
 
@@ -50,6 +50,6 @@
 
 11. Przepisy ust. 1-10 nie mają zastosowania do podatnika będącego:
 
-- 1) stroną umowy o współdziałanie, o której mowa w art. 20s ust. 1 Ordynacji podatkowej;
+- 1) stroną umowy o współdziałanie, o której mowa w art. 20s § 1 Ordynacji podatkowej;
 
 - 2) uczelnią w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.

@@ -36,7 +36,7 @@
 
 5. W przypadku, o którym mowa w:
 
-- 1) ust. 4 pkt 1 - podatnik dokonuje zapłaty podatku należnego z końcem pierwszego miesiąca następującego po ostatnim roku opodatkowania ryczałtem od dochodów spółek, jeżeli podatnik stosował to opodatkowanie krócej niż cztery lata podatkowe, przy czym w przypadku stosowania opodatkowania ryczałtem od dochodów spółek w sposób nieprzerwany przez okres dłuższy niż cztery lata podatkowe zobowiązanie podatkowe wygasa w całości;
+- 1) ust. 4 pkt 1 - podatnik dokonuje zapłaty podatku należnego z końcem pierwszego miesiąca następującego po ostatnim roku opodatkowania ryczałtem od dochodów spółek, jeżeli podatnik stosował to opodatkowanie krócej niż cztery lata podatkowe, przy czym w przypadku stosowania opodatkowania ryczałtem od dochodów spółek w sposób nieprzerwany przez okres co najmniej czterech lat podatkowych zobowiązanie podatkowe wygasa w całości;
 
 - 2) ust. 4 pkt 2 - podatnik dokonuje zapłaty podatku w całości w terminie wskazanym w art. 27 ust. 1 albo w częściach w okresie nie dłuższym niż 2 lata, licząc od końca pierwszego roku opodatkowania ryczałtem od dochodów spółek, przy czym o sposobie przyjętego rozliczenia podatnik informuje w zeznaniu, o którym mowa w art. 27 ust. 1.
 
@@ -54,4 +54,4 @@
 
 - 3) ustala podatek należny od dochodu stanowiącego różnicę między przychodami a kosztami, o których mowa w ust. 2 pkt 1 i 2, oraz podatek należny od dochodu z przekształcenia, według stawki, o której mowa w art. 19 ust. 1 pkt 1;
 
-- 4) dokonuje zapłaty podatku należnego od dochodu z przekształcenia, o którym mowa w pkt 3, w całości w terminie wskazanym w art. 27 ust. 1 albo w częściach w okresie nie dłuższym niż 2 lata, licząc od końca pierwszego roku opodatkowania ryczałtem od dochodów spółek; o sposobie przyjętego rozliczenia podatnik informuje w zeznaniu, o którym mowa w art. 27 ust. 1.
+- 4) dokonuje zapłaty podatku należnego od dochodu z przekształcenia, o którym mowa w pkt 3, w całości do końca trzeciego miesiąca pierwszego roku opodatkowania ryczałtem od dochodów spółek albo w częściach w okresie nie dłuższym niż 2 lata, licząc od końca pierwszego roku opodatkowania ryczałtem od dochodów spółek, przy czym o sposobie przyjętego rozliczenia podatnik informuje w zeznaniu, o którym mowa w art. 27 ust. 1, składanym w terminie określonym w pkt 2.

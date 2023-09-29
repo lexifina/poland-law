@@ -8,7 +8,7 @@
 
 - 2) przez 24 miesiące poprzedzające dzień zawarcia umowy nie posiadała zaległości w podatkach stanowiących dochód budżetu państwa, przekraczających 3% kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, przy czym udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
 
-- 3) przez 24 miesiące poprzedzające dzień zawarcia umowy osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem organów zarządzających, osobą prowadzącą księgi rachunkowe, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz. U. z 2022 r. poz. 859 i 1301) za popełnienie przestępstwa skarbowego;
+- 3) przez 24 miesiące poprzedzające dzień zawarcia umowy osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem organów zarządzających, osobą prowadzącą księgi rachunkowe, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz. U. z 2023 r. poz. 654 i 818) za popełnienie przestępstwa skarbowego;
 
 - 4) jest uprawniona do zawodowego wykonywania doradztwa podatkowego zgodnie z przepisami o doradztwie podatkowym lub do usługowego prowadzenia ksiąg rachunkowych zgodnie z przepisami o rachunkowości.
 
@@ -26,6 +26,6 @@
 
 7. W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, spółka nieruchomościowa podlega karze pieniężnej. Karę pieniężną nakłada naczelnik urzędu skarbowego właściwy dla podatnika, w drodze decyzji, w wysokości do 1 000 000 zł.
 
-8. W zakresie nieuregulowanym w ust. 7 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
+8. W zakresie nieuregulowanym w ust. 7 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 9. Do postępowania w sprawie nałożenia kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do dyrektora izby administracji skarbowej.

@@ -12,6 +12,8 @@ Ilekroć w niniejszym rozdziale jest mowa o:
 
 - 2) podziale lub pokryciu wyniku finansowego netto - oznacza to podział lub pokrycie wyniku finansowego netto, o których mowa w przepisach o rachunkowości;
 
+- 2a) przeciętnym miesięcznym wynagrodzeniu w sektorze przedsiębiorstw - oznacza to przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w trzecim kwartale roku kalendarzowego poprzedzającego pierwszy dzień roku podatkowego, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+
 - 3) wyniku finansowym netto - oznacza to wynik finansowy netto ustalany na podstawie przepisów o rachunkowości;
 
 - 4) zysku (stracie) netto - oznacza to zysk (stratę) netto ustalany na podstawie przepisów o rachunkowości;
