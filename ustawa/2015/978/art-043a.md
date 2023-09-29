@@ -2,9 +2,9 @@
 
 1. W przyspieszonym postępowaniu układowym dłużnik składa zaliczkę na pokrycie wynagrodzenia nadzorcy sądowego w terminie:
 
-- 1) siedmiu dni od dnia doręczenia mu postanowienia o otwarciu postępowania - w wysokości 30% wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2,
+- 1) siedmiu dni od dnia doręczenia mu postanowienia o otwarciu postępowania - w wysokości 30 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2,
 
-- 2) dwóch miesięcy od dnia otwarcia postępowania - w wysokości 10% wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2
+- 2) dwóch miesięcy od dnia otwarcia postępowania - w wysokości 10 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2
 
 - pod rygorem umorzenia postępowania.
 
