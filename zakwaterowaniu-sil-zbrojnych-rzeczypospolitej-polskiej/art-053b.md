@@ -1,0 +1,5 @@
+# Art. 53b.
+
+1. Dyrektor oddziału regionalnego Agencji może, pod warunkiem zaspokojenia potrzeb żołnierzy zawodowych i w ramach posiadanych możliwości, wyrazić zgodę na pobyt czasowy w internacie albo w kwaterze internatowej, odwiedzających żołnierza członków rodziny, o których mowa w art. 26 ust. 3, oraz odwiedzających weterana uprawnionego najbliższych członków rodziny, o których mowa w art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa. Pobyt członków rodziny żołnierza i najbliższych członków rodziny weterana uprawnionego nie może przekroczyć łącznie 7 dni w miesiącu.
+
+2. Członkowie rodziny i najbliżsi członkowie rodziny, o których mowa w ust. 1, są obowiązani uiszczać opłaty za korzystanie z internatu albo kwatery internatowej w pełnej wysokości za zajmowaną powierzchnię użytkową. W przypadku gdy członek rodziny odwiedzający żołnierza lub najbliższy członek rodziny odwiedzający weterana uprawnionego korzysta z powierzchni przydzielonej żołnierzowi lub weteranowi uprawnionemu na podstawie skierowania, ponosi opłatę w wysokości połowy kosztów, o których mowa w art. 53 ust. 4.
