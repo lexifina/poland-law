@@ -1,0 +1,3 @@
+# Art. 23f.
+
+W przypadku wprowadzenia przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych, na podstawie art. 28 ust. 1 lit. a rozporządzenia 236/2012, obowiązku zgłaszania Komisji lub podawania do wiadomości publicznej informacji o pozycjach krótkich netto dotyczących określonego instrumentu finansowego lub kategorii instrumentów finansowych albo wprowadzenia przez ten Urząd, na podstawie art. 28 ust. 1 lit. b rozporządzenia 236/2012, zakazu lub ograniczeń w zakresie dokonywania krótkiej sprzedaży lub zawierania innych transakcji, w przypadku których spadek ceny lub wartości instrumentu finansowego wiąże się z uzyskaniem korzyści majątkowej, informacje o wprowadzeniu takiego obowiązku, ograniczenia lub zakazu są zamieszczane na stronach internetowych Komisji.
