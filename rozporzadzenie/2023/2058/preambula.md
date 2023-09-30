@@ -1,0 +1,1 @@
+Na podstawie art. 44zzzv ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) i art. 130 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.) zarządza się, co następuje:
