@@ -1,0 +1,3 @@
+# Art. 112a.
+
+Niezależnie od przepisów obowiązujących w miejscu popełnienia czynu zabronionego, ustawę karną polską stosuje się do obywatela polskiego oraz cudzoziemca w razie popełnienia przestępstwa przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej, jeżeli czyn ten na terytorium Rzeczypospolitej Polskiej wywołał lub mógł wywołać skutek naruszający interes państwa w zakresie ochrony niepodległości, integralności terytorialnej, bezpieczeństwa zewnętrznego i wewnętrznego, obronności, polityki zagranicznej, pozycji międzynarodowej lub potencjału naukowego lub gospodarczego.
