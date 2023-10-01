@@ -1,5 +1,7 @@
 # Art. 75a.
 
+(uchylony)
+
 § 1. Wobec skazanego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, który w okresie próby rażąco narusza porządek prawny, w szczególności gdy popełnił inne przestępstwo niż określone w art. 75 § 1, albo jeżeli uchyla się od uiszczenia grzywny, od dozoru, wykonania nałożonych obowiązków lub orzeczonych środków karnych, środków kompensacyjnych lub przepadku, sąd może, jeżeli cele kary zostaną w ten sposób spełnione, mając na względzie wagę i rodzaj czynu zabronionego przypisanego skazanemu, zamiast zarządzenia wykonania kary pozbawienia wolności zamienić ją na karę ograniczenia wolności w formie obowiązku wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, przyjmując, że jeden dzień kary pozbawienia wolności równa się dwóm dniom kary ograniczenia wolności, albo na grzywnę, przyjmując, że jeden dzień kary pozbawienia wolności równa się dwóm stawkom dziennym grzywny. Kara ograniczenia wolności nie może trwać dłużej niż 2 lata, a grzywna nie może przekroczyć 810 stawek dziennych.
 
 § 2. Przepisu § 1 nie stosuje się:

@@ -1,0 +1,3 @@
+# Art. 64a.
+
+Jeżeli sprawca w ciągu 5 lat po odbyciu co najmniej 6 miesięcy kary pozbawienia wolności orzeczonej za zbrodnię zabójstwa w związku ze zgwałceniem lub za przestępstwo przeciwko wolności seksualnej zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, popełnia ponownie taką zbrodnię lub takie przestępstwo, sąd wymierza karę pozbawienia wolności przewidzianą za przypisane przestępstwo w wysokości od dolnej granicy ustawowego zagrożenia zwiększonego o połowę do górnej granicy ustawowego zagrożenia zwiększonego o połowę. Podwyższenie górnego ustawowego zagrożenia nie dotyczy zbrodni.
