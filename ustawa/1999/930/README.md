@@ -2,5 +2,5 @@
 
 Dz.U. 1999 nr 83 poz. 930 · <https://eli.gov.pl/api/acts/DU/1999/930>
 
-Tekst jednolity: Dz.U. 2023 poz. 654 (2023-04-06), stan na 2022-07-07.
+Tekst jednolity: Dz.U. 2024 poz. 628 (2024-04-24), stan na 2023-10-01.
 
