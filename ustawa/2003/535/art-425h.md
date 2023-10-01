@@ -6,4 +6,4 @@
 
 3. Do dopłat w części niewykorzystanej przepis art. 425e ust. 3 zdanie drugie stosuje się.
 
-4. Po uprawomocnieniu się postanowienia sędziego-komisarza o wyrażeniu zgody na zaprzestanie dalszego prowadzenia przedsięwzięcia deweloperskiego syndyk informuje o tym bank prowadzący mieszkaniowy rachunek powierniczy dla przedsięwzięcia deweloperskiego i składa dyspozycję zwrotu środków znajdujących się na rachunku nabywcom.
+4. Po uprawomocnieniu się postanowienia sędziego-komisarza o wyrażeniu zgody na zaprzestanie dalszego prowadzenia przedsięwzięcia deweloperskiego syndyk informuje o tym bank lub spółdzielczą kasę oszczędnościowo-kredytową prowadzące mieszkaniowy rachunek powierniczy dla przedsięwzięcia deweloperskiego i składa dyspozycję zwrotu środków znajdujących się na rachunku nabywcom.

@@ -6,9 +6,9 @@
 
 - 2) jest lub była zatrudniona przez upadłego na podstawie stosunku pracy albo wykonywała pracę lub świadczyła usługi na rzecz upadłego na podstawie innego stosunku prawnego;
 
-- 3) jest lub była członkiem organu, prokurentem lub pełnomocnikiem upadłego, albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej - więcej niż 5% akcji tej spółki;
+- 3) jest lub była członkiem organu, prokurentem lub pełnomocnikiem upadłego, albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej - więcej niż 5 % akcji tej spółki;
 
-- 4) jest lub była spółką powiązaną z upadłym lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej - więcej niż 5% akcji tej spółki;
+- 4) jest lub była spółką powiązaną z upadłym lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej - więcej niż 5 % akcji tej spółki;
 
 - 5) pełniła funkcję nadzorcy lub zarządcy w prowadzonym wcześniej wobec upadłego postępowaniu restrukturyzacyjnym.
 

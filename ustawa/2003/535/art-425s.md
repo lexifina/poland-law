@@ -12,4 +12,4 @@
 
 6. Syndyk przechowuje środki pieniężne uzyskane z dopłat na odrębnym rachunku bankowym. W przypadku odstąpienia od dalszego prowadzenia przedsięwzięcia deweloperskiego syndyk zwraca dopłaty nabywcom, a zabezpieczenia wpłacenia dopłat wygasają z mocy prawa.
 
-7. Po uprawomocnieniu się postanowienia sędziego-komisarza o wyrażeniu zgody na odstąpienie przez syndyka od kontynuacji przedsięwzięcia deweloperskiego syndyk informuje o tym bank prowadzący mieszkaniowy rachunek powierniczy dla przedsięwzięcia deweloperskiego i składa dyspozycję zwrotu środków znajdujących się na rachunku nabywcom.
+7. Po uprawomocnieniu się postanowienia sędziego-komisarza o wyrażeniu zgody na odstąpienie przez syndyka od kontynuacji przedsięwzięcia deweloperskiego syndyk informuje o tym bank lub spółdzielczą kasę oszczędnościowo-kredytową prowadzące mieszkaniowy rachunek powierniczy dla przedsięwzięcia deweloperskiego i składa dyspozycję zwrotu środków znajdujących się na rachunku nabywcom.

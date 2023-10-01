@@ -4,9 +4,9 @@
 
 2. W przypadku ustalenia, że upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa, plan spłaty wierzycieli nie może być ustalony na okres krótszy niż trzydzieści sześć miesięcy ani dłuższy niż osiemdziesiąt cztery miesiące.
 
-3. W przypadku gdy w drodze wykonania planów podziału oraz planu spłaty wierzycieli dłużnik spłaci co najmniej 70% zobowiązań uznanych na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż rok.
+3. W przypadku gdy w drodze wykonania planów podziału oraz planu spłaty wierzycieli dłużnik spłaci co najmniej 70 % zobowiązań uznanych na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż rok.
 
-4. W przypadku gdy w drodze wykonania planów podziału oraz planu spłaty wierzycieli dłużnik spłaci co najmniej 50% zobowiązań uznanych na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż dwa lata.
+4. W przypadku gdy w drodze wykonania planów podziału oraz planu spłaty wierzycieli dłużnik spłaci co najmniej 50 % zobowiązań uznanych na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż dwa lata.
 
 5. Do okresów spłaty, o których mowa w ust. 2-4, zalicza się okres od upływu sześciu miesięcy od dnia ogłoszenia upadłości do dnia zakończenia postępowania upadłościowego. Do okresu spłaty nie zalicza się okresu warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli.
 

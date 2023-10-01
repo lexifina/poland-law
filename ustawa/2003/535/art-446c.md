@@ -10,7 +10,7 @@
 
   - b) kosztów postępowania upadłościowego w zakresie osobnej masy upadłości wynikających ze sprawozdania syndyka
 
-  - wyniosą co najmniej 5% łącznej kwoty nominalnych wartości znajdujących się w obrocie listów zastawnych; przy czym listy zastawne w zaspokojonej części podlegają umorzeniu.
+  - wyniosą co najmniej 5 % łącznej kwoty nominalnych wartości znajdujących się w obrocie listów zastawnych; przy czym listy zastawne w zaspokojonej części podlegają umorzeniu.
 
 2. Do przekazywania środków, o których mowa w ust. 1 pkt 2, stosuje się odpowiednio przepis art. 446b ust. 7.
 
