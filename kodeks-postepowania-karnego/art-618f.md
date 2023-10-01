@@ -1,6 +1,6 @@
 # Art. 618f.
 
-§ 1. Biegłemu i specjaliście niebędącemu funkcjonariuszem organów procesowych powołanym przez sąd lub organ prowadzący postępowanie przygotowawcze przysługuje wynagrodzenie za wykonaną pracę oraz zwrot poniesionych przez nich wydatków niezbędnych dla wydania opinii.
+§ 1. Biegłemu i specjaliście niebędącemu funkcjonariuszem organów procesowych powołanym przez sąd lub organ prowadzący postępowanie przygotowawcze przysługuje wynagrodzenie za wykonaną pracę oraz zwrot poniesionych przez nich wydatków w zakresie, w jakim bezpośrednio dotyczyły one konkretnej opinii i były niezbędne dla jej wydania.
 
 § 2. Wysokość wynagrodzenia za wykonaną pracę biegłego i specjalisty niebędącego funkcjonariuszem organów procesowych ustala się uwzględniając wymagane kwalifikacje, potrzebny do wydania opinii czas i nakład pracy, a wysokość wydatków, o których mowa w § 1 - na podstawie złożonego rachunku.
 
