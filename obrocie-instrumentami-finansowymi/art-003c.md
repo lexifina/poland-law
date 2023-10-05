@@ -1,0 +1,5 @@
+# Art. 3c.
+
+1. Kryteria częstości i systematyczności, o których mowa w art. 3 pkt 2e, ustala się, z uwzględnieniem art. 12-17 rozporządzenia 2017/565, na podstawie liczby transakcji, których przedmiotem jest dany instrument finansowy, zawieranych na własny rachunek poza systemem obrotu instrumentami finansowymi przez firmę inwestycyjną lub bank, o którym mowa w art. 70 ust. 2, wykonujące zlecenia klientów.
+
+2. Kryterium zawierania transakcji w znacznych wielkościach, o którym mowa w art. 3 pkt 2e, ustala się, z uwzględnieniem art. 12-17 rozporządzenia 2017/565, na podstawie wielkości transakcji zawieranych poza systemem obrotu instrumentami finansowymi przez firmę inwestycyjną lub bank, o którym mowa w art. 70 ust. 2, w odniesieniu do całkowitej wielkości transakcji, których przedmiotem jest dany instrument finansowy, zawieranych przez tę firmę inwestycyjną lub ten bank albo na podstawie wielkości transakcji poza systemem obrotu instrumentami finansowymi zawieranych przez tę firmę inwestycyjną lub ten bank, w odniesieniu do całkowitej wielkości transakcji, których przedmiotem jest dany instrument finansowy, na terytorium Unii Europejskiej.

@@ -1,0 +1,3 @@
+# Art. 30a.
+
+W celu zapewnienia przestrzegania przez spółkę prowadzącą rynek regulowany przepisów ustawy, przepisów wykonawczych wydanych na jej podstawie, przepisów ustawy z dnia 26 października 2000 r. o giełdach towarowych, przepisów rozporządzenia 1031/2010, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 2017/584 oraz innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do spółki prowadzącej rynek regulowany Komisja może zalecić zaprzestanie w wyznaczonym terminie działania naruszającego te przepisy lub niepodejmowanie takiego działania w przyszłości.

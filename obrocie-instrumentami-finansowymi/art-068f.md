@@ -1,0 +1,9 @@
+# Art. 68f.
+
+1. Podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi lub system rozrachunku przekazują Prezesowi Narodowego Banku Polskiego dane dotyczące bieżącego funkcjonowania prowadzonego depozytu papierów wartościowych lub systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi, podmiotu prowadzącego depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi lub system rozrachunku, a także dokonywania rozrachunku lub rozliczeń.
+
+2. Podmioty, o których mowa w ust. 1, przekazują Prezesowi Narodowego Banku Polskiego informacje o zdarzeniach zaistniałych w związku z prowadzeniem depozytu papierów wartościowych, systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi lub systemu rozrachunku, mających lub mogących mieć negatywny wpływ na sprawne lub bezpieczne jego funkcjonowanie (incydent).
+
+3. Dane i informacje, o których mowa w ust. 1 i 2, są przekazywane w postaci elektronicznej z wykorzystaniem odpowiednich certyfikatów wydanych przez Narodowy Bank Polski lub innych form uwierzytelniania stosowanych przez Narodowy Bank Polski, chyba, że są one publikowane na stronie internetowej podmiotu, o którym mowa w ust. 1.
+
+4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia, termin przekazywania oraz szczegółowy zakres przekazywanych danych, o których mowa w ust. 1, oraz informacji o zaistniałych incydentach, o których mowa w ust. 2, mając na względzie konieczność zapewnienia prawidłowości, bezpieczeństwa i sprawności funkcjonowania depozytu papierów wartościowych, systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi i systemu rozrachunku oraz kompletności i wiarygodności tych danych i informacji.

@@ -1,0 +1,3 @@
+# Art. 47e.
+
+W przypadku gdy wymagają tego interesy CCP oraz członków rozliczających CCP, a wnioskodawca wykaże, że spełnia wymagania, o których mowa w art. 32 ust. 1 lit. a-c rozporządzenia 648/2012, oraz że nie występuje przesłanka określona w art. 32 ust. 1 lit. d tego rozporządzenia, Komisja może, w szczególnie uzasadnionych przypadkach, w drodze decyzji wydanej na wniosek akcjonariusza, uchylić zakazy, o których mowa w art. 47d ust. 1 lub 2. Do wniosku wnioskodawca dołącza informacje oraz dokumenty, które dołącza się do zawiadomienia o planowanym nabyciu, o którym mowa w art. 31 ust. 2 rozporządzenia 648/2012.

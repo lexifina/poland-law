@@ -1,0 +1,5 @@
+# Art. 73c.
+
+1. Firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych sporządza i podaje do publicznej wiadomości, w odniesieniu do każdej klasy instrumentów finansowych, coroczny raport zawierający wykaz pięciu najlepszych systemów wykonywania zlecenia, ustalonych przy uwzględnieniu wolumenu obrotu zrealizowanego przez firmę w danym systemie wykonywania zlecenia w okresie, za który jest sporządzany raport, oraz informację o jakości wykonanych zleceń.
+
+2. Podanie przez firmę inwestycyjną do publicznej wiadomości raportu, o którym mowa w ust. 1, następuje z uwzględnieniem przepisów rozporządzenia delegowanego Komisji (UE) 2017/576 z dnia 8 czerwca 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych dotyczących podawania co roku do wiadomości publicznej przez firmy inwestycyjne informacji o tożsamości systemów wykonywania zleceń i jakości wykonywania zleceń (Dz. Urz. UE L 87 z 31.03.2017, str. 166).

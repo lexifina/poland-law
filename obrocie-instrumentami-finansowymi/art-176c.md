@@ -1,0 +1,3 @@
+# Art. 176c.
+
+W przypadku stwierdzenia naruszenia przepisów rozporządzenia 596/2014 w zakresie wskazanym w art. 165 ust. 1 pkt 5, art. 165a ust. 1 pkt 6, art. 167 ust. 1 pkt 1, art. 173, art. 174, art. 175, art. 175a lub art. 176 Komisja może nakazać podmiotowi, który dopuścił się naruszenia, zaprzestania dalszego naruszania tych przepisów oraz zobowiązać go do podjęcia we wskazanym terminie działań, które mają zapobiegać naruszaniu tych przepisów w przyszłości. Środek ten może być stosowany bez względu na zastosowanie innych sankcji za naruszenie obowiązków, o których mowa w art. 165 ust. 1 pkt 5, art. 165a ust. 1 pkt 6, art. 167 ust. 1 pkt 1, art. 173, art. 174, art. 175, art. 175a lub art. 176.

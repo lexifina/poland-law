@@ -1,0 +1,3 @@
+# Art. 110l.
+
+Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania podmiotu dominującego wobec domu maklerskiego, inwestycyjnej spółki holdingowej, finansowej spółki holdingowej o działalności mieszanej, holdingu mieszanego lub innych podmiotów wchodzących w skład grupy firm inwestycyjnych, do której należy dom maklerski, niezwłocznie sporządzają i przekazują, na koszt odpowiednio tego podmiotu dominującego, tych spółek, tego holdingu lub tych innych podmiotów wchodzących w skład grupy firm inwestycyjnych, do której należy dom maklerski, kopie dokumentów i informacji oraz udzielają wyjaśnień, w celu umożliwienia Komisji sprawowania nadzoru nad domem maklerskim.

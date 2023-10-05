@@ -1,0 +1,49 @@
+# Art. 165b.
+
+1. Komisja może zakazać prowadzenia rynku regulowanego, w przypadku gdy spółka prowadząca rynek regulowany na podstawie innej niż zezwolenie:
+
+- 1) przez okres co najmniej 6 miesięcy nie prowadziła rynku regulowanego;
+
+- 2) prowadzi działalność z istotnym naruszeniem przepisów prawa regulujących prowadzenie rynku regulowanego;
+
+- 3) nie przestrzega zasad uczciwego obrotu;
+
+- 4) narusza interesy uczestników obrotu.
+
+2. W przypadkach, o których mowa w ust. 1 pkt 2-4, Komisja może:
+
+- 1) odstąpić od zastosowania sankcji, o której mowa w ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo
+
+- 2) zastosować sankcję określoną w ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa w pkt 1
+
+- jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+
+2a. W przypadku naruszenia przez spółkę prowadzącą rynek regulowany przepisów regulujących prowadzenie tego rynku Komisja może również nakazać tej spółce zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań w przyszłości.
+
+2b. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez spółkę prowadzącą rynek regulowany w wyniku naruszenia, o którym mowa w ust. 1 pkt 2-4, kara pieniężna, o której mowa w ust. 2 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+2c. W przypadku gdy spółka prowadząca rynek regulowany jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+2d. Równowartość w złotych kwoty w walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa w ust. 2 pkt 1 lub ust. 2c.
+
+2e. Komisja, ustalając wysokość kary pieniężnej, o której mowa w ust. 2, uwzględnia w szczególności:
+
+- 1) wagę naruszenia i czas jego trwania;
+
+- 2) stopień przyczynienia się spółki prowadzącej rynek regulowany do powstania naruszenia;
+
+- 3) sytuację finansową spółki prowadzącej rynek regulowany, na którą jest nakładana kara, w szczególności wysokość jej całkowitych obrotów;
+
+- 4) skalę korzyści uzyskanych lub strat unikniętych przez spółkę prowadzącą rynek regulowany, jeżeli można te korzyści lub straty ustalić;
+
+- 5) straty poniesione przez podmioty trzecie w związku z naruszeniem, jeżeli można je ustalić;
+
+- 6) stopień naprawienia szkody wyrządzonej inwestorom wskutek działań spółki prowadzącej rynek regulowany;
+
+- 7) gotowość spółki prowadzącej rynek regulowany do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+
+- 8) uprzednie naruszenia przepisów prawa regulujących prowadzenie działalności przez podmiot prowadzący rynek regulowany, popełnione przez spółkę prowadzącą rynek regulowany, na którą jest nakładana kara.
+
+3. (uchylony)
+
+4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku zakazania prowadzenia rynku regulowanego.
