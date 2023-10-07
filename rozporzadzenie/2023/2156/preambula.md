@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 5 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2023 r. poz. 103, z późn. zm.) zarządza się, co następuje:
