@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/1100",
+ "source_sha256": "705d7c222905af5a521227f827cdee088c687efbb2e8588cd5f4ce7e0f1b95e9",
+ "in_force": "2023-10-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/1100",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/1100/text/O/M20231100.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/1100/text/I/M20231100.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/1100",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1100,
+  "address": "WMP20230001100",
+  "displayAddress": "M.P. 2023 poz. 1100",
+  "title": "Zarządzenie nr 15 Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 października 2023 r. w sprawie wzoru legitymacji poselskiej w X kadencji Sejmu Rzeczypospolitej Polskiej",
+  "type": "Zarządzenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-10-06",
+  "promulgation": "2023-10-11",
+  "changeDate": "2023-10-23T14:37:06",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "posłowie",
+   "legitymacje"
+  ],
+  "keywordsNames": [
+   "Sejm"
+  ],
+  "directives": [],
+  "prints": [],
+  "comments": "Zarządzenie wchodzi w życie z dniem rozpoczęcia X kadencji Sejmu Rzeczypospolitej Polskiej",
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1996/350"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1996/350",
+     "art": "art. 45 ust. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20231100.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20231100.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
