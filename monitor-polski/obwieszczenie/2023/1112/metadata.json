@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/1112",
+ "source_sha256": "99e05a458e5266262daa3af191943350f59eb25f12b49207ef862378ea7c138c",
+ "in_force": "2023-10-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/1112",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/1112/text/O/M20231112.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/1112/text/I/M20231112.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/1112",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1112,
+  "address": "WMP20230001112",
+  "displayAddress": "M.P. 2023 poz. 1112",
+  "title": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 10 października 2023 r. nr 127.4.2023 o wolnych stanowiskach sędziego w Sądzie Najwyższym",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-10-10",
+  "promulgation": "2023-10-13",
+  "changeDate": "2023-10-16T11:25:28",
+  "releasedBy": [
+   "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sędziowie"
+  ],
+  "keywordsNames": [
+   "Sąd Najwyższy"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2018/5"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2018/5",
+     "art": "art. 31 par. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20231112.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20231112.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
