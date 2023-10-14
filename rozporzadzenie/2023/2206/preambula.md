@@ -1,0 +1,1 @@
+Na podstawie art. 20 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2022 r. poz. 2329 oraz z 2023 r. poz. 967, 1463, 1688 i 1933) zarządza się, co następuje:
