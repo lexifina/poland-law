@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/1122",
+ "source_sha256": "a48ccb80b7747bf7000af65702634a876648830681161234e6a19b7bd0058c09",
+ "in_force": "2023-10-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/1122",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/1122/text/O/M20231122.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/1122/text/I/M20231122.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/1122",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1122,
+  "address": "WMP20230001122",
+  "displayAddress": "M.P. 2023 poz. 1122",
+  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 16 października 2023 r. w sprawie wysokości odsetek ustawowych",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-10-16",
+  "promulgation": "2023-10-18",
+  "changeDate": "2023-10-19T11:22:01",
+  "releasedBy": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odsetki ustawowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1964/93"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1964/93",
+     "art": "art. 359 par. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20231122.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20231122.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
