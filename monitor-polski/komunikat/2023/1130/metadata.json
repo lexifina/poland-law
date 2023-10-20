@@ -1,0 +1,68 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/1130",
+ "source_sha256": "acdd1028ac1bb351114dd6de25e6af1e81dd99ae2a37d752dd39ab4471e6fb68",
+ "in_force": "2023-10-20",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/1130",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/1130/text/O/M20231130.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/1130/text/I/M20231130.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/1130",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1130,
+  "address": "WMP20230001130",
+  "displayAddress": "M.P. 2023 poz. 1130",
+  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 20 października 2023 r. w sprawie średniej ceny sprzedaży drewna, obliczonej według średniej ceny drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały 2023 r.",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-10-20",
+  "promulgation": "2023-10-20",
+  "changeDate": "2023-10-23T11:45:59",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "drewno"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2002/1682"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2002/1682",
+     "art": "art. 4 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20231130.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20231130.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
