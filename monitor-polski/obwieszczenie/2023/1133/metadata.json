@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2023/1133",
+ "source_sha256": "8c4fb00d82e2a03c97fa03f9f27f3f6fad35cf201f9645159c79504975782434",
+ "in_force": "2023-10-23",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2023/1133",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2023/1133/text/O/M20231133.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2023/1133/text/I/M20231133.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2023/1133",
+  "publisher": "MP",
+  "year": 2023,
+  "volume": 0,
+  "pos": 1133,
+  "address": "WMP20230001133",
+  "displayAddress": "M.P. 2023 poz. 1133",
+  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 19 października 2023 r. w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w trzecim kwartale 2023 r.",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-10-19",
+  "promulgation": "2023-10-23",
+  "changeDate": "2023-10-24T11:49:22",
+  "releasedBy": [
+   "PREZ. GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia przeciętne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2004/2135"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2004/2135",
+     "art": "art. 5 pkt 31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20231133.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20231133.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
