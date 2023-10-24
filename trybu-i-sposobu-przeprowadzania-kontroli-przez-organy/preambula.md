@@ -1,0 +1,1 @@
+Na podstawie art. 34 ust. 9 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429) zarządza się, co następuje:
