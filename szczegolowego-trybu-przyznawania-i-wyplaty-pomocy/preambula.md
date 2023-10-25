@@ -1,0 +1,1 @@
+Na podstawie art. 26 ust. 1 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021-2027 (Dz. U. poz. 1273) zarządza się, co następuje:
