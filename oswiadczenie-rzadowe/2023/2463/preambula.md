@@ -1,0 +1,1 @@
+Podaje się niniejszym do wiadomości, że na podstawie art. 12 ust. 3 Umowy między Rządem Rzeczypospolitej Polskiej a Międzynarodową Organizacją Policji Kryminalnej - Interpol dotyczącej przywilejów i immunitetów podczas 47. Europejskiej Konferencji Regionalnej, podpisanej w Lyonie dnia 9 kwietnia 2019 r. (Dz. U. poz. 1165) utraciła ona moc obowiązującą dnia 3 czerwca 2019 r.
