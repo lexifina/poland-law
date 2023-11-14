@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2023/2468",
- "source_sha256": "0e1d2a6539c58b45f8a6bdd7513a7294c03479c0d19eab5126079880b5a71e59",
+ "source_sha256": "a84bcb09e6072a9c34907f3fa6f09d8ec197221a3ba0ca4eba1e8651d8f4e936",
  "in_force": "2023-11-14",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -22,11 +22,12 @@
   "displayAddress": "Dz.U. 2023 poz. 2468",
   "title": "Obwieszczenie Ministra Edukacji i Nauki z dnia 27 października 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2023-10-27",
   "promulgation": "2023-11-14",
-  "changeDate": "2024-11-22T00:00:00",
+  "expirationDate": "2026-11-25",
+  "changeDate": "2026-11-26T10:17:46",
   "releasedBy": [
    "MIN. EDUKACJI I NAUKI"
   ],
@@ -43,12 +44,6 @@
   "directives": [],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2024/1714",
-     "date": "2024-11-19"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
