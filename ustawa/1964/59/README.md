@@ -2,5 +2,5 @@
 
 Dz.U. 1964 nr 9 poz. 59 · <https://eli.gov.pl/api/acts/DU/1964/59>
 
-Tekst jednolity: Dz.U. 2020 poz. 1359 (2020-08-10), stan na 2019-11-30.
+Tekst jednolity: Dz.U. 2023 poz. 2809 (2023-12-29), stan na 2023-11-15.
 
