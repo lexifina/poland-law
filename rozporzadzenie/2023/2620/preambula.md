@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195, 1234 i 1641) w związku z art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.) zarządza się, co następuje:
