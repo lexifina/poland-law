@@ -1,0 +1,1 @@
+Na podstawie art. 61b ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2022 r. poz. 1732, 2140 i 2476 oraz z 2023 r. poz. 641) zarządza się, co następuje:
