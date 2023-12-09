@@ -1,0 +1,1 @@
+Na podstawie art. 8a ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952) zarządza się, co następuje:
