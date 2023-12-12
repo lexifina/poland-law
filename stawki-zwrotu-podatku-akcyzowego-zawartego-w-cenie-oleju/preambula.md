@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 4 ustawy z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. z 2023 r. poz. 1948) zarządza się, co następuje:
