@@ -1,0 +1,3 @@
+Na podstawie art. 155 ust. 10 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699) ogłasza się, co następuje:
+
+W komunikacie Ministra Cyfryzacji z dnia 29 maja 2023 r. w sprawie określenia terminu wdrożenia rozwiązań technicznych niezbędnych do doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego lub publicznej usługi hybrydowej oraz udostępnienia w systemie teleinformatycznym punktu dostępu do usług rejestrowanego doręczenia elektronicznego w ruchu transgranicznym (Dz. U. poz. 1077 i 2540) wyrazy „30 grudnia 2023 r.” zastępuje się wyrazami „1 października 2024 r.”.
