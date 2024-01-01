@@ -1,0 +1,1 @@
+Na podstawie art. 3l ust. 2 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903 oraz z 2023 r. poz. 877) zarządza się, co następuje:
