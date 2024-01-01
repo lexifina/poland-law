@@ -1,0 +1,15 @@
+# Art. 9a.
+
+1. Kwotę rocznego dochodu gminy z tytułu udziału we wpływach z podatku dochodowego od osób prawnych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,0671 i wskaźnik równy udziałowi należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę na obszarze gminy, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+2. Kwotę rocznego dochodu powiatu z tytułu udziału we wpływach z podatku dochodowego od osób prawnych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,0140 i wskaźnik równy udziałowi należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę na obszarze powiatu, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+3. Kwotę rocznego dochodu województwa z tytułu udziału we wpływach z podatku dochodowego od osób prawnych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,1475 i wskaźnik równy udziałowi należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę na obszarze województwa, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+4. Wskaźnik udziału należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku ustala się jako średnią ważoną arytmetyczną z 3 lat obliczeniowych obejmujących: rok poprzedzający rok bazowy, rok poprzedzający o 2 lata rok bazowy i rok poprzedzający o 3 lata rok bazowy, odpowiednio z wagami 0,5, 0,33 i 0,17. Wskaźnik ustala się na podstawie danych zawartych w złożonych za dany rok obliczeniowy zeznaniach podatkowych o wysokości osiągniętego dochodu i należnego podatku dochodowego od osób prawnych, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+5. W przypadku gdy dane, o których mowa w ust. 4, nie są dostępne, wskaźnik udziału należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku ustala się na podstawie danych z ostatnich 3 lat obliczeniowych, za które dane te są dostępne, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+6. Do wyliczenia kwot rocznego dochodu jednostek samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób prawnych przyjmuje się prognozowaną ogólną kwotę wpływów z podatku dochodowego od osób prawnych na rok budżetowy, według stanu na dzień 10 sierpnia roku bazowego.
+
+7. Wyliczenia kwot rocznego dochodu jednostek samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób prawnych dokonuje minister właściwy do spraw finansów publicznych.

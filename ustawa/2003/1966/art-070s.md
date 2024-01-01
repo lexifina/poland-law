@@ -1,0 +1,7 @@
+# Art. 70s.
+
+1. W roku 2023 rezerwę subwencji ogólnej, o której mowa w art. 36 ust. 4 pkt 1, zwiększa się o kwotę 935 437 tys. zł, z przeznaczeniem na wypłatę w roku 2023 nagrody specjalnej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela. Do podziału tych środków przepisu art. 36a nie stosuje się.
+
+2. W przypadku gdy kwota, o której mowa w ust. 1, będzie niewystarczająca na wypłatę w roku 2023 nagrody specjalnej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela, rezerwa subwencji ogólnej, o której mowa w art. 36 ust. 4 pkt 1, może być zwiększona o środki z rezerwy celowej budżetu państwa przeznaczonej na utrzymanie rezultatów niektórych projektów zrealizowanych przy udziale środków z Unii Europejskiej, w tym systemy informatyczne, a także środki na wsparcie potencjału realizacji zadań publicznych oraz na uzupełnienie dochodów jednostek samorządu terytorialnego, w celu zapewnienia środków na wypłatę w roku 2023 tej nagrody. Do podziału tych środków przepisów art. 36a i art. 36b nie stosuje się.
+
+3. W przypadku gdy środki rezerwy subwencji ogólnej, o których mowa w ust. 1 lub 2, nie zostaną w całości rozdzielone między jednostki samorządu terytorialnego, z przeznaczeniem na wypłatę w 2023 r. nagrody specjalnej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela, podlegają podziałowi na podstawie art. 36a.
