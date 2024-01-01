@@ -26,4 +26,4 @@
 
 5. Deklaracja o wysokości daniny solidarnościowej zawiera dane umożliwiające prawidłową identyfikację osoby fizycznej i urzędu skarbowego, do którego kierowana jest deklaracja, oraz poprawne rozliczenie daniny solidarnościowej.
 
-6. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, na piśmie utrwalonym w postaci elektronicznej, wzór deklaracji o wysokości daniny solidarnościowej.
+6. (uchylony)

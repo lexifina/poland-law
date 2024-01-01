@@ -8,7 +8,7 @@
 
 2. Przepis ust. 1 stosuje się również w roku następującym bezpośrednio po roku rozpoczęcia działalności gospodarczej, jeżeli w tym roku podatnik, o którym mowa w ust. 1, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców.
 
-3. Kwota wykazana przez podatnika w zeznaniu, przysługująca na podstawie ust. 1 lub 2, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
+3. Kwota wykazana przez podatnika w zeznaniu, przysługująca na podstawie ust. 1 lub 2, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis .
 
 4. Przepisu ust. 1 nie stosuje się do podatnika rozpoczynającego prowadzenie działalności gospodarczej, który w roku rozpoczęcia tej działalności, a także w okresie dwóch lat, licząc od końca roku poprzedzającego rok jej rozpoczęcia, prowadził działalność gospodarczą samodzielnie lub jako wspólnik spółki niebędącej osobą prawną lub działalność taką prowadził małżonek tej osoby, jeżeli między małżonkami istniała w tym czasie wspólność majątkowa.
 

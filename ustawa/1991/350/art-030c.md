@@ -12,7 +12,7 @@
 
   - b) za osoby współpracujące z podatnikiem opodatkowanym w sposób określony w ust. 1
 
-  - przy czym łączna wysokość tych składek zaliczonych do kosztów uzyskania przychodów lub odliczonych od dochodu nie może przekroczyć w roku podatkowym 8700 zł;
+  - przy czym łączna wysokość tych składek zaliczonych do kosztów uzyskania przychodów lub odliczonych od dochodu nie może przekroczyć w roku podatkowym 8700 zł ;
 
 - 3) wpłaty na indywidualne konto zabezpieczenia emerytalnego określone w art. 26 ust. 1 pkt 2b;
 

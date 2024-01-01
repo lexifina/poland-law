@@ -32,7 +32,7 @@
 
 - 6) transakcji kontrolowanej - oznacza to identyfikowane na podstawie rzeczywistych zachowań stron działania o charakterze gospodarczym, w tym przypisywanie dochodów do zagranicznego zakładu, których warunki zostały ustalone lub narzucone w wyniku powiązań;
 
-- 7) uprzednim porozumieniu cenowym - oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200 oraz z 2021 r. poz. 2105).
+- 7) uprzednim porozumieniu cenowym - oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. z 2023 r. poz. 948).
 
 2. Przez wywieranie znaczącego wpływu, o którym mowa w ust. 1 pkt 4 lit. a i b, rozumie się:
 

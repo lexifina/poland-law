@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 22g ust. 3;
 
@@ -10,7 +10,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 4) zorganizowanej części przedsiębiorstwa - oznacza to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
 
-- 5) Ordynacji podatkowej - oznacza to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.);
+- 5) Ordynacji podatkowej - oznacza to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760);
 
 - 6) działalności gospodarczej albo pozarolniczej działalności gospodarczej - oznacza to działalność zarobkową:
 
@@ -22,7 +22,7 @@ Ilekroć w ustawie jest mowa o:
 
   - prowadzoną we własnym imieniu bez względu na jej rezultat, w sposób zorganizowany i ciągły, z której uzyskane przychody nie są zaliczane do innych przychodów ze źródeł wymienionych w art. 10 ust. 1 pkt 1, 2 i 4-9;
 
-- 7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558, 1700 i 1812);
+- 7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44);
 
 - 8) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego odpowiednio właściwy dla podatnika lub płatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
@@ -30,7 +30,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 10) (uchylony)
 
-- 11) papierach wartościowych - oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933 i 2185);
+- 11) papierach wartościowych - oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941);
 
 - 12) dyskoncie - oznacza to różnicę między kwotą uzyskaną z wykupu papieru wartościowego przez emitenta a wydatkami poniesionymi na nabycie papieru wartościowego na rynku pierwotnym lub wtórnym, a w przypadku nabycia papieru wartościowego w drodze spadku lub darowizny - różnicę między kwotą uzyskaną z wykupu a wydatkami poniesionymi przez spadkodawcę lub darczyńcę na nabycie tego papieru wartościowego;
 
@@ -38,19 +38,19 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) funduszach kapitałowych - oznacza to fundusze inwestycyjne oraz fundusze zagraniczne, o których mowa w przepisach o funduszach inwestycyjnych, oraz ubezpieczeniowe fundusze kapitałowe działające na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej, z wyjątkiem funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
 
-- 14a) alternatywnej spółce inwestycyjnej - oznacza to alternatywną spółkę inwestycyjną, o której mowa w art. 8a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523, 1488, 1933 i 2185);
+- 14a) alternatywnej spółce inwestycyjnej - oznacza to alternatywną spółkę inwestycyjną, o której mowa w art. 8a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941);
 
-- 15) ustawie o zryczałtowanym podatku dochodowym - oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2021 r. poz. 1993, z późn. zm.);
+- 15) ustawie o zryczałtowanym podatku dochodowym - oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2022 r. poz. 2540 oraz z 2023 r. poz. 1059 i 1414);
 
-- 16) ustawie o działalności pożytku publicznego - oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812);
+- 16) ustawie o działalności pożytku publicznego - oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571);
 
-- 17) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301, 1488, 1561 i 2180);
+- 17) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2023 r. poz. 1570, 1598 i 1852);
 
-- 18) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2022 r. poz. 407 i 1079);
+- 18) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637);
 
-- 18a) ustawie o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków - oznacza to ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, 1561, 1576, 1967 i 2456);
+- 18a) ustawie o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków - oznacza to ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496);
 
-- 18b) budynku mieszkalnym jednorodzinnym - oznacza to budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.);
+- 18b) budynku mieszkalnym jednorodzinnym - oznacza to budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.);
 
 - 18c) przedsięwzięciu termomodernizacyjnym - oznacza to przedsięwzięcie termomodernizacyjne w rozumieniu art. 2 pkt 2 ustawy o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków;
 
@@ -82,7 +82,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 23) ustawie o emeryturach kapitałowych - oznacza to ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
 
-- 23a) umowie o pomocy przy zbiorach - oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2022 r. poz. 933, 1155 i 2140);
+- 23a) umowie o pomocy przy zbiorach - oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90);
 
 - 24) PKWiU - oznacza to Polską Klasyfikację Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676, z 2017 r. poz. 2453, z 2018 r. poz. 2440, z 2019 r. poz. 2554 oraz z 2020 r. poz. 556);
 
@@ -122,9 +122,9 @@ Ilekroć w ustawie jest mowa o:
 
 - 33a) walucie wirtualnej - oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
-- 33b) ustawie o podatku dochodowym od osób prawnych - oznacza to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.);
+- 33b) ustawie o podatku dochodowym od osób prawnych - oznacza to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805);
 
-- 33c) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, 655, 835, 2180 i 2185);
+- 33c) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843);
 
 - 33d) rzeczywistym właścicielu - oznacza to podmiot, który spełnia łącznie następujące warunki:
 
@@ -136,7 +136,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 34) komercjalizowanej własności intelektualnej - oznacza to:
 
-  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324 oraz z 2022 r. poz. 2185),
+  - a) patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa - określone w ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170),
 
   - b) autorskie prawa majątkowe do programu komputerowego,
 
@@ -148,19 +148,19 @@ Ilekroć w ustawie jest mowa o:
 
 - 36) krótkiej sprzedaży - oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
 
-- 37) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309);
+- 37) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309 oraz z 2023 r. poz. 1723 i 1860);
 
 - 38) działalności badawczo-rozwojowej - oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
 
 - 39) badaniach naukowych - oznacza to:
 
-  - a) badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.),
+  - a) badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.),
 
   - b) badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
 - 40) pracach rozwojowych - oznacza to prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-- 41) przepisach o systemie oświaty - oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230), przepisy ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2022 r. poz. 2082 i 2089).
+- 41) przepisach o systemie oświaty - oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005), przepisy ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2023 r. poz. 1400 i 2005 oraz z 2024 r. poz. 123).
 
 - 42) ustawie o CEIDG - oznacza to ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541);
 
@@ -170,11 +170,11 @@ Ilekroć w ustawie jest mowa o:
 
 - 45) zmarłym przedsiębiorcy - oznacza to zmarłego przedsiębiorcę, o którym mowa w art. 1 pkt 1 ustawy o zarządzie sukcesyjnym;
 
-- 46) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342 oraz z 2022 r. poz. 1079);
+- 46) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, 1723 i 1941);
 
-- 47) ustawie o przeciwdziałaniu nadmiernym opóźnieniom - oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2022 r. poz. 893 i 2414).
+- 47) ustawie o przeciwdziałaniu nadmiernym opóźnieniom - oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790).
 
-- 47a) marynarzu - oznacza to marynarza w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2022 r. poz. 1694 i 2185);
+- 47a) marynarzu - oznacza to marynarza w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257);
 
 - 48) żegludze międzynarodowej - oznacza to żeglugę między:
 
@@ -192,4 +192,10 @@ Ilekroć w ustawie jest mowa o:
 
   - a) na pierwszy dzień roku podatkowego, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na pierwszy dzień roku obrotowego, co najmniej 50% wartości rynkowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość rynkowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości oraz wartość rynkowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego pierwszy dzień roku podatkowego - w przypadku podmiotów rozpoczynających działalność,
 
-  - b) na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50% wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 2b pkt 6, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60% ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto - w przypadku podmiotów innych niż określone w lit. a.
+  - b) na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50% wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 2b pkt 6, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60% ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto - w przypadku podmiotów innych niż określone w lit. a;
+
+- 50) fundacji rodzinnej - oznacza to fundację rodzinną oraz fundację rodzinną w organizacji, o których mowa w ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825);
+
+- 51) ustawie o OIPE - oznacza to ustawę z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843);
+
+- 52) rozporządzeniu 2019/1238 - oznacza to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1).

@@ -1,6 +1,18 @@
 # Art. 30b.
 
-1. Od dochodów uzyskanych z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów, z odpłatnego zbycia udziałów (akcji), z odpłatnego zbycia udziałów w spółdzielni oraz z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny, podatek dochodowy wynosi 19% uzyskanego dochodu.
+1. Od dochodów uzyskanych:
+
+- 1) z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych oraz z realizacji praw z nich wynikających,
+
+- 2) z odpłatnego zbycia udziałów (akcji),
+
+- 3) z odpłatnego zbycia udziałów w spółdzielni,
+
+- 4) z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny,
+
+- 5) z umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych
+
+- podatek dochodowy wynosi 19% uzyskanego dochodu.
 
 1a. Od dochodów uzyskanych z odpłatnego zbycia walut wirtualnych podatek dochodowy wynosi 19% uzyskanego dochodu.
 
@@ -8,7 +20,7 @@
 
 2. Dochodem, o którym mowa w ust. 1, jest:
 
-- 1) różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia papierów wartościowych a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1f lub ust. 1g, lub art. 23 ust. 1 pkt 38, z zastrzeżeniem art. 24 ust. 13 i 14,
+- 1) różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia papierów wartościowych a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1f, 1g lub 1gc lub art. 23 ust. 1 pkt 38, z zastrzeżeniem art. 24 ust. 13 i 14,
 
 - 2) różnica między sumą przychodów uzyskanych z realizacji praw wynikających z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a kosztami uzyskania przychodów, określonymi na podstawie art. 23 ust. 1 pkt 38a,
 
@@ -18,13 +30,15 @@
 
 - 5) różnica pomiędzy przychodem określonym zgodnie z art. 17 ust. 1 pkt 9 a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e,
 
-- 6) różnica między przychodem uzyskanym z odpłatnego zbycia udziałów (akcji) spółki kapitałowej powstałej w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1ł
+- 6) różnica między przychodem uzyskanym z odpłatnego zbycia udziałów (akcji) spółki kapitałowej powstałej w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1ł,
+
+- 7) różnica między sumą przychodów uzyskanych z tytułu umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych a kosztami uzyskania przychodów, określonymi na podstawie art. 23 ust. 1 pkt 38
 
 - osiągnięta w roku podatkowym.
 
 3. Przepisy ust. 1 i 1a stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania albo niezapłacenie podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 
-4. Przepisu ust. 1 nie stosuje się, jeżeli odpłatne zbycie udziałów (akcji), udziałów w spółdzielni, papierów wartościowych i pochodnych instrumentów finansowych oraz realizacja praw z nich wynikających następuje w wykonywaniu działalności gospodarczej.
+4. Przepisu ust. 1 nie stosuje się, jeżeli odpłatne zbycie udziałów (akcji), udziałów w spółdzielni, papierów wartościowych i pochodnych instrumentów finansowych oraz realizacja praw z nich wynikających, a także umorzenie, odkupienie, wykupienie albo unicestwienie w inny sposób tytułów uczestnictwa w funduszach kapitałowych następuje w wykonywaniu działalności gospodarczej.
 
 5. Dochodów, o których mowa w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27 oraz art. 30c.
 
@@ -40,16 +54,12 @@
 
 5f. W przypadku podatnika, o którym mowa w art. 3 ust. 1, uzyskującego dochody z odpłatnego zbycia walut wirtualnych wyłącznie poza granicami Rzeczypospolitej Polskiej zasadę określoną w ust. 5e stosuje się odpowiednio.
 
-6. Po zakończeniu roku podatkowego podatnik jest obowiązany w zeznaniu, o którym mowa w art. 45 ust. 1a pkt 1, wykazać dochody uzyskane w roku podatkowym z:
-
-- 1) odpłatnego zbycia papierów wartościowych, w tym również dochody, o których mowa w art. 24 ust. 14, dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających, z odpłatnego zbycia udziałów (akcji) oraz z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielniach, w zamian za wkład niepieniężny,
-
-- 2) odpłatnego zbycia walut wirtualnych
-
-- i obliczyć należny podatek dochodowy.
+6. Po zakończeniu roku podatkowego podatnik jest obowiązany w zeznaniu, o którym mowa w art. 45 ust. 1a pkt 1, wykazać uzyskane w roku podatkowym dochody, o których mowa w ust. 1 i 1a, i obliczyć należny podatek dochodowy.
 
 6a. W zeznaniu, o którym mowa w art. 45 ust. 1a pkt 1, podatnik wykazuje koszty uzyskania przychodów, o których mowa w art. 22 ust. 14-16, także wtedy, gdy w roku podatkowym nie uzyskał przychodów z odpłatnego zbycia walut wirtualnych.
 
-7. Do dochodów, o których mowa w ust. 1, przepis art. 30a ust. 3 stosuje się odpowiednio.
+7. Jeżeli nie jest możliwa identyfikacja umarzanych, odkupywanych, wykupywanych albo unicestwianych w inny sposób tytułów uczestnictwa w funduszach kapitałowych, przy ustalaniu dochodu przyjmuje się, że każdorazowo przychód został osiągnięty z tytułów uczestnictwa w funduszach kapitałowych nabytych najwcześniej (FIFO). Przepis ten stosuje się odrębnie do każdego rachunku inwestycyjnego.
+
+7a. Przepis ust. 7 stosuje się odpowiednio do innych dochodów, o których mowa w ust. 1, i do dochodów, o których mowa w ust. 1b.
 
 8. (uchylony)

@@ -6,7 +6,7 @@
 
 - 1) posiadanych przez niego ewidencji, rejestrów lub innych danych;
 
-- 2) rejestrów publicznych posiadanych przez inne podmioty publiczne, do których organ ma dostęp drogą elektroniczną na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087).
+- 2) rejestrów publicznych posiadanych przez inne podmioty publiczne, do których organ ma dostęp drogą elektroniczną na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703).
 
 3. Jeżeli w toku postępowania podatkowego albo w toku kontroli celno-skarbowej podatnik nie udowodni uzyskania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych, o których mowa w art. 25b ust. 4 pkt 3, stanowiących pokrycie wydatku i nastąpiło przedawnienie zobowiązania podatkowego w stosunku do tych przychodów (dochodów), to ich uzyskanie podatnik może uprawdopodobnić. W przypadku nieudowodnienia lub nieuprawdopodobnienia przychodów (dochodów), o których mowa w zdaniu pierwszym, przychody (dochody) te uznaje się za przychody, o których mowa w art. 25b ust. 1.
 

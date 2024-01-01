@@ -16,6 +16,6 @@
 
 2. Kwoty pożyczki wyrażone w walucie obcej przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu roboczym poprzedzającym dzień wypłaty kwoty pożyczki.
 
-3. Przepisy ust. 1-2 stosuje się odpowiednio do kredytu i emisji obligacji.
+3. Przepisy ust. 1‒2 stosuje się odpowiednio do kredytu i emisji obligacji.
 
 4. Minister właściwy do spraw finansów publicznych ogłasza nie rzadziej niż raz w roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, rodzaj bazowej stopy procentowej i marżę, o których mowa w ust. 1 pkt 1, biorąc pod uwagę rodzaje bazowych stóp procentowych stosowanych na międzybankowym rynku finansowym.

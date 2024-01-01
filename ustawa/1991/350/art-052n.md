@@ -8,7 +8,7 @@
 
 - 3) Centralnej Bazie Rezerw Sanitarno-Przeciwepidemicznych z przeznaczeniem na cele wykonywania działalności statutowej;
 
-- 4) domom dla matek z małoletnimi dziećmi i kobiet w ciąży, noclegowniom, schroniskom dla osób bezdomnych, w tym z usługami opiekuńczymi, ośrodkom wsparcia, rodzinnym domom pomocy oraz domom pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66 i 1079);
+- 4) domom dla matek z małoletnimi dziećmi i kobiet w ciąży, noclegowniom, schroniskom dla osób bezdomnych, w tym z usługami opiekuńczymi, ośrodkom wsparcia, rodzinnym domom pomocy oraz domom pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901);
 
 - 5) Funduszowi Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.).
 
@@ -34,4 +34,4 @@
 
 3. Odliczeniu podlegają darowizny nieodliczone na podstawie art. 26 ust. 1 pkt 9 i art. 11 ustawy o zryczałtowanym podatku dochodowym.
 
-4. W zakresie nieuregulowanym w niniejszym artykule, do darowizn stosuje się odpowiednio przepisy art. 6 ust. 2, art. 26 ust. 6, 6b, 6c, 6f, ust. 7 pkt 1 i 2, ust. 13a i 15 oraz art. 45 ust. 3a
+4. W zakresie nieuregulowanym w niniejszym artykule, do darowizn stosuje się odpowiednio przepisy art. 6 ust. 2, art. 26 ust. 6, 6b, 6c, 6f, ust. 7 pkt 1 i 2, ust. 13a i 15 oraz art. 45 ust. 3a.

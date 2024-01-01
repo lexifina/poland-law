@@ -42,6 +42,8 @@
 
 - 2) osoby pozostającej w związku małżeńskim, jeżeli jej małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności.
 
+2e. Limity dochodów określone w ust. 2 pkt 1 nie dotyczą podatnika i jego małżonka, którzy wykonywali władzę, pełnili funkcję albo sprawowali opiekę, o których mowa w ust. 1, w stosunku do jednego dziecka, posiadającego orzeczenie albo decyzję, o których mowa w art. 26 ust. 7d.
+
 3. W przypadku gdy w tym samym miesiącu kalendarzowym w stosunku do dziecka wykonywana jest władza, pełniona funkcja lub sprawowana opieka, o których mowa w ust. 1, każdemu z podatników przysługuje odliczenie w kwocie stanowiącej 1/30 kwoty obliczonej zgodnie z ust. 2 za każdy dzień sprawowania pieczy nad dzieckiem.
 
 4. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę podatnicy mogą odliczyć od podatku w dowolnej proporcji przez nich ustalonej. W przypadku braku porozumienia między podatnikami, którzy zgodnie z rozstrzygnięciem sądu wspólnie wykonują władzę rodzicielską nad małoletnim dzieckiem po rozwodzie lub w trakcie separacji (piecza naprzemienna), lub gdy miejsce zamieszkania dziecka jest takie samo jak miejsce zamieszkania obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim - kwotę tę podatnicy odliczają w częściach równych. W pozostałych przypadkach odliczenie w wysokości 100% stosuje podatnik, u którego dziecko ma miejsce zamieszkania w rozumieniu ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny.

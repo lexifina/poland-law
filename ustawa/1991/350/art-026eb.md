@@ -6,7 +6,7 @@
 
 - 2) 19% nieodliczonego na podstawie art. 26e odliczenia - w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
 
-2. Przepis ust. 1 ma zastosowanie do zaliczek na podatek dochodowy i zryczałtowanego podatku dochodowego, o których mowa w art. 31 oraz art. 41 ust. 1 i 4, pobranych od dochodów (przychodów) osób fizycznych z tytułu:
+2. Przepis ust. 1 ma zastosowanie do zaliczek na podatek dochodowy i zryczałtowanego podatku dochodowego, o których mowa w art. 32 oraz art. 41 ust. 1 i 4, pobranych od dochodów (przychodów) osób fizycznych z tytułu:
 
 - 1) stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy oraz wypłacanego przez podatnika zasiłku pieniężnego z ubezpieczenia społecznego;
 

@@ -10,7 +10,7 @@
 
 - 4) jest położony na terytorium Rzeczypospolitej Polskiej
 
-- zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
+‒ zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
 
 2. Zwalnia się od podatku od przychodów z budynków przychód ze środka trwałego będącego budynkiem mieszkalnym oddanym do używania w ramach realizacji programów rządowych i samorządowych dotyczących budownictwa społecznego, jeżeli zwolnienie to stanowi rekompensatę spełniającą warunki określone w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 
@@ -42,9 +42,9 @@
 
 14. Kwotę zapłaconego i nieodliczonego w roku podatkowym podatku od przychodów z budynków odlicza się od podatku obliczonego zgodnie z art. 27 lub art. 30c za rok podatkowy. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 45 ust. 1 lub ust. 1a pkt 2.
 
-15. Kwota podatku od przychodów z budynków nieodliczona na podstawie ust. 14 podlega zwrotowi na wniosek podatnika, jeżeli organ podatkowy nie stwierdzi nieprawidłowości wysokości zobowiązania podatkowego lub straty, obliczonych zgodnie z art. 27 lub art. 30c w złożonym zeznaniu podatkowym, oraz podatku od przychodów z budynków, w szczególności jeżeli koszty finansowania dłużnego poniesione w związku z nabyciem lub wytworzeniem budynku, jak również inne przychody i koszty ustalone zostały na warunkach rynkowych.
+15. Kwota podatku od przychodów z budynków nieodliczona na podstawie ust. 14 podlega zwrotowi na wniosek podatnika bez wydawania decyzji o zwrocie podatku, jeżeli wniosek nie budzi wątpliwości.
 
-16. Jeżeli organ podatkowy określi zobowiązanie podatkowe lub stratę w innej wysokości niż wynikająca z zeznania podatkowego, o którym mowa w ust. 15, podatnikowi przysługuje prawo do zwrotu w wysokości:
+16. Jeżeli organ podatkowy określi zobowiązanie podatkowe lub stratę w innej wysokości niż wynikająca z zeznania podatkowego, podatnikowi przysługuje prawo do zwrotu w wysokości:
 
 - 1) różnicy pomiędzy kwotą zapłaconego i nieodliczonego podatku od przychodów z budynków a kwotą podatku określoną przez organ podatkowy zgodnie z art. 27 lub art. 30c - w przypadku określenia przez organ podatkowy zobowiązania podatkowego, albo
 

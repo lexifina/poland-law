@@ -4,29 +4,25 @@
 
 - 1) poniesione w roku podatkowym na wpłaty na fundusz remontowy wspólnoty mieszkaniowej lub spółdzielni mieszkaniowej utworzony, zgodnie z odrębnymi przepisami, dla zabytku nieruchomego wpisanego do rejestru zabytków lub znajdującego się w ewidencji zabytków;
 
-- 2) poniesione w roku podatkowym na prace konserwatorskie, restauratorskie lub roboty budowlane w zabytku nieruchomym wpisanym do rejestru zabytków lub znajdującym się ewidencji zabytków;
+- 2) na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku nieruchomym wpisanym do rejestru zabytków.
 
-- 3) na odpłatne nabycie zabytku nieruchomego wpisanego do rejestru zabytków lub udziału w takim zabytku, pod warunkiem że podatnik na nabytą nieruchomość poniósł wydatek, o którym mowa w pkt 2.
+- 3) (uchylony)
 
 2. Odliczenie, o którym mowa w:
 
 - 1) ust. 1 pkt 1, przysługuje podatnikowi, jeżeli w momencie poniesienia wydatku jest właścicielem lub współwłaścicielem zabytku nieruchomego;
 
-- 2) ust. 1 pkt 2, przysługuje podatnikowi, jeżeli w momencie poniesienia wydatku podatnik jest właścicielem lub współwłaścicielem zabytku nieruchomego, o którym mowa w tym przepisie, oraz posiada sporządzone na piśmie:
+- 2) ust. 1 pkt 2, przysługuje podatnikowi, jeżeli w momencie poniesienia wydatku podatnik jest właścicielem lub współwłaścicielem zabytku nieruchomego, o którym mowa w tym przepisie, oraz posiada sporządzone na piśmie pozwolenie wojewódzkiego konserwatora zabytków na prowadzenie prac konserwatorskich, prac restauratorskich lub robót budowlanych przy tym zabytku oraz po poniesieniu tego wydatku uzyskał zaświadczenie wojewódzkiego konserwatora zabytków potwierdzające wykonanie odpowiednio tych prac lub robót.
 
-  - a) pozwolenie wojewódzkiego konserwatora zabytków na prowadzenie prac konserwatorskich, prac restauratorskich lub robót budowlanych - w przypadku zabytku nieruchomego wpisanego do rejestru zabytków,
-
-  - b) zalecenia konserwatorskie - w przypadku zabytku nieruchomego znajdującego się w wojewódzkiej lub gminnej ewidencji zabytków;
-
-- 3) ust. 1 pkt 3, przysługuje podatnikowi, jeżeli w momencie dokonywania odliczenia podatnik jest właścicielem lub współwłaścicielem nieruchomości, o której mowa w tym przepisie.
+- 3) (uchylony)
 
 3. Za datę poniesienia wydatków z tytułów określonych w:
 
 - 1) ust. 1 pkt 1 uznaje się dzień zapłaty należności;
 
-- 2) ust. 1 pkt 2 uznaje się dzień wystawienia faktury;
+- 2) ust. 1 pkt 2 uznaje się dzień wystawienia faktury.
 
-- 3) ust. 1 pkt 3 uznaje się dzień nabycia własności.
+- 3) (uchylony)
 
 4. Odliczenia, o których mowa w ust. 1 pkt 1 i 2, nie mogą przekroczyć 50% wydatków udokumentowanych:
 
@@ -34,15 +30,15 @@
 
 - 2) fakturą wystawioną przez podatnika podatku od towarów i usług niekorzystającego ze zwolnienia od tego podatku, powiększonych o kwotę podatku od towarów i usług, o ile podatek ten nie został odliczony na podstawie ustawy o podatku od towarów i usług.
 
-5. Odliczenie, o którym mowa w ust. 1 pkt 3, nie może przekroczyć iloczynu kwoty 500 zł i liczby metrów kwadratowych powierzchni użytkowej zabytku nieruchomego, o którym mowa w ust. 1 pkt 3, nie więcej jednak niż 500 000 zł na wszystkie wydatki poniesione z tego tytułu.
+5. (uchylony)
 
 6. Małżonkowie, między którymi istnieje wspólność majątkowa, wydatki, o których mowa w ust. 1, mogą odliczyć w częściach równych lub w dowolnej proporcji przez nich ustalonej, bez względu na to, czy dokument potwierdzający poniesienie wydatku został wystawiony na imię obydwojga małżonków lub jednego z nich.
 
 7. Odliczenia wydatków, o których mowa w:
 
-- 1) ust. 1 pkt 1 i 2, dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono te wydatki;
+- 1) ust. 1 pkt 1 - dokonuje się w zeznaniu składanym za rok podatkowy, w którym poniesiono te wydatki;
 
-- 2) ust. 1 pkt 3, dokonuje się w zeznaniu za rok podatkowy, w którym po raz pierwszy na rzecz nabytego zabytku nieruchomego poniesiono wydatki określone w ust. 1 pkt 2.
+- 2) ust. 1 pkt 2 - dokonuje się w zeznaniu składanym po otrzymaniu zaświadczenia, o którym mowa w ust. 2 pkt 2.
 
 8. Kwota odliczenia nieznajdująca pokrycia w rocznym dochodzie podatnika podlega odliczeniu w kolejnych latach, nie dłużej jednak niż przez sześć lat, licząc od końca roku podatkowego, w którym dokonano odliczenia.
 
@@ -52,7 +48,7 @@
 
 - 2) zostały uwzględnione przez podatnika w związku z korzystaniem z ulg podatkowych w rozumieniu Ordynacji podatkowej;
 
-- 3) wykraczają poza zakres prac i robót określonych w pozwoleniu wojewódzkiego konserwatora zabytków lub zaleceniach konserwatorskich;
+- 3) wykraczają poza zakres prac i robót określonych w pozwoleniu wojewódzkiego konserwatora zabytków lub zostały wykonane niezgodnie z pozwoleniem wojewódzkiego konserwatora zabytków;
 
 - 4) zostały sfinansowane, dofinansowane lub zwrócone podatnikowi w jakiejkolwiek formie.
 
@@ -62,7 +58,7 @@
 
 12. Ilekroć w ust. 1-11 jest mowa o:
 
-- 1) powierzchni użytkowej - oznacza to powierzchnię, o której mowa w art. 16 ust. 4 i 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043 oraz z 2022 r. poz. 1846 i 2180);
+- 1) powierzchni użytkowej - oznacza to powierzchnię, o której mowa w art. 16 ust. 4 i 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2023 r. poz. 1774 i 1843);
 
 - 2) pracach konserwatorskich - oznacza to prace konserwatorskie w rozumieniu art. 3 pkt 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 

@@ -30,7 +30,7 @@
 
   - a) po likwidacji działalności gospodarczej prowadzonej samodzielnie,
 
-  - b) otrzymanych w związku z likwidacją spółki niebędącej osobą prawną lub wystąpieniem z takiej spółki.
+  - b) otrzymanych w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce.
 
 3a. (uchylony)
 

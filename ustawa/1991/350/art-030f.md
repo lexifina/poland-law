@@ -28,7 +28,7 @@
 
 - 2) instrumenty finansowe - oznacza instrumenty finansowe wymienione w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
-- 3) jednostka zależna - oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale lub co najmniej 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50% prawa do uczestnictwa w zysku;
+- 3) jednostka zależna - oznacza podmiot, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, pkt 4 lit. b-d lub pkt 5 lit. b-d, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale, lub co najmniej 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50% prawa do uczestnictwa w zysku;
 
 - 4) podmiot powiązany - oznacza:
 
@@ -76,13 +76,13 @@
 
   - a) w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
 
-  - b) dochód jednostki przekracza dochód obliczony według wzoru: (b + c + d) × 20% w którym poszczególne litery oznaczają: b - wartość bilansową aktywów jednostki, c - roczne koszty zatrudnienia jednostki, d - zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
+  - b) dochód jednostki przekracza dochód obliczony według wzoru: \( (b + c + d) \times 20\% \) w którym poszczególne litery oznaczają: b - wartość bilansową aktywów jednostki, c - roczne koszty zatrudnienia jednostki, d - zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
 
   - c) mniej niż 75% przychodów tej jednostki pochodzi z transakcji dokonywanych z podmiotami niepowiązanymi mającymi miejsce zamieszkania, siedzibę, zarząd, rejestrację lub położenie w tym samym państwie co ta jednostka,
 
   - d) faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25% od podatku dochodowego od osób prawnych, który byłby od niej należny z zastosowaniem stawki podatku, o której mowa w art. 19 ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu.
 
-3a. Przy wyliczaniu różnicy, o której mowa w ust. 3 pkt 3 lit. c, nie uwzględnia się zagranicznego zakładu zagranicznej jednostki kontrolowanej, który nie podlega opodatkowaniu lub jest zwolniony z podatku w państwie siedziby zagranicznej jednostki kontrolowanej.
+3a. Przy wyliczaniu różnicy, o której mowa w ust. 3 pkt 3 lit. c, pkt 4 lit. b i pkt 5 lit. d, nie uwzględnia się zagranicznego zakładu zagranicznej jednostki kontrolowanej, który nie podlega opodatkowaniu lub jest zwolniony z podatku w państwie siedziby zagranicznej jednostki kontrolowanej.
 
 3b. Sprawowanie kontroli, o której mowa w ust. 3 pkt 3 lit. a, wobec podatkowej grupy kapitałowej, o której mowa w ust. 2 pkt 1 lit. f, ustala się poprzez odniesienie się do spółki dominującej lub wobec wszystkich spółek z grupy.
 
@@ -92,7 +92,7 @@
 
 3e. Za przychody, o których mowa w ust. 3 pkt 3 lit. b, uważa się również przychody przypisane zgodnie z art. 8.
 
-3f. Wartość bilansową aktywów jednostki oraz odpisów amortyzacyjnych, o których mowa w ust. 3 pkt 5 lit. b, określa się na koniec roku, za który ma być zapłacony podatek.
+3f. Wartość bilansową aktywów jednostki oraz odpisów amortyzacyjnych, o których mowa w ust. 3 pkt 5 lit. b, określa się na ostatni dzień roku podatkowego. Jeżeli przed końcem tego roku podatkowego jednostka zbyła aktywa odpowiadające co najmniej 25% wartości bilansowej wszystkich aktywów określonej na ostatni dzień poprzedniego roku podatkowego, wartość bilansową zbytych aktywów określa się na dzień poprzedzający dzień ich zbycia i uwzględnia się w wartości, o której mowa w ust. 3 pkt 5 lit. b, w proporcji, w jakiej pozostaje liczba dni, w których te zbyte aktywa były własnością jednostki w roku podatkowym, do całkowitej liczby dni w tym roku.
 
 4. (uchylony)
 
@@ -112,6 +112,12 @@
 
 7b. Wartość aktywów, o których mowa w ust. 7a, określa się na podstawie ich wartości bilansowej ustalonej na podstawie przepisów o rachunkowości na koniec roku, za który ma być zapłacony podatek.
 
+7c. Dla celów ustalenia dochodu, o którym mowa w ust. 7:
+
+- 1) uwzględnia się również przychody i koszty przypisane zgodnie z art. 8;
+
+- 2) nie stosuje się ulg i zwolnień wynikających z ustawy, z wyjątkiem określonych w niniejszym artykule.
+
 8. Jeżeli nie jest możliwe ustalenie wysokości prawa do uczestnictwa w zysku zagranicznej jednostki kontrolowanej albo nastąpiło wyłączenie lub ograniczenie tego prawa, dla jego ustalenia przyjmuje się najwyższy, określony procentowo, udział podatnika w kapitale lub prawie głosu w organach kontrolnych, stanowiących lub zarządzających tej jednostki.
 
 9. W przypadku zagranicznej jednostki kontrolowanej, o której mowa w ust. 3 pkt 1, dla ustalenia prawa do uczestnictwa w zysku zagranicznej jednostki kontrolowanej przyjmuje się, że podatnikowi albo podatnikowi wspólnie z innymi podatnikami, o których mowa w art. 3 ust. 1, lub podatnikami, o których mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, przysługiwały przez cały rok podatkowy, o którym mowa w ust. 7, wszystkie prawa do uczestnictwa w zysku tej jednostki. W przypadku braku przeciwnego dowodu przyjmuje się, że udziały tych podatników związane z prawem do uczestnictwa w zysku są równe.
@@ -120,11 +126,11 @@
 
 11. W przypadku zagranicznej jednostki kontrolowanej, o której mowa w ust. 3 pkt 2, przepisu ust. 1 nie stosuje się, jeżeli podatnik wykaże, że nie jest spełniony co najmniej jeden z warunków określonych w ust. 3 pkt 3. Przepis ust. 15 stosuje się.
 
-12. Podatek do zapłaty przez podatnika z tytułu kontroli nad zagraniczną jednostką kontrolowaną, obliczony zgodnie z ust. 5 i 5a, pomniejsza się o podatek zapłacony przez jednostkę zależną na podstawie przepisów o kontrolowanych spółkach lub jednostkach zagranicznych obowiązujących w państwie siedziby, zarządu, rejestracji lub położenia jednostki zależnej, jeżeli jednostka zależna:
+12. Podatek obliczony zgodnie z ust. 1 przez podatnika z tytułu kontroli nad zagraniczną jednostką kontrolowaną pomniejsza się o podatek zapłacony przez jednostkę zależną na podstawie przepisów o kontrolowanych spółkach lub jednostkach zagranicznych, obowiązujących w państwie siedziby, zarządu, rejestracji lub położenia jednostki zależnej, w części, jaka odpowiada posiadanym prawom do uczestnictwa w zysku tej jednostki zależnej, jeżeli ta jednostka zależna:
 
 - 1) posiada bezpośrednio lub pośrednio co najmniej 50% prawa do uczestnictwa w zysku w tej zagranicznej jednostce kontrolowanej oraz
 
-- 2) jednostka zależna jest podatnikiem, o którym mowa w art. 3 ust. 1, albo istnieje podstawa prawna, wynikająca z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego państwa, w którym jednostka zależna będąca zagraniczną jednostką posiada rezydencję podatkową lub jest zarejestrowana lub położona.
+- 2) jednostka zależna jest podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, albo istnieje podstawa prawna, wynikająca z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego państwa, w którym jednostka zależna będąca zagraniczną jednostką posiada rezydencję podatkową lub jest zarejestrowana lub położona.
 
 13. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną jednostkę kontrolowaną w państwie jej siedziby lub zarządu, rejestracji albo położenia lub w innym państwie w proporcji, w jakiej pozostaje dochód ustalony zgodnie z ust. 5 i 5a do dochodu tej jednostki ustalonego zgodnie z ust. 7 oraz 7a. Przepisów art. 27 ust. 8-9a nie stosuje się. Przepis art. 11a stosuje się odpowiednio.
 

@@ -24,7 +24,7 @@
 
 9. Przy określaniu limitu, o którym mowa w ust. 7, nie uwzględnia się odpisów amortyzacyjnych od nieprzekraczającej 10 000 zł wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22f ust. 3.
 
-10. Pomoc, o której mowa w ust. 7, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
+10. Pomoc, o której mowa w ust. 7, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis .
 
 11. Przepis ust. 7 nie ma zastosowania do podatnika rozpoczynającego prowadzenie działalności gospodarczej, który w roku rozpoczęcia tej działalności, a także w okresie dwóch lat, licząc od końca roku poprzedzającego rok jej rozpoczęcia, prowadził działalność gospodarczą samodzielnie lub jako wspólnik spółki niebędącej osobą prawną lub działalność taką prowadził małżonek tej osoby, jeżeli między małżonkami istniała w tym czasie wspólność majątkowa.
 

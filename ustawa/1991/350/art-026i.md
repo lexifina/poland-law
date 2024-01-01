@@ -50,4 +50,4 @@
 
 18. Przepisów ust. 1 i 2 nie stosuje się do transakcji handlowych dokonywanych między podmiotami powiązanymi w rozumieniu art. 23m ust. 1 pkt 4.
 
-19. Podatnicy dokonujący zwiększenia lub zmniejszenia, o których mowa w ust. 1-4 albo ust. 7 i 8, obowiązani są wykazać w zeznaniu podatkowym wierzytelności lub zobowiązania, z którymi związane są te zwiększenia lub zmniejszenia.
+19. (uchylony)

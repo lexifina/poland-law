@@ -16,7 +16,7 @@
 
 - 2) stypendium sportowego;
 
-- 3) imprezy sportowej niebędącej masową imprezą sportową, o której mowa w art. 3 pkt 3 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2022 r. poz. 1466 i 1700).
+- 3) imprezy sportowej niebędącej masową imprezą sportową, o której mowa w art. 3 pkt 3 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2023 r. poz. 616).
 
 3. Przez stypendium sportowe, o którym mowa w ust. 2 pkt 2, rozumie się finansowane przez podatnika jednostronne, bezzwrotne świadczenie pieniężne, które jest przyznawane przez jednostki samorządu terytorialnego, ministra właściwego do spraw kultury fizycznej, organizacje pożytku publicznego lub kluby sportowe, za osiągnięcie określonego wyniku sportowego lub umożliwiające przygotowanie się do imprezy sportowej.
 

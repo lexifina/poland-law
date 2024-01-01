@@ -1,6 +1,6 @@
 # Art. 42g.
 
-1. Płatnicy oraz podmioty, o których mowa w art. 42a, przesyłają roczne obliczenie podatku, o którym mowa w art. 34 ust. 7, oraz informacje, o których mowa w art. 34 ust. 8, art. 35 ust. 10, art. 39 ust. 1 i 3, art. 42 ust. 2 pkt 1, art. 42a ust. 1 oraz art. 42e ust. 6:
+1. Płatnicy oraz podmioty, o których mowa w art. 42a, przesyłają roczne obliczenie podatku, o którym mowa w art. 34 ust. 7, oraz informacje, o których mowa w art. 34 ust. 8, art. 35 ust. 6, art. 39 ust. 1 i 3, art. 42 ust. 2 pkt 1, art. 42a ust. 1 oraz art. 42e ust. 6:
 
 - 1) urzędowi skarbowemu - w terminie do końca stycznia roku następującego po roku podatkowym;
 
