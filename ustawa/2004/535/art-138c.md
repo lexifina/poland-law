@@ -8,7 +8,7 @@
 
 - 2) posiada siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej na terytorium kraju, które wybiera w celu złożenia zgłoszenia, o którym mowa w art. 138e ust. 3;
 
-- 3) przez ostatnie 24 miesiące nie zalegała z wpłatami poszczególnych podatków stanowiących dochód budżetu państwa, przekraczającymi odrębnie w każdym podatku odpowiednio 3% kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, przy czym udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
+- 3) przez ostatnie 24 miesiące nie zalegała z wpłatami poszczególnych podatków stanowiących dochód budżetu państwa, przekraczającymi odrębnie w każdym podatku odpowiednio 3 % kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, przy czym udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
 
 - 4) przez ostatnie 24 miesiące osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem władz zarządzających, głównym księgowym, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy za popełnienie przestępstwa skarbowego;
 
@@ -16,7 +16,7 @@
 
 3. Wymóg, o którym mowa w ust. 2 pkt 3, uznaje się również za spełniony, jeżeli łącznie spełnione są następujące warunki:
 
-- 1) podmiot uregulował, wraz z odsetkami za zwłokę, zaległości przekraczające odrębnie w każdym podatku odpowiednio 3% kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, w terminie 30 dni od dnia powstania tych zaległości;
+- 1) podmiot uregulował, wraz z odsetkami za zwłokę, zaległości przekraczające odrębnie w każdym podatku odpowiednio 3 % kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, w terminie 30 dni od dnia powstania tych zaległości;
 
 - 2) uregulowanie zaległości zgodnie z pkt 1 w ostatnich 24 miesiącach nie dotyczyło więcej niż dwóch okresów rozliczeniowych odrębnie w każdym podatku.
 

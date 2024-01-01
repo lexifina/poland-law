@@ -10,4 +10,4 @@ Minister właściwy do spraw finansów publicznych określi, w drodze rozporząd
 
 - 4) dane faktury ustrukturyzowanej, których podanie umożliwia dostęp do tej faktury w Krajowym Systemie e-Faktur
 
-- uwzględniając konieczność zapewnienia prawidłowej identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, oraz zapewnienia dostępu do faktur ustrukturyzowanych i możliwości zapoznania się z ich treścią.
+- 6) - uwzględniając konieczność zapewnienia prawidłowej identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, oraz zapewnienia dostępu do faktur ustrukturyzowanych i możliwości zapoznania się z ich treścią. -

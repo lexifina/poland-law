@@ -8,7 +8,7 @@
 
 - 2) nieposiadający siedziby na terytorium kraju, w zakresie, w jakim prowadzą działalność gospodarczą na terytorium kraju za pośrednictwem oddziału położonego na terytorium kraju.
 
-3. Podatników uważa się za powiązanych finansowo, jeżeli jeden z podatników będących członkiem grupy VAT posiada bezpośrednio ponad 50% udziałów (akcji) w kapitale zakładowym lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do udziału w zysku, każdego z pozostałych podatników będących członkami tej grupy.
+3. Podatników uważa się za powiązanych finansowo, jeżeli jeden z podatników będących członkiem grupy VAT posiada bezpośrednio ponad 50 % udziałów (akcji) w kapitale zakładowym lub ponad 50 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50 % prawa do udziału w zysku, każdego z pozostałych podatników będących członkami tej grupy.
 
 4. Podatników uważa się za powiązanych ekonomicznie, jeżeli:
 
@@ -40,7 +40,7 @@
 
 - 3) wskazanie przedstawiciela grupy VAT, wyznaczonego spośród jej członków;
 
-- 4) dane identyfikacyjne udziałowców (akcjonariuszy) i wysokość ich udziału w kapitale zakładowym podatników tworzących grupę VAT, posiadających ponad 50% udziałów (akcji) w kapitale zakładowym tych podatników;
+- 4) dane identyfikacyjne udziałowców (akcjonariuszy) i wysokość ich udziału w kapitale zakładowym podatników tworzących grupę VAT, posiadających ponad 50 % udziałów (akcji) w kapitale zakładowym tych podatników;
 
 - 5) wskazanie okresu, na jaki grupa VAT została utworzona, nie krótszego niż 3 lata.
 

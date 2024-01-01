@@ -4,4 +4,4 @@
 
 # Art. 145c.
 
-Do wyrobów medycznych, o których mowa w poz. 13 załącznika nr 3 do ustawy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), stawkę podatku, o której mowa w art. 41 ust. 2, stosuje się do dnia 27 maja 2025 r.
+Do wyrobów medycznych, o których mowa w poz. 13 załącznika nr 3 do ustawy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974 oraz z 2023 r. poz. 1938), stawkę podatku, o której mowa w art. 41 ust. 2, stosuje się do dnia 27 maja 2025 r.

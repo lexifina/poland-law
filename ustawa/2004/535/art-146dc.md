@@ -10,4 +10,4 @@ W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
 
 - 4) przeznaczonych do napędu silników spalinowych gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych (CN 2711, z wyłączeniem CN 2711 11 00 i 2711 21 00) oraz gazowych węglowodorów alifatycznych (CN 2901), skroplonych
 
-- stawka podatku wynosi 8%.
+- stawka podatku wynosi 8 %.

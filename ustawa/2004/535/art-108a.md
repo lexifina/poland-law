@@ -14,7 +14,7 @@
 
 1d. W przypadku dokonania potrącenia wierzytelności przepisów ust. 1a i 1b nie stosuje się w zakresie, w jakim kwoty należności są potrącane.
 
-1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 30 i 203), jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
+1e. Przepisów ust. 1a i 1b nie stosuje się w przypadku dokonywania płatności kwoty należności wynikającej z faktury dokumentującej transakcje realizowane w wykonaniu umowy o partnerstwie publiczno-prywatnym, o której mowa w art. 7 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli podmiot, na rzecz którego dokonywana jest płatność, na dzień dokonania dostawy był partnerem prywatnym, z którym podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym, lub jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni, z którą podmiot publiczny zawarł umowę o partnerstwie publiczno-prywatnym.
 
 2. Zastosowanie mechanizmu podzielonej płatności polega na tym, że:
 
@@ -64,6 +64,6 @@
 
 - w kwocie otrzymanej na rachunek VAT, przy czym przepis ust. 3 stosuje się odpowiednio.
 
-7. W przypadku stwierdzenia, że podatnik dokonał płatności z naruszeniem ust. 1a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty podatku przypadającej na nabyte towary lub usługi wymienione w załączniku nr 15 do ustawy, wykazane na fakturze, której dotyczy płatność. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+7. W przypadku stwierdzenia, że podatnik dokonał płatności z naruszeniem ust. 1a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30 % kwoty podatku przypadającej na nabyte towary lub usługi wymienione w załączniku nr 15 do ustawy, wykazane na fakturze, której dotyczy płatność. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
 
 8. Przepisu ust. 7 nie stosuje się, jeżeli dostawca lub usługodawca rozliczył całą kwotę podatku wynikającą z faktury, która została zapłacona z naruszeniem ust. 1a.

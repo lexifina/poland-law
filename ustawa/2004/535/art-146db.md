@@ -6,4 +6,4 @@ W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
 
 - 2) energii cieplnej
 
-- stawka podatku wynosi 5%.
+- stawka podatku wynosi 5 %.

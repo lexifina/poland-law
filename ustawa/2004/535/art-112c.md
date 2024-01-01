@@ -10,6 +10,6 @@
 
 - 4) potwierdza czynności, do których mają zastosowanie przepisy art. 58 i art. 83 Kodeksu cywilnego - w części dotyczącej tych czynności
 
-- wysokość dodatkowego zobowiązania podatkowego w części dotyczącej podatku naliczonego wynikającego z powyższej faktury wynosi 100%.
+- wysokość dodatkowego zobowiązania podatkowego w części dotyczącej podatku naliczonego wynikającego z powyższej faktury wynosi 100 %.
 
 2. Przepisu ust. 1 nie stosuje się w zakresie ustalenia dodatkowego zobowiązania podatkowego w stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe.

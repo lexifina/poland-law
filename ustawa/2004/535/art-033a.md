@@ -6,7 +6,7 @@
 
 - 1) przedstawienia przez podatnika naczelnikowi urzędu celno-skarbowego, wydanych nie wcześniej niż 6 miesięcy przed dokonaniem importu:
 
-  - a) zaświadczeń o braku zaległości we wpłatach należnych składek na ubezpieczenie społeczne oraz we wpłatach poszczególnych podatków stanowiących dochód budżetu państwa, przekraczających odrębnie z każdego tytułu, w tym odrębnie w każdym podatku, odpowiednio 3% kwoty należnych składek i należnych zobowiązań podatkowych w poszczególnych podatkach; udział zaległości w kwocie składek lub podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość,
+  - a) zaświadczeń o braku zaległości we wpłatach należnych składek na ubezpieczenie społeczne oraz we wpłatach poszczególnych podatków stanowiących dochód budżetu państwa, przekraczających odrębnie z każdego tytułu, w tym odrębnie w każdym podatku, odpowiednio 3 % kwoty należnych składek i należnych zobowiązań podatkowych w poszczególnych podatkach; udział zaległości w kwocie składek lub podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość,
 
   - b) potwierdzenia zarejestrowania podatnika jako podatnika VAT czynnego;
 

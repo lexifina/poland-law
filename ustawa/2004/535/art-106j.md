@@ -20,7 +20,7 @@
 
 - 2) numer kolejny oraz datę jej wystawienia;
 
-- 2a) numer identyfikujący w Krajowym Systemie e-Faktur fakturę, której dotyczy faktura korygująca - w przypadku faktury korygującej w postaci faktury ustrukturyzowanej;
+- 2a) numer identyfikujący w Krajowym Systemie e-Faktur fakturę, której dotyczy faktura korygująca, z wyjątkiem faktur korygujących wystawianych do faktur, dla których nie został nadany numer identyfikujący w Krajowym Systemie e-Faktur;
 
 - 3) dane zawarte w fakturze, której dotyczy faktura korygująca:
 

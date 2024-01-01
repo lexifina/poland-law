@@ -72,6 +72,8 @@
 
   - b) numer, za pomocą którego nabywca towaru lub usługi jest zidentyfikowany na potrzeby podatku od wartości dodanej w danym państwie członkowskim, zawierający dwuliterowy kod stosowany na potrzeby podatku od wartości dodanej właściwy dla tego państwa członkowskiego.
 
+1a. W przypadku niewystawienia przez podatnika faktury, o której mowa w art. 106b ust. 1 pkt 4, z powodów określonych w art. 106b ust. 1a, wystawiona przez podatnika po wydaniu towaru lub wykonaniu usługi faktura w zakresie danych określonych w ust. 1 pkt 6 powinna zawierać datę dokonania lub zakończenia dostawy towarów lub wykonania usługi i datę otrzymania zapłaty, o której mowa w art. 106b ust. 1 pkt 4, jeżeli taka data jest określona i różni się od daty wystawienia faktury.
+
 2. W przypadku świadczenia usług turystyki, dla których podstawę opodatkowania stanowi zgodnie z art. 119 ust. 1 kwota marży, faktura - w zakresie danych określonych w ust. 1 pkt 1-17 - powinna zawierać wyłącznie dane określone w ust. 1 pkt 1-8 i 15-17, a także wyrazy „procedura marży dla biur podróży”.
 
 3. W przypadku dostawy towarów używanych, dzieł sztuki, przedmiotów kolekcjonerskich i antyków, dla których podstawę opodatkowania stanowi zgodnie z art. 120 ust. 4 i 5 marża, faktura - w zakresie danych określonych w ust. 1 pkt 1-17 - powinna zawierać wyłącznie dane określone w ust. 1 pkt 1-8 i 15-17, a także odpowiednio wyrazy „procedura marży - towary używane”, „procedura marży - dzieła sztuki” lub „procedura marży - przedmioty kolekcjonerskie i antyki”.
@@ -108,6 +110,6 @@
 
 11. Kwoty podatku wykazuje się w złotych. Kwoty podatku wyrażone w walucie obcej wykazuje się w złotych przy zastosowaniu zasad przeliczania na złote przyjętych dla przeliczania kwot stosowanych do określenia podstawy opodatkowania. Kwoty wykazywane w fakturze zaokrągla się do pełnych groszy, przy czym końcówki poniżej 0,5 grosza pomija się, a końcówki od 0,5 grosza zaokrągla się do 1 grosza.
 
-12. W przypadku stwierdzenia, że podatnik wystawił fakturę z naruszeniem ust. 1 pkt 18a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty podatku przypadającej na dostawę towarów lub świadczenie usług wymienionych w załączniku nr 15 do ustawy, wykazanej na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+12. W przypadku stwierdzenia, że podatnik wystawił fakturę z naruszeniem ust. 1 pkt 18a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30 % kwoty podatku przypadającej na dostawę towarów lub świadczenie usług wymienionych w załączniku nr 15 do ustawy, wykazanej na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
 
 13. Przepisu ust. 12 nie stosuje się, jeżeli zapłata kwoty odpowiadającej kwocie podatku przypadającej na dostawę towarów lub świadczenie usług wymienionych w załączniku nr 15 do ustawy, wykazanej na fakturze, została dokonana z zastosowaniem mechanizmu podzielonej płatności.

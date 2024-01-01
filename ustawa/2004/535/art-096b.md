@@ -28,7 +28,7 @@
 
 - 6) adres siedziby - w przypadku podmiotu niebędącego osobą fizyczną;
 
-- 7) adres stałego miejsca prowadzenia działalności albo adres miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności - w odniesieniu do osoby fizycznej;
+- 7) adres stałego miejsca prowadzenia działalności albo adres miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności ‒ w odniesieniu do osoby fizycznej;
 
 - 8) imiona i nazwiska osób wchodzących w skład organu uprawnionego do reprezentowania podmiotu oraz ich numery identyfikacji podatkowej;
 

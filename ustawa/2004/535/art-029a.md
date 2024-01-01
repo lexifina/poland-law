@@ -46,7 +46,7 @@
 
 - 1) kwoty udzielonych po dokonaniu sprzedaży opustów i obniżek cen;
 
-- 2) wartość zwróconych towarów i opakowań, z zastrzeżeniem ust. 11 i 12;
+- 2) wartość zwróconych towarów i opakowań;
 
 - 3) zwróconą nabywcy całość lub część zapłaty otrzymaną przed dokonaniem sprzedaży, jeżeli do niej nie doszło;
 
@@ -54,11 +54,17 @@
 
 11. Do podstawy opodatkowania nie wlicza się wartości opakowania, jeżeli podatnik dokonał dostawy towaru w opakowaniu zwrotnym, pobierając kaucję za to opakowanie lub określając taką kaucję w umowie dotyczącej dostawy towaru.
 
+11a. Do podstawy opodatkowania nie wlicza się wartości opakowania wielokrotnego użytku, jeżeli podatnik dokonał dostawy towaru w tym opakowaniu.
+
 12. W przypadku niezwrócenia przez nabywcę opakowania, o którym mowa w ust. 11, podstawę opodatkowania podwyższa się o wartość tego opakowania:
 
 - 1) w dniu następującym po dniu, w którym umowa przewidywała zwrot opakowania - jeżeli tego opakowania nie zwrócono w terminie określonym w umowie;
 
 - 2) 60. dnia od dnia wydania opakowania - jeżeli w umowie nie określono terminu zwrotu tego opakowania.
+
+12a. W przypadku niezwrócenia przez nabywcę opakowania wielokrotnego użytku wprowadzający produkty w opakowaniach na napoje podwyższa podstawę opodatkowania o wartość tego opakowania. Przez niezwrócenie opakowania wielokrotnego użytku rozumie się również zwrot odpadu opakowaniowego.
+
+12b. W przypadku, o którym mowa w ust. 12a, wprowadzający produkty w opakowaniach na napoje określa wysokość zmiany podstawy opodatkowania na ostatni dzień roku przez określenie różnicy między liczbą wprowadzonych do obrotu a liczbą zwróconych w danym roku opakowań wielokrotnego użytku. Jeżeli liczba zwróconych w danym roku opakowań wielokrotnego użytku jest większa od liczby wprowadzonych do obrotu w danym roku opakowań wielokrotnego użytku, wprowadzający produkty w opakowaniach na napoje uwzględnia tę różnicę przy ustaleniu wartości podstawy opodatkowania dla kolejnego roku.
 
 13. W przypadkach, o których mowa w ust. 10 pkt 1-3, obniżenia podstawy opodatkowania, w stosunku do podstawy określonej w wystawionej fakturze z wykazanym podatkiem, dokonuje się za okres rozliczeniowy, w którym podatnik wystawił fakturę korygującą, pod warunkiem że z posiadanej przez tego podatnika dokumentacji wynika, że uzgodnił on z nabywcą towaru lub usługobiorcą warunki obniżenia podstawy opodatkowania dla dostawy towarów lub świadczenia usług określone w fakturze korygującej oraz warunki te zostały spełnione, a faktura ta jest zgodna z posiadaną dokumentacją. W przypadku gdy w okresie rozliczeniowym, w którym została wystawiona faktura korygująca, podatnik nie posiada dokumentacji, o której mowa w zdaniu pierwszym, obniżenia podstawy opodatkowania dokonuje za okres rozliczeniowy, w którym dokumentację tę uzyskał.
 

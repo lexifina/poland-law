@@ -12,6 +12,6 @@
 
 2. Przepisy art. 106e ust. 1 pkt 16-21 i 24 oraz ust. 2-6, 10 i 11 stosuje się odpowiednio.
 
-3. Jeżeli faktura, o której mowa w ust. 1, nie obejmuje całej zapłaty, w fakturze wystawianej po wydaniu towaru lub wykonaniu usługi sumę wartości towarów lub usług pomniejsza się o wartość otrzymanych części zapłaty, a kwotę podatku pomniejsza się o sumę kwot podatku wykazanego w fakturach dokumentujących otrzymanie części zapłaty. Faktura, o której mowa w zdaniu pierwszym, powinna również zawierać numery faktur wystawionych przed wydaniem towaru lub wykonaniem usługi.
+3. Jeżeli faktura, o której mowa w ust. 1, nie obejmuje całej zapłaty, w fakturze wystawianej po wydaniu towaru lub wykonaniu usługi sumę wartości towarów lub usług pomniejsza się o wartość otrzymanych części zapłaty, a kwotę podatku pomniejsza się o sumę kwot podatku wykazanego w fakturach dokumentujących otrzymanie części zapłaty. Faktura, o której mowa w zdaniu pierwszym, powinna również zawierać numery identyfikujące w Krajowym Systemie e-Faktur faktury wystawione przed wydaniem towaru lub wykonaniem usługi, a w przypadku faktur innych niż faktury ustrukturyzowane - numery tych faktur.
 
-4. W przypadku gdy wystawiono więcej niż jedną fakturę dokumentującą otrzymanie części zapłaty, a faktury te obejmują łącznie całą zapłatę, ostatnia z tych faktur powinna zawierać również numery poprzednich faktur.
+4. W przypadku gdy wystawiono więcej niż jedną fakturę dokumentującą otrzymanie części zapłaty, a faktury te obejmują łącznie całą zapłatę, ostatnia z tych faktur powinna zawierać również numery identyfikujące poprzednie faktury w Krajowym Systemie e-Faktur, a w przypadku faktur innych niż faktury ustrukturyzowane - numery poprzednich faktur.

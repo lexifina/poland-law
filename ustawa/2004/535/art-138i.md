@@ -10,11 +10,11 @@
 
 - 1) do towarów nie stosuje się procedury szczególnej, o której mowa w rozdziale 9, ani zasad odpowiadających tym regulacjom;
 
-- 2) osoba odpowiedzialna za pobór podatku jest operatorem pocztowym w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub podatnikiem posiadającym status upoważnionego przedsiębiorcy w rozumieniu art. 38 unijnego kodeksu celnego.
+- 2) osoba odpowiedzialna za pobór podatku jest operatorem pocztowym w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2023 r. poz. 1640) lub podatnikiem posiadającym status upoważnionego przedsiębiorcy w rozumieniu art. 38 unijnego kodeksu celnego.
 
 3. Osoba odpowiedzialna za pobór podatku oblicza i pobiera podatek w prawidłowej wysokości od osoby, dla której towary są przeznaczone, nie później niż w momencie doręczenia tej osobie przesyłki i dokonuje płatności tego podatku. Osoba, dla której towary są przeznaczone, jest obowiązana do zapłaty podatku.
 
-4. Dla importu towarów, o którym mowa w ust. 1, stawka podatku wynosi 22%.
+4. Dla importu towarów, o którym mowa w ust. 1, stawka podatku wynosi 22 %.
 
 5. Osoba odpowiedzialna za pobór podatku jest obowiązana składać za pomocą środków komunikacji elektronicznej deklarację miesięczną. Za deklarację miesięczną uznaje się sumę zgłoszeń celnych, dokonywanych według miejsca przedstawienia towarów organom celnym, zawierających całkowitą kwotę podatku pobranego w miesiącu, za który składane są te zgłoszenia celne.
 
@@ -52,4 +52,4 @@
 
 - 2) w którym podatek nie został wpłacony w terminie, o którym mowa w ust. 6.
 
-16. Przepisu ust. 14 pkt 1 nie stosuje się, gdy kwota podatku określona w decyzji, o której mowa w ust. 9, nie przekracza 1% kwoty podatku w prawidłowej wysokości.
+16. Przepisu ust. 14 pkt 1 nie stosuje się, gdy kwota podatku określona w decyzji, o której mowa w ust. 9, nie przekracza 1 % kwoty podatku w prawidłowej wysokości.

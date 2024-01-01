@@ -28,7 +28,7 @@
 
 5a. Przepisu ust. 5 pkt 1 nie stosuje się w przypadku, gdy zaległości podatkowe zostały objęte decyzją wydaną na podstawie art. 67a § 1 pkt 2 Ordynacji podatkowej.
 
-6. Podatnik będący państwową jednostką budżetową dysponuje środkami zgromadzonymi na rachunkach VAT prowadzonych dla rachunków rozliczeniowych, o których mowa w art. 196 ust. 1 pkt 2 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.), na podstawie przepisów tej ustawy.
+6. Podatnik będący państwową jednostką budżetową dysponuje środkami zgromadzonymi na rachunkach VAT prowadzonych dla rachunków rozliczeniowych, o których mowa w art. 196 ust. 1 pkt 2 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), na podstawie przepisów tej ustawy.
 
 7. W przypadku rozwiązania spółki cywilnej lub spółki handlowej niemającej osobowości prawnej z wnioskiem, o którym mowa w ust. 1, mogą wystąpić również osoby, które były wspólnikami tych spółek. Przepisy ust. 2-5a stosuje się odpowiednio.
 

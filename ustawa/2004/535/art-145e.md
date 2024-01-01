@@ -4,7 +4,7 @@
 
 # Art. 145e.
 
-1. W okresie od dnia 1 kwietnia 2023 r. do dnia 28 lutego 2025 r. w przypadku dostawy gazu w systemie gazowym, dostawy energii elektrycznej w systemie elektroenergetycznym i świadczenia usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych, o których mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589), podatnikami są osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne będące nabywcą tego gazu, tej energii lub usługobiorcą tych uprawnień, jeżeli łącznie są spełnione następujące warunki:
+1. W okresie od dnia 1 kwietnia 2023 r. do dnia 28 lutego 2025 r. w przypadku dostawy gazu w systemie gazowym, dostawy energii elektrycznej w systemie elektroenergetycznym i świadczenia usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych, o których mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029), podatnikami są osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne będące nabywcą tego gazu, tej energii lub usługobiorcą tych uprawnień, jeżeli łącznie są spełnione następujące warunki:
 
 - 1) w przypadku dostawy tego gazu lub tej energii - nabywcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4, którego główna działalność w odniesieniu do nabywania gazu lub energii elektrycznej polega na ich odprzedaży i którego własne zużycie tych towarów jest nieznaczne;
 

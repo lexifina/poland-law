@@ -1,6 +1,6 @@
 # Art. 146ej.
 
-1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w okresie, o którym mowa w art. 146ef, może obniżać stawki podatku do wysokości 0%, 5% lub 8% dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
+1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w okresie, o którym mowa w art. 146ef, może obniżać stawki podatku do wysokości 0 %, 5 % lub 8 % dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
 
 2. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzenia, o którym mowa w ust. 1, uwzględnia:
 

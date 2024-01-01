@@ -1,6 +1,6 @@
 # Art. 86a.
 
-1. W przypadku wydatków związanych z pojazdami samochodowymi kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, stanowi 50% kwoty podatku:
+1. W przypadku wydatków związanych z pojazdami samochodowymi kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, stanowi 50 % kwoty podatku:
 
 - 1) wynikającej z faktury otrzymanej przez podatnika;
 
