@@ -1,0 +1,1 @@
+Na podstawie art. 34a ust. 4 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2023 r. poz. 926 i 1114) zarządza się, co następuje:
