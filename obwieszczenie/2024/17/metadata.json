@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/17",
+ "source_sha256": "88895d3cff9c3ad59103e187f2150efd5ea824f80f570bc002e3458e796390c6",
+ "in_force": "2024-01-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/17",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/17/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/17/text/O/D20240017.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/17/text/I/D20240017.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/17/text/T/D20240017L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/17/text/U/D20240017Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/17",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 17,
+  "address": "WDU20240000017",
+  "displayAddress": "Dz.U. 2024 poz. 17",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2023-12-07",
+  "promulgation": "2024-01-04",
+  "expirationDate": "2025-03-25",
+  "changeDate": "2025-03-27T10:26:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/553"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240017.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240017.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20240017L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20240017Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
