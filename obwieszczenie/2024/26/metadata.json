@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/26",
+ "source_sha256": "a1746f05ce5f92b3a4b9ee494bb8b453e604f24d6ac04f70ed2a65b331f01491",
+ "in_force": "2024-01-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/26",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/26/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/26/text/O/D20240026.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/26/text/I/D20240026.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/26",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 26,
+  "address": "WDU20240000026",
+  "displayAddress": "Dz.U. 2024 poz. 26",
+  "title": "Obwieszczenie Ministra Edukacji z dnia 28 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2023-12-28",
+  "promulgation": "2024-01-09",
+  "changeDate": "2024-03-14T13:02:56",
+  "releasedBy": [
+   "MIN. EDUKACJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "egzaminy",
+   "kwalifikacje",
+   "szkolnictwo zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/673"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240026.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240026.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
