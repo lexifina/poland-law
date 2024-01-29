@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/105",
+ "source_sha256": "2952c44d62ea0a2d8acfb12859fca5c5cf7ea660f59ab3dcf0282dc3afb6a58a",
+ "in_force": "2024-01-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/105",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/105/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/105/text/O/D20240105.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/105/text/I/D20240105.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/105/text/T/D20240105L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/105/text/U/D20240105Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/105",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 105,
+  "address": "WDU20240000105",
+  "displayAddress": "Dz.U. 2024 poz. 105",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nawozach i nawożeniu",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-01-24",
+  "promulgation": "2024-01-29",
+  "changeDate": "2026-03-30T16:11:16",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nawozy",
+   "ochrona roślin",
+   "nasiennictwo i szkółkarstwo",
+   "rośliny",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2025/1795",
+     "date": "2025-11-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2007/1033"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240105.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240105.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20240105L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20240105Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
