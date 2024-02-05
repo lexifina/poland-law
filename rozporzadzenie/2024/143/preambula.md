@@ -1,0 +1,1 @@
+Na podstawie art. 28 ust. 6 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267, z 2023 r. poz. 1586 i 2005 oraz z 2024 r. poz. 123) zarządza się, co następuje:
