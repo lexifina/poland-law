@@ -1,0 +1,1 @@
+Na podstawie art. 179a ust. 10 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941) zarządza się, co następuje:
