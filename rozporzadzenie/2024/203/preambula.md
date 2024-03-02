@@ -1,0 +1,1 @@
+Na podstawie art. 6 ust. 10 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2023 r. poz. 826, 1733, 1938 i 2105) zarządza się, co następuje:
