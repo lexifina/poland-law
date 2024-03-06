@@ -1,0 +1,1 @@
+Na podstawie art. 122 ust. 1, art. 123 ust. 4, art. 125 ust. 6, art. 126 ust. 6, art. 129, art. 131 ust. 10, art. 132 ust. 5, art. 137, art. 138 ust. 5 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723) zarządza się, co następuje:
