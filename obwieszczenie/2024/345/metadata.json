@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/345",
+ "source_sha256": "52ae5c08d9983905bd5c49eaf7ab0f6b083d60efc9515e52526fb4e696547599",
+ "in_force": "2024-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/345",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/345/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/345/text/O/D20240345.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/345/text/I/D20240345.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/345/text/T/D20240345L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/345/text/U/D20240345Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/345",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 345,
+  "address": "WDU20240000345",
+  "displayAddress": "Dz.U. 2024 poz. 345",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Zespole Pomocy Humanitarno-Medycznej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-03-11",
+  "promulgation": "2024-03-12",
+  "changeDate": "2026-02-27T14:40:38",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "medyczne wyroby",
+   "organizacja i zakres działania",
+   "leki i artykuły sanitarne",
+   "działalność pożytku publicznego",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [
+   "Zespół Pomocy Humanitarno-Medycznej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/160",
+     "date": "2026-01-09"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2022/1095"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240345.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240345.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20240345L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20240345Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
