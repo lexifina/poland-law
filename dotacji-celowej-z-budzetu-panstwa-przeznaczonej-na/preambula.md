@@ -1,0 +1,1 @@
+Na podstawie art. 21 ustawy z dnia 17 sierpnia 2023 r. o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego (Dz. U. poz. 1737) zarządza się, co następuje:
