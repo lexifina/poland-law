@@ -12,7 +12,7 @@
 
 § 2. Skazany, wobec którego wykonywany jest dozór stacjonarny, ma ponadto obowiązek:
 
-- 1) pozostawać we wskazanym przez sąd miejscu w wyznaczonym czasie;
+- 1) pozostawać we wskazanym przez sąd albo komisję penitencjarną miejscu w wyznaczonym czasie;
 
 - 2) odbierać połączenia przychodzące do rejestratora stacjonarnego;
 

@@ -12,4 +12,4 @@
 
 § 4. Odpis postanowienia sądu penitencjarnego doręcza się sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
 
-§ 5. O wydaniu postanowienia sędzia penitencjarny niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, jeżeli złożyli wniosek, o którym mowa w art. 168a.
+§ 5. O wydaniu postanowienia sędzia penitencjarny niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, w przypadku, o którym mowa w art. 168a § 2a, albo jeżeli został złożony wniosek, o którym mowa w art. 168a § 1 i 1a.

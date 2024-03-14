@@ -8,7 +8,7 @@ Skazanemu nie wolno:
 
 - 3) uprawiać gier hazardowych;
 
-- 4) spożywać alkoholu oraz używać środków odurzających lub substancji psychotropowych;
+- 4) używać substancji psychoaktywnej niezależnie od drogi podania;
 
 - 5) odmawiać przyjmowania posiłków dostarczanych przez administrację zakładu karnego w celu wymuszenia określonej decyzji lub postępowania, a także powodować u siebie uszkodzenia ciała lub rozstroju zdrowia, jak również nakłaniać lub pomagać w dokonywaniu takich czynów;
 

@@ -4,7 +4,7 @@
 
 § 1. Wykonując dozór elektroniczny, podmiot dozorujący:
 
-- 1) niezwłocznie po zaistnieniu warunków technicznych informuje sąd o możliwości rozpoczęcia wykonywania dozoru elektronicznego;
+- 1) niezwłocznie po zaistnieniu warunków technicznych informuje sąd albo komisję penitencjarną o możliwości rozpoczęcia wykonywania dozoru elektronicznego;
 
 - 2) zakłada skazanemu nadajnik niezwłocznie, nie później jednak niż w terminie 3 dni od dnia zgłoszenia przez skazanego gotowości, o której mowa w art. 43m;
 

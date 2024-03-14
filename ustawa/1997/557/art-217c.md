@@ -19,3 +19,7 @@
 § 3a. Zarządzenie o zgodzie na korzystanie z samoinkasującego aparatu telefonicznego do kontaktu z osobą, o której mowa w § 1a, uprawnia do wielokrotnego kontaktu w ramach przewidzianych w tym przepisie i obowiązuje do chwili zakończenia wykonywania tymczasowego aresztowania, bez względu na zmianę organu, do którego dyspozycji tymczasowo aresztowany pozostaje. W wypadku, o którym mowa w § 2, organ, do którego dyspozycji tymczasowo aresztowany pozostaje, wydaje zarządzenie o cofnięciu zgody na korzystanie z samoinkasującego aparatu telefonicznego.
 
 § 4. Na zarządzenie o odmowie wyrażenia zgody na korzystanie z samoinkasującego aparatu telefonicznego albo o jej cofnięciu tymczasowo aresztowanemu przysługuje zażalenie do sądu, do którego dyspozycji pozostaje. Zażalenie na zarządzenie prokuratora rozpoznaje prokurator nadrzędny.
+
+§ 5. Zapewnienie systemu służącego realizacji uprawnienia, o którym mowa w § 1, można powierzyć przywięziennemu zakładowi pracy wskazanemu przez Ministra Sprawiedliwości, w drodze decyzji, która podlega ogłoszeniu w Dzienniku Urzędowym Ministra Sprawiedliwości. W takim wypadku dla każdego aresztu śledczego jest zawierana odrębna umowa podpisana przez dyrektora aresztu śledczego z przywięziennym zakładem pracy.
+
+§ 6. Dyrektor Generalny Służby Więziennej określi, w drodze zarządzenia, warunki umów, o których mowa w § 5 zdanie drugie.

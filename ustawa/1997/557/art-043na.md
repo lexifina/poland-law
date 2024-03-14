@@ -1,6 +1,6 @@
 # Art. 43na.
 
-Obowiązek określony w art. 43n § 2 pkt 1 obejmuje pozostawanie skazanego w miejscu stałego pobytu lub w innym wskazanym miejscu w wyznaczonym czasie. Sąd penitencjarny określa przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia, w których skazany ma prawo się oddalić z miejsca stałego pobytu lub innego wskazanego miejsca na okres nieprzekraczający 12 godzin dziennie, w szczególności w celu:
+Obowiązek określony w art. 43n § 2 pkt 1 obejmuje pozostawanie skazanego w miejscu stałego pobytu lub w innym wskazanym miejscu w wyznaczonym czasie. Sąd penitencjarny albo komisja penitencjarna określa przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia, w których skazany ma prawo się oddalić z miejsca stałego pobytu lub innego wskazanego miejsca na okres nieprzekraczający 12 godzin dziennie, w szczególności w celu:
 
 - 1) świadczenia pracy;
 

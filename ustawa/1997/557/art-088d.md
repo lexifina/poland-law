@@ -44,7 +44,7 @@
 
 § 6. Jeżeli po upływie terminu, o którym mowa w § 5, w dalszym ciągu występuje poważne zagrożenie lub istnieje bezpośrednia obawa wystąpienia poważnego zagrożenia dla życia lub zdrowia skazanego, szczególną ochronę przedłuża się na kolejny okres; przepisy § 3 i 4 stosuje się odpowiednio. Decyzja o przedłużeniu szczególnej ochrony winna być wydana w sposób zabezpieczający ciągłość stosowania tej ochrony.
 
-§ 7. W wypadku ustania przyczyny objęcia skazanego szczególną ochroną, dyrektor zakładu karnego, na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, a jeżeli skazanego objęto szczególną ochroną z urzędu - z urzędu, cofa szczególną ochronę.W wypadku objęcia szczególną ochroną skazanego na jego wniosek, cofnięcie szczególnej ochrony może nastąpić na wniosek skazanego lub z urzędu, po zasięgnięciu opinii odpowiednio sądu lub prokuratora, o których mowa w § 3, a po zakończeniu postępowania karnego opinii sędziego penitencjarnego.
+§ 7. W wypadku ustania przyczyny objęcia skazanego szczególną ochroną, dyrektor zakładu karnego, na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, a jeżeli skazanego objęto szczególną ochroną z urzędu - z urzędu, cofa szczególną ochronę. W wypadku objęcia szczególną ochroną skazanego na jego wniosek, cofnięcie szczególnej ochrony może nastąpić na wniosek skazanego lub z urzędu, po zasięgnięciu opinii odpowiednio sądu lub prokuratora, o których mowa w § 3, a po zakończeniu postępowania karnego opinii sędziego penitencjarnego.
 
 § 8. Decyzję o objęciu szczególną ochroną, a także decyzję o przedłużeniu lub o cofnięciu jej stosowania doręcza się skazanemu.
 

@@ -18,7 +18,7 @@
 
 - 8) widzenia skazanych odbywają się w wyznaczonych miejscach pod wzmocnionym dozorem. Skazani nie mogą korzystać z widzeń w obecności skazanych, wobec których nie podjęto decyzji, o której mowa w art. 76 § 1 pkt 7;
 
-- 9) widzenia mogą być udzielane w sposób uniemożliwiający bezpośredni kontakt z osobami odwiedzającymi, jeżeli zachodzi poważne zagrożenie bezpieczeństwa osób odwiedzających. Decyzje w tej sprawie podejmuje dyrektor zakładu karnego. Nie dotyczy to osób, o których mowa w art. 8 § 3. Jednak na żądanie tych osób widzeń udziela się w sposób uniemożliwiający bezpośredni kontakt ze skazanymi. W czasie korzystania z widzeń skazani nie mogą spożywać artykułów żywnościowych i napojów;
+- 9) widzenia udzielane są w sposób uniemożliwiający bezpośredni kontakt z osobami odwiedzającymi, chyba że dyrektor zakładu karnego, w uzasadnionych wypadkach, wyrazi zgodę na udzielenie widzenia w sposób umożliwiający bezpośredni kontakt z osobami odwiedzającymi. Nie dotyczy to osób, o których mowa w art. 8 § 3, jednak na żądanie tych osób widzeń udziela się w sposób uniemożliwiający bezpośredni kontakt ze skazanymi. W czasie korzystania z widzeń skazani nie mogą spożywać artykułów żywnościowych i napojów;
 
 - 10) skazani nie mogą korzystać z własnej odzieży i obuwia.
 

@@ -6,7 +6,7 @@
 
 § 3. W systemie dozoru elektronicznego można kontrolować:
 
-- 1) przebywanie przez skazanego w określonych dniach tygodnia i godzinach we wskazanym przez sąd miejscu (dozór stacjonarny);
+- 1) przebywanie przez skazanego w określonych dniach tygodnia i godzinach we wskazanym przez sąd albo komisję penitencjarną miejscu (dozór stacjonarny);
 
 - 2) bieżące miejsce pobytu skazanego, niezależnie od tego, gdzie skazany przebywa (dozór mobilny);
 

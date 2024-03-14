@@ -2,7 +2,7 @@
 
 # Art. 43m.
 
-§ 1. Skazany ma obowiązek zgłosić podmiotowi dozorującemu, w terminie i w sposób, które zostały określone przez sąd, gotowość do instalacji środków technicznych.
+§ 1. Skazany ma obowiązek zgłosić podmiotowi dozorującemu, w terminie i w sposób, które zostały określone przez sąd albo komisję penitencjarną, gotowość do instalacji środków technicznych.
 
 § 2. Podmiot dozorujący dokonuje niezwłocznej rejestracji zgłoszenia, o którym mowa w § 1.
 

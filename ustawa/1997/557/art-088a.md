@@ -1,8 +1,8 @@
 # Art. 88a.
 
-§ 1. Za skazanego stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu można uznać skazanego, który popełnił przestępstwo o bardzo wysokim stopniu społecznej szkodliwości, w szczególności:
+§ 1. Za skazanego stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu można uznać skazanego, który:
 
-- 1) przestępstwo:
+- 1) popełnił przestępstwo o bardzo wysokim stopniu społecznej szkodliwości, w szczególności przestępstwo:
 
   - a) zamachu na: - niepodległość lub integralność Rzeczypospolitej Polskiej, - konstytucyjny ustrój państwa lub konstytucyjne organy Rzeczypospolitej Polskiej, - życie Prezydenta Rzeczypospolitej Polskiej, - jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej,
 
@@ -14,7 +14,9 @@
 
   - e) z użyciem broni palnej, materiałów wybuchowych albo łatwopalnych;
 
-- 2) podczas uprzedniego lub obecnego pozbawienia wolności stwarzał zagrożenie dla bezpieczeństwa zakładu karnego lub aresztu śledczego w ten sposób, że:
+- 2) popełnił przestępstwo w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw, zwłaszcza z uwagi na jego kierowniczą lub znaczącą rolę w grupie lub związku;
+
+- 3) podczas uprzedniego lub obecnego pozbawienia wolności stwarzał zagrożenie dla bezpieczeństwa zakładu karnego lub aresztu śledczego w ten sposób, że:
 
   - a) był organizatorem lub aktywnym uczestnikiem zbiorowego wystąpienia w zakładzie karnym lub areszcie śledczym,
 
@@ -22,9 +24,7 @@
 
   - c) był sprawcą zgwałcenia, ciężkiego uszczerbku na zdrowiu albo znęcał się nad skazanym, ukaranym lub tymczasowo aresztowanym,
 
-  - d) uwolnił się lub usiłował uwolnić się z zakładu karnego typu zamkniętego lub aresztu śledczego albo podczas konwojowania poza terenem takiego zakładu lub aresztu;
-
-- 3) przestępstwo w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw, zwłaszcza z uwagi na jego kierowniczą lub znaczącą rolę w grupie lub związku.
+  - d) uwolnił się lub usiłował uwolnić się z zakładu karnego lub aresztu śledczego albo podczas konwojowania poza terenem zakładu lub aresztu.
 
 § 2. Przy podjęciu i każdorazowej weryfikacji decyzji o uznaniu skazanego za stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu komisja penitencjarna uwzględnia:
 

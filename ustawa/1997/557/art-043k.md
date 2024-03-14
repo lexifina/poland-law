@@ -10,7 +10,7 @@
 
 § 3. (uchylony)
 
-§ 4. Po ogłoszeniu lub przy doręczeniu postanowienia o rozpoczęciu dozoru elektronicznego albo postanowienia o udzieleniu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego należy doręczyć skazanemu pisemne pouczenie o przysługujących mu prawach i ciążących na nim obowiązkach związanych z dozorem elektronicznym, jak również o konsekwencjach naruszenia tych obowiązków. Odpis postanowienia przesyła się niezwłocznie sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
+§ 4. Po ogłoszeniu lub przy doręczeniu postanowienia o rozpoczęciu dozoru elektronicznego albo postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego należy doręczyć skazanemu pisemne pouczenie o przysługujących mu prawach i ciążących na nim obowiązkach związanych z dozorem elektronicznym, jak również o konsekwencjach naruszenia tych obowiązków. Odpis postanowienia albo decyzji przesyła się niezwłocznie sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
 
 § 5. (uchylony)
 

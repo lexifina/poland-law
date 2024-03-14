@@ -12,7 +12,7 @@
 
 § 3. Do grupy podwyższonego ryzyka (C) kwalifikuje się:
 
-- 1) skazanych określonych w art. 64 § 1 i 2 Kodeksu karnego;
+- 1) skazanych określonych w art. 64 § 1 i 2 i art. 64a Kodeksu karnego;
 
 - 2) skazanych, którzy po wydaniu wyroku lub w okresie próby popełnili przestępstwo podobne;
 

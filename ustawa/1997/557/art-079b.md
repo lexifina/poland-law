@@ -5,3 +5,5 @@
 § 2. Umieszczenia w celi przejściowej nie stosuje się do skazanego przetransportowanego z innego zakładu karnego albo aresztu śledczego, jeżeli był już poddany badaniom i zabiegom, o których mowa w § 1.
 
 § 3. Skazanego informuje się o obliczonym okresie wykonywania kary. Przyjęcie informacji do wiadomości skazany potwierdza podpisem.
+
+§ 4. Skazanego informuje się o odpowiedzialności karnej i odpowiedzialności dyscyplinarnej za naruszenie nietykalności cielesnej, czynną napaść lub znieważenie funkcjonariusza publicznego lub osoby do pomocy mu przybranej podczas lub w związku z pełnieniem obowiązków służbowych.
