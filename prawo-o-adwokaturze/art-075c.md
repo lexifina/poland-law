@@ -1,0 +1,43 @@
+# Art. 75c.
+
+1. Minister Sprawiedliwości zamieszcza w Biuletynie Informacji Publicznej w terminie do dnia 30 czerwca każdego roku ogłoszenie o egzaminie wstępnym, w którym podaje w szczególności:
+
+- 1) termin złożenia zgłoszenia o przystąpieniu do egzaminu wstępnego na aplikację adwokacką, zwanego dalej „zgłoszeniem”;
+
+- 2) właściwość miejscową każdej z komisji kwalifikacyjnych i adres jej siedziby;
+
+- 3) termin przeprowadzenia egzaminu wstępnego;
+
+- 4) wysokość opłaty za egzamin wstępny, o której mowa w art. 75d ust. 1.
+
+2. Zgłoszenie, o którym mowa w ust. 1 pkt 1, powinno zawierać:
+
+- 1) wniosek o dopuszczenie do egzaminu wstępnego;
+
+- 2) kwestionariusz osobowy;
+
+- 3) życiorys;
+
+- 4) kopię dokumentu potwierdzającego ukończenie wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskanie tytułu magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej, albo zaświadczenie o zdaniu egzaminu magisterskiego;
+
+- 5) (uchylony)
+
+- 6) oryginał dowodu uiszczenia opłaty za egzamin wstępny;
+
+- 7) 3 zdjęcia zgodnie z wymaganiami obowiązującymi przy wydawaniu dowodów osobistych.
+
+2a. Zamiast dokumentów, o których mowa w ust. 2 pkt 4, można złożyć zaświadczenie, z którego wynika, iż kandydat zdał wszystkie egzaminy i odbył praktyki przewidziane w planie wyższych studiów prawniczych oraz ma wyznaczony termin egzaminu magisterskiego. Warunkiem dopuszczenia do egzaminu wstępnego takiego kandydata jest złożenie przez niego w siedzibie komisji kwalifikacyjnej nie później niż 7 dni przed terminem egzaminu wstępnego dokumentów, o których mowa w ust. 2 pkt 4.
+
+3. Zgłoszenie powinno być złożone przez kandydata najpóźniej 45 dni przed dniem rozpoczęcia egzaminu wstępnego do komisji kwalifikacyjnej. Termin do złożenia zgłoszenia nie podlega przywróceniu.
+
+4. Jeżeli zgłoszenie nie spełnia wymagań formalnych określonych w ust. 2, przewodniczący komisji kwalifikacyjnej wzywa kandydata listem poleconym do usunięcia braków w trybie przepisu art. 64 § 2 Kodeksu postępowania administracyjnego.
+
+5. Jeżeli kandydat nie uzupełni braków formalnych zgłoszenia zgodnie z ust. 4 lub nie spełni warunku, o którym mowa w ust. 2a, zgłoszenie pozostawia się bez rozpoznania. O pozostawieniu zgłoszenia bez rozpoznania przewodniczący komisji kwalifikacyjnej orzeka postanowieniem i zawiadamia kandydata listem poleconym za poświadczeniem odbioru. Na postanowienie przysługuje zażalenie do Ministra Sprawiedliwości. Jeżeli zażalenie jest uzasadnione, przewodniczący komisji kwalifikacyjnej może, nie przesyłając akt Ministrowi Sprawiedliwości, uchylić zaskarżone postanowienie i sprawę rozpoznać na nowo.
+
+6. W wypadku nieuiszczenia przez kandydata opłaty za udział w egzaminie wstępnym, przewodniczący komisji kwalifikacyjnej wzywa go w trybie określonym w ust. 4, do uiszczenia opłaty w terminie 7 dni.
+
+7. Jeżeli kandydat pomimo wezwania, o którym mowa w ust. 6, nie uiścił opłaty za udział w egzaminie wstępnym, przewodniczący komisji kwalifikacyjnej wydaje postanowienie o zwrocie zgłoszenia. Na postanowienie to przysługuje zażalenie do Ministra Sprawiedliwości.
+
+8. Jeżeli zgłoszenie zostało złożone po terminie, o którym mowa w ust. 3, przewodniczący komisji kwalifikacyjnej wydaje decyzję odmawiającą dopuszczenia kandydata do udziału w egzaminie wstępnym. Od decyzji tej przysługuje odwołanie do Ministra Sprawiedliwości.
+
+9. O terminie i miejscu przeprowadzenia egzaminu wstępnego przewodniczący komisji kwalifikacyjnej zawiadamia kandydata, który został zakwalifikowany do udziału w egzaminie wstępnym, listem poleconym za poświadczeniem odbioru, co najmniej 14 dni przed dniem rozpoczęcia egzaminu wstępnego.

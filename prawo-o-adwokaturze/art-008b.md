@@ -1,0 +1,3 @@
+# Art. 8b.
+
+Minister właściwy do spraw instytucji finansowych w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w art. 8a, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.

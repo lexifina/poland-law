@@ -1,0 +1,5 @@
+# Art. 51a.
+
+1. Do zakresu działania rzecznika dyscyplinarnego należą czynności w postępowaniu dyscyplinarnym, określone w ustawie i przepisach wydanych na jej podstawie.
+
+2. Rzecznik dyscyplinarny może wykonywać czynności przy pomocy swoich zastępców.

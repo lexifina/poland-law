@@ -1,0 +1,11 @@
+# Art. 93b.
+
+1. W toku postępowania dyscyplinarnego, za zgodą adwokata lub aplikanta adwokackiego, pisma mogą być doręczane także za pośrednictwem telefaksu lub poczty elektronicznej. W takim przypadku dowodem doręczenia jest potwierdzenie transmisji danych.
+
+2. Niestawiennictwo obwinionego lub jego obrońcy na rozprawę, posiedzenie lub na wezwanie rzecznika dyscyplinarnego nie wstrzymuje rozpoznania sprawy lub przeprowadzenia czynności, chyba że należycie usprawiedliwią oni swoją nieobecność, jednocześnie wnosząc o odroczenie lub przerwanie rozprawy lub posiedzenia lub o nieprzeprowadzanie czynności przed rzecznikiem, albo sąd dyscyplinarny lub rzecznik dyscyplinarny z ważnych przyczyn uzna ich obecność za konieczną.
+
+3. W przypadku nieusprawiedliwionego niestawiennictwa obwinionego odpis postanowienia o przedstawieniu zarzutów rzecznik dyscyplinarny doręcza mu na piśmie, co zastępuje ogłoszenie.
+
+4. Orzeczenia wydanego pod nieobecność obwinionego lub jego obrońcy nie uważa się za zaoczne.
+
+5. Należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawie lub na wezwanie rzecznika dyscyplinarnego wymaga wskazania i uprawdopodobnienia wyjątkowych przyczyn, zaś w przypadku choroby - przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie.
