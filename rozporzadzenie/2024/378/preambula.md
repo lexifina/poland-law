@@ -1,0 +1,1 @@
+Na podstawie art. 70 ust. 1 i ust. 2 pkt 5 i 6 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 (Dz. U. z 2024 r. poz. 261) zarządza się, co następuje:
