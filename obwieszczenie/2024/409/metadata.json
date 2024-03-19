@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/409",
+ "source_sha256": "98fd38972cf80bc51d66a399125bce06d3493f41b3c9aebfc414fe90689bec44",
+ "in_force": "2024-03-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/409",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/409/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/409/text/O/D20240409.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/409/text/I/D20240409.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/409/text/T/D20240409L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/409/text/U/D20240409Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/409",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 409,
+  "address": "WDU20240000409",
+  "displayAddress": "Dz.U. 2024 poz. 409",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie cywilnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2024-02-26",
+  "promulgation": "2024-03-19",
+  "expirationDate": "2026-04-29",
+  "changeDate": "2026-04-30T14:46:10",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba cywilna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/1505"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240409.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240409.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20240409L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20240409Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
