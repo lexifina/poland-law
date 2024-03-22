@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2024/222",
+ "source_sha256": "64a8ed018dd26fb8d43bd7d7385cb4fc4b3a8c6b54148ad6966dcde69d3c5ee6",
+ "in_force": "2024-03-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2024/222",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2024/222/text/O/M20240222.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2024/222/text/I/M20240222.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2024/222",
+  "publisher": "MP",
+  "year": 2024,
+  "volume": 0,
+  "pos": 222,
+  "address": "WMP20240000222",
+  "displayAddress": "M.P. 2024 poz. 222",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 15 marca 2024 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-03-15",
+  "promulgation": "2024-03-22",
+  "changeDate": "2024-03-25T12:10:39",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20240222.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20240222.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
