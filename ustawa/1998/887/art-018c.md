@@ -2,11 +2,11 @@
 
 1. Podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonego, o którym mowa w art. 8 ust. 6 pkt 1, którego roczny przychód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym nie przekroczył kwoty 120 000 złotych, uzależniona jest od dochodu z pozarolniczej działalności gospodarczej w rozumieniu przepisów o podatku dochodowym od osób fizycznych, zwanego dalej „dochodem z pozarolniczej działalności gospodarczej”, uzyskanego w poprzednim roku kalendarzowym.
 
-2. Podstawa wymiaru składek, o której mowa w ust. 1, nie może przekroczyć 60% prognozowanego przeciętnego wynagrodzenia ogłoszonego w trybie art. 19 ust. 10 na dany rok kalendarzowy i nie może być niższa niż 30% kwoty minimalnego wynagrodzenia obowiązującego w styczniu danego roku.
+2. Podstawa wymiaru składek, o której mowa w ust. 1, nie może przekroczyć 60 % prognozowanego przeciętnego wynagrodzenia ogłoszonego w trybie art. 19 ust. 10 na dany rok kalendarzowy i nie może być niższa niż 30 % kwoty minimalnego wynagrodzenia obowiązującego w styczniu danego roku.
 
 3. Podstawę wymiaru składek, o której mowa w ust. 1, ubezpieczony ustala na dany rok kalendarzowy, mnożąc przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, obliczony zgodnie z ust. 4, przez współczynnik 0,5. Otrzymany wynik jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
 
-4. Przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym jest obliczany według następującego wzoru: roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym × 30 liczba dni kalendarzowych prowadzenia pozarolniczej działalności gospodarczej w poprzednim roku kalendarzowym i jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
+4. Przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym jest obliczany według następującego wzoru: roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym x 30 liczba dni kalendarzowych prowadzenia pozarolniczej działalności gospodarczej w poprzednim roku kalendarzowym i jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
 
 4a. Jeżeli składki na ubezpieczenia społeczne ubezpieczonego, o którym mowa w ust. 1, oraz osób z nim współpracujących zostały zaliczone do kosztów uzyskania przychodu, roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, o którym mowa w ust. 4, powiększa się o kwoty tych składek zaliczone do kosztów uzyskania przychodu.
 
@@ -30,7 +30,7 @@
 
 11. Przepisy niniejszego artykułu nie mają zastosowania do osób, które lub do których:
 
-- 1) w poprzednim roku kalendarzowym miały zastosowanie przepisy dotyczące zryczałtowanego podatku dochodowego w formie karty podatkowej i które korzystały ze zwolnienia sprzedaży od podatku od towarów i usług na podstawie art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.);
+- 1) w poprzednim roku kalendarzowym miały zastosowanie przepisy dotyczące zryczałtowanego podatku dochodowego w formie karty podatkowej i które korzystały ze zwolnienia sprzedaży od podatku od towarów i usług na podstawie art. 113 ust. 1 i 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2023 r. poz. 1570, 1598 i 1852);
 
 - 2) spełniają warunki określone w art. 18a;
 
