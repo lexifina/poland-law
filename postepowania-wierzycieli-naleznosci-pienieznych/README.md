@@ -1,0 +1,4 @@
+# Rozporządzenie Ministra Finansów z dnia 23 lutego 2024 r. w sprawie postępowania wierzycieli należności pieniężnych
+
+Dz.U. 2024 poz. 316 · <https://api.sejm.gov.pl/eli/acts/DU/2024/316>
+
