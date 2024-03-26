@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/441",
+ "source_sha256": "71914b6e14f740afc32d8ce058ae699338cb11a2f48d6c791dc49800439520b8",
+ "in_force": "2024-03-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/441",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/441/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/441/text/O/D20240441.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/441/text/I/D20240441.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/441/text/T/D20240441L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/441/text/U/D20240441Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/441",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 441,
+  "address": "WDU20240000441",
+  "displayAddress": "Dz.U. 2024 poz. 441",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2024-03-21",
+  "promulgation": "2024-03-26",
+  "expirationDate": "2025-04-17",
+  "changeDate": "2025-04-18T09:29:54",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Bank Gospodarstwa Krajowego"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/594"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240441.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240441.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20240441L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20240441Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
