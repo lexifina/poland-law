@@ -1,0 +1,1 @@
+Na podstawie art. 4 ust. 4 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505) zarządza się, co następuje:
