@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/632",
+ "source_sha256": "161566018d17446c09871b51821e686f1b44827455d078f1d9054f1366cfed02",
+ "in_force": "2024-04-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/632",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/632/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/632/text/O/D20240632.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/632/text/I/D20240632.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/632/text/T/D20240632L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/632/text/U/D20240632Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/632",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 632,
+  "address": "WDU20240000632",
+  "displayAddress": "Dz.U. 2024 poz. 632",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2024-03-11",
+  "promulgation": "2024-04-25",
+  "expirationDate": "2025-09-02",
+  "changeDate": "2025-09-03T10:11:05",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informacje niejawne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1228"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20240632.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20240632.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20240632L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20240632Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
