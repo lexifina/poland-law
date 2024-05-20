@@ -1,0 +1,1 @@
+Na podstawie art. 10b ust. 6 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2023 r. poz. 700 oraz z 2024 r. poz. 649) zarządza się, co następuje:
