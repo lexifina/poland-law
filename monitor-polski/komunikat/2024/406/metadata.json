@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2024/406",
+ "source_sha256": "c6235dccbfbf76c361ea7c6bc9c5052ae15eee55bc871723a42185353e5974d8",
+ "in_force": "2024-05-29",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2024/406",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2024/406/text/O/M20240406.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2024/406/text/I/M20240406.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2024/406",
+  "publisher": "MP",
+  "year": 2024,
+  "volume": 0,
+  "pos": 406,
+  "address": "WMP20240000406",
+  "displayAddress": "M.P. 2024 poz. 406",
+  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 24 maja 2024 r. o łącznej liczbie wyborców w kraju ujętych w Centralnym Rejestrze Wyborców w obwodach głosowania",
+  "type": "Komunikat",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-05-24",
+  "promulgation": "2024-05-29",
+  "changeDate": "2024-05-31T10:46:45",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 199 par. 2"
+    },
+    {
+     "id": "DU/2011/112",
+     "art": "art. 259 par. 2"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20240406.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20240406.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
