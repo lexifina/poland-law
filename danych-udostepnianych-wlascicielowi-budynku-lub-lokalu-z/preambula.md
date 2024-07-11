@@ -1,0 +1,1 @@
+Na podstawie art. 27e ust. 2 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496) zarządza się, co następuje:
