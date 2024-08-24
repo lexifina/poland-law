@@ -1,0 +1,1 @@
+Na podstawie art. 42 ust. 2 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151, 1688 i 1692) zarządza się, co następuje:
