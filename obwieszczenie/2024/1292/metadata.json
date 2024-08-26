@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/1292",
+ "source_sha256": "7d3e8b8707d2e3c25a085733e4ddedacbaf15cc3a4e677903a41ac260648fbfe",
+ "in_force": "2024-08-26",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/1292",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/1292/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/1292/text/O/D20241292.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/1292/text/I/D20241292.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/1292/text/T/D20241292L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/1292/text/U/D20241292Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/1292",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 1292,
+  "address": "WDU20240001292",
+  "displayAddress": "Dz.U. 2024 poz. 1292",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zabytków i opiece nad zabytkami",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-08-19",
+  "promulgation": "2024-08-26",
+  "changeDate": "2026-07-28T15:47:02",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zabytki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/483",
+     "date": "2026-03-13"
+    },
+    {
+     "id": "DU/2025/1673",
+     "date": "2025-10-09"
+    },
+    {
+     "id": "DU/2025/1168",
+     "date": "2025-07-25"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1568"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20241292.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20241292.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20241292L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20241292Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
