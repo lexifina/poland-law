@@ -1,0 +1,1 @@
+Na podstawie art. 41 ust. 8 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2024 r. poz. 930) zarządza się, co następuje:
