@@ -1,0 +1,1 @@
+Na podstawie art. 117 ust. 9 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500) zarządza się, co następuje:
