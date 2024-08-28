@@ -1,0 +1,1 @@
+Na podstawie art. 12a ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) zarządza się, co następuje:
