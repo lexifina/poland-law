@@ -1,0 +1,7 @@
+# Art. 16e.
+
+1. W przypadku gdy dowód uzyskany w wyniku wyjawienia lub wydania środka dowodowego w postępowaniu grupowym z powództwa podmiotu upoważnionego zawiera tajemnicę przedsiębiorstwa lub inną tajemnicę podlegającą ochronie prawnej na podstawie odrębnych przepisów oraz jest to niezbędne dla zapobieżenia ujawnieniu takiej tajemnicy, sąd, na wniosek obowiązanego do wyjawienia lub wydania środka dowodowego albo z urzędu, może w niezbędnym zakresie ograniczyć, w drodze postanowienia, prawo wglądu do tego dowodu lub określić szczegółowe zasady zapoznawania się z tym dowodem i korzystania z niego, w szczególności ograniczyć lub wyłączyć jego kopiowanie lub utrwalanie w inny sposób.
+
+2. W przypadku zmiany okoliczności, które uzasadniały nakazanie wyjawienia lub wydania środka dowodowego, obowiązany do wyjawienia lub wydania środka dowodowego może żądać uchylenia lub zmiany prawomocnego postanowienia nakazującego wyjawienie lub wydanie środka dowodowego, jeżeli postanowienie to nie zostało jeszcze wykonane.
+
+3. Na postanowienie sądu w przedmiocie wniosku o wyjawienie lub wydanie środka dowodowego lub uchylenie lub zmianę prawomocnego postanowienia nakazującego wyjawienie lub wydanie środka dowodowego, przysługuje zażalenie do sądu drugiej instancji stronom, a także osobie trzeciej i organowi ochrony konsumentów, w tym organowi ochrony konsumentów innego państwa członkowskiego Unii Europejskiej, obowiązanym do wyjawienia lub wydania środka dowodowego.
