@@ -1,0 +1,1 @@
+Na podstawie art. 24 ust. 3 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559) zarządza się, co następuje:
