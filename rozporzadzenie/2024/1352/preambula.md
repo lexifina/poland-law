@@ -1,0 +1,1 @@
+Na podstawie art. 31 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152 i 858) i art. 133 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.) zarządza się, co następuje:
