@@ -1,0 +1,1 @@
+Na podstawie art. 13 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2021 r. poz. 945 oraz z 2024 r. poz. 928) zarządza się, co następuje:
