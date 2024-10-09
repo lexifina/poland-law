@@ -1,0 +1,1 @@
+Na podstawie art. 10 ust. 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473) w związku z art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) zarządza się, co następuje:
