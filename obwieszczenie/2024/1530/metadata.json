@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/1530",
+ "source_sha256": "eaec0572e4ba91e51568aa791f921e46a84b0be64fca5802e357c5ae2910bf9c",
+ "in_force": "2024-10-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/1530",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/1530/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/1530/text/O/D20241530.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/1530/text/I/D20241530.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/1530/text/T/D20241530L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/1530/text/U/D20241530Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/1530",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 1530,
+  "address": "WDU20240001530",
+  "displayAddress": "Dz.U. 2024 poz. 1530",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansach publicznych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2024-09-11",
+  "promulgation": "2024-10-16",
+  "expirationDate": "2025-10-28",
+  "changeDate": "2025-10-29T09:41:30",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finanse publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/1240"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20241530.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20241530.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20241530L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20241530Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
