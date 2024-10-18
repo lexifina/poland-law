@@ -1,0 +1,5 @@
+# Art. 21ca.
+
+1. Podmiot odpowiedzialny za system identyfikacji elektronicznej ponosi odpowiedzialność cywilną za szkodę wynikającą z działania lub zaniechania, wyrządzoną w związku z wykorzystaniem środka identyfikacji elektronicznej, w celu uwierzytelnienia użytkowników systemów określonych w art. 21a ust. 1 pkt 2 lit. b, korzystających z usługi online świadczonej przez podmiot, o którym mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014, spowodowaną przez awarię, przerwę lub błąd systemu lub przez zaciągnięcie zobowiązania w wyniku nieuprawnionego wykorzystania tego środka identyfikacji elektronicznej do wysokości 2 000 000 euro w odniesieniu do wszystkich zdarzeń w danym roku.
+
+2. Ograniczenia odpowiedzialności do wysokości wskazanej w ust. 1 nie stosuje się w przypadku transgranicznego uwierzytelniania osób, o którym mowa w przepisach wydanych na podstawie art. 12 ust. 8 rozporządzenia 910/2014.
