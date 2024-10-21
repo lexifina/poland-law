@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/1556",
+ "source_sha256": "5b80b9e17f6f6de58a12850f62d185ca8ad89ca91d2b42b6ea7fa32fbb62e79c",
+ "in_force": "2024-10-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/1556",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/1556/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/1556/text/O/D20241556.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/1556/text/I/D20241556.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/1556/text/T/D20241556L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/1556/text/U/D20241556Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/1556",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 1556,
+  "address": "WDU20240001556",
+  "displayAddress": "Dz.U. 2024 poz. 1556",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o języku polskim",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2024-10-11",
+  "promulgation": "2024-10-21",
+  "expirationDate": "2026-01-26",
+  "changeDate": "2026-01-27T11:06:57",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "język polski"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1999/999"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20241556.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20241556.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20241556L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20241556Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
