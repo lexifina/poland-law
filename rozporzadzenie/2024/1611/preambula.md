@@ -1,0 +1,1 @@
+Na podstawie art. 23 ust. 3 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2023 r. poz. 807 oraz z 2024 r. poz. 1248) zarządza się, co następuje:
