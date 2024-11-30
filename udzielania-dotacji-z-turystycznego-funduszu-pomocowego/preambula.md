@@ -1,0 +1,1 @@
+Na podstawie art. 15kc ust. 14c ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340, 1089, 1222, 1473 i 1717) zarządza się, co następuje:
