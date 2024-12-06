@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2024/1799",
+ "source_sha256": "1ee396e3b8058e4423576c1acffb2135445048e0578075a5e60c94811831bceb",
+ "in_force": "2024-12-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2024/1799",
+  "html": "https://eli.gov.pl/api/acts/DU/2024/1799/text.html",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2024/1799/text/O/D20241799.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2024/1799/text/I/D20241799.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2024/1799/text/T/D20241799L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2024/1799/text/U/D20241799Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2024/1799",
+  "publisher": "DU",
+  "year": 2024,
+  "volume": 0,
+  "pos": 1799,
+  "address": "WDU20240001799",
+  "displayAddress": "Dz.U. 2024 poz. 1799",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o statystyce publicznej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2024-11-27",
+  "promulgation": "2024-12-06",
+  "expirationDate": "2026-06-25",
+  "changeDate": "2026-06-29T09:53:51",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statystyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1995/439"
+    }
+   ]
+  },
+  "textHTML": true,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "text.html",
+    "type": "H"
+   },
+   {
+    "fileName": "D20241799.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20241799.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20241799L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20241799Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
