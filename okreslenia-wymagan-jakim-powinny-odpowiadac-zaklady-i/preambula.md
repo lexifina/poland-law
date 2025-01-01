@@ -1,0 +1,1 @@
+Na podstawie art. 5 ust. 3 oraz art. 19 ust. 2 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420) zarządza się, co następuje:
