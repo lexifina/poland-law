@@ -4,9 +4,9 @@
 
 - 1) sporządzonym akcie notarialnym obejmującym:
 
-  - a) czynności cywilnoprawne, o których mowa w ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2023 r. poz. 170, 1463 i 1723),
+  - a) czynności cywilnoprawne, o których mowa w ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2024 r. poz. 295),
 
-  - b) czynności prawne, o których mowa w ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2023 r. poz. 1774 i 1843),
+  - b) czynności prawne, o których mowa w ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837),
 
   - c) oświadczenie, o którym mowa w art. 43 ust. 10 pkt 2 lit. b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług,
 
@@ -18,7 +18,7 @@
 
 § 2. Informacje, o których mowa w § 1, są przekazywane:
 
-- 1) według wzoru informacji udostępnionego na podstawie art. 78 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843), przy czym przepis art. 72 ust. 6 tej ustawy stosuje się odpowiednio;
+- 1) według wzoru informacji udostępnionego na podstawie art. 78 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843 oraz z 2024 r. poz. 850 i 1222), przy czym przepis art. 72 ust. 6 tej ustawy stosuje się odpowiednio;
 
 - 2) za pomocą środków komunikacji elektronicznej przy wykorzystaniu systemu teleinformatycznego służącego przeciwdziałaniu praniu pieniędzy i finansowaniu terroryzmu, przy czym przepis art. 77 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz przepisy wydane na podstawie art. 78 ust. 3 tej ustawy stosuje się odpowiednio;
 

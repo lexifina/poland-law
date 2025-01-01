@@ -4,7 +4,7 @@
 
 - 1) dane przekazane na podstawie art. 119zp § 1;
 
-- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 2500 oraz z 2023 r. poz. 614, 1234 i 1723);
+- 2) dane udostępnione z Centralnego Rejestru Podmiotów - Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2024 r. poz. 375 i 1721);
 
 - 2a) informacje rejestrowane, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej;
 

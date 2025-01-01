@@ -6,7 +6,7 @@
 
 - 2) zorganizować spotkanie uzgodnieniowe.
 
-§ 2. Ze spotkania uzgodnieniowego sporządza się protokół.
+§ 2. Ze spotkania uzgodnieniowego sporządza się protokół. Jeżeli spotkanie uzgodnieniowe prowadzone jest w języku angielskim, protokół sporządza się w języku polskim i języku angielskim, przy czym w przypadku wystąpienia rozbieżności rozstrzygający jest tekst polski.
 
 § 3. Przebieg spotkania uzgodnieniowego może być utrwalony przez organ właściwy w sprawie porozumienia za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
 

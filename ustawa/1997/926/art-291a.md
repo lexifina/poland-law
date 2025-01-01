@@ -4,4 +4,4 @@
 
 § 2. Szef Krajowej Administracji Skarbowej, występując do obcej władzy o przeprowadzenie kontroli jednoczesnej, podaje uzasadnienie wszczęcia takiej kontroli oraz czas jej przeprowadzenia.
 
-§ 3. W przypadku gdy obca władza wystąpiła o przeprowadzenie kontroli jednoczesnej, Szef Krajowej Administracji Skarbowej potwierdza przystąpienie do kontroli albo odmawia przeprowadzenia kontroli, uzasadniając przyczynę odmowy.
+§ 3. W przypadku gdy obca władza wystąpiła o przeprowadzenie kontroli jednoczesnej, Szef Krajowej Administracji Skarbowej potwierdza przystąpienie do kontroli albo odmawia przeprowadzenia kontroli, uzasadniając przyczynę odmowy, nie później niż w terminie 60 dni, licząc od dnia otrzymania wniosku o przeprowadzenie takiej kontroli.

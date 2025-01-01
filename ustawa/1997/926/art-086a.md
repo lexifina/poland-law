@@ -16,7 +16,7 @@
 
   - d) różnica pomiędzy polskim podatkiem dochodowym, który byłby należny w związku z wykonaniem uzgodnienia od korzystającego nieposiadającego siedziby, zarządu ani miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, gdyby był on podatnikiem, o którym mowa w art. 3 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 3 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, a podlegającym faktycznej zapłacie podatkiem dochodowym w państwie siedziby, zarządu lub miejsca zamieszkania korzystającego w związku z wykonaniem uzgodnienia, przekracza łącznie w trakcie roku kalendarzowego kwotę 5 000 000 zł;
 
-- 2) instytucji finansowej - oznacza to instytucję finansową w rozumieniu art. 24 ust. 1 pkt 8 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241) lub instytucję finansową w rozumieniu art. 1 ust. 1 lit. g umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158);
+- 2) instytucji finansowej - oznacza to instytucję finansową w rozumieniu art. 24 ust. 1 pkt 8 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2024 r. poz. 1588 i 1685) lub instytucję finansową w rozumieniu art. 1 ust. 1 lit. g umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158);
 
 - 3) korzystającym - rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, której udostępniane jest lub u której wdrażane jest uzgodnienie, lub która jest przygotowana do wdrożenia uzgodnienia lub dokonała czynności służącej wdrożeniu takiego uzgodnienia;
 
@@ -53,6 +53,8 @@
   - j) promotor lub korzystający faktycznie respektują co najmniej jedno z zobowiązań wskazanych w lit. b i c,
 
   - k) na podstawie istniejących okoliczności należy przyjąć, że rozsądnie działający promotor lub korzystający, do których nie stosowałyby się obowiązki przewidziane w przepisach niniejszego rozdziału, chcieliby, żeby co najmniej jedno ze zobowiązań wskazanych w lit. a-c było faktycznie respektowane;
+
+- 6a) osobie kontrolującej - rozumie się przez to beneficjenta rzeczywistego, o którym mowa w art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
 - 7) podmiocie powiązanym - rozumie się przez to podmiot powiązany z innym podmiotem poprzez co najmniej jeden ze sposobów określonych poniżej:
 

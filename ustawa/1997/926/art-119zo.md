@@ -24,7 +24,7 @@
 
 § 4. Banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą wykorzystywać informacje o wskaźniku ryzyka wyłącznie w celu wykonywania uprawnień lub obowiązków, o których mowa w:
 
-- 1) art. 106 i art. 106a ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe oraz art. 15 i art. 16 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843), w tym dokonywania oceny ryzyka prania pieniędzy i finansowania terroryzmu, o której mowa w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- 1) art. 106 i art. 106a ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe oraz art. 15 i art. 16 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2024 r. poz. 512 i 879), w tym dokonywania oceny ryzyka prania pieniędzy i finansowania terroryzmu, o której mowa w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
 - 2) art. 106d ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, z tym że banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą udostępniać wzajemnie informacje o wskaźniku ryzyka wyłącznie innym bankom lub spółdzielczym kasom oszczędnościowo-kredytowym.
 

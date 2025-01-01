@@ -18,7 +18,7 @@
 
   - c) dotyczące przychodów zagranicznej jednostki kontrolowanej pochodzących z transakcji z podmiotami powiązanymi, w przypadku gdy jednostka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma, zawarte odpowiednio w art. 30f ust. 3 pkt 3 lit. b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 24a ust. 3 pkt 3 lit. b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
 
-  - d) środki ograniczające umowne korzyści.
+  - d) środki ograniczające umowne korzyści;
 
 § 3. Składający wniosek o wydanie interpretacji indywidualnej obowiązany jest do wyczerpującego przedstawienia zaistniałego stanu faktycznego albo zdarzenia przyszłego oraz do przedstawienia własnego stanowiska w sprawie oceny prawnej tego stanu faktycznego albo zdarzenia przyszłego.
 

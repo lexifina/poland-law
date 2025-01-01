@@ -22,6 +22,8 @@
 
 - 2) wycofać wniosek o zawarcie porozumienia inwestycyjnego, przy czym wycofanie się przez jednego z inwestorów nie wywołuje skutku wobec pozostałych.
 
+§ 4. Wniosek o zawarcie porozumienia inwestycyjnego oraz inne pisma i dokumenty mogą być sporządzone przez inwestora w języku angielskim.
+
 § 5. Organ właściwy w sprawie porozumienia zawiadamia wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa o:
 
 - 1) złożeniu wniosku o zawarcie porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 5, i jego przedmiocie,

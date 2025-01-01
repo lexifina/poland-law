@@ -4,7 +4,7 @@
 
 # Art. 119zzl.
 
-§ 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516¹² § 1, art. 550¹⁵ § 1 lub art. 580¹³ § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
+§ 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516¹² § 1, art. 550¹⁵ § 1 lub art. 580¹³ § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
 
 § 2. Przedmiotem opinii jest:
 
