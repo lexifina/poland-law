@@ -6,7 +6,7 @@
 
 § 3. (uchylony)
 
-§ 4. Pakiet wyborczy doręcza wyborcy urzędnik wyborczy za pośrednictwem operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe. Do przesyłki pakietu wyborczego w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe dotyczące przesyłki poleconej.
+§ 4. Pakiet wyborczy doręcza wyborcy urzędnik wyborczy za pośrednictwem operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717). Do przesyłki pakietu wyborczego w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe dotyczące przesyłki poleconej.
 
 § 5. (uchylony)
 

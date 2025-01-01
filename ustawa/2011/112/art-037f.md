@@ -1,6 +1,6 @@
 # Art. 37f.
 
-§ 1. Wójt gminy wiejskiej lub miejsko-wiejskiej w rozumieniu art. 21a ust. 1 pkt 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005) w dniu wyborów organizuje bezpłatny gminny przewóz pasażerski dla wyborców ujętych w spisie wyborców w stałym obwodzie głosowania położonym na obszarze danej gminy, jeżeli w ramach tej gminy:
+§ 1. Wójt gminy wiejskiej lub miejsko-wiejskiej ujętej w krajowym rejestrze urzędowym podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, według stanu na dzień 1 stycznia roku, w którym przeprowadzane są wybory, w dniu wyborów organizuje bezpłatny gminny przewóz pasażerski dla wyborców ujętych w spisie wyborców w stałym obwodzie głosowania położonym na obszarze danej gminy, jeżeli w ramach tej gminy:
 
 - 1) nie funkcjonuje w dniu wyborów publiczny transport zbiorowy, o którym mowa w art. 4 ust. 1 pkt 14 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, albo
 
