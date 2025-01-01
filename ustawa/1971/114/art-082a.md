@@ -6,9 +6,7 @@
 
 - 2) podporządkowania się zarządzeniu kierującego działaniem ratowniczym,
 
-- 3) udzielenia niezbędnej pomocy kierującemu działaniem ratowniczym, na jego żądanie,
-
-podlega karze aresztu, grzywny albo karze nagany.
+- 3) udzielenia niezbędnej pomocy kierującemu działaniem ratowniczym, na jego żądanie, podlega karze aresztu, grzywny albo karze nagany.
 
 § 2. Tej samej karze podlega, kto utrudnia prowadzenie działań ratowniczych, a w szczególności utrudnia dojazd do obiektów zagrożonych jednostkom ochrony przeciwpożarowej, prowadzącym działania ratownicze.
 

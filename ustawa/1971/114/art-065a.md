@@ -1,5 +1,5 @@
 # Art. 65a.
 
-Kto umyślnie, nie stosując się do wydawanych przez funkcjonariusza Policji lub Straży Granicznej, na podstawie prawa, poleceń określonego zachowania się, uniemożliwia lub istotnie utrudnia wykonanie czynności służbowych,
+Kto, nie stosując się do poleceń określonego zachowania się wydawanych na podstawie prawa przez funkcjonariusza Policji, Żandarmerii Wojskowej, Straży Granicznej lub innego organu ochrony bezpieczeństwa lub porządku publicznego, umyślnie uniemożliwia lub istotnie utrudnia wykonanie czynności służbowej,
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
