@@ -20,7 +20,7 @@
 
   - b) została zarejestrowana przez naczelnika urzędu skarbowego;
 
-- 3) po utworzeniu podatkowej grupy kapitałowej spółki tworzące tę grupę spełniają warunki wymienione w pkt 1 lit. ac, a ponadto:
+- 3) po utworzeniu podatkowej grupy kapitałowej spółki tworzące tę grupę spełniają warunki wymienione w pkt 1 lit. a-c, a ponadto:
 
   - a) nie korzystają ze zwolnień podatkowych określonych w art. 17 ust. 1 pkt 34 lub 34a oraz ze zwolnień od podatku dochodowego na podstawie odrębnych ustaw,
 

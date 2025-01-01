@@ -22,9 +22,9 @@
 
   - c) spółkę niebędącą osobą prawną i jej wspólnika, lub
 
-  ca) spółkę, o której mowa w art. 1 ust. 3 pkt 1, i jej komplementariusza, lub
+  - ca) spółkę, o której mowa w art. 1 ust. 3 pkt 1, i jej komplementariusza, lub
 
-  cb) spółkę, o której mowa w art. 1 ust. 3 pkt 1a, i jej wspólnika, lub
+  - cb) spółkę, o której mowa w art. 1 ust. 3 pkt 1a, i jej wspólnika, lub
 
   - d) podatnika i jego zagraniczny zakład, a w przypadku podatkowej grupy kapitałowej - spółkę kapitałową wchodzącą w jej skład i jej zagraniczny zakład;
 

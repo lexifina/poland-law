@@ -54,7 +54,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a, ust. 2a i 3 w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
 
-- 2) 100% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014
+- 2) 100 % kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014
 
 - stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
@@ -62,7 +62,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
 
-- 2) 100% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014.
+- 2) 100 % kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014.
 
 3g. Intensywność pomocy publicznej nie może przekroczyć wartości określonych w:
 

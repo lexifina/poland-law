@@ -4,7 +4,9 @@
 
 - 1) poniosły stratę ze źródła przychodów innych niż z zysków kapitałowych albo
 
-- 2) osiągnęły udział dochodów ze źródła przychodów innych niż z zysków kapitałowych, określonych zgodnie z art. 7 ust. 1 albo art. 7a ust. 1, w przychodach innych niż z zysków kapitałowych w wysokości nie większej niż 2% - wynosi 10% podstawy opodatkowania (minimalny podatek dochodowy).
+- 2) osiągnęły udział dochodów ze źródła przychodów innych niż z zysków kapitałowych, określonych zgodnie z art. 7 ust. 1 albo art. 7a ust. 1, w przychodach innych niż z zysków kapitałowych w wysokości nie większej niż 2 %
+
+- wynosi 10 % podstawy opodatkowania (minimalny podatek dochodowy).
 
 2. Dla celów obliczenia straty oraz udziału dochodów w przychodach, o których mowa w ust. 1, nie uwzględnia się:
 
@@ -54,21 +56,7 @@
 
   - c) przeniesienia ryzyka niewypłacalności dłużnika z tytułu pożyczek, innych niż udzielonych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe, w tym w ramach zobowiązań wynikających z pochodnych instrumentów finansowych oraz świadczeń o podobnym charakterze
 
-  - poniesionych bezpośrednio lub pośrednio na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4 lub podmiotów mających miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają o 3 000 000 zł kwotę obliczoną według następującego wzoru:
-
-  [(P - Po) - (K - Am - O)] × 5%
-
-  w którym poszczególne symbole oznaczają:
-
-  P - zsumowaną wartość przychodów ze wszystkich źródeł przychodów, z których dochody podlegają opodatkowaniu podatkiem dochodowym,
-
-  Po - przychody o charakterze odsetkowym w rozumieniu art. 15c ust. 13,
-
-  K - sumę kosztów uzyskania przychodów bez pomniejszeń wynikających z art. 15c ust. 1,
-
-  Am - odpisy amortyzacyjne, o których mowa w art. 16a-16m, zaliczone w roku podatkowym do kosztów uzyskania przychodów,
-
-  O - zaliczone w roku podatkowym do kosztów uzyskania przychodów odsetki, bez pomniejszeń wynikających z art. 15c ust. 1.
+  - poniesionych bezpośrednio lub pośrednio na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4 lub podmiotów mających miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają o 3 000 000 zł kwotę obliczoną według następującego wzoru: [(P - Po) - (K - Am - O)] × 5 % w którym poszczególne symbole oznaczają: P - zsumowaną wartość przychodów ze wszystkich źródeł przychodów, z których dochody podlegają opodatkowaniu podatkiem dochodowym, Po - przychody o charakterze odsetkowym w rozumieniu art. 15c ust. 13, K - sumę kosztów uzyskania przychodów bez pomniejszeń wynikających z art. 15c ust. 1, Am - odpisy amortyzacyjne, o których mowa w art. 16a-16m, zaliczone w roku podatkowym do kosztów uzyskania przychodów, O - zaliczone w roku podatkowym do kosztów uzyskania przychodów odsetki, bez pomniejszeń wynikających z art. 15c ust. 1.
 
 3a. Podatnik może wybrać uproszczony sposób ustalania podstawy opodatkowania stanowiącej kwotę odpowiadającą 3% wartości osiągniętych przez podatnika w roku podatkowym przychodów ze źródła przychodów innych niż z zysków kapitałowych, przy czym o wyborze takiego sposobu ustalania podstawy opodatkowania podatnik informuje w zeznaniu, o którym mowa w art. 27 ust. 1, składanym za rok podatkowy, za który dokonał takiego wyboru.
 
@@ -122,7 +110,7 @@
 
   - a) eksploatacją w transporcie międzynarodowym statków morskich lub statków powietrznych,
 
-  - b) wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029), których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
+  - b) wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
 
   - c) wykonywaniem działalności leczniczej, o której mowa w art. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
 
@@ -148,7 +136,7 @@
 
 - 12) będących instytucją finansową w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, której podstawowym przedmiotem działalności jest świadczenie usług finansowych polegających na odpłatnym nabywaniu od wierzyciela wierzytelności powstałych w wyniku zawarcia umowy sprzedaży towarów lub świadczenia usług pomiędzy tym wierzycielem a dłużnikiem;
 
-- 13) będących przedsiębiorstwami górniczymi otrzymującymi pomoc publiczną na podstawie ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2022 r. poz. 1309).
+- 13) będących przedsiębiorstwami górniczymi otrzymującymi pomoc publiczną na podstawie ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383).
 
 15. Podatnicy, o których mowa w ust. 14 pkt 6, przekazują do urzędu skarbowego informację o spółkach wchodzących w roku podatkowym w skład grupy spełniającej warunki określone w tym przepisie, w terminie złożenia zeznania, o którym mowa w art. 27 ust. 1.
 

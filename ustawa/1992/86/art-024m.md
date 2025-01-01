@@ -24,13 +24,13 @@
 
   - a) co najmniej 10% udziałów (akcji) w kapitale tej spółki posiada bezpośrednio na podstawie tytułu własności spółka holdingowa,
 
-  - b) (uchylony)
+  - b) (uchylona)
 
   - c) nie posiada tytułów uczestnictwa w funduszu inwestycyjnym lub w instytucji wspólnego inwestowania oraz innych praw majątkowych związanych z prawem do otrzymania świadczenia jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym lub praw o podobnym charakterze,
 
   - d) nie jest spółką tworzącą podatkową grupę kapitałową;
 
-  - e) (uchylony)
+  - e) (uchylona)
 
 - 4) zagranicznej spółce zależnej - oznacza to spółkę zależną będącą spółką, która spełnia łącznie następujące warunki:
 

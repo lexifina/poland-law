@@ -26,7 +26,7 @@ Obowiązek sporządzenia lokalnej dokumentacji cen transferowych, o którym mowa
 
 - 5) w przypadku gdy powiązania wynikają wyłącznie z powiązania ze Skarbem Państwa lub jednostkami samorządu terytorialnego lub ich związkami;
 
-- 6) w których cena została ustalona w trybie przetargu nieograniczonego na podstawie ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720);
+- 6) w których cena została ustalona w trybie przetargu nieograniczonego na podstawie ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320);
 
 - 7) realizowanych między grupą producentów rolnych wpisaną do rejestru, o którym mowa w art. 9 ust. 1 ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), a jej członkami, dotyczących odpłatnego zbycia:
 

@@ -8,9 +8,11 @@
 
 - 1) świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej,
 
-- 2) mienia w związku z rozwiązaniem fundacji rodzinnej
+- 2) mienia w związku z rozwiązaniem fundacji rodzinnej,
 
-- 3) świadczenia w postaci ukrytych zysków - wynosi 15% podstawy opodatkowania.
+- 3) świadczenia w postaci ukrytych zysków
+
+‒ wynosi 15 % podstawy opodatkowania.
 
 1a. Przez świadczenia w postaci ukrytych zysków, o których mowa w ust. 1 pkt 3, rozumie się:
 

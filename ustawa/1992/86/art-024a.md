@@ -140,7 +140,9 @@
 
 15. W celu obliczenia udziału pośredniego przepis art. 11a ust. 3 stosuje się odpowiednio.
 
-16. Przepisów ust. 1, 13a i 14 nie stosuje się, jeżeli zagraniczna jednostka kontrolowana, podlegająca opodatkowaniu od całości swoich dochodów w państwie członkowskim Unii Europejskiej lub w państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzi w tym państwie istotną rzeczywistą działalność gospodarczą. 17. (uchylony)
+16. Przepisów ust. 1, 13a i 14 nie stosuje się, jeżeli zagraniczna jednostka kontrolowana, podlegająca opodatkowaniu od całości swoich dochodów w państwie członkowskim Unii Europejskiej lub w państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzi w tym państwie istotną rzeczywistą działalność gospodarczą.
+
+17. (uchylony)
 
 18. Przy ocenie, czy zagraniczna jednostka kontrolowana prowadzi rzeczywistą działalność gospodarczą, bierze się pod uwagę w szczególności, czy:
 

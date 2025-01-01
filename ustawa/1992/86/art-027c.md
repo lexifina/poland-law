@@ -26,7 +26,7 @@
 
   - c) wiążącej informacji stawkowej, o której mowa w art. 42a ustawy o podatku od towarów i usług,
 
-  - d) wiążącej informacji akcyzowej, o której mowa w art. 7d ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723),
+  - d) wiążącej informacji akcyzowej, o której mowa w art. 7d ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723 oraz z 2024 r. poz. 1681),
 
 - 5) informacje dotyczące dokonywania rozliczeń podatkowych podatnika na terytoriach lub w krajach stosujących szkodliwą konkurencję podatkową wskazanych w aktach wykonawczych wydanych na podstawie art. 11j ust. 2 i na podstawie art. 23v ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej
 
@@ -40,7 +40,7 @@
 
 6. Na stronie internetowej, o której mowa w ust. 4 lub 5, są dostępne sporządzone i podane do publicznej wiadomości informacje o realizowanej strategii podatkowej za poszczególne lata.
 
-7. W terminie, o którym mowa w ust. 4, podatnik jest obowiązany przekazać za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) naczelnikowi urzędu skarbowego właściwemu dla podatnika informację o adresie strony internetowej, o której mowa w ust. 4 lub 5.
+7. W terminie, o którym mowa w ust. 4, podatnik jest obowiązany przekazać za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) naczelnikowi urzędu skarbowego właściwemu dla podatnika informację o adresie strony internetowej, o której mowa w ust. 4 lub 5.
 
 8. W przypadku niewykonania obowiązku, o którym mowa w ust. 7, podatnik podlega karze pieniężnej. Karę pieniężną nakłada naczelnik urzędu skarbowego właściwy dla podatnika, w drodze decyzji, w wysokości do 250 000 zł.
 

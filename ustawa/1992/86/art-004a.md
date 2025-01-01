@@ -2,7 +2,7 @@
 
 Ilekroć w ustawie jest mowa o:
 
-- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598), zwanej dalej „ustawą o rachunkowości”;
+- 1) inwestycjach - oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863), zwanej dalej „ustawą o rachunkowości”;
 
 - 2) składnikach majątkowych - oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
 
@@ -12,23 +12,23 @@ Ilekroć w ustawie jest mowa o:
 
 - 5) programie restrukturyzacji na podstawie odrębnych ustaw - oznacza to restrukturyzację na podstawie ustaw:
 
-  - a) ustawy z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
+  - a) z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z późn. zm.),
 
-  - b) ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
+  - b) z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
 
-  - c) ustawy z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
+  - c) z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2024 r. poz. 1835),
 
-  - d) ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2022 r. poz. 2542 oraz z 2023 r. poz. 1720),
+  - d) z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2024 r. poz. 561),
 
-  - e) ustawy z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
+  - e) z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
 
-  - f) ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
+  - f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
 
-- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309 oraz z 2023 r. poz. 1723 i 1860);
+- 5a) postępowaniu restrukturyzacyjnym - oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428);
 
 - 6) urzędzie skarbowym - oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 
-- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2023 r. poz. 1570, 1598 i 1852);
+- 7) ustawie o podatku od towarów i usług - oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911);
 
 - 8) ustawie o partnerstwie publiczno-prywatnym - oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637);
 
@@ -62,7 +62,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 14) spółce niebędącej osobą prawną - oznacza to spółkę inną niż określona w pkt 21;
 
-- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941);
+- 15) rachunku zbiorczym - oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863);
 
 - 16) udziale (akcji) - oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
 
@@ -94,7 +94,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 22a) walucie wirtualnej - oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
-- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843);
+- 22b) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843 oraz z 2024 r. poz. 850 i 1222);
 
 - 23) komercjalizowanej własności intelektualnej - oznacza to:
 
@@ -108,7 +108,7 @@ Ilekroć w ustawie jest mowa o:
 
 - 24) podmiocie komercjalizującym - oznacza to:
 
-  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088, 1234, 1672, 1872 i 2005),
+  - a) uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897),
 
   - b) spółkę utworzoną na podstawie art. 149 ust. 1 lub art. 150 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
 
@@ -116,7 +116,7 @@ Ilekroć w ustawie jest mowa o:
 
   - d) spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
 
-  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498 oraz z 2023 r. poz. 1672),
+  - e) instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534),
 
   - f) spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
 
@@ -128,7 +128,7 @@ Ilekroć w ustawie jest mowa o:
 
   - j) instytuty działające w ramach Sieci Badawczej Łukasiewicz,
 
-  - k) spółkę utworzoną na podstawie art. 30 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2020 r. poz. 2098 oraz z 2023 r. poz. 1672)
+  - k) spółkę utworzoną na podstawie art. 30 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2024 r. poz. 925 i 1089)
 
   - jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
 
@@ -152,11 +152,11 @@ Ilekroć w ustawie jest mowa o:
 
   - c) prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, uwzględnia się charakter oraz skalę działalności prowadzonej przez ten podmiot w zakresie otrzymanej należności;
 
-- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941);
+- 30) ustawie o funduszach inwestycyjnych - oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863);
 
 - 30a) alternatywnej spółce inwestycyjnej - oznacza to alternatywną spółkę inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych;
 
-- 30b) alternatywnej spółce inwestycyjnej wdrażającej instrument finansowy - oznacza to alternatywną spółkę inwestycyjną, za pośrednictwem której podmiot wdrażający instrument finansowy, o którym mowa w rozdziale 10 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2020 r. poz. 818) lub w rozdziale 10 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 (Dz. U. poz. 1079), dokonuje wdrożenia instrumentu finansowego poprzez wniesienie wkładu pieniężnego do tej spółki;
+- 30b) alternatywnej spółce inwestycyjnej wdrażającej instrument finansowy - oznacza to alternatywną spółkę inwestycyjną, za pośrednictwem której podmiot wdrażający instrument finansowy, o którym mowa w rozdziale 10 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2020 r. poz. 818) lub w rozdziale 10 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717), dokonuje wdrożenia instrumentu finansowego poprzez wniesienie wkładu pieniężnego do tej spółki;
 
 - 31) nabytych wierzytelnościach banku hipotecznego - oznacza to nabyte przez bank hipoteczny, w celu emisji listów zastawnych, od innych banków wierzytelności z tytułu udzielonych przez nie kredytów;
 
@@ -170,7 +170,7 @@ Ilekroć w ustawie jest mowa o:
 
   - przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości;
 
-- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, 1723 i 1941);
+- 33) ustawie o pracowniczych planach kapitałowych - oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427);
 
 - 34) ustawie o przeciwdziałaniu nadmiernym opóźnieniom - oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790);
 
