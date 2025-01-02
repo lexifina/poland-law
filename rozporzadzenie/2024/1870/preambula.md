@@ -1,0 +1,1 @@
+Na podstawie art. 17 ust. 3 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707) zarządza się, co następuje:
