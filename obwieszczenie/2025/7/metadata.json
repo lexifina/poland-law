@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/7",
+ "source_sha256": "4b6c5786cb48cbc1a921941c6c1850aeaa3ae041974632976c1006a2e80d4130",
+ "in_force": "2025-01-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/7",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/7/text/O/D20250007.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/7/text/I/D20250007.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/7/text/T/D20250007L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/7",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 7,
+  "address": "WDU20250000007",
+  "displayAddress": "Dz.U. 2025 poz. 7",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o regionalnych izbach obrachunkowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-12-23",
+  "promulgation": "2025-01-03",
+  "changeDate": "2025-01-07T11:33:50",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby obrachunkowe",
+   "regiony"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1992/428"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250007.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250007.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250007L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
