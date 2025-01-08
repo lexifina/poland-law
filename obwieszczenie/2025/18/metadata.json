@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/18",
+ "source_sha256": "7f12fd2e097d6c661f5d8ce457b6095d630b01b5d9ef5d067229dfc9bb3907fe",
+ "in_force": "2025-01-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/18",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/18/text/O/D20250018.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/18/text/I/D20250018.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/18/text/T/D20250018L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/18",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 18,
+  "address": "WDU20250000018",
+  "displayAddress": "Dz.U. 2025 poz. 18",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o żegludze śródlądowej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-11-27",
+  "promulgation": "2025-01-08",
+  "changeDate": "2025-01-09T11:17:58",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "żegluga śródlądowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/43"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250018.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250018.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250018L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
