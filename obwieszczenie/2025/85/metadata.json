@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/85",
+ "source_sha256": "52df9e384e4a916ffa0704c2fc9f78516c1e5b1e6faed6ee85158828be6b0ec3",
+ "in_force": "2025-01-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/85",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/85/text/O/D20250085.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/85/text/I/D20250085.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/85/text/T/D20250085L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/85/text/U/D20250085Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/85",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 85,
+  "address": "WDU20250000085",
+  "displayAddress": "Dz.U. 2025 poz. 85",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-01-15",
+  "promulgation": "2025-01-15",
+  "changeDate": "2026-03-05T14:46:15",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "informacje gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/530"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250085.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250085.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250085L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250085Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
