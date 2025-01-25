@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/31",
+ "source_sha256": "2096f820142f739c7c631a4eb54cd34e31135de40aab6bddefa1db9aeb180f22",
+ "in_force": "2025-01-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/31",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/31/text/O/D20250031.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/31/text/I/D20250031.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/31/text/T/D20250031L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/31",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 31,
+  "address": "WDU20250000031",
+  "displayAddress": "Dz.U. 2025 poz. 31",
+  "title": "Ustawa z dnia 5 grudnia 2024 r. o zmianie ustawy - Prawo lotnicze",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-12-05",
+  "promulgation": "2025-01-10",
+  "entryIntoForce": "2025-01-25",
+  "changeDate": "2025-10-22T09:45:02",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=573",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/573",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/573",
+    "number": "573",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/1112",
+     "date": "2025-01-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250031.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250031.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250031L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
