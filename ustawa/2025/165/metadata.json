@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/165",
+ "source_sha256": "66263533d1b183f64f10dda4b29433bae034e11fde9b7f2cb126732e50423306",
+ "in_force": "2025-02-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/165",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/165/text/O/D20250165.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/165/text/I/D20250165.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/165/text/T/D20250165L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/165",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 165,
+  "address": "WDU20250000165",
+  "displayAddress": "Dz.U. 2025 poz. 165",
+  "title": "Ustawa z dnia 9 stycznia 2025 r. o ustanowieniu Narodowego Dnia Pamięci Żołnierzy Armii Krajowej",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-01-09",
+  "promulgation": "2025-02-10",
+  "entryIntoForce": "2025-02-11",
+  "changeDate": "2025-02-14T09:33:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordery, odznaczenia i odznaki"
+  ],
+  "keywordsNames": [
+   "Armia Krajowa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=925",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/925",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/925",
+    "number": "925",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250165.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250165.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250165L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
