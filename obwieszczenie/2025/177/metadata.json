@@ -1,0 +1,85 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/177",
+ "source_sha256": "8db4d601d3bf943ba062fe89214c8e35b4c44773fc4c2b7abc9f8cdc91c8255b",
+ "in_force": "2025-02-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/177",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/177/text/O/D20250177.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/177/text/I/D20250177.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/177/text/T/D20250177L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/177",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 177,
+  "address": "WDU20250000177",
+  "displayAddress": "Dz.U. 2025 poz. 177",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-02-05",
+  "promulgation": "2025-02-11",
+  "changeDate": "2025-02-12T11:38:23",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "elektroniczne nośniki informacji",
+   "elektroniczne urządzenia",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31998L0084",
+    "date": "1998-11-20",
+    "title": "Dyrektywa 98/84/WE Parlamentu Europejskiego i Rady z dnia 20 listopada 1998 r. w sprawie prawnej ochrony usług opartych lub polegających na warunkowym dostępie"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1068"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250177.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250177.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250177L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
