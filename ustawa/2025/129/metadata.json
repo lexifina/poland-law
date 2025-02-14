@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/129",
+ "source_sha256": "bdea43f1442be3dd6551e845c8d0303860b0957254707fa12df6137352d86529",
+ "in_force": "2025-02-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/129",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/129/text/O/D20250129.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/129/text/I/D20250129.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/129/text/T/D20250129L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/129",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 129,
+  "address": "WDU20250000129",
+  "displayAddress": "Dz.U. 2025 poz. 129",
+  "title": "Ustawa z dnia 5 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2024-12-05",
+  "promulgation": "2025-01-30",
+  "entryIntoForce": "2025-02-14",
+  "changeDate": "2026-10-02T11:35:48",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne prawo",
+   "farmaceutyczne środki",
+   "świadczenia",
+   "działalność lecznicza",
+   "finanse publiczne",
+   "farmaceuci",
+   "refundacja",
+   "leki i artykuły sanitarne",
+   "opieka zdrowotna",
+   "pielęgniarstwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=803",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/803",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/803",
+    "number": "803",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/696",
+     "date": "2025-02-14"
+    },
+    {
+     "id": "DU/2011/654",
+     "date": "2025-02-14"
+    },
+    {
+     "id": "DU/2011/1039",
+     "date": "2025-02-14"
+    },
+    {
+     "id": "DU/2004/2135",
+     "date": "2025-02-14"
+    },
+    {
+     "id": "DU/2001/1381",
+     "date": "2025-02-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250129.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250129.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250129L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
