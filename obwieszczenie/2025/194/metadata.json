@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/194",
+ "source_sha256": "19d8f30ac69f21f34b38ce2c1452cc7113a2d19ea0c5c57b9e41954b951cd5f6",
+ "in_force": "2025-02-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/194",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/194/text/O/D20250194.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/194/text/I/D20250194.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/194/text/T/D20250194L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/194/text/U/D20250194Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/194",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 194,
+  "address": "WDU20250000194",
+  "displayAddress": "Dz.U. 2025 poz. 194",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-02-05",
+  "promulgation": "2025-02-14",
+  "changeDate": "2026-07-07T13:52:44",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/815",
+     "date": "2026-05-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/904"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250194.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250194.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250194L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250194Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
