@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/172",
+ "source_sha256": "42ab46f19e3a46873302a71955753d5ddd76f9c8a53ea764f8f590c7dbe1299c",
+ "in_force": "2025-02-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/172",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/172/text/O/D20250172.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/172/text/I/D20250172.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/172/text/T/D20250172L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/172",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 172,
+  "address": "WDU20250000172",
+  "displayAddress": "Dz.U. 2025 poz. 172",
+  "title": "Ustawa z dnia 9 stycznia 2025 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-01-09",
+  "promulgation": "2025-02-11",
+  "entryIntoForce": "2025-02-26",
+  "changeDate": "2025-02-14T09:34:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [
+   "Ukraina",
+   "Krajowa Administracja Skarbowa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=878",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/878",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/878",
+    "number": "878",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2022/835",
+     "date": "2025-02-26"
+    },
+    {
+     "id": "DU/2018/723",
+     "date": "2025-02-26"
+    },
+    {
+     "id": "DU/2016/1947",
+     "date": "2025-02-26"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250172.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250172.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250172L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
