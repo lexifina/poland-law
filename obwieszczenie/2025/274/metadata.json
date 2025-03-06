@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/274",
+ "source_sha256": "55b0b51b25ea4a798d65da1820cf6de100ed848dcb50ef333e4364a8faebbadd",
+ "in_force": "2025-03-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/274",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/274/text/O/D20250274.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/274/text/I/D20250274.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/274/text/T/D20250274L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/274/text/U/D20250274Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/274",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 274,
+  "address": "WDU20250000274",
+  "displayAddress": "Dz.U. 2025 poz. 274",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ewidencji ludności",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2025-02-14",
+  "promulgation": "2025-03-06",
+  "expirationDate": "2026-03-20",
+  "changeDate": "2026-03-25T09:28:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ewidencja ludności"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/1427"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250274.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250274.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250274L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250274Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
