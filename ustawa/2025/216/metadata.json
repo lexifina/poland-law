@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/216",
+ "source_sha256": "7b4fa804bed7c46eb640f2cb8fdef775ce23e4e460716db59d7897310ba78ca7",
+ "in_force": "2025-03-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/216",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/216/text/O/D20250216.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/216/text/I/D20250216.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/216/text/T/D20250216L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/216",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 216,
+  "address": "WDU20250000216",
+  "displayAddress": "Dz.U. 2025 poz. 216",
+  "title": "Ustawa z dnia 24 stycznia 2025 r. zmieniająca ustawę - Prawo wodne oraz ustawę o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-01-24",
+  "promulgation": "2025-02-20",
+  "entryIntoForce": "2025-03-07",
+  "changeDate": "2025-02-24T15:18:20",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze",
+   "wodne prawo",
+   "wody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=895",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/895",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/895",
+    "number": "895",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/2170",
+     "date": "2025-03-07"
+    },
+    {
+     "id": "DU/2017/1566",
+     "date": "2025-03-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250216.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250216.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250216L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
