@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/302",
+ "source_sha256": "cec491f9690754afda88300f04019d4532627095bf2314439d8118092b96a2a5",
+ "in_force": "2025-03-12",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/302",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/302/text/O/D20250302.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/302/text/I/D20250302.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/302/text/T/D20250302L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/302/text/U/D20250302Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/302",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 302,
+  "address": "WDU20250000302",
+  "displayAddress": "Dz.U. 2025 poz. 302",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie informacji w ochronie zdrowia",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2025-03-06",
+  "promulgation": "2025-03-12",
+  "expirationDate": "2026-02-24",
+  "changeDate": "2026-02-25T11:11:52",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona zdrowia",
+   "systemy teleinformatyczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/657"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250302.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250302.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250302L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250302Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
