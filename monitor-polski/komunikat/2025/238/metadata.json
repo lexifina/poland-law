@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2025/238",
+ "source_sha256": "e555bc5dc7e586bf70a2b79f64c8f31f56cccf4cb816e18e1c613b0fb642e025",
+ "in_force": "2025-03-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2025/238",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2025/238/text/O/M20250238.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2025/238/text/I/M20250238.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2025/238",
+  "publisher": "MP",
+  "year": 2025,
+  "volume": 0,
+  "pos": 238,
+  "address": "WMP20250000238",
+  "displayAddress": "M.P. 2025 poz. 238",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 11 marca 2025 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-11",
+  "promulgation": "2025-03-13",
+  "changeDate": "2025-03-14T11:40:11",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20250238.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20250238.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
