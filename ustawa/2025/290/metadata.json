@@ -1,0 +1,103 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/290",
+ "source_sha256": "0297fb5a3bada5f1832cb7d320eb77eedcb95abf1424dacbae4c2b7a4e4009d6",
+ "in_force": "2025-03-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/290",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/290/text/O/D20250290.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/290/text/I/D20250290.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/290/text/T/D20250290L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/290/text/U/D20250290Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/290",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 290,
+  "address": "WDU20250000290",
+  "displayAddress": "Dz.U. 2025 poz. 290",
+  "title": "Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-02-21",
+  "promulgation": "2025-03-10",
+  "entryIntoForce": "2025-03-18",
+  "changeDate": "2026-01-21T10:55:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa",
+   "energetyczna gospodarka",
+   "energetyka",
+   "energetyczne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1008",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1008",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1008",
+    "number": "1008",
+    "term": 10
+   }
+  ],
+  "comments": "art. 2 wchodzi w życie z dniem 11 marca",
+  "references": {
+   "Akty zmieniające": [
+    {
+     "id": "DU/2026/32",
+     "date": "2026-01-14"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2024/859",
+     "date": "2025-03-18"
+    },
+    {
+     "id": "DU/2022/2243",
+     "date": "2025-03-18"
+    },
+    {
+     "id": "DU/2022/1967",
+     "date": "2025-03-11"
+    },
+    {
+     "id": "DU/2018/9",
+     "date": "2025-03-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250290.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250290.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250290L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250290Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
