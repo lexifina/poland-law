@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/352",
+ "source_sha256": "798236cc9139f2d8d246418ee40fb16aa5a14fc97b600984c7f87498c5f68dec",
+ "in_force": "2025-03-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/352",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/352/text/O/D20250352.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/352/text/I/D20250352.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/352/text/T/D20250352L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/352",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 352,
+  "address": "WDU20250000352",
+  "displayAddress": "Dz.U. 2025 poz. 352",
+  "title": "Ustawa z dnia 6 marca 2025 r. o zmianie ustawy o systemie instytucji rozwoju",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-06",
+  "promulgation": "2025-03-20",
+  "entryIntoForce": "2025-03-21",
+  "changeDate": "2026-01-08T09:33:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze",
+   "przedsiębiorstwa",
+   "ubezpieczenia",
+   "inwestycje",
+   "papiery wartościowe",
+   "kredyty i pożyczki",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=992",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/992",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/992",
+    "number": "992",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/1572",
+     "date": "2025-03-21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250352.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250352.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250352L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
