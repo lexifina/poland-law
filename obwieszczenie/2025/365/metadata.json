@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/365",
+ "source_sha256": "778383df999b97c7df798cb7da3e7692b8b5da2f7505000554258935010bee30",
+ "in_force": "2025-03-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/365",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/365/text/O/D20250365.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/365/text/I/D20250365.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/365/text/T/D20250365L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/365/text/U/D20250365Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/365",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 365,
+  "address": "WDU20250000365",
+  "displayAddress": "Dz.U. 2025 poz. 365",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks wyborczy",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2025-02-14",
+  "promulgation": "2025-03-24",
+  "expirationDate": "2026-09-27",
+  "changeDate": "2026-09-29T10:25:31",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "31994L0080",
+    "date": "1994-12-19",
+    "title": "DYREKTYWA RADY 94/80/WE z dnia 19 grudnia 1994 r. ustanawiająca szczegółowe zasady korzystania z prawa głosowania i kandydowania w wyborach lokalnych przez obywateli Unii zamieszkałych w Państwie Członkowskim, którego nie są obywatelami"
+   },
+   {
+    "address": "31993L0109",
+    "date": "1993-12-06",
+    "title": "DYREKTYWA RADY 93/109/WE z dnia 6 grudnia 1993 r. ustanawiająca szczegółowe warunki wykonywania prawa głosowania i kandydowania w wyborach do Parlamentu Europejskiego przez obywateli Unii mających miejsce zamieszkania w Państwie Członkowskim, którego nie są obywatelami"
+   },
+   {
+    "address": "32016R0679",
+    "date": "2016-04-27",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/112"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250365.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250365.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250365L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250365Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
