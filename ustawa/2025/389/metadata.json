@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/389",
+ "source_sha256": "06bb7db8ee5629cd5a7c6611b6a918d955a6ad638043a4274457cd8c240b6f03",
+ "in_force": "2025-03-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/389",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/389/text/O/D20250389.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/389/text/I/D20250389.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/389/text/T/D20250389L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/389",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 389,
+  "address": "WDU20250000389",
+  "displayAddress": "Dz.U. 2025 poz. 389",
+  "title": "Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-02-21",
+  "promulgation": "2025-03-26",
+  "entryIntoForce": "2025-03-27",
+  "changeDate": "2026-10-06T12:28:21",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cudzoziemcy",
+   "ochrona"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32016R0399",
+    "date": "2016-03-09",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=924",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/924",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/924",
+    "number": "924",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1176",
+     "date": "2025-03-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250389.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250389.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250389L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
