@@ -40,6 +40,8 @@
 
 - 12) podstawę prawną odpowiednio odmowy rejestracji, wykreślenia z rejestru oraz przywrócenia zarejestrowania jako podatnika VAT;
 
+- 12a) podstawę prawną zwolnienia - w przypadku podatników, o których mowa w art. 113a ust. 1, zarejestrowanych jako podatnicy VAT UE;
+
 - 13) numery rachunków rozliczeniowych, o których mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych w związku z prowadzoną przez członka działalnością gospodarczą:
 
   - a) wskazanych w zgłoszeniu identyfikacyjnym lub zgłoszeniu aktualizacyjnym oraz

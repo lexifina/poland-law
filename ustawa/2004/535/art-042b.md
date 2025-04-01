@@ -6,11 +6,11 @@
 
 - 2) podmiotu innego niż wymieniony w pkt 1, dokonującego lub zamierzającego dokonywać czynności, o których mowa w art. 42a;
 
-- 3) zamawiającego w rozumieniu ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720) - w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym;
+- 3) zamawiającego w rozumieniu ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620) - w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym;
 
 - 4) podmiotu publicznego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) - w zakresie mającym wpływ na sposób obliczenia wynagrodzenia w związku z zawieraną umową o partnerstwie publiczno-prywatnym;
 
-- 5) zamawiającego w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140) - w zakresie mającym wpływ na sposób obliczenia wynagrodzenia koncesjonariusza wraz z ewentualną płatnością od zamawiającego w związku z zawieraną umową koncesji na roboty budowlane lub usługi.
+- 5) zamawiającego w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140 oraz z 2025 r. poz. 620) - w zakresie mającym wpływ na sposób obliczenia wynagrodzenia koncesjonariusza wraz z ewentualną płatnością od zamawiającego w związku z zawieraną umową koncesji na roboty budowlane lub usługi.
 
 1a. Do złożenia wniosku o wydanie WIS jest uprawniony wnioskodawca, o którym mowa w ust. 1, posiadający konto w e-Urzędzie Skarbowym, na którym został podany aktualny adres poczty elektronicznej lub numer telefonu w celu, o którym mowa w art. 35e ust. 8 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.).
 

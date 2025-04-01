@@ -20,7 +20,7 @@
 
 1b. Przepisu ust. 1a nie stosuje się w przypadkach, dla których terminy wystawienia faktury określone są w art. 106i ust. 3-8.
 
-2. Podatnik nie jest obowiązany do wystawienia faktury w odniesieniu do sprzedaży zwolnionej od podatku na podstawie art. 43 ust. 1, art. 113 ust. 1 i 9 lub przepisów wydanych na podstawie art. 82 ust. 3.
+2. Podatnik nie jest obowiązany do wystawienia faktury w odniesieniu do sprzedaży zwolnionej od podatku na podstawie art. 43 ust. 1, art. 113 ust. 1 i 9, art. 113a ust. 1 lub przepisów wydanych na podstawie art. 82 ust. 3.
 
 3. Na żądanie nabywcy towaru lub usługi podatnik jest obowiązany wystawić fakturę dokumentującą:
 

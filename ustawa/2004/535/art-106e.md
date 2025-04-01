@@ -8,7 +8,7 @@
 
 - 3) imiona i nazwiska lub nazwy podatnika i nabywcy towarów lub usług oraz ich adresy;
 
-- 4) numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku, z zastrzeżeniem pkt 24 lit. a;
+- 4) numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku, z zastrzeżeniem pkt 24 lit. a oraz pkt 25;
 
 - 5) numer, za pomocą którego nabywca towarów lub usług jest zidentyfikowany na potrzeby podatku lub podatku od wartości dodanej, pod którym otrzymał on towary lub usługi, z zastrzeżeniem pkt 24 lit. b;
 
@@ -46,7 +46,7 @@
 
 - 18a) w przypadku faktur, w których kwota należności ogółem przekracza kwotę 15 000 zł lub jej równowartość wyrażoną w walucie obcej, obejmujących dokonaną na rzecz podatnika dostawę towarów lub świadczenie usług, o których mowa w załączniku nr 15 do ustawy - wyrazy „mechanizm podzielonej płatności”, przy czym do przeliczania na złote kwot wyrażonych w walucie obcej stosuje się zasady przeliczania kwot stosowane w celu określenia podstawy opodatkowania;
 
-- 19) w przypadku dostawy towarów lub świadczenia usług zwolnionych od podatku na podstawie art. 43 ust. 1, art. 113 ust. 1 i 9 albo przepisów wydanych na podstawie art. 82 ust. 3 - wskazanie:
+- 19) w przypadku dostawy towarów lub świadczenia usług zwolnionych od podatku na podstawie art. 43 ust. 1, art. 113 ust. 1 i 9, art. 113a ust. 1 albo przepisów wydanych na podstawie art. 82 ust. 3 - wskazanie:
 
   - a) przepisu ustawy albo aktu wydanego na podstawie ustawy, na podstawie którego podatnik stosuje zwolnienie od podatku,
 
@@ -70,7 +70,9 @@
 
   - a) numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku, poprzedzony kodem PL,
 
-  - b) numer, za pomocą którego nabywca towaru lub usługi jest zidentyfikowany na potrzeby podatku od wartości dodanej w danym państwie członkowskim, zawierający dwuliterowy kod stosowany na potrzeby podatku od wartości dodanej właściwy dla tego państwa członkowskiego.
+  - b) numer, za pomocą którego nabywca towaru lub usługi jest zidentyfikowany na potrzeby podatku od wartości dodanej w danym państwie członkowskim, zawierający dwuliterowy kod stosowany na potrzeby podatku od wartości dodanej właściwy dla tego państwa członkowskiego;
+
+- 25) w przypadku podatnika korzystającego ze zwolnienia, o którym mowa w art. 113a ust. 1 - indywidualny numer identyfikacyjny, o którym mowa w art. 113a ust. 2 pkt 2.
 
 1a. W przypadku niewystawienia przez podatnika faktury, o której mowa w art. 106b ust. 1 pkt 4, z powodów określonych w art. 106b ust. 1a, wystawiona przez podatnika po wydaniu towaru lub wykonaniu usługi faktura w zakresie danych określonych w ust. 1 pkt 6 powinna zawierać datę dokonania lub zakończenia dostawy towarów lub wykonania usługi i datę otrzymania zapłaty, o której mowa w art. 106b ust. 1 pkt 4, jeżeli taka data jest określona i różni się od daty wystawienia faktury.
 

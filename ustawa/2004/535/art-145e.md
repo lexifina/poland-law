@@ -4,11 +4,11 @@
 
 # Art. 145e.
 
-1. W okresie od dnia 1 kwietnia 2023 r. do dnia 28 lutego 2025 r. w przypadku dostawy gazu w systemie gazowym, dostawy energii elektrycznej w systemie elektroenergetycznym i świadczenia usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych, o których mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029), podatnikami są osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne będące nabywcą tego gazu, tej energii lub usługobiorcą tych uprawnień, jeżeli łącznie są spełnione następujące warunki:
+1. W okresie od dnia 1 kwietnia 2023 r. do dnia 31 grudnia 2026 r. w przypadku dostawy gazu w systemie gazowym, dostawy energii elektrycznej w systemie elektroenergetycznym i świadczenia usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych, o których mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2024 r. poz. 1505 oraz z 2025 r. poz. 303), podatnikami są osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne będące nabywcą tego gazu, tej energii lub usługobiorcą tych uprawnień, jeżeli łącznie są spełnione następujące warunki:
 
-- 1) w przypadku dostawy tego gazu lub tej energii - nabywcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4, którego główna działalność w odniesieniu do nabywania gazu lub energii elektrycznej polega na ich odprzedaży i którego własne zużycie tych towarów jest nieznaczne;
+- 1) w przypadku dostawy tego gazu lub tej energii - nabywcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4 jako podatnik VAT czynny, którego główna działalność w odniesieniu do nabywania gazu lub energii elektrycznej polega na ich odprzedaży i którego własne zużycie tych towarów jest nieznaczne;
 
-- 2) w przypadku świadczenia tych usług - usługobiorcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4;
+- 2) w przypadku świadczenia tych usług - usługobiorcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4 jako podatnik VAT czynny;
 
 - 3) dostawa tych towarów lub świadczenie tych usług są dokonywane w ramach transakcji zawartej bezpośrednio lub za pośrednictwem uprawnionego podmiotu na:
 
@@ -16,9 +16,9 @@
 
   - b) rynku regulowanym lub OTF w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 
-- 4) dostawcą lub usługodawcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4, u którego sprzedaż nie jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9.
+- 4) dostawcą lub usługodawcą jest podatnik zarejestrowany zgodnie z art. 96 ust. 4, u którego sprzedaż nie jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9 albo art. 113a ust. 1.
 
-2. Za nabywcę lub usługobiorcę, o którym mowa w ust. 1 pkt 1 lub 2, uważa się w szczególności podatnika zarejestrowanego zgodnie z art. 96 ust. 4:
+2. Za nabywcę lub usługobiorcę, o którym mowa w ust. 1 pkt 1 lub 2, uważa się w szczególności podatnika zarejestrowanego zgodnie z art. 96 ust. 4 jako podatnik VAT czynny:
 
 - 1) będącego spółką prowadzącą giełdę towarową w rozumieniu przepisów o giełdach towarowych;
 

@@ -54,7 +54,7 @@
 
 11. Do podstawy opodatkowania nie wlicza się wartości opakowania, jeżeli podatnik dokonał dostawy towaru w opakowaniu zwrotnym, pobierając kaucję za to opakowanie lub określając taką kaucję w umowie dotyczącej dostawy towaru.
 
-11a. Do podstawy opodatkowania nie wlicza się wartości opakowania wielokrotnego użytku, jeżeli podatnik dokonał dostawy towaru w tym opakowaniu.
+11a. Do podstawy opodatkowania nie wlicza się kaucji pobieranej za opakowanie objęte systemem kaucyjnym, jeżeli podatnik dokonał dostawy towaru w tym opakowaniu.
 
 12. W przypadku niezwrócenia przez nabywcę opakowania, o którym mowa w ust. 11, podstawę opodatkowania podwyższa się o wartość tego opakowania:
 
@@ -62,9 +62,17 @@
 
 - 2) 60. dnia od dnia wydania opakowania - jeżeli w umowie nie określono terminu zwrotu tego opakowania.
 
-12a. W przypadku niezwrócenia przez nabywcę opakowania wielokrotnego użytku wprowadzający produkty w opakowaniach na napoje podwyższa podstawę opodatkowania o wartość tego opakowania. Przez niezwrócenie opakowania wielokrotnego użytku rozumie się również zwrot odpadu opakowaniowego.
+12a. (uchylony)
 
-12b. W przypadku, o którym mowa w ust. 12a, wprowadzający produkty w opakowaniach na napoje określa wysokość zmiany podstawy opodatkowania na ostatni dzień roku przez określenie różnicy między liczbą wprowadzonych do obrotu a liczbą zwróconych w danym roku opakowań wielokrotnego użytku. Jeżeli liczba zwróconych w danym roku opakowań wielokrotnego użytku jest większa od liczby wprowadzonych do obrotu w danym roku opakowań wielokrotnego użytku, wprowadzający produkty w opakowaniach na napoje uwzględnia tę różnicę przy ustaleniu wartości podstawy opodatkowania dla kolejnego roku.
+12b. (uchylony)
+
+12c. W przypadku niezwrócenia do podmiotu reprezentującego opakowania lub odpadu opakowaniowego objętych systemem kaucyjnym wprowadzający produkty w opakowaniach na napoje podwyższa podstawę opodatkowania na ostatni dzień roku o różnicę w wartości kaucji wynikającą z wprowadzonych przez niego do obrotu w danym roku opakowań objętych systemem kaucyjnym a opakowań lub odpadów opakowaniowych objętych tym systemem zwróconych do podmiotu reprezentującego w danym roku. Kwota tej różnicy zawiera kwotę podatku. Wprowadzający produkty w opakowaniach na napoje jest obowiązany do podwyższenia podstawy opodatkowania w deklaracji podatkowej składanej za pierwszy okres rozliczeniowy roku następującego po roku, dla którego ustalono różnicę w wartości kaucji.
+
+12d. Jeżeli w danym roku wartość kaucji wynikająca z opakowań objętych systemem kaucyjnym wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach na napoje jest mniejsza niż wartość kaucji wynikająca z opakowań lub odpadów opakowaniowych objętych tym systemem zwróconych do podmiotu reprezentującego, wprowadzający produkty w opakowaniach na napoje uwzględnia tę różnicę przy ustaleniu podstawy opodatkowania dla:
+
+- 1) kolejnego roku albo
+
+- 2) lat następujących po kolejnym roku, jeżeli w kolejnym roku wartość kaucji wynikająca z opakowań objętych systemem kaucyjnym wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach na napoje jest mniejsza niż łączna wartość kaucji wynikająca z opakowań lub odpadów opakowaniowych objętych tym systemem zwróconych do podmiotu reprezentującego oraz wartość różnicy wynikającej z roku poprzedniego.
 
 13. W przypadkach, o których mowa w ust. 10 pkt 1-3, obniżenia podstawy opodatkowania, w stosunku do podstawy określonej w wystawionej fakturze z wykazanym podatkiem, dokonuje się za okres rozliczeniowy, w którym podatnik wystawił fakturę korygującą, pod warunkiem że z posiadanej przez tego podatnika dokumentacji wynika, że uzgodnił on z nabywcą towaru lub usługobiorcą warunki obniżenia podstawy opodatkowania dla dostawy towarów lub świadczenia usług określone w fakturze korygującej oraz warunki te zostały spełnione, a faktura ta jest zgodna z posiadaną dokumentacją. W przypadku gdy w okresie rozliczeniowym, w którym została wystawiona faktura korygująca, podatnik nie posiada dokumentacji, o której mowa w zdaniu pierwszym, obniżenia podstawy opodatkowania dokonuje za okres rozliczeniowy, w którym dokumentację tę uzyskał.
 
