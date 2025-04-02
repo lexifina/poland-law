@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/428",
+ "source_sha256": "57be7138abf01aad7e8bb0f66f6a15df01f1d0cec8aaffef9fae9f3b74a99196",
+ "in_force": "2025-04-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/428",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/428/text/O/D20250428.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/428/text/I/D20250428.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/428/text/T/D20250428L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/428",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 428,
+  "address": "WDU20250000428",
+  "displayAddress": "Dz.U. 2025 poz. 428",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej w województwie",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-24",
+  "promulgation": "2025-04-02",
+  "changeDate": "2025-04-04T09:35:38",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "województwa",
+   "administracja rządowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/206"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250428.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250428.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250428L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
