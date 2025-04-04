@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/440",
+ "source_sha256": "3bbd1502e9695f20bc4fc099c533613ab2515220d659791a62d9c45456ad8913",
+ "in_force": "2025-04-04",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/440",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/440/text/O/D20250440.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/440/text/I/D20250440.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/440/text/T/D20250440L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/440/text/U/D20250440Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/440",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 440,
+  "address": "WDU20250000440",
+  "displayAddress": "Dz.U. 2025 poz. 440",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2025-03-24",
+  "promulgation": "2025-04-04",
+  "expirationDate": "2026-04-22",
+  "changeDate": "2026-04-23T10:13:18",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "związki zawodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1991/234"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250440.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250440.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250440L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250440Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
