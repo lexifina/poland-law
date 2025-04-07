@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2025/447",
- "source_sha256": "50c797aa9448b1df40229ddd371a3ed63df4168deb9de80416c8a6c51535154c",
+ "source_sha256": "a11a46398d2a4539cb48326ec92571222ebf67235fd953ad1b52364233bcff42",
  "in_force": "2025-04-07",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -23,11 +23,12 @@
   "displayAddress": "Dz.U. 2025 poz. 447",
   "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2025-03-24",
   "promulgation": "2025-04-07",
-  "changeDate": "2026-02-27T14:36:03",
+  "expirationDate": "2026-11-17",
+  "changeDate": "2026-11-18T10:15:42",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -44,12 +45,6 @@
   "directives": [],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2026/160",
-     "date": "2026-01-09"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
