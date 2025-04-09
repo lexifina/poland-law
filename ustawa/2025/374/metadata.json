@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/374",
+ "source_sha256": "4e6e7b800cc25777afae473e3aa5edadd55d2a333cd93a0061f8e73e9d81e566",
+ "in_force": "2025-04-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/374",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/374/text/O/D20250374.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/374/text/I/D20250374.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/374/text/T/D20250374L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/374",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 374,
+  "address": "WDU20250000374",
+  "displayAddress": "Dz.U. 2025 poz. 374",
+  "title": "Ustawa z dnia 7 marca 2025 r. o zmianie ustawy - Prawo lotnicze",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-07",
+  "promulgation": "2025-03-25",
+  "entryIntoForce": "2025-04-09",
+  "changeDate": "2025-10-22T09:46:12",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lotnicze prawo",
+   "ewidencja",
+   "budownictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=952",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/952",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/952",
+    "number": "952",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2002/1112",
+     "date": "2025-04-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250374.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250374.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250374L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
