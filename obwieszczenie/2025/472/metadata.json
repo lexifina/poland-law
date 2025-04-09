@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/472",
+ "source_sha256": "4af6b3ca1e95f610eaa3d058821b174f3b03b18e99cf533b69bf1908cbf0dbab",
+ "in_force": "2025-04-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/472",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/472/text/O/D20250472.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/472/text/I/D20250472.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/472/text/T/D20250472L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/472",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 472,
+  "address": "WDU20250000472",
+  "displayAddress": "Dz.U. 2025 poz. 472",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-24",
+  "promulgation": "2025-04-09",
+  "changeDate": "2025-04-14T11:16:50",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "samorząd terytorialny",
+   "referendum"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/985"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250472.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250472.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250472L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
