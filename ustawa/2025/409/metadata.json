@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/409",
+ "source_sha256": "f4583a4f62489987c000704ef7872f0e728bc2bb76b7a2c3b96c748579ea587e",
+ "in_force": "2025-04-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/409",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/409/text/O/D20250409.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/409/text/I/D20250409.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/409/text/T/D20250409L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/409",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 409,
+  "address": "WDU20250000409",
+  "displayAddress": "Dz.U. 2025 poz. 409",
+  "title": "Ustawa z dnia 20 marca 2025 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz ustawy o inwestycjach w zakresie budowy portów zewnętrznych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-20",
+  "promulgation": "2025-03-28",
+  "entryIntoForce": "2025-04-12",
+  "changeDate": "2025-04-07T08:50:44",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morskie prawo",
+   "morza",
+   "administracja morska",
+   "porty morskie",
+   "inwestycje",
+   "morskie urzędy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=933",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/933",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/933",
+    "number": "933",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 14 i pkt 15 lit. c wchodzi w życie z dniem 29 września 2025 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2004/2025",
+     "date": "2025-04-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/1924",
+     "date": "2025-04-12"
+    },
+    {
+     "id": "DU/1991/131",
+     "date": "2025-04-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250409.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250409.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250409L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
