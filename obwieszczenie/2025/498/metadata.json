@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2025/498",
- "source_sha256": "3a689ac8274c03447597e43b7a2ad76d2febb08d062c841e37e33dd5de7fe2e2",
+ "source_sha256": "9b4d45717afa35fdae24dda17d5955bee9385c18cf13a251da919cd2ba9f1fed",
  "in_force": "2025-04-16",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -23,11 +23,12 @@
   "displayAddress": "Dz.U. 2025 poz. 498",
   "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2025-03-07",
   "promulgation": "2025-04-16",
-  "changeDate": "2026-10-05T09:50:15",
+  "expirationDate": "2026-11-25",
+  "changeDate": "2026-11-26T10:13:30",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -74,16 +75,6 @@
   ],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2026/516",
-     "date": "2026-03-13"
-    },
-    {
-     "id": "DU/2025/1535",
-     "date": "2025-10-09"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
