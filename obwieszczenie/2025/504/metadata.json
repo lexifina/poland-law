@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2025/504",
- "source_sha256": "90afd9bd6847e8bddf2f6a795647e91ecdf813eb846d628cafaf7ca517490b03",
+ "source_sha256": "4fe702ff10163458e034a53607a219726e9cd5ae40d0712a4730a95af169a207",
  "in_force": "2025-04-17",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -23,11 +23,12 @@
   "displayAddress": "Dz.U. 2025 poz. 504",
   "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2025-04-10",
   "promulgation": "2025-04-17",
-  "changeDate": "2026-03-25T10:56:13",
+  "expirationDate": "2026-11-22",
+  "changeDate": "2026-11-24T09:41:51",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -43,12 +44,6 @@
   "directives": [],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2026/252",
-     "date": "2026-01-23"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
