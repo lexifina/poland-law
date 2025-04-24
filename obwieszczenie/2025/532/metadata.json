@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/532",
+ "source_sha256": "1e4dee36e3600d4a4baec48d12c034c3159e0e0e53bfac76b17b3d0e912bcbbb",
+ "in_force": "2025-04-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/532",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/532/text/O/D20250532.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/532/text/I/D20250532.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/532/text/T/D20250532L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/532/text/U/D20250532Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/532",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 532,
+  "address": "WDU20250000532",
+  "displayAddress": "Dz.U. 2025 poz. 532",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-24",
+  "promulgation": "2025-04-24",
+  "changeDate": "2026-07-07T13:34:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona osób i mienia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/815",
+     "date": "2026-05-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/740"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250532.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250532.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250532L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250532Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
