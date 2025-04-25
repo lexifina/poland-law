@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/555",
+ "source_sha256": "d9ae7688b801a436a03420b8652445b85e37e0bc80c0d09fef82ea00f802755a",
+ "in_force": "2025-04-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/555",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/555/text/O/D20250555.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/555/text/I/D20250555.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/555/text/T/D20250555L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/555/text/U/D20250555Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/555",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 555,
+  "address": "WDU20250000555",
+  "displayAddress": "Dz.U. 2025 poz. 555",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o środkach przymusu bezpośredniego i broni palnej",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2025-03-24",
+  "promulgation": "2025-04-25",
+  "expirationDate": "2026-03-01",
+  "changeDate": "2026-03-03T08:29:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przymus bezpośredni",
+   "broń palna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/628"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250555.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250555.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250555L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20250555Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
