@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/479",
+ "source_sha256": "1f160c002bd3502b33317fd2effe81ce52ad56c0f22c25ed45bd8c0212c38dfc",
+ "in_force": "2025-04-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/479",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/479/text/O/D20250479.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/479/text/I/D20250479.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/479/text/T/D20250479L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/479",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 479,
+  "address": "WDU20250000479",
+  "displayAddress": "Dz.U. 2025 poz. 479",
+  "title": "Ustawa z dnia 6 marca 2025 r. o zmianie ustawy - Prawo o notariacie",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-06",
+  "promulgation": "2025-04-11",
+  "entryIntoForce": "2025-04-26",
+  "changeDate": "2026-05-08T09:29:18",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "notariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=440",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/440",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/440",
+    "number": "440",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/91",
+     "date": "2025-04-26"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250479.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250479.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250479L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
