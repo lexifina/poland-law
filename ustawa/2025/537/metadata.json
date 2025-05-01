@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/537",
+ "source_sha256": "7a75693117ab476ca0c9abddc5302ffd613f9628bb37b168aad5286c9cadd13c",
+ "in_force": "2025-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/537",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/537/text/O/D20250537.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/537/text/I/D20250537.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/537/text/T/D20250537L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/537",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 537,
+  "address": "WDU20250000537",
+  "displayAddress": "Dz.U. 2025 poz. 537",
+  "title": "Ustawa z dnia 4 kwietnia 2025 r. zmieniająca ustawę o zmianie ustawy o ochronie zabytków i opiece nad zabytkami",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-04-04",
+  "promulgation": "2025-04-24",
+  "entryIntoForce": "2025-05-01",
+  "changeDate": "2025-04-28T12:29:04",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zabytki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1132",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1132",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1132",
+    "number": "1132",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/1904",
+     "date": "2025-05-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250537.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250537.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250537L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
