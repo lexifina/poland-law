@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/590",
+ "source_sha256": "3d2722ca27fffd0999ca315e829b130af77c97b982eeed29c47dccd44ef39ab6",
+ "in_force": "2025-05-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/590",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/590/text/O/D20250590.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/590/text/I/D20250590.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/590/text/T/D20250590L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/590",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 590,
+  "address": "WDU20250000590",
+  "displayAddress": "Dz.U. 2025 poz. 590",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rybołówstwie morskim",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-04-10",
+  "promulgation": "2025-05-06",
+  "changeDate": "2025-05-07T11:12:03",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rybacy morscy",
+   "rybołówstwo morskie",
+   "ryby"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/222"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250590.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250590.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250590L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
