@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/523",
+ "source_sha256": "e6d563f07dc5553edf690c06560106633faacb2334985bd5bb4de8277a57d7e4",
+ "in_force": "2025-05-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/523",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/523/text/O/D20250523.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/523/text/I/D20250523.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/523/text/T/D20250523L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/523",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 523,
+  "address": "WDU20250000523",
+  "displayAddress": "Dz.U. 2025 poz. 523",
+  "title": "Ustawa z dnia 20 marca 2025 r. o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-03-20",
+  "promulgation": "2025-04-22",
+  "entryIntoForce": "2025-05-07",
+  "changeDate": "2026-02-04T10:40:21",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby lekarsko-weterynaryjne",
+   "weterynaryjna służba"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1038",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1038",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1038",
+    "number": "1038",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/27",
+     "date": "2025-05-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250523.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250523.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250523L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
