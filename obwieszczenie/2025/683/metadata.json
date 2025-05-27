@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/683",
+ "source_sha256": "9ae6c024eb9d2db9b4271d79f5342c39d18577c307aa4735f8f2de37827bf7ab",
+ "in_force": "2025-05-27",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/683",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/683/text/O/D20250683.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/683/text/I/D20250683.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/683/text/T/D20250683L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/683",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 683,
+  "address": "WDU20250000683",
+  "displayAddress": "Dz.U. 2025 poz. 683",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o funduszach promocji produktów rolno-spożywczych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-05-21",
+  "promulgation": "2025-05-27",
+  "changeDate": "2025-05-28T11:12:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty rolne",
+   "fundusze",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2009/799"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250683.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250683.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250683L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
