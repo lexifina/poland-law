@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/630",
+ "source_sha256": "5064b48591766e928f02f19219ba005c124fad9a7e73ac90b462d4375418774f",
+ "in_force": "2025-05-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/630",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/630/text/O/D20250630.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/630/text/I/D20250630.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/630/text/T/D20250630L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/630",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 630,
+  "address": "WDU20250000630",
+  "displayAddress": "Dz.U. 2025 poz. 630",
+  "title": "Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy o zagospodarowaniu wspólnot gruntowych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-04-04",
+  "promulgation": "2025-05-14",
+  "entryIntoForce": "2025-05-29",
+  "changeDate": "2025-10-24T08:27:56",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wspólnoty gruntowe",
+   "mienie gminne",
+   "mienie komunalne",
+   "grunty",
+   "grunty rolne i leśne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=995",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/995",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/995",
+    "number": "995",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1963/169",
+     "date": "2025-05-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250630.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250630.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250630L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
