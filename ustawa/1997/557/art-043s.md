@@ -1,6 +1,6 @@
 # Art. 43s.
 
-§ 1. W razie umyślnego dopuszczenia do zniszczenia, uszkodzenia, uczynienia niezdatnym do użytku nadajnika, rejestratora stacjonarnego lub przenośnego sąd może nałożyć na skazanego lub osobę chronioną opłatę wyrównawczą na rzecz podmiotu dozorującego. W sprawach egzekucji opłaty wyrównawczej stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760).
+§ 1. W razie umyślnego dopuszczenia do zniszczenia, uszkodzenia, uczynienia niezdatnym do użytku nadajnika, rejestratora stacjonarnego lub przenośnego sąd może nałożyć na skazanego lub osobę chronioną opłatę wyrównawczą na rzecz podmiotu dozorującego. W sprawach egzekucji opłaty wyrównawczej stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620).
 
 § 2. Na postanowienie w przedmiocie nałożenia opłaty wyrównawczej przysługuje zażalenie.
 
