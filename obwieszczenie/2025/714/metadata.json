@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/714",
+ "source_sha256": "51e8d02a62d17c22617e09a83e7b2bb79df0d55adf118b0dffcbc599805a2087",
+ "in_force": "2025-06-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/714",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/714/text/O/D20250714.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/714/text/I/D20250714.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/714",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 714,
+  "address": "WDU20250000714",
+  "displayAddress": "Dz.U. 2025 poz. 714",
+  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 2 czerwca 2025 r. o wynikach ponownego głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-02",
+  "promulgation": "2025-06-02",
+  "changeDate": "2025-06-03T11:35:42",
+  "releasedBy": [
+   "PAŃSTWOWA KOMISJA WYBORCZA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wyborczy",
+   "wybory"
+  ],
+  "keywordsNames": [
+   "Prezydent RP"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 319 par. 3"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250714.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250714.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
