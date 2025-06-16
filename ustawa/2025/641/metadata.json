@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/641",
+ "source_sha256": "e38729edb9e3e9da7d37f4dc4a5f4c0738a1ce5c45e7d28daf727fed5fb240c9",
+ "in_force": "2025-06-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/641",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/641/text/O/D20250641.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/641/text/I/D20250641.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/641/text/T/D20250641L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/641",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 641,
+  "address": "WDU20250000641",
+  "displayAddress": "Dz.U. 2025 poz. 641",
+  "title": "Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy o drogach publicznych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-04-04",
+  "promulgation": "2025-05-16",
+  "entryIntoForce": "2025-06-16",
+  "changeDate": "2025-07-07T10:17:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "drogi publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=880",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/880",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/880",
+    "number": "880",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1985/60",
+     "date": "2025-06-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250641.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250641.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250641L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
