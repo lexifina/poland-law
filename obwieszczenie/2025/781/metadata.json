@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/781",
+ "source_sha256": "7517b07c9f26cef94f0de3d8513a5cbdf4f40834a7db98f5b9f84684978f445c",
+ "in_force": "2025-06-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/781",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/781/text/O/D20250781.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/781/text/I/D20250781.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/781/text/T/D20250781L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/781",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 781,
+  "address": "WDU20250000781",
+  "displayAddress": "Dz.U. 2025 poz. 781",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o społeczno-zawodowych organizacjach rolników",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-11",
+  "promulgation": "2025-06-17",
+  "changeDate": "2025-06-20T08:39:37",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolne prawo",
+   "rolnicy",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1982/217"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250781.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250781.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250781L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
