@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/758",
+ "source_sha256": "4e2d43c05dc3e7e27d49904c8105317d6a2cfe1daa7d40d8b629ac47a4d85f23",
+ "in_force": "2025-07-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/758",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/758/text/O/D20250758.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/758/text/I/D20250758.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/758/text/T/D20250758L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/758",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 758,
+  "address": "WDU20250000758",
+  "displayAddress": "Dz.U. 2025 poz. 758",
+  "title": "Ustawa z dnia 21 maja 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-05-21",
+  "promulgation": "2025-06-10",
+  "entryIntoForce": "2025-07-11",
+  "changeDate": "2026-07-02T10:05:44",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "lokal",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1112",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1112",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1112",
+    "number": "1112",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2021/1177",
+     "date": "2025-07-11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250758.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250758.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250758L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
