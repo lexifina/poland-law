@@ -2,5 +2,5 @@
 
 Dz.U. 1960 nr 30 poz. 168 · <https://eli.gov.pl/api/acts/DU/1960/168>
 
-Tekst jednolity: Dz.U. 2024 poz. 572 (2024-04-15), stan na 2023-05-12.
+Tekst jednolity: Dz.U. 2025 poz. 1691 (2025-12-03), stan na 2025-07-13.
 

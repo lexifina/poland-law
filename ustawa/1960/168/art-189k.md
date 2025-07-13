@@ -2,15 +2,35 @@
 
 § 1. Organ administracji publicznej, który nałożył administracyjną karę pieniężną, na wniosek strony, w przypadkach uzasadnionych ważnym interesem publicznym lub ważnym interesem strony, może udzielić ulg w wykonaniu administracyjnej kary pieniężnej przez:
 
-- 1) odroczenie terminu wykonania administracyjnej kary pieniężnej lub rozłożenie jej na raty;
+- 1) odroczenie terminu zapłaty lub rozłożenie na raty zapłaty administracyjnej kary pieniężnej;
 
-- 2) odroczenie terminu wykonania zaległej administracyjnej kary pieniężnej lub rozłożenie jej na raty;
+- 2) odroczenie terminu zapłaty lub rozłożenie na raty zapłaty zaległej administracyjnej kary pieniężnej wraz z odsetkami za zwłokę;
 
 - 3) umorzenie administracyjnej kary pieniężnej w całości lub części;
 
 - 4) umorzenie odsetek za zwłokę w całości lub części.
 
 § 2. W przypadku umorzenia zaległej administracyjnej kary pieniężnej umorzeniu podlegają także odsetki za zwłokę w całości lub takiej części, w jakiej została umorzona zaległa administracyjna kara pieniężna.
+
+§ 2a. Od zaległej administracyjnej kary pieniężnej, której termin zapłaty został odroczony lub zapłata została rozłożona na raty, odsetki za zwłokę są naliczane do dnia wniesienia wniosku strony o odroczenie terminu jej zapłaty lub rozłożenie zapłaty na raty, włącznie z tym dniem.
+
+§ 2b. Jeżeli decyzja o odmowie odroczenia terminu zapłaty lub rozłożenia na raty zapłaty administracyjnej kary pieniężnej została doręczona stronie:
+
+- 1) przed upływem dwóch miesięcy od dnia wniesienia wniosku o jej odroczenie lub rozłożenie na raty, odsetki za zwłokę są naliczane, począwszy od dnia następującego po dniu upływu terminu zapłaty administracyjnej kary pieniężnej;
+
+- 2) po upływie dwóch miesięcy od dnia wniesienia wniosku o jej odroczenie lub rozłożenie na raty, dalsze odsetki za zwłokę są naliczane z wyłączeniem okresu od dnia następującego po dniu wniesienia wniosku do dnia doręczenia tej decyzji, włącznie z tym dniem.
+
+§ 2c. W razie niedotrzymania terminu zapłaty odroczonej administracyjnej kary pieniężnej lub terminu zapłaty którejkolwiek z rat, na jakie została rozłożona administracyjna kara pieniężna, z mocy prawa następuje wygaśnięcie decyzji o:
+
+- 1) odroczeniu terminu zapłaty administracyjnej kary pieniężnej - w całości;
+
+- 2) rozłożeniu na raty zapłaty administracyjnej kary pieniężnej - w części dotyczącej raty niezapłaconej w terminie zapłaty.
+
+§ 2d. W razie niedotrzymania terminu zapłaty trzech z rat, na jakie została rozłożona administracyjna kara pieniężna, z mocy prawa następuje wygaśnięcie decyzji o rozłożeniu na raty zapłaty administracyjnej kary pieniężnej w zakresie wszystkich niezapłaconych rat.
+
+§ 2e. W przypadkach, o których mowa w § 2c i 2d, odsetki za zwłokę są naliczane od dnia wniesienia wniosku strony o odroczenie lub rozłożenie na raty zapłaty administracyjnej kary pieniężnej, włącznie z tym dniem.
+
+§ 2f. Przepisy § 2b-2e stosuje się odpowiednio do odroczonej lub rozłożonej na raty zapłaty zaległej administracyjnej kary pieniężnej.
 
 § 3. Właściwy organ, na wniosek strony prowadzącej działalność gospodarczą, może udzielać określonych w § 1 ulg w wykonaniu administracyjnej kary pieniężnej, które:
 
@@ -32,9 +52,9 @@
 
 - 1) w zakresie warunków udzielania tej pomocy:
 
-  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309 oraz z 2023 r. poz. 1723 i 1860),
+  - a) w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172),
 
-  - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298);
+  - b) w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298 oraz z 2025 r. poz. 769);
 
 - 2) w zakresie trybu udzielania tej pomocy - przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców.
 

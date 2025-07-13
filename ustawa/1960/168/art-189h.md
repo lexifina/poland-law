@@ -12,7 +12,9 @@
 
 - 2) wniesienia żądania ustalenia przez sąd powszechny istnienia lub nieistnienia stosunku prawnego lub prawa;
 
-- 3) doręczenia zarządzenia zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji, jeżeli przepisy odrębne przewidują możliwość zarządzenia zabezpieczenia.
+- 3) doręczenia zarządzenia zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji, jeżeli przepisy odrębne przewidują możliwość zarządzenia zabezpieczenia;
+
+- 4) wydania postanowienia o zawieszeniu postępowania na podstawie art. 97 § 1 pkt 2-4.
 
 § 5. Termin przedawnienia nałożenia administracyjnej kary pieniężnej rozpoczyna się, a po zawieszeniu biegnie dalej, od dnia następującego po dniu:
 
@@ -20,4 +22,6 @@
 
 - 2) uprawomocnienia się orzeczenia lub ogłoszenia prawomocnego orzeczenia sądu powszechnego w sprawie ustalenia istnienia lub nieistnienia stosunku prawnego lub prawa;
 
-- 3) zakończenia postępowania zabezpieczającego w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+- 3) zakończenia postępowania zabezpieczającego w trybie przepisów o postępowaniu egzekucyjnym w administracji;
+
+- 4) podjęcia postępowania w przypadku, o którym mowa w art. 97 § 2.
