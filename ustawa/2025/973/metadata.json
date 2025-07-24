@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/973",
+ "source_sha256": "828854e1cf23901241891c63e7c9525933215e537e36f066a7e656cb371a5052",
+ "in_force": "2025-07-24",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/973",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/973/text/O/D20250973.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/973/text/I/D20250973.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/973/text/T/D20250973L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/973",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 973,
+  "address": "WDU20250000973",
+  "displayAddress": "Dz.U. 2025 poz. 973",
+  "title": "Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-09",
+  "promulgation": "2025-07-23",
+  "entryIntoForce": "2025-07-24",
+  "changeDate": "2025-07-28T09:11:39",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "przedsiębiorstwa",
+   "kontrola",
+   "inwestycje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1383",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1383",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1383",
+    "number": "1383",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2020/1086",
+     "date": "2025-07-24"
+    },
+    {
+     "id": "DU/2015/1272",
+     "date": "2025-07-24"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250973.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250973.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250973L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
