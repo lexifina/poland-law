@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/923",
+ "source_sha256": "38e52ed821ee8e2275ed1f92438fde9d3aaa0b6fe28480a6c1a7a4b17ada57f6",
+ "in_force": "2025-07-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/923",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/923/text/O/D20250923.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/923/text/I/D20250923.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/923/text/T/D20250923L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/923",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 923,
+  "address": "WDU20250000923",
+  "displayAddress": "Dz.U. 2025 poz. 923",
+  "title": "Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o obrocie instrumentami finansowymi",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-24",
+  "promulgation": "2025-07-10",
+  "entryIntoForce": "2025-07-25",
+  "changeDate": "2025-07-18T12:58:25",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instrumenty finansowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1269",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1269",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1269",
+    "number": "1269",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1538",
+     "date": "2025-07-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250923.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250923.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250923L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
