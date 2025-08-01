@@ -1,0 +1,99 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/921",
+ "source_sha256": "8143c87e8861c8f7a7e478e1a85c892bd61df7caf14601c54e293c301f711dd5",
+ "in_force": "2025-08-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/921",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/921/text/O/D20250921.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/921/text/I/D20250921.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/921/text/T/D20250921L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/921",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 921,
+  "address": "WDU20250000921",
+  "displayAddress": "Dz.U. 2025 poz. 921",
+  "title": "Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-25",
+  "promulgation": "2025-07-10",
+  "entryIntoForce": "2025-08-01",
+  "changeDate": "2025-07-18T12:56:33",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS WEWNĘTRZNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "obywatelstwo",
+   "opłata skarbowa",
+   "repatrianci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1201",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1201",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1201",
+    "number": "1201",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 13 lit. a i b, pkt 15 i 19 wchodzi w życie z dniem 1 stycznia 2026 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2018/1352",
+     "date": "2026-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/858",
+     "date": "2025-08-01"
+    },
+    {
+     "id": "DU/2012/161",
+     "date": "2025-08-01"
+    },
+    {
+     "id": "DU/2006/1635",
+     "date": "2025-08-01"
+    },
+    {
+     "id": "DU/2000/1118",
+     "date": "2025-08-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250921.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250921.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250921L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
