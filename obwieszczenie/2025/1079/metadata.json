@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1079",
+ "source_sha256": "32e4a58b9f90fcdb27853aaa5b2ebc741a96dce90ed58f7d9d5b88a64663d04d",
+ "in_force": "2025-08-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1079",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1079/text/O/D20251079.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1079/text/I/D20251079.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1079/text/T/D20251079L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/1079/text/U/D20251079Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1079",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1079,
+  "address": "WDU20250001079",
+  "displayAddress": "Dz.U. 2025 poz. 1079",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o cudzoziemcach",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-07",
+  "changeDate": "2026-04-07T10:43:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cudzoziemcy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/203",
+     "date": "2026-01-23"
+    },
+    {
+     "id": "DU/2025/1794",
+     "date": "2025-11-21"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2013/1650"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251079.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251079.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251079L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20251079Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
