@@ -1,0 +1,94 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1014",
+ "source_sha256": "cd4c196b02ac050d11980f82455883a2f50e162a89c5558338faaffcfc0b3621",
+ "in_force": "2025-08-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1014",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1014/text/O/D20251014.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1014/text/I/D20251014.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1014/text/T/D20251014L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1014",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1014,
+  "address": "WDU20250001014",
+  "displayAddress": "Dz.U. 2025 poz. 1014",
+  "title": "Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy o obronie Ojczyzny oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-25",
+  "promulgation": "2025-07-28",
+  "entryIntoForce": "2025-08-12",
+  "changeDate": "2025-07-30T12:05:48",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. OBRONY NARODOWEJ"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "obrona narodowa",
+   "instrumenty finansowe",
+   "autostrady"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1270",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1270",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1270",
+    "number": "1270",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2025/432",
+     "date": "2025-08-12"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2022/655",
+     "date": "2025-08-12"
+    },
+    {
+     "id": "DU/2005/1538",
+     "date": "2025-08-12"
+    },
+    {
+     "id": "DU/1994/627",
+     "date": "2025-08-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251014.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251014.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251014L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
