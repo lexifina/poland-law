@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1020",
+ "source_sha256": "dc0fe5a76a3fae662ae1757cc0fb4b34ac538266f78e6f1730c756e18ced835d",
+ "in_force": "2025-08-12",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1020",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1020/text/O/D20251020.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1020/text/I/D20251020.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1020/text/T/D20251020L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1020",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1020,
+  "address": "WDU20250001020",
+  "displayAddress": "Dz.U. 2025 poz. 1020",
+  "title": "Ustawa z dnia 9 lipca 2025 r. zmieniająca ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-09",
+  "promulgation": "2025-07-28",
+  "entryIntoForce": "2025-08-12",
+  "changeDate": "2025-07-30T12:04:03",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rachunkowość"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32025L0794",
+    "date": "2025-04-14",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2025/794 z dnia 14 kwietnia 2025 r. w sprawie zmiany dyrektywy (UE) 2022/2464 i (UE) 2024/1760 w odniesieniu do dat, od których państwa członkowskie mają stosować niektóre wymogi dotyczące sprawozdawczości przedsiębiorstw w zakresie zrównoważonego rozwoju i niektóre wymogi w zakresie należytej staranności przedsiębiorstw w zakresie zrównoważonego rozwoju (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1375",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1375",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1375",
+    "number": "1375",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2024/1863",
+     "date": "2025-08-12"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251020.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251020.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251020L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
