@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1064",
+ "source_sha256": "366c98a467867f9e2c28ed4b2d2d159dc8687d7539118fcd0c5ce6f393aa024a",
+ "in_force": "2025-08-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1064",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1064/text/O/D20251064.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1064/text/I/D20251064.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1064/text/T/D20251064L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1064",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1064,
+  "address": "WDU20250001064",
+  "displayAddress": "Dz.U. 2025 poz. 1064",
+  "title": "Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o podatku od spadków i darowizn",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-05",
+  "entryIntoForce": "2025-08-20",
+  "changeDate": "2026-04-08T09:34:22",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od spadków i darowizn"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1282",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1282",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1282",
+    "number": "1282",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1983/207",
+     "date": "2025-08-20"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251064.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251064.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251064L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
