@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2025/1088",
- "source_sha256": "e4095c017f97a6be9203d1011fa6fa5c905cbc5124562d47f4c933d822cf802a",
+ "source_sha256": "dad0fa123bf2f91ef9c68e74cf9ba2da7c4d30e6ae39bce50ecb69eb328f2709",
  "in_force": "2025-08-23",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
  "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
@@ -10,7 +10,8 @@
   "metadata": "https://eli.gov.pl/api/acts/DU/2025/1088",
   "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1088/text/O/D20251088.pdf",
   "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1088/text/I/D20251088.pdf",
-  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1088/text/T/D20251088L.pdf"
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1088/text/T/D20251088L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/1088/text/U/D20251088Lj.pdf"
  },
  "metadata": {
   "ELI": "DU/2025/1088",
@@ -27,7 +28,7 @@
   "announcementDate": "2025-07-25",
   "promulgation": "2025-08-08",
   "entryIntoForce": "2025-08-23",
-  "changeDate": "2026-11-19T00:00:00",
+  "changeDate": "2026-11-26T15:47:43",
   "releasedBy": [
    "SEJM"
   ],
@@ -70,6 +71,10 @@
    {
     "fileName": "D20251088L.pdf",
     "type": "T"
+   },
+   {
+    "fileName": "D20251088Lj.pdf",
+    "type": "U"
    }
   ]
  }
