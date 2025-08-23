@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1088",
+ "source_sha256": "8b61e02e814f0dd25c923d535a0e4a350284793cb14dc18df585cd9e7fb1b5fe",
+ "in_force": "2025-08-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1088",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1088/text/O/D20251088.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1088/text/I/D20251088.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1088/text/T/D20251088L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1088",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1088,
+  "address": "WDU20250001088",
+  "displayAddress": "Dz.U. 2025 poz. 1088",
+  "title": "Ustawa z dnia 25 lipca 2025 r. o Instytucie imienia Wincentego Witosa",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-08",
+  "entryIntoForce": "2025-08-23",
+  "changeDate": "2025-08-18T09:49:38",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=829",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/829",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/829",
+    "number": "829",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251088.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251088.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251088L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
