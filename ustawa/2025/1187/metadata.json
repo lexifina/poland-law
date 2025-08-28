@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1187",
+ "source_sha256": "1932a6bc5de7e807f8c63c13b28975dd50305705eede2178eac0192f92b3f16b",
+ "in_force": "2025-08-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1187",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1187/text/O/D20251187.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1187/text/I/D20251187.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1187/text/T/D20251187L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1187",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1187,
+  "address": "WDU20250001187",
+  "displayAddress": "Dz.U. 2025 poz. 1187",
+  "title": "Ustawa z dnia 25 lipca 2025 r. o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-27",
+  "entryIntoForce": "2025-08-28",
+  "changeDate": "2025-09-03T10:06:35",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nawozy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1433",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1433",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1433",
+    "number": "1433",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251187.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251187.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251187L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
