@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1188",
+ "source_sha256": "cce7e64c78d4c14296bf0896a12195166903821b6fc0f35695196885701ec06f",
+ "in_force": "2025-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1188",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1188/text/O/D20251188.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1188/text/I/D20251188.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1188/text/T/D20251188L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1188",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1188,
+  "address": "WDU20250001188",
+  "displayAddress": "Dz.U. 2025 poz. 1188",
+  "title": "Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Karta Nauczyciela",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-28",
+  "entryIntoForce": "2025-09-01",
+  "changeDate": "2026-04-15T09:24:31",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele"
+  ],
+  "keywordsNames": [
+   "Karta Nauczyciela"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1481",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1481",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1481",
+    "number": "1481",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1982/19",
+     "date": "2025-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251188.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251188.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251188L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
