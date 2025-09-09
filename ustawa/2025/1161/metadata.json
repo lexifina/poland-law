@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1161",
+ "source_sha256": "e0f13b16316de8398c13e11806469f99349d6e3ac7be888d481b693659f6dd10",
+ "in_force": "2025-09-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1161",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1161/text/O/D20251161.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1161/text/I/D20251161.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1161/text/T/D20251161L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1161",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1161,
+  "address": "WDU20250001161",
+  "displayAddress": "Dz.U. 2025 poz. 1161",
+  "title": "Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-09",
+  "promulgation": "2025-08-25",
+  "entryIntoForce": "2025-09-09",
+  "changeDate": "2026-01-21T09:30:25",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1305",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1305",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1305",
+    "number": "1305",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/1546",
+     "date": "2025-09-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251161.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251161.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251161L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
