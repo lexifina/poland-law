@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1165",
+ "source_sha256": "412241bd48d37da237a6f9897b11e7bd64684d0cbc4320d57a1a2e27bd016fb5",
+ "in_force": "2025-09-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1165",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1165/text/O/D20251165.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1165/text/I/D20251165.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1165/text/T/D20251165L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1165",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1165,
+  "address": "WDU20250001165",
+  "displayAddress": "Dz.U. 2025 poz. 1165",
+  "title": "Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o umowie koncesji na roboty budowlane lub usługi",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-09",
+  "promulgation": "2025-08-25",
+  "entryIntoForce": "2025-09-09",
+  "changeDate": "2025-08-26T15:09:23",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budownictwo",
+   "budowlane prawo",
+   "koncesje",
+   "zamówienia publiczne",
+   "roboty budowlane"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1302",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1302",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1302",
+    "number": "1302",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/2019",
+     "date": "2025-09-09"
+    },
+    {
+     "id": "DU/2016/1920",
+     "date": "2025-09-09"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251165.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251165.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251165L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
