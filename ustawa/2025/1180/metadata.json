@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1180",
+ "source_sha256": "d6ef05db998a777f122a32898f457501d178fb6d84d033e4dc22e10b46d6bd54",
+ "in_force": "2025-09-10",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1180",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1180/text/O/D20251180.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1180/text/I/D20251180.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1180/text/T/D20251180L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1180",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1180,
+  "address": "WDU20250001180",
+  "displayAddress": "Dz.U. 2025 poz. 1180",
+  "title": "Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-08-05",
+  "promulgation": "2025-08-26",
+  "entryIntoForce": "2025-09-10",
+  "changeDate": "2025-09-03T09:58:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "finanse publiczne",
+   "weterani",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1280",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1280",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1280",
+    "number": "1280",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/1203",
+     "date": "2025-09-10"
+    },
+    {
+     "id": "DU/2009/1240",
+     "date": "2025-09-10"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2025-09-10"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251180.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251180.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251180L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
