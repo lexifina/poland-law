@@ -4,7 +4,9 @@
 
 # Art. 211a.
 
-1. Po ustaleniu dnia układowego nadzorca układu zakłada i prowadzi akta w systemie teleinformatycznym obsługującym postępowanie sądowe.
+1. W dniu ustalenia dnia układowego nadzorca układu zakłada akta w systemie teleinformatycznym obsługującym postępowanie sądowe.
+
+1a. Akta założone w systemie teleinformatycznym obsługującym postępowanie sądowe nadzorca układu prowadzi w tym systemie.
 
 2. Treść pism procesowych oraz dokumentów, o których mowa w art. 196b ust. 1, wniesionych z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe, nadzorca układu wprowadza do akt. Pisma procesowe oraz dokumenty składa się do zbioru dokumentów. Przepisy art. 196b ust. 2 i 3 stosuje się odpowiednio.
 

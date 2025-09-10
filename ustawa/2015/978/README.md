@@ -2,5 +2,5 @@
 
 Dz.U. 2015 poz. 978 · <https://eli.gov.pl/api/acts/DU/2015/978>
 
-Tekst jednolity: Dz.U. 2024 poz. 1428 (2024-09-27), stan na 2023-09-29.
+Tekst jednolity: Dz.U. 2026 poz. 533 (2026-04-17), stan na 2025-09-10.
 
