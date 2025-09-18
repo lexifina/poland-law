@@ -1,0 +1,133 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1216",
+ "source_sha256": "350288c3987968c523bce2cee5f4bda423490aff03f3eaeabc9090e40062486d",
+ "in_force": "2025-09-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1216",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1216/text/O/D20251216.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1216/text/I/D20251216.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1216/text/T/D20251216L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1216",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1216,
+  "address": "WDU20250001216",
+  "displayAddress": "Dz.U. 2025 poz. 1216",
+  "title": "Ustawa z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-08-05",
+  "promulgation": "2025-09-03",
+  "entryIntoForce": "2025-09-18",
+  "changeDate": "2025-09-15T10:02:30",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "emerytury i renty",
+   "systemy teleinformatyczne",
+   "emerytalne programy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1307",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1307",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1307",
+    "number": "1307",
+    "term": 10
+   }
+  ],
+  "comments": "art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b wchodzą w życie z dniem 1 stycznia 2026 r.",
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2023/1941",
+     "date": "2025-09-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2022/350",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2019/1572",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2018/2215",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2015/1844",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2010/1427",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2005/1538",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2004/1546",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2004/1207",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2004/1205",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/2003/1153",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/1998/887",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/1997/939",
+     "date": "2025-09-18"
+    },
+    {
+     "id": "DU/1997/934",
+     "date": "2025-09-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251216.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251216.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251216L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
