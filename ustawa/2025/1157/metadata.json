@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1157",
+ "source_sha256": "c56ca6f1d7dcbab7c757f920beeb77a5b4f1b1d5b38147343e7b4409b1dbb0dd",
+ "in_force": "2025-09-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1157",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1157/text/O/D20251157.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1157/text/I/D20251157.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1157/text/T/D20251157L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1157",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1157,
+  "address": "WDU20250001157",
+  "displayAddress": "Dz.U. 2025 poz. 1157",
+  "title": "Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-22",
+  "entryIntoForce": "2025-09-23",
+  "changeDate": "2025-09-09T09:31:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "koszty i opłaty sądowe",
+   "cywilne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1242",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1242",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1242",
+    "number": "1242",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1398",
+     "date": "2025-09-23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251157.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251157.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251157L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
