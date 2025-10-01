@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1332",
+ "source_sha256": "bc26744acb2117ad21396709e17bdbb269191c678871248fa0e9f29c30f3df86",
+ "in_force": "2025-10-01",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1332",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1332/text/O/D20251332.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1332/text/I/D20251332.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1332/text/T/D20251332L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1332",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1332,
+  "address": "WDU20250001332",
+  "displayAddress": "Dz.U. 2025 poz. 1332",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokuratury",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-10-01",
+  "changeDate": "2025-10-02T11:27:04",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "sądy powszechne",
+   "pracownicy",
+   "prokuratura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1998/1125"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251332.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251332.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251332L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
