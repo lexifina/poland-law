@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/894",
+ "source_sha256": "5951e7e00ca83c45c0b5148813dbd3f3adbc5febf3ea760b9aa77221d913eed8",
+ "in_force": "2025-10-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/894",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/894/text/O/D20250894.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/894/text/I/D20250894.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/894/text/T/D20250894L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/894",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 894,
+  "address": "WDU20250000894",
+  "displayAddress": "Dz.U. 2025 poz. 894",
+  "title": "Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy o podatku od towarów i usług",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-24",
+  "promulgation": "2025-07-07",
+  "entryIntoForce": "2025-10-01",
+  "changeDate": "2025-07-18T12:54:10",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [
+   "Krajowa Administracja Skarbowa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1231",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1231",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1231",
+    "number": "1231",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/1947",
+     "date": "2025-10-01"
+    },
+    {
+     "id": "DU/2004/535",
+     "date": "2025-10-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250894.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250894.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250894L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
