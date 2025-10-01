@@ -2,10 +2,10 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2025/1305",
- "source_sha256": "9f5c2c33e1875af860886f079e060868c68fc0439212c27a82b92468a7724994",
+ "source_sha256": "424f03127dc96467bc0dffab377aa42df162272724addeef79b9d7bfd7a8617c",
  "in_force": "2025-10-01",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
- "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "text_status": "metadata only: amended, no unified text; the official text is linked (links), not transcribed here yet",
  "links": {
   "metadata": "https://eli.gov.pl/api/acts/DU/2025/1305",
   "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1305/text/O/D20251305.pdf",
@@ -26,7 +26,8 @@
   "announcementDate": "2025-09-25",
   "promulgation": "2025-09-29",
   "entryIntoForce": "2025-10-01",
-  "changeDate": "2026-10-19T00:00:00",
+  "repealDate": "2027-01-01",
+  "changeDate": "2026-11-18T10:09:39",
   "releasedBy": [
    "MIN. FINANSÓW I GOSPODARKI"
   ],
@@ -43,6 +44,12 @@
   "directives": [],
   "prints": [],
   "references": {
+   "Akty uchylające": [
+    {
+     "id": "DU/2026/1510",
+     "date": "2027-01-01"
+    }
+   ],
    "Akty uchylone": [
     {
      "id": "DU/2023/2802",
