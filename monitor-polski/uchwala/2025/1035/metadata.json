@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2025/1035",
+ "source_sha256": "a8a9c939cd0704f99633d2dfc0c3813999d9fa37a13205094ad43ba30c875cde",
+ "in_force": "2025-10-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2025/1035",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2025/1035/text/O/M20251035.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2025/1035/text/I/M20251035.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2025/1035",
+  "publisher": "MP",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1035,
+  "address": "WMP20250001035",
+  "displayAddress": "M.P. 2025 poz. 1035",
+  "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie powołania Prezesa Urzędu Komunikacji Elektronicznej",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-10-02",
+  "changeDate": "2025-10-03T10:42:51",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "telekomunikacja"
+  ],
+  "keywordsNames": [
+   "Prezes Urzędu Komunikacji Elektronicznej"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "MP/1992/185"
+    },
+    {
+     "id": "DU/2024/1221"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "MP/1992/185",
+     "art": "art. 31 ust. 1"
+    },
+    {
+     "id": "DU/2024/1221",
+     "art": "art. 415 ust. 1"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20251035.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20251035.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
