@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1338",
+ "source_sha256": "a1b4a6c67f4b09613b7bbb3af0275b5c86c67a8cba1eba5a16f0f1eca89673f1",
+ "in_force": "2025-10-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1338",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1338/text/O/D20251338.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1338/text/I/D20251338.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1338/text/T/D20251338L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/1338/text/U/D20251338Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1338",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1338,
+  "address": "WDU20250001338",
+  "displayAddress": "Dz.U. 2025 poz. 1338",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działalności pożytku publicznego i o wolontariacie",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-10-03",
+  "changeDate": "2026-08-18T14:38:53",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "działalność pożytku publicznego",
+   "wolontariat"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/1040",
+     "date": "2026-06-19"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/873"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251338.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251338.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251338L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20251338Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
