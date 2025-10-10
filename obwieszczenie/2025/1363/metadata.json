@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1363",
+ "source_sha256": "0e6b524230c1cbf87676009a0a0a759e0ae25d5e9f090fe3eee0173c1628726c",
+ "in_force": "2025-10-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1363",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1363/text/O/D20251363.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1363/text/I/D20251363.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1363/text/T/D20251363L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/1363/text/U/D20251363Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1363",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1363,
+  "address": "WDU20250001363",
+  "displayAddress": "Dz.U. 2025 poz. 1363",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa",
+  "type": "Obwieszczenie",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-10-10",
+  "expirationDate": "2026-07-14",
+  "changeDate": "2026-07-15T09:13:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolne prawo",
+   "rolnicy",
+   "rolnictwo"
+  ],
+  "keywordsNames": [
+   "Agencja Restrukturyzacji i Modernizacji Rolnictwa"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2008/634"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251363.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251363.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251363L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20251363Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
