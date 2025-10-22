@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1446",
+ "source_sha256": "92b20e5a5e8a8ac6fd2eefba238e20deb17074cb50597e486c3274c65e4e49ec",
+ "in_force": "2025-10-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1446",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1446/text/O/D20251446.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1446/text/I/D20251446.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1446/text/T/D20251446L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1446",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1446,
+  "address": "WDU20250001446",
+  "displayAddress": "Dz.U. 2025 poz. 1446",
+  "title": "Ustawa z dnia 12 września 2025 r. o ratyfikacji Umowy o Międzynarodowym Stowarzyszeniu Rozwoju, sporządzonej w Waszyngtonie dnia 26 stycznia 1960 r.",
+  "type": "Ustawa",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-22",
+  "changeDate": "2026-07-29T00:00:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "ratyfikacja",
+   "stowarzyszenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1487",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1487",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1487",
+    "number": "1487",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/1016"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251446.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251446.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251446L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
