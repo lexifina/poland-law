@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1463",
+ "source_sha256": "a6d5b6dbed04cfbf82aafb3b9e74bbfd661176a8a8d597fe6b3f4b493170fb98",
+ "in_force": "2025-10-24",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1463",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1463/text/O/D20251463.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1463/text/I/D20251463.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1463/text/T/D20251463L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1463",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1463,
+  "address": "WDU20250001463",
+  "displayAddress": "Dz.U. 2025 poz. 1463",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracy na statkach rybackich",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-20",
+  "promulgation": "2025-10-24",
+  "changeDate": "2025-10-27T13:13:19",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statki rybackie",
+   "ryby",
+   "rybołówstwo morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/2197"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251463.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251463.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251463L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
