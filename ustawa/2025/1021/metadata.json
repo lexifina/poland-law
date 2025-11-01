@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1021",
+ "source_sha256": "4a555ed26a28a99d094715658cfe30594fd84e24346c09b5d63a46cbebfe79bf",
+ "in_force": "2025-11-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1021",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1021/text/O/D20251021.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1021/text/I/D20251021.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1021/text/T/D20251021L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1021",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1021,
+  "address": "WDU20250001021",
+  "displayAddress": "Dz.U. 2025 poz. 1021",
+  "title": "Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-09",
+  "promulgation": "2025-07-28",
+  "entryIntoForce": "2025-11-01",
+  "changeDate": "2026-01-26T10:39:17",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "regiony",
+   "mniejszości narodowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1076",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1076",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1076",
+    "number": "1076",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/141",
+     "date": "2025-11-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251021.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251021.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251021L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
