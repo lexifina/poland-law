@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1415",
+ "source_sha256": "acbd565935399218ccaa01e35796e1e710f05a01ca1135e9f7375dbbf0efefe6",
+ "in_force": "2025-11-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1415",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1415/text/O/D20251415.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1415/text/I/D20251415.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1415/text/T/D20251415L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1415",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1415,
+  "address": "WDU20250001415",
+  "displayAddress": "Dz.U. 2025 poz. 1415",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-20",
+  "entryIntoForce": "2025-11-04",
+  "changeDate": "2026-04-23T09:24:12",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa",
+   "rolnictwo",
+   "produkcja",
+   "podatek akcyzowy",
+   "oleje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1428",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1428",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1428",
+    "number": "1428",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/379",
+     "date": "2025-11-04"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251415.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251415.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251415L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
