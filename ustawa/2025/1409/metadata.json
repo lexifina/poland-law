@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1409",
+ "source_sha256": "ff53a7c4568414e470fd6c282f163fe94df9d9f80076af4cea2b4ee20807cf4b",
+ "in_force": "2025-11-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1409",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1409/text/O/D20251409.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1409/text/I/D20251409.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1409/text/T/D20251409L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1409",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1409,
+  "address": "WDU20250001409",
+  "displayAddress": "Dz.U. 2025 poz. 1409",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-20",
+  "entryIntoForce": "2025-11-04",
+  "changeDate": "2026-02-24T09:11:08",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia społeczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1522",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1522",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1522",
+    "number": "1522",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/887",
+     "date": "2025-11-04"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251409.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251409.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251409L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
