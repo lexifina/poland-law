@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1417",
+ "source_sha256": "6b49e21b1f02b45d2053ad721047f78558c16f8af89d9abf911f91e23c2c15c1",
+ "in_force": "2025-11-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1417",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1417/text/O/D20251417.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1417/text/I/D20251417.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1417/text/T/D20251417L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1417",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1417,
+  "address": "WDU20250001417",
+  "displayAddress": "Dz.U. 2025 poz. 1417",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Ordynacja podatkowa",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-20",
+  "entryIntoForce": "2025-11-04",
+  "changeDate": "2026-05-12T09:29:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ordynacja podatkowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1265",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1265",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1265",
+    "number": "1265",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/926",
+     "date": "2025-11-04"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251417.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251417.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251417L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
