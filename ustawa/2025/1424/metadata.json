@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1424",
+ "source_sha256": "6ba4120e370532675dc61897919a53c5a996c47be55758d5dffa0b6074b9f32e",
+ "in_force": "2025-11-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1424",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1424/text/O/D20251424.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1424/text/I/D20251424.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1424/text/T/D20251424L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1424",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1424,
+  "address": "WDU20250001424",
+  "displayAddress": "Dz.U. 2025 poz. 1424",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o bezpieczeństwie żywności i żywienia",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-21",
+  "entryIntoForce": "2025-11-05",
+  "changeDate": "2025-10-24T09:17:49",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "artykuły spożywcze",
+   "żywność i żywienie",
+   "bezpieczeństwo produktów"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1435",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1435",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1435",
+    "number": "1435",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/127",
+     "date": "2025-11-05"
+    },
+    {
+     "id": "DU/2006/1225",
+     "date": "2025-11-05"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251424.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251424.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251424L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
