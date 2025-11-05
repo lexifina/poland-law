@@ -5,3 +5,5 @@
 § 2. W przypadku nieuwzględnienia sprzeciwu od decyzji sąd oddala sprzeciw.
 
 § 3. Od wyroku, o którym mowa w § 1, nie przysługuje środek odwoławczy, z tym że na zawarte w wyroku postanowienie w przedmiocie grzywny przysługuje zażalenie.
+
+§ 4. Przepisy § 1-3 stosuje się odpowiednio w przypadku wniesienia sprzeciwu od postanowienia.

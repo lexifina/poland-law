@@ -1,6 +1,6 @@
 ## Rozdział 3a
 
-## Sprzeciw od decyzji
+## Sprzeciw od decyzji i postanowienia
 
 # Art. 64a.
 
