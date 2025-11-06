@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1526",
+ "source_sha256": "d35b841d0027f05be81108ec48e164af81a346df67c34c19d12d972ea8bfb593",
+ "in_force": "2025-11-06",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1526",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1526/text/O/D20251526.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1526/text/I/D20251526.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1526/text/T/D20251526L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2025/1526/text/U/D20251526Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1526",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1526,
+  "address": "WDU20250001526",
+  "displayAddress": "Dz.U. 2025 poz. 1526",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działalności ubezpieczeniowej i reasekuracyjnej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-20",
+  "promulgation": "2025-11-06",
+  "changeDate": "2026-10-08T09:30:07",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "działalność ubezpieczeniowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/846",
+     "date": "2026-05-29"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/1844"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251526.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251526.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251526L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20251526Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
