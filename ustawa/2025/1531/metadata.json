@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1531",
+ "source_sha256": "8f938003ba2538d0f3428e492df6816c1bfb72e05854ba3f19fbf0c2a33430b7",
+ "in_force": "2025-11-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1531",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1531/text/O/D20251531.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1531/text/I/D20251531.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1531/text/T/D20251531L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1531",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1531,
+  "address": "WDU20250001531",
+  "displayAddress": "Dz.U. 2025 poz. 1531",
+  "title": "Ustawa z dnia 24 września 2025 r. o zmianie ustawy o Centralnym Porcie Komunikacyjnym",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-24",
+  "promulgation": "2025-11-07",
+  "entryIntoForce": "2025-11-08",
+  "changeDate": "2026-11-02T09:02:07",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "odszkodowania",
+   "nieruchomości"
+  ],
+  "keywordsNames": [
+   "Centralny Port Komunikacyjny"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1637",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1637",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1637",
+    "number": "1637",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2018/1089",
+     "date": "2025-11-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251531.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251531.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251531L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
