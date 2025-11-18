@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1507",
+ "source_sha256": "8d5f21afbc534fc2d4084cccb90640388b2b1d2889f5ecccac91bffad406f07c",
+ "in_force": "2025-11-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1507",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1507/text/O/D20251507.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1507/text/I/D20251507.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1507/text/T/D20251507L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1507",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1507,
+  "address": "WDU20250001507",
+  "displayAddress": "Dz.U. 2025 poz. 1507",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy o sporcie",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-11-03",
+  "entryIntoForce": "2025-11-18",
+  "changeDate": "2026-01-29T10:30:01",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kultura fizyczna",
+   "sport"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1482",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1482",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1482",
+    "number": "1482",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2010/857",
+     "date": "2025-11-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251507.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251507.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251507L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
