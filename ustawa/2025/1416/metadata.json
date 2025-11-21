@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1416",
+ "source_sha256": "3a455586161697da80cd5e8884624fe933cd62642f9dee3727f40e303c28fd65",
+ "in_force": "2025-11-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1416",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1416/text/O/D20251416.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1416/text/I/D20251416.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1416/text/T/D20251416L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1416",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1416,
+  "address": "WDU20250001416",
+  "displayAddress": "Dz.U. 2025 poz. 1416",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Prawo farmaceutyczne",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-20",
+  "entryIntoForce": "2025-11-21",
+  "changeDate": "2026-05-08T08:15:58",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS ZDROWIA"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1378",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1378",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1378",
+    "number": "1378",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1381",
+     "date": "2025-11-21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251416.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251416.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251416L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
