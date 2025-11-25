@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1610",
+ "source_sha256": "ba40c77cfa9361f439bd924ab9ee83537bcad5e18e46b02ac1094f46744ef141",
+ "in_force": "2025-11-25",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1610",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1610/text/O/D20251610.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1610/text/I/D20251610.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1610/text/T/D20251610L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1610",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1610,
+  "address": "WDU20250001610",
+  "displayAddress": "Dz.U. 2025 poz. 1610",
+  "title": "Ustawa z dnia 9 października 2025 r. o zmianie ustawy o zawodach pielęgniarki i położnej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-09",
+  "promulgation": "2025-11-24",
+  "entryIntoForce": "2025-11-25",
+  "changeDate": "2026-01-09T08:48:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "położne",
+   "kwalifikacje",
+   "pielęgniarstwo"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32024L0505",
+    "date": "2025-02-07",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2024/505 z dnia 7 lutego 2024 r. w sprawie zmiany dyrektywy 2005/36/WE w odniesieniu do uznawania kwalifikacji zawodowych pielęgniarek odpowiedzialnych za opiekę ogólną, które odbyły kształcenie w Rumunii"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1727",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1727",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1727",
+    "number": "1727",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/1039",
+     "date": "2025-11-25"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251610.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251610.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251610L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
