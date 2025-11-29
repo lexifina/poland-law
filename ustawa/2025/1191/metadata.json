@@ -1,0 +1,96 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1191",
+ "source_sha256": "d33ac1cdb9fd1e375d686391cd23e9cab494bb78189aa2d486d4879a1d2b5c3d",
+ "in_force": "2025-11-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1191",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1191/text/O/D20251191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1191/text/I/D20251191.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1191/text/T/D20251191L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1191",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1191,
+  "address": "WDU20250001191",
+  "displayAddress": "Dz.U. 2025 poz. 1191",
+  "title": "Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-25",
+  "promulgation": "2025-08-28",
+  "entryIntoForce": "2025-11-29",
+  "changeDate": "2025-09-03T10:07:50",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "spółdzielcze kasy oszczędnościowo-kredytowe",
+   "ewidencja ludności",
+   "bankowe prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1377",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1377",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1377",
+    "number": "1377",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2022/1493",
+     "date": "2025-11-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2012/855",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/2010/1427",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/2000/1252",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/1997/939",
+     "date": "2025-11-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251191.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251191L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
