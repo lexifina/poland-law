@@ -1,0 +1,123 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1556",
+ "source_sha256": "89859e9d6e7a2fa69751234218eea06fa359cd90238de1dde25e4f8f03fad325",
+ "in_force": "2025-11-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1556",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1556/text/O/D20251556.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1556/text/I/D20251556.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1556/text/T/D20251556L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1556",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1556,
+  "address": "WDU20250001556",
+  "displayAddress": "Dz.U. 2025 poz. 1556",
+  "title": "Ustawa z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-11-14",
+  "entryIntoForce": "2025-11-29",
+  "changeDate": "2025-11-18T14:02:56",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Krajowy Rejestr Sądowy"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1311",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1311",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1311",
+    "number": "1311",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 3 i 7 oraz art. 10 pkt 2 wchodzą w życie z dniem 1 kwietnia 2027 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2024/65",
+     "date": "2027-04-01"
+    },
+    {
+     "id": "DU/2022/1122",
+     "date": "2027-04-01"
+    },
+    {
+     "id": "DU/2021/1173",
+     "date": "2027-04-01"
+    },
+    {
+     "id": "DU/2000/1248",
+     "date": "2025-11-29"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2006/651",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/2006/1077",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/2005/551",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/2005/1538",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/2000/959",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/1997/769",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/1996/42",
+     "date": "2025-11-29"
+    },
+    {
+     "id": "DU/1982/210",
+     "date": "2025-11-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251556.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251556.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251556L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
