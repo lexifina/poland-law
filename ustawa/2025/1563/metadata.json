@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1563",
+ "source_sha256": "0f3ad6a04a013603cbfb353b0eed9b00c16fbb3067063081d2b76a766a26894f",
+ "in_force": "2025-12-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1563",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1563/text/O/D20251563.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1563/text/I/D20251563.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1563/text/T/D20251563L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1563",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1563,
+  "address": "WDU20250001563",
+  "displayAddress": "Dz.U. 2025 poz. 1563",
+  "title": "Ustawa z dnia 26 września 2025 r. o ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi",
+  "type": "Ustawa",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-11-17",
+  "entryIntoForce": "2025-12-02",
+  "changeDate": "2026-10-16T00:00:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "współpraca zagraniczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1524",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1524",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1524",
+    "number": "1524",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/1345"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251563.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251563.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251563L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
