@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1682",
+ "source_sha256": "94c27a32d2250ed0361259a36a98007f289711f52cbe316f3c15ce1d1685bcab",
+ "in_force": "2025-12-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1682",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1682/text/O/D20251682.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1682/text/I/D20251682.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1682/text/T/D20251682L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1682",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1682,
+  "address": "WDU20250001682",
+  "displayAddress": "Dz.U. 2025 poz. 1682",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-20",
+  "promulgation": "2025-12-02",
+  "changeDate": "2025-12-04T09:47:30",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "prawo pracy",
+   "usługi",
+   "pracownicy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/868"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251682.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251682.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251682L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
