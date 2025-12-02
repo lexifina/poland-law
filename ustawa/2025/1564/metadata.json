@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1564",
+ "source_sha256": "b1e1a6a73b3eab8d570a44354daafade99bff4dc7c90d10ec879a01fc88acd37",
+ "in_force": "2025-12-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1564",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1564/text/O/D20251564.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1564/text/I/D20251564.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1564/text/T/D20251564L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1564",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1564,
+  "address": "WDU20250001564",
+  "displayAddress": "Dz.U. 2025 poz. 1564",
+  "title": "Ustawa z dnia 26 września 2025 r. o zmianie ustawy o języku polskim",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-11-17",
+  "entryIntoForce": "2025-12-02",
+  "changeDate": "2026-01-27T11:08:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "język polski"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1611",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1611",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1611",
+    "number": "1611",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/999",
+     "date": "2025-12-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251564.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251564.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251564L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
