@@ -1,0 +1,73 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1612",
+ "source_sha256": "e097d58698e4b79604a2350fb1dcaa10f7d03a16258cf78db44766b23b69e425",
+ "in_force": "2025-12-09",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1612",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1612/text/O/D20251612.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1612/text/I/D20251612.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1612/text/T/D20251612L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1612",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1612,
+  "address": "WDU20250001612",
+  "displayAddress": "Dz.U. 2025 poz. 1612",
+  "title": "Ustawa z dnia 9 października 2025 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Peru o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Limie dnia 28 maja 2025 r.",
+  "type": "Ustawa",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-09",
+  "promulgation": "2025-11-24",
+  "entryIntoForce": "2025-12-09",
+  "changeDate": "2026-05-26T09:06:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "ratyfikacja",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Peru"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1639",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1639",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1639",
+    "number": "1639",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251612.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251612.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251612L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
