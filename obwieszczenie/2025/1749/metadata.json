@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2025/1749",
- "source_sha256": "fc4e38cf48fae134d703155f88dfd5797f3d42ed9435dd64be761ccdafb03dfd",
+ "source_sha256": "6792601f801d7500e54db4ad5d4dc0f2ccf97c1b040552d2cb40a62951bab6c4",
  "in_force": "2025-12-10",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -22,11 +22,12 @@
   "displayAddress": "Dz.U. 2025 poz. 1749",
   "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych",
   "type": "Obwieszczenie",
-  "status": "obowiązujący",
-  "inForce": "IN_FORCE",
+  "status": "wygaśnięcie aktu",
+  "inForce": "NOT_IN_FORCE",
   "announcementDate": "2025-11-07",
   "promulgation": "2025-12-10",
-  "changeDate": "2026-10-16T12:01:57",
+  "expirationDate": "2026-11-19",
+  "changeDate": "2026-11-23T09:39:37",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -49,16 +50,6 @@
   ],
   "prints": [],
   "references": {
-   "Nowelizacje po tekście jednolitym": [
-    {
-     "id": "DU/2026/425",
-     "date": "2026-02-13"
-    },
-    {
-     "id": "DU/2026/26",
-     "date": "2025-12-18"
-    }
-   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
