@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1759",
+ "source_sha256": "25473305bff78af8ab8b3923004cf67b0d51981fce291baf54e6245f7176c9f6",
+ "in_force": "2025-12-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1759",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1759/text/O/D20251759.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1759/text/I/D20251759.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1759/text/T/D20251759L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1759",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1759,
+  "address": "WDU20250001759",
+  "displayAddress": "Dz.U. 2025 poz. 1759",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przetwarzaniu informacji kryminalnych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-05",
+  "promulgation": "2025-12-11",
+  "changeDate": "2025-12-12T10:50:00",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "karne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2001/1189"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251759.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251759.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251759L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
