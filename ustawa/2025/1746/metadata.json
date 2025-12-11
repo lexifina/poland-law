@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1746",
+ "source_sha256": "cfe7e09e8c9fb36467d1d3c82b27f577f6f179ff1bb6891b2ea42b9b29423b9c",
+ "in_force": "2025-12-11",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1746",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1746/text/O/D20251746.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1746/text/I/D20251746.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1746/text/T/D20251746L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1746",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1746,
+  "address": "WDU20250001746",
+  "displayAddress": "Dz.U. 2025 poz. 1746",
+  "title": "Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o rynku pracy i służbach zatrudnienia",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-21",
+  "promulgation": "2025-12-10",
+  "entryIntoForce": "2025-12-11",
+  "changeDate": "2025-12-15T10:53:37",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "praca",
+   "rehabilitacja zawodowa",
+   "zatrudnianie",
+   "niepełnosprawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1886",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1886",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1886",
+    "number": "1886",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2025/620",
+     "date": "2025-12-11"
+    },
+    {
+     "id": "DU/1997/776",
+     "date": "2025-12-11"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251746.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251746.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251746L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
