@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1652",
+ "source_sha256": "39f173110af5def7c5983cc09d874f1f4cdce868c8367754d25f0ee61180d19a",
+ "in_force": "2025-12-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1652",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1652/text/O/D20251652.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1652/text/I/D20251652.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1652/text/T/D20251652L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1652",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1652,
+  "address": "WDU20250001652",
+  "displayAddress": "Dz.U. 2025 poz. 1652",
+  "title": "Ustawa z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-09",
+  "promulgation": "2025-11-28",
+  "entryIntoForce": "2025-12-13",
+  "changeDate": "2026-04-13T09:15:42",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc publiczna"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32024R3118",
+    "date": "2025-12-02",
+    "title": "Rozporządzenie Komisji (UE) 2024/3118 z dnia 10 grudnia 2024 r. zmieniające rozporządzenie (UE) nr 1408/2013 w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1626",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1626",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1626",
+    "number": "1626",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2010/810",
+     "date": "2025-12-13"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/1291",
+     "date": "2025-12-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251652.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251652.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251652L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
