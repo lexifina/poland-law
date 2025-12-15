@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1739",
+ "source_sha256": "412ce1d095e8c176b878df6e1b5960548bf45b6448caee5f8a945040a4c08cb0",
+ "in_force": "2025-12-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1739",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1739/text/O/D20251739.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1739/text/I/D20251739.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1739/text/T/D20251739L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1739",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1739,
+  "address": "WDU20250001739",
+  "displayAddress": "Dz.U. 2025 poz. 1739",
+  "title": "Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o Funduszu Medycznym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-21",
+  "promulgation": "2025-12-09",
+  "entryIntoForce": "2025-12-15",
+  "changeDate": "2025-12-15T10:52:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia lecznicze",
+   "opieka zdrowotna"
+  ],
+  "keywordsNames": [
+   "Fundusz Medyczny"
+  ],
+  "directives": [
+   {
+    "address": "32011L0024",
+    "date": "2011-03-09",
+    "title": "DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 2011/24/UE z dnia 9 marca 2011 r. w sprawie stosowania praw pacjent-w w transgranicznej opiece zdrowotnej"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1995",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1995",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1995",
+    "number": "1995",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 1, 2, pkt 3 lit. a i b oraz pkt 4 i art. 2 wchodzą w zycie z dniem 1 stycznia 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2020/1875",
+     "date": "2025-12-15"
+    },
+    {
+     "id": "DU/2004/2135",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251739.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251739.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251739L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
