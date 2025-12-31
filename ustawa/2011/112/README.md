@@ -2,5 +2,5 @@
 
 Dz.U. 2011 nr 21 poz. 112 · <https://eli.gov.pl/api/acts/DU/2011/112>
 
-Tekst jednolity: Dz.U. 2025 poz. 365 (2025-03-24), stan na 2025-01-01.
+Tekst jednolity: Dz.U. 2026 poz. 1261 (2026-09-28), stan na 2025-12-31.
 

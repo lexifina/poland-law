@@ -1,6 +1,6 @@
 # Art. 25a.
 
-§ 1. W celu organizacji wyborów do organów jednostek pomocniczych i jednostek niższego rzędu, o których mowa w art. 35 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572, 1907 i 1940), przed organizacją tych wyborów z Centralnego Rejestru Wyborców mogą być przekazywane do systemu teleinformatycznego prowadzonego przez gminę:
+§ 1. W celu organizacji wyborów do organów jednostek pomocniczych i jednostek niższego rzędu, o których mowa w art. 35 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2026 r. poz. 662 i 912), przed organizacją tych wyborów z Centralnego Rejestru Wyborców mogą być przekazywane do systemu teleinformatycznego prowadzonego przez gminę:
 
 - 1) dane, o których mowa w art. 18a § 1 i 3, dotyczące osób, które wykonały obowiązek meldunkowy na terenie danej gminy lub posiadają adres stałego zamieszkania w tej gminie;
 

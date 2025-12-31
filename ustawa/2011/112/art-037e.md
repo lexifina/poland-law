@@ -1,6 +1,6 @@
 # Art. 37e.
 
-§ 1. Wyborca niepełnosprawny o znacznym lub umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165, 1494 i 1961) oraz wyborca, który najpóźniej w dniu głosowania kończy 60 lat, mają prawo do bezpłatnego transportu z:
+§ 1. Wyborca niepełnosprawny o znacznym lub umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2026 r. poz. 884 i 1102) oraz wyborca, który najpóźniej w dniu głosowania kończy 60 lat, mają prawo do bezpłatnego transportu z:
 
 - 1) miejsca zamieszkania, pod którym dany wyborca ujęty jest w spisie wyborców, albo miejsca podanego we wniosku o dopisanie do spisu wyborców w danej gminie, o którym mowa w art. 28 § 1, do lokalu wyborczego właściwego dla obwodu głosowania, w którego spisie wyborców ujęty jest ten wyborca, albo
 
@@ -10,7 +10,7 @@
 
 - 3) lokalu wyborczego, o którym mowa w pkt 1 i 2, do miejsca, w którym dany wyborca rozpoczął podróż, zwanego dalej „transportem powrotnym”.
 
-§ 2. Transport do lokalu i transport powrotny zapewnia wójt gminy, w której w dniu wyborów nie funkcjonuje gminny przewóz pasażerski, o którym mowa w art. 4 ust. 1 pkt 3 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778 oraz z 2024 r. poz. 1853), poza przewozem, o którym mowa w art. 37f § 1.
+§ 2. Transport do lokalu i transport powrotny zapewnia wójt gminy, w której w dniu wyborów nie funkcjonuje gminny przewóz pasażerski, o którym mowa w art. 4 ust. 1 pkt 3 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285, 1173 i 1843 oraz z 2026 r. poz. 475 i 912), poza przewozem, o którym mowa w art. 37f § 1.
 
 § 3. Wyborcy, o którym mowa w § 1, którego stan zdrowia nie pozwala na samodzielną podróż, może towarzyszyć opiekun.
 

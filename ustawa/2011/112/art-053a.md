@@ -8,7 +8,7 @@
 
 § 1a. Głosować korespondencyjnie może również wyborca:
 
-- 1) podlegający w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897);
+- 1) podlegający w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26 i 791);
 
 - 2) który najpóźniej w dniu głosowania kończy 60 lat.
 
