@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1881",
+ "source_sha256": "aadf9a24eb4cb019d1deecf64dd4b9fa6aec48ef332bf4050a7b81a3580c55ec",
+ "in_force": "2025-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1881",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1881/text/O/D20251881.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1881/text/I/D20251881.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1881/text/T/D20251881L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1881",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1881,
+  "address": "WDU20250001881",
+  "displayAddress": "Dz.U. 2025 poz. 1881",
+  "title": "Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o dokumentach publicznych oraz ustawy o podatku akcyzowym",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-04",
+  "promulgation": "2025-12-30",
+  "entryIntoForce": "2025-12-31",
+  "changeDate": "2026-01-02T12:46:57",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dokumenty publiczne",
+   "podatek akcyzowy",
+   "akcyza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1996",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1996",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1996",
+    "number": "1996",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2019/53",
+     "date": "2025-12-31"
+    },
+    {
+     "id": "DU/2009/11",
+     "date": "2025-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251881.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251881.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251881L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
