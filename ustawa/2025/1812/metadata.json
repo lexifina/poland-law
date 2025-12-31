@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1812",
+ "source_sha256": "7bb5341e64c867037b25967770b2bf9184d9dd1f440b4fd8622e9337c8efc876",
+ "in_force": "2025-12-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1812",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1812/text/O/D20251812.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1812/text/I/D20251812.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1812/text/T/D20251812L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1812",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1812,
+  "address": "WDU20250001812",
+  "displayAddress": "Dz.U. 2025 poz. 1812",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-18",
+  "entryIntoForce": "2025-12-31",
+  "changeDate": "2026-01-02T13:02:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opakowania",
+   "odpady",
+   "ochrona środowiska",
+   "energetyczna gospodarka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1804",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1804",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1804",
+    "number": "1804",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2022/2127",
+     "date": "2025-12-31"
+    },
+    {
+     "id": "DU/2013/888",
+     "date": "2025-12-31"
+    },
+    {
+     "id": "DU/2013/21",
+     "date": "2025-12-31"
+    },
+    {
+     "id": "DU/2001/627",
+     "date": "2025-12-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251812.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251812.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251812L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
