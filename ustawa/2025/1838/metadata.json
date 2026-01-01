@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1838",
+ "source_sha256": "8bb0e828cf91f267629e9c574bd116a2de290d074d6072a67d22c4c724989590",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1838",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1838/text/O/D20251838.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1838/text/I/D20251838.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1838/text/T/D20251838L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1838",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1838,
+  "address": "WDU20250001838",
+  "displayAddress": "Dz.U. 2025 poz. 1838",
+  "title": "Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-21",
+  "promulgation": "2025-12-22",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-07-13T13:30:41",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek dochodowy od osób fizycznych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1835",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1835",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1835",
+    "number": "1835",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1991/350",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251838.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251838.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251838L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
