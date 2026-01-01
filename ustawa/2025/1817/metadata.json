@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1817",
+ "source_sha256": "78056d2e54df128a3089093baf470aa35790cf9e3c3487f77be5d5d3ffd4392e",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1817",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1817/text/O/D20251817.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1817/text/I/D20251817.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1817/text/T/D20251817L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1817",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1817,
+  "address": "WDU20250001817",
+  "displayAddress": "Dz.U. 2025 poz. 1817",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-18",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-01-02T13:03:03",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1798",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1798",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1798",
+    "number": "1798",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 3 w zakresie art. 22j ust. 12 oraz art. 2 pkt 3 w zakresie art. 16j ust. 12 wchodzą w życie z dniem 18 grudnia 2025 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/86",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251817.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251817.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251817L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
