@@ -8,6 +8,6 @@
 
 § 4. Kontrolę przeprowadza się zgodnie z jej celem, z zachowaniem umiaru i poszanowania godności ludzkiej oraz bez wyrządzania zbędnych dolegliwości.
 
-§ 5. Kontrolę techniczną należy przeprowadzać po godzinie 6⁰⁰, a przed godziną 22⁰⁰, chyba że zachodzi przypadek niecierpiący zwłoki.
+§ 5. Kontrolę techniczną należy przeprowadzać po godzinie 6.00, a przed godziną 22.00, chyba że zachodzi przypadek niecierpiący zwłoki.
 
 § 6. Osobom, których dotyczy kontrola, przysługuje zażalenie do sądu na sposób jej przeprowadzenia.

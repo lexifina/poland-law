@@ -6,4 +6,4 @@
 
 § 3. Na postanowienie o odroczeniu wykonania kary przysługuje zażalenie.
 
-§ 4. Przepisy § 1-3 nie mają zastosowania do postępowania w przedmiocie udzielenia zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
+§ 4. Przepisy § 1-3 nie mają zastosowania do postępowania w przedmiocie udzielenia zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego oraz udzielenia przerwy w wykonaniu kary pozbawienia wolności.

@@ -1,6 +1,6 @@
 # Art. 43k.
 
-§ 1. W przypadku dozoru zbliżeniowego lub mobilnego, po uzyskaniu od podmiotu dozorującego informacji, że możliwe jest niezwłoczne rozpoczęcie wykonywania kary, sąd wydaje postanowienie o rozpoczęciu dozoru elektronicznego, w którym:
+§ 1. Po uzyskaniu od podmiotu dozorującego informacji, że możliwe jest niezwłoczne rozpoczęcie wykonywania środka karnego lub środka zabezpieczającego w systemie dozoru elektronicznego, sąd wydaje postanowienie o rozpoczęciu dozoru elektronicznego, w którym:
 
 - 1) wyznacza termin i określa sposób zgłoszenia przez skazanego gotowości do instalacji środków technicznych;
 

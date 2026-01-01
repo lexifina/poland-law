@@ -10,7 +10,7 @@
 
 § 2. Ilekroć w przepisach niniejszego rozdziału mowa jest o:
 
-- 1) karze - przepisy te stosuje się również do środków karnych i zabezpieczających,
+- 1) karze - przepisy te stosuje się również do środków karnych i zabezpieczających oraz elektronicznej kontroli miejsca pobytu orzeczonej w związku z przerwą w wykonaniu kary pozbawienia wolności, o której mowa w art. 153a § 1 lub 2,
 
 - 2) skazanym - przepisy te stosuje się również do sprawcy, wobec którego orzeczono środek zabezpieczający połączony z dozorem elektronicznym
 
