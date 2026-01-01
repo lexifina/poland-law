@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1698",
+ "source_sha256": "1b24e3f0d504dfe7d31e3f8656924343cdf160ea373b18f1367901e1e63a30e0",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1698",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1698/text/O/D20251698.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1698/text/I/D20251698.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1698/text/T/D20251698L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1698",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1698,
+  "address": "WDU20250001698",
+  "displayAddress": "Dz.U. 2025 poz. 1698",
+  "title": "Ustawa z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-17",
+  "promulgation": "2025-12-04",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-02-11T08:21:26",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "napoje chłodzące",
+   "żywność i żywienie",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1107",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1107",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1107",
+    "number": "1107",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/1916",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251698.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251698.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251698L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
