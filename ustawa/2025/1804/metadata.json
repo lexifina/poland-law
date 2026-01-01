@@ -1,0 +1,107 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1804",
+ "source_sha256": "9fb5717dbd89e04582f67de2517239896a525e4378d2643275471a0319dcef6d",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1804",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1804/text/O/D20251804.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1804/text/I/D20251804.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1804/text/T/D20251804L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1804",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1804,
+  "address": "WDU20250001804",
+  "displayAddress": "Dz.U. 2025 poz. 1804",
+  "title": "Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ust",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-21",
+  "promulgation": "2025-12-17",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-01-02T12:58:13",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "kopalnie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1881",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1881",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1881",
+    "number": "1881",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2023/1298",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2022/2531",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2021/851",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2017/374",
+     "date": "2026-01-01"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2012/362",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/1997/926",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251804.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251804.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251804L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
