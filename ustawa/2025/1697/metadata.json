@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1697",
+ "source_sha256": "192cd25f6e6d346625b14ed4bed7dcdb49f5ae77c22e31129a30f1970786566d",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1697",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1697/text/O/D20251697.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1697/text/I/D20251697.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1697/text/T/D20251697L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1697",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1697,
+  "address": "WDU20250001697",
+  "displayAddress": "Dz.U. 2025 poz. 1697",
+  "title": "Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o środkach ochrony roślin",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-21",
+  "promulgation": "2025-12-04",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-05-12T10:04:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona roślin",
+   "rośliny"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32009R1107",
+    "date": "2009-10-21",
+    "title": "ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (WE) NR 1107/2009 z dnia 21 października 2009 r. dotyczące wprowadzania do obrotu środków ochrony roślin i uchylające dyrektywy Rady 79/117/EWG i 91/414/EWG"
+   },
+   {
+    "address": "32009R1107R(01)",
+    "date": "2012-10-21",
+    "title": "Sprostowanie do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dziennik Urzędowy Unii Europejskiej L 309 z dnia 24 listopada 2009 r.)"
+   },
+   {
+    "address": "32023R0564",
+    "date": "2025-12-05",
+    "title": "Rozporządzenie wykonawcze Komisji (UE) 2023/564 z dnia 10 marca 2023 r. w odniesieniu do treści i formatu dokumentacji dotyczącej środków ochrony roślin prowadzonej i przechowywanej przez użytkowników profesjonalnych na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1950",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1950",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1950",
+    "number": "1950",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2013/455",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251697.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251697.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251697L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
