@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1425",
+ "source_sha256": "aa20af64d7dda4ca3e04a34a779b2ef63e3733d477608f20ae6b7bf4d4b1edb1",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1425",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1425/text/O/D20251425.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1425/text/I/D20251425.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1425/text/T/D20251425L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1425",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1425,
+  "address": "WDU20250001425",
+  "displayAddress": "Dz.U. 2025 poz. 1425",
+  "title": "Ustawa z dnia 12 września 2025 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-12",
+  "promulgation": "2025-10-21",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-08-10T09:44:28",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusze emerytalne",
+   "emerytury i renty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1443",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1443",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1443",
+    "number": "1443",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/934",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251425.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251425.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251425L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
