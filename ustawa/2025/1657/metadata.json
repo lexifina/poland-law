@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1657",
+ "source_sha256": "da52102da493319d99c693fd9b8439663166fc2584a94e04a5cc85e1308b13e7",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1657",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1657/text/O/D20251657.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1657/text/I/D20251657.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1657/text/T/D20251657L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1657",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1657,
+  "address": "WDU20250001657",
+  "displayAddress": "Dz.U. 2025 poz. 1657",
+  "title": "Ustawa z dnia 6 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób prawnych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-06",
+  "promulgation": "2025-11-28",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-04-23T09:45:47",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1826",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1826",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1826",
+    "number": "1826",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/86",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251657.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251657.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251657L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
