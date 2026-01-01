@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1537",
+ "source_sha256": "d88928707699e065f236ccc1a05c3fa804f80a709d20b6fb15b834a5191228db",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1537",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1537/text/O/D20251537.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1537/text/I/D20251537.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1537/text/T/D20251537L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1537",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1537,
+  "address": "WDU20250001537",
+  "displayAddress": "Dz.U. 2025 poz. 1537",
+  "title": "Ustawa z dnia 26 września 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-11-12",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-04-29T00:00:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia lecznicze",
+   "opieka zdrowotna",
+   "służba zdrowia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1609",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1609",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1609",
+    "number": "1609",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 2 lit. c, pkt 3 i pkt 4 w zakresie art. 23f wchodzą w życie z dniem 1 lipca 2026 r.",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/586"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/657",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2004/2135",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2001/1381",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251537.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251537.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251537L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
