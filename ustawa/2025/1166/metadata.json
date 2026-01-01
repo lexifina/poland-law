@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1166",
+ "source_sha256": "4076c85c5d665f23ac95285666b379e944b6c6fc92fa1e476345425857b2dfbb",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1166",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1166/text/O/D20251166.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1166/text/I/D20251166.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1166/text/T/D20251166L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1166",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1166,
+  "address": "WDU20250001166",
+  "displayAddress": "Dz.U. 2025 poz. 1166",
+  "title": "Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-08-05",
+  "promulgation": "2025-08-25",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-01-16T09:49:27",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc prawna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1202",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1202",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1202",
+    "number": "1202",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 6 wchodzi w życie z dniem 26 sierpnia 2025 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/1255",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251166.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251166.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251166L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
