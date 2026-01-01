@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1849",
+ "source_sha256": "f541023dbf6b1968b90aca25898fbb44ddf7145b806873f8e9c9318abb91bbc5",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1849",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1849/text/O/D20251849.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1849/text/I/D20251849.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1849/text/T/D20251849L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1849",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1849,
+  "address": "WDU20250001849",
+  "displayAddress": "Dz.U. 2025 poz. 1849",
+  "title": "Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy - Karta Nauczyciela",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-21",
+  "promulgation": "2025-12-23",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-04-15T09:25:18",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nauczyciele"
+  ],
+  "keywordsNames": [
+   "Karta Nauczyciela"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1945",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1945",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1945",
+    "number": "1945",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 1 w zakresie art. 35 ust. 3e wchodzi w życie z dniem 1 stycznia 2026 r. , z mocą od dnia 1 września 2025 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1982/19",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251849.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251849.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251849L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
