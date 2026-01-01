@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1806",
+ "source_sha256": "37b10c3579320e2e1c978041f25b58321487333f6384bbafae0def9c694110a3",
+ "in_force": "2026-01-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1806",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1806/text/O/D20251806.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1806/text/I/D20251806.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1806/text/T/D20251806L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1806",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1806,
+  "address": "WDU20250001806",
+  "displayAddress": "Dz.U. 2025 poz. 1806",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-17",
+  "entryIntoForce": "2026-01-01",
+  "changeDate": "2026-01-02T13:03:43",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "turystyka",
+   "usługi"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1762",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1762",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1762",
+    "number": "1762",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 1 lit. a, pkt 2 oraz pkt 9, w zakresie zmienionego art. 31 pkt 3 wchodzi w życie z dniem 1 lipca 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2020/374",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2020/1262",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2017/2361",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251806.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251806.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251806L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
