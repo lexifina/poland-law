@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1811",
+ "source_sha256": "58f7785f83536a76a58c1256145ea7f8c46fec1fff4038861b1e848bdc469154",
+ "in_force": "2026-01-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1811",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1811/text/O/D20251811.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1811/text/I/D20251811.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1811/text/T/D20251811L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1811",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1811,
+  "address": "WDU20250001811",
+  "displayAddress": "Dz.U. 2025 poz. 1811",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o podatku od towarów i usług",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-18",
+  "entryIntoForce": "2026-01-02",
+  "changeDate": "2026-01-02T13:04:53",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1728",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1728",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1728",
+    "number": "1728",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/535",
+     "date": "2026-01-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251811.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251811.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251811L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
