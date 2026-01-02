@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1818",
+ "source_sha256": "414af626564c2c5a82eefda3a2f7496a688856b2eccfe653a9fd958ee871a2bf",
+ "in_force": "2026-01-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1818",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1818/text/O/D20251818.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1818/text/I/D20251818.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1818/text/T/D20251818L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1818",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1818,
+  "address": "WDU20250001818",
+  "displayAddress": "Dz.U. 2025 poz. 1818",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks wykroczeń oraz ustawy - Kodeks postępowania w sprawach o wykroczenia",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-18",
+  "entryIntoForce": "2026-01-02",
+  "changeDate": "2026-01-02T13:05:24",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "kodeks postępowania w sprawach o wykroczenia",
+   "kodeks wykroczeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1636",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1636",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1636",
+    "number": "1636",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1148",
+     "date": "2026-01-02"
+    },
+    {
+     "id": "DU/1997/553",
+     "date": "2026-01-02"
+    },
+    {
+     "id": "DU/1971/114",
+     "date": "2026-01-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251818.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251818.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251818L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
