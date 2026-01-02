@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1814",
+ "source_sha256": "a4ca3689331eeedb9d687d282e96bebe8fbbc6f508dad441416fa7293f54e77a",
+ "in_force": "2026-01-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1814",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1814/text/O/D20251814.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1814/text/I/D20251814.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1814/text/T/D20251814L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1814",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1814,
+  "address": "WDU20250001814",
+  "displayAddress": "Dz.U. 2025 poz. 1814",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Kodeks wykroczeń oraz ustawy - Kodeks postępowania w sprawach o wykroczenia",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-18",
+  "entryIntoForce": "2026-01-02",
+  "changeDate": "2026-01-02T13:06:03",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania w sprawach o wykroczenia",
+   "kodeks wykroczeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1635",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1635",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1635",
+    "number": "1635",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1148",
+     "date": "2026-01-02"
+    },
+    {
+     "id": "DU/1971/114",
+     "date": "2026-01-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251814.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251814.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251814L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
