@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/2",
+ "source_sha256": "ed2f5c16d92c34cdc49906cc350c5d572597743ee79b3a0ea632763e1d60dc74",
+ "in_force": "2026-01-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/2",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/2/text/O/D20260002.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/2/text/I/D20260002.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/2/text/T/D20260002L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/2",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 2,
+  "address": "WDU20260000002",
+  "displayAddress": "Dz.U. 2026 poz. 2",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-04",
+  "promulgation": "2026-01-05",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne prawo",
+   "badania i certyfikacje",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2023/605"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260002.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260002.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260002L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
