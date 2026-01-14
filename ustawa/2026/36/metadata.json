@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/36",
+ "source_sha256": "ada638a0daa799caa932cbe9248efb8c12b40d6f67c981f206edd38896ca4146",
+ "in_force": "2026-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/36",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/36/text/O/D20260036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/36/text/I/D20260036.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/36/text/T/D20260036L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/36",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 36,
+  "address": "WDU20260000036",
+  "displayAddress": "Dz.U. 2026 poz. 36",
+  "title": "Ustawa z dnia 18 grudnia 2025 r. zmieniająca ustawę o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-18",
+  "promulgation": "2026-01-13",
+  "entryIntoForce": "2026-01-14",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dotacje"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2072",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2072",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2072",
+    "number": "2072",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2020/2398",
+     "date": "2026-01-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260036.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260036L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
