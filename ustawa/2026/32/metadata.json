@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/32",
+ "source_sha256": "2ca35d97a5dc904f3725044fd7aa6b2383b5d79f028ebd8d81e95cf3c5bcf193",
+ "in_force": "2026-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/32",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/32/text/O/D20260032.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/32/text/I/D20260032.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/32/text/T/D20260032L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/32",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 32,
+  "address": "WDU20260000032",
+  "displayAddress": "Dz.U. 2026 poz. 32",
+  "title": "Ustawa z dnia 18 grudnia 2025 r. o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-18",
+  "promulgation": "2026-01-13",
+  "entryIntoForce": "2026-01-14",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ceny",
+   "energetyczna gospodarka",
+   "energetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2026",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2026",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2026",
+    "number": "2026",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2025/290",
+     "date": "2026-01-14"
+    },
+    {
+     "id": "DU/2025/1302",
+     "date": "2026-01-14"
+    },
+    {
+     "id": "DU/2022/2243",
+     "date": "2026-01-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260032.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260032.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260032L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
