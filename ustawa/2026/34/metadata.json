@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/34",
+ "source_sha256": "e5eeee5cedf2ec23e80c1705d68ecbc86c4d501fc28ff4ccf90137bd4d19fda9",
+ "in_force": "2026-01-14",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/34",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/34/text/O/D20260034.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/34/text/I/D20260034.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/34/text/T/D20260034L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/34",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 34,
+  "address": "WDU20260000034",
+  "displayAddress": "Dz.U. 2026 poz. 34",
+  "title": "Ustawa z dnia 17 grudnia 2025 r. o zmianie ustawy o finansowaniu zadań oświatowych oraz ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-17",
+  "promulgation": "2026-01-13",
+  "entryIntoForce": "2026-01-14",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "oświata i wychowanie",
+   "oświata, nauka i kultura"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2005",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2005",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2005",
+    "number": "2005",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/2005",
+     "date": "2026-01-14"
+    },
+    {
+     "id": "DU/2017/2203",
+     "date": "2026-01-14"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260034.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260034.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260034L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
