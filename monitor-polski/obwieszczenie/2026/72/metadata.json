@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2026/72",
+ "source_sha256": "70ee4ba53f73c3d4838d213dcc31c06f291f800f9b2d3ec7842f97aee6d41fa7",
+ "in_force": "2026-01-15",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/72",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/72/text/O/M20260072.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/72/text/I/M20260072.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2026/72",
+  "publisher": "MP",
+  "year": 2026,
+  "volume": 0,
+  "pos": 72,
+  "address": "WMP20260000072",
+  "displayAddress": "M.P. 2026 poz. 72",
+  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 13 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-13",
+  "promulgation": "2026-01-15",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "PREZ. RADY MINISTRÓW"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "statut"
+  ],
+  "keywordsNames": [
+   "Kancelaria Prezesa Rady Ministrów"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "MP/2026/959",
+     "date": "2026-09-28"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "MP/2024/142"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20260072.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20260072.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
