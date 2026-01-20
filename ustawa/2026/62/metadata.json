@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/62",
+ "source_sha256": "a9d1fb7eaff18d4410a8374c84a810a43714cf6f137cff1a540362bb5fb712ca",
+ "in_force": "2026-01-20",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/62",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/62/text/O/D20260062.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/62/text/I/D20260062.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/62",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 62,
+  "address": "WDU20260000062",
+  "displayAddress": "Dz.U. 2026 poz. 62",
+  "title": "Ustawa budżetowa na rok 2026 z dnia 9 stycznia 2026 r.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-09",
+  "promulgation": "2026-01-20",
+  "entryIntoForce": "2026-01-20",
+  "validFrom": "2026-01-01",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "finanse publiczne",
+   "dochód",
+   "budżetowe prawo",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1749",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1749",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1749",
+    "number": "1749",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260062.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260062.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
