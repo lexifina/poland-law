@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/25",
+ "source_sha256": "1e9bec6d2c89d5b0ecc59603b37141b986be4eb8511e4041bc659de18d3770c9",
+ "in_force": "2026-01-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/25",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/25/text/O/D20260025.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/25/text/I/D20260025.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/25/text/T/D20260025L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/25",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 25,
+  "address": "WDU20260000025",
+  "displayAddress": "Dz.U. 2026 poz. 25",
+  "title": "Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-04",
+  "promulgation": "2026-01-12",
+  "entryIntoForce": "2026-01-27",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zakładowy fundusz świadczeń socjalnych",
+   "kodeks pracy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1601",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1601",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1601",
+    "number": "1601",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1994/163",
+     "date": "2026-01-27"
+    },
+    {
+     "id": "DU/1974/141",
+     "date": "2026-01-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260025.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260025.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260025L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
