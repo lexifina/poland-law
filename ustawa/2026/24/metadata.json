@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/24",
+ "source_sha256": "9b6987c719fbbab4e74ea40617726ca633b6bb2d4d56ed78e0b4e6ea4ca751f3",
+ "in_force": "2026-01-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/24",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/24/text/O/D20260024.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/24/text/I/D20260024.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/24/text/T/D20260024L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/24",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 24,
+  "address": "WDU20260000024",
+  "displayAddress": "Dz.U. 2026 poz. 24",
+  "title": "Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-04",
+  "promulgation": "2026-01-12",
+  "entryIntoForce": "2026-01-27",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "planowanie przestrzenne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1608",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1608",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1608",
+    "number": "1608",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/717",
+     "date": "2026-01-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260024.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260024.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260024L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
