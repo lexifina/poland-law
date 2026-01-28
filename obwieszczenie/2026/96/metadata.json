@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/96",
+ "source_sha256": "ca36b0b880ed6994bc6ac835f1ec03e6d93b6bf283d8de3800cbe2b289eeaf66",
+ "in_force": "2026-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/96",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/96/text/O/D20260096.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/96/text/I/D20260096.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/96/text/T/D20260096L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/96/text/U/D20260096Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/96",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 96,
+  "address": "WDU20260000096",
+  "displayAddress": "Dz.U. 2026 poz. 96",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-21",
+  "promulgation": "2026-01-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc publiczna",
+   "przedsiębiorstwa",
+   "praca"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2002/1800"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260096.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260096.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260096L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260096Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
