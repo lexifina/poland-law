@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/90",
+ "source_sha256": "dba3d3084c375bf2fdf79ffb2cc02d153113dca085549d5b3b9f88a2aa76be92",
+ "in_force": "2026-01-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/90",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/90/text/O/D20260090.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/90/text/I/D20260090.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/90/text/T/D20260090L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/90",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 90,
+  "address": "WDU20260000090",
+  "displayAddress": "Dz.U. 2026 poz. 90",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o repatriacji",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-21",
+  "promulgation": "2026-01-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "repatrianci"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1118"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260090.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260090.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260090L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
