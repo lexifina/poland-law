@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/110",
+ "source_sha256": "96531e7e489732a7bcd6e0904c8e633ab33a44e80161d2f2764eca5ac6f7cebf",
+ "in_force": "2026-01-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/110",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/110/text/O/D20260110.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/110/text/I/D20260110.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/110/text/T/D20260110L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/110/text/U/D20260110Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/110",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 110,
+  "address": "WDU20260000110",
+  "displayAddress": "Dz.U. 2026 poz. 110",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-21",
+  "promulgation": "2026-01-30",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dowody osobiste",
+   "kodeks karny",
+   "rejestry",
+   "nieletni",
+   "resocjalizacja",
+   "rejestry sądowe",
+   "karne prawo"
+  ],
+  "keywordsNames": [
+   "Policja",
+   "Krajowy Rejestr Karny"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/421",
+     "date": "2026-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/862"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260110.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260110.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260110L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260110Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
