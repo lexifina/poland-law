@@ -1,0 +1,95 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/50",
+ "source_sha256": "d96eacd13cb3f9c9e7d6654b8c7bfc5d19a767eedbbecd46e55f56dd4bff7748",
+ "in_force": "2026-01-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/50",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/50/text/O/D20260050.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/50/text/I/D20260050.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/50/text/T/D20260050L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/50",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 50,
+  "address": "WDU20260000050",
+  "displayAddress": "Dz.U. 2026 poz. 50",
+  "title": "Ustawa z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-12-18",
+  "promulgation": "2026-01-16",
+  "entryIntoForce": "2026-01-31",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morza",
+   "granice państwa",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [
+   "Siły Zbrojne",
+   "Żandarmeria Wojskowa",
+   "Bałtyk",
+   "Straż Graniczna"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1862",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1862",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1862",
+    "number": "1862",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2001/1353",
+     "date": "2026-01-31"
+    },
+    {
+     "id": "DU/1998/1117",
+     "date": "2026-01-31"
+    },
+    {
+     "id": "DU/1990/462",
+     "date": "2026-01-31"
+    },
+    {
+     "id": "DU/1990/461",
+     "date": "2026-01-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260050.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260050.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260050L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
