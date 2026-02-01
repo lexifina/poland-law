@@ -46,4 +46,4 @@
 
 - 2) może nie zawierać nazwy (rodzaju) towaru lub usługi objętych korektą - w przypadku gdy korekta dotyczy wszystkich dostaw towarów i świadczonych usług.
 
-4. Fakturę korygującą fakturę ustrukturyzowaną wystawia się w postaci faktury ustrukturyzowanej.
+4. Fakturę korygującą fakturę ustrukturyzowaną wystawia się w postaci faktury ustrukturyzowanej albo faktury, o której mowa w art. 106nda ust. 1.

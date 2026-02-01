@@ -10,7 +10,7 @@
 
 - 4) dane dotyczące zamówienia lub umowy, a w szczególności: nazwę (rodzaj) towaru lub usługi, ilość zamówionych towarów, wartość zamówionych towarów lub usług bez kwoty podatku, stawki podatku, kwoty podatku oraz wartość zamówienia lub umowy z uwzględnieniem kwoty podatku.
 
-2. Przepisy art. 106e ust. 1 pkt 16-21, 24 i 25 oraz ust. 2-6, 10 i 11 stosuje się odpowiednio.
+2. Przepisy art. 106e ust. 1 pkt 16-21 i 24-27 oraz ust. 2-6, 10 i 11 stosuje się odpowiednio.
 
 3. Jeżeli faktura, o której mowa w ust. 1, nie obejmuje całej zapłaty, w fakturze wystawianej po wydaniu towaru lub wykonaniu usługi sumę wartości towarów lub usług pomniejsza się o wartość otrzymanych części zapłaty, a kwotę podatku pomniejsza się o sumę kwot podatku wykazanego w fakturach dokumentujących otrzymanie części zapłaty. Faktura, o której mowa w zdaniu pierwszym, powinna również zawierać numery identyfikujące w Krajowym Systemie e-Faktur faktury wystawione przed wydaniem towaru lub wykonaniem usługi, a w przypadku faktur innych niż faktury ustrukturyzowane - numery tych faktur.
 

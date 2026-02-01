@@ -10,7 +10,7 @@ Z Krajowego Systemu e-Faktur mogą korzystać:
 
 - 4) osoby fizyczne wskazane przez podmioty, o których mowa w art. 106c,
 
-- 5) osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c, nadali uprawnienia do korzystania z tego systemu,
+- 5) osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c pkt 1, nadali uprawnienia do korzystania z tego systemu,
 
 - 6) podmioty inne, niż wymienione w pkt 1-5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym
 

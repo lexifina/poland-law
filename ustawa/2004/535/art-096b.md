@@ -70,7 +70,9 @@
 
 8. Wykaz jest aktualizowany w dni robocze, raz na dobę.
 
-9. Dostęp do wykazu jest możliwy także za pośrednictwem systemu teleinformatycznego Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+9. Dostęp do wykazu jest możliwy także za pośrednictwem systemu teleinformatycznego Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz systemu teleinformatycznego Punktu Informacji dla Przedsiębiorcy, o których mowa w ustawie z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
+
+9a. Szef Krajowej Administracji Skarbowej przekazuje ministrowi właściwemu do spraw gospodarki dane, o których mowa w ust. 3 pkt 2-3 i 5, w celu udostępnienia tych danych w systemie teleinformatycznym Punktu Informacji dla Przedsiębiorcy, o którym mowa w art. 51 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
 
 10. Naczelnik urzędu skarbowego, z urzędu lub na wniosek, usuwa lub prostuje dane inne niż dane osobowe zawarte w wykazie niezgodne ze stanem rzeczywistym.
 

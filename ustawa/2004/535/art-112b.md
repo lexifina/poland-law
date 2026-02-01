@@ -28,7 +28,7 @@
 
 - naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości do 20 % kwoty zaniżenia zobowiązania podatkowego, kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
 
-2a. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 1, podatnik skorygował deklarację zgodnie z art. 62 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej i najpóźniej w dniu złożenia tej korekty deklaracji wpłacił kwotę zobowiązania podatkowego lub zwrócił nienależną kwotę zwrotu, naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości do 15 % kwoty zaniżenia zobowiązania podatkowego, kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
+2a. Jeżeli w przypadku, o którym mowa w ust. 1, podatnik złożył deklarację lub korektę deklaracji zgodnie z art. 62 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej i najpóźniej w dniu złożenia tej deklaracji lub tej korekty deklaracji wpłacił kwotę zobowiązania podatkowego lub zwrócił nienależną kwotę zwrotu, naczelnik urzędu celno-skarbowego ustala dodatkowe zobowiązanie podatkowe w wysokości do 15 % kwoty zaniżenia zobowiązania podatkowego, kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
 
 2b. Ustalając dodatkowe zobowiązanie podatkowe, o którym mowa w ust. 1-2a, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego bierze pod uwagę:
 

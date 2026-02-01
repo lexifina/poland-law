@@ -10,7 +10,7 @@
 
 - 4) numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku, z zastrzeżeniem pkt 24 lit. a oraz pkt 25;
 
-- 5) numer, za pomocą którego nabywca towarów lub usług jest zidentyfikowany na potrzeby podatku lub podatku od wartości dodanej, pod którym otrzymał on towary lub usługi, z zastrzeżeniem pkt 24 lit. b;
+- 5) numer, za pomocą którego nabywca towarów lub usług jest zidentyfikowany na potrzeby podatku lub podatku od wartości dodanej, pod którym otrzymał on towary lub usługi, z zastrzeżeniem pkt 24 lit. b, pkt 26 i 27;
 
 - 6) datę dokonania lub zakończenia dostawy towarów lub wykonania usługi lub datę otrzymania zapłaty, o której mowa w art. 106b ust. 1 pkt 4, o ile taka data jest określona i różni się od daty wystawienia faktury;
 
@@ -72,7 +72,11 @@
 
   - b) numer, za pomocą którego nabywca towaru lub usługi jest zidentyfikowany na potrzeby podatku od wartości dodanej w danym państwie członkowskim, zawierający dwuliterowy kod stosowany na potrzeby podatku od wartości dodanej właściwy dla tego państwa członkowskiego;
 
-- 25) w przypadku podatnika korzystającego ze zwolnienia, o którym mowa w art. 113a ust. 1 - indywidualny numer identyfikacyjny, o którym mowa w art. 113a ust. 2 pkt 2.
+- 25) w przypadku podatnika korzystającego ze zwolnienia, o którym mowa w art. 113a ust. 1 - indywidualny numer identyfikacyjny, o którym mowa w art. 113a ust. 2 pkt 2;
+
+- 26) w przypadku gdy nabywca towarów lub usług jest podatnikiem niezarejestrowanym na potrzeby podatku albo osobą prawną niebędącą podatnikiem i niezarejestrowaną na potrzeby podatku - numer identyfikacji podatkowej tego nabywcy, jeżeli posiada on taki numer;
+
+- 27) w przypadku gdy nabywca towarów lub usług jest podatnikiem, u którego sprzedaż jest zwolniona od podatku na podstawie art. 113a ust. 1 - indywidualny numer identyfikacyjny, o którym mowa w art. 113a ust. 2 pkt 2.
 
 1a. W przypadku niewystawienia przez podatnika faktury, o której mowa w art. 106b ust. 1 pkt 4, z powodów określonych w art. 106b ust. 1a, wystawiona przez podatnika po wydaniu towaru lub wykonaniu usługi faktura w zakresie danych określonych w ust. 1 pkt 6 powinna zawierać datę dokonania lub zakończenia dostawy towarów lub wykonania usługi i datę otrzymania zapłaty, o której mowa w art. 106b ust. 1 pkt 4, jeżeli taka data jest określona i różni się od daty wystawienia faktury.
 

@@ -28,7 +28,7 @@
 
 - 2) kwotę odpowiadającą całości albo części wartości sprzedaży brutto;
 
-- 3) numer faktury, w związku z którą dokonywana jest płatność;
+- 3) numer faktury, w związku z którą dokonywana jest płatność, a w przypadku faktury ustrukturyzowanej - numer identyfikujący tę fakturę w Krajowym Systemie e-Faktur;
 
 - 4) numer, za pomocą którego dostawca towaru lub usługodawca jest zidentyfikowany na potrzeby podatku.
 
@@ -36,11 +36,17 @@
 
 3b. W przypadku, o którym mowa w ust. 3a, komunikat przelewu, o którym mowa w ust. 3:
 
-- 1) obejmuje wszystkie faktury wystawione dla podatnika przez jednego dostawcę lub usługodawcę w okresie nie krótszym niż jeden dzień i nie dłuższym niż jeden miesiąc;
+- 1) obejmuje wszystkie faktury wystawione dla podatnika przez jednego dostawcę lub usługodawcę w okresie niekrótszym niż jeden dzień i niedłuższym niż jeden miesiąc - w przypadku faktur innych niż faktury ustrukturyzowane;
 
-- 2) zawiera kwotę odpowiadającą sumie kwot podatku wykazanych w fakturach, o których mowa w pkt 1.
+- 1a) obejmuje dowolne faktury wystawione dla podatnika przez jednego dostawcę lub usługodawcę w okresie niekrótszym niż jeden dzień i niedłuższym niż jeden miesiąc - w przypadku faktur ustrukturyzowanych;
 
-3c. W przypadku, o którym mowa w ust. 3a, w komunikacie przelewu, o którym mowa w ust. 3, w miejsce informacji, o której mowa w ust. 3 pkt 3, wpisuje się okres, za który dokonywana jest płatność.
+- 2) zawiera kwotę odpowiadającą sumie kwot podatku wykazanych w fakturach, o których mowa w pkt 1 i 1a.
+
+3c. W przypadku, o którym mowa w ust. 3a, w komunikacie przelewu, o którym mowa w ust. 3, w miejsce informacji, o której mowa w ust. 3 pkt 3, wpisuje się:
+
+- 1) okres, za który dokonywana jest płatność - w przypadku płatności obejmującej faktury wystawione poza Krajowym Systemem e-Faktur;
+
+- 2) identyfikator zbiorczy nadawany przez Krajowy System e-Faktur - w przypadku płatności obejmującej faktury ustrukturyzowane.
 
 3d. W przypadku wpłaty kwoty odpowiadającej kwocie podatku oraz należności celnych na rzecz przedstawiciela bezpośredniego lub pośredniego w rozumieniu przepisów celnych w komunikacie przelewu, o którym mowa w ust. 3, w miejsce informacji, o których mowa w ust. 3:
 

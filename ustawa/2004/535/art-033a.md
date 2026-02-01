@@ -30,7 +30,11 @@
 
 6. (uchylony)
 
-6a. W przypadku gdy podatnik nie rozliczył w całości lub w części podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1, może dokonać korekty deklaracji podatkowej w terminie 4 miesięcy, licząc od miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy z tytułu importu tych towarów.
+6a. W przypadku gdy podatnik nie rozliczył w całości lub w części podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1, może dokonać korekty deklaracji podatkowej:
+
+- 1) w terminie 4 miesięcy, licząc od miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy z tytułu importu tych towarów;
+
+- 2) w terminie późniejszym niż określony w pkt 1, jednak niepóźniej niż w terminie miesiąca po upływie terminu na złożenie zgłoszenia uzupełniającego - w przypadku gdy podatnik stosuje uproszczenie, o którym mowa w art. 166 unijnego kodeksu celnego, i posiada status upoważnionego przedsiębiorcy w rozumieniu art. 38 unijnego kodeksu celnego.
 
 7. Podatnik, który wybrał rozliczenie podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1 i nie rozliczył tego podatku w całości lub w części na tych zasadach w terminie, o którym mowa w ust. 6a, traci prawo do rozliczania w deklaracji podatkowej podatku należnego z tytułu importu towarów wykazanego w zgłoszeniu celnym, w odniesieniu do którego nie rozliczył w całości podatku w deklaracji podatkowej. Podatnik jest obowiązany do zapłaty kwoty podatku wraz z odsetkami naczelnikowi urzędu skarbowego właściwemu do poboru kwoty należności celnych przywozowych wynikających z długu celnego.
 

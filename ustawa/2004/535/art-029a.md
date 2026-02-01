@@ -74,11 +74,23 @@
 
 - 2) lat następujących po kolejnym roku, jeżeli w kolejnym roku wartość kaucji wynikająca z opakowań objętych systemem kaucyjnym wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach na napoje jest mniejsza niż łączna wartość kaucji wynikająca z opakowań lub odpadów opakowaniowych objętych tym systemem zwróconych do podmiotu reprezentującego oraz wartość różnicy wynikającej z roku poprzedniego.
 
-13. W przypadkach, o których mowa w ust. 10 pkt 1-3, obniżenia podstawy opodatkowania, w stosunku do podstawy określonej w wystawionej fakturze z wykazanym podatkiem, dokonuje się za okres rozliczeniowy, w którym podatnik wystawił fakturę korygującą, pod warunkiem że z posiadanej przez tego podatnika dokumentacji wynika, że uzgodnił on z nabywcą towaru lub usługobiorcą warunki obniżenia podstawy opodatkowania dla dostawy towarów lub świadczenia usług określone w fakturze korygującej oraz warunki te zostały spełnione, a faktura ta jest zgodna z posiadaną dokumentacją. W przypadku gdy w okresie rozliczeniowym, w którym została wystawiona faktura korygująca, podatnik nie posiada dokumentacji, o której mowa w zdaniu pierwszym, obniżenia podstawy opodatkowania dokonuje za okres rozliczeniowy, w którym dokumentację tę uzyskał.
+13. W przypadkach, o których mowa w ust. 10 pkt 1-3, obniżenia podstawy opodatkowania, w stosunku do podstawy określonej na wystawionej fakturze z wykazanym podatkiem, dokonuje się za okres rozliczeniowy, w którym podatnik wystawił fakturę korygującą w postaci faktury ustrukturyzowanej, z zastrzeżeniem ust. 13a-13c.
 
-14. Przepis ust. 13 stosuje się odpowiednio w przypadku stwierdzenia pomyłki w kwocie podatku na fakturze i wystawienia faktury korygującej do faktury, w której wykazano kwotę podatku wyższą niż należna.
+13a. W przypadkach, o których mowa w ust. 10 pkt 1-3, obniżenia podstawy opodatkowania, w stosunku do podstawy określonej na wystawionej fakturze z wykazanym podatkiem, dokonuje się w rozliczeniu za okres rozliczeniowy, w którym podatnik otrzymał potwierdzenie otrzymania faktury korygującej przez nabywcę towaru lub usługi, jeżeli podatnik wystawił fakturę korygującą inną niż faktura ustrukturyzowana, z zastrzeżeniem ust. 13b i 13c.
 
-15. Warunku posiadania dokumentacji, o którym mowa w ust. 13, nie stosuje się w przypadku:
+13b. W przypadkach, o których mowa w ust. 10 pkt 1-3, jeżeli podatnik wystawił fakturę korygującą:
+
+- 1) w postaci faktury, o której mowa w art. 106nda ust. 1 lub art. 106nh ust. 1, na rzecz nabywcy, o którym mowa w art. 106gb ust. 4 pkt 2-6, i udostępnił ją temu nabywcy w sposób inny niż przy użyciu Krajowego Systemu e-Faktur,
+
+- 2) w postaci faktury, o której mowa w art. 106nf ust. 1, i udostępnił ją nabywcy w sposób inny niż przy użyciu Krajowego Systemu e-Faktur
+
+- obniżenia podstawy opodatkowania, w stosunku do podstawy określonej na wystawionej fakturze z wykazanym podatkiem, można dokonać w rozliczeniu za okres rozliczeniowy, w którym podatnik przesłał fakturę korygującą do Krajowego Systemu e-Faktur.
+
+13c. W przypadkach, o których mowa w ust. 10 pkt 1-3, jeżeli podatnik wystawił fakturę korygującą w postaci faktury, o której mowa w art. 106nda ust. 1, art. 106nf ust. 1 lub art. 106nh ust. 1, i udostępnił ją nabywcy przy użyciu Krajowego Systemu e-Faktur, obniżenia podstawy opodatkowania, w stosunku do podstawy określonej na wystawionej fakturze z wykazanym podatkiem, dokonuje się w rozliczeniu za okres rozliczeniowy, w którym podatnik przesłał fakturę korygującą do Krajowego Systemu e-Faktur.
+
+14. Przepisy ust. 13-13c stosuje się odpowiednio w przypadku stwierdzenia pomyłki w kwocie podatku na fakturze i wystawienia faktury korygującej do faktury, w której wykazano kwotę podatku wyższą niż należna.
+
+15. Warunku posiadania potwierdzenia otrzymania faktury korygującej przez nabywcę towaru lub usługi, o którym mowa w ust. 13a, nie stosuje się w przypadku:
 
 - 1) eksportu towarów i wewnątrzwspólnotowej dostawy towarów;
 
@@ -88,9 +100,15 @@
 
 - 4) (uchylony)
 
-- 5) wystawienia faktury korygującej w postaci faktury ustrukturyzowanej.
+- 5) (uchylony)
+
+- 6) gdy podatnik nie uzyskał potwierdzenia otrzymania faktury korygującej przez nabywcę towaru lub usługi mimo udokumentowanej próby doręczenia faktury korygującej i z posiadanej dokumentacji wynika, że nabywca towaru lub usługi wie, że transakcja została zrealizowana zgodnie z warunkami określonymi na fakturze korygującej.
 
 15a. W przypadku importu usług oraz dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 podatnikiem jest ich nabywca, gdy podstawa opodatkowania uległa obniżeniu, korekty tej podstawy dokonuje się w rozliczeniu za okres rozliczeniowy, w którym zaistniała przyczyna obniżenia podstawy opodatkowania.
+
+15b. W przypadku, o którym mowa w ust. 15 pkt 6, obniżenia podstawy opodatkowania dokonuje się niewcześniej niż za okres rozliczeniowy, w którym zostały łącznie spełnione przesłanki określone w ust. 15 pkt 6.
+
+15c. Przepisu ust. 15 pkt 6 nie stosuje się w przypadku, gdy podatnik miał obowiązek przesłania faktury korygującej do Krajowego Systemu e-Faktur zgodnie z art. 106nda ust. 2, art. 106nf ust. 4 albo art. 106nh ust. 2, z wyłączeniem faktur korygujących wystawianych na rzecz nabywcy, o którym mowa w art. 106gb ust. 4 pkt 2-6, udostępnionych temu nabywcy w sposób inny niż przy użyciu Krajowego Systemu e-Faktur.
 
 16. (uchylony)
 
