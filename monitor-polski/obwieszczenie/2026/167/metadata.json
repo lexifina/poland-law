@@ -1,0 +1,70 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2026/167",
+ "source_sha256": "7dcf8ed2f833632707309a43f98c02b875e42a0f84f4c7aa8d833c5e25e57256",
+ "in_force": "2026-02-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/167",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/167/text/O/M20260167.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/167/text/I/M20260167.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2026/167",
+  "publisher": "MP",
+  "year": 2026,
+  "volume": 0,
+  "pos": 167,
+  "address": "WMP20260000167",
+  "displayAddress": "M.P. 2026 poz. 167",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 29 stycznia 2026 r. w sprawie maksymalnej wysokości opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji, po waloryzacji",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-29",
+  "promulgation": "2026-02-02",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "izby wytrzeźwień",
+   "opłaty"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1982/230"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1982/230",
+     "art": "art. 42(2) ust. 9"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20260167.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20260167.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
