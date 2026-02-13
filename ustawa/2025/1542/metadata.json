@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1542",
+ "source_sha256": "1a9bb79fbe0e1e41c26fdeb87715d97172c82ded8c521bf18d24ff17bb43d919",
+ "in_force": "2026-02-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1542",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1542/text/O/D20251542.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1542/text/I/D20251542.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1542/text/T/D20251542L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1542",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1542,
+  "address": "WDU20250001542",
+  "displayAddress": "Dz.U. 2025 poz. 1542",
+  "title": "Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-09-26",
+  "promulgation": "2025-11-12",
+  "entryIntoForce": "2026-02-13",
+  "changeDate": "2026-10-23T10:04:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "geodezja i kartografia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1525",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1525",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1525",
+    "number": "1525",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/163",
+     "date": "2026-02-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251542.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251542.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251542L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
