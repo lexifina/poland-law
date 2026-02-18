@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/174",
+ "source_sha256": "155e95a0c25cda7cfd4185d6f0c955d9e6fdedcc4b01dae52cc778497921e36b",
+ "in_force": "2026-02-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/174",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/174/text/O/D20260174.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/174/text/I/D20260174.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/174/text/T/D20260174L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/174",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 174,
+  "address": "WDU20260000174",
+  "displayAddress": "Dz.U. 2026 poz. 174",
+  "title": "Ustawa z dnia 9 stycznia 2026 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi, ustawy o odpadach oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-09",
+  "promulgation": "2026-02-17",
+  "entryIntoForce": "2026-02-18",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opakowania",
+   "odpady"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2112",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2112",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2112",
+    "number": "2112",
+    "term": 10
+   }
+  ],
+  "comments": "art. 3 wchodzi w życie 18 lutego 2026 r., z mocą od dnia 1 stycznia 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/1852",
+     "date": "2026-01-01"
+    },
+    {
+     "id": "DU/2013/888",
+     "date": "2026-02-18"
+    },
+    {
+     "id": "DU/2013/21",
+     "date": "2026-02-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260174.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260174.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260174L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
