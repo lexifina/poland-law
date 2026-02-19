@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/191",
+ "source_sha256": "3482ee9cf733755581a57d9d8e5cdf30f4ad84594accbb10defcc7d03f05ec7e",
+ "in_force": "2026-02-19",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/191",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/191/text/O/D20260191.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/191/text/I/D20260191.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/191/text/T/D20260191L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/191/text/U/D20260191Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/191",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 191,
+  "address": "WDU20260000191",
+  "displayAddress": "Dz.U. 2026 poz. 191",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-17",
+  "promulgation": "2026-02-19",
+  "changeDate": "2026-11-02T09:59:55",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek od czynności cywilnoprawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/1354",
+     "date": "2026-09-18"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/959"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260191.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260191.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260191L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260191Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
