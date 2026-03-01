@@ -2,5 +2,5 @@
 
 Dz.U. 2018 poz. 771 · <https://eli.gov.pl/api/acts/DU/2018/771>
 
-Tekst jednolity: Dz.U. 2024 poz. 1458 (2024-10-02), stan na 2023-09-28.
+Tekst jednolity: Dz.U. 2026 poz. 881 (2026-07-01), stan na 2026-03-01.
 
