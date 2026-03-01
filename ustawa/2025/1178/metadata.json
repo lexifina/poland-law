@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1178",
+ "source_sha256": "1e079045186ec8f8ffa57f2467290bc85f1392ff6083425145e17ca0f353b244",
+ "in_force": "2026-03-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1178",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1178/text/O/D20251178.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1178/text/I/D20251178.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1178/text/T/D20251178L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1178",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1178,
+  "address": "WDU20250001178",
+  "displayAddress": "Dz.U. 2025 poz. 1178",
+  "title": "Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-07-09",
+  "promulgation": "2025-08-26",
+  "entryIntoForce": "2026-03-01",
+  "changeDate": "2025-09-03T09:59:16",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1264",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1264",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1264",
+    "number": "1264",
+    "term": 10
+   }
+  ],
+  "comments": "1) art. 1 pkt 5, pkt 6 lit. c w zakresie art. 133a § 3 i lit. d, pkt 10-12 oraz art. 2 pkt 1 wchodzą w życie 10 września 2025 r.;\n2) art. 1 pkt 6 lit. a i b wchodzą w życie z dniem 1 czerwca 2026 r",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/177",
+     "date": "2026-03-01"
+    },
+    {
+     "id": "DU/2001/1148",
+     "date": "2026-03-01"
+    },
+    {
+     "id": "DU/2001/1070",
+     "date": "2026-03-01"
+    },
+    {
+     "id": "DU/1997/555",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251178.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251178.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251178L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
