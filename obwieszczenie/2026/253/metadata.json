@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/253",
+ "source_sha256": "93153a7c8fadbbbd5d4bd48bfdd7f99e81a79bff493e1240ed55e40f69ec5ff6",
+ "in_force": "2026-03-03",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/253",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/253/text/O/D20260253.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/253/text/I/D20260253.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/253/text/T/D20260253L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/253/text/U/D20260253Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/253",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 253,
+  "address": "WDU20260000253",
+  "displayAddress": "Dz.U. 2026 poz. 253",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-20",
+  "promulgation": "2026-03-03",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SENATU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "medyczne wyroby",
+   "żywność i żywienie",
+   "refundacja",
+   "leki i artykuły sanitarne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/791",
+     "date": "2026-05-15"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1 zdanie pierwsze"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/696"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260253.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260253.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260253L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260253Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
