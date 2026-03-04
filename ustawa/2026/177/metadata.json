@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/177",
+ "source_sha256": "ccd7fb91bc8e4859e0e1e6231677fb72e9d8f38c4669253127714584d91c6a10",
+ "in_force": "2026-03-04",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/177",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/177/text/O/D20260177.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/177/text/I/D20260177.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/177/text/T/D20260177L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/177",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 177,
+  "address": "WDU20260000177",
+  "displayAddress": "Dz.U. 2026 poz. 177",
+  "title": "Ustawa z dnia 9 stycznia 2026 r. o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-09",
+  "promulgation": "2026-02-17",
+  "entryIntoForce": "2026-03-04",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "działalność gospodarcza",
+   "funkcje publiczne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1763",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1763",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1763",
+    "number": "1763",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/679",
+     "date": "2026-03-04"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260177.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260177.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260177L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
