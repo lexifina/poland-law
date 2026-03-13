@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2026/290",
+ "source_sha256": "f19dda33451844b441c91ec7b4ab26fd1cebe89059947657cc0936931d172ea7",
+ "in_force": "2026-03-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/290",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/290/text/O/M20260290.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/290/text/I/M20260290.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2026/290",
+  "publisher": "MP",
+  "year": 2026,
+  "volume": 0,
+  "pos": 290,
+  "address": "WMP20260000290",
+  "displayAddress": "M.P. 2026 poz. 290",
+  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 marca 2026 r. w sprawie wysokości kwoty premii",
+  "type": "Obwieszczenie",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-10",
+  "promulgation": "2026-03-13",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MIN. RODZINY, PRACY I POLITYKI SPOŁECZNEJ"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia pieniężne",
+   "bezrobocie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2025/620"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2025/620",
+     "art": "art. 122 ust. 2"
+    },
+    {
+     "id": "DU/2025/620",
+     "art": "art. 228 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20260290.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20260290.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
