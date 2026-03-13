@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/319",
+ "source_sha256": "2da3ea415e5495475c23aee2de30a9229f371d83849370fbbd66e22265547b49",
+ "in_force": "2026-03-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/319",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/319/text/O/D20260319.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/319/text/I/D20260319.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/319/text/T/D20260319L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/319",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 319,
+  "address": "WDU20260000319",
+  "displayAddress": "Dz.U. 2026 poz. 319",
+  "title": "Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-13",
+  "promulgation": "2026-03-12",
+  "entryIntoForce": "2026-03-13",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "finansowanie",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2178",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2178",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2178",
+    "number": "2178",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 wchodzi w życie z dniem 1 czerwca 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/2203",
+     "date": "2026-03-13"
+    },
+    {
+     "id": "DU/1991/425",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260319.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260319.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260319L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
