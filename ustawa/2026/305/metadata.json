@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/305",
+ "source_sha256": "c45e8d104c1603f740502114b9317bbe8c9a1cdef4da4f143f32d71241accc62",
+ "in_force": "2026-03-15",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/305",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/305/text/O/D20260305.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/305/text/I/D20260305.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/305/text/T/D20260305L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/305",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 305,
+  "address": "WDU20260000305",
+  "displayAddress": "Dz.U. 2026 poz. 305",
+  "title": "Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-13",
+  "promulgation": "2026-03-10",
+  "entryIntoForce": "2026-03-15",
+  "changeDate": "2026-11-06T10:15:46",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty rolne",
+   "rolne prawo",
+   "rolnicy",
+   "programy wieloletnie",
+   "rolnictwo",
+   "rozwój obszarów wiejskich",
+   "pomoc finansowa"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32021R2115",
+    "date": "2021-12-02",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiające przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylające rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2180",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2180",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2180",
+    "number": "2180",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/412",
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260305.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260305.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260305L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
