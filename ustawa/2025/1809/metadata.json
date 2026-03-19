@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1809",
+ "source_sha256": "2c865a83e6b1a75a48b1d9d777b74d733d7e593fd5f207a08937122b0acc26f5",
+ "in_force": "2026-03-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1809",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1809/text/O/D20251809.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1809/text/I/D20251809.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1809/text/T/D20251809L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1809",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1809,
+  "address": "WDU20250001809",
+  "displayAddress": "Dz.U. 2025 poz. 1809",
+  "title": "Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-11-07",
+  "promulgation": "2025-12-18",
+  "entryIntoForce": "2026-03-19",
+  "changeDate": "2026-06-16T10:39:48",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ubezpieczenia",
+   "ubezpieczenia komunikacyjne"
+  ],
+  "keywordsNames": [
+   "Ubezpieczeniowy Fundusz Gwarancyjny",
+   "Polskie Biuro Ubezpieczycieli Komunikacyjnych"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1628",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1628",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1628",
+    "number": "1628",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/1152",
+     "date": "2026-03-19"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251809.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251809.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251809L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
