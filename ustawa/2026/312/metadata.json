@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/312",
+ "source_sha256": "9f9b86311dfc70f1e0cf49f0653a576a63363ee3b239847cbca85bcbc231666c",
+ "in_force": "2026-03-26",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/312",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/312/text/O/D20260312.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/312/text/I/D20260312.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/312/text/T/D20260312L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/312",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 312,
+  "address": "WDU20260000312",
+  "displayAddress": "Dz.U. 2026 poz. 312",
+  "title": "Ustawa z dnia 23 stycznia 2026 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wygaśnięciu trwających skutków prawnych Artykułu 13 Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Londynie dnia 8 grudnia 1987 r.",
+  "type": "Ustawa",
+  "status": "akt jednorazowy",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-23",
+  "promulgation": "2026-03-11",
+  "entryIntoForce": "2026-03-26",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "umowy międzynarodowe",
+   "inwestycje"
+  ],
+  "keywordsNames": [
+   "Wielka Brytania i Irlandia Północna"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2037",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2037",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2037",
+    "number": "2037",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/952"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260312.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260312.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260312L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
