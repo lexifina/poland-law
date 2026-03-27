@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/316",
+ "source_sha256": "f5e33d5bc49833769d426e5b15e64be353af103fd50f14ac3af14993239a85c0",
+ "in_force": "2026-03-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/316",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/316/text/O/D20260316.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/316/text/I/D20260316.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/316/text/T/D20260316L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/316",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 316,
+  "address": "WDU20260000316",
+  "displayAddress": "Dz.U. 2026 poz. 316",
+  "title": "Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o fundacjach oraz ustawy - Prawo o stowarzyszeniach",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-23",
+  "promulgation": "2026-03-12",
+  "entryIntoForce": "2026-03-27",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stowarzyszenia"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1808",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1808",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1808",
+    "number": "1808",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1989/104",
+     "date": "2026-03-27"
+    },
+    {
+     "id": "DU/1984/97",
+     "date": "2026-03-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260316.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260316.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260316L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
