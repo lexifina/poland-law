@@ -1,0 +1,97 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/317",
+ "source_sha256": "52372f6ca73f16637e96dd56cf34519dc4c742ead5358957de80014f34e3a87c",
+ "in_force": "2026-03-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/317",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/317/text/O/D20260317.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/317/text/I/D20260317.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/317/text/T/D20260317L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/317",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 317,
+  "address": "WDU20260000317",
+  "displayAddress": "Dz.U. 2026 poz. 317",
+  "title": "Ustawa z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw w celu ochrony polskiego rolnictwa",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-23",
+  "promulgation": "2026-03-12",
+  "entryIntoForce": "2026-03-27",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolne prawo",
+   "rolnicy",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1390",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1390",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1390",
+    "number": "1390",
+    "term": 10
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1632",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1632",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1632",
+    "number": "1632",
+    "term": 10
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2079",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2079",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2079",
+    "number": "2079",
+    "term": 10
+   }
+  ],
+  "comments": "art. 2 wchodzi w życie z dniem 30 kwietnia 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/585",
+     "date": "2026-04-30"
+    },
+    {
+     "id": "DU/2003/592",
+     "date": "2026-03-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260317.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260317.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260317L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
