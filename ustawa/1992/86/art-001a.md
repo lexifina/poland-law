@@ -22,9 +22,9 @@
 
 - 3) po utworzeniu podatkowej grupy kapitałowej spółki tworzące tę grupę spełniają warunki wymienione w pkt 1 lit. a-c, a ponadto:
 
-  - a) nie korzystają ze zwolnień podatkowych określonych w art. 17 ust. 1 pkt 34 lub 34a oraz ze zwolnień od podatku dochodowego na podstawie odrębnych ustaw,
+  - a) nie korzystają ze zwolnień podatkowych określonych w art. 17 ust. 1 pkt 34 lub 34a oraz ze zwolnień od podatku dochodowego na podstawie odrębnych ustaw.
 
-  - b) w przypadku dokonania transakcji kontrolowanej w rozumieniu art. 11a ust. 1 pkt 6 z podmiotami powiązanymi w rozumieniu art. 11a ust. 1 pkt 4, niewchodzącymi w skład podatkowej grupy kapitałowej, nie ustalają lub nie narzucają warunków różniących się od warunków, które ustaliłyby między sobą podmioty niepowiązane w rozumieniu art. 11a ust. 1 pkt 3.
+  - b) (uchylona)
 
 - 4) (uchylony)
 

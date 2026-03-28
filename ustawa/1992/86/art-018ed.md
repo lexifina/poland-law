@@ -6,7 +6,7 @@
 
 - 2) 50% wydatków, bez uwzględnienia podatku od towarów i usług, na usługi doradztwa prawnego, w tym doradztwa podatkowego, i finansowego, nie więcej jednak niż 50 000 zł
 
-- poniesionych bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863), z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub z zamiarem ubiegania się o wprowadzenie tych akcji do obrotu w alternatywnym systemie obrotu.
+- poniesionych bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176), z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub z zamiarem ubiegania się o wprowadzenie tych akcji do obrotu w alternatywnym systemie obrotu.
 
 2. Odliczenia, o którym mowa w ust. 1, dokonuje się w zeznaniu za rok podatkowy, w którym podatnik wprowadził swoje akcje po raz pierwszy do obrotu na rynku regulowanym akcji albo w alternatywnym systemie obrotu.
 

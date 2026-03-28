@@ -2,5 +2,5 @@
 
 Dz.U. 1992 nr 21 poz. 86 · <https://eli.gov.pl/api/acts/DU/1992/86>
 
-Tekst jednolity: Dz.U. 2025 poz. 278 (2025-03-07), stan na 2025-01-01.
+Tekst jednolity: Dz.U. 2026 poz. 554 (2026-04-22), stan na 2026-03-28.
 

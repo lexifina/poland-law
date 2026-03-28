@@ -40,7 +40,7 @@
 
 - 4) sfinansowanie studiów dualnych, o których mowa w art. 62 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, na konkretnym kierunku studiów, w tym koszty praktyk;
 
-- 5) wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzonego przez tę uczelnię.
+- 5) wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.
 
 6. Odliczenie kosztów, o których mowa w ust. 5 pkt 3-5, przysługuje pod warunkiem, że są ponoszone na podstawie umowy zawartej przez podatnika z uczelnią.
 

@@ -24,7 +24,7 @@
 
 7. Przepisu ust. 1 nie stosuje się do podatnika, który przyjmował płatności przy użyciu terminala płatniczego w okresie 12 miesięcy bezpośrednio poprzedzających miesiąc, w którym podatnik ponownie rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego.
 
-8. Przez wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego rozumie się opłaty, o których mowa w art. 2 pkt 19a-19ab ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222), i opłaty z tytułu korzystania z terminala płatniczego wynikające z umowy najmu, dzierżawy lub innej umowy o podobnym charakterze.
+8. Przez wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego rozumie się opłaty, o których mowa w art. 2 pkt 19a-19ab ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069 oraz z 2026 r. poz. 340), i opłaty z tytułu korzystania z terminala płatniczego wynikające z umowy najmu, dzierżawy lub innej umowy o podobnym charakterze.
 
 9. Przez terminal płatniczy rozumie się urządzenie umożliwiające dokonywanie płatności bezgotówkowych z wykorzystaniem karty płatniczej lub innego instrumentu płatniczego, w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 

@@ -4,7 +4,7 @@
 
 - 1) wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
 
-- 2) opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222),
+- 2) opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889),
 
 - 3) opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania
 

@@ -12,7 +12,7 @@
 
 - 2) uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-- 3) placówki opiekuńczo-wychowawcze w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49).
+- 3) placówki opiekuńczo-wychowawcze w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301 oraz z 2026 r. poz. 187 i 203).
 
 3. Odliczenie stosuje się w przypadku, gdy przedmiotem darowizny są komputery, o których mowa w ust. 1, kompletne, zdatne do użytku i wyprodukowane nie wcześniej niż 3 lata przed dniem ich przekazania.
 

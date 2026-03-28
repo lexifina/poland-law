@@ -110,7 +110,7 @@
 
   - a) eksploatacją w transporcie międzynarodowym statków morskich lub statków powietrznych,
 
-  - b) wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
+  - b) wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69), których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
 
   - c) wykonywaniem działalności leczniczej, o której mowa w art. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
 
@@ -136,7 +136,7 @@
 
 - 12) będących instytucją finansową w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, której podstawowym przedmiotem działalności jest świadczenie usług finansowych polegających na odpłatnym nabywaniu od wierzyciela wierzytelności powstałych w wyniku zawarcia umowy sprzedaży towarów lub świadczenia usług pomiędzy tym wierzycielem a dłużnikiem;
 
-- 13) będących przedsiębiorstwami górniczymi otrzymującymi pomoc publiczną na podstawie ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383).
+- 13) będących przedsiębiorstwami górniczymi otrzymującymi pomoc publiczną na podstawie ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383 oraz z 2025 r. poz. 1822).
 
 15. Podatnicy, o których mowa w ust. 14 pkt 6, przekazują do urzędu skarbowego informację o spółkach wchodzących w roku podatkowym w skład grupy spełniającej warunki określone w tym przepisie, w terminie złożenia zeznania, o którym mowa w art. 27 ust. 1.
 
