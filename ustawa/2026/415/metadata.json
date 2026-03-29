@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/415",
+ "source_sha256": "25a81325211e8538b266c7f52d07ed326facd0552f01173c233deca8aebb2ee9",
+ "in_force": "2026-03-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/415",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/415/text/O/D20260415.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/415/text/I/D20260415.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/415/text/T/D20260415L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/415",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 415,
+  "address": "WDU20260000415",
+  "displayAddress": "Dz.U. 2026 poz. 415",
+  "title": "Ustawa z dnia 27 marca 2026 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz ustawy o Krajowej Administracji Skarbowej",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-03-28",
+  "entryIntoForce": "2026-03-29",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa",
+   "gazy techniczne",
+   "paliwa i smary",
+   "sektor naftowy",
+   "bezpieczeństwo państwa"
+  ],
+  "keywordsNames": [
+   "Krajowa Administracja Skarbowa"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2389",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2389",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2389",
+    "number": "2389",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/1947",
+     "date": "2026-03-29"
+    },
+    {
+     "id": "DU/2007/343",
+     "date": "2026-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260415.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260415.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260415L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
