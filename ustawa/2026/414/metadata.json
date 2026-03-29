@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/414",
+ "source_sha256": "d50ba9295818d2fdf27e929358cacaf31d364017d785df19ae0f59594ef4ead4",
+ "in_force": "2026-03-29",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/414",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/414/text/O/D20260414.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/414/text/I/D20260414.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/414/text/T/D20260414L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/414",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 414,
+  "address": "WDU20260000414",
+  "displayAddress": "Dz.U. 2026 poz. 414",
+  "title": "Ustawa z dnia 27 marca 2026 r. o zmianie ustawy o podatku akcyzowym",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-03-28",
+  "entryIntoForce": "2026-03-29",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek akcyzowy",
+   "akcyza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2390",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2390",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2390",
+    "number": "2390",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2009/11",
+     "date": "2026-03-29"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260414.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260414.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260414L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
