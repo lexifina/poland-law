@@ -1,0 +1,115 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/119",
+ "source_sha256": "f5d17ef38b0fe88438c5c7de5fd416e8238da20f5d8b0e38c43e985365e34b01",
+ "in_force": "2026-03-31",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/119",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/119/text/O/D20260119.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/119/text/I/D20260119.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/119/text/T/D20260119L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/119",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 119,
+  "address": "WDU20260000119",
+  "displayAddress": "Dz.U. 2026 poz. 119",
+  "title": "Ustawa z dnia 9 stycznia 2026 r. o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-09",
+  "promulgation": "2026-02-02",
+  "entryIntoForce": "2026-03-31",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "księgi wieczyste i hipoteka"
+  ],
+  "keywordsNames": [
+   "Krajowy Rejestr Sądowy"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2105",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2105",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2105",
+    "number": "2105",
+    "term": 10
+   }
+  ],
+  "comments": "art. 2 wchodzi w życie z dniem 31 maja 2026 r.",
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2024/1401",
+     "date": "2026-03-31"
+    },
+    {
+     "id": "DU/2022/1826",
+     "date": "2026-03-31"
+    },
+    {
+     "id": "DU/2017/1116",
+     "date": "2026-03-31"
+    },
+    {
+     "id": "DU/2015/1040",
+     "date": "2026-03-31"
+    },
+    {
+     "id": "DU/2014/791",
+     "date": "2026-03-31"
+    },
+    {
+     "id": "DU/2013/1412",
+     "date": "2026-03-31"
+    },
+    {
+     "id": "DU/2013/1407",
+     "date": "2026-03-31"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/769",
+     "date": "2026-05-31"
+    },
+    {
+     "id": "DU/1982/147",
+     "date": "2026-03-31"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260119.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260119.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260119L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
