@@ -4,7 +4,7 @@
 
 1. W postępowaniu o ogłoszenie upadłości uczestnik postępowania może złożyć wniosek o zatwierdzenie warunków sprzedaży przedsiębiorstwa dłużnika lub jego zorganizowanej części lub składników majątkowych stanowiących znaczną część przedsiębiorstwa na rzecz nabywcy.
 
-2. Niedopuszczalne jest złożenie wniosku o zatwierdzenie warunków sprzedaży w odniesieniu do składników majątkowych objętych zastawem rejestrowym, jeżeli umowa o ustanowienie zastawu rejestrowego przewiduje przejęcie przedmiotu zastawu albo jego sprzedaż na podstawie art. 24 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017), chyba że do wniosku zostanie dołączona pisemna zgoda zastawnika. Przepis art. 330 stosuje się odpowiednio.
+2. Niedopuszczalne jest złożenie wniosku o zatwierdzenie warunków sprzedaży w odniesieniu do składników majątkowych objętych zastawem rejestrowym, jeżeli umowa o ustanowienie zastawu rejestrowego przewiduje przejęcie przedmiotu zastawu albo jego sprzedaż na podstawie art. 24 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017 oraz z 2025 r. poz. 1792), chyba że do wniosku zostanie dołączona pisemna zgoda zastawnika. Przepis art. 330 stosuje się odpowiednio.
 
 2a. Do wniosku o zatwierdzenie warunków sprzedaży wnioskodawca załącza dowód wniesienia przez nabywcę wadium w wysokości jednej dziesiątej oferowanej ceny. W razie niezałączenia do wniosku o zatwierdzenie warunków sprzedaży dowodu wniesienia wadium wniosek ten pozostawia się bez rozpoznania.
 

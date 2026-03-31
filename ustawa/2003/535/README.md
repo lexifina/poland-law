@@ -2,5 +2,5 @@
 
 Dz.U. 2003 nr 60 poz. 535 · <https://eli.gov.pl/api/acts/DU/2003/535>
 
-Tekst jednolity: Dz.U. 2025 poz. 614 (2025-05-09), stan na 2024-11-10.
+Tekst jednolity: Dz.U. 2026 poz. 913 (2026-07-07), stan na 2026-03-31.
 
