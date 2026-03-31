@@ -58,7 +58,7 @@
 
 12. Ilekroć w ust. 1-11 jest mowa o:
 
-- 1) powierzchni użytkowej - oznacza to powierzchnię, o której mowa w art. 16 ust. 4 i 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2023 r. poz. 1774 i 1843);
+- 1) powierzchni użytkowej - oznacza to powierzchnię, o której mowa w art. 16 ust. 4 i 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn;
 
 - 2) pracach konserwatorskich - oznacza to prace konserwatorskie w rozumieniu art. 3 pkt 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 

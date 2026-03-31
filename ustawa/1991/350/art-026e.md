@@ -14,7 +14,9 @@
 
 - 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także nabycie od takiego podmiotu wyników prowadzonych przez niego badań naukowych, na potrzeby działalności badawczo-rozwojowej;
 
-- 4) odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4; 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
+- 4) odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
+
+- 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
 
 - 5) koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na:
 
@@ -52,7 +54,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a i ust. 2a i 3 w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
 
-- 2) 100% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014
+- 2) 100 % kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014
 
 - stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
@@ -60,7 +62,7 @@
 
 - 1) kosztów wskazanych w ust. 3a oraz 100% kosztów wskazanych w ust. 2 pkt 2-4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
 
-- 2) 100% kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014.
+- 2) 100 % kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014.
 
 3g. Intensywność pomocy publicznej nie może przekroczyć wartości określonych w:
 
@@ -74,7 +76,7 @@
 
 - 2) ciąży na nim obowiązek zwrotu pomocy wynikający z wcześniejszej decyzji Komisji Europejskiej uznającej pomoc za niezgodną z prawem i ze wspólnym rynkiem.
 
-3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, przed upływem terminu określonego na złożenie zeznania, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
+3i. Podatnik, o którym mowa w ust. 3a, korzystający z odliczenia, o którym mowa w ust. 1, stanowiącego pomoc publiczną, jest obowiązany do przedstawienia naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego, przed upływem terminu określonego na złożenie zeznania, informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468 i 1652).
 
 3j. Odliczenie, o którym mowa w ust. 3d, jest dokonywane w okresie stosowania rozporządzenia nr 651/2014.
 

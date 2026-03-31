@@ -34,7 +34,7 @@
 
 - 4) zwrócone podatnikowi w jakiejkolwiek formie.
 
-3a. Przepisy art. 26 ust. 5, 6, 6b, 6c, 6ea, 6eb, 6f, 7, 13b i 13c stosuje się odpowiednio.
+3a. Przepisy art. 26 ust. 5, 6, 6b, 6c, 6ea, 6eb, 6f, 7, 13b, 13c i 15 stosuje się odpowiednio.
 
 3b. Odliczenia wpłat na indywidualne konto zabezpieczenia emerytalnego, o którym mowa w ust. 2, dokonuje się w zeznaniu podatkowym.
 

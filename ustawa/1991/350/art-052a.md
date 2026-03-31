@@ -6,7 +6,7 @@
 
 - 2) dochody (przychody), o których mowa w art. 30a ust. 1 pkt 3, jeżeli są wypłacane albo stawiane do dyspozycji podatnika od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem;
 
-- 3) dochody z tytułu udziału w funduszach kapitałowych, o których mowa w art. 30a ust. 1 pkt 5, jeżeli dochody te są wypłacane podatnikowi na podstawie umów zawartych lub zapisów dokonanych przez podatnika przed dniem 1 grudnia 2001 r.; zwolnienie nie dotyczy dochodów uzyskanych w związku z przystąpieniem podatnika do programu oszczędzania z funduszem kapitałowym, bez względu na formę tego programu - w zakresie dochodów z tytułu wpłat (wkładów) do funduszu dokonanych począwszy od dnia 1 grudnia 2001 r., z zastrzeżeniem art. 21 ust. 1 pkt 58 i 59.
+- 3) dochody z tytułu udziału w funduszach kapitałowych, o których mowa w art. 30a ust. 1 pkt 5 i art. 30b ust. 1 pkt 5, jeżeli dochody te są wypłacane podatnikowi na podstawie umów zawartych lub zapisów dokonanych przez podatnika przed dniem 1 grudnia 2001 r.; zwolnienie nie dotyczy dochodów uzyskanych w związku z przystąpieniem podatnika do programu oszczędzania z funduszem kapitałowym, bez względu na formę tego programu - w zakresie dochodów z tytułu wpłat (wkładów) do funduszu dokonanych począwszy od dnia 1 grudnia 2001 r., z zastrzeżeniem art. 21 ust. 1 pkt 58 i 59.
 
 - 4) (uchylony)
 

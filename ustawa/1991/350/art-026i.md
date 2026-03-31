@@ -1,6 +1,6 @@
 # Art. 26i.
 
-1. Podstawa obliczenia podatku ustalona zgodnie z art. 26 ust. 1, art. 30c ust. 2 lub art. 30ca ust. 3 oraz po uprzednim odliczeniu kwot określonych w art. 26e, art. 26ga, art. 26gb, art. 26h-26hd i art. 52jb:
+1. Podstawa obliczenia podatku ustalona zgodnie z art. 26 ust. 1, art. 30c ust. 2 lub art. 30ca ust. 3 oraz po uprzednim odliczeniu kwot określonych w art. 26e, art. 26ga, art. 26gb, art. 26h-26he i art. 52jb:
 
 - 1) może być zmniejszona o zaliczaną do przychodów należnych wartość wierzytelności o zapłatę świadczenia pieniężnego w rozumieniu art. 4 pkt 1a ustawy o przeciwdziałaniu nadmiernym opóźnieniom, która nie została uregulowana lub zbyta, przy czym zmniejszenia dokonuje się w zeznaniu podatkowym składanym za rok podatkowy, w którym upłynęło 90 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie;
 
@@ -51,3 +51,11 @@
 18. Przepisów ust. 1 i 2 nie stosuje się do transakcji handlowych dokonywanych między podmiotami powiązanymi w rozumieniu art. 23m ust. 1 pkt 4.
 
 19. (uchylony)
+
+20. Przepisy ust. 1-18 nie mają zastosowania do należności i zobowiązań podlegających zaliczeniu odpowiednio do:
+
+- 1) przychodów w dacie uregulowania należności zgodnie z art. 14c ust. 2, z wyjątkiem przypadku, gdy należności te podlegają zaliczeniu do przychodów w dacie określonej zgodnie z art. 14c ust. 2 pkt 1 i 2, oraz
+
+- 2) kosztów uzyskania przychodów zgodnie z art. 22 ust. 4a i 4b.
+
+21. W przypadku należności podlegających zaliczeniu do przychodów w dacie określonej zgodnie z art. 14c ust. 2 pkt 1 i 2 zmniejszenia podstawy obliczenia podatku lub zwiększenia straty podatnik dokonuje w zeznaniu podatkowym składanym za rok podatkowy, w którym ustalił przychód w tej dacie. Przepisu ust. 10 pkt 2 nie stosuje się.

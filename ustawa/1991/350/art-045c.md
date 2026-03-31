@@ -8,7 +8,7 @@
 
 - po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
 
-2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2023 r. poz. 1640) za traktowanie przesyłki listowej jako przesyłki poleconej.
+2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, niepóźniej niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) za traktowanie przesyłki listowej jako przesyłki poleconej.
 
 3. Za wniosek uważa się wskazanie przez podatnika w zeznaniu podatkowym albo w korekcie zeznania, o których mowa w ust. 1, jednej organizacji pożytku publicznego poprzez podanie jej numeru wpisu do Krajowego Rejestru Sądowego oraz kwoty do przekazania na rzecz tej organizacji, w wysokości nieprzekraczającej 1,5% podatku należnego.
 

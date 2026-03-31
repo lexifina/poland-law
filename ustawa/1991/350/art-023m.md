@@ -22,9 +22,9 @@
 
   - c) spółkę niebędącą osobą prawną i jej wspólnika, lub
 
-  ca) spółkę, o której mowa w art. 5a pkt 28 lit. c, i jej komplementariusza, lub
+  - ca) spółkę, o której mowa w art. 5a pkt 28 lit. c, i jej komplementariusza, lub
 
-  cb) spółkę, o której mowa w art. 5a pkt 28 lit. e, i jej wspólnika, lub
+  - cb) spółkę, o której mowa w art. 5a pkt 28 lit. e, i jej wspólnika, lub
 
   - d) podatnika i jego zagraniczny zakład;
 

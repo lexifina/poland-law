@@ -76,7 +76,7 @@
 
   - a) w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50% udziałów w kapitale lub ponad 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50% prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
 
-  - b) dochód jednostki przekracza dochód obliczony według wzoru: \( (b + c + d) \times 20\% \) w którym poszczególne litery oznaczają: b - wartość bilansową aktywów jednostki, c - roczne koszty zatrudnienia jednostki, d - zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
+  - b) dochód jednostki przekracza dochód obliczony według wzoru: (b + c + d) × 20 % w którym poszczególne litery oznaczają: b - wartość bilansową aktywów jednostki, c - roczne koszty zatrudnienia jednostki, d - zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
 
   - c) mniej niż 75% przychodów tej jednostki pochodzi z transakcji dokonywanych z podmiotami niepowiązanymi mającymi miejsce zamieszkania, siedzibę, zarząd, rejestrację lub położenie w tym samym państwie co ta jednostka,
 

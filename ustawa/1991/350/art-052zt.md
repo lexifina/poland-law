@@ -1,0 +1,3 @@
+# Art. 52zt.
+
+Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.

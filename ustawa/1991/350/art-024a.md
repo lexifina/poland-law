@@ -10,6 +10,14 @@
 
 1d. W przypadku prowadzenia przez zmarłego przedsiębiorcę ewidencji środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 22n, przedsiębiorstwo w spadku kontynuuje prowadzenie tej ewidencji.
 
+1da. Podatnicy są obowiązani prowadzić ewidencję faktur dokumentujących przychody rozliczane metodą kasową, o której mowa w art. 14c. Ewidencja ta zawiera datę wystawienia faktury, numer faktury, kwotę należności wynikającą z faktury oraz datę uregulowania należności.
+
+1db. Przedsiębiorstwo w spadku kontynuuje po zmarłym przedsiębiorcy prowadzenie ewidencji faktur, o której mowa w ust. 1da.
+
+1e. Podmioty, o których mowa w ust. 1 i ust. 2 pkt 2 oraz art. 15 ust. 2, prowadzące księgę, księgi rachunkowe lub ewidencję środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić te księgi i ewidencję przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego te księgi i ewidencję po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 45 ust. 1, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.
+
+1f. W przypadku spółki niebędącej osobą prawną księga, księgi rachunkowe lub ewidencja środków trwałych oraz wartości niematerialnych i prawnych są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu - naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca zamieszkania jednego ze wspólników.
+
 2. Obowiązek prowadzenia księgi dotyczy również osób:
 
 - 1) wykonujących działalność na podstawie umów agencyjnych i umów na warunkach zlecenia, zawartych na podstawie odrębnych przepisów;
@@ -58,4 +66,12 @@
 
 6. Wyrażone w euro wielkości, o których mowa w ust. 4, 4b, 4c, 4e, 4f i 5, przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.
 
-7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób prowadzenia podatkowej księgi przychodów i rozchodów, szczegółowe warunki, jakim powinna odpowiadać ta księga, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, w celu umożliwienia wykorzystania tej księgi jako dowodu pozwalającego na określenie zobowiązań podatkowych w prawidłowej wysokości.
+7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki, jakim powinna odpowiadać podatkowa księga przychodów i rozchodów, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, w celu umożliwienia wykorzystania tej księgi jako dowodu pozwalającego na określenie zobowiązań podatkowych w prawidłowej wysokości.
+
+8. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
+
+- 1) zakres dodatkowych danych, o które należy uzupełnić prowadzone księgi i ewidencję podlegające przekazaniu na podstawie ust. 1e, oraz sposób ich wykazywania w tych księgach i ewidencji,
+
+- 2) grupy podmiotów zwolnionych z obowiązku prowadzenia księgi, ksiąg rachunkowych i ewidencji środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania księgi, ksiąg rachunkowych w całości albo części lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych na podstawie ust. 1e
+
+uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku, lub narażonych na te nadużycia oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ksiąg i ewidencji.
