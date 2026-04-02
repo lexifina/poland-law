@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/445",
+ "source_sha256": "3f24634b158c1a869d7f669bd1bb96fec2f49733f879a8bfa66a305c5ed8197c",
+ "in_force": "2026-04-02",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/445",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/445/text/O/D20260445.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/445/text/I/D20260445.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/445/text/T/D20260445L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/445",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 445,
+  "address": "WDU20260000445",
+  "displayAddress": "Dz.U. 2026 poz. 445",
+  "title": "Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw oraz ustawy - Prawo wodne",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-27",
+  "promulgation": "2026-04-01",
+  "entryIntoForce": "2026-04-02",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "klęski żywiołowe",
+   "wodne prawo",
+   "powodzie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2223",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2223",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2223",
+    "number": "2223",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2025/680",
+     "date": "2026-04-02"
+    },
+    {
+     "id": "DU/2017/1566",
+     "date": "2026-04-02"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260445.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260445.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260445L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
