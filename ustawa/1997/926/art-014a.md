@@ -20,6 +20,8 @@
 
 § 1b. Z wnioskiem o wydanie interpretacji ogólnej nie może wystąpić organ administracji publicznej.
 
+§ 1c. Wniosek o wydanie interpretacji ogólnej nie może dotyczyć przepisów ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685 oraz z 2026 r. poz. 347), zwanej dalej „ustawą o opodatkowaniu wyrównawczym”.
+
 § 2. Wniosek o wydanie interpretacji ogólnej powinien zawierać uzasadnienie konieczności wydania interpretacji ogólnej, w szczególności:
 
 - 1) przedstawienie zagadnienia oraz wskazanie przepisów prawa podatkowego wymagających wydania interpretacji ogólnej;

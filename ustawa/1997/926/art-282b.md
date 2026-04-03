@@ -16,6 +16,10 @@
 
 - 4) wskazanie zakresu kontroli;
 
+- 4a) wstępną listę dokumentów i informacji związanych z zakresem przedmiotowym kontroli, których udostępnienia oczekuje organ podatkowy w trakcie kontroli;
+
+- 4b) w przypadku kontroli planowej - informację o kategorii ryzyka, o której mowa w art. 47 ust. 1 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców;
+
 - 5) pouczenie o prawie złożenia korekty deklaracji;
 
 - 6) podpis osoby upoważnionej do zawiadomienia.

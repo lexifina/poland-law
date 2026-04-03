@@ -28,4 +28,4 @@
 
 § 4. Szef Krajowej Administracji Skarbowej może zwrócić się o wyjaśnienie wątpliwości co do danych zawartych we wniosku lub zorganizować spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
 
-§ 5. Ze spotkania uzgodnieniowego sporządza się protokół. Przebieg spotkania uzgodnieniowego może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
+§ 5. Ze spotkania uzgodnieniowego sporządza się protokół.

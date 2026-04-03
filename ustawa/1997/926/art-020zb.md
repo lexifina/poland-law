@@ -8,6 +8,8 @@ Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym str
 
 - 1) interpretacji przepisów prawa podatkowego;
 
+- 1a) opinii w sprawie opodatkowania wyrównawczego;
+
 - 2) ustalania cen transferowych;
 
 - 3) braku zasadności zastosowania art. 119a § 1;

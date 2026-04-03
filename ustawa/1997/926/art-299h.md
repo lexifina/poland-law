@@ -1,0 +1,5 @@
+# Art. 299h.
+
+§ 1. Szef Krajowej Administracji Skarbowej udostępnia organom Państwowej Inspekcji Ochrony Roślin i Nasiennictwa nieodpłatnie, w drodze teletransmisji bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie, faktury ustrukturyzowane, o których mowa w art. 2 pkt 32a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1 tej ustawy, po przesłaniu ich do Krajowego Systemu e-Faktur, oraz faktury VAT RR i faktury VAT RR KOREKTA, o których mowa w art. 116 ust. 3b i 3c tej ustawy, wystawione przy użyciu Krajowego Systemu e-Faktur oraz inne dane wynikające z Krajowego Systemu e-Faktur w celu realizacji zadań wynikających z ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. z 2023 r. poz. 1992 oraz z 2025 r. poz. 1709).
+
+§ 2. Sposób udostępniania faktur, o których mowa w § 1, określa porozumienie zawarte pomiędzy Szefem Krajowej Administracji Skarbowej a Głównym Inspektorem Ochrony Roślin i Nasiennictwa.

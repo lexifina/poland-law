@@ -8,7 +8,7 @@
 
 - 3) ministrowi właściwemu do spraw wewnętrznych - w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego,
 
-- 3a) ministrowi właściwemu do spraw informatyzacji - w zakresie niezbędnym do zapewnienia funkcjonowania usług dostępnych w e-Urzędzie Skarbowym udostępnianych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717),
+- 3a) ministrowi właściwemu do spraw informatyzacji - w zakresie niezbędnym do zapewnienia funkcjonowania usług dostępnych w e-Urzędzie Skarbowym udostępnianych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019),
 
 - 4) Policji - w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 6 kwietnia 1990 r. o Policji,
 
@@ -16,9 +16,9 @@
 
 - 6) ministrowi właściwemu do spraw zagranicznych - w zakresie niezbędnym do podejmowania środków ograniczających w związku z działaniami destabilizującymi sytuację w Ukrainie,
 
-- 7) prokuratorowi - w zakresie niezbędnym do realizacji zadań określonych w art. 3 § 1 pkt 1 i 8 ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390),
+- 7) prokuratorowi - w zakresie niezbędnym do realizacji zadań określonych w art. 3 § 1 pkt 1 i 8 ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390, z 2025 r. poz. 304 i 1178 oraz z 2026 r. poz. 26 i 370),
 
-- 8) Przewodniczącemu Komisji Nadzoru Finansowego - w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym
+- 8) Przewodniczącemu Komisji Nadzoru Finansowego - w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym,
 
 - dane niezawarte w aktach spraw podatkowych inne niż określone w art. 297c, jeżeli znajdują się w Centralnym Rejestrze Danych Podatkowych.
 

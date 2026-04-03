@@ -20,6 +20,8 @@
 
   - d) środki ograniczające umowne korzyści;
 
+- 3) dotyczące globalnego podatku wyrównawczego, krajowego podatku wyrównawczego oraz podatku wyrównawczego od niedostatecznie opodatkowanych zysków, o których mowa w ustawie o opodatkowaniu wyrównawczym.
+
 § 3. Składający wniosek o wydanie interpretacji indywidualnej obowiązany jest do wyczerpującego przedstawienia zaistniałego stanu faktycznego albo zdarzenia przyszłego oraz do przedstawienia własnego stanowiska w sprawie oceny prawnej tego stanu faktycznego albo zdarzenia przyszłego.
 
 § 3a. W przypadku gdy przedstawiony we wniosku o wydanie interpretacji indywidualnej stan faktyczny lub zdarzenie przyszłe obejmuje transakcję, zespół transakcji lub inne zdarzenia:
@@ -32,15 +34,21 @@
 
   - c) będących stronami transakcji, zespołu transakcji lub uczestnikami zdarzenia mającymi miejsce zamieszkania, siedzibę lub zarząd w więcej niż jednym państwie lub terytorium, lub
 
-- 2) mające skutki transgraniczne
+- 2) mające skutki transgraniczne, lub
 
-- składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić.
+- 3) dotyczące osoby fizycznej, jeżeli:
 
-§ 3b. Obowiązek, o którym mowa w § 3a, nie obejmuje wniosków o wydanie interpretacji indywidualnej:
+  - a) wniosek zawiera stanowisko w sprawie oceny prawnej zaistniałego stanu faktycznego albo zdarzenia przyszłego w zakresie rezydencji podatkowej tej osoby fizycznej w Rzeczypospolitej Polskiej oraz jednocześnie nie zawiera oceny prawnej wnioskodawcy w zakresie opodatkowania u źródła dochodów nierezydentów z tytułów wymienionych w art. 15 ust. 1 pkt 1-7 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2025 r. poz. 1379 oraz z 2026 r. poz. 347), lub
 
-- 1) dotyczących wyłącznie indywidualnej sprawy osoby fizycznej;
+  - b) wartość transakcji lub zespołu transakcji objętych wnioskiem przekracza równowartość 1 500 000 euro - w przypadku gdy wartość transakcji lub zespołu transakcji ma wpływ na ocenę prawną przedstawioną we wniosku, a transakcja lub zespół transakcji spełniają co najmniej jeden z warunków określonych w pkt 1 lit. a-c lub pkt 2
 
-- 2) w zakresie podatku akcyzowego oraz podatku od towarów i usług.
+- składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub wskazania państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić oraz odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, a w przypadku, o którym mowa w pkt 3 - również danych identyfikujących tę osobę fizyczną.
+
+§ 3b. Obowiązek, o którym mowa w § 3a, nie obejmuje wniosków o wydanie interpretacji indywidualnej w zakresie podatku akcyzowego oraz podatku od towarów i usług.
+
+§ 3c. W przypadku zespołu transakcji dotyczących różnych towarów, usług lub aktywów kwota, o której mowa w § 3a pkt 3 lit. b, obejmuje całkowitą wartość transakcji, przy czym kwot zespołu transakcji nie sumuje się, jeżeli te same towary, usługi lub aktywa są przedmiotem wielu transakcji.
+
+§ 3d. Jeżeli przepisy odrębne nie stanowią inaczej, w celu ustalenia wartości transakcji lub zespołu transakcji, o której mowa w § 3a pkt 3 lit. b, kwoty wyrażone w walucie innej niż euro przelicza się na euro według średniego kursu wymiany tych walut ogłoszonego przez Narodowy Bank Polski na dzień złożenia wniosku.
 
 § 4. Wnioskujący o wydanie interpretacji indywidualnej składa oświadczenie pod rygorem odpowiedzialności karnej za fałszywe zeznania, że elementy stanu faktycznego objęte wnioskiem o wydanie interpretacji w dniu złożenia wniosku nie są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej oraz że w tym zakresie sprawa nie została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego. W razie złożenia fałszywego oświadczenia wydana interpretacja indywidualna nie wywołuje skutków prawnych.
 

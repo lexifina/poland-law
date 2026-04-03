@@ -6,6 +6,8 @@ Porozumienie inwestycyjne może obejmować:
 
 - 2) ocenę, że do korzyści podatkowej wskazanej we wniosku o zawarcie porozumienia inwestycyjnego nie ma zastosowania przepis art. 119a § 1, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 119x § 1 i 2, art. 119y § 1 i 2 oraz art. 119za pkt 1 i 2;
 
+- 2a) opinię w sprawie opodatkowania wyrównawczego, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14t oraz art. 14u § 1, 2 i 10;
+
 - 3) klasyfikację i rodzaj wyrobu akcyzowego lub klasyfikację samochodu osobowego - w układzie odpowiadającym Nomenklaturze Scalonej (CN), przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 7e ust. 2 i 3 oraz art. 7f ust. 1-3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
 
 - 4) opis i klasyfikację towaru lub usługi oraz właściwą stawkę podatku, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 42b ust. 2 pkt 1-3, ust. 4, 5 i 7 oraz art. 42e ust. 1-3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;

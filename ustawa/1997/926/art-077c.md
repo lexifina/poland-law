@@ -4,6 +4,6 @@
 
 § 2. Przepis § 1 stosuje się odpowiednio do nadpłat wynikających:
 
-- 1) z decyzji, w tym do nadpłat podatku rolnego zwracanych podatnikom, którzy złożyli wniosek wskazany w art. 6d ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176, 1635 i 1757);
+- 1) z decyzji, w tym do nadpłat podatku rolnego zwracanych podatnikom, którzy złożyli wniosek wskazany w art. 6d ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2025 r. poz. 1344);
 
 - 2) z korekt deklaracji na podatek rolny zwracanych podatnikom, którzy złożyli wniosek, o którym mowa w art. 6d ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym.

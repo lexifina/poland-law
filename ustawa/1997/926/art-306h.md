@@ -8,7 +8,7 @@
 
 - 3) małżonka podatnika, z zastrzeżeniem § 2, a także rozwiedzionego małżonka w zakresie zaległości powstałych w czasie trwania wspólności majątkowej oraz innych osób wymienionych w art. 111;
 
-- 4) wspólnika spółek wymienionych w art. 115 § 1.
+- 4) wspólnika spółek wymienionych w art. 115 § 1;
 
 § 2. Zgoda podatnika nie jest wymagana, jeżeli z żądaniem wydania zaświadczenia, o którym mowa w § 1, występuje małżonek podatnika pozostający z nim we wspólności majątkowej. Małżonek podatnika składa oświadczenie o pozostawaniu z podatnikiem we wspólności majątkowej pod rygorem odpowiedzialności karnej za fałszywe zeznania.
 

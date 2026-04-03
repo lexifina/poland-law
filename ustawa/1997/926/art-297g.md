@@ -4,6 +4,6 @@ Informacje przekazane przez inwestora w toku zawierania, zmiany lub wypowiadania
 
 - 1) organom wymienionym w art. 297 § 1 pkt 1, 2a, 3 i 7-9 na zasadach określonych w tych przepisach;
 
-- 2) Dyrektorowi Krajowej Informacji Skarbowej w zakresie, w jakim jest to niezbędne do wydania przez ministra właściwego do spraw finansów publicznych opinii, o której mowa w art. 14b § 5f pkt 1;
+- 2) Dyrektorowi Krajowej Informacji Skarbowej w zakresie, w jakim jest to niezbędne do wydania przez ministra właściwego do spraw finansów publicznych opinii, o której mowa w art. 14b § 5f pkt 1, i stanowiska, o którym mowa w art. 14u § 9 pkt 1;
 
 - 3) wójtowi, burmistrzowi (prezydentowi miasta), staroście lub marszałkowi województwa w zakresie określonym w art. 20zu § 5.
