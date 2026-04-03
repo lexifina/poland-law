@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/370",
+ "source_sha256": "b521348c5808d3fa78c7252720050b28a0b1bb760d9d4c4dc492bcb5ad68e31e",
+ "in_force": "2026-04-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/370",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/370/text/O/D20260370.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/370/text/I/D20260370.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/370/text/T/D20260370L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/370",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 370,
+  "address": "WDU20260000370",
+  "displayAddress": "Dz.U. 2026 poz. 370",
+  "title": "Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-27",
+  "promulgation": "2026-03-19",
+  "entryIntoForce": "2026-04-03",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. SPRAWIEDLIWOŚCI"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "adwokatura",
+   "szkolnictwo wyższe",
+   "sądy powszechne",
+   "radcy prawni",
+   "notariat",
+   "prokuratura"
+  ],
+  "keywordsNames": [
+   "Prokuratoria Generalna Rzeczypospolitej Polskiej",
+   "Krajowa Szkoła Sądownictwa i Prokuratury"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1204",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1204",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1204",
+    "number": "1204",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2018/1668",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/2016/2261",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/2016/177",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/2009/157",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/2001/1070",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/1991/91",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/1982/145",
+     "date": "2026-04-03"
+    },
+    {
+     "id": "DU/1982/124",
+     "date": "2026-04-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260370.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260370.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260370L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
