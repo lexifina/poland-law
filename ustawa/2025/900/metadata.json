@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/900",
+ "source_sha256": "ba659afa1a1b0be9be5bc8b57327351b898fa0434ee294ec83672367d594ec01",
+ "in_force": "2026-04-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/900",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/900/text/O/D20250900.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/900/text/I/D20250900.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/900/text/T/D20250900L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/900",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 900,
+  "address": "WDU20250000900",
+  "displayAddress": "Dz.U. 2025 poz. 900",
+  "title": "Ustawa z dnia 4 czerwca 2025 r. o zmianie ustawy o ochotniczych strażach pożarnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-06-04",
+  "promulgation": "2025-07-07",
+  "entryIntoForce": "2026-04-08",
+  "changeDate": "2026-10-06T12:29:57",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochotnicza straż pożarna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1142",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1142",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1142",
+    "number": "1142",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2021/2490",
+     "date": "2026-04-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20250900.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20250900.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20250900L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
