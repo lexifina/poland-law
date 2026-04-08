@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/485",
+ "source_sha256": "93f7ede9617a671818a7f1263b88a32aeb7aa951e66d589b9e4b12394b0b9ce1",
+ "in_force": "2026-04-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/485",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/485/text/O/D20260485.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/485/text/I/D20260485.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/485",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 485,
+  "address": "WDU20260000485",
+  "displayAddress": "Dz.U. 2026 poz. 485",
+  "title": "Obwieszczenie Ministra Zdrowia z dnia 24 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego dotyczącego oddziaływań terapeutycznych skierowanych do osób z doświadczeniem traumy",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-24",
+  "promulgation": "2026-04-08",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MIN. ZDROWIA"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "opieka zdrowotna",
+   "ochrona zdrowia psychicznego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/843",
+     "date": "2026-06-23"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2022/2805"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260485.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260485.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
