@@ -1,0 +1,105 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/490",
+ "source_sha256": "04a54c5c77f08f84cea2c5ac03fce0851c5a269fd6db972093763f6f4e792010",
+ "in_force": "2026-04-09",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/490",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/490/text/O/D20260490.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/490/text/I/D20260490.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/490/text/T/D20260490L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/490/text/U/D20260490Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/490",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 490,
+  "address": "WDU20260000490",
+  "displayAddress": "Dz.U. 2026 poz. 490",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks postępowania karnego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-04-09",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego",
+   "karne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/901",
+     "date": "2026-06-11"
+    },
+    {
+     "id": "DU/2026/882",
+     "date": "2026-05-15"
+    },
+    {
+     "id": "DU/2026/760",
+     "date": "2026-05-15"
+    },
+    {
+     "id": "DU/2026/638",
+     "date": "2026-03-27"
+    },
+    {
+     "id": "DU/2026/421",
+     "date": "2026-02-13"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/555"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260490.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260490.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260490L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260490Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
