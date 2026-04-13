@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/508",
+ "source_sha256": "4a7beae709e0283a7461223e17ad001b90fa0825f8f91a7606157dd41b87f286",
+ "in_force": "2026-04-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/508",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/508/text/O/D20260508.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/508/text/I/D20260508.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/508/text/T/D20260508L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/508",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 508,
+  "address": "WDU20260000508",
+  "displayAddress": "Dz.U. 2026 poz. 508",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w wychowywaniu dzieci",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-04-13",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "dzieci",
+   "pomoc dla rodzin"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2016/195"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260508.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260508.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260508L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
