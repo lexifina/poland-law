@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/511",
+ "source_sha256": "a56b1b3a495876d2bf5f44dfb5612e4e86048b039ef6832c0bf6c31666121fe2",
+ "in_force": "2026-04-14",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/511",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/511/text/O/D20260511.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/511/text/I/D20260511.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/511/text/T/D20260511L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/511/text/U/D20260511Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/511",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 511,
+  "address": "WDU20260000511",
+  "displayAddress": "Dz.U. 2026 poz. 511",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-04-14",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "pomoc finansowa",
+   "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/986",
+     "date": "2026-06-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/1844"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260511.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260511.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260511L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260511Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
