@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2026/515",
- "source_sha256": "08e20c49474e8cb48b4547074446d7b546a7299daa7a0510187bce9c9facf256",
+ "source_sha256": "32a66ee2b9c808b5ae5b8cc7e0bbac06bcfc2424148cf1f822c37479dd16bd53",
  "in_force": "2026-04-14",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -10,7 +10,8 @@
   "metadata": "https://eli.gov.pl/api/acts/DU/2026/515",
   "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/515/text/O/D20260515.pdf",
   "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/515/text/I/D20260515.pdf",
-  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/515/text/T/D20260515L.pdf"
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/515/text/T/D20260515L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/515/text/U/D20260515Lj.pdf"
  },
  "metadata": {
   "ELI": "DU/2026/515",
@@ -26,7 +27,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-03-12",
   "promulgation": "2026-04-14",
-  "changeDate": "2026-10-26T10:02:14",
+  "changeDate": "2026-11-26T15:51:08",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -73,6 +74,10 @@
    {
     "fileName": "D20260515L.pdf",
     "type": "T"
+   },
+   {
+    "fileName": "D20260515Lj.pdf",
+    "type": "U"
    }
   ]
  }
