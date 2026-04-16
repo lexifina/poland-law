@@ -1,0 +1,100 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/524",
+ "source_sha256": "0ae6f3d943eba8e384dc262aac5eeddc944bcc3cc19cbc90f7223d57c005ccd0",
+ "in_force": "2026-04-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/524",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/524/text/O/D20260524.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/524/text/I/D20260524.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/524/text/T/D20260524L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/524/text/U/D20260524Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/524",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 524,
+  "address": "WDU20260000524",
+  "displayAddress": "Dz.U. 2026 poz. 524",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo budowlane",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-04-16",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budowlane prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/646",
+     "date": "2026-04-17"
+    },
+    {
+     "id": "DU/2026/605",
+     "date": "2026-03-13"
+    },
+    {
+     "id": "DU/2026/1347",
+     "date": "2026-09-04"
+    },
+    {
+     "id": "DU/2026/1161",
+     "date": "2026-07-31"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1994/414"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260524.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260524.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260524L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260524Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
