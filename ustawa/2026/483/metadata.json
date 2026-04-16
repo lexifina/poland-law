@@ -1,0 +1,109 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/483",
+ "source_sha256": "1f35140996f61e877b31d608c2d7c6347b5b4925b042bf1270fd55efa34c1fb4",
+ "in_force": "2026-04-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/483",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/483/text/O/D20260483.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/483/text/I/D20260483.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/483/text/T/D20260483L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/483",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 483,
+  "address": "WDU20260000483",
+  "displayAddress": "Dz.U. 2026 poz. 483",
+  "title": "Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o Krajowej Administracji Skarbowej",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-13",
+  "promulgation": "2026-04-08",
+  "entryIntoForce": "2026-04-16",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kultura i sztuka",
+   "zabytki"
+  ],
+  "keywordsNames": [
+   "Krajowa Administracja Skarbowa"
+  ],
+  "directives": [
+   {
+    "address": "32013R0952",
+    "date": "2013-10-09",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny"
+   },
+   {
+    "address": "32013R0952R(01)",
+    "date": "2013-10-09",
+    "title": "Sprostowanie do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (wersja przekształcona)"
+   },
+   {
+    "address": "32009R0116",
+    "date": "2008-12-18",
+    "title": "ROZPORZĄDZENIE RADY (WE) NR 116/2009 z dnia 18 grudnia 2008 r. w sprawie wywozu dóbr kultury (Wersja skodyfikowana)"
+   },
+   {
+    "address": "32021R1079",
+    "date": "2021-06-24",
+    "title": "Rozporządzenie wykonawcze Komisji (UE) 2021/1079 z dnia 24 czerwca 2021 r. ustanawiające szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/880 w sprawie wprowadzania i przywozu dóbr kultury"
+   },
+   {
+    "address": "32019R0880",
+    "date": "2019-04-17",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/880 z dnia 17 kwietnia 2019 r. w sprawie wprowadzania i przywozu dóbr kultury"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2160",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2160",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2160",
+    "number": "2160",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2016/1947",
+     "date": "2026-04-16"
+    },
+    {
+     "id": "DU/2003/1568",
+     "date": "2026-04-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260483.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260483.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260483L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
