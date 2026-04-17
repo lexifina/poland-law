@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/529",
+ "source_sha256": "7e168e6e7a7e039ef51acc970728fa62b57855cb7f7862dc6662da067e214d30",
+ "in_force": "2026-04-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/529",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/529/text/O/D20260529.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/529/text/I/D20260529.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/529/text/T/D20260529L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/529",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 529,
+  "address": "WDU20260000529",
+  "displayAddress": "Dz.U. 2026 poz. 529",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie morskim",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-04-17",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "morza",
+   "żeglarstwo",
+   "bezpieczeństwo żeglugi i wypadki morskie",
+   "żegluga morska",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/1368"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260529.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260529.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260529L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
