@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/546",
+ "source_sha256": "754f16e5b0ba1234f16170be4380307cc793065505205ca02ea3b598d77c0776",
+ "in_force": "2026-04-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/546",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/546/text/O/D20260546.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/546/text/I/D20260546.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/546/text/T/D20260546L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/546",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 546,
+  "address": "WDU20260000546",
+  "displayAddress": "Dz.U. 2026 poz. 546",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-04-17",
+  "promulgation": "2026-04-22",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa",
+   "rolnictwo",
+   "produkcja",
+   "podatek akcyzowy",
+   "oleje"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32003L0096",
+    "date": "2003-10-27",
+    "title": "DYREKTYWA RADY 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/379"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260546.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260546.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260546L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
