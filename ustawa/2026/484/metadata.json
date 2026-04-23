@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/484",
+ "source_sha256": "4cb86fdeee4f9553207f9cf7a5651358e27e85ff355606f32c974b2ed91849ff",
+ "in_force": "2026-04-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/484",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/484/text/O/D20260484.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/484/text/I/D20260484.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/484/text/T/D20260484L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/484",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 484,
+  "address": "WDU20260000484",
+  "displayAddress": "Dz.U. 2026 poz. 484",
+  "title": "Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz ustawy o obrocie instrumentami finansowymi",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-27",
+  "promulgation": "2026-04-08",
+  "entryIntoForce": "2026-04-23",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "fundusz inwestycyjny",
+   "instrumenty finansowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2163",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2163",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2163",
+    "number": "2163",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2005/1538",
+     "date": "2026-04-23"
+    },
+    {
+     "id": "DU/2004/1546",
+     "date": "2026-04-23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260484.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260484.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260484L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
