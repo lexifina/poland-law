@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/584",
+ "source_sha256": "9a82a8e8262ee4535333a3cb87b1427dfcec0deeb6dde25caed192da7b304fb7",
+ "in_force": "2026-04-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/584",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/584/text/O/D20260584.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/584/text/I/D20260584.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/584/text/T/D20260584L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/584",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 584,
+  "address": "WDU20260000584",
+  "displayAddress": "Dz.U. 2026 poz. 584",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie fizjoterapeuty",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-04-17",
+  "promulgation": "2026-04-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia lecznicze",
+   "fizjoterapeuci",
+   "działalność lecznicza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/1994"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260584.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260584.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260584L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
