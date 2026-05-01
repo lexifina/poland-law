@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/436",
+ "source_sha256": "97fda3b1491e4a3787aa8fceb184f0820d4e91bb3ccb153b9a95eb2712231cb3",
+ "in_force": "2026-05-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/436",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/436/text/O/D20260436.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/436/text/I/D20260436.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/436/text/T/D20260436L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/436",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 436,
+  "address": "WDU20260000436",
+  "displayAddress": "Dz.U. 2026 poz. 436",
+  "title": "Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-13",
+  "promulgation": "2026-03-31",
+  "entryIntoForce": "2026-05-01",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "klęski żywiołowe",
+   "budowlane prawo",
+   "inwestycje",
+   "powodzie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1816",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1816",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1816",
+    "number": "1816",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2010/963",
+     "date": "2026-05-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260436.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260436.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260436L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
