@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/632",
+ "source_sha256": "225379d0f6f3dc22ff95ef6b4bbeca03c816271933186a400d10012c52b66cf8",
+ "in_force": "2026-05-13",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/632",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/632/text/O/D20260632.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/632/text/I/D20260632.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/632/text/T/D20260632L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/632",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 632,
+  "address": "WDU20260000632",
+  "displayAddress": "Dz.U. 2026 poz. 632",
+  "title": "Ustawa z dnia 17 kwietnia 2026 r. o zmianie ustawy o Funduszu Ochrony Rolnictwa",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-04-17",
+  "promulgation": "2026-05-12",
+  "entryIntoForce": "2026-05-13",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rolnictwo"
+  ],
+  "keywordsNames": [
+   "Fundusz Ochrony Rolnictwa"
+  ],
+  "directives": [
+   {
+    "address": "32013R1408",
+    "date": "2013-12-18",
+    "title": "Rozporządzenie Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym"
+   },
+   {
+    "address": "32023R2831",
+    "date": "2023-12-13",
+    "title": "Rozporządzenie Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2295",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2295",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2295",
+    "number": "2295",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/1130",
+     "date": "2026-05-13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260632.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260632.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260632L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
