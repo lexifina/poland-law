@@ -1,0 +1,67 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2026/465",
+ "source_sha256": "b20bba31160e8b0d1a0c63db3bc0c7fde39afab3a9f97ecabd0acc81080fc979",
+ "in_force": "2026-05-13",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/465",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/465/text/O/M20260465.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/465/text/I/M20260465.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2026/465",
+  "publisher": "MP",
+  "year": 2026,
+  "volume": 0,
+  "pos": 465,
+  "address": "WMP20260000465",
+  "displayAddress": "M.P. 2026 poz. 465",
+  "title": "Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 maja 2026 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 32 z siedzibą Okręgowej Komisji Wyborczej w Katowicach",
+  "type": "Postanowienie",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-13",
+  "promulgation": "2026-05-13",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "mandaty poselskie i senatorskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2011/112"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2011/112",
+     "art": "art. 251 par. 5"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20260465.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20260465.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
