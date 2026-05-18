@@ -1,0 +1,91 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/180",
+ "source_sha256": "b920d357bda11a91eaef3563bc5db21bd95a7ccd5e9cdbb4f93eded9fe9a1a2a",
+ "in_force": "2026-05-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/180",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/180/text/O/D20260180.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/180/text/I/D20260180.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/180/text/T/D20260180L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/180",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 180,
+  "address": "WDU20260000180",
+  "displayAddress": "Dz.U. 2026 poz. 180",
+  "title": "Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-01-23",
+  "promulgation": "2026-02-17",
+  "entryIntoForce": "2026-05-18",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochotnicza straż pożarna",
+   "kierowcy",
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1939",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1939",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1939",
+    "number": "1939",
+    "term": 10
+   }
+  ],
+  "comments": "1) art. 2 pkt 1 i 2, art. 4 pkt 1 lit. b-e i pkt 2-4 wchodzą w życie z dniem 3 marca 2026 r.;\n2) art. 2 pkt 3 i art. 4 pkt 1 lit. a wchodzą w życie z dniem 18 lutego 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2025/1676",
+     "date": "2026-05-18"
+    },
+    {
+     "id": "DU/2021/2490",
+     "date": "2026-05-18"
+    },
+    {
+     "id": "DU/2011/151",
+     "date": "2026-05-18"
+    },
+    {
+     "id": "DU/1997/602",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260180.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260180.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260180L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
