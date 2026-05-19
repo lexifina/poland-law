@@ -2,5 +2,5 @@
 
 Dz.U. 1964 nr 16 poz. 93 · <https://eli.gov.pl/api/acts/DU/1964/93>
 
-Tekst jednolity: Dz.U. 2025 poz. 1071 (2025-08-06), stan na 2025-07-13.
+Tekst jednolity: Dz.U. 2026 poz. 795 (2026-06-17), stan na 2026-05-19.
 
