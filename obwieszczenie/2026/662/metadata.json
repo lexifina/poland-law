@@ -1,0 +1,89 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/662",
+ "source_sha256": "0df5cf81fb5dad10abffccc22616d0258e8d9ded325f0156d4ad0bc538aa6823",
+ "in_force": "2026-05-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/662",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/662/text/O/D20260662.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/662/text/I/D20260662.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/662/text/T/D20260662L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/662/text/U/D20260662Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/662",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 662,
+  "address": "WDU20260000662",
+  "displayAddress": "Dz.U. 2026 poz. 662",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządzie gminnym",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-15",
+  "promulgation": "2026-05-21",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "gminy",
+   "samorząd terytorialny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/912",
+     "date": "2026-06-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1990/95"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260662.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260662.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260662L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260662Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
