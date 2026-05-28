@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/640",
+ "source_sha256": "9544279903fe0e8a7735054a5afc91df4c8d1bee193aee1dff4e5ae0f65dd2f9",
+ "in_force": "2026-05-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/640",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/640/text/O/D20260640.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/640/text/I/D20260640.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/640/text/T/D20260640L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/640",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 640,
+  "address": "WDU20260000640",
+  "displayAddress": "Dz.U. 2026 poz. 640",
+  "title": "Ustawa z dnia 27 marca 2026 r. o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawy o rachunkowości",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-05-13",
+  "entryIntoForce": "2026-05-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "nadzór",
+   "biegli",
+   "audyt",
+   "rachunkowość"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2292",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2292",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2292",
+    "number": "2292",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/1089",
+     "date": "2026-05-28"
+    },
+    {
+     "id": "DU/1994/591",
+     "date": "2026-05-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260640.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260640.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260640L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
