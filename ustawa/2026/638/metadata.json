@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/638",
+ "source_sha256": "b0225ceb954ede323a58e364165fefbd84cac6f358e40781cf3badfd936f2d4b",
+ "in_force": "2026-05-28",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/638",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/638/text/O/D20260638.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/638/text/I/D20260638.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/638/text/T/D20260638L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/638",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 638,
+  "address": "WDU20260000638",
+  "displayAddress": "Dz.U. 2026 poz. 638",
+  "title": "Ustawa z dnia 27 marca 2026 r. o zmianie ustawy - Kodeks postępowania karnego",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-05-13",
+  "entryIntoForce": "2026-05-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks postępowania karnego"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2200",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2200",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2200",
+    "number": "2200",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/555",
+     "date": "2026-05-28"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260638.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260638.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260638L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
