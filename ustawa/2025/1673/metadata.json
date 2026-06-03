@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2025/1673",
+ "source_sha256": "1c4acb60d2d84857c8eea538feaafb4464459f2043cae480936b33bc9af19e0d",
+ "in_force": "2026-06-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2025/1673",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2025/1673/text/O/D20251673.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2025/1673/text/I/D20251673.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2025/1673/text/T/D20251673L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2025/1673",
+  "publisher": "DU",
+  "year": 2025,
+  "volume": 0,
+  "pos": 1673,
+  "address": "WDU20250001673",
+  "displayAddress": "Dz.U. 2025 poz. 1673",
+  "title": "Ustawa z dnia 9 października 2025 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2025-10-09",
+  "promulgation": "2025-12-02",
+  "entryIntoForce": "2026-06-03",
+  "changeDate": "2025-12-09T14:23:02",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona",
+   "budowlane prawo",
+   "zabytki",
+   "ochrona przyrody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1445",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1445",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1445",
+    "number": "1445",
+    "term": 10
+   }
+  ],
+  "comments": "art. 4 wchodzi w życie z dniem 1 stycznia 2027 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/1904",
+     "date": "2027-01-01"
+    },
+    {
+     "id": "DU/2004/880",
+     "date": "2026-06-03"
+    },
+    {
+     "id": "DU/2003/1568",
+     "date": "2026-06-03"
+    },
+    {
+     "id": "DU/1994/414",
+     "date": "2026-06-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20251673.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20251673.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20251673L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
