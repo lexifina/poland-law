@@ -1,0 +1,90 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/756",
+ "source_sha256": "0c7782a4d814d4209e7419acf537b06e7eda5461057df58dde1c3b9584c2135b",
+ "in_force": "2026-06-10",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/756",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/756/text/O/D20260756.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/756/text/I/D20260756.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/756/text/T/D20260756L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/756/text/U/D20260756Lj.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/756",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 756,
+  "address": "WDU20260000756",
+  "displayAddress": "Dz.U. 2026 poz. 756",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-27",
+  "promulgation": "2026-06-10",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "transport zbiorowy",
+   "fundusze",
+   "przewóz osób"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/912",
+     "date": "2026-06-11"
+    }
+   ],
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2019/1123"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260756.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260756.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260756L.pdf",
+    "type": "T"
+   },
+   {
+    "fileName": "D20260756Lj.pdf",
+    "type": "U"
+   }
+  ]
+ }
+}
