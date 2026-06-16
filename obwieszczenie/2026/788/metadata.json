@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/788",
+ "source_sha256": "ab0723511525f5f485d17185d858e69e186d583bd8c106d9ae96b50191fcdb25",
+ "in_force": "2026-06-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/788",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/788/text/O/D20260788.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/788/text/I/D20260788.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/788/text/T/D20260788L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/788",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 788,
+  "address": "WDU20260000788",
+  "displayAddress": "Dz.U. 2026 poz. 788",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie zagranicznej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-27",
+  "promulgation": "2026-06-16",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "służba zagraniczna"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2021/464"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260788.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260788.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260788L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
