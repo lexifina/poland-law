@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/862",
+ "source_sha256": "fb2342d2a838992f2f9a3846d9ffda73f3a519a3b2420b160ed9d09b650c3970",
+ "in_force": "2026-06-30",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/862",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/862/text/O/D20260862.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/862/text/I/D20260862.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/862/text/T/D20260862L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/862",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 862,
+  "address": "WDU20260000862",
+  "displayAddress": "Dz.U. 2026 poz. 862",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-27",
+  "promulgation": "2026-06-30",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cudzoziemcy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2003/1176"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260862.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260862.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260862L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
