@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/441",
+ "source_sha256": "526d3c90352ae69e0ee1dfbfc58ad3349d1cc4035e9abe36b2ef299ac07ee66e",
+ "in_force": "2026-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/441",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/441/text/O/D20260441.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/441/text/I/D20260441.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/441/text/T/D20260441L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/441",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 441,
+  "address": "WDU20260000441",
+  "displayAddress": "Dz.U. 2026 poz. 441",
+  "title": "Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-02-13",
+  "promulgation": "2026-03-31",
+  "entryIntoForce": "2026-07-01",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia pieniężne"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2122",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2122",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2122",
+    "number": "2122",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1999/636",
+     "date": "2026-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260441.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260441.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260441L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
