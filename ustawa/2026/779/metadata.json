@@ -1,0 +1,88 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/779",
+ "source_sha256": "5b79a7dbc6dbd068100bf5af11cfb6396fa42cfa4a8cd0fe98f6a122affe76a9",
+ "in_force": "2026-07-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/779",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/779/text/O/D20260779.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/779/text/I/D20260779.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/779/text/T/D20260779L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/779",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 779,
+  "address": "WDU20260000779",
+  "displayAddress": "Dz.U. 2026 poz. 779",
+  "title": "Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-15",
+  "promulgation": "2026-06-15",
+  "entryIntoForce": "2026-07-01",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "ryczałt",
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2445",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2445",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2445",
+    "number": "2445",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 7, art. 2 pkt 1 lit. c i art. 3 wchodzą w życie z dniem 16 czerwca 2026 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1998/930",
+     "date": "2026-06-16"
+    },
+    {
+     "id": "DU/1992/86",
+     "date": "2026-07-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2026-07-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260779.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260779.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260779L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
