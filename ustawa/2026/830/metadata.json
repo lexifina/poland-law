@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/830",
+ "source_sha256": "6614312ef33900185c160717a85186b4f8c4ecceee205f63d610151063baee9e",
+ "in_force": "2026-07-08",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/830",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/830/text/O/D20260830.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/830/text/I/D20260830.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/830/text/T/D20260830L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/830",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 830,
+  "address": "WDU20260000830",
+  "displayAddress": "Dz.U. 2026 poz. 830",
+  "title": "Ustawa z dnia 29 maja 2026 r. o szczególnych środkach ochrony w postępowaniu cywilnym osób uczestniczących w debacie publicznej",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-29",
+  "promulgation": "2026-06-23",
+  "entryIntoForce": "2026-07-08",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ochrona",
+   "debata publiczna",
+   "cywilne postępowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32024L1069",
+    "date": "2024-04-11",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2024/1069 z dnia 11 kwietnia 2024 r. w sprawie ochrony osób, które angażują się w debatę publiczną, przed oczywiście bezzasadnymi roszczeniami lub stanowiącymi nadużycie postępowaniami sądowymi (\"strategiczne powództwa zmierzające do stłumienia debaty publicznej\")"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2488",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2488",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2488",
+    "number": "2488",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1964/296",
+     "date": "2026-07-08"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260830.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260830.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260830L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
