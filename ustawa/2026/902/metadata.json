@@ -1,0 +1,82 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/902",
+ "source_sha256": "c42d46a2d51ec409e6b93f388e7fb83b65f9c1fcb0d27b121e1a8182b7c5013c",
+ "in_force": "2026-07-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/902",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/902/text/O/D20260902.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/902/text/I/D20260902.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/902/text/T/D20260902L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/902",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 902,
+  "address": "WDU20260000902",
+  "displayAddress": "Dz.U. 2026 poz. 902",
+  "title": "Ustawa z dnia 15 maja 2026 r. o zmianie ustawy - Kodeks karny",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-15",
+  "promulgation": "2026-07-06",
+  "entryIntoForce": "2026-07-21",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32013L0040",
+    "date": "2013-08-12",
+    "title": "Dyrektywa Parlamentu Europejskiego i Rady 2013/40/UE z dnia 12 sierpnia 2013 r. dotycząca ataków na systemy informatyczne i zastępująca decyzję ramową Rady 2005/222/WSiSW"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2398",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2398",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2398",
+    "number": "2398",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/553",
+     "date": "2026-07-21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260902.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260902.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260902L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
