@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/981",
+ "source_sha256": "70ad83906cd6b8a15bdacc980b56c87eeb18156464236a1e6c1badc95e6369cc",
+ "in_force": "2026-07-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/981",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/981/text/O/D20260981.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/981/text/I/D20260981.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/981/text/T/D20260981L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/981",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 981,
+  "address": "WDU20260000981",
+  "displayAddress": "Dz.U. 2026 poz. 981",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach pochodzenia zwierzęcego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-16",
+  "promulgation": "2026-07-22",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "zwierzęta",
+   "rolnictwo",
+   "produkcja"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2006/127"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260981.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260981.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260981L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
