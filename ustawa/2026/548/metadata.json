@@ -1,0 +1,87 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/548",
+ "source_sha256": "ba0645070ef14bdae5f6b4b92b7a48959bd8aa0c0a6cd6c44e8681ce5b49ef8e",
+ "in_force": "2026-07-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/548",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/548/text/O/D20260548.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/548/text/I/D20260548.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/548/text/T/D20260548L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/548",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 548,
+  "address": "WDU20260000548",
+  "displayAddress": "Dz.U. 2026 poz. 548",
+  "title": "Ustawa z dnia 27 marca 2026 r. o zarządzaniu danymi",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-03-27",
+  "promulgation": "2026-04-22",
+  "entryIntoForce": "2026-07-23",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "cyfryzacja",
+   "zarządzanie danymi"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32022R0868",
+    "date": "2022-05-30",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniające rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi) (Tekst mający znaczenie dla EOG)"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2060",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2060",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2060",
+    "number": "2060",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2018/1000",
+     "date": "2026-07-23"
+    },
+    {
+     "id": "DU/1995/439",
+     "date": "2026-07-23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260548.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260548.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260548L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
