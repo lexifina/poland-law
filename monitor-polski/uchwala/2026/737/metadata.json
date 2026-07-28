@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2026/737",
+ "source_sha256": "50487f9927c6b11aac6c08cf2380a08a5c895fd1314edef7287e9b4a7fc5c9e2",
+ "in_force": "2026-07-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/737",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/737/text/O/M20260737.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/737/text/I/M20260737.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2026/737",
+  "publisher": "MP",
+  "year": 2026,
+  "volume": 0,
+  "pos": 737,
+  "address": "WMP20260000737",
+  "displayAddress": "M.P. 2026 poz. 737",
+  "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 22 lipca 2026 r. w sprawie wyrażenia zgody na powołanie Rzecznika Praw Obywatelskich",
+  "type": "Uchwała",
+  "status": "akt indywidualny",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-22",
+  "promulgation": "2026-07-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SENAT"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [],
+  "keywordsNames": [
+   "Rzecznik Praw Obywatelskich"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1997/483"
+    },
+    {
+     "id": "DU/1987/123"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1997/483",
+     "art": "art. 209 ust. 1"
+    },
+    {
+     "id": "DU/1987/123",
+     "art": "art. 3 ust. 4"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20260737.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20260737.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
