@@ -1,0 +1,71 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/971",
+ "source_sha256": "4d0bd11eed25b28c2044b9a2a8249b7c3fb70827540e7771962115ef7177feee",
+ "in_force": "2026-08-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/971",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/971/text/O/D20260971.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/971/text/I/D20260971.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/971/text/T/D20260971L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/971",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 971,
+  "address": "WDU20260000971",
+  "displayAddress": "Dz.U. 2026 poz. 971",
+  "title": "Ustawa z dnia 29 maja 2026 r. o szczególnych rozwiązaniach związanych z wynikami ewaluacji jakości działalności naukowej za lata 2022-2025",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-29",
+  "promulgation": "2026-07-21",
+  "entryIntoForce": "2026-08-05",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "stopnie i tytuły naukowe",
+   "nauka",
+   "szkolnictwo wyższe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2500",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2500",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2500",
+    "number": "2500",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260971.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260971.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260971L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
