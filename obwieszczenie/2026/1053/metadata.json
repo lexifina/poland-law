@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1053",
+ "source_sha256": "0c0c27090ce72c84d6c13f9f40a0842a66a777cf2aea541e1289c8ccff11db96",
+ "in_force": "2026-08-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1053",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1053/text/O/D20261053.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1053/text/I/D20261053.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1053/text/T/D20261053L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1053",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1053,
+  "address": "WDU20260001053",
+  "displayAddress": "Dz.U. 2026 poz. 1053",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-31",
+  "promulgation": "2026-08-05",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "osoby represjonowane"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/693"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261053.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261053.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261053L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
