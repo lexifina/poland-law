@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/972",
+ "source_sha256": "7f200b5d04aa492f6057e51075cbfe7905279f4dda5511fcc2d7cfe6644b8ebf",
+ "in_force": "2026-08-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/972",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/972/text/O/D20260972.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/972/text/I/D20260972.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/972/text/T/D20260972L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/972",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 972,
+  "address": "WDU20260000972",
+  "displayAddress": "Dz.U. 2026 poz. 972",
+  "title": "Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-06-19",
+  "promulgation": "2026-07-21",
+  "entryIntoForce": "2026-08-05",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "świadczenia lecznicze",
+   "działalność lecznicza"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2685",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2685",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2685",
+    "number": "2685",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/654",
+     "date": "2026-08-05"
+    },
+    {
+     "id": "DU/2004/2135",
+     "date": "2026-08-05"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260972.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260972.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260972L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
