@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/985",
+ "source_sha256": "c9ff5fc7a1ef04971db965e52bfa1e9294f240f5b974593f0045521e6fbaa8f4",
+ "in_force": "2026-08-07",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/985",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/985/text/O/D20260985.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/985/text/I/D20260985.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/985/text/T/D20260985L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/985",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 985,
+  "address": "WDU20260000985",
+  "displayAddress": "Dz.U. 2026 poz. 985",
+  "title": "Ustawa z dnia 29 maja 2026 r. o szczególnych rozwiązaniach w zakresie rozpoznawania spraw dotyczących zawartych z konsumentami umów kredytu denominowanego lub indeksowanego do franka szwajcarskiego",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-29",
+  "promulgation": "2026-07-23",
+  "entryIntoForce": "2026-08-07",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "konsumenci",
+   "cywilne postępowanie",
+   "kredyty i pożyczki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1758",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1758",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1758",
+    "number": "1758",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2023/614",
+     "date": "2026-08-07"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260985.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260985.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260985L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
