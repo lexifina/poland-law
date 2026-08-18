@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1033",
+ "source_sha256": "c0694df662d8de492274711234613d383bb5e49da9d26b0fe68d8241ce60161f",
+ "in_force": "2026-08-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1033",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1033/text/O/D20261033.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1033/text/I/D20261033.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1033/text/T/D20261033L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1033",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1033,
+  "address": "WDU20260001033",
+  "displayAddress": "Dz.U. 2026 poz. 1033",
+  "title": "Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy - Prawo wodne",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-06-19",
+  "promulgation": "2026-08-03",
+  "entryIntoForce": "2026-08-18",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wodne prawo",
+   "wody"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1941",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1941",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1941",
+    "number": "1941",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/1566",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261033.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261033.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261033L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
