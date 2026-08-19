@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1102",
+ "source_sha256": "1b2ebe9394f2a9b6ae392d72bb9add6a7aa4c1eb49668ad62763d4ba2deeef31",
+ "in_force": "2026-08-19",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1102",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1102/text/O/D20261102.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1102/text/I/D20261102.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1102/text/T/D20261102L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1102",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1102,
+  "address": "WDU20260001102",
+  "displayAddress": "Dz.U. 2026 poz. 1102",
+  "title": "Ustawa z dnia 17 lipca 2026 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-17",
+  "promulgation": "2026-08-18",
+  "entryIntoForce": "2026-08-19",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "rehabilitacja zawodowa",
+   "niepełnosprawni"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2701",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2701",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2701",
+    "number": "2701",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 wchodzi w życie z dniem 1 stycznia 2029 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/776",
+     "date": "2029-01-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261102.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261102.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261102L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
