@@ -8,4 +8,4 @@
 
 § 4. Jeżeli sprawca czynu określonego w § 1 był wcześniej prawomocnie skazany za prowadzenie pojazdu mechanicznego w stanie nietrzeźwości lub pod wpływem środka odurzającego albo za przestępstwo określone w art. 173, art. 174, art. 177 lub art. 355 § 2 popełnione w stanie nietrzeźwości lub pod wpływem środka odurzającego lub dopuścił się czynu określonego w § 1 w okresie obowiązywania zakazu prowadzenia pojazdów mechanicznych orzeczonego w związku ze skazaniem za przestępstwo, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-§ 5. Sąd orzeka przepadek, o którym mowa w art. 44b, w razie popełnienia przestępstwa określonego w § 1 lub 4, chyba że zawartość alkoholu w organizmie sprawcy przestępstwa określonego w § 1 była niższa niż 1,5 promila we krwi lub 0,75 mg/dm³ w wydychanym powietrzu albo nie prowadziła do takiego stężenia. Sąd może odstąpić od orzeczenia przepadku, jeżeli zachodzi wyjątkowy wypadek, uzasadniony szczególnymi okolicznościami.
+§ 5. (uchylony)

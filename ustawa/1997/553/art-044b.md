@@ -1,11 +1,19 @@
 # Art. 44b.
 
-§ 1. W wypadkach wskazanych w ustawie sąd orzeka przepadek pojazdu mechanicznego prowadzonego przez sprawcę w ruchu lądowym.
+§ 1. W razie skazania sprawcy za przestępstwo określone w art. 178a § 1 lub 4, art. 178c § 1 pkt 2, art. 178d lub art. 244, jeżeli czyn sprawcy polegał na niezastosowaniu się do zakazu prowadzenia pojazdów mechanicznych, a także wobec sprawcy określonego w art. 178 § 1 lub 1a sąd może orzec przepadek pojazdu mechanicznego prowadzonego przez sprawcę w ruchu lądowym, wodnym lub powietrznym.
 
-§ 2. Jeżeli w czasie popełnienia przestępstwa pojazd nie stanowił wyłącznej własności sprawcy albo po popełnieniu przestępstwa sprawca zbył, darował lub ukrył podlegający przepadkowi pojazd, orzeka się przepadek równowartości pojazdu. Za równowartość pojazdu uznaje się wartość pojazdu określoną w polisie ubezpieczeniowej na rok, w którym popełniono przestępstwo, a w razie braku polisy - średnią wartość rynkową pojazdu odpowiadającego, przy uwzględnieniu marki, modelu, roku produkcji, typu nadwozia, rodzaju napędu i silnika, pojemności lub mocy silnika oraz przybliżonego przebiegu, pojazdowi prowadzonemu przez sprawcę, ustaloną na podstawie dostępnych danych, bez powoływania w tym celu biegłego.
+§ 1a. W razie skazania sprawcy za przestępstwo określone w art. 178a § 1 lub 4, art. 178c § 1 pkt 2 lub art. 178d, a także wobec sprawcy określonego w art. 178 § 1 lub 1a, jeśli zawartość alkoholu w organizmie sprawcy przestępstwa wynosiła co najmniej 1,5 promila we krwi lub 0,75 mg/dm³ w wydychanym powietrzu albo prowadziła do takiego stężenia, sąd orzeka przepadek pojazdu mechanicznego prowadzonego przez sprawcę w ruchu lądowym, wodnym lub powietrznym, chyba że zachodzi wyjątkowy wypadek, uzasadniony szczególnymi okolicznościami.
 
-§ 3. Jeżeli ustalenie średniej wartości rynkowej pojazdu odpowiadającego pojazdowi, o którym mowa w § 1, w sposób określony w § 2 nie jest możliwe ze względu na szczególne cechy tego pojazdu, zasięga się opinii biegłego.
+§ 2. (uchylony)
 
-§ 4. Przepadku pojazdu mechanicznego oraz przepadku równowartości pojazdu określonego w § 2 nie orzeka się, jeżeli sprawca prowadził niestanowiący jego własności pojazd mechaniczny wykonując czynności zawodowe lub służbowe polegające na prowadzeniu pojazdu na rzecz pracodawcy. W takim wypadku sąd orzeka nawiązkę w wysokości co najmniej 5000 złotych na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej.
+§ 3. (uchylony)
 
-§ 5. Przepadku pojazdu mechanicznego oraz przepadku równowartości pojazdu nie orzeka się, jeżeli orzeczenie przepadku pojazdu mechanicznego jest niemożliwe lub niecelowe z uwagi na jego utratę przez sprawcę, zniszczenie lub znaczne uszkodzenie.
+§ 4. (uchylony)
+
+§ 5. Przepadku pojazdu mechanicznego nie orzeka się, jeżeli:
+
+- 1) w czasie popełnienia przestępstwa pojazd mechaniczny nie stanowił wyłącznej własności sprawcy;
+
+- 2) orzeczenie przepadku pojazdu mechanicznego nie jest możliwe lub celowe, w szczególności z uwagi na jego zbycie albo utratę przez sprawcę, zniszczenie lub znaczne uszkodzenie.
+
+§ 6. W wypadku, o którym mowa w § 5 pkt 1, sąd orzeka, a w wypadku, o którym mowa w § 5 pkt 2 - może orzec nawiązkę na rzecz Skarbu Państwa w wysokości od 5000 do 500 000 złotych.
