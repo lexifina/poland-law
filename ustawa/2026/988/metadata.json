@@ -1,0 +1,83 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/988",
+ "source_sha256": "18f01898373f977459f3596be1a411d94112586dce8bab821fee90c48a4795e4",
+ "in_force": "2026-08-23",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/988",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/988/text/O/D20260988.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/988/text/I/D20260988.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/988/text/T/D20260988L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/988",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 988,
+  "address": "WDU20260000988",
+  "displayAddress": "Dz.U. 2026 poz. 988",
+  "title": "Ustawa z dnia 11 czerwca 2026 r. o zmianie ustawy - Kodeks karny",
+  "type": "Ustawa",
+  "status": "akt objęty tekstem jednolitym",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-06-11",
+  "promulgation": "2026-07-23",
+  "entryIntoForce": "2026-08-23",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1613",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1613",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1613",
+    "number": "1613",
+    "term": 10
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2208",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2208",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2208",
+    "number": "2208",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1997/553",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260988.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260988.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260988L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
