@@ -1,0 +1,114 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1004",
+ "source_sha256": "28f01bb2095839c04d98ce50f5047491eee01137963ccbe34bc1720afe5087ae",
+ "in_force": "2026-08-27",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1004",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1004/text/O/D20261004.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1004/text/I/D20261004.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1004/text/T/D20261004L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1004",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1004,
+  "address": "WDU20260001004",
+  "displayAddress": "Dz.U. 2026 poz. 1004",
+  "title": "Ustawa z dnia 3 lipca 2026 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-03",
+  "promulgation": "2026-07-27",
+  "entryIntoForce": "2026-08-27",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "farmaceutyczne prawo",
+   "kodeks morski",
+   "narkomania",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [
+   "Policja"
+  ],
+  "directives": [
+   {
+    "address": "32023R1322",
+    "date": "2023-06-27",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/1322 z dnia 27 czerwca 2023 r. w sprawie Agencji Unii Europejskiej ds. Narkotyków (EUDA) i uchylenia rozporządzenia (UE) nr 1920/2006"
+   },
+   {
+    "address": "32013D1313",
+    "date": "2013-12-17",
+    "title": "Decyzja Parlamentu Europejskiego i Rady nr 1313/2013/EU z dnia 17 grudnia 2013 r. w sprawie Unijnego Mechanizmu Ochrony Ludności Tekst mający znaczenie dla EOG"
+   }
+  ],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2499",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2499",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2499",
+    "number": "2499",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2013/368",
+     "date": "2026-08-27"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2015/1916",
+     "date": "2026-08-27"
+    },
+    {
+     "id": "DU/2005/1485",
+     "date": "2026-08-27"
+    },
+    {
+     "id": "DU/2001/1545",
+     "date": "2026-08-27"
+    },
+    {
+     "id": "DU/2001/1381",
+     "date": "2026-08-27"
+    },
+    {
+     "id": "DU/1990/179",
+     "date": "2026-08-27"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261004.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261004.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261004L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
