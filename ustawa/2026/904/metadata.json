@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/904",
+ "source_sha256": "2eadbeaf3866d8c91a721fec3d94bcae843bc76b388b5b2f5a1fea7fb13e5a6c",
+ "in_force": "2026-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/904",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/904/text/O/D20260904.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/904/text/I/D20260904.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/904/text/T/D20260904L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/904",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 904,
+  "address": "WDU20260000904",
+  "displayAddress": "Dz.U. 2026 poz. 904",
+  "title": "Ustawa z dnia 29 maja 2026 r. o zmianie ustawy - Prawo oświatowe",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-05-29",
+  "promulgation": "2026-07-06",
+  "entryIntoForce": "2026-09-01",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1650",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1650",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1650",
+    "number": "1650",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/59",
+     "date": "2026-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20260904.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20260904.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20260904L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
