@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1036",
+ "source_sha256": "5393a7143fb73ff9d48c08c8df7262912dd4595d0b98931293c81a8c61321327",
+ "in_force": "2026-09-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1036",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1036/text/O/D20261036.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1036/text/I/D20261036.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1036/text/T/D20261036L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1036",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1036,
+  "address": "WDU20260001036",
+  "displayAddress": "Dz.U. 2026 poz. 1036",
+  "title": "Ustawa z dnia 3 lipca 2026 r. o zmianie ustawy - Prawo oświatowe",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-03",
+  "promulgation": "2026-08-03",
+  "entryIntoForce": "2026-09-01",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "szkolnictwo",
+   "oświata i wychowanie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=1526",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/1526",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/1526",
+    "number": "1526",
+    "term": 10
+   },
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2668",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2668",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2668",
+    "number": "2668",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/59",
+     "date": "2026-09-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261036.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261036.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261036L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
