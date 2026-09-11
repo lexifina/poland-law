@@ -1,0 +1,74 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1201",
+ "source_sha256": "3f7a7c162349bfdf02c3e29ad1abf999e145c5d050afe1ce2a8c633715416d73",
+ "in_force": "2026-09-11",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1201",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1201/text/O/D20261201.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1201/text/I/D20261201.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1201",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1201,
+  "address": "WDU20260001201",
+  "displayAddress": "Dz.U. 2026 poz. 1201",
+  "title": "Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 3 września 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-03",
+  "promulgation": "2026-09-11",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "PRZEW. KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "radiofonia i telewizja",
+   "dokumenty",
+   "opłaty"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 3 pkt 3"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2010/152"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261201.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261201.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
