@@ -1,0 +1,101 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1154",
+ "source_sha256": "feff4172a062583f647a25bc7b7694652494385da3c6dd2a462d02a75daa2d71",
+ "in_force": "2026-09-16",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1154",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1154/text/O/D20261154.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1154/text/I/D20261154.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1154/text/T/D20261154L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1154",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1154,
+  "address": "WDU20260001154",
+  "displayAddress": "Dz.U. 2026 poz. 1154",
+  "title": "Ustawa z dnia 17 lipca 2026 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-07-17",
+  "promulgation": "2026-09-01",
+  "entryIntoForce": "2026-09-16",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "jakość wyrobów",
+   "artykuły spożywcze",
+   "owoce i warzywa",
+   "rolnictwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2695",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2695",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2695",
+    "number": "2695",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty uznane za uchylone": [
+    {
+     "id": "DU/2013/74",
+     "date": "2026-09-16"
+    },
+    {
+     "id": "DU/2013/149",
+     "date": "2026-09-16"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2003/2221",
+     "date": "2026-09-16"
+    },
+    {
+     "id": "DU/2001/471",
+     "date": "2026-09-16"
+    },
+    {
+     "id": "DU/2001/44",
+     "date": "2026-09-16"
+    },
+    {
+     "id": "DU/1997/926",
+     "date": "2026-09-16"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261154.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261154.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261154L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
