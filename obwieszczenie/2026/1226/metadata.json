@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1226",
+ "source_sha256": "29e39b34878e6796808fae5b8891bdae70781f3998b243b8ecb6b02dc9639f65",
+ "in_force": "2026-09-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1226",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1226/text/O/D20261226.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1226/text/I/D20261226.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1226/text/T/D20261226L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1226",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1226,
+  "address": "WDU20260001226",
+  "displayAddress": "Dz.U. 2026 poz. 1226",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działach administracji rządowej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-01",
+  "promulgation": "2026-09-18",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "organizacja i zakres działania",
+   "administracja rządowa"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/943"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261226.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261226.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261226L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
