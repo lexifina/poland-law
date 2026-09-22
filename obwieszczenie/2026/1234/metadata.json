@@ -1,0 +1,92 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1234",
+ "source_sha256": "2c06fd6be30995e0feac7bfe5139df9d3c26be40daa1e9ff55bb26d39ffe6249",
+ "in_force": "2026-09-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1234",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1234/text/O/D20261234.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1234/text/I/D20261234.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1234/text/T/D20261234L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1234",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1234,
+  "address": "WDU20260001234",
+  "displayAddress": "Dz.U. 2026 poz. 1234",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Radzie Fiskalnej",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-04",
+  "promulgation": "2026-09-22",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "budżet",
+   "sprawozdawczość",
+   "opinie",
+   "budżetowe prawo",
+   "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "directives": [
+   {
+    "address": "32024R1263",
+    "date": "2024-04-29",
+    "title": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylające rozporządzenie Rady (WE) nr 1466/97"
+   },
+   {
+    "address": "32024L1265",
+    "date": "2024-04-29",
+    "title": "Dyrektywa Rady (UE) 2024/1265 z dnia 29 kwietnia 2024 r. zmieniająca dyrektywę 2011/85/UE w sprawie wymogów dla ram budżetowych państw członkowskich"
+   }
+  ],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2025/39"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261234.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261234.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261234L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
