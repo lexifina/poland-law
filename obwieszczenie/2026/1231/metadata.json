@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1231",
+ "source_sha256": "43528f97e8afcc289ee8fafd27b868f06778ed695dabf791dd2c3b4054036333",
+ "in_force": "2026-09-22",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1231",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1231/text/O/D20261231.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1231/text/I/D20261231.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1231/text/T/D20261231L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1231",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1231,
+  "address": "WDU20260001231",
+  "displayAddress": "Dz.U. 2026 poz. 1231",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o publicznym transporcie zbiorowym",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-01",
+  "promulgation": "2026-09-22",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "transport zbiorowy"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2011/13"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261231.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261231.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261231L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
