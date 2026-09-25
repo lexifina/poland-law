@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1252",
+ "source_sha256": "2ab7c013b88618283fc7d3bbcc6c57b5f92b4a130d988d0ab4ad195202a0d29c",
+ "in_force": "2026-09-25",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1252",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1252/text/O/D20261252.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1252/text/I/D20261252.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1252/text/T/D20261252L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1252",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1252,
+  "address": "WDU20260001252",
+  "displayAddress": "Dz.U. 2026 poz. 1252",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dochodach jednostek samorządu terytorialnego",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-01",
+  "promulgation": "2026-09-25",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "samorząd terytorialny",
+   "dochód"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2024/1572"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261252.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261252.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261252L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
