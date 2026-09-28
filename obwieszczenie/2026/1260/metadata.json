@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1260",
+ "source_sha256": "7b71d9e20674b787ce2eb69022c17d80279e43b0fc094bd4769997f19df748ed",
+ "in_force": "2026-09-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1260",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1260/text/O/D20261260.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1260/text/I/D20261260.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1260/text/T/D20261260L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1260",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1260,
+  "address": "WDU20260001260",
+  "displayAddress": "Dz.U. 2026 poz. 1260",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-01",
+  "promulgation": "2026-09-28",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa",
+   "energetyczna gospodarka",
+   "energetyka"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2022/1967"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261260.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261260.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261260L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
