@@ -1,0 +1,69 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/MP/2026/982",
+ "source_sha256": "2a95712d0d657446e015cb8e2ba0ef71c27f632ffc8e9850e338f7fd7e73f41e",
+ "in_force": "2026-10-07",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/982",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/982/text/O/M20260982.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/982/text/I/M20260982.pdf"
+ },
+ "metadata": {
+  "ELI": "MP/2026/982",
+  "publisher": "MP",
+  "year": 2026,
+  "volume": 0,
+  "pos": 982,
+  "address": "WMP20260000982",
+  "displayAddress": "M.P. 2026 poz. 982",
+  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 6 października 2026 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
+  "type": "Komunikat",
+  "status": "bez statusu",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-06",
+  "promulgation": "2026-10-07",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "PREZ. ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "składki",
+   "fundusze emerytalne",
+   "odsetki"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/1998/887"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/1998/887",
+     "art": "art. 47 ust. 10j"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20260982.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20260982.pdf",
+    "type": "I"
+   }
+  ]
+ }
+}
