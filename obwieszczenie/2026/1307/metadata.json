@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1307",
+ "source_sha256": "1540d1d8fb7800680be6c945fdaca502f3ee0bc4acfd42cc024ce9d2688465b6",
+ "in_force": "2026-10-08",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1307",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1307/text/O/D20261307.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1307/text/I/D20261307.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1307/text/T/D20261307L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1307",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1307,
+  "address": "WDU20260001307",
+  "displayAddress": "Dz.U. 2026 poz. 1307",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny wykonawczy",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-04",
+  "promulgation": "2026-10-08",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny wykonawczy",
+   "karne prawo wykonawcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1997/557"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261307.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261307.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261307L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
