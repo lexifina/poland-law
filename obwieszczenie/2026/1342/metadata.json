@@ -2,7 +2,7 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2026/1342",
- "source_sha256": "840c0b18ca9389633abe970bc62eb6dc15aed5c9035d6f58631160d6e5a4677e",
+ "source_sha256": "eae866fc85a524149ed2f768fd0787ecf98a1b82ed685cadd6e3bc851121c02b",
  "in_force": "2026-10-16",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
@@ -10,7 +10,8 @@
   "metadata": "https://eli.gov.pl/api/acts/DU/2026/1342",
   "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1342/text/O/D20261342.pdf",
   "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1342/text/I/D20261342.pdf",
-  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1342/text/T/D20261342L.pdf"
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1342/text/T/D20261342L.pdf",
+  "pdf-U": "https://eli.gov.pl/api/acts/DU/2026/1342/text/U/D20261342Lj.pdf"
  },
  "metadata": {
   "ELI": "DU/2026/1342",
@@ -26,7 +27,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-10-02",
   "promulgation": "2026-10-16",
-  "changeDate": "2026-10-26T10:02:14",
+  "changeDate": "2026-11-23T10:36:29",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -41,6 +42,12 @@
   "directives": [],
   "prints": [],
   "references": {
+   "Nowelizacje po tekście jednolitym": [
+    {
+     "id": "DU/2026/1466",
+     "date": "2026-10-08"
+    }
+   ],
    "Podstawa prawna": [
     {
      "id": "DU/2000/718"
@@ -72,6 +79,10 @@
    {
     "fileName": "D20261342L.pdf",
     "type": "T"
+   },
+   {
+    "fileName": "D20261342Lj.pdf",
+    "type": "U"
    }
   ]
  }
