@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1363",
+ "source_sha256": "7dc5556ef68e504b12e8fcbb73420c99cc8833cbfe5a8dd2e0234ee0d9e12ce0",
+ "in_force": "2026-10-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1363",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1363/text/O/D20261363.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1363/text/I/D20261363.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1363/text/T/D20261363L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1363",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1363,
+  "address": "WDU20260001363",
+  "displayAddress": "Dz.U. 2026 poz. 1363",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 października 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-02",
+  "promulgation": "2026-10-21",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wynagrodzenia",
+   "cyberbezpieczeństwo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2021/2333"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261363.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261363.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261363L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
