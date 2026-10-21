@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1372",
+ "source_sha256": "c75dc31dea8ef12e07405bf4ea498831a0707572e74b059ff04c427622422aa8",
+ "in_force": "2026-10-21",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1372",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1372/text/O/D20261372.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1372/text/I/D20261372.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1372/text/T/D20261372L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1372",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1372,
+  "address": "WDU20260001372",
+  "displayAddress": "Dz.U. 2026 poz. 1372",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 października 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks wykroczeń",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-02",
+  "promulgation": "2026-10-21",
+  "changeDate": "2026-10-26T10:02:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks wykroczeń"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1971/114"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261372.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261372.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261372L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
