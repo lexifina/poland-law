@@ -2,14 +2,15 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2026/1533",
- "source_sha256": "ad475d42442e4f83b7bb5fe9a978bd2a3d731367746e30385ce71f302069bb73",
+ "source_sha256": "abc1d84183d6316f56a0a49d3b4dd129a16b969b71af46dda44c68c6384f671a",
  "in_force": "2026-10-27",
  "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
  "links": {
   "metadata": "https://eli.gov.pl/api/acts/DU/2026/1533",
   "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1533/text/O/D20261533.pdf",
-  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1533/text/I/D20261533.pdf"
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1533/text/I/D20261533.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1533/text/T/D20261533L.pdf"
  },
  "metadata": {
   "ELI": "DU/2026/1533",
@@ -26,7 +27,7 @@
   "announcementDate": "2026-11-03",
   "promulgation": "2026-11-20",
   "entryIntoForce": "2026-10-27",
-  "changeDate": "2026-11-23T10:39:21",
+  "changeDate": "2026-11-25T08:30:02",
   "releasedBy": [
    "MARSZAŁEK SEJMU"
   ],
@@ -70,6 +71,10 @@
    {
     "fileName": "D20261533.pdf",
     "type": "I"
+   },
+   {
+    "fileName": "D20261533L.pdf",
+    "type": "T"
    }
   ]
  }
