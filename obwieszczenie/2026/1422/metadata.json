@@ -1,0 +1,81 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1422",
+ "source_sha256": "d4941fc3cb2cf21736a7ca5aa20af83fb89e2f3e71d33910fe0fe55690f3357d",
+ "in_force": "2026-10-28",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1422",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1422/text/O/D20261422.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1422/text/I/D20261422.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1422/text/T/D20261422L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1422",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1422,
+  "address": "WDU20260001422",
+  "displayAddress": "Dz.U. 2026 poz. 1422",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 października 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-09",
+  "promulgation": "2026-10-28",
+  "changeDate": "2026-11-02T09:30:14",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "ratownictwo",
+   "działalność lecznicza",
+   "ochrona zdrowia"
+  ],
+  "keywordsNames": [
+   "Państwowe Ratownictwo Medyczne"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2022/2705"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261422.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261422.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261422L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
