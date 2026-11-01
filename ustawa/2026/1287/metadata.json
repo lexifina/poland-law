@@ -1,0 +1,93 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1287",
+ "source_sha256": "c3701a66501da8837e6a3fc2836c5729c1c3e109b16cc2ea45e5903a4b0a5968",
+ "in_force": "2026-11-01",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1287",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1287/text/O/D20261287.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1287/text/I/D20261287.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1287/text/T/D20261287L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1287",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1287,
+  "address": "WDU20260001287",
+  "displayAddress": "Dz.U. 2026 poz. 1287",
+  "title": "Ustawa z dnia 18 września 2026 r. o podatku od nadzwyczajnych zysków osiągniętych w okresie od marca 2026 r. do marca 2027 r. ze zbycia paliw ciekłych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-18",
+  "promulgation": "2026-10-01",
+  "entryIntoForce": "2026-11-01",
+  "changeDate": "2026-10-29T00:00:00",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH"
+  ],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "paliwa",
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3100",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/3100",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/3100",
+    "number": "3100",
+    "term": 10
+   }
+  ],
+  "comments": "art. 11 wchodzi w życie z dniem 2 października 2026 r.",
+  "references": {
+   "Akty wykonawcze": [
+    {
+     "id": "DU/2026/1424"
+    },
+    {
+     "id": "DU/2026/1289"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/86",
+     "date": "2026-11-01"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261287.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261287.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261287L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
