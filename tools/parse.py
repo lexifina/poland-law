@@ -118,11 +118,12 @@ def unit_kind(e) -> str | None:
     return None
 
 
-TJ = [False]     # reading a unified text: leave out the wording it prints for the future (see flat, future_block)
+TJ = [False]
+W_DASH = [True]   # the first acts (2026-10-28) wrote a unit's common part with the unit's list marker; kept for them     # reading a unified text: leave out the wording it prints for the future (see flat, future_block)
 
 
 DROPPED: list = []     # the elements left out as future wording by the last read_tree (check_repo reads them)
-CONTAINERS = ('chpt', 'bran', 'part', 'titl', 'sect', 'dvsn', 'schp', 'book')
+CONTAINERS = ('chpt', 'bran', 'part', 'titl', 'sect', 'dvsn', 'schp', 'book', 'none')
 
 
 def _words(e, bold_only: bool) -> list[str]:
@@ -167,11 +168,12 @@ def future_block(c, leaf: bool = True) -> bool:
 
 
 class Unit:
-    __slots__ = ('kind', 'id', 'label', 'glosses', 'body', 'future')
+    __slots__ = ('kind', 'id', 'label', 'glosses', 'body', 'future', 'bm')
 
     def __init__(self, kind, id_, label, glosses):
         self.kind, self.id, self.label, self.glosses = kind, id_, label, glosses
         self.future = False
+        self.bm = None
         self.body: list = []        # ('text', str, glosses) | ('cite', str, glosses, [Unit]) | Unit
 
     def units(self):
@@ -191,6 +193,7 @@ def build_unit(e) -> Unit:
             label_parts.append(t)
         glosses += g
     u = Unit(kind, e.get('data-id'), label_parts if kind == 'chpt' else ' '.join(label_parts), glosses)
+    u.bm = e.get('data-bookmark')
     inner = [c for c in e if isinstance(c.tag, str) and c.tag == 'div' and has_class(c, 'unit-inner')]
     dropped = [0]
     for c in (list(inner[0]) if inner else []):
@@ -205,6 +208,9 @@ def add_body(body: list, c, dropped: list | None = None, leaf: bool = False):
         return
     if unit_kind(c):
         u = build_unit(c)
+        if TJ[0] and u.id and u.kind not in CONTAINERS and any(isinstance(x, Unit) and x.id == u.id for x in body):
+            # a unit printed twice: the wording in force, then (not marked) the wording a later act gives it
+            u.future = True
         if u.future:
             DROPPED.append(c)
             if dropped is not None:
@@ -250,17 +256,42 @@ def read_tree(raw: bytes | None, doc=None) -> dict:
     part = act_part(doc)
     top: list = []
     U = 'contains(concat(" ", @class, " "), " unit ")'
-    for c in part.xpath(f'.//div[{U} and not(ancestor::div[{U}])]'):
+    tops = part.xpath(f'.//div[{U} and not(ancestor::div[{U}])]')
+    for c in tops:
         if unit_kind(c) not in ('none', None):
             add_body(top, c)
+    if not walk_articles(top):
+        # an act whose parts are unnamed wrappers (unit_none: "Część ogólna" of the 1997 Criminal Code as published)
+        DROPPED.clear()
+        top = []
+        for c in tops:
+            if unit_kind(c) is not None:
+                add_body(top, c)
+    # Text before the first unit of the act (a preamble: the Labour Code of 1974, "Praca w Polskiej Rzeczypospolitej
+    # Ludowej ..."; "Preambuła (uchylona)" in its unified texts). Read for the codes only (W_DASH[0] False).
+    pre = []
+    if not W_DASH[0]:
+        for blk in part.xpath('.//div[@class="block"]')[:1]:
+            for c in blk:
+                if not isinstance(c.tag, str):
+                    continue
+                if unit_kind(c):
+                    break
+                if c.get('data-template') == 'xText' or has_class(c, 'pro-text'):
+                    tx, g = flat(c, body=bool(TJ[0]))
+                    if tx:
+                        pre.append((tx, g))
     head = doc.xpath('//h1')
     gloss = {}
     for g in doc.xpath('//div[@class="gloss"]|//DIV[@class="gloss"]'):
         ds = [x for x in g if isinstance(x.tag, str)]
         if len(ds) >= 2:
             gloss[clean(ds[0].text_content()).rstrip(')')] = clean(sup_text(ds[1]))
-    return {'units': top, 'title': clean(head[0].text_content()) if head else '', 'glosses': gloss,
+    return {'units': top, 'pre': pre, 'title': clean(head[0].text_content()) if head else '', 'glosses': gloss,
             'parts': [clean(h.text_content()) for h in doc.xpath('//h2[@class="part"]')]}
+
+
+LEFTOVER: list = []
 
 
 def walk_articles(units: list):
@@ -282,13 +313,18 @@ def walk_articles(units: list):
                 out.append((u, list(pending)))
                 pending.clear()
             else:
-                if u.kind in ('chpt', 'bran', 'part', 'titl', 'sect', 'dvsn', 'schp'):
+                if u.kind in ('chpt', 'bran', 'part', 'titl', 'sect', 'dvsn', 'schp', 'none', 'book'):
                     labels = u.label if isinstance(u.label, list) else [u.label]
                     for i, t in enumerate(labels):
                         if t:
                             pending.append((f'{u.id}/h{i}', '## ' + t, u.glosses if i == 0 else []))
                 go(u.body, u.id)
     go(units)
+    if pending and out:
+        # headings after the last article (a chapter left empty: "Rozdział 75 (zawierający art. 674-682 - uchylony)")
+        LEFTOVER[:] = list(pending)
+    else:
+        LEFTOVER[:] = []
     return out
 
 
@@ -309,7 +345,10 @@ def unit_lines(u: Unit, path: str, inherited: list) -> list[tuple[str, str, list
         else:
             if started:
                 n_after += 1
-                out.append((f'{key}/w{n_after}', INDENT.get(u.kind, '') + b[1], list(b[2]), inherited + [gl]))
+                # the common part after a unit's points ("- podlega grzywnie ..."); W_DASH[0] False (the codes) writes
+                # it indented without a list marker, as it is not a point of the list
+                pre = INDENT.get(u.kind, '') if W_DASH[0] else ' ' * len(INDENT.get(u.kind, ''))
+                out.append((f'{key}/w{n_after}', pre + b[1], list(b[2]), inherited + [gl]))
             else:
                 own.append(b[1])
                 gl = gl + list(b[2])
@@ -340,13 +379,46 @@ def read_html(raw: bytes, tj: bool = False) -> dict:
     finally:
         TJ[0] = False
     files, order = {}, []
-    for a, heads in walk_articles(tree['units']):
+    arts = walk_articles(tree['units'])
+    ids = [a.id for a, _ in arts]
+    for a, heads in arts:
         num = a.id.split('_', 1)[1]
+        # the API's id for art. 611p of the Code of Criminal Procedure reads '61lp' (a letter l for the digit 1):
+        # read as 611p when the article before is 611..., so the file sorts in its place
+        m = re.fullmatch(r'(\d+)l([a-z]+)', num)
+        if m and order and re.match(rf'{m.group(1)}1(?!\d)', order[-1]):
+            num = f'{m.group(1)}1{m.group(2)}'
+        # a number out of place between its neighbours ('1522' between art. 14 and art. 16 of the Code of Civil
+        # Procedure, unified text of 2024): the leading digits that fit between them are its number
+        if num.isdigit() and order and ids.index(a.id) + 1 < len(ids):
+            pm = re.match(r'\d+', order[-1])
+            nm = re.match(r'arti_(\d+)', ids[ids.index(a.id) + 1])
+            if pm and nm and not (int(pm.group()) <= int(num) <= int(nm.group(1))):
+                for k in range(len(num) - 1, 0, -1):
+                    if int(pm.group()) < int(num[:k]) < int(nm.group(1)):
+                        num = num[:k]
+                        break
+        # and the reverse: art. 589l reads '5891' (the digit 1 for the letter l) after art. 589k
+        m = re.fullmatch(r'(\d+)1', num)
+        if m and order and order[-1] == f'{m.group(1)}k':
+            num = f'{m.group(1)}l'
+        if not tj and ids.count(a.id) > 1:
+            # an act as published whose HTML gives two articles one id: the Civil Code of 1964 has "arti_538" for
+            # art. 536 too (its bookmark reads _a536); the bookmark's number is used when it is free
+            bm = re.search(r'_a(\d+[a-z]*)$', a.bm or '')
+            if bm and bm.group(1) != num and bm.group(1) not in files and f'arti_{bm.group(1)}' not in ids:
+                num = bm.group(1)
         if num in files:
             # printed twice: the article in force, then (a unified text) its future form; the first is kept
             continue
         files[num] = {'label': a.label.rstrip('.'), 'lines': article_lines(a, heads)}
         order.append(num)
+    if LEFTOVER and order:
+        files[order[-1]]['lines'] += [(k, t, g, []) for k, t, g in LEFTOVER]
+    if tree.get('pre'):
+        files['preambula'] = {'label': 'Preambuła',
+                              'lines': [(f'preambula/p{i + 1}', tx, g, []) for i, (tx, g) in enumerate(tree['pre'])]}
+        order.insert(0, 'preambula')
     return {'files': files, 'order': order, 'title': tree['title'], 'glosses': tree['glosses'], 'tree': tree}
 
 

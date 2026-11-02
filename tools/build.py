@@ -343,6 +343,14 @@ def restore_refs(new: str, old: str | None) -> str:
 
 
 def build_unified(act: Act):
+    parse.W_DASH[0] = not act.conf.get('html_tjs_only')
+    try:
+        _build_unified(act)
+    finally:
+        parse.W_DASH[0] = True
+
+
+def _build_unified(act: Act):
     conf = act.conf
     refs = act.meta['references']
     amend = {r['id']: r.get('date') for r in refs.get('Akty zmieniające', [])}
@@ -1088,7 +1096,8 @@ def write_append(repo: Path, old_acts: list[Act], new_acts: list[Act], today: st
     log, tags = [], {}
 
     def commit(author, msg, trailers, day, path=None):
-        git(repo, 'add', '-A', *(['--', path] if path else []))
+        if path is None or (repo / path).exists():
+            git(repo, 'add', '-A', *(['--', path] if path else []))
         seq[0] += 1
         env = {**os.environ, 'GIT_AUTHOR_NAME': author[0], 'GIT_AUTHOR_EMAIL': author[1],
                'GIT_AUTHOR_DATE': commit_date(day), 'GIT_COMMITTER_NAME': COMMITTER[0],
