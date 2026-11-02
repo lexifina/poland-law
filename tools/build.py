@@ -114,7 +114,7 @@ def eli_order(eli: str) -> tuple:
 
 # The API's article ids: '7', '7a', '7_1' (art. 7 with superscript 1), '300_71_a' (art. 300 with superscript 71a),
 # '596-609' (a range of repealed articles printed as one unit).
-NUM = re.compile(r'(\d+)([a-z]*)(?:_(\d+))?(?:_([a-z]+))?(?:-(\d+[a-z]*))?')
+NUM = re.compile(r'(\d+)([a-ząćęłńóśźż]*)(?:_(\d+))?(?:_([a-ząćęłńóśźż]+))?(?:-(\d+[a-ząćęłńóśźż]*))?')  # art. 22ł of the PIT act
 SUPD = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
 UNSUP = str.maketrans('⁰¹²³⁴⁵⁶⁷⁸⁹', '0123456789')
 
@@ -139,7 +139,16 @@ def num_order(num: str) -> tuple:
     m = NUM.fullmatch(num)
     if not m:
         raise SystemExit(f'article number not understood: {num}')
-    return (1, int(m.group(1)), m.group(2), int(m.group(3) or 0), m.group(4) or '')
+    return (1, int(m.group(1)), pl_key(m.group(2)), int(m.group(3) or 0), pl_key(m.group(4) or ''))
+
+
+def pl_key(s: str) -> str:
+    """Letters in Polish alphabetical order (art. 22l, 22ł, 22m): 'ł' -> 'l~', between 'l' and 'm'."""
+    return ''.join(PL_LETTERS.get(c, c) for c in s)
+
+
+PL_LETTERS = {c: b + '~' for c, b in zip('ąćęłńóśźż', 'acelnoszz')}
+PL_LETTERS['ż'] = 'z~~'
 
 
 def shown(n: str) -> str:

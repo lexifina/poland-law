@@ -50,15 +50,6 @@ def html_words(raw: bytes, tj: bool = False) -> list[str]:
         for el in list(parse.DROPPED):
             if el.getparent() is not None:
                 el.drop_tree()
-    # the future wording a unified text prints in bold after "w tym brzmieniu obowiązuje do wejścia w życie zmiany"
-    for g in part.xpath('.//div[@data-template="xText"]//a[contains(@class,"gloss-link")]'):
-        if parse.UNTIL.search(g.text_content()):
-            nxt = g.getnext()
-            if nxt is not None and nxt.tag == 'b' and parse.has_class(nxt, 'b') and not (g.tail or '').strip():
-                after = nxt.getnext()
-                if after is not None and parse.has_class(after, 'gloss-link') and not (nxt.tail or '').strip():
-                    after.drop_tree()
-                nxt.drop_tree()
     for g in part.xpath('.//a[contains(@class,"gloss-link")]'):
         g.drop_tree()
     for g in part.xpath('.//div[contains(@class,"gloss")]|.//h2'):
@@ -88,7 +79,7 @@ def pdf_words(raw: bytes, start: str | None, layout: str) -> list[str]:
 
 
 def repo_words(text: str, dehyphen: bool = False) -> list[str]:
-    lines = [re.sub(r'^\s*(#+ |- (?=[0-9]+[a-z]*[⁰¹²³⁴⁵⁶⁷⁸⁹ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ]*\) |[a-z]{1,2}[⁰¹²³⁴⁵⁶⁷⁸⁹]*\) ))', '', l)
+    lines = [re.sub(r'^\s*(#+ |- (?=[0-9]+[a-z]*[⁰¹²³⁴⁵⁶⁷⁸⁹ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ]*[).] |[a-z]{1,2}[⁰¹²³⁴⁵⁶⁷⁸⁹]*\) ))', '', l)
              for l in text.split('\n')]
     t = norm(' '.join(lines))
     return TOKEN.findall(t)

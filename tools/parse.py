@@ -86,6 +86,7 @@ def flat(e, body: bool = False) -> tuple[str, list[tuple[str, str]]]:
             return
         if body and state['until'] and x.tag == 'b' and has_class(x, 'b'):
             state['until'], state['skip_gloss'] = False, True
+            DROPPED.append(x)
             if x.tail:
                 parts.append(x.tail)
             return

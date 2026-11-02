@@ -22,16 +22,19 @@ def order(path: str) -> tuple:
     name = path.rsplit('/', 1)[1][:-3]
     if name == 'preambula':
         return (0, 0, '', 0, '')
-    m = re.fullmatch(r'art-(\d+)([a-z]*)(?:-(\d+)([a-z]*))?(?:-do-.*)?', name)
-    return (1, int(m.group(1)), m.group(2), int(m.group(3) or 0), m.group(4) or '') if m else (2, 0, name, 0, '')
+    m = re.fullmatch(r'art-(\d+)([a-ząćęłńóśźż]*)(?:-(\d+)([a-ząćęłńóśźż]*))?(?:-do-.*)?', name)
+    if not m:
+        return (2, 0, name, 0, '')
+    pl = str.maketrans({c: b + '~' for c, b in zip('ąćęłńóśź', 'acelnosz')} | {'ż': 'z~~'})  # Polish order: l, ł, m
+    return (1, int(m.group(1)), m.group(2).translate(pl), int(m.group(3) or 0), (m.group(4) or '').translate(pl))
 
 
 def file_for(key: str) -> str:
     """'55' -> art-055.md; art. 7 with superscript 1 (7¹, 7^1 or 7_1) -> art-007-1.md."""
-    m = re.fullmatch(r'(\d+)([a-z]*)(?:[_^](\d+))?', key)
-    sup = re.fullmatch(r'(\d+[a-z]*)([⁰¹²³⁴⁵⁶⁷⁸⁹]+)', key)
+    m = re.fullmatch(r'(\d+)([a-ząćęłńóśźż]*)(?:[_^](\d+))?', key)
+    sup = re.fullmatch(r'(\d+[a-ząćęłńóśźż]*)([⁰¹²³⁴⁵⁶⁷⁸⁹]+)', key)
     if sup:
-        m = re.fullmatch(r'(\d+)([a-z]*)()', sup.group(1))
+        m = re.fullmatch(r'(\d+)([a-ząćęłńóśźż]*)()', sup.group(1))
         return f'art-{int(m.group(1)):03d}{m.group(2)}-{sup.group(2).translate(str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789"))}.md'
     if m:
         return f'art-{int(m.group(1)):03d}{m.group(2)}' + (f'-{m.group(3)}' if m.group(3) else '') + '.md'
