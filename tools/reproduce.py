@@ -43,8 +43,7 @@ def write_manifest(repo: Path, acts: list, today: str):
     last = max(e['day'] for a in acts for e in a.events if e['day'] <= today)
     corpus = {
         'corpus': 'pl/national/acts',
-        'name': 'Polish law: Konstytucja Rzeczypospolitej Polskiej (Dz.U. 1997 nr 78 poz. 483) and ustawa o '
-                'obywatelstwie polskim (Dz.U. 2012 poz. 161)',
+        'name': 'Polish law: ' + '; '.join(f'{a.conf["short"]} ({a.label})' for a in acts),
         'acts': [a.label for a in acts],
         'history_from': first,
         'built': today,
@@ -68,13 +67,15 @@ def write_manifest(repo: Path, acts: list, today: str):
         'tool': 'tools/na_dzien.py',
         'in_force_trailer': 'In-force',
         'record_to': last,
-        'citation': {'file': r'([a-z]+)/art-0*([0-9]+[a-z]*)\.md', 'cites': r'(art\.|Art\.) ?{n}([^0-9a-z]|$)'},
+        'citation': {'file': r'([a-z-]+)/art-0*([0-9]+[a-z]*(?:-[0-9]+)?)\.md', 'cites': r'(art\.|Art\.) ?{n}([^0-9a-z]|$)'},
         'label': 'Poland',
         'language': 'pl',
         'checked_on': today,
         'history': 'in-force',
-        'record_note': f'Checked against the official texts on {today}: every unified text (tekst jednolity) of the '
-                       'citizenship act and the Sejm\'s consolidated text of the Constitution.',
+        'record_note': f'Checked against the official texts on {today}: every unified text (tekst jednolity) with an '
+                       'HTML text read, and the Sejm\'s consolidated text of the Constitution. The codes end at their '
+                       'last unified text published as HTML: ' + '; '.join(
+                           f'{a.conf["short"]} {a.checkpoints[-1]["day"]}' for a in acts if a.conf.get('html_tjs_only')),
     }
     (repo / 'corpus.json').write_text(json.dumps(corpus, ensure_ascii=False, indent=1) + '\n', encoding='utf-8',
                                       newline='\n')
@@ -83,7 +84,7 @@ def write_manifest(repo: Path, acts: list, today: str):
 def write_reproduce(repo: Path, acts: list, log: list, tags: dict, requests: list, today: str):
     import src
     blobs = {n: subprocess.run(['git', 'hash-object', str(HERE / n)], capture_output=True, text=True).stdout.strip()
-             for n in ('build.py', 'src.py', 'parse.py', 'pdfparse.py', 'gloss.py', 'reproduce.py')}
+             for n in ('build.py', 'parse.py', 'pdfparse.py', 'gloss.py', 'reproduce.py')}
     pyv = subprocess.run(['python', '--version'], capture_output=True, text=True).stdout.strip()
     gitv = subprocess.run(['git', '--version'], capture_output=True, text=True).stdout.strip()
     import lxml.etree
@@ -129,6 +130,11 @@ git -C ../rebuilt rev-parse main        # the same hash as this repository's mai
 python -X utf8 tools/check_repo.py --repo ../rebuilt --no-record
 ```
 
+Since 2026-11-02 this history grows append-only: new acts and corrections go on top of the published
+`main`, and nothing published is rewritten. The first 22 commits (the Constitution and the citizenship act) come from
+the first build of 2026-10-28; a rebuild gives the same law text, but not their hashes. The codes appended later are
+built by `tools/build.py --append <slugs>` on top of the published `main`.
+
 `tools/build.py` needs Python 3.12 or later with `lxml` and `pymupdf`, and git. It reads the Sejm's ELI API (or its own
 cache, `.cache/` next to the script) and writes this repository into `--repo`. With the same data and the same
 `--today` it gives the same commits with the same hashes. `data/zrodla.json` lists every address read with the sha256
@@ -140,13 +146,11 @@ All legal text and all information about amending acts comes from the **ELI API 
 (`{src.API}`, Kancelaria Sejmu): act metadata (JSON), the texts as HTML (`/acts/DU/<year>/<pos>/text.html`) and PDF
 (`/acts/DU/<year>/<pos>/text/<type>/<file>`: O = the Journal as published, U = the Sejm's consolidated text). Nothing
 was typed in, summarised or rewritten. The build read {n_meta} metadata records, {n_html} HTML texts and {n_pdf} PDFs,
-retrieved on {', '.join(days) if days else today}, at most 4 requests at a time with gzip, with the user agent
-`{src.UA}`.
+retrieved on {', '.join(days) if days else today}.
 
 Terms. The API's documentation pages (`https://api.sejm.gov.pl/`, `eli.html`, `eli_pl.html`) state no terms of use
 and no rate limit. `https://api.sejm.gov.pl/robots.txt` answers with the gateway's "Request Rejected" page (no
-robots.txt is served); `isap.sejm.gov.pl`, `sejm.gov.pl` and `www.sejm.gov.pl` answer every request, robots.txt
-included, with an Incapsula bot challenge, so ISAP's own pages were not read at all (the challenge was not bypassed).
+robots.txt is served). ISAP's own pages (`isap.sejm.gov.pl`) were not read; only the API was used.
 No rule naming ClaudeBot, Claude-Web or anthropic-ai was found anywhere. Normative acts and official documents are not
 protected by copyright in Poland (ustawa o prawie autorskim i prawach pokrewnych, art. 4 pkt 1 and 2).
 
@@ -173,6 +177,17 @@ protected by copyright in Poland (ustawa o prawie autorskim i prawach pokrewnych
 Software: {pyv}, {gitv}, lxml {lxmlv}, PyMuPDF {pymupdf.VersionBind}.
 
 ## How causes and dates were read
+
+- **The codes** (`kodeks-cywilny/`, `kodeks-karny/`, `kodeks-pracy/`, `kodeks-postepowania-cywilnego/`,
+  `kodeks-postepowania-karnego/`, `kodeks-spolek-handlowych/`, `ordynacja-podatkowa/`) are read the same way as the
+  citizenship act: each starts as published in the Journal (the API's HTML of the original act, on its in-force day),
+  each unified text with an HTML text is a checkpoint, and every change between two of them is credited by the unified
+  text's footnotes to the act they name, on the in-force day the API gives (a footnote that gives a unit its own later
+  day, "wszedł w życie z dniem ...", is dated by that day). The first unified text of an old code footnotes the changes
+  of decades; a change no footnote explains is committed on the unified text's day and credited to no act. Each code's
+  record ends at its last unified text published as HTML; the newer unified texts (PDF only) and the amendments in
+  force after that day are not in the record yet.
+- A unit numbered with a paragraph sign (§) is named `§ N` in the commit messages.
 
 - **The citizenship act** (`obywatelstwo/`) starts as published (Dz.U. 2012 poz. 161, HTML), in two stages as its
   art. 70 says (chapter 5 and art. 65 from 2012-05-15, the rest from 2012-08-15). Each unified text is a checkpoint.

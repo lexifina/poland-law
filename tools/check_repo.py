@@ -37,13 +37,37 @@ def norm(s: str) -> str:
     return s.translate(build.DASH)
 
 
-def html_words(raw: bytes) -> list[str]:
+def html_words(raw: bytes, tj: bool = False) -> list[str]:
     doc = lhtml.fromstring(raw.decode('utf-8'))
     part = parse.act_part(doc)
+    if tj:
+        # the provisions a unified text prints for the future: exactly the elements the build's parser leaves out
+        parse.TJ[0] = True
+        try:
+            parse.read_tree(None, doc=doc)
+        finally:
+            parse.TJ[0] = False
+        for el in list(parse.DROPPED):
+            if el.getparent() is not None:
+                el.drop_tree()
+    # the future wording a unified text prints in bold after "w tym brzmieniu obowiązuje do wejścia w życie zmiany"
+    for g in part.xpath('.//div[@data-template="xText"]//a[contains(@class,"gloss-link")]'):
+        if parse.UNTIL.search(g.text_content()):
+            nxt = g.getnext()
+            if nxt is not None and nxt.tag == 'b' and parse.has_class(nxt, 'b') and not (g.tail or '').strip():
+                after = nxt.getnext()
+                if after is not None and parse.has_class(after, 'gloss-link') and not (nxt.tail or '').strip():
+                    after.drop_tree()
+                nxt.drop_tree()
     for g in part.xpath('.//a[contains(@class,"gloss-link")]'):
         g.drop_tree()
     for g in part.xpath('.//div[contains(@class,"gloss")]|.//h2'):
         g.drop_tree()
+    for s in part.xpath('.//sup'):      # superscripts as the build writes them (art. 7¹)
+        t = s.text_content().strip().translate(parse.SUP)
+        for c in list(s):
+            s.remove(c)
+        s.text = t
 
     def text(e) -> str:
         if not isinstance(e.tag, str):
@@ -56,7 +80,7 @@ def html_words(raw: bytes) -> list[str]:
 def pdf_words(raw: bytes, start: str | None, layout: str) -> list[str]:
     import pymupdf
     lines = pdfparse.visual_lines(pymupdf.open(stream=raw, filetype='pdf'), 470 if layout == 'u' else 10000)
-    body = [l['text'] for l in lines if l['text'] and not l['small'] and not pdfparse.HEAD.match(l['text'])]
+    body = [pdfparse.closed_up(l) for l in lines if l['text'] and not l['small'] and not pdfparse.HEAD.match(l['text'])]
     if start:
         body = body[next(i for i, t in enumerate(body) if t.startswith(start)):]
     text = pdfparse.join_lines(body, set())
@@ -64,7 +88,8 @@ def pdf_words(raw: bytes, start: str | None, layout: str) -> list[str]:
 
 
 def repo_words(text: str, dehyphen: bool = False) -> list[str]:
-    lines = [re.sub(r'^\s*(#+ |- )', '', l) for l in text.split('\n')]
+    lines = [re.sub(r'^\s*(#+ |- (?=[0-9]+[a-z]*[⁰¹²³⁴⁵⁶⁷⁸⁹ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ]*\) |[a-z]{1,2}[⁰¹²³⁴⁵⁶⁷⁸⁹]*\) ))', '', l)
+             for l in text.split('\n')]
     t = norm(' '.join(lines))
     return TOKEN.findall(t)
 
@@ -115,6 +140,11 @@ def main():
     args = ap.parse_args()
     repo = args.repo
     acts = build.build_all(offline=True)
+    for conf in build.CODES:      # the codes appended on top of the first publication, when main has them
+        if (Path(repo) / conf['slug']).is_dir():
+            a = build.Act(conf)
+            build.build_unified(a)
+            acts.append(a)
     n_cp = n_files = bad = 0
     n_words = wbad = 0
     edit_checked = edit_bad = 0
@@ -132,7 +162,7 @@ def main():
                 ow = nohyphen(pdf_words(raw, 'W trosce', 'du'))
                 rw = nohyphen(repo_words(na_dzien(repo, cp['day'], a.slug).stdout))
                 import difflib
-                sm = difflib.SequenceMatcher(None, ow, rw, autojunk=False)
+                sm = difflib.SequenceMatcher(None, ow, rw)
                 diffs = [(' '.join(ow[i1:i2]), ' '.join(rw[j1:j2])) for op, i1, i2, j1, j2 in sm.get_opcodes()
                          if op != 'equal']
                 same_files = got == expected
@@ -156,19 +186,14 @@ def main():
             # words, independently of the parser's structure
             whole = na_dzien(repo, cp['day'], a.slug).stdout
             if cp['kind'] == 'html':
-                ow = html_words(src.text_html(cp['eli']))
+                ow = html_words(src.text_html(cp['eli']), tj=cp['what'] == 'tekst jednolity')
                 rw = repo_words(whole)
             else:
                 meta = a.law(cp['eli'].split(' ')[0])
                 kind = 'U' if cp['kind'] == 'pdf-u' else 'O'
                 raw = src.text_file(meta['ELI'], kind, build.pdf_name(meta, kind))
-                ow = nohyphen(pdf_words(raw, 'Rozdział 1' if kind == 'O' else 'K O N S T', 'u' if kind == 'U' else 'du'))
+                ow = nohyphen(pdf_words(raw, 'Rozdział 1' if kind == 'O' else None, 'u' if kind == 'U' else 'du'))
                 rw = nohyphen(repo_words(whole))
-                if kind == 'U':
-                    rw = nohyphen(TOKEN.findall(norm(re.sub(r'^# ', '', whole.replace('KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ',
-                                                                                        'K O N S T Y T U C J A R Z E C Z Y P O S P O L I T E J P O L S K I E J')))))
-                    rw = nohyphen([w for l in whole.split('\n') for w in repo_words(l.replace(
-                        'KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ', 'K O N S T Y T U C J A R Z E C Z Y P O S P O L I T E J P O L S K I E J'))])
             n_words += len(ow)
             if ow != rw:
                 wbad += 1
@@ -185,7 +210,7 @@ def main():
             before = files_at(repo, f'{tag}~1', a.slug)
             final = {build.file_name(n): ls for n, ls in e['final'].items()}
             for name in sorted(set(before) | set(final)):
-                old = {}
+                old = []
                 if name in before:
                     blocks = before[name].rstrip('\n').split('\n\n')
                     old = blocks
@@ -199,8 +224,9 @@ def main():
                         continue
                     edit_checked += 1
                     o, n = old[i1:i2], new[j1:j2]
-                    fine = (len(o) == len(n) and all(build.same_but_refs(x, y) for x, y in zip(o, n))) or \
-                        any('(pominięty)' in y for y in n)
+                    fine = (len(o) == len(n) and all(build.same_but_refs(x, y) or build.same_but_punct(x, y)
+                                                     for x, y in zip(o, n))) or \
+                        any('(pominięty)' in y for y in new)
                     if not fine:
                         edit_bad += 1
                         print(f'EDITORIAL {a.slug} {tag} {name}: {o[:2]} -> {n[:2]}')

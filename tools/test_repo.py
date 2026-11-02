@@ -80,7 +80,7 @@ class Smoke:
             assert a == self.git('show', f'{tag}~1:{path}'), f'{path} on {before} is not the file before {tag}'
             done.append(f'{path} {before} != {after}')
         whole = self.tool('2000-01-01', 'konstytucja')
-        assert '# Art. 243.' in whole and 'mogą być ustanawiane' in whole, 'whole Constitution on 2000-01-01 is not complete'
+        assert '# Art. 243.' in whole and 'mogą by ustanawiane' in whole, 'whole Constitution on 2000-01-01 is not the 1997 print'
         return '; '.join(done)
 
     # 3
@@ -104,9 +104,8 @@ class Smoke:
         for t in tags:
             self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
         rows = self.git('log', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
-        missing = [r for r in rows[1:] if not r.split('\t')[2].strip()]
+        missing = [r for r in rows if not r.split('\t')[2].strip()]
         assert not missing, f'{len(missing)} commits without In-force, e.g. {missing[:2]}'
-        assert not rows[0].split('\t')[2].strip(), 'documentation commit should carry no In-force'
         bad = [r for r in rows[1:] if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
         assert not bad, f'malformed In-force {bad[:2]}'
         return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force'

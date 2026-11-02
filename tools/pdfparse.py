@@ -57,9 +57,18 @@ def visual_lines(doc, max_x: float = 10000) -> list[dict]:
                     continue
                 text += s['text']
             out.append({'page': pno, 'y': y, 'x0': body[0]['bbox'][0], 'x1': body[-1]['bbox'][2], 'size': size,
-                        'bold': bool(body[0]['flags'] & 16), 'text': clean(text), 'marks': marks,
+                        'bold': bool(body[0]['flags'] & 16), 'text': clean(text), 'raw': text, 'marks': marks,
                         'small': size < 9.5 and not any(s['size'] >= 9.5 for s in body)})
     return out
+
+
+def closed_up(line: dict) -> str:
+    """A letter-spaced line ("R Z E C Z Y P O S P O L I T E J  P O L S K I E J") with its letters closed up: words
+    are the runs separated by two or more spaces in the printed line."""
+    raw = line.get('raw', line['text']).replace('\u00a0', ' ').strip()
+    if not re.fullmatch(r'(\w ){3,}\w.*', clean(raw)):
+        return line['text']
+    return ' '.join(w.replace(' ', '') for w in re.split(r' {2,}', raw))
 
 
 def join_lines(parts: list[str], vocab: set[str]) -> str:
@@ -163,7 +172,7 @@ def read_pdf(raw: bytes, vocab: set[str], start: str | None = None, layout: str 
             stack.clear()
             stack['chpt'] = ck
             continue
-        if stack.get('chpt') and not stack.get('arti') and l['bold'] and l['x0'] > left + 40:
+        if stack.get('chpt') and not stack.get('arti') and l['bold']:
             h = new(f'{stack["chpt"]}/h{sum(1 for x in heads)}', 'head', '## ' + t, l['marks'], None)
             heads.append(h)
             continue

@@ -31,17 +31,28 @@ def act_of(text: str, table: dict[str, str], seen: set | None = None) -> list[di
     resolved through footnote N of the same text."""
     seen = seen or set()
     out = []
+    prev_start = 0
     for part in re.split(r';| oraz (?=art\.)', text):
-        m = re.search(r'(art\. [0-9a-z]+(?: (?:ust|pkt|lit|\u00a7)\.? [0-9a-z]+)*)', part)
+        start = len(out)
+        m = re.search(r'(art\. [0-9a-z⁰¹²³⁴⁵⁶⁷⁸⁹]+(?: (?:ust|pkt|lit|\u00a7)\.? [0-9a-z⁰¹²³⁴⁵⁶⁷⁸⁹]+)*)', part)
         prov = m.group(1) if m else None
         ref = re.search(r'o której mowa w odnośniku (\d+)', part)
         if ref and ref.group(1) not in seen:
             seen.add(ref.group(1))
+            own = re.search(r'(?:wesz[łl]a|wesz[łl]y|wszed[łl]|weszło) w życie z dniem (\d{1,2} \w+ \d{4} r\.)', part)
             for a in act_of(table.get(ref.group(1), ''), table, seen):
-                out.append({**a, 'provision': prov or a['provision']})
+                # "ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 15 września 2023 r.": this unit's own day
+                out.append({**a, 'provision': prov or a['provision'], 'date': pl_date(own.group(1)) if own else a['date']})
+            prev_start = start
             continue
         dz = re.search(r'\(Dz\. ?U\. (?:z (\d{4}) r\. )?(?:Nr \d+, )?poz\. (\d+)', part)
         if not dz:
+            # "...ustawy, o której mowa w odnośniku 3; wszedł w życie z dniem 1 marca 2020 r.": the day of the part
+            # before (this unit's own day, when the act took effect in stages)
+            own = re.search(r'^\s*(?:wesz[łl]a|wesz[łl]y|wszed[łl]|weszło) w życie z dniem (\d{1,2} \w+ \d{4} r\.)', part)
+            if own:
+                for x in out[prev_start:]:
+                    x['date'] = pl_date(own.group(1))
             continue
         year = dz.group(1)
         if not year:
@@ -50,4 +61,5 @@ def act_of(text: str, table: dict[str, str], seen: set | None = None) -> list[di
         eli = f'DU/{year}/{dz.group(2)}' if year else None
         d = re.search(r'(?:wesz[łl]a|wesz[łl]y|wszed[łl]|weszło) w życie z dniem (\d{1,2} \w+ \d{4} r\.)', part)
         out.append({'eli': eli, 'provision': prov, 'date': pl_date(d.group(1)) if d else None})
+        prev_start = start
     return out
