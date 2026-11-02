@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1442",
+ "source_sha256": "5bd081a577941f256376ca1694f8a94221f3353f47f0b78c290ba7f36f906b10",
+ "in_force": "2026-11-02",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1442",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1442/text/O/D20261442.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1442/text/I/D20261442.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1442/text/T/D20261442L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1442",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1442,
+  "address": "WDU20260001442",
+  "displayAddress": "Dz.U. 2026 poz. 1442",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 października 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o giełdach towarowych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-09",
+  "promulgation": "2026-11-02",
+  "changeDate": "2026-11-03T13:49:03",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "towary i usługi konsumpcyjne",
+   "giełdy",
+   "handlowe prawo",
+   "towar"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2000/1099"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261442.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261442.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261442L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
