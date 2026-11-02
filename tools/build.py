@@ -72,6 +72,22 @@ CODES = [
      'html_tjs_only': True},
     {'eli': 'DU/1997/926', 'slug': 'ordynacja-podatkowa', 'short': 'Ordynacja podatkowa', 'kind': 'unified',
      'html_tjs_only': True},
+    # The most amended statutes (amending acts listed by the API, 2026-11-03): PIT 452, CIT 307, social insurance
+    # 234, road traffic 212, building law 142, VAT 117, Code of Petty Offences 117.
+    {'eli': 'DU/1991/350', 'slug': 'podatek-dochodowy-od-osob-fizycznych', 'short': 'PIT', 'kind': 'unified',
+     'html_tjs_only': True},
+    {'eli': 'DU/1992/86', 'slug': 'podatek-dochodowy-od-osob-prawnych', 'short': 'CIT', 'kind': 'unified',
+     'html_tjs_only': True},
+    {'eli': 'DU/1998/887', 'slug': 'system-ubezpieczen-spolecznych', 'short': 'System ubezpieczeń społecznych',
+     'kind': 'unified', 'html_tjs_only': True},
+    {'eli': 'DU/1997/602', 'slug': 'prawo-o-ruchu-drogowym', 'short': 'Prawo o ruchu drogowym', 'kind': 'unified',
+     'html_tjs_only': True},
+    {'eli': 'DU/1994/414', 'slug': 'prawo-budowlane', 'short': 'Prawo budowlane', 'kind': 'unified',
+     'html_tjs_only': True},
+    {'eli': 'DU/2004/535', 'slug': 'podatek-od-towarow-i-uslug', 'short': 'VAT', 'kind': 'unified',
+     'html_tjs_only': True},
+    {'eli': 'DU/1971/114', 'slug': 'kodeks-wykroczen', 'short': 'Kodeks wykroczeń', 'kind': 'unified',
+     'html_tjs_only': True},
 ]
 
 
@@ -465,6 +481,12 @@ def _build_unified(act: Act):
                     d = amend.get(eli) or x['date']
                 if eli not in amend:
                     act.problems.append(f'{act.slug} {provision(num, key)}: footnote names {eli}, not among the API\'s amending acts')
+                if not d:
+                    # no day for it anywhere (not among the API's amending acts, no day in the footnote)
+                    act.problems.append(f'{act.slug} {provision(num, key)}: no in-force day for {eli}; not credited')
+                    if i == len(steps) - 1:
+                        unexplained.append((num, key, b[1]))
+                    continue
                 if d and amend.get(eli) and d != amend.get(eli):
                     act.problems.append(f'{act.slug} {provision(num, key)}: {eli} in force {d} (footnote, used) but '
                                         f'{amend.get(eli)} (API)')
@@ -1095,12 +1117,23 @@ def write_append(repo: Path, old_acts: list[Act], new_acts: list[Act], today: st
     seq = [0]
     log, tags = [], {}
 
+    pre = [0]
+
     def commit(author, msg, trailers, day, path=None):
         if path is None or (repo / path).exists():
             git(repo, 'add', '-A', *(['--', path] if path else []))
         seq[0] += 1
+        when = commit_date(day)
+        if day < '1970-01-01':
+            # git stores no date before 1970 (the codes of 1964): 1 January 1970, one second per commit, in order
+            pre[0] += 1
+            when = f'@{pre[0]} +0000'
+            msg = list(msg) + wrap('Git nie zapisuje dat sprzed 1970 r., więc commit ma datę 1 stycznia 1970 r. (sekunda '
+                                   'po poprzednim). Dzień wejścia w życie podaje trailer In-force.') + wrap(
+                'Git cannot store a date before 1970, so this commit is dated 1 January 1970, a second after the one '
+                'before it. The day the change took effect is in the In-force trailer.') + ['']
         env = {**os.environ, 'GIT_AUTHOR_NAME': author[0], 'GIT_AUTHOR_EMAIL': author[1],
-               'GIT_AUTHOR_DATE': commit_date(day), 'GIT_COMMITTER_NAME': COMMITTER[0],
+               'GIT_AUTHOR_DATE': when, 'GIT_COMMITTER_NAME': COMMITTER[0],
                'GIT_COMMITTER_EMAIL': COMMITTER[1], 'GIT_COMMITTER_DATE': f'@{base_ct + seq[0]} +0100'}
         git(repo, 'commit', '-q', '--allow-empty', '--cleanup=verbatim', '-F', '-', env=env,
             input='\n'.join(msg).rstrip('\n') + '\n\n' + '\n'.join(trailers) + '\n')

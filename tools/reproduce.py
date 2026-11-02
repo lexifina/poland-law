@@ -178,8 +178,7 @@ Software: {pyv}, {gitv}, lxml {lxmlv}, PyMuPDF {pymupdf.VersionBind}.
 
 ## How causes and dates were read
 
-- **The codes** (`kodeks-cywilny/`, `kodeks-karny/`, `kodeks-pracy/`, `kodeks-postepowania-cywilnego/`,
-  `kodeks-postepowania-karnego/`, `kodeks-spolek-handlowych/`, `ordynacja-podatkowa/`) are read the same way as the
+- **The codes and statutes added since 2026-11-02** ({', '.join(f'`{a.slug}/`' for a in acts if a.conf.get('html_tjs_only'))}) are read the same way as the
   citizenship act: each starts as published in the Journal (the API's HTML of the original act, on its in-force day),
   each unified text with an HTML text is a checkpoint, and every change between two of them is credited by the unified
   text's footnotes to the act they name, on the in-force day the API gives (a footnote that gives a unit its own later
