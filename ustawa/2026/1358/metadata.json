@@ -1,0 +1,76 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1358",
+ "source_sha256": "b0545d73a9476e4d3e41d6fba7f9c959a41819a307bb6451e24df870a66a23ad",
+ "in_force": "2026-11-03",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1358",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1358/text/O/D20261358.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1358/text/I/D20261358.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1358/text/T/D20261358L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1358",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1358,
+  "address": "WDU20260001358",
+  "displayAddress": "Dz.U. 2026 poz. 1358",
+  "title": "Ustawa z dnia 4 września 2026 r. o zmianie ustawy - Prawo wodne",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-04",
+  "promulgation": "2026-10-19",
+  "entryIntoForce": "2026-11-03",
+  "changeDate": "2026-10-26T10:29:55",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "wodne prawo"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2866",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2866",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2866",
+    "number": "2866",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2017/1566",
+     "date": "2026-11-03"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261358.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261358.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261358L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
