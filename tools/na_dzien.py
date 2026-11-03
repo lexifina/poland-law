@@ -4,6 +4,7 @@
     python tools/na_dzien.py 2020-01-01 obywatelstwo          # the whole citizenship act on 1 January 2020
     python tools/na_dzien.py 2020-01-01 konstytucja preambula
     python tools/na_dzien.py 2024-01-01 kodeks-spolek-handlowych 7^1   # art. 7¹ (also 7_1 or 7¹)
+    python tools/na_dzien.py 2024-01-01 <regulation> §3       # § 3 of a regulation (par-003.md; also p3)
 
 Each commit carries the day its change took effect in an `In-force:` trailer; the text in force on a day is the last
 commit on or before it that touches the act. Standard library only.
@@ -22,7 +23,7 @@ def order(path: str) -> tuple:
     name = path.rsplit('/', 1)[1][:-3]
     if name == 'preambula':
         return (0, 0, '', 0, '')
-    m = re.fullmatch(r'art-(\d+)([a-ząćęłńóśźż]*)(?:-(\d+)([a-ząćęłńóśźż]*))?(?:-do-.*)?', name)
+    m = re.fullmatch(r'(?:art|par)-(\d+)([a-ząćęłńóśźż]*)(?:-(\d+)([a-ząćęłńóśźż]*))?(?:-do-.*)?', name)
     if not m:
         return (2, 0, name, 0, '')
     pl = str.maketrans({c: b + '~' for c, b in zip('ąćęłńóśź', 'acelnosz')} | {'ż': 'z~~'})  # Polish order: l, ł, m
@@ -30,7 +31,11 @@ def order(path: str) -> tuple:
 
 
 def file_for(key: str) -> str:
-    """'55' -> art-055.md; art. 7 with superscript 1 (7¹, 7^1 or 7_1) -> art-007-1.md."""
+    """'55' -> art-055.md; art. 7 with superscript 1 (7¹, 7^1 or 7_1) -> art-007-1.md; '§3' or 'p3' (a regulation's
+    paragraph) -> par-003.md."""
+    par = re.fullmatch(r'(?:§\s*|p)(\d+)([a-ząćęłńóśźż]*)(?:[_^](\d+))?', key)
+    if par:
+        return f'par-{int(par.group(1)):03d}{par.group(2)}' + (f'-{par.group(3)}' if par.group(3) else '') + '.md'
     m = re.fullmatch(r'(\d+)([a-ząćęłńóśźż]*)(?:[_^](\d+))?', key)
     sup = re.fullmatch(r'(\d+[a-ząćęłńóśźż]*)([⁰¹²³⁴⁵⁶⁷⁸⁹]+)', key)
     if sup:
