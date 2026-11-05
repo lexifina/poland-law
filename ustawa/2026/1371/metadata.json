@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1371",
+ "source_sha256": "a84aaf28c8c2c4794b44ced52009bcd4ff4fcfbcd6cc161029dd150d4b6c5141",
+ "in_force": "2026-11-05",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1371",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1371/text/O/D20261371.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1371/text/I/D20261371.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1371/text/T/D20261371L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1371",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1371,
+  "address": "WDU20260001371",
+  "displayAddress": "Dz.U. 2026 poz. 1371",
+  "title": "Ustawa z dnia 18 września 2026 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-18",
+  "promulgation": "2026-10-21",
+  "entryIntoForce": "2026-11-05",
+  "changeDate": "2026-10-26T10:26:05",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [
+   "MIN. WŁAŚCIWY DS FINANSÓW PUBLICZNYCH"
+  ],
+  "previousTitle": [],
+  "keywords": [
+   "podatek dochodowy od osób fizycznych",
+   "podatek dochodowy od osób prawnych"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2837",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2837",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2837",
+    "number": "2837",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 1 i 2, art. 2 pkt 3 i 4 oraz art. 3 wchodzą w życie z dniem 1 stycznia 2027 r.",
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/1992/86",
+     "date": "2026-11-05"
+    },
+    {
+     "id": "DU/1991/350",
+     "date": "2026-11-05"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261371.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261371.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261371L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
