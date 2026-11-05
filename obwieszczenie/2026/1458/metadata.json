@@ -1,0 +1,79 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1458",
+ "source_sha256": "07bf9ec0ce078ad5340d8adcd1bc5a790fbad5cad5b4268d9435a86fd9611f4b",
+ "in_force": "2026-11-05",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1458",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1458/text/O/D20261458.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1458/text/I/D20261458.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1458/text/T/D20261458L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1458",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1458,
+  "address": "WDU20260001458",
+  "displayAddress": "Dz.U. 2026 poz. 1458",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakładach leczniczych dla zwierząt",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-11-03",
+  "promulgation": "2026-11-05",
+  "changeDate": "2026-11-09T12:52:35",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "weterynaryjna służba",
+   "zwierzęta",
+   "lecznice dla zwierząt"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2004/95"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261458.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261458.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261458L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
