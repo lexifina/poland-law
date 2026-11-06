@@ -1,5 +1,7 @@
 # Polish law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Poland's national law, which global-law reads at `poland/national/acts/`.
+
 Two acts of the Republic of Poland as a git repository: the Constitution (Konstytucja Rzeczypospolitej Polskiej,
 Dz.U. 1997 nr 78 poz. 483) and the Polish Citizenship Act (ustawa z dnia 2 kwietnia 2009 r. o obywatelstwie polskim,
 Dz.U. 2012 poz. 161). Each amending act is one commit, credited to that act and dated the day it took effect, at noon
