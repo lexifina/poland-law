@@ -1,126 +1,126 @@
-# Polish law, change by change
+# Prawo polskie, zmiana po zmianie
+
+**Polski** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Polish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/pl/effort-dark.svg">
+<img alt="Przepisy Polski w tym repozytorium: zawartość, zmiany według roku wejścia w życie, kompletność względem oficjalnych źródeł i poprawność zawartości" src="data/pl/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Poland's national law, which global-law reads at `poland/national/acts/`.
+Część projektu [lexifina/global-law](https://github.com/lexifina/global-law), jednej historii git prawa wszystkich państw: to jest prawo krajowe Polski, które global-law odczytuje ze ścieżki `poland/national/acts/`.
 
-Two acts of the Republic of Poland as a git repository: the Constitution (Konstytucja Rzeczypospolitej Polskiej,
-Dz.U. 1997 nr 78 poz. 483) and the Polish Citizenship Act (ustawa z dnia 2 kwietnia 2009 r. o obywatelstwie polskim,
-Dz.U. 2012 poz. 161). Each amending act is one commit, credited to that act and dated the day it took effect, at noon
-in Warsaw. The text comes from the Sejm's ELI API (api.sejm.gov.pl), run by the Chancellery of the Sejm.
+Dwa akty Rzeczypospolitej Polskiej jako repozytorium git: Konstytucja Rzeczypospolitej Polskiej (Dz.U. 1997 nr 78
+poz. 483) i ustawa z dnia 2 kwietnia 2009 r. o obywatelstwie polskim (Dz.U. 2012 poz. 161). Każdy akt zmieniający to
+jeden commit, przypisany temu aktowi i opatrzony datą dnia, w którym wszedł w życie, w południe czasu warszawskiego.
+Tekst pochodzi z API ELI Sejmu (api.sejm.gov.pl), prowadzonego przez Kancelarię Sejmu.
 
-*Po polsku: [niżej](#po-polsku).*
+## Pytania jako polecenia git
 
-## The questions, as git commands
-
-| Question | Command |
+| Pytanie | Polecenie |
 | --- | --- |
-| What did art. 55 of the Constitution say on 1 January 2006? | `python tools/na_dzien.py 2006-01-01 konstytucja 55` |
-| The whole Constitution as it stood in 2000 | `python tools/na_dzien.py 2000-01-01 konstytucja` |
-| Art. 30 of the citizenship act on 1 January 2015 | `python tools/na_dzien.py 2015-01-01 obywatelstwo 30` |
-| Which act wrote each paragraph of art. 30? | `git blame obywatelstwo/art-030.md` |
-| Every change to art. 30, with the act and the day | `git log --follow obywatelstwo/art-030.md` |
-| Everything one act changed | `git show --stat du/2013-1650` |
-| What changed in the citizenship act on one day | `git show --stat obywatelstwo/2022-11-10` |
-| What changed between two unified texts | `git diff tj/2022-465 tj/2023-1989 -- obywatelstwo` |
-| The unified texts' own editorial changes | `git log --author="Marszałek Sejmu" --format="%ad %s" --date=short` |
-| Acts amending the citizenship act in 2025 | `git log --format="%an %s" --author="Dz.U. 2025" -- obywatelstwo` |
-| The Constitution's amendments and correction | `git log --format="%ad %an %s" --date=short -- konstytucja` |
-| The amending acts with all their dates | [`akty.csv`](akty.csv) |
+| Co stanowił art. 55 Konstytucji w dniu 1 stycznia 2006 r.? | `python tools/na_dzien.py 2006-01-01 konstytucja 55` |
+| Cała Konstytucja w brzmieniu z 2000 r. | `python tools/na_dzien.py 2000-01-01 konstytucja` |
+| Art. 30 ustawy o obywatelstwie w dniu 1 stycznia 2015 r. | `python tools/na_dzien.py 2015-01-01 obywatelstwo 30` |
+| Który akt napisał każdy ustęp art. 30? | `git blame obywatelstwo/art-030.md` |
+| Każda zmiana art. 30, z aktem i dniem | `git log --follow obywatelstwo/art-030.md` |
+| Wszystko, co zmienił jeden akt | `git show --stat du/2013-1650` |
+| Co zmieniło się w ustawie o obywatelstwie jednego dnia | `git show --stat obywatelstwo/2022-11-10` |
+| Co zmieniło się między dwoma tekstami jednolitymi | `git diff tj/2022-465 tj/2023-1989 -- obywatelstwo` |
+| Własne zmiany redakcyjne tekstów jednolitych | `git log --author="Marszałek Sejmu" --format="%ad %s" --date=short` |
+| Akty zmieniające ustawę o obywatelstwie w 2025 r. | `git log --format="%an %s" --author="Dz.U. 2025" -- obywatelstwo` |
+| Zmiany i sprostowanie Konstytucji | `git log --format="%ad %an %s" --date=short -- konstytucja` |
+| Akty zmieniające ze wszystkimi ich datami | [`akty.csv`](akty.csv) |
 
-`--before` takes a bare date at the current time of day; to ask about a day, give its end:
-`git rev-list -1 --before="2015-01-01T23:59:59+01:00" main -- obywatelstwo`. In PowerShell, quote the revision:
+`--before` przyjmuje samą datę z bieżącą godziną; aby zapytać o dany dzień, podaj jego koniec:
+`git rev-list -1 --before="2015-01-01T23:59:59+01:00" main -- obywatelstwo`. W PowerShell ujmij rewizję w cudzysłów:
 `$r = git rev-list -1 --before="2015-01-01T23:59:59+01:00" main; git show "$($r):obywatelstwo/art-030.md"`.
-After a rebuild, refresh tags with `git fetch --force --tags`.
+Po przebudowie odśwież tagi poleceniem `git fetch --force --tags`.
 
-## The dates, and which one we use
+## Daty i która z nich jest używana
 
-A Polish act has the day it was passed (`Enacted:`, the "z dnia" date in its title), the day it was published in the
-Journal of Laws (`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the change took
-effect**, at noon in Warsaw (CET, or CEST in summer time). That day comes from the Sejm API, which gives for every
-amending act the day its amendment of this act takes effect (an act can amend different acts on different days), and is
-compared with the day the unified text's footnote gives. Where the amending act as a whole took effect on another day,
-that day is in `Act-in-force:`.
+Polski akt ma dzień uchwalenia (`Enacted:`, data „z dnia” w jego tytule), dzień ogłoszenia w Dzienniku Ustaw
+(`Published:`) i dzień wejścia w życie (`In-force:`). **Commity mają datę dnia, w którym zmiana weszła w życie**,
+w południe czasu warszawskiego (CET, a w czasie letnim CEST). Ten dzień pochodzi z API Sejmu, które dla każdego aktu
+zmieniającego podaje dzień wejścia w życie dokonanej przez niego zmiany tej ustawy (akt może zmieniać różne akty
+w różnych dniach), i jest porównywany z dniem podanym w przypisie tekstu jednolitego. Jeżeli akt zmieniający jako
+całość wszedł w życie innego dnia, ten dzień jest podany w `Act-in-force:`.
 
-## What "author" means
+## Co oznacza „autor”
 
-The author of a commit is the act that made the change: `Dz.U. 2013 poz. 1650` (with an address ending
-`@sejm.invalid`, which cannot exist), so `git blame` names the act.
+Autorem commita jest akt, który wprowadził zmianę: `Dz.U. 2013 poz. 1650` (z adresem zakończonym na
+`@sejm.invalid`, który nie może istnieć), dzięki czemu `git blame` wskazuje akt.
 
-- **The citizenship act.** The Marshal of the Sejm periodically announces a unified text (tekst jednolity). Each unified
-  text marks every unit changed since the last one with a footnote naming the act and its in-force day ("W brzmieniu
-  ustalonym przez art. 29 pkt 1 ustawy z dnia 7 października 2022 r. ... (Dz. U. poz. 2185), która weszła w życie z
-  dniem 10 listopada 2022 r."). Those footnotes credit each change. Where the amending act quotes the new wording
-  ("otrzymuje brzmienie"), that wording is replayed on its day and checked against the next unified text, so a unit
-  changed twice between two unified texts shows both steps (art. 30 ust. 1 pkt 7: 2014, then 2016).
-- **Editorial changes** made by the unified text itself (updated Journal references of other acts, and provisions that
-  amended other acts printed as "(pominięty)") are commits by `Marszałek Sejmu (tekst jednolity, ...)` on the day the
-  unified text was published, labelled as editorial. They are never credited to a law.
-- **The Constitution** has no unified text. Its two amendments (2006, art. 55; 2009, art. 99 ust. 3) are replayed from
-  their own words and must equal the Sejm's consolidated text; the 2001 correction of two printing errors is a commit by
-  the correction notice (`Dz.U. 2001 nr 28 poz. 319 (sprostowanie)`), not by a law.
-- A change no footnote explains goes to the one act that took effect between the two unified texts ("date only"), or,
-  if there were several, to `Kancelaria Sejmu (ISAP)` naming them in `Candidate:` trailers.
+- **Ustawa o obywatelstwie.** Marszałek Sejmu okresowo ogłasza tekst jednolity. Każdy tekst jednolity oznacza każdą
+  jednostkę zmienioną od poprzedniego tekstu przypisem wskazującym akt i dzień jego wejścia w życie („W brzmieniu
+  ustalonym przez art. 29 pkt 1 ustawy z dnia 7 października 2022 r. ... (Dz. U. poz. 2185), która weszła w życie
+  z dniem 10 listopada 2022 r.”). Według tych przypisów każda zmiana jest przypisywana aktowi. Jeżeli akt zmieniający
+  przytacza nowe brzmienie („otrzymuje brzmienie”), to brzmienie jest odtwarzane w jego dniu i sprawdzane
+  z następnym tekstem jednolitym, więc jednostka zmieniona dwukrotnie między dwoma tekstami jednolitymi pokazuje oba
+  kroki (art. 30 ust. 1 pkt 7: 2014, potem 2016).
+- **Zmiany redakcyjne** dokonane przez sam tekst jednolity (zaktualizowane odesłania do Dziennika Ustaw dotyczące
+  innych aktów oraz przepisy zmieniające inne akty, wydrukowane jako „(pominięty)”) są commitami
+  `Marszałek Sejmu (tekst jednolity, ...)` z dnia ogłoszenia tekstu jednolitego, oznaczonymi jako redakcyjne. Nigdy
+  nie są przypisywane ustawie.
+- **Konstytucja** nie ma tekstu jednolitego. Jej dwie zmiany (2006, art. 55; 2009, art. 99 ust. 3) są odtwarzane
+  z ich własnego brzmienia i muszą być zgodne z tekstem ujednoliconym Sejmu; sprostowanie dwóch błędów drukarskich
+  z 2001 r. jest commitem obwieszczenia o sprostowaniu (`Dz.U. 2001 nr 28 poz. 319 (sprostowanie)`), a nie ustawy.
+- Zmiana, której nie wyjaśnia żaden przypis, jest przypisywana jedynemu aktowi, który wszedł w życie między dwoma
+  tekstami jednolitymi („date only”), a jeżeli było ich kilka, `Kancelaria Sejmu (ISAP)` z ich wskazaniem
+  w trailerach `Candidate:`.
 
-The committer is always `Lexifina`.
+Committerem jest zawsze `Lexifina`.
 
-## How it is checked
+## Jak jest sprawdzane
 
-`tools/check_repo.py` reads each checkpoint back from git with `tools/na_dzien.py` and compares it with the official
-text: the citizenship act as published and every unified text (five as HTML, file by file and byte for byte; the 2025
-one as PDF), and the Constitution's consolidated text; then word for word against all the words of the official text,
-read independently of the parser. It also checks that, the day before each unified text was published, the history
-differs from it only by that unified text's editorial changes. `tools/test_repo.py` checks that the commands above
-work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+`tools/check_repo.py` odczytuje każdy punkt kontrolny z gita za pomocą `tools/na_dzien.py` i porównuje go z tekstem
+urzędowym: z ustawą o obywatelstwie w brzmieniu ogłoszonym i z każdym tekstem jednolitym (pięcioma w HTML, plik po
+pliku i bajt po bajcie; tym z 2025 r. w PDF) oraz z tekstem ujednoliconym Konstytucji; następnie słowo po słowie ze
+wszystkimi słowami tekstu urzędowego, odczytanymi niezależnie od parsera. Sprawdza też, czy w dniu poprzedzającym
+ogłoszenie każdego tekstu jednolitego historia różni się od niego wyłącznie zmianami redakcyjnymi tego tekstu
+jednolitego. `tools/test_repo.py` sprawdza, czy powyższe polecenia działają. Wyniki są w [`REPRODUCE.md`](REPRODUCE.md).
 
-## Files
+## Pliki
 
-Each act is a folder (`konstytucja/`, `obywatelstwo/`). Each article is one file (`art-055.md` is art. 55).
-`## ` lines at the top of a file are the headings of the chapter (rozdział) or section that begins there, `# Art. 55.`
-is the article's number, and each ustęp is one line; each punkt and litera is a list item. `konstytucja/preambula.md`
-is the title and preamble. A repealed unit stays as "(uchylony)", as the unified texts print it.
+Każdy akt to folder (`konstytucja/`, `obywatelstwo/`). Każdy artykuł to jeden plik (`art-055.md` to art. 55).
+Wiersze `## ` na początku pliku to nagłówki rozdziału albo oddziału, który się tam zaczyna, `# Art. 55.` to numer
+artykułu, a każdy ustęp to jeden wiersz; każdy punkt i każda litera to element listy. `konstytucja/preambula.md` to
+tytuł i preambuła. Uchylona jednostka pozostaje jako „(uchylony)”, tak jak drukują ją teksty jednolite.
 
-## What it does not show
+## Czego nie pokazuje
 
-- A unified text of the Constitution: none exists; its consolidated text is the Sejm's, for information.
-- Which words of a line each act wrote, when two acts changed the same line: blame credits whole lines (use
-  `git log -p --word-diff`).
-- Any act beyond these two. The same build works for any act with unified texts in the API: add it to `ACTS` in
-  `tools/build.py`.
-- The unified texts and the Sejm's consolidated texts are for information; the legally binding text is the act as
-  published in the Journal of Laws.
+- Tekstu jednolitego Konstytucji: taki nie istnieje; jej tekst ujednolicony pochodzi od Sejmu i ma charakter
+  informacyjny.
+- Tego, które słowa wiersza napisał każdy akt, gdy dwa akty zmieniły ten sam wiersz: blame przypisuje całe wiersze
+  (użyj `git log -p --word-diff`).
+- Żadnego aktu poza tymi dwoma. Ten sam proces budowy działa dla każdego aktu, który ma teksty jednolite w API: dodaj
+  go do `ACTS` w `tools/build.py`.
+- Teksty jednolite i teksty ujednolicone Sejmu mają charakter informacyjny; tekstem prawnie wiążącym jest akt
+  w brzmieniu ogłoszonym w Dzienniku Ustaw.
 
-## How it is built
+## Jak jest budowane
 
-`tools/build.py` reads the Sejm's API and writes this repository from scratch; the same data gives the same hashes.
-Every step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md).
-Each act's folder has a `README.md` listing its articles with how often each changed. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+`tools/build.py` odczytuje API Sejmu i tworzy to repozytorium od zera; te same dane dają te same hashe.
+Każdy krok, oprogramowanie, decyzje podjęte ręcznie i to, co zrobił model AI, są opisane w [`REPRODUCE.md`](REPRODUCE.md).
+Folder każdego aktu zawiera `README.md` z listą jego artykułów i informacją, jak często każdy z nich się zmieniał.
+[`corpus.json`](corpus.json) opisuje korpus dla narzędzi, które odczytują kilka repozytoriów prawa Lexifina.
 
-## Licence
+## Licencja
 
-Normative acts and official documents are not protected by copyright in Poland (ustawa z dnia 4 lutego 1994 r. o prawie
-autorskim i prawach pokrewnych, art. 4 pkt 1 and 2). Source: Sejm Rzeczypospolitej Polskiej, ELI API
-(api.sejm.gov.pl), Kancelaria Sejmu. The Sejm's consolidated text of the Constitution is marked "©Kancelaria Sejmu"; it
-is used here as a checkpoint for the text of the act. The history, commit messages, tables and tools are released under
-[CC0 1.0](LICENSE).
+Akty normatywne i dokumenty urzędowe nie są w Polsce przedmiotem prawa autorskiego (ustawa z dnia 4 lutego 1994 r.
+o prawie autorskim i prawach pokrewnych, art. 4 pkt 1 i 2). Źródło: Sejm Rzeczypospolitej Polskiej, API ELI
+(api.sejm.gov.pl), Kancelaria Sejmu. Tekst ujednolicony Konstytucji przygotowany przez Sejm jest oznaczony
+„©Kancelaria Sejmu”; służy tu jako punkt kontrolny dla tekstu aktu. Historia, opisy commitów, tabele i narzędzia są
+udostępnione na licencji [CC0 1.0](LICENSE).
 
----
+To jest tłumaczenie wersji angielskiej ([README.en.md](README.en.md)); w razie rozbieżności rozstrzyga wersja angielska.
 
-## Po polsku
+## Więcej
 
-Dwa akty Rzeczypospolitej Polskiej jako repozytorium git: Konstytucja RP (Dz.U. 1997 nr 78 poz. 483) i ustawa z dnia
-2 kwietnia 2009 r. o obywatelstwie polskim (Dz.U. 2012 poz. 161), z API ELI Sejmu.
+Z repozytorium [lexifina/global-law](https://github.com/lexifina/global-law) (po angielsku):
 
-- **Każdy commit to jeden akt zmieniający**, wpisany jako autor (`Dz.U. 2013 poz. 1650`), więc `git blame` pokazuje,
-  który akt napisał który ustęp. Akt wskazują przypisy tekstów jednolitych.
-- **Każdy commit ma dzień wejścia w życie**, w południe czasu warszawskiego; dzień uchwalenia i ogłoszenia są w treści.
-- **Każdy artykuł to plik**, każdy ustęp to wiersz.
-- **Zmiany redakcyjne tekstu jednolitego** (odesłania do Dziennika Ustaw, przepisy pominięte) mają osobne commity
-  Marszałka Sejmu i nie są przypisane żadnej ustawie.
-
-Teksty jednolite i tekst ujednolicony Konstytucji mają charakter informacyjny; tekstem wiążącym jest tekst ogłoszony
-w Dzienniku Ustaw.
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): wszystkie funkcje i to, co musi obsługiwać każdy korpus (`git blame`, `law.py`, narzędzia MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): pytania i odpowiedzi · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proponowanie zmian · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serwer MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): jak powstał · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): jak aktualny jest każdy korpus · [Monitorowanie](https://github.com/lexifina/global-law/tree/main/monitoring): czy aktualizacje działają · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): jak każde oficjalne źródło jest obserwowane pod kątem zmian
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): jak szybkie są narzędzia, zmierzone
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): wykresy i powiązania w prawie całego świata
+- [Podatności](https://github.com/lexifina/global-law/tree/main/vulnerabilities): błędy w przepisach w opublikowanej postaci
