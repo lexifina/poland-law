@@ -1,112 +1,85 @@
-# Polish law, change by change
+# Poland: law history in git
 
-[Polski](README.md) · **English**
+**English** · **[Lub przeczytaj po polsku](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Polish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Poland as a git history: one file per article (per paragraph, §, in a regulation), one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Poland's national law, which global-law reads at `poland/national/acts/`.
 
-Two acts of the Republic of Poland as a git repository: the Constitution (Konstytucja Rzeczypospolitej Polskiej,
-Dz.U. 1997 nr 78 poz. 483) and the Polish Citizenship Act (ustawa z dnia 2 kwietnia 2009 r. o obywatelstwie polskim,
-Dz.U. 2012 poz. 161). Each amending act is one commit, credited to that act and dated the day it took effect, at noon
-in Warsaw. The text comes from the Sejm's ELI API (api.sejm.gov.pl), run by the Chancellery of the Sejm.
+**What is in it now:** the Constitution, the Polish Citizenship Act, six codes (civil, civil procedure, criminal, criminal procedure, labour and commercial companies) and the Tax Ordinance, with their history of amendments in 1,049 versions; and the current text of 1,600 other acts (ustawy) and 2,226 regulations (rozporządzenia) in force, one version each. [`USTAWY.md`](USTAWY.md) and [`ROZPORZADZENIA.md`](ROZPORZADZENIA.md) say which acts and regulations in force are here and which were left out; `data/ustawy.csv` and `data/rozporzadzenia.csv` list them.
 
-## The questions, as git commands
+Each act is in `<kind>/<year>/<position>/`, from its first publication in the Dziennik Ustaw (`ustawa/1974/141/` is the Kodeks pracy, the Labour Code, Dz.U. 1974 nr 24 poz. 141). Until 10 November 2026 each folder was named by the act's id (`kodeks-pracy/`): `git log --follow` and `git blame` follow the move, `data/paths.json` maps each id to its folder, and the last two commands below name the old folder.
+
+The text is in Polish, as the Sejm's API publishes it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did art. 55 of the Constitution say on 1 January 2006? | `python tools/na_dzien.py 2006-01-01 konstytucja 55` |
-| The whole Constitution as it stood in 2000 | `python tools/na_dzien.py 2000-01-01 konstytucja` |
-| Art. 30 of the citizenship act on 1 January 2015 | `python tools/na_dzien.py 2015-01-01 obywatelstwo 30` |
-| Which act wrote each paragraph of art. 30? | `git blame obywatelstwo/art-030.md` |
-| Every change to art. 30, with the act and the day | `git log --follow obywatelstwo/art-030.md` |
-| Everything one act changed | `git show --stat du/2013-1650` |
-| What changed in the citizenship act on one day | `git show --stat obywatelstwo/2022-11-10` |
-| What changed between two unified texts | `git diff tj/2022-465 tj/2023-1989 -- obywatelstwo` |
-| The unified texts' own editorial changes | `git log --author="Marszałek Sejmu" --format="%ad %s" --date=short` |
-| Acts amending the citizenship act in 2025 | `git log --format="%an %s" --author="Dz.U. 2025" -- obywatelstwo` |
-| The Constitution's amendments and correction | `git log --format="%ad %an %s" --date=short -- konstytucja` |
-| The amending acts with all their dates | [`akty.csv`](akty.csv) |
+| Every change to Article 154 of the Labour Code | `git log --follow -p --word-diff -- ustawa/1974/141/art-154.md` |
+| Which act wrote each line of Article 154? | `git blame ustawa/1974/141/art-154.md` |
+| Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- ustawa/1974/141 kodeks-pracy` |
+| Article 154 as in force on 1 January 2015 | `python tools/na_dzien.py 2015-01-01 kodeks-pracy 154` |
 
-`--before` takes a bare date at the current time of day; to ask about a day, give its end:
-`git rev-list -1 --before="2015-01-01T23:59:59+01:00" main -- obywatelstwo`. In PowerShell, quote the revision:
-`$r = git rev-list -1 --before="2015-01-01T23:59:59+01:00" main; git show "$($r):obywatelstwo/art-030.md"`.
-After a rebuild, refresh tags with `git fetch --force --tags`.
+**Outside git**, we also host this record publicly, for free:
 
-## The dates, and which one we use
+- **[Ask Claude about Polish law](https://global-law.lexifina.com/v1/try_claude?country=poland)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=poland)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=urlop+wypoczynkowy&jurisdictions=poland)**: a search of Polish law for "urlop wypoczynkowy", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-A Polish act has the day it was passed (`Enacted:`, the "z dnia" date in its title), the day it was published in the
-Journal of Laws (`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the change took
-effect**, at noon in Warsaw (CET, or CEST in summer time). That day comes from the Sejm API, which gives for every
-amending act the day its amendment of this act takes effect (an act can amend different acts on different days), and is
-compared with the day the unified text's footnote gives. Where the amending act as a whole took effect on another day,
-that day is in `Act-in-force:`.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Polish or in English.
 
-## What "author" means
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-The author of a commit is the act that made the change: `Dz.U. 2013 poz. 1650` (with an address ending
-`@sejm.invalid`, which cannot exist), so `git blame` names the act.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add poland/national/acts
+python3 tools/law.py show 2026-01-01 poland/national/acts/ustawa/1974/141/art-154.md
+```
 
-- **The citizenship act.** The Marshal of the Sejm periodically announces a unified text (tekst jednolity). Each unified
-  text marks every unit changed since the last one with a footnote naming the act and its in-force day ("W brzmieniu
-  ustalonym przez art. 29 pkt 1 ustawy z dnia 7 października 2022 r. ... (Dz. U. poz. 2185), która weszła w życie z
-  dniem 10 listopada 2022 r."). Those footnotes credit each change. Where the amending act quotes the new wording
-  ("otrzymuje brzmienie"), that wording is replayed on its day and checked against the next unified text, so a unit
-  changed twice between two unified texts shows both steps (art. 30 ust. 1 pkt 7: 2014, then 2016).
-- **Editorial changes** made by the unified text itself (updated Journal references of other acts, and provisions that
-  amended other acts printed as "(pominięty)") are commits by `Marszałek Sejmu (tekst jednolity, ...)` on the day the
-  unified text was published, labelled as editorial. They are never credited to a law.
-- **The Constitution** has no unified text. Its two amendments (2006, art. 55; 2009, art. 99 ust. 3) are replayed from
-  their own words and must equal the Sejm's consolidated text; the 2001 correction of two printing errors is a commit by
-  the correction notice (`Dz.U. 2001 nr 28 poz. 319 (sprostowanie)`), not by a law.
-- A change no footnote explains goes to the one act that took effect between the two unified texts ("date only"), or,
-  if there were several, to `Kancelaria Sejmu (ISAP)` naming them in `Candidate:` trailers.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-The committer is always `Lexifina`.
+## Dates
+
+Each commit is dated at noon, Europe/Warsaw, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for an amendment of an act with history, the day the Sejm's API gives for that amendment of this act, compared with the day the unified text's footnote gives; where the amending act as a whole took effect on another day, that day is in `Act-in-force:`;
+- for an act or regulation held as its current text, the day the newest amendment in its newest unified text took effect (amendments in force later are listed in `Not-included:`), or, if it was never amended, the day it took effect;
+- git cannot store dates before 1970, so the 507 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/na_dzien.py`, not `git log --before`.
+
+Each change is credited to the act or Constitutional Tribunal judgment that made it (`Dz.U. 2003 nr 213 poz. 2081`), as the unified texts' footnotes name it; the unified texts' own editorial changes, and an act held as the text of its newest unified text, are credited to the Marshal of the Sejm or the body that announced that text. A change no footnote explains is dated the unified text's day and credited to `Kancelaria Sejmu (ISAP)`, with the acts that took effect in between as `Candidate:` trailers (56 commits).
 
 ## How it is checked
 
-`tools/check_repo.py` reads each checkpoint back from git with `tools/na_dzien.py` and compares it with the official
-text: the citizenship act as published and every unified text (five as HTML, file by file and byte for byte; the 2025
-one as PDF), and the Constitution's consolidated text; then word for word against all the words of the official text,
-read independently of the parser. It also checks that, the day before each unified text was published, the history
-differs from it only by that unified text's editorial changes. `tools/test_repo.py` checks that the commands above
-work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-
-## Files
-
-Each act is a folder (`konstytucja/`, `obywatelstwo/`). Each article is one file (`art-055.md` is art. 55).
-`## ` lines at the top of a file are the headings of the chapter (rozdział) or section that begins there, `# Art. 55.`
-is the article's number, and each ustęp is one line; each punkt and litera is a list item. `konstytucja/preambula.md`
-is the title and preamble. A repealed unit stays as "(uchylony)", as the unified texts print it.
+- `tools/check_repo.py` reads each checkpoint of the acts with history (the act as published, every unified text, the Constitution's consolidated text) back from git on its day and compares it file by file, and word for word, with the official text.
+- On each unified text's day, the history may differ from it only by that text's editorial changes (Journal references, provisions printed as "(pominięty)").
+- `tools/test_repo.py` checks that blame, `git log --follow` and `tools/na_dzien.py` work. [`REPRODUCE.md`](REPRODUCE.md) records the build (the same data gives the same hashes) and its notes, such as lines where the history and a unified text differ.
+- History is append-only since 2026-11-02: new acts and corrections go on top of `main`, and nothing published is rewritten.
 
 ## What it does not show
 
-- A unified text of the Constitution: none exists; its consolidated text is the Sejm's, for information.
-- Which words of a line each act wrote, when two acts changed the same line: blame credits whole lines (use
-  `git log -p --word-diff`).
-- Any act beyond these two. The same build works for any act with unified texts in the API: add it to `ACTS` in
-  `tools/build.py`.
-- The unified texts and the Sejm's consolidated texts are for information; the legally binding text is the act as
-  published in the Journal of Laws.
+- **The codes' newest amendments.** Each code's history, and the Tax Ordinance's, ends at its last unified text published as HTML (the Labour Code's, in force on 2023-07-31); amendments in force after it are not in the record yet.
+- **The earlier history of the 1,600 acts and 2,226 regulations** held as their current text.
+- **Acts left out:** amending acts, acts amended but never consolidated, texts the API has only as PDF, and texts with tables, formulas or annexes the parser does not read yet (see `USTAWY.md`).
+- **Case law, local law, Monitor Polski, EU law and bills.**
+- **Which act made some changes.** 56 commits are credited to `Kancelaria Sejmu (ISAP)`, naming the candidate acts.
 
-## How it is built
+## Sources
 
-`tools/build.py` reads the Sejm's API and writes this repository from scratch; the same data gives the same hashes.
-Every step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md).
-Each act's folder has a `README.md` listing its articles with how often each changed. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [ELI API of the Sejm](https://api.sejm.gov.pl/eli) (Kancelaria Sejmu) | Dziennik Ustaw: acts as published, unified texts, amending acts | for the acts with history, every unified text published as HTML; for the others, the newest | Unified and consolidated texts are for information; the legally binding text is the act as published in the Dziennik Ustaw |
 
 ## Licence
 
-Normative acts and official documents are not protected by copyright in Poland (ustawa z dnia 4 lutego 1994 r. o prawie
-autorskim i prawach pokrewnych, art. 4 pkt 1 and 2). Source: Sejm Rzeczypospolitej Polskiej, ELI API
-(api.sejm.gov.pl), Kancelaria Sejmu. The Sejm's consolidated text of the Constitution is marked "©Kancelaria Sejmu"; it
-is used here as a checkpoint for the text of the act. The history, commit messages, tables and tools are released under
-[CC0 1.0](LICENSE).
+See [`LICENSE`](LICENSE). Normative acts and official documents are not protected by copyright in Poland (ustawa z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, art. 4 pkt 1 and 2). The history, commit messages, tables and tools are CC0 1.0.
+
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
