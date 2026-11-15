@@ -30,7 +30,8 @@ Tekst jest po polsku, tak jak publikuje go API Sejmu. Tłumaczenie na angielski 
 
 - **[Zapytaj Claude'a o prawo polskie](https://global-law.lexifina.com/v1/try_claude?country=poland)**: otwiera Claude'a z gotowym pierwszym pytaniem.
 - **[Zapytaj ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=poland)**: to samo pytanie w ChatGPT.
-- **[Wywołaj API w przeglądarce](https://global-law.lexifina.com/v1/search_law?query=urlop+wypoczynkowy&jurisdictions=poland)**: wyszukiwanie „urlop wypoczynkowy” w prawie polskim, odpowiedź w JSON. Dokumentacja jest [tutaj](https://lexifina.com/api/global-law).
+- **[Szukaj w prawie polskim na naszej stronie](https://lexifina.com/law?country=poland&q=urlop+wypoczynkowy)**: wyszukiwanie „urlop wypoczynkowy”, z tekstem każdego przepisu i jego wersjami, bez konta.
+- **[REST API dla programistów](https://global-law.lexifina.com/v1/search_law?query=urlop+wypoczynkowy&jurisdiction=poland)**: to samo wyszukiwanie jako JSON, bez klucza. Dokumentacja jest [tutaj](https://lexifina.com/api/global-law).
 
 Obaj asystenci czytają zapis przez bezpłatny konektor Global law (MCP, `https://global-law.lexifina.com/mcp`); za pierwszym razem czat poda link, który go dodaje. Pytaj po polsku albo po angielsku.
 
