@@ -61,6 +61,7 @@ Each change is credited to the act or Constitutional Tribunal judgment that made
 - On each unified text's day, the history may differ from it only by that text's editorial changes (Journal references, provisions printed as "(pominięty)").
 - `tools/test_repo.py` checks that blame, `git log --follow` and `tools/na_dzien.py` work. [`REPRODUCE.md`](REPRODUCE.md) records the build (the same data gives the same hashes) and its notes, such as lines where the history and a unified text differ.
 - History is append-only since 2026-11-02: new acts and corrections go on top of `main`, and nothing published is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Polish law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

@@ -61,6 +61,7 @@ Każda zmiana jest przypisana aktowi lub wyrokowi Trybunału Konstytucyjnego, kt
 - W dniu każdego tekstu jednolitego historia może się od niego różnić tylko zmianami redakcyjnymi tego tekstu (odesłania do Dziennika Ustaw, przepisy wydrukowane jako „(pominięty)”).
 - `tools/test_repo.py` sprawdza, czy działają blame, `git log --follow` i `tools/na_dzien.py`. [`REPRODUCE.md`](REPRODUCE.md) opisuje budowę (te same dane dają te same hashe) i jej uwagi, np. wiersze, w których historia różni się od tekstu jednolitego.
 - Od 2026-11-02 historia jest tylko dopisywana: nowe akty i korekty trafiają na wierzch `main`, a nic opublikowanego nie jest przepisywane.
+- [vulnerabilities/](vulnerabilities/): możliwe błędy legislacyjne w prawie polskim, znalezione przez detektory z global-law i sprawdzone ręcznie.
 
 ## Czego nie pokazuje
 
