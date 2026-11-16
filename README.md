@@ -85,6 +85,10 @@ Zob. [`LICENSE`](LICENSE). Akty normatywne i dokumenty urzędowe nie są w Polsc
 
 To jest tłumaczenie wersji angielskiej ([README.en.md](README.en.md)); w razie rozbieżności rozstrzyga wersja angielska.
 
+## Wizualizacje
+
+- [visualisations/](visualisations/): wykresy sporządzone na podstawie tego repozytorium. Jeszcze nie narysowane.
+
 ## Więcej
 
 Z repozytorium [lexifina/global-law](https://github.com/lexifina/global-law) (po angielsku):
