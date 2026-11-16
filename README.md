@@ -11,7 +11,7 @@ Prawo Polski jako historia git: jeden plik na artykuł (w rozporządzeniu na par
 
 Część projektu [lexifina/global-law](https://github.com/lexifina/global-law), jednej historii git prawa wszystkich państw: to jest prawo krajowe Polski, które global-law odczytuje ze ścieżki `poland/national/acts/`.
 
-**Co zawiera teraz:** Konstytucję, ustawę o obywatelstwie polskim, sześć kodeksów (cywilny, postępowania cywilnego, karny, postępowania karnego, pracy i spółek handlowych) oraz Ordynację podatkową, z historią zmian w 1049 wersjach; aktualny tekst 1600 innych obowiązujących ustaw i 2226 obowiązujących rozporządzeń, po jednej wersji; a także, dodawane rok po roku z urzędowego API ELI (na razie z lat 1918-2018), wszystkie pozostałe pozycje Dziennika Ustaw i Monitora Polskiego: 16 listopada 2026 r. 8897 z tekstem w brzmieniu ogłoszonym i 121 445 jako same urzędowe metadane z odnośnikiem do tekstu urzędowego, wśród nich Kodeks rodzinny i opiekuńczy, Kodeks postępowania administracyjnego, Kodeks karny wykonawczy, Kodeks wykroczeń i Kodeks karny skarbowy, których tekst nie jest jeszcze przepisany. [`USTAWY.md`](USTAWY.md) i [`ROZPORZADZENIA.md`](ROZPORZADZENIA.md) wyjaśniają, które obowiązujące ustawy i rozporządzenia tu są, a które pominięto; wymieniają je `data/ustawy.csv` i `data/rozporzadzenia.csv`.
+**Co zawiera teraz:** Konstytucję, ustawę o obywatelstwie polskim, sześć kodeksów (cywilny, postępowania cywilnego, karny, postępowania karnego, pracy i spółek handlowych) oraz Ordynację podatkową, z historią zmian w 1061 wersjach; dziewięć dalszych kodeksów i ustaw kodeksowych (rodzinny i opiekuńczy, postępowania administracyjnego, karny wykonawczy, wykroczeń, karny skarbowy, wyborczy, Prawo o postępowaniu przed sądami administracyjnymi, Prawo upadłościowe i Prawo restrukturyzacyjne) oraz ustawy o PIT, CIT, VAT, o systemie ubezpieczeń społecznych i o komornikach sądowych, każda w brzmieniu ogłoszonym i w każdym tekście jednolitym (161 wersji); aktualny tekst 1600 innych obowiązujących ustaw i 2226 obowiązujących rozporządzeń, po jednej wersji; a także, dodawane rok po roku z urzędowego API ELI (na razie z lat 1918-2018), wszystkie pozostałe pozycje Dziennika Ustaw i Monitora Polskiego: 16 listopada 2026 r. 8897 z tekstem w brzmieniu ogłoszonym i 121 445 jako same urzędowe metadane z odnośnikiem do tekstu urzędowego. [`USTAWY.md`](USTAWY.md) i [`ROZPORZADZENIA.md`](ROZPORZADZENIA.md) wyjaśniają, które obowiązujące ustawy i rozporządzenia tu są, a które pominięto; wymieniają je `data/ustawy.csv` i `data/rozporzadzenia.csv`.
 
 Każdy akt jest w `<rodzaj>/<rok>/<pozycja>/`, według pierwszego ogłoszenia w Dzienniku Ustaw (`ustawa/1974/141/` to Kodeks pracy, Dz.U. 1974 nr 24 poz. 141). Do 10 listopada 2026 r. folder nosił nazwę identyfikatora aktu (`kodeks-pracy/`): `git log --follow` i `git blame` śledzą to przeniesienie, `data/paths.json` przypisuje każdemu identyfikatorowi jego folder, a dwa ostatnie polecenia poniżej podają dawny folder.
 
@@ -65,7 +65,7 @@ Każda zmiana jest przypisana aktowi lub wyrokowi Trybunału Konstytucyjnego, kt
 
 ## Czego nie pokazuje
 
-- **Najnowszych zmian kodeksów.** Historia każdego kodeksu i Ordynacji podatkowej kończy się na ostatnim tekście jednolitym opublikowanym w HTML (w Kodeksie pracy: tekst jednolity obowiązujący od 2023-07-31); zmian, które weszły w życie później, jeszcze tu nie ma.
+- **Najnowszych zmian kodeksów.** Historia każdego kodeksu, Ordynacji podatkowej i powyższych ustaw kończy się na ich najnowszym tekście jednolitym (najnowsze, dostępne w API tylko w PDF, odczytano z warstwy tekstowej PDF Dziennika Ustaw), a ustawy o systemie ubezpieczeń społecznych na tekście jednolitym z 2024 r. (nowsze mają w art. 40d wzór, którego warstwa tekstowa PDF nie oddaje); zmian, które weszły w życie później, jeszcze tu nie ma, a załączników do ustaw podatkowych nie przepisano.
 - **Wcześniejszej historii 1600 ustaw i 2226 rozporządzeń** przechowywanych w aktualnym tekście.
 - **Pominiętych aktów:** ustaw zmieniających, aktów zmienionych bez tekstu jednolitego, tekstów, które API ma tylko w PDF, oraz tekstów z tabelami, wzorami lub załącznikami, których parser jeszcze nie czyta (zob. `USTAWY.md`).
 - **Orzecznictwa, prawa miejscowego, Monitora Polskiego, prawa UE ani projektów ustaw.**
@@ -75,7 +75,7 @@ Każda zmiana jest przypisana aktowi lub wyrokowi Trybunału Konstytucyjnego, kt
 
 | Źródło | Rodzaj | Wcześniejsze wersje | Uwagi |
 | --- | --- | --- | --- |
-| [API ELI Sejmu](https://api.sejm.gov.pl/eli) (Kancelaria Sejmu) | Dziennik Ustaw: akty w brzmieniu ogłoszonym, teksty jednolite, akty zmieniające | dla aktów z historią każdy tekst jednolity opublikowany w HTML; dla pozostałych najnowszy | Teksty jednolite i ujednolicone mają charakter informacyjny; tekstem prawnie wiążącym jest akt w brzmieniu ogłoszonym w Dzienniku Ustaw |
+| [API ELI Sejmu](https://api.sejm.gov.pl/eli) (Kancelaria Sejmu) | Dziennik Ustaw: akty w brzmieniu ogłoszonym, teksty jednolite, akty zmieniające | dla aktów z historią każdy tekst jednolity (HTML, a najnowsze z warstwy tekstowej PDF); dla pozostałych najnowszy | Teksty jednolite i ujednolicone mają charakter informacyjny; tekstem prawnie wiążącym jest akt w brzmieniu ogłoszonym w Dzienniku Ustaw |
 
 ## Licencja
 

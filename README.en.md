@@ -11,7 +11,7 @@ The law of Poland as a git history: one file per article (per paragraph, §, in 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Poland's national law, which global-law reads at `poland/national/acts/`.
 
-**What is in it now:** the Constitution, the Polish Citizenship Act, six codes (civil, civil procedure, criminal, criminal procedure, labour and commercial companies) and the Tax Ordinance, with their history of amendments in 1,049 versions; the current text of 1,600 other acts (ustawy) and 2,226 regulations (rozporządzenia) in force, one version each; and, being added year by year from the official ELI API (so far 1918-2018), every other item of the Dziennik Ustaw and Monitor Polski: on 16 November 2026, 8,897 with their text as published and 121,445 as the official metadata only, with a link to the official text, among them the Family and Guardianship Code, the Code of Administrative Procedure, the Executive Penal Code, the Code of Petty Offences and the Fiscal Penal Code, whose text is not transcribed yet. [`USTAWY.md`](USTAWY.md) and [`ROZPORZADZENIA.md`](ROZPORZADZENIA.md) say which acts and regulations in force are here and which were left out; `data/ustawy.csv` and `data/rozporzadzenia.csv` list them.
+**What is in it now:** the Constitution, the Polish Citizenship Act, six codes (civil, civil procedure, criminal, criminal procedure, labour and commercial companies) and the Tax Ordinance, with their history of amendments in 1,061 versions; nine more codes (family and guardianship, administrative procedure, executive penal, petty offences, fiscal penal, electoral, administrative court procedure, bankruptcy and restructuring) and the PIT, CIT, VAT, social insurance system and court enforcement officers acts, each as published and in every unified text (161 versions); the current text of 1,600 other acts (ustawy) and 2,226 regulations (rozporządzenia) in force, one version each; and, being added year by year from the official ELI API (so far 1918-2018), every other item of the Dziennik Ustaw and Monitor Polski: on 16 November 2026, 8,897 with their text as published and 121,445 as the official metadata only, with a link to the official text. [`USTAWY.md`](USTAWY.md) and [`ROZPORZADZENIA.md`](ROZPORZADZENIA.md) say which acts and regulations in force are here and which were left out; `data/ustawy.csv` and `data/rozporzadzenia.csv` list them.
 
 Each act is in `<kind>/<year>/<position>/`, from its first publication in the Dziennik Ustaw (`ustawa/1974/141/` is the Kodeks pracy, the Labour Code, Dz.U. 1974 nr 24 poz. 141). Until 10 November 2026 each folder was named by the act's id (`kodeks-pracy/`): `git log --follow` and `git blame` follow the move, `data/paths.json` maps each id to its folder, and the last two commands below name the old folder.
 
@@ -65,7 +65,7 @@ Each change is credited to the act or Constitutional Tribunal judgment that made
 
 ## What it does not show
 
-- **The codes' newest amendments.** Each code's history, and the Tax Ordinance's, ends at its last unified text published as HTML (the Labour Code's, in force on 2023-07-31); amendments in force after it are not in the record yet.
+- **The codes' newest amendments.** Each code's history, the Tax Ordinance's and those acts' ends at their newest unified text (the newest, which the API has only as PDF, read from the text layer of the Journal's PDF), the social insurance act's at its 2024 unified text (the newer ones have a formula in art. 40d that the PDF's text layer does not keep); amendments in force after it are not in the record yet, and the tax acts' annexes are not transcribed.
 - **The earlier history of the 1,600 acts and 2,226 regulations** held as their current text.
 - **Acts left out:** amending acts, acts amended but never consolidated, texts the API has only as PDF, and texts with tables, formulas or annexes the parser does not read yet (see `USTAWY.md`).
 - **Case law, local law, Monitor Polski, EU law and bills.**
@@ -75,7 +75,7 @@ Each change is credited to the act or Constitutional Tribunal judgment that made
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [ELI API of the Sejm](https://api.sejm.gov.pl/eli) (Kancelaria Sejmu) | Dziennik Ustaw: acts as published, unified texts, amending acts | for the acts with history, every unified text published as HTML; for the others, the newest | Unified and consolidated texts are for information; the legally binding text is the act as published in the Dziennik Ustaw |
+| [ELI API of the Sejm](https://api.sejm.gov.pl/eli) (Kancelaria Sejmu) | Dziennik Ustaw: acts as published, unified texts, amending acts | for the acts with history, every unified text (HTML, the newest from the PDF text layer); for the others, the newest | Unified and consolidated texts are for information; the legally binding text is the act as published in the Dziennik Ustaw |
 
 ## Licence
 
