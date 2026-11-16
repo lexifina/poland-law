@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1502",
+ "source_sha256": "5f9f3ed9e1d3ec288a5f3838913762b6aa63677a1934dd37441c7d6fd9b4df9a",
+ "in_force": "2026-11-16",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1502",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1502/text/O/D20261502.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1502/text/I/D20261502.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1502/text/T/D20261502L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1502",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1502,
+  "address": "WDU20260001502",
+  "displayAddress": "Dz.U. 2026 poz. 1502",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach biobójczych",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-11-06",
+  "promulgation": "2026-11-16",
+  "changeDate": "2026-11-17T11:48:24",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "produkty biobójcze"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2015/1926"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261502.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261502.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261502L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
