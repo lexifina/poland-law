@@ -1,0 +1,72 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1439",
+ "source_sha256": "e4f6e9c952a4de4ce876e424f189ef24d2ac8746602c9c7cbbc14074dfa1013d",
+ "in_force": "2026-11-17",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1439",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1439/text/O/D20261439.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1439/text/I/D20261439.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1439/text/T/D20261439L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1439",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1439,
+  "address": "WDU20260001439",
+  "displayAddress": "Dz.U. 2026 poz. 1439",
+  "title": "Ustawa z dnia 18 września 2026 r. o ratyfikacji Międzynarodowej konwencji z Hongkongu o bezpiecznym i ekologicznie racjonalnym recyklingu statków, sporządzonej w Hongkongu dnia 15 maja 2009 r.",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-09-18",
+  "promulgation": "2026-11-02",
+  "entryIntoForce": "2026-11-17",
+  "changeDate": "2026-11-03T13:43:33",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "recykling",
+   "umowy międzynarodowe",
+   "ratyfikacja",
+   "statki morskie"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2738",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2738",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2738",
+    "number": "2738",
+    "term": 10
+   }
+  ],
+  "references": {},
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261439.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261439.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261439L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
