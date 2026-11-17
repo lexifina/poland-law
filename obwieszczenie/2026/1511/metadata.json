@@ -1,0 +1,80 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1511",
+ "source_sha256": "a1660d6ff030ca2637fea3f5799d5f1a3d3f52402e99cf8094281722ae2283b1",
+ "in_force": "2026-11-17",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1511",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1511/text/O/D20261511.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1511/text/I/D20261511.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1511/text/T/D20261511L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1511",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1511,
+  "address": "WDU20260001511",
+  "displayAddress": "Dz.U. 2026 poz. 1511",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-11-06",
+  "promulgation": "2026-11-17",
+  "changeDate": "2026-11-18T10:28:13",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "instytuty naukowo-badawcze"
+  ],
+  "keywordsNames": [
+   "Państwowy Instytut Medyczny",
+   "Ministerstwo Spraw Wewnętrznych i Administracji"
+  ],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/2022/2731"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261511.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261511.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261511L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
