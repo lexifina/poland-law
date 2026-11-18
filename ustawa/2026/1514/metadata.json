@@ -1,0 +1,78 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1514",
+ "source_sha256": "8c3999de98201780f04f8d710c4dd148fe4b743e83c4780fc04de80afc9a3185",
+ "in_force": "2026-11-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1514",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1514/text/O/D20261514.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1514/text/I/D20261514.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1514/text/T/D20261514L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1514",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1514,
+  "address": "WDU20260001514",
+  "displayAddress": "Dz.U. 2026 poz. 1514",
+  "title": "Ustawa z dnia 22 października 2026 r. o zmianie ustawy o Centralnym Porcie Komunikacyjnym",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-22",
+  "promulgation": "2026-11-17",
+  "entryIntoForce": "2026-11-18",
+  "changeDate": "2026-11-20T10:28:33",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "porty lotnicze"
+  ],
+  "keywordsNames": [
+   "Centralny Port Komunikacyjny"
+  ],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3186",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/3186",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/3186",
+    "number": "3186",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2018/1089",
+     "date": "2026-11-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261514.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261514.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261514L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
