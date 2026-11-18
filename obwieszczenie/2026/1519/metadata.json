@@ -1,0 +1,77 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1519",
+ "source_sha256": "57c02804623e62d57f5b5d4d4eecc32ebbe86f4259d49c5560bc52eba9769bb8",
+ "in_force": "2026-11-18",
+ "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
+ "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1519",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1519/text/O/D20261519.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1519/text/I/D20261519.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1519/text/T/D20261519L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1519",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1519,
+  "address": "WDU20260001519",
+  "displayAddress": "Dz.U. 2026 poz. 1519",
+  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 listopada 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o narodowym zasobie archiwalnym i archiwach",
+  "type": "Obwieszczenie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-11-03",
+  "promulgation": "2026-11-18",
+  "changeDate": "2026-11-23T09:03:22",
+  "releasedBy": [
+   "MARSZAŁEK SEJMU"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "archiwa państwowe"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [],
+  "references": {
+   "Podstawa prawna": [
+    {
+     "id": "DU/2000/718"
+    }
+   ],
+   "Podstawa prawna z art.": [
+    {
+     "id": "DU/2000/718",
+     "art": "art. 16 ust. 1"
+    }
+   ],
+   "Tekst jednolity dla aktu": [
+    {
+     "id": "DU/1983/173"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261519.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261519.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261519L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
