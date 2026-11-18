@@ -1,0 +1,84 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1446",
+ "source_sha256": "387754434ec5d9fa5446362309b223b3fba18db8063a53e6d129d17960bb9cfc",
+ "in_force": "2026-11-18",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1446",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1446/text/O/D20261446.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1446/text/I/D20261446.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1446/text/T/D20261446L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1446",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1446,
+  "address": "WDU20260001446",
+  "displayAddress": "Dz.U. 2026 poz. 1446",
+  "title": "Ustawa z dnia 8 października 2026 r. o zmianie ustawy o podatku od towarów i usług",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-08",
+  "promulgation": "2026-11-03",
+  "entryIntoForce": "2026-11-18",
+  "changeDate": "2026-11-04T11:03:36",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "podatki",
+   "podatek od towarów i usług"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2838",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/2838",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/2838",
+    "number": "2838",
+    "term": 10
+   }
+  ],
+  "comments": "art. 1 pkt 5, 7 i 8 oraz art. 4 i art. 5 wchodzą w życie z dniem 4 listopada 2026 r.",
+  "references": {
+   "Akty uchylone": [
+    {
+     "id": "DU/2020/907",
+     "date": "2026-11-18"
+    }
+   ],
+   "Akty zmienione": [
+    {
+     "id": "DU/2004/535",
+     "date": "2026-11-18"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261446.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261446.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261446L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
