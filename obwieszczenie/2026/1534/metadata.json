@@ -2,12 +2,14 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2026/1534",
- "source_sha256": "d1fc9a3b4865b54acd36384f297bc4c6b5b1cb545c3026c16e835699d3da8d2a",
+ "source_sha256": "79d6de4b3dd5634b2222c5d3845f3638cbb7bd1fb3aaec24d63efda9f13fe868",
  "in_force": "2026-11-20",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
  "links": {
-  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1534"
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1534",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1534/text/O/D20261534.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1534/text/I/D20261534.pdf"
  },
  "metadata": {
   "ELI": "DU/2026/1534",
@@ -23,7 +25,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-11-12",
   "promulgation": "2026-11-20",
-  "changeDate": "2026-11-23T09:49:17",
+  "changeDate": "2026-11-23T10:39:22",
   "releasedBy": [
    "MIN. EDUKACJI"
   ],
@@ -57,7 +59,16 @@
    ]
   },
   "textHTML": false,
-  "textPDF": false,
-  "texts": []
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261534.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261534.pdf",
+    "type": "I"
+   }
+  ]
  }
 }
