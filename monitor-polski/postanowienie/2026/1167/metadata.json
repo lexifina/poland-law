@@ -2,12 +2,14 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/MP/2026/1167",
- "source_sha256": "2a0b5ef9e123cfb522e33e1c9d67a6e61892aac9f3894184c8e550bc813fb53f",
+ "source_sha256": "0c196b116475e9901a9396aeaad0b43da806d59df3362d6b2af1bd21d8fe883d",
  "in_force": "2026-11-20",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
  "links": {
-  "metadata": "https://eli.gov.pl/api/acts/MP/2026/1167"
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/1167",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/1167/text/O/M20261167.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/1167/text/I/M20261167.pdf"
  },
  "metadata": {
   "ELI": "MP/2026/1167",
@@ -23,7 +25,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-11-20",
   "promulgation": "2026-11-20",
-  "changeDate": "2026-11-23T09:51:59",
+  "changeDate": "2026-11-23T10:39:43",
   "releasedBy": [
    "PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ"
   ],
@@ -53,7 +55,16 @@
    ]
   },
   "textHTML": false,
-  "textPDF": false,
-  "texts": []
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20261167.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20261167.pdf",
+    "type": "I"
+   }
+  ]
  }
 }
