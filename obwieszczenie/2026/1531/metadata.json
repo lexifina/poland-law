@@ -2,12 +2,14 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2026/1531",
- "source_sha256": "e66fa7602590bc69c32bb0f9bda1771988f39c75f4556d3d61628246a3c85189",
+ "source_sha256": "51bcbad1e02c429ccb74707d9b40bbcdd73e15c968c3aca9e192b4bbfa23ce0f",
  "in_force": "2026-11-20",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
  "links": {
-  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1531"
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1531",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1531/text/O/D20261531.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1531/text/I/D20261531.pdf"
  },
  "metadata": {
   "ELI": "DU/2026/1531",
@@ -23,7 +25,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-11-18",
   "promulgation": "2026-11-20",
-  "changeDate": "2026-11-23T09:26:39",
+  "changeDate": "2026-11-23T10:39:21",
   "releasedBy": [
    "PREZ. RADY MINISTRÓW"
   ],
@@ -57,7 +59,16 @@
    ]
   },
   "textHTML": false,
-  "textPDF": false,
-  "texts": []
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261531.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261531.pdf",
+    "type": "I"
+   }
+  ]
  }
 }
