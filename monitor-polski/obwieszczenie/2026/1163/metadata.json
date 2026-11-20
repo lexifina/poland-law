@@ -2,12 +2,14 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/MP/2026/1163",
- "source_sha256": "65228bccc1b128c4a017096c9dbcfb5b80aa88a5ce4252feff37761d3f5c0ab6",
+ "source_sha256": "5cf0eb54b8cdcdc9e075672f09c9429036aa68eac7aebb9878dec1da3d2a9718",
  "in_force": "2026-11-20",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
  "links": {
-  "metadata": "https://eli.gov.pl/api/acts/MP/2026/1163"
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/1163",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/1163/text/O/M20261163.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/1163/text/I/M20261163.pdf"
  },
  "metadata": {
   "ELI": "MP/2026/1163",
@@ -23,7 +25,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-11-16",
   "promulgation": "2026-11-20",
-  "changeDate": "2026-11-23T09:36:04",
+  "changeDate": "2026-11-23T10:39:43",
   "releasedBy": [
    "MIN. FINANSÓW I GOSPODARKI"
   ],
@@ -51,7 +53,16 @@
    ]
   },
   "textHTML": false,
-  "textPDF": false,
-  "texts": []
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20261163.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20261163.pdf",
+    "type": "I"
+   }
+  ]
  }
 }
