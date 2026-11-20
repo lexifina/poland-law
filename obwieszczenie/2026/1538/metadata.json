@@ -2,12 +2,14 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/DU/2026/1538",
- "source_sha256": "e88620117cc8c5505fe51b0234f8d18de64c2ebd47fdbb6d24541b1f38b72608",
+ "source_sha256": "02ae8b3f1afd3a6a45c4f378ccff8b62418ece7ee9d793546c444cb779ed4530",
  "in_force": "2026-11-20",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: unified-text announcement (its text is the consolidated act); the official text is linked (links), not transcribed here yet",
  "links": {
-  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1538"
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1538",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1538/text/O/D20261538.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1538/text/I/D20261538.pdf"
  },
  "metadata": {
   "ELI": "DU/2026/1538",
@@ -23,7 +25,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-11-05",
   "promulgation": "2026-11-20",
-  "changeDate": "2026-11-23T09:22:16",
+  "changeDate": "2026-11-23T10:39:22",
   "releasedBy": [
    "MIN. FINANSÓW I GOSPODARKI"
   ],
@@ -57,7 +59,16 @@
    ]
   },
   "textHTML": false,
-  "textPDF": false,
-  "texts": []
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261538.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261538.pdf",
+    "type": "I"
+   }
+  ]
  }
 }
