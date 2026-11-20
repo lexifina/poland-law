@@ -2,12 +2,14 @@
  "record_type": "act-metadata",
  "jurisdiction": "PL",
  "source": "https://eli.gov.pl/api/acts/MP/2026/1162",
- "source_sha256": "5cb117be92df12286cb0c6623446c9def3f118034602f9eff05f7a56ba70c463",
+ "source_sha256": "4ce64029b8d0e701ca50ee5c70566df56c085596e71e46a71a5f097a97d0f5cd",
  "in_force": "2026-11-20",
  "in_force_basis": "promulgation day of the official ELI metadata (the API gives no entry-into-force day for this act)",
  "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
  "links": {
-  "metadata": "https://eli.gov.pl/api/acts/MP/2026/1162"
+  "metadata": "https://eli.gov.pl/api/acts/MP/2026/1162",
+  "pdf-O": "https://eli.gov.pl/api/acts/MP/2026/1162/text/O/M20261162.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/MP/2026/1162/text/I/M20261162.pdf"
  },
  "metadata": {
   "ELI": "MP/2026/1162",
@@ -23,7 +25,7 @@
   "inForce": "IN_FORCE",
   "announcementDate": "2026-11-18",
   "promulgation": "2026-11-20",
-  "changeDate": "2026-11-23T09:33:30",
+  "changeDate": "2026-11-23T10:39:43",
   "releasedBy": [
    "MIN. SPRAWIEDLIWOŚCI"
   ],
@@ -52,7 +54,16 @@
    ]
   },
   "textHTML": false,
-  "textPDF": false,
-  "texts": []
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "M20261162.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "M20261162.pdf",
+    "type": "I"
+   }
+  ]
  }
 }
