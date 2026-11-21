@@ -1,0 +1,86 @@
+{
+ "record_type": "act-metadata",
+ "jurisdiction": "PL",
+ "source": "https://eli.gov.pl/api/acts/DU/2026/1466",
+ "source_sha256": "855e620fa0455657430d4e6e0fd2ed3e644dc58a4f510b2d57c99215c0c4742e",
+ "in_force": "2026-11-21",
+ "in_force_basis": "entryIntoForce of the official ELI metadata (dzień wejścia w życie)",
+ "text_status": "metadata only: text only as PDF; the official text is linked (links), not transcribed here yet",
+ "links": {
+  "metadata": "https://eli.gov.pl/api/acts/DU/2026/1466",
+  "pdf-O": "https://eli.gov.pl/api/acts/DU/2026/1466/text/O/D20261466.pdf",
+  "pdf-I": "https://eli.gov.pl/api/acts/DU/2026/1466/text/I/D20261466.pdf",
+  "pdf-T": "https://eli.gov.pl/api/acts/DU/2026/1466/text/T/D20261466L.pdf"
+ },
+ "metadata": {
+  "ELI": "DU/2026/1466",
+  "publisher": "DU",
+  "year": 2026,
+  "volume": 0,
+  "pos": 1466,
+  "address": "WDU20260001466",
+  "displayAddress": "Dz.U. 2026 poz. 1466",
+  "title": "Ustawa z dnia 8 października 2026 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "announcementDate": "2026-10-08",
+  "promulgation": "2026-11-06",
+  "entryIntoForce": "2026-11-21",
+  "changeDate": "2026-11-13T11:29:25",
+  "releasedBy": [
+   "SEJM"
+  ],
+  "authorizedBody": [],
+  "obligated": [],
+  "previousTitle": [],
+  "keywords": [
+   "kodeks karny",
+   "kierowcy",
+   "prawo o ruchu drogowym"
+  ],
+  "keywordsNames": [],
+  "directives": [],
+  "prints": [
+   {
+    "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3101",
+    "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term10/prints/3101",
+    "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term10/processes/3101",
+    "number": "3101",
+    "term": 10
+   }
+  ],
+  "references": {
+   "Akty zmienione": [
+    {
+     "id": "DU/2011/151",
+     "date": "2026-11-21"
+    },
+    {
+     "id": "DU/1997/602",
+     "date": "2026-11-21"
+    },
+    {
+     "id": "DU/1997/553",
+     "date": "2026-11-21"
+    }
+   ]
+  },
+  "textHTML": false,
+  "textPDF": true,
+  "texts": [
+   {
+    "fileName": "D20261466.pdf",
+    "type": "O"
+   },
+   {
+    "fileName": "D20261466.pdf",
+    "type": "I"
+   },
+   {
+    "fileName": "D20261466L.pdf",
+    "type": "T"
+   }
+  ]
+ }
+}
