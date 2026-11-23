@@ -1,0 +1,53 @@
+{
+ "generated": "2026-11-23T00:44:26Z",
+ "latest": {
+  "eli-sejm|poland/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": 164707,
+    "gone": 16,
+    "held": 164856,
+    "newest_at_source": "MP/2026/1155",
+    "newest_in_repo": "MP/2026/1140",
+    "out_of_scope": 149,
+    "pending": 133,
+    "repo": 164840,
+    "source_in_scope": 164995
+   },
+   "check_id": "pl-eli-sejm-20261123T004018Z",
+   "commits": null,
+   "corpus": "poland/national/acts",
+   "error": null,
+   "finished": "2026-11-23T00:44:24Z",
+   "flags": [
+    {
+     "detail": "42 acts new or changed in the register over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 155,
+   "note": "149 acts in the register were announced before this repository's last commit for their journal and are not held here: outside its selection (see README), not counted as gaps; first check: the register's entries were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 218,
+   "runner": "lawwatch poland (4866215d43)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20",
+   "source": "eli-sejm",
+   "started": "2026-11-23T00:40:18Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}

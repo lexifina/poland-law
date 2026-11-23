@@ -1,0 +1,30 @@
+{
+ "sources": [
+  {
+   "id": "eli-sejm",
+   "kind": "legislation",
+   "name": {
+    "en": "Sejm ELI register (Dziennik Ustaw, Monitor Polski)",
+    "pl": "Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski)"
+   },
+   "url": "https://api.sejm.gov.pl/eli",
+   "reads": {
+    "en": "the list of every act of each journal and year, with its status and the day its entry last changed",
+    "pl": "wykaz wszystkich aktów każdego dziennika i rocznika, z ich statusem i datą ostatniej zmiany wpisu"
+   },
+   "folders": [
+    "ustawa/",
+    "rozporzadzenie/",
+    "konstytucja/",
+    "monitor-polski/",
+    "…"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "poland/national/acts"
+   ],
+   "interval": 1.0
+  }
+ ]
+}

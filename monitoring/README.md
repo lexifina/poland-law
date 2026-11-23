@@ -1,0 +1,32 @@
+<!-- lawwatch: written from data/checks by the check trail; edit the records, not this page -->
+
+# Monitorowanie: co jest czytane i co z tego wynika
+
+[English](README.en.md)
+
+Jak global-law monitoruje wszystkie państwa: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Ta strona robi to samo tylko dla jednego państwa (Polska): każde odczytanie oficjalnego źródła, kiedy nastąpiło i co z niego wynikło (akty dodane, zmienione i uchylone). Postać do odczytu maszynowego: [data/checks/](../data/checks/) (JSON Lines, schemat `lexifina-check/1`), w `git log` jako commity `Kind: check`, a miesiąc po miesiącu w [checks/](checks/).
+
+**Ostatnie sprawdzenie:** 2026-11-23 00:44 UTC, Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski): odczytano 218 adresów; dodane 0, zmienione 0, uchylone 0; bez zmian; nieopublikowane 155, w tym bez podanej przyczyny 0. Oznaczenia: `publish-lag`.
+
+## Źródła
+
+| Źródło | Foldery | Jak często | Ostatnie udane sprawdzenie | Ostatni wynik | Stan |
+| --- | --- | --- | --- | --- | --- |
+| [Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski)](https://api.sejm.gov.pl/eli) | `ustawa/`, `rozporzadzenie/`, `konstytucja/`, `monitor-polski/`, `…` | codziennie | 2026-11-23 00:44 UTC | bez zmian | śledzone |
+
+## Ostatnie 30 dni
+
+| Początek (UTC) | Źródło | Odczytano | Dodane | Zmienione | Uchylone | Nieopublikowane (bez przyczyny) | Wynik | Commity |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 00:40](checks/2026-11.md#pl-eli-sejm-20261123t004018z) | eli-sejm | 218 | 0 | 0 | 0 | 155 (0) | bez zmian `publish-lag` | — |
+
+## Sprawdź sam
+
+```
+python tools/checktrail.py                      # ostatnie sprawdzenie każdego źródła
+python tools/checktrail.py --day 2026-11-23     # wszystkie sprawdzenia jednego dnia
+python tools/checktrail.py --act <id>           # kiedy akt został zauważony i opublikowany
+git log --grep='^Kind: check' --format='%ci %s'  # sprawdzenia w historii
+```
+
+Moc prawną ma tylko oficjalna publikacja (Dziennik Ustaw, Monitor Polski); teksty w tym repozytorium są kopiami do czytania i wyszukiwania.
