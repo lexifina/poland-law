@@ -1,52 +1,173 @@
 {
- "generated": "2026-11-23T00:44:26Z",
+ "generated": "2026-11-23T12:45:07Z",
  "latest": {
   "eli-sejm|poland/national/acts": {
-   "attempt": 1,
-   "audit": null,
-   "census": {
-    "current": 164707,
-    "gone": 16,
-    "held": 164856,
-    "newest_at_source": "MP/2026/1155",
-    "newest_in_repo": "MP/2026/1140",
-    "out_of_scope": 149,
-    "pending": 133,
-    "repo": 164840,
-    "source_in_scope": 164995
+   "attempt": 2,
+   "audit": {
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "read again from the Sejm's own host of the API (api.sejm.gov.pl; the check reads eli.gov.pl): a text against that host's HTML of the same document with the builder's word check (check_repo.repo_words == html_words), a record field for field",
+    "rows": [
+     {
+      "id": "DU/2012/1467",
+      "published": false,
+      "read": "https://api.sejm.gov.pl/eli/acts/DU/2012/1467/text.html",
+      "verdict": "match_new"
+     },
+     {
+      "id": "MP/1962/350",
+      "published": false,
+      "read": "https://api.sejm.gov.pl/eli/acts/MP/1962/350",
+      "verdict": "match_new"
+     },
+     {
+      "id": "MP/2006/393",
+      "published": false,
+      "read": "https://api.sejm.gov.pl/eli/acts/MP/2006/393",
+      "verdict": "match_new"
+     },
+     {
+      "id": "DU/1972/265",
+      "published": false,
+      "read": "https://api.sejm.gov.pl/eli/acts/DU/1972/265",
+      "verdict": "match_new"
+     },
+     {
+      "id": "DU/2016/809",
+      "published": false,
+      "read": "https://api.sejm.gov.pl/eli/acts/DU/2021/1541/text.html",
+      "verdict": "match_new"
+     }
+    ],
+    "sampled": 5,
+    "unread": 0
    },
-   "check_id": "pl-eli-sejm-20261123T004018Z",
+   "census": {
+    "checked": 148854,
+    "current": 164906,
+    "gone": 0,
+    "held": 164914,
+    "newest_at_source": "MP/2026/1168",
+    "newest_in_repo": "MP/2026/1168",
+    "pending": 8,
+    "repo": 164908,
+    "source_in_scope": 165011
+   },
+   "check_id": "pl-eli-sejm-20261123T114843Z",
    "commits": null,
    "corpus": "poland/national/acts",
    "error": null,
-   "finished": "2026-11-23T00:44:24Z",
+   "finished": "2026-11-23T12:45:03Z",
    "flags": [
     {
-     "detail": "42 acts new or changed in the register over 7 days ago are not here yet",
-     "flag": "publish-lag"
+     "detail": "9 of 148854 texts differ from the source",
+     "flag": "verify-differ"
     }
    ],
-   "gap": 155,
-   "note": "149 acts in the register were announced before this repository's last commit for their journal and are not held here: outside its selection (see README), not counted as gaps; first check: the register's entries were recorded as the baseline for the next check",
-   "outcome": "no-change",
+   "gap": 111,
+   "note": "the repository holds every item of the Dziennik Ustaw and the Monitor Polski (its text, or the official record where the text is not transcribed), so every listed item not held is pending-publish; 16 held items have a volume-qualified address the lists do not use (read one by one: 16 answer), 10 of them listed by plain position",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 218,
-   "runner": "lawwatch poland (4866215d43)",
+   "requests": 3184,
+   "runner": "lawwatch poland (be56984579)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
-    "changed": [],
-    "removed": []
+    "added": [
+     "DU/2026/1531",
+     "DU/2026/1532",
+     "DU/2026/1533",
+     "DU/2026/1534",
+     "DU/2026/1535",
+     "DU/2026/1536",
+     "DU/2026/1537",
+     "DU/2026/1538",
+     "DU/2026/1539",
+     "MP/2026/1162",
+     "MP/2026/1163",
+     "MP/2026/1164",
+     "MP/2026/1165",
+     "MP/2026/1166",
+     "MP/2026/1167",
+     "MP/2026/1168"
+    ],
+    "changed": [
+     "DU/1983/173",
+     "DU/1991/350",
+     "DU/1997/44",
+     "DU/1997/483",
+     "DU/1998/1118",
+     "DU/2000/718",
+     "DU/2001/1070",
+     "DU/2004/2135",
+     "DU/2005/1249",
+     "DU/2011/1254",
+     "DU/2013/1505",
+     "DU/2015/1495",
+     "DU/2017/671",
+     "DU/2017/1089",
+     "DU/2018/188",
+     "DU/2018/317",
+     "DU/2019/1208",
+     "DU/2021/1120",
+     "DU/2021/2334",
+     "DU/2023/916",
+     "DU/2025/627",
+     "DU/2025/1120",
+     "DU/2025/1856",
+     "DU/2026/29",
+     "DU/2026/425",
+     "DU/2026/1517",
+     "DU/2026/1518",
+     "DU/2026/1519",
+     "DU/2026/1522"
+    ],
+    "removed": [
+     "DU/2020/2138",
+     "DU/2025/1749"
+    ]
    },
-   "snapshot": "2026-11-20",
+   "snapshot": "2026-11-23",
    "source": "eli-sejm",
-   "started": "2026-11-23T00:40:18Z",
+   "started": "2026-11-23T11:48:43Z",
    "unexplained": 0,
-   "verify": null
+   "update": {
+    "added": 0,
+    "awaiting-text": 8,
+    "changed": 0,
+    "confirmed": 62,
+    "failed": 0,
+    "held": 7,
+    "in-force-later": 96
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [
+     "DU/2021/1668: metadata.json is not the register's entry (changed 2026-11-03)",
+     "DU/2023/2326: metadata.json is not the register's entry (changed 2026-10-21)",
+     "DU/2024/1251: metadata.json is not the register's entry (changed 2026-11-06)",
+     "DU/2026/1342: metadata.json is not the register's entry (changed 2026-11-06)",
+     "DU/2025/390: metadata.json is not the register's entry (changed 2026-11-16)",
+     "DU/2001/18: metadata.json is not the register's entry (changed 2026-11-16)",
+     "DU/2003/1176: metadata.json is not the register's entry (changed 2026-11-16)",
+     "DU/2011/981: metadata.json is not the register's entry (changed 2026-11-16)",
+     "DU/2024/1907: metadata.json is not the register's entry (changed 2026-11-16)"
+    ],
+    "metadata_checked": 146176,
+    "metadata_differ": 9,
+    "method": "every metadata.json against the register's entry read by this check (15 fields of the year lists; the record itself for a volume-qualified address); a seventh of the transcribed texts a day against the official HTML of the document each was read from, word for word, with the builder's own check (check_repo.repo_words == html_words)",
+    "ok": false,
+    "texts_checked": 2678,
+    "texts_differ": 0,
+    "texts_held": 18752,
+    "texts_skipped": 1,
+    "versions_checked": 148854,
+    "versions_differ": 9
+   }
   }
  },
  "schema": "lexifina-check/1"
