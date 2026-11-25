@@ -1,12 +1,12 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-24",
+ "as_of": "2026-11-25",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": "2026-11-24",
+ "checked_against_official_source": "2026-11-25",
  "totals": {
-  "acts": 164921,
+  "acts": 164929,
   "by_status": {
-   "current": 148854,
+   "current": 148862,
    "pending-change": 8,
    "stale": 0,
    "unverified": 16059,
@@ -18,8 +18,8 @@
    "source": "eli-sejm",
    "name": "Sejm ELI register (Dziennik Ustaw, Monitor Polski)",
    "state": "available",
-   "last_successful_check": "2026-11-24",
-   "last_successful_contact": "2026-11-24"
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   }
  ]
 }

@@ -6,18 +6,19 @@
 
 Jak global-law monitoruje wszystkie państwa: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Ta strona robi to samo tylko dla jednego państwa (Polska): każde odczytanie oficjalnego źródła, kiedy nastąpiło i co z niego wynikło (akty dodane, zmienione i uchylone). Postać do odczytu maszynowego: [data/checks/](../data/checks/) (JSON Lines, schemat `lexifina-check/1`), w `git log` jako commity `Kind: check`, a miesiąc po miesiącu w [checks/](checks/).
 
-**Ostatnie sprawdzenie:** 2026-11-24 06:22 UTC, Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski): odczytano 2962 adresów; dodane 6, zmienione 25, uchylone 0; znaleziono zmiany; nieopublikowane 110, w tym bez podanej przyczyny 0. Oznaczenia: `verify-differ`.
+**Ostatnie sprawdzenie:** 2026-11-25 06:10 UTC, Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski): odczytano 3368 adresów; dodane 8, zmienione 226, uchylone 1; znaleziono zmiany; nieopublikowane 110, w tym bez podanej przyczyny 0. Oznaczenia: `verify-differ`.
 
 ## Źródła
 
 | Źródło | Foldery | Jak często | Ostatnie udane sprawdzenie | Ostatni wynik | Stan |
 | --- | --- | --- | --- | --- | --- |
-| [Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski)](https://api.sejm.gov.pl/eli) | `ustawa/`, `rozporzadzenie/`, `konstytucja/`, `monitor-polski/`, `…` | codziennie | 2026-11-24 06:22 UTC | znaleziono zmiany | śledzone |
+| [Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski)](https://api.sejm.gov.pl/eli) | `ustawa/`, `rozporzadzenie/`, `konstytucja/`, `monitor-polski/`, `…` | codziennie | 2026-11-25 06:10 UTC | znaleziono zmiany | śledzone |
 
 ## Ostatnie 30 dni
 
 | Początek (UTC) | Źródło | Odczytano | Dodane | Zmienione | Uchylone | Nieopublikowane (bez przyczyny) | Wynik | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 05:10](checks/2026-11.md#pl-eli-sejm-20261125t051022z) | eli-sejm | 3368 | 8 | 226 | 1 | 110 (0) | znaleziono zmiany `verify-differ` | [119](https://github.com/lexifina/poland-law/compare/db9494ec6e7c...80afa9f09d45) |
 | [2026-11-24 05:27](checks/2026-11.md#pl-eli-sejm-20261124t052733z) | eli-sejm | 2962 | 6 | 25 | 0 | 110 (0) | znaleziono zmiany `verify-differ` | [20](https://github.com/lexifina/poland-law/compare/e0d48a2de46e...00ffa445ac51) |
 | [2026-11-23 11:48](checks/2026-11.md#pl-eli-sejm-20261123t114843z) | eli-sejm | 3184 | 16 | 29 | 2 | 111 (0) | znaleziono zmiany `verify-differ` | — |
 | [2026-11-23 11:21](checks/2026-11.md#pl-eli-sejm-20261123t112107z) | eli-sejm | 0 | 58 | 85 | 0 | 0 (0) | znaleziono zmiany | [143](https://github.com/lexifina/poland-law/compare/ed3c0d0c7674...31edb0d3fcd7) |
