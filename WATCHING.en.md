@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Sejm ELI register (Dziennik Ustaw, Monitor Polski)](https://api.sejm.gov.pl/eli) | the list of every act of each journal and year, with its status and the day its entry last changed; the record and text of each new or changed act; a seventh of the held texts each day | `ustawa/`, `rozporzadzenie/`, `konstytucja/`, `monitor-polski/`, `…` | daily | 2026-11-25 05:10 UTC | watched |
+| [Sejm ELI register (Dziennik Ustaw, Monitor Polski)](https://api.sejm.gov.pl/eli) | the list of every act of each journal and year, with its status and the day its entry last changed; the record and text of each new or changed act; a seventh of the held texts each day | `ustawa/`, `rozporzadzenie/`, `konstytucja/`, `monitor-polski/`, `…` | daily | 2026-11-26 05:11 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
