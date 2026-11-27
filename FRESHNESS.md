@@ -8,9 +8,9 @@ Jak global-law mierzy aktualność wszystkich państw: [global-law FRESHNESS.md]
 
 ### Rejestr ELI Sejmu (Dziennik Ustaw, Monitor Polski) · `poland/national/acts`
 
-- Oficjalne źródło ostatnio odczytane, a każdy akt przechowywany tutaj z nim porównany: **2026-11-26 06:05 UTC**.
-- Aktów tutaj: 164 936; aktualnych względem źródła: 164 928; zmienionych w źródle od wersji tutaj: 8; nieobecnych już w źródle: 0.
-- Compared with the source in this read: 148 877 of the 164 936 acts held here; the others were not compared in this read (see the check's note).
-- Nieopublikowane: 113 (źródło nie opublikowało jeszcze tekstu: 8, wstrzymane przez kontrolę: 7, wchodzi w życie później: 98); bez podanej przyczyny: 0.
+- Oficjalne źródło ostatnio odczytane, a każdy akt przechowywany tutaj z nim porównany: **2026-11-27 06:05 UTC**.
+- Aktów tutaj: 164 944; aktualnych względem źródła: 164 935; zmienionych w źródle od wersji tutaj: 9; nieobecnych już w źródle: 0.
+- Compared with the source in this read: 148 885 of the 164 944 acts held here; the others were not compared in this read (see the check's note).
+- Nieopublikowane: 117 (źródło nie opublikowało jeszcze tekstu: 9, wstrzymane przez kontrolę: 7, wchodzi w życie później: 101); bez podanej przyczyny: 0.
 
 Szczegóły: [monitoring/](monitoring/README.md). Dla programów: [data/checks/latest.json](data/checks/latest.json).
